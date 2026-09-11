@@ -126,13 +126,31 @@ relaciones:
   - norma_id: norm-can-res-boc-2024-226-44
   - norma_id: norm-can-d-212-1991
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-045-734.pdf
+fundamentos_derecho:
+- norma_id: norm-can-d-212-1991
+- norma_id: norm-can-d-84-2024
+- norma_id: norm-can-l-6-2014
+- norma_id: norm-can-lo-1-2018
+- norma_id: norm-can-res-033
+- norma_id: norm-can-res-034
+- norma_id: norm-can-res-036
+- norma_id: norm-can-res-037
+- norma_id: norm-can-res-038
+- norma_id: norm-can-res-039
+- norma_id: norm-can-res-032
+- norma_id: norm-can-res-boc-2024-226-44
+- norma_id: norm-can-res-boc-2024-230-25
+- norma_id: norm-can-res-134
+- norma_id: norm-es-l-39-2015
+- norma_id: norm-es-lo-3-2022
+- norma_id: norm-es-rd-659-2023
+- norma_id: norm-es-2025-2039
 ---
-
-# Resolución de 25 de febrero de 2026, por la que se establece la distribución horaria y estructura modular de los Grados C (Certificados Profesionales) y sus correspondientes Grados B (Certificados de Competencia), de niveles 2 y 3, de las familias profesionales de Administración y Gestión; Agraria; Informática y Comunicaciones; y Madera, Mueble y Corcho, en el ámbito de la Comunidad Autónoma de Canarias.
+# [Resolución de 25 de febrero de 2026](./R25_2_2026_establece_distribucion_horaria_estructura_modular_grados.md), por la que se establece la distribución horaria y estructura modular de los Grados C (Certificados Profesionales) y sus correspondientes Grados B (Certificados de Competencia), de niveles 2 y 3, de las familias profesionales de Administración y Gestión; Agraria; Informática y Comunicaciones; y Madera, Mueble y Corcho, en el ámbito de la Comunidad Autónoma de Canarias.
 
 ## Preámbulo
 
-Consejería de Educación, Formación Profesional, Actividad Física y Deportes 734 Viceconsejería de Formación Profesional y Cualificaciones Profesionales.- Resolución de 25 de febrero de 2026, por la que se establece la distribución horaria y estructura modular de los Grados C (Certificados Profesionales) y sus correspondientes Grados B (Certificados de Competencia), de niveles 2 y 3, de las familias profesionales de Administración y Gestión; Agraria; Informática y Comunicaciones; y Madera, Mueble y Corcho, en el ámbito de la Comunidad Autónoma de Canarias. La [Ley Orgánica 3/2022](../08_personal_docente/R30_6_2023_ordenacion_gestion_determinadas_listas_empleo_tras.md), de 31 de marzo, de ordenación e integración de la Formación Profesional, establece en su artículo 5.1 y en los apartados a) y b) de su artículo 5.3 que el Sistema de Formación Profesional se configura como un conjunto articulado de actuaciones orientadas a la identificación de las competencias profesionales demandadas por el mercado laboral, a la garantía de una oferta formativa adecuada, a la adquisición de la correspondiente formación o, en su caso, al reconocimiento de dichas competencias, así como a la prestación de un servicio de orientación y acompañamiento profesional que permita el diseño de itinerarios formativos individuales y colectivos. Dicho sistema se organiza conforme a un modelo basado en itinerarios formativos que facilitan la progresión en la formación, estructurado en una doble escala: cinco Grados ascendentes (A, B, C, D y
+Consejería de Educación, Formación Profesional, Actividad Física y Deportes 734 Viceconsejería de Formación Profesional y Cualificaciones Profesionales.- [Resolución de 25 de febrero de 2026](./R25_2_2026_establece_distribucion_horaria_estructura_modular_grados.md), por la que se establece la distribución horaria y estructura modular de los Grados C (Certificados Profesionales) y sus correspondientes Grados B (Certificados de Competencia), de niveles 2 y 3, de las familias profesionales de Administración y Gestión; Agraria; Informática y Comunicaciones; y Madera, Mueble y Corcho, en el ámbito de la Comunidad Autónoma de Canarias. La [Ley Orgánica 3/2022](../08_personal_docente/R30_6_2023_ordenacion_gestion_determinadas_listas_empleo_tras.md), de 31 de marzo, de ordenación e integración de la Formación Profesional, establece en su artículo 5.1 y en los apartados a) y b) de su artículo 5.3 que el Sistema de Formación Profesional se configura como un conjunto articulado de actuaciones orientadas a la identificación de las competencias profesionales demandadas por el mercado laboral, a la garantía de una oferta formativa adecuada, a la adquisición de la correspondiente formación o, en su caso, al reconocimiento de dichas competencias, así como a la prestación de un servicio de orientación y acompañamiento profesional que permita el diseño de itinerarios formativos individuales y colectivos. Dicho sistema se organiza conforme a un modelo basado en itinerarios formativos que facilitan la progresión en la formación, estructurado en una doble escala: cinco Grados ascendentes (A, B, C, D y
 E) y tres niveles de competencia profesional (1, 2 y 3), de acuerdo con el Catálogo Nacional de Estándares de Competencias Profesionales. Por su parte, el [Real Decreto 659/2023](R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, por el que se desarrolla la ordenación del Sistema de Formación Profesional, regula en su artículo 4 la organización de las distintas ofertas formativas que integran dicho sistema, estableciendo el marco general para su implantación y desarrollo por las administraciones competentes. En este contexto normativo, y con el fin de garantizar una implantación homogénea, coherente y adaptada a las necesidades del tejido productivo y de los centros del Sistema de Formación Profesional de la Comunidad Autónoma de Canarias, resulta necesario concretar la distribución horaria y la estructura modular de los Grados C y de sus correspondientes Grados B, como paso previo al dictado de las instrucciones necesarias para su efectiva puesta en funcionamiento. A tal efecto y de conformidad con los siguientes ANTECEDENTES DE HECHO
 Primero.- El 4 de abril de 2025 se publicó el Real Decreto 207/2025, de 18 de marzo, por el que se regulan aspectos específicos de los Grados A, B y C de Formación Profesional para las familias profesionales de Administración y Gestión; Agraria; Informática y Comunicaciones; y Madera, Mueble y Corcho.
 Segundo.- El artículo 29.1 del citado Real Decreto dispone que las administraciones competentes deberán determinar la duración de los Grados A, B y C vinculados a Grados D de los que tuvieran desarrollo autonómico, estableciendo la misma duración horaria para

@@ -540,9 +540,19 @@ relaciones:
   - norma_id: norm-es-2021-20113
   - norma_id: norm-es-2010-12201
   - norma_id: norm-es-lo-1-2004
+fundamentos_derecho:
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-es-1984-17387
+- norma_id: norm-es-2000-544
+- norma_id: norm-es-1987-15278
+- norma_id: norm-es-2001-7022
+- norma_id: norm-es-lo-8-1985
+- norma_id: norm-es-2002-12018
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
+- norma_id: norm-es-lo-1-2004
 ---
-
-# Ley Orgánica 2/2006, de 3 de mayo, de Educación (Texto Consolidado con modificaciones de la LOMLOE 3/2020).
+# [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación (Texto Consolidado con modificaciones de la LOMLOE 3/2020).
 
 ## Preámbulo
 

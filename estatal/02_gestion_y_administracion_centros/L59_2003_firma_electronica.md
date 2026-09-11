@@ -90,8 +90,9 @@ relaciones:
   articulos:
   - norma_id: '27'
   - norma_id: norm-es-1999-23750
+fundamentos_derecho:
+- norma_id: norm-es-1999-23750
 ---
-
 # Ley 59/2003, de 19 de diciembre, de firma electrónica.
 
 ## Preámbulo

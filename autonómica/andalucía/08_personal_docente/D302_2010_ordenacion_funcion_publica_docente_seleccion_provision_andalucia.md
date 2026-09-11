@@ -1,6 +1,8 @@
 ---
 id: norm-and-d302-2010-ordenacion-funcion-publica-docente-seleccion-provision-andalucia
-titulo: Decreto 302/2010, de 1 de junio, por el que se ordena la función pública docente y se regula la selección del profesorado y la provisión de los puestos de trabajo docentes.
+titulo: Decreto 302/2010, de 1 de junio, por el que se ordena la función pública docente
+  y se regula la selección del profesorado y la provisión de los puestos de trabajo
+  docentes.
 jurisdiccion: Andalucía
 ambito: Autonómico
 organo_emisor: Dirección General de Profesorado y Gestión de Recursos Humanos
@@ -17,8 +19,17 @@ fuente_pdf_oficial: http://www.juntadeandalucia.es/boja/2010/108/d2.pdf
 clasificacion:
   categoria_canonica: 08_personal_docente
   subcategoria: Función pública docente
+fundamentos_derecho:
+- norma_id: norm-and-l17-2007
+- norma_id: norm-and-l9-2007-administracion-junta-andalucia-laja
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-2000-544
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
+- norma_id: norm-es-rd-276-2007
+- norma_id: norm-es-2007-5478
 ---
-
 # Decreto 302/2010, de 1 de junio, por el que se ordena la función pública docente y se regula la selección del profesorado y la provisión de los puestos de trabajo docentes.
 
 ## Preámbulo
@@ -40,7 +51,7 @@ tenor del cual corresponde al Estado dictar las normas básicas
 de desarrollo del artículo 27 del texto constitucional, a fin de 
 garantizar el cumplimiento de las obligaciones de los poderes 
 públicos en esta materia.
-La Ley Orgánica 2/2006, de 3 de mayo, de Educación, 
+La [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, 
 en sus disposiciones adicionales sexta a decimotercera, esta-
 blece la bases del régimen estatutario de la función pública 
 docente, la ordenación y funciones de los cuerpos docentes, 
@@ -48,11 +59,11 @@ los requisitos de ingreso en los mismos, las equivalencias de
 titulaciones del profesorado, así como el ingreso y la promo-
 ción interna en dichos cuerpos de funcionarios docentes. Asi-
 mismo, el apartado 2 de la citada disposición adicional sexta 
-de la Ley Orgánica 2/2006, de 3 de mayo, dispone que las 
+de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, dispone que las 
 Comunidades Autónomas ordenarán su función pública do-
 cente en el marco de sus competencias, respetando en todo 
 caso las normas básicas dictadas por el Estado. 
-La Ley 17/2007, de 10 de diciembre, de Educación de 
+La [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre, de Educación de 
 Andalucía, establece en el Capítulo II del Título I lo relativo a 
 la ordenación de la función pública docente en Andalucía, a la 
 selección del profesorado y a la provisión de los puestos de 
@@ -101,7 +112,7 @@ a) Las normas referidas a las bases del régimen estatuta-
 rio de la función pública docente incluidas en la Ley Orgánica 
 2/2006, de 3 de mayo, de Educación, y en la restante norma-
 tiva básica estatal.
-b) Las disposiciones de la Ley 17/2007, de 10 de diciem-
+b) Las disposiciones de la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciem-
 bre, de Educación de Andalucía, el presente Decreto y las nor-
 mas que se dicten en desarrollo de los mismos.
 c) Las normas incluidas en la Ley 7/2007, de 12 de abril, 
@@ -111,26 +122,26 @@ d) La normativa reguladora de la función pública de la
 Administración de la Junta de Andalucía, en defecto de norma 
 aplicable.
 2. De conformidad con lo establecido en los artículos 
-13.2 y 143.2 de la Ley 17/2007, de 10 de diciembre, en la fun-
+13.2 y 143.2 de la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre, en la fun-
 ción pública docente se integra el personal funcionario de ca-
-rrera de los cuerpos a que se refiere la Ley Orgánica 2/2006, 
+rrera de los cuerpos a que se refiere la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), 
 de 3 de mayo. Se incluye, asimismo, el personal funcionario 
 en prácticas y el personal funcionario interino asimilado a los 
 referidos cuerpos que prestan sus servicios en los centros, zo-
 nas y servicios educativos.
 Artículo 3. Personal en régimen de contratación laboral.
-1. De conformidad con la Ley Orgánica 2/2006, de 3 de 
+1. De conformidad con la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de 
 mayo, y con la legislación de función pública de la Administra-
 ción de la Junta de Andalucía, realizará funciones docentes en 
 régimen de contratación laboral el siguiente personal:
 a) El profesorado especialista a que se refieren los apar-
-tados 10 y 13 del artículo 13 de la Ley 17/2007, de 10 de 
+tados 10 y 13 del artículo 13 de la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de 
 diciembre.
 b) El personal laboral fijo al que se refiere la disposición 
-transitoria quinta de la Ley Orgánica 2/2006, de 3 de mayo, 
+transitoria quinta de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, 
 no acogido a los procedimientos de funcionarización convoca-
 dos por la Consejería de Educación.
-2. De conformidad con el artículo 13.6 de Ley 17/2007, 
+2. De conformidad con el artículo 13.6 de [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), 
 de 10 de diciembre, el personal docente en régimen laboral se 
 regirá por la legislación laboral, por lo establecido en el conve-
 nio colectivo que le resulte de aplicación y por los preceptos 
@@ -138,12 +149,12 @@ de la normativa citada en el artículo 2 para el personal funcio-
 nario que así lo dispongan.
 3. Al profesorado que imparta la enseñanza de las religio-
 nes en los centros públicos le será de aplicación lo establecido 
-en la disposición adicional cuarta de la Ley 17/2007, de 10 de 
+en la disposición adicional cuarta de la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de 
 diciembre, en la disposición adicional tercera de la Ley Orgá-
 nica 2/2006, de 3 de mayo, en el Real Decreto 696/2007, de 
 1 de junio, por el que se regula la relación laboral del profeso-
 rado de religión prevista en la disposición adicional tercera de 
-la Ley Orgánica 2/2006, de 3 de mayo, de Educación, y en las 
+la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, y en las 
 disposiciones que los desarrollen.
 Artículo 4. Profesorado de otros países.
 1. La Consejería competente en materia de educación, 
@@ -178,16 +189,16 @@ tención y alojamiento, en los casos de práctica de la conver-
 sación oral. 
 Artículo 5. Profesorado emérito.
 De conformidad con lo establecido en el artículo 13.14 de 
-la Ley 17/2007, de 10 de diciembre, la Consejería competente 
+la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre, la Consejería competente 
 en materia de educación podrá incorporar a las enseñanzas 
 artísticas superiores a profesorado, con la categoría de emé-
 rito, de acuerdo con lo que a tales efectos se establezca en 
-desarrollo del artículo 96.4 de la Ley Orgánica 2/2006, de 3 
+desarrollo del artículo 96.4 de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 
 de mayo. 
 Artículo 6. Personal funcionario docente adscrito a la Ad-
 ministración educativa.
 1. De conformidad con lo establecido en el artículo 17 de 
-la Ley 17/2007, de 10 de diciembre, la Consejería competente 
+la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre, la Consejería competente 
 en materia de educación podrá adscribir a sus distintos cen-
 tros directivos, en comisión de servicio, a personal docente 
 funcionario de carrera para tareas específicas del ámbito edu-
@@ -218,11 +229,11 @@ Página núm. 18
 BOJA núm. 108 
 Sevilla, 4 de junio 2010
 nica 2/2006, de 3 de mayo, se llevará a cabo en la forma 
-establecida en ésta, en la Ley 17/2007, de 10 de diciembre, 
-en el Real Decreto 276/2007, de 23 de febrero, por el que 
+establecida en ésta, en la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre, 
+en el [Real Decreto 276/2007](../../../estatal/08_personal_docente/RD276_2007_aprueba_reglamento_ingreso_accesos_adquisicion_nuevas.md), de 23 de febrero, por el que 
 se aprueba el Reglamento de ingreso, accesos y adquisición 
 de nuevas especialidades en los cuerpos docentes a que se 
-refiere la Ley Orgánica 2/2006, de 3 de mayo, de Educación, 
+refiere la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, 
 y se regula el régimen transitorio de ingreso a que se refiere 
 la disposición transitoria decimoséptima de la citada Ley, en el 
 presente Decreto y en las normas que los desarrollen.
@@ -240,7 +251,7 @@ sorado en la dinámica de trabajo en equipo, su relación con el
 alumnado y sus familias y su participación activa en los órga-
 nos del centro de los que forme parte.
 3. De conformidad con lo recogido en el artículo 15.2 de 
-la Ley 17/2007, de 10 de diciembre, la fase de prácticas ten-
+la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre, la fase de prácticas ten-
 drá una duración de un curso académico y comenzará una vez 
 concluidas las fases de oposición y de concurso del correspon-
 diente procedimiento selectivo para el ingreso en los cuerpos 
@@ -253,7 +264,7 @@ de educación.
 Artículo 9. Acreditación de centros para la fase de prác-
 ticas.
 1. De acuerdo con lo dispuesto en el artículo 15.2 de la 
-Ley 17/2007, de 10 de diciembre, la fase de prácticas se rea-
+[Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre, la fase de prácticas se rea-
 lizará en un centro docente público previamente acreditado, a 
 estos efectos, por la Administración educativa.
 2. Por Orden de la persona titular de la Consejería compe-
@@ -269,14 +280,14 @@ educación se dispondrá la forma de acceso a la acreditación
 de centros para la fase de prácticas y la vigencia de la misma.
 Artículo 10. Dirección de la fase de prácticas.
 1. De conformidad con lo establecido en el artículo 15.4 
-de la Ley 17/2007, de 10 de diciembre, la dirección de la fase 
+de la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre, la dirección de la fase 
 de prácticas se encomendará al personal funcionario docente 
 designado por las personas titulares de las Delegaciones Pro-
 vinciales de la Consejería competente en materia de educa-
 ción, a propuesta de los directores y directoras de los centros 
 donde preste servicio, acreditados para esta función, sin per-
 juicio de lo establecido en el apartado 2.c) de la disposición 
-adicional octava de la Ley Orgánica 2/2006, de 3 de mayo, 
+adicional octava de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, 
 que atribuye con carácter preferente esta función al personal 
 funcionario de los cuerpos de catedráticos. 
 2. El personal funcionario que dirija la fase de prácticas 
@@ -290,7 +301,7 @@ trativos y profesionales del personal funcionario docente que
 dirija la fase de prácticas. 
 Artículo 11. Curso de formación.
 1. De acuerdo con lo recogido en el artículo 15.3 de la 
-Ley 17/2007, de 10 de diciembre, la fase de prácticas incluirá 
+[Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre, la fase de prácticas incluirá 
 la realización de un curso de formación, que será organizado 
 por los centros de profesorado que determine la Administra-
 ción educativa.
@@ -336,12 +347,12 @@ gerá la descripción de las actividades llevadas a cabo y la valo-
 ración personal que se hace de las mismas.
 Artículo 13. Evaluación de la fase de prácticas.
 1. De conformidad con lo dispuesto en el artículo 15.5 
-de la Ley 17/2007, de 10 de diciembre, la evaluación de la 
+de la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre, la evaluación de la 
 fase de prácticas se realizará atendiendo al desempeño de la 
 función docente y al curso de formación realizado. Dicha eva-
 luación garantizará que las personas aspirantes posean las ca-
 pacidades didácticas necesarias para la docencia, de acuerdo 
-con lo recogido en el artículo 31.1 del Real Decreto 276/2007, 
+con lo recogido en el artículo 31.1 del [Real Decreto 276/2007](../../../estatal/08_personal_docente/RD276_2007_aprueba_reglamento_ingreso_accesos_adquisicion_nuevas.md), 
 de 23 de febrero.
 2. Para la evaluación de la fase de prácticas se constituirá 
 una comisión de evaluación en cada uno de los centros, zonas 
@@ -422,13 +433,13 @@ los órganos colegiados en el Capítulo II del Título II de la Ley
 30/1992, de 26 de noviembre, de Régimen Jurídico de las 
 Administraciones Públicas y del Procedimiento Administrativo 
 Común, y en la Sección Primera del Capítulo II del Título IV de 
-la Ley 9/2007, de 22 de octubre, de la Administración de la 
+la [Ley 9/2007](../01_marco_normativo_general_y_organico/L9_2007_administracion_junta_andalucia_laja.md), de 22 de octubre, de la Administración de la 
 Junta de Andalucía.
 Sección Segunda
 Selección del personal funcionario interino
 Artículo 17. Acceso.
 De acuerdo con lo establecido en el artículo 15.6 de la 
-Ley 17/2007, de 10 de diciembre, el acceso al desempeño 
+[Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre, el acceso al desempeño 
 de funciones docentes como personal funcionario interino se 
 regirá por los principios de igualdad, mérito, capacidad y pu-
 blicidad.
@@ -443,13 +454,13 @@ a un puesto de trabajo en régimen de interinidad seleccionado
 en la forma a que se refieren los artículos 19, 20 y 22.
 3. Las bolsas de trabajo se renovarán una vez concluido 
 cada procedimiento selectivo para el acceso a la función pú-
-blica docente establecido en el Real Decreto 276/2007, de 23 
+blica docente establecido en el [Real Decreto 276/2007](../../../estatal/08_personal_docente/RD276_2007_aprueba_reglamento_ingreso_accesos_adquisicion_nuevas.md), de 23 
 de febrero, realizado en la Comunidad Autónoma de Andalucía.
 Artículo 19. Acceso ordinario a las bolsas de trabajo. 
 Accederá a las bolsas de trabajo previstas en el artículo 
 anterior el personal aspirante que haya superado una o varias 
 pruebas de los procedimientos selectivos establecidos en el 
-Real Decreto 276/2007, de 23 de febrero, en la última con-
+[Real Decreto 276/2007](../../../estatal/08_personal_docente/RD276_2007_aprueba_reglamento_ingreso_accesos_adquisicion_nuevas.md), de 23 de febrero, en la última con-
 vocatoria realizada en la Comunidad Autónoma de Andalucía, 
 sin haber sido seleccionado, previa solicitud de las personas 
 interesadas.
@@ -597,7 +608,7 @@ Artículo 26. Procedimientos.
 vará a cabo la provisión de los puestos de trabajo docentes de 
 los centros, zonas y servicios educativos de acuerdo con lo es-
 tablecido en la disposición adicional sexta de la Ley Orgánica 
-2/2006, de 3 de mayo, en el artículo 16 de la Ley 17/2007, de 
+2/2006, de 3 de mayo, en el artículo 16 de la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 
 10 de diciembre, en el presente Decreto y en las normas que 
 los desarrollen.
 2. Los procedimientos de provisión de puestos de trabajo 
@@ -613,7 +624,7 @@ Página núm. 21
 Artículo 27. Procedimientos de provisión de puestos con 
 carácter definitivo.
 1. De acuerdo con lo establecido en la disposición adicio-
-nal sexta de la Ley Orgánica 2/2006, de 3 de mayo, el perso-
+nal sexta de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, el perso-
 nal funcionario de carrera accederá a puestos de trabajo de la 
 plantilla orgánica de los centros, zonas y servicios educativos 
 a través de los concursos de traslados, de ámbito estatal o 
@@ -621,10 +632,10 @@ autonómico, y de los procedimientos de redistribución o de
 recolocación.
 2. Los concursos de traslados de ámbito estatal se convo-
 carán de conformidad con lo establecido en el apartado 3 de 
-la disposición adicional sexta de la Ley Orgánica 2/2006, de 3 
+la disposición adicional sexta de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 
 de mayo, y en la normativa que la desarrolle.
 3. En virtud de lo establecido en el apartado 4 de la dis-
-posición adicional sexta de la Ley Orgánica 2/2006, de 3 de 
+posición adicional sexta de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de 
 mayo, la Consejería competente en materia de educación 
 podrá realizar convocatorias para la provisión de puestos de 
 trabajo vacantes, en los centros, zonas y servicios educativos, 
@@ -673,7 +684,7 @@ antigüedad en cualquiera de ellos.
  Artículo 28. Procedimientos de provisión de puestos con 
 carácter provisional.
 1. De conformidad con lo establecido en los apartados 2 
-y 3 del artículo 16 de la Ley 17/2007, de 10 de diciembre, los 
+y 3 del artículo 16 de la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre, los 
 concursos específicos para la provisión de puestos de trabajo 
 docentes con carácter provisional se realizarán conforme a los 
 principios de igualdad, mérito, capacidad y publicidad.
@@ -786,7 +797,7 @@ en el artículo 6.
 i) Para ejercer la opción de cambio de centro de direc-
 tores y directoras de centros y servicios educativos, al fin de 
 su mandato, de conformidad con lo establecido en el artículo 
-134.6 de la Ley 17/2007, de 10 de diciembre.
+134.6 de la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre.
 4. La efectividad de las comisiones de servicio concedi-
 das quedará condicionada a la existencia de vacantes y a su 
 adjudicación de acuerdo con el orden de prioridad que se esta-
@@ -950,7 +961,7 @@ trabajo suprimido.
 b) Personal funcionario de carrera desplazado de su cen-
 tro de destino por insuficiencia total de horario.
 c) Personal funcionario de carrera que se acoja a la op-
-ción a que se refiere el artículo 134.6 de la Ley 17/2007, de 
+ción a que se refiere el artículo 134.6 de la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 
 10 de diciembre.
 d) Personal funcionario de carrera en el último año de 
 adscripción en el extranjero.
@@ -995,7 +1006,7 @@ su orden de enumeración.
 Disposición adicional primera. Cursos primero y segundo 
 de la educación secundaria obligatoria.
 1. De conformidad con lo establecido en el apartado 2 de 
-la disposición adicional séptima de la Ley Orgánica 2/2006, 
+la disposición adicional séptima de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), 
 de 3 de mayo, la Consejería competente en materia de educa-
 ción determinará los requisitos de formación o titulación que 
 debe cumplir el personal funcionario de carrera de los cuerpos 
@@ -1013,7 +1024,7 @@ se determine en cada caso.
 Disposición adicional segunda. Adscripción a otras etapas 
 educativas.
 1. De conformidad con lo establecido en el artículo 13.8 
-de la Ley 17/2007, de 10 de diciembre, la Consejería compe-
+de la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre, la Consejería compe-
 
 Página núm. 24 
 BOJA núm. 108 
@@ -1031,11 +1042,11 @@ caso, enseñanzas distintas de las asignadas, con carácter ge-
 neral, al cuerpo docente al que pertenezca, de acuerdo con lo 
 que, a tales efectos, se determine reglamentariamente en el 
 marco de lo establecido en la disposición adicional séptima de 
-la Ley Orgánica 2/2006, de 3 de mayo.
+la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo.
 Disposición adicional tercera. Enseñanzas artísticas supe-
 riores y de idiomas.
 1. De conformidad con lo dispuesto en el artículo 13.13 
-de la Ley 17/2007, de 10 de diciembre, excepcionalmente, la 
+de la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre, excepcionalmente, la 
 Consejería competente en materia de educación podrá con-
 tratar para las enseñanzas artísticas superiores y para las en-
 señanzas de idiomas, como profesorado especialista, a profe-
@@ -1046,7 +1057,7 @@ deberá cumplirse lo recogido en el artículo 36 de la Ley Orgá-
 nica 4/2000, de 11 de enero, sobre derechos y libertades de 
 los extranjeros en España y su integración social, en la redac-
 ción dada por la Ley Orgánica 2/2009, de 11 de diciembre, 
-de reforma de la Ley Orgánica 4/2000, de 11 de enero, sobre 
+de reforma de la [Ley Orgánica 4/2000](../../../estatal/01_marco_normativo_general_y_organico/LO4_2000_derechos_libertades_extranjeros_espana_integracion_social.md), de 11 de enero, sobre 
 derechos y libertades de los extranjeros en España y su inte-
 gración social, salvo en el caso de nacionales de los Estados 
 miembros de la Unión Europea o de aquellos a quienes sea de 
@@ -1064,7 +1075,7 @@ mientos.
 En aplicación de lo recogido en la Ley 11/2007, de 22 de 
 junio, de acceso electrónico de los ciudadanos a los servicios 
 públicos, de conformidad con lo dispuesto en el artículo 151 
-de la Ley 17/2007, de 10 de diciembre, y en atención a lo dis-
+de la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre, y en atención a lo dis-
 puesto en el Decreto 183/2003, de 24 de junio, por el que se 
 regula la información y atención al ciudadano y la tramitación 
 de los procedimientos administrativos por medios electrónicos 
@@ -1082,7 +1093,7 @@ centros públicos.
 Disposición transitoria primera. Personal funcionario inte-
 rino mayor de cincuenta y cinco años.
 1. De conformidad con lo establecido en la disposición 
-transitoria segunda de la Ley 17/2007, de 10 de diciembre, 
+transitoria segunda de la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre, 
 se garantiza la estabilidad laboral al personal funcionario inte-
 rino asimilado a los distintos cuerpos y especialidades docen-
 tes que, durante los años de implantación de la Ley Orgánica 
@@ -1096,13 +1107,13 @@ Disposición transitoria segunda. Personal funcionario inte-
 rino asimilado al cuerpo de profesores especiales de institutos 
 técnicos de enseñanzas medias.
 1. De conformidad con lo establecido en la disposición 
-transitoria tercera de la Ley 17/2007, de 10 de diciembre, se 
+transitoria tercera de la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre, se 
 garantiza la estabilidad laboral al personal funcionario interino 
 de la especialidad de educación física, asimilado al cuerpo de-
 clarado a extinguir de profesores especiales de institutos técni-
 cos de enseñanzas medias, que accedió a dicha situación con 
 anterioridad al año 1990 y que permanecía en la misma a la 
-entrada en vigor de la Ley 17/2007, de 10 de diciembre. 
+entrada en vigor de la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre. 
 2. La Consejería competente en materia de educación ga-
 rantizará la permanencia de este personal en su puesto y en el 
 centro o servicio educativo en el que se encuentre destinado. 

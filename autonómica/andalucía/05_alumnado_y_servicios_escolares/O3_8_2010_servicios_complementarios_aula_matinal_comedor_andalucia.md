@@ -17,9 +17,16 @@ estado: Vigente
 redaccion: original
 fuente_oficial: http://www.juntadeandalucia.es/boja/2010/158/3
 fuente_pdf_oficial: http://www.juntadeandalucia.es/boja/pdf/2010/158/3
+clasificacion:
+  categoria_canonica: 05_alumnado_y_servicios_escolares
+  subcategoria: Comedores y servicios complementarios
+fundamentos_derecho:
+- norma_id: norm-and-l17-2007
+- norma_id: norm-and-l6-2006-gobierno-comunidad-autonoma-andalucia
+- norma_id: norm-and-d301-2009
+- norma_id: norm-and-d137-2002-apoyo-familias-andaluzas-servicios-educativos
+- norma_id: norm-es-1999-23750
 ---
-
-
 # Orden de 3 de agosto de 2010, por la que se regulan los servicios complementarios de la enseñanza de aula matinal, comedor escolar y actividades extraescolares en los centros docentes públicos, así como la ampliación de horario.
 
 ## Preámbulo
@@ -29,7 +36,7 @@ gulan los servicios complementarios de la enseñanza
 de aula matinal, comedor escolar y actividades extraes-
 colares en los centros docentes públicos, así como la 
 ampliación de horario.
-El artículo 2.2 de la Ley 17/2007, de 10 de diciembre, de 
+El artículo 2.2 de la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre, de 
 Educación de Andalucía, incluye en el ámbito de la programa-
 ción general de la enseñanza el conjunto de actuaciones que 
 desarrollen los centros docentes para ofrecer nuevos servicios 
@@ -39,13 +46,13 @@ servicios complementarios de la enseñanza que serán ofer-
 tados por los centros docentes en horario no lectivo, previa 
 autorización de la Administración educativa de acuerdo con la 
 planificación educativa.
-El Decreto 137/2002, de 30 de abril, de apoyo a las fa-
+El [Decreto 137/2002](./D137_2002_apoyo_familias_andaluzas_servicios_educativos.md), de 30 de abril, de apoyo a las fa-
 milias andaluzas, ha establecido un conjunto de medidas que 
 afectaban a ámbitos muy diversos de la sociedad, a saber, 
 empleo, educación, vivienda, servicios sociales, innovación y 
 salud, y que, en último término, pretendían apoyar a las fami-
 lias andaluzas desde una perspectiva integral.
-Por otra parte, el Decreto 301/2009, de 14 de julio, por 
+Por otra parte, el [Decreto 301/2009](../04_organizacion_escolar_y_funcionamiento/D301_2009_regulacion_calendario_jornada_escolar_andalucia.md), de 14 de julio, por 
 el que se regula el calendario y jornada escolar en los centros 
 docentes, a excepción de los universitarios, establece en el ar-
 tículo 13 la posibilidad de que dichos centros puedan ampliar 
@@ -68,7 +75,7 @@ determinados aspectos sobre la organización y el funciona-
 miento de estos servicios. 
 Por todo ello, a propuesta de la Dirección General de Pla-
 nificación y Centros y de conformidad con lo establecido en 
-el artículo 44.2 de la Ley 6/2006, de 24 de octubre, del Go-
+el artículo 44.2 de la [Ley 6/2006](../01_marco_normativo_general_y_organico/L6_2006_gobierno_comunidad_autonoma_andalucia.md), de 24 de octubre, del Go-
 bierno de la Comunidad Autónoma de Andalucía,
 D I S P O N G O
 
@@ -82,7 +89,7 @@ La presente Orden tiene por objeto regular la organiza-
 ción y el funcionamiento de los servicios complementarios de 
 la enseñanza de aula matinal, comedor escolar y actividades 
 extraescolares, así como la ampliación del horario de los cen-
-tros a que se refiere el artículo 13 del Decreto 301/2009, de 
+tros a que se refiere el artículo 13 del [Decreto 301/2009](../04_organizacion_escolar_y_funcionamiento/D301_2009_regulacion_calendario_jornada_escolar_andalucia.md), de 
 14 de julio.
 
 ### Artículo 2. Ámbito de aplicación.
@@ -136,7 +143,7 @@ tablecida en el artículo siguiente.
 ### Artículo 5. Demanda mínima.
 
 1. De acuerdo con lo establecido en el artículo 18 del 
-Decreto 137/2002, de 30 de abril, el establecimiento de los 
+[Decreto 137/2002](./D137_2002_apoyo_familias_andaluzas_servicios_educativos.md), de 30 de abril, el establecimiento de los 
 servicios complementarios de aula matinal, comedor escolar 
 y actividades extraescolares estará supeditado a la existencia 
 de una demanda mínima para cada uno de ellos de diez alum-
@@ -160,7 +167,7 @@ De los servicios complementarios
 ### Artículo 6. Aula matinal.
 
 1. De conformidad con lo establecido en el artículo 13.1 
-del Decreto 301/2009, de 14 de julio, los centros docentes 
+del [Decreto 301/2009](../04_organizacion_escolar_y_funcionamiento/D301_2009_regulacion_calendario_jornada_escolar_andalucia.md), de 14 de julio, los centros docentes 
 públicos que impartan el segundo ciclo de educación infan-
 til y la educación primaria podrán abrir sus instalaciones a 
 las 7,30 horas. El tiempo comprendido entre las 7,30 y la hora 
@@ -393,7 +400,7 @@ alumnado usuario del comedor escolar.
 ### Artículo 14. Actividades extraescolares.
 
 1. De conformidad con lo establecido en el artículo 13.2 
-del Decreto 301/2009, de 14 de julio, los centros docentes 
+del [Decreto 301/2009](../04_organizacion_escolar_y_funcionamiento/D301_2009_regulacion_calendario_jornada_escolar_andalucia.md), de 14 de julio, los centros docentes 
 públicos que impartan el segundo ciclo de educación infantil, 
 educación primaria y educación secundaria obligatoria podrán 
 mantener abiertas sus instalaciones hasta las 18,00 horas, to-
@@ -742,7 +749,7 @@ des extraescolares se establecerán conforme a lo previsto en
 los artículos 145, 146 y 150 de la Ley 4/1988, de 5 de julio.
 A los efectos de la bonificación a la que se refiere este 
 apartado se entiende por unidad familiar la definida en el ar-
-tículo 3.2 del Decreto 137/2002, de 30 de abril.
+tículo 3.2 del [Decreto 137/2002](./D137_2002_apoyo_familias_andaluzas_servicios_educativos.md), de 30 de abril.
 3. La bonificación que pudiera corresponder deberá so-
 licitarse del 1 al 7 de septiembre de cada año en el modelo 
 que, como Anexo V, acompaña a la presente Orden, en el cual 
@@ -1032,7 +1039,7 @@ Fdo.: ..........................................................................
 NOTA: Se presentará una solicitud por cada una de las actividades que se soliciten. 
 ILMO/A. SR/A. DELEGADO/A PROVINCIAL DE LA CONSEJERÍA DE EDUCACIÓN EN ______________ 
 PROTECCIÓN DE DATOS
-En cumplimiento de lo dispuesto en la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal, la Consejería de Educación le informa que
+En cumplimiento de lo dispuesto en la [Ley Orgánica 15/1999](../../../estatal/02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md), de 13 de diciembre, de Protección de Datos de Carácter Personal, la Consejería de Educación le informa que
 los datos personales obtenidos mediante la cumplimentación de este formulario y demás documentación que se adjunta van a ser incorporados, para su tratamiento, al
 fichero automatizado de nombre “Séneca. Datos generales y académicos del alumnado”, con la finalidad de recoger los datos personales y académicos del alumnado que
 cursa estudios en centros dependientes de la Consejería de Educación, así como de las respectivas unidades familiares.
@@ -1144,7 +1151,7 @@ EL/LA SOLICITANTE, SI ES MAYOR DE EDAD
 Fdo.: .........................................................................................................................
 SR/A. DIRECTOR/A DEL CENTRO DOCENTE PÚBLICO 
 PROTECCIÓN DE DATOS
-En cumplimiento de lo dispuesto en la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal, la Consejería de Educación le informa que los datos
+En cumplimiento de lo dispuesto en la [Ley Orgánica 15/1999](../../../estatal/02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md), de 13 de diciembre, de Protección de Datos de Carácter Personal, la Consejería de Educación le informa que los datos
 personales obtenidos mediante la cumplimentación de este formulario y demás documentación que se adjunta van a ser incorporados, para su tratamiento, al fichero automatizado
 de nombre “Séneca. Datos generales y académicos del alumnado”, con la finalidad de recoger los datos personales y académicos del alumnado que cursa estudios en centros
 dependientes de la Consejería de Educación, así como de las respectivas unidades familiares.
@@ -1296,7 +1303,7 @@ SOLICITUD DE BONIFICACIÓN (Continuación)
 4.2. El representante legal del/de la solicitante o el/la solicitante, si es mayor de edad, DECLARA que los ingresos de la unidad 
 familiar del período impositivo inmediatamente anterior, con plazo de presentación vencido, a la fecha de solicitud, son: 
 ___________________ euros.
-NOTA: De conformidad con lo establecido en el artículo 3.2 del Decreto 137/2002, de 30 de abril, de apoyo a las familias andaluzas, se considera 
+NOTA: De conformidad con lo establecido en el artículo 3.2 del [Decreto 137/2002](./D137_2002_apoyo_familias_andaluzas_servicios_educativos.md), de 30 de abril, de apoyo a las familias andaluzas, se considera 
 como unidad familiar la formada por una o varias personas que convivan en un mismo domicilio y se encuentren relacionadas entre sí por vínculo 
 de matrimonio o parejas de hecho inscritas conforme a la Ley 5/2002, de 16 de diciembre, de Parejas de Hecho, por parentesco de
 consanguinidad, adopción o afinidad hasta el segundo grado, o por situación derivada de acogimiento familiar permanente o preadoptivo.
@@ -1324,7 +1331,7 @@ EL/LA SOLICITANTE, SI ES MAYOR DE EDAD
 Fdo.: .........................................................................................................................
 SR/A. DIRECTOR/A DEL CENTRO DOCENTE PÚBLICO 
 PROTECCIÓN DE DATOS 
-En cumplimiento de lo dispuesto en la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal, la Consejería de Educación le informa que los datos
+En cumplimiento de lo dispuesto en la [Ley Orgánica 15/1999](../../../estatal/02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md), de 13 de diciembre, de Protección de Datos de Carácter Personal, la Consejería de Educación le informa que los datos
 personales obtenidos mediante la cumplimentación de este formulario y demás documentación que se adjunta van a ser incorporados, para su tratamiento, al fichero automatizado
 de nombre “Séneca. Datos generales y académicos del alumnado”, con la finalidad de recoger los datos personales y académicos del alumnado que cursa estudios en centros
 dependientes de la Consejería de Educación, así como de las respectivas unidades familiares. 

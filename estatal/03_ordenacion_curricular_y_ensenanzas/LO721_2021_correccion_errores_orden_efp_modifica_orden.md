@@ -103,9 +103,12 @@ relaciones:
   - norma_id: '1'
   - norma_id: '2'
   - norma_id: norm-es-2010-12201
+fundamentos_derecho:
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-2010-12201
 ---
-
-# Corrección de errores de la Orden EFP/721/2021, de 2 de julio, por la que se modifica la Orden ECD/1767/2012, de 3 de agosto, por la que se regula la expedición del título de Bachiller correspondiente a las enseñanzas reguladas por la Ley Orgánica 2/2006, de 3 de mayo, de Educación, para el alumnado inscrito en los programas de secciones internacionales españolas y «Bachibac» en liceos franceses.
+# Corrección de errores de la Orden EFP/721/2021, de 2 de julio, por la que se modifica la Orden ECD/1767/2012, de 3 de agosto, por la que se regula la expedición del título de Bachiller correspondiente a las enseñanzas reguladas por la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, para el alumnado inscrito en los programas de secciones internacionales españolas y «Bachibac» en liceos franceses.
 
 ## Preámbulo
 

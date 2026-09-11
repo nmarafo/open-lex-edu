@@ -671,8 +671,19 @@ relaciones:
   - norma_id: norm-es-2007-6115
   - norma_id: norm-es-2013-12632
   - norma_id: norm-es-rdl-2-2015
+fundamentos_derecho:
+- norma_id: norm-es-l-19-2013
+- norma_id: norm-es-2007-19814
+- norma_id: norm-es-l-39-2015
+- norma_id: norm-es-l-40-2015
+- norma_id: norm-es-l-53-1984
+- norma_id: norm-es-rdl-5-2015
+- norma_id: norm-es-1985-5392
+- norma_id: norm-es-1999-23750
+- norma_id: norm-es-2007-6115
+- norma_id: norm-es-2013-12632
+- norma_id: norm-es-rdl-2-2015
 ---
-
 # Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, por la que se transponen al ordenamiento jurídico español las Directivas del Parlamento Europeo y del Consejo 2014/23/UE y 2014/24/UE, de 26 de febrero de 2014. ## Preámbulo
 
 **FELIPE VI**
@@ -1969,7 +1980,7 @@ Por último en este apartado, se incluye en el Anexo III del texto la informaci�
 
 Por lo que respecta al contenido, tomando como referencia las Directivas europeas y los principios que han guiado la elaboración de esta Ley, las principales novedades que presenta afectan, en primer lugar, a su ámbito de aplicación, dentro del cual se ha extendido el ámbito subjetivo, con la idea de aplicar estas normas a entidades no sujetas.
 
-Así, se han incluido los partidos políticos, las organizaciones sindicales y las empresariales, así como las fundaciones y asociaciones vinculadas a cualquiera de ellos siempre que se cumplan determinadas circunstancias como que su financiación sea mayoritariamente pública y respecto de los contratos sometidos a regulación armonizada. Por otra parte, se ha adaptado la tipología de las entidades incluidas dentro del ámbito subjetivo a la establecida en la nueva Ley de Régimen Jurídico del Sector Público, Ley 40/2015, de 1 de octubre. En el ámbito objetivo de aplicación, se han estructurado de forma más definida los supuestos de contratos y negocios jurídicos no incluidos en la legislación contractual, aclarándose algunos supuestos, como los contratos patrimoniales y añadiéndose algún caso nuevo, como los contratos que tengan por objeto la realización de campañas políticas, que no seguirán las normas de esta Ley.
+Así, se han incluido los partidos políticos, las organizaciones sindicales y las empresariales, así como las fundaciones y asociaciones vinculadas a cualquiera de ellos siempre que se cumplan determinadas circunstancias como que su financiación sea mayoritariamente pública y respecto de los contratos sometidos a regulación armonizada. Por otra parte, se ha adaptado la tipología de las entidades incluidas dentro del ámbito subjetivo a la establecida en la nueva Ley de Régimen Jurídico del Sector Público, [Ley 40/2015](../01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md), de 1 de octubre. En el ámbito objetivo de aplicación, se han estructurado de forma más definida los supuestos de contratos y negocios jurídicos no incluidos en la legislación contractual, aclarándose algunos supuestos, como los contratos patrimoniales y añadiéndose algún caso nuevo, como los contratos que tengan por objeto la realización de campañas políticas, que no seguirán las normas de esta Ley.
 
 Se incluyen en los contratos públicos consideraciones de tipo social, medioambiental y de innovación y desarrollo. Estas consideraciones podrán incluirse tanto al diseñarse los criterios de adjudicación, como criterios cualitativos para evaluar la mejor relación calidad-precio, o como condiciones especiales de ejecución, si bien su introducción está supeditada a que se relacionen con el objeto del contrato a celebrar. En particular, en el caso de las condiciones especiales de ejecución, la Ley impone la obligación al órgano de contratación de establecer en el pliego al menos una de las condiciones especiales de ejecución de tipo medioambiental, social o relativas al empleo que se listan en el artículo 202. En el ámbito medioambiental, se exigen certificados de gestión medioambiental a las empresas licitadoras, como condición de solvencia técnica, esto es, para acreditar la experiencia o el «buen hacer» de esa empresa en el ámbito de la protección del medio ambiente. Respecto de los temas sociales, se siguen regulando los contratos reservados a centros especiales de empleo o la posibilidad de reservar su ejecución en el marco de programas de empleo protegido, extendiéndose dicha reserva a las empresas de inserción y exigiéndoles a todas las entidades citadas que tengan en plantilla el porcentaje de trabajadores discapacitados que se establezca en su respectiva regulación. En el ámbito de la discapacidad, se recoge como causa de prohibición de contratar con las entidades del sector público el no cumplir el requisito de que al menos el 2 por ciento de los empleados de las empresas de 50 o más trabajadores sean trabajadores con discapacidad, cuestión ya adelantada mediante la modificación del hasta ahora vigente texto refundido de la Ley de Contratos del Sector Público por la [Ley 40/2015](../01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md), de 1 de octubre, del Régimen Jurídico del Sector Público.
 
@@ -2065,7 +2076,7 @@ b) Las Entidades Gestoras y los Servicios Comunes de la Seguridad Social.
 
 c) Los Organismos Autónomos, las Universidades Públicas y las autoridades administrativas independientes.
 
-d) Los consorcios dotados de personalidad jurídica propia a los que se refiere la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, y la legislación de régimen local, así como los consorcios regulados por la legislación aduanera.
+d) Los consorcios dotados de personalidad jurídica propia a los que se refiere la [Ley 40/2015](../01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md), de 1 de octubre, de Régimen Jurídico del Sector Público, y la legislación de régimen local, así como los consorcios regulados por la legislación aduanera.
 
 e) **Las fundaciones públicas.** A efectos de esta Ley, se entenderá por fundaciones públicas aquellas que reúnan alguno de los siguientes requisitos:
 
@@ -2877,7 +2888,7 @@ El Tribunal contará con los servicios administrativos precisos para su funciona
 
 El nombramiento del Secretario General y el del personal integrante de los servicios administrativos se harán en los términos previstos en la legislación reguladora de la Función Pública.
 
-8. Serán de aplicación al régimen de constitución y funcionamiento del Tribunal las disposiciones relativas a órganos colegiados contenidas en la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público.
+8. Serán de aplicación al régimen de constitución y funcionamiento del Tribunal las disposiciones relativas a órganos colegiados contenidas en la [Ley 40/2015](../01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md), de 1 de octubre, de Régimen Jurídico del Sector Público.
 
 #### Artículo 46. Órgano competente para la resolución del recurso en las Comunidades Autónomas y Entidades Locales.
 
@@ -4177,7 +4188,7 @@ c) «Norma nacional»: Norma adoptada por un organismo nacional de normalizació
 
 2. Las prescripciones técnicas podrán referirse al proceso o método específico de producción o prestación de las obras, los suministros o los servicios requeridos, o a un proceso específico de otra fase de su ciclo de vida, según la definición establecida en el artículo 148, incluso cuando dichos factores no formen parte de la sustancia material de las obras, suministros o servicios, siempre que estén vinculados al objeto del contrato y guarden proporción con el valor y los objetivos de este.
 
-3. Para toda contratación que esté destinada a ser utilizada por personas físicas, ya sea el público en general o el personal de la Administración Pública contratante, las prescripciones técnicas se redactarán, salvo en casos debidamente justificados, de manera que se tengan en cuenta la Convención de las Naciones Unidas sobre los derechos de las personas con discapacidad, así como los criterios de accesibilidad universal y de diseño universal o diseño para todas las personas, tal y como son definidos estos términos en el texto refundido de la Ley General de derechos de las personas con discapacidad y de su inclusión social, aprobado mediante Real Decreto Legislativo 1/2013, de 29 de noviembre.
+3. Para toda contratación que esté destinada a ser utilizada por personas físicas, ya sea el público en general o el personal de la Administración Pública contratante, las prescripciones técnicas se redactarán, salvo en casos debidamente justificados, de manera que se tengan en cuenta la Convención de las Naciones Unidas sobre los derechos de las personas con discapacidad, así como los criterios de accesibilidad universal y de diseño universal o diseño para todas las personas, tal y como son definidos estos términos en el texto refundido de la Ley General de derechos de las personas con discapacidad y de su inclusión social, aprobado mediante [Real Decreto Legislativo 1/2013](../07_convivencia_bienestar_y_protocolos/RDL1_2013_aprueba_texto_refundido_ley_general_derechos.md), de 29 de noviembre.
 
 De no ser posible definir las prescripciones técnicas teniendo en cuenta criterios de accesibilidad universal y de diseño universal o diseño para todas las personas, deberá motivarse suficientemente esta circunstancia.
 
@@ -7383,7 +7394,7 @@ Para asistir al órgano de contratación en los procedimientos de diálogo compe
 
 1. La Junta Consultiva de Contratación Pública del Estado es el órgano específico de regulación y consulta en materia de contratación pública del sector público estatal, con independencia de que las entidades contratantes operen en los sectores a que se refiere la disposición adicional octava.
 
-2. La Junta Consultiva de Contratación Pública del Estado es un órgano colegiado con composición abierta a la participación del sector privado, adscrito al Ministerio de Hacienda y Función Pública, al que serán de aplicación las disposiciones relativas a órganos colegiados de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público.
+2. La Junta Consultiva de Contratación Pública del Estado es un órgano colegiado con composición abierta a la participación del sector privado, adscrito al Ministerio de Hacienda y Función Pública, al que serán de aplicación las disposiciones relativas a órganos colegiados de la [Ley 40/2015](../01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md), de 1 de octubre, de Régimen Jurídico del Sector Público.
 
 Su composición y régimen jurídico se establecerán reglamentariamente, teniendo en cuenta que el Presidente de la Oficina Independiente de Regulación y Supervisión de la Contratación y un representante de la Comisión Nacional de los Mercados y la Competencia formarán parte de la misma como vocales natos, con voz pero sin voto.
 
@@ -7419,7 +7430,7 @@ Los informes serán remitidos a la Comisión Europea en los quince días que sig
 
 #### Artículo 329. Comité de cooperación en materia de contratación pública.
 
-1. Se crea, en el seno de la Junta Consultiva de Contratación Pública del Estado, el Comité de cooperación en materia de contratación pública para asumir, en ejercicio de sus competencias, compromisos específicos en áreas de acción común de las distintas Administraciones Públicas, conforme a los principios del artículo 140 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público. En particular, entre otros, la cooperación tendrá por objeto:
+1. Se crea, en el seno de la Junta Consultiva de Contratación Pública del Estado, el Comité de cooperación en materia de contratación pública para asumir, en ejercicio de sus competencias, compromisos específicos en áreas de acción común de las distintas Administraciones Públicas, conforme a los principios del artículo 140 de la [Ley 40/2015](../01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md), de 1 de octubre, de Régimen Jurídico del Sector Público. En particular, entre otros, la cooperación tendrá por objeto:
 
 a) Coordinar los criterios de interpretación seguidos por las Administraciones Públicas en relación con las normas de la contratación pública.
 
@@ -7495,7 +7506,7 @@ Los órganos consultivos en materia de contratación pública que creen las Comu
 
 #### Artículo 331. Aportación de información por las Comunidades Autónomas y de las Ciudades Autónomas de Ceuta y Melilla.
 
-En el marco del principio de lealtad institucional que rige las relaciones entre las Administraciones Públicas contemplado con carácter básico en el artículo 3 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, y con la finalidad de que la Junta Consultiva de Contratación Pública del Estado pueda cumplir con las obligaciones establecidas en el artículo 328 respecto a la Comisión Europea, las Comunidades Autónomas remitirán en formato electrónico al Comité de Cooperación regulado en el artículo 329, a través de sus órganos competentes y respecto de sus respectivos ámbitos territoriales, la siguiente documentación:
+En el marco del principio de lealtad institucional que rige las relaciones entre las Administraciones Públicas contemplado con carácter básico en el artículo 3 de la [Ley 40/2015](../01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md), de 1 de octubre, de Régimen Jurídico del Sector Público, y con la finalidad de que la Junta Consultiva de Contratación Pública del Estado pueda cumplir con las obligaciones establecidas en el artículo 328 respecto a la Comisión Europea, las Comunidades Autónomas remitirán en formato electrónico al Comité de Cooperación regulado en el artículo 329, a través de sus órganos competentes y respecto de sus respectivos ámbitos territoriales, la siguiente documentación:
 
 a) Un informe comprensivo de todas aquellas cuestiones mencionadas en las letras b), c), d) y e) del apartado 4 del artículo 328, con una periodicidad de –al menos– cada tres años.
 
@@ -7959,7 +7970,7 @@ Igualmente será de aplicación lo previsto en el párrafo anterior cuando las a
 
 3. En los municipios de población inferior a 5.000 habitantes es igualmente competencia del Pleno autorizar la redacción y licitación de proyectos independientes relativos a cada una de las partes de una obra cuyo periodo de ejecución exceda al de un presupuesto anual, siempre que estas sean susceptibles de utilización separada en el sentido del uso general o del servicio, o puedan ser sustancialmente definidas.
 
-4. En los municipios de gran población a que se refiere el artículo 121 de la Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, las competencias del órgano de contratación que se describen en los apartados anteriores se ejercerán por la Junta de Gobierno Local, cualquiera que sea el importe del contrato o la duración del mismo, siendo el Pleno el competente para aprobar los pliegos de cláusulas administrativas generales.
+4. En los municipios de gran población a que se refiere el artículo 121 de la [Ley 7/1985](./L7_1985_reguladora_bases_regimen_local.md), de 2 de abril, Reguladora de las Bases del Régimen Local, las competencias del órgano de contratación que se describen en los apartados anteriores se ejercerán por la Junta de Gobierno Local, cualquiera que sea el importe del contrato o la duración del mismo, siendo el Pleno el competente para aprobar los pliegos de cláusulas administrativas generales.
 
 5. En las Entidades Locales será potestativa la constitución de Juntas de Contratación que actuarán como órganos de contratación en los contratos de obras que tengan por objeto trabajos de reparación simple, de conservación y de mantenimiento, en los contratos de suministro que se refieran a bienes consumibles o de fácil deterioro por el uso, y en los contratos de servicios cuando su valor estimado no supere el 10 por ciento de los recursos ordinarios de la Entidad, o cuando superen este importe las acciones estén previstas en el presupuesto del ejercicio a que corresponda y se realicen de acuerdo con lo dispuesto en las bases de ejecución de este.
 
@@ -7983,7 +7994,7 @@ La composición de la Mesa se publicará en el perfil de contratante del órgano
 
 10. Corresponde al Pleno la competencia para celebrar contratos privados, la adjudicación de concesiones sobre los bienes de la Corporación y la adquisición de bienes inmuebles y derechos sujetos a la legislación patrimonial así como la enajenación del patrimonio cuando no estén atribuidas al Alcalde o al Presidente, y de los bienes declarados de valor histórico o artístico cualquiera que sea su valor.
 
-11. En los municipios de gran población a que se refiere el artículo 121 de la Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, las competencias que se describen en los apartados anteriores se ejercerán por la Junta de Gobierno Local, cualquiera que sea el importe del contrato o la duración del mismo.
+11. En los municipios de gran población a que se refiere el artículo 121 de la [Ley 7/1985](./L7_1985_reguladora_bases_regimen_local.md), de 2 de abril, Reguladora de las Bases del Régimen Local, las competencias que se describen en los apartados anteriores se ejercerán por la Junta de Gobierno Local, cualquiera que sea el importe del contrato o la duración del mismo.
 
 12. Las referencias a las Diputaciones provinciales contenidas en esta Ley también se entenderán efectuadas a los entes locales supramunicipales previstos en los correspondientes Estatutos de Autonomía con competencias en materia de asistencia y de cooperación a los municipios, y de prestación de servicios públicos locales.
 
@@ -8003,7 +8014,7 @@ La composición de la Mesa se publicará en el perfil de contratante del órgano
 
 7. En los municipios de población inferior a 5.000 habitantes, en los contratos de obras cuya financiación exceda de un presupuesto anual, podrán redactarse proyectos independientes relativos a cada una de las partes de la obra, siempre que estas sean susceptibles de utilización separada en el sentido del uso general o del servicio, o puedan ser sustancialmente definidas. La ejecución de cada uno de los proyectos podrá ser objeto de un contrato diferente, sin perjuicio de la aplicación de los artículos 99 y 101. 8. Los informes que la Ley asigna a los servicios jurídicos se evacuarán por el Secretario. Será también preceptivo el informe jurídico del Secretario en la aprobación de expedientes de contratación, modificación de contratos, revisión de precios, prórrogas, mantenimiento del equilibrio económico, interpretación y resolución de los contratos. Corresponderá también al Secretario la coordinación de las obligaciones de publicidad e información que se establecen en la [Ley 19/2013](../01_marco_normativo_general_y_organico/L19_2013_transparencia_acceso_informacion_publica_buen_gobierno.md), de 9 de diciembre, de Transparencia, Acceso a la Información Pública y Buen Gobierno.
 
-Conforme a lo dispuesto en la letra e) de la disposición adicional octava de la Ley 7/1985, de 2 de abril, Reguladoras de las Bases del Régimen Local, en los municipios acogidos al régimen regulado en su Título X, corresponderá al titular de la asesoría jurídica la emisión de los informes atribuidos al Secretario en el presente apartado. La coordinación de las obligaciones de publicidad e información antedichas corresponderá al titular del Órgano de Apoyo a la Junta de Gobierno.
+Conforme a lo dispuesto en la letra e) de la disposición adicional octava de la [Ley 7/1985](./L7_1985_reguladora_bases_regimen_local.md), de 2 de abril, Reguladoras de las Bases del Régimen Local, en los municipios acogidos al régimen regulado en su Título X, corresponderá al titular de la asesoría jurídica la emisión de los informes atribuidos al Secretario en el presente apartado. La coordinación de las obligaciones de publicidad e información antedichas corresponderá al titular del Órgano de Apoyo a la Junta de Gobierno.
 
 9. En los contratos que tengan por objeto la adquisición de bienes inmuebles, el importe de la adquisición podrá ser objeto de un aplazamiento de hasta cuatro años, con sujeción a los trámites previstos en la normativa reguladora de las Haciendas Locales para los compromisos de gastos futuros. Este aplazamiento también podrá ser utilizado para la adquisición de títulos representativos de la titularidad del capital de entidades que formen parte del sector público de la Entidad local para su reestructuración.
 
@@ -8611,7 +8622,7 @@ En virtud de su régimen foral, la aplicación a la Comunidad Autónoma del Paí
 
 #### Disposición final cuarta. Normas aplicables a los procedimientos regulados en esta Ley y a los medios propios personificados.
 
-1. Los procedimientos regulados en esta Ley se regirán, en primer término, por los preceptos contenidos en ella y en sus normas de desarrollo y, subsidiariamente, por los establecidos en la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, y en sus normas complementarias.
+1. Los procedimientos regulados en esta Ley se regirán, en primer término, por los preceptos contenidos en ella y en sus normas de desarrollo y, subsidiariamente, por los establecidos en la [Ley 39/2015](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, y en sus normas complementarias.
 
 2. En todo caso, en los procedimientos iniciados a solicitud de un interesado para los que no se establezca específicamente otra cosa y que tengan por objeto o se refieran a la reclamación de cantidades, al ejercicio de prerrogativas administrativas o a cualquier otra cuestión relativa a la ejecución, cumplimiento o extinción de un contrato administrativo, una vez transcurrido el plazo previsto para su resolución sin haberse notificado esta, el interesado podrá considerar desestimada su solicitud por silencio administrativo, sin perjuicio de la subsistencia de la obligación de resolver.
 
@@ -8795,7 +8806,7 @@ Cuatro. Se modifica el artículo 7.6, que queda redactado como sigue:
 
 En el resto de los casos en que se aplique una tarifa, el organismo del sector público de que se trate indicará por adelantado qué factores se tendrán en cuenta para el cálculo de la misma. Cuando se solicite, dicho organismo también indicará cómo se ha calculado esa tarifa en relación con la solicitud de reutilización concreta.»
 
-#### Disposición final decimocuarta. Modificación del texto refundido de la Ley General de derechos de las personas con discapacidad y de su inclusión social, aprobado mediante Real Decreto Legislativo 1/2013, de 29 de noviembre.
+#### Disposición final decimocuarta. Modificación del texto refundido de la Ley General de derechos de las personas con discapacidad y de su inclusión social, aprobado mediante [Real Decreto Legislativo 1/2013](../07_convivencia_bienestar_y_protocolos/RDL1_2013_aprueba_texto_refundido_ley_general_derechos.md), de 29 de noviembre.
 
 Se añade un apartado 4 al artículo 43 l.
 
@@ -10216,7 +10227,7 @@ Servicio de recogida y reciclaje:
 - **Modifica**: [**L19_2013 Transparencia y Buen Gobierno**](../01_marco_normativo_general_y_organico/L19_2013_transparencia_acceso_informacion_publica_buen_gobierno.md) (Art. 99, Art. 101) desde *(Título III, D. Adicional tercera. Normas específicas de contratación pública en las Entidades Locales.)*
 - **Modifica**: [**BOE-A-2007-19814**](../01_marco_normativo_general_y_organico/L37_2007_reutilizacion_informacion_sector_publico.md) (D. Final decimotercera) desde *(Título III, D. Final decimotercera. Modificación de la [Ley 37/2007](../01_marco_normativo_general_y_organico/L37_2007_reutilizacion_informacion_sector_publico.md), de 16 de noviembre, sobre reutilización de la información del sector público.)*
 - **Modifica**: [**BOE-A-2007-19814**](../01_marco_normativo_general_y_organico/L37_2007_reutilizacion_informacion_sector_publico.md) desde *(Título III, D. Final decimotercera. Modificación de la [Ley 37/2007](../01_marco_normativo_general_y_organico/L37_2007_reutilizacion_informacion_sector_publico.md), de 16 de noviembre, sobre reutilización de la información del sector público.)*
-- **Modifica**: [**BOE-A-2013-12632**](../07_convivencia_bienestar_y_protocolos/RDL1_2013_aprueba_texto_refundido_ley_general_derechos.md) (D. Final decimocuarta) desde *(Título III, D. Final decimocuarta. Modificación del texto refundido de la Ley General de derechos de las personas con discapacidad y de su inclusión social, aprobado mediante Real Decreto Legislativo 1/2013, de 29 de noviembre.)*
+- **Modifica**: [**BOE-A-2013-12632**](../07_convivencia_bienestar_y_protocolos/RDL1_2013_aprueba_texto_refundido_ley_general_derechos.md) (D. Final decimocuarta) desde *(Título III, D. Final decimocuarta. Modificación del texto refundido de la Ley General de derechos de las personas con discapacidad y de su inclusión social, aprobado mediante [Real Decreto Legislativo 1/2013](../07_convivencia_bienestar_y_protocolos/RDL1_2013_aprueba_texto_refundido_ley_general_derechos.md), de 29 de noviembre.)*
 - **Modifica**: [**L40_2015 Regimen Juridico del Sector Publico**](../01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md) (D. Final decimoquinta) desde *(Título III, D. Final decimoquinta. Modificación de la [Ley 40/2015](../01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md), de 1 de octubre, de Régimen Jurídico del Sector Público.)*
 - **Modifica**: [**L40_2015 Regimen Juridico del Sector Publico**](../01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md) desde *(Título III, D. Final decimoquinta. Modificación de la [Ley 40/2015](../01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md), de 1 de octubre, de Régimen Jurídico del Sector Público.)*
 - **Fundamentado en**: `norm-es-c-1978` (Art. 128) desde *(Título III. Gestión de la publicidad contractual por medios electrónicos, informáticos y telemáticos., D. Final decimoquinta. Modificación de la [Ley 40/2015](../01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md), de 1 de octubre, de Régimen Jurídico del Sector Público.)*
@@ -10306,4 +10317,4 @@ Servicio de recogida y reciclaje:
 - **Cita a**: [**BOE-A-1999-23750**](./LO15_1999_proteccion_datos_caracter_personal.md) (Art. 12) desde *(Título III, D. Adicional vigésima.... quinta.)*
 - **Cita a**: [**L40_2015 Regimen Juridico del Sector Publico**](../01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md) desde *(Título III, D. Adicional vigésima.... octava.)*
 - **Cita a**: `norm-es-c-1978` (Art. 31) desde *(Título III, D. Final décima. Modificación de la Ley 37/1992, de 28 de diciembre, del Impuesto sobre el Valor Añadido.)*
-- **Cita a**: [**BOE-A-2013-12632**](../07_convivencia_bienestar_y_protocolos/RDL1_2013_aprueba_texto_refundido_ley_general_derechos.md) desde *(Título III, D. Final decimocuarta. Modificación del texto refundido de la Ley General de derechos de las personas con discapacidad y de su inclusión social, aprobado mediante Real Decreto Legislativo 1/2013, de 29 de noviembre.)*
+- **Cita a**: [**BOE-A-2013-12632**](../07_convivencia_bienestar_y_protocolos/RDL1_2013_aprueba_texto_refundido_ley_general_derechos.md) desde *(Título III, D. Final decimocuarta. Modificación del texto refundido de la Ley General de derechos de las personas con discapacidad y de su inclusión social, aprobado mediante [Real Decreto Legislativo 1/2013](../07_convivencia_bienestar_y_protocolos/RDL1_2013_aprueba_texto_refundido_ley_general_derechos.md), de 29 de noviembre.)*

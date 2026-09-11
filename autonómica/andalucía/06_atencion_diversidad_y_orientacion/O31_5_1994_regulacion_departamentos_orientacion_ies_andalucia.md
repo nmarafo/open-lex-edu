@@ -42,8 +42,9 @@ relaciones:
   - norma_id: norm-and-l17-2007
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-lo-1-1996
+fundamentos_derecho:
+- norma_id: norm-and-l17-2007
 ---
-
 # Orden de 31 de mayo de 1994, por la que se regula la organización y funcionamiento de los Departamentos de Orientación en IES.
 
 ## Preámbulo

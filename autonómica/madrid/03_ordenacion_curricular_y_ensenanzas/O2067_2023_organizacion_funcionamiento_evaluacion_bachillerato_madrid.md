@@ -33,8 +33,22 @@ relaciones:
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-l-39-2015
   - norma_id: norm-mad-d-29-2013
+fundamentos_derecho:
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-mad-d-52-2021
+- norma_id: norm-mad-d64-2022
+- norma_id: norm-mad-d-29-2013
+- norma_id: norm-mad-d23-2023
+- norma_id: norm-mad-d32-2019
+- norma_id: norm-es-l-39-2015
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-lo-3-2018
+- norma_id: norm-es-lo-8-1985
+- norma_id: norm-es-2016-3229
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-rd-243-2022
+- norma_id: norm-es-2010-12201
 ---
-
 # Orden 2067/2023, de 11 de junio, de la Consejería de Educación, Universidades, Ciencia y Portavocía, por la que se regulan la organización, el funcionamiento y la evaluación en la etapa de Bachillerato en la Comunidad de Madrid
 
 ## Preámbulo
@@ -45,25 +59,25 @@ Vicepresidencia, Consejería de Educación y Universidades
 ORDEN 2067/2023, de 11 de junio, de la Vicepresidencia, Consejería de Educa-
 ción y Universidades, por la que se regulan determinados aspectos de organización,
 funcionamiento y evaluación en el Bachillerato.
-La Ley Orgánica 2/2006, de 3 de mayo, de Educación, establece el marco normativo
+La [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, establece el marco normativo
 en el que se sustenta la organización y la evaluación del Bachillerato. Como desarrollo de
 las modificaciones establecidas por la Ley Orgánica 3/2020, de 29 de diciembre, por la que
-se modifica la Ley Orgánica 2/2006, de 3 de mayo, de Educación, se promulgó el Real De-
+se modifica la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, se promulgó el Real De-
 creto 243/2022, de 5 de abril, por el que se establecen la ordenación y las enseñanzas míni-
 mas del Bachillerato, en el que se concreta el marco legislativo relativo, entre otros aspec-
 tos, a la evaluación y organización del Bachillerato, así como a la atención a las diferencias
 individuales del alumnado.
 Para su concreción en el ámbito territorial de la Comunidad de Madrid, se publicó el
-Decreto 64/2022, de 20 de julio, del Consejo de Gobierno, por el que se establecen para la
+[Decreto 64/2022](./D64_2022_ordenacion_curriculo_bachillerato_madrid.md), de 20 de julio, del Consejo de Gobierno, por el que se establecen para la
 Comunidad de Madrid la ordenación y el currículo del Bachillerato, que dedica su capítu-
 lo cuarto a la evaluación, incluyendo los aspectos relacionados con el derecho a la evalua-
 ción objetiva, la participación y el derecho a la información, las condiciones en las que el
 alumnado promocionará y obtendrá el título de Bachiller y los procesos de evaluación, que
 se llevarán a cabo en los centros para valorar e informar sobre el desarrollo de las activida-
 des de enseñanza y aprendizaje, y dedica una sección a los documentos de evaluación.
-Por otro lado, el Decreto 23/2023, de 22 de marzo, del Consejo de Gobierno, por el que
+Por otro lado, el [Decreto 23/2023](../06_atencion_diversidad_y_orientacion/D23_2023_atencion_diferencias_individuales_alumnos_madrid.md), de 22 de marzo, del Consejo de Gobierno, por el que
 se regula la atención educativa a las diferencias individuales del alumnado en la Comuni-
-dad de Madrid, y el capítulo quinto del Decreto 64/2022, de 20 de julio, establecen el mar-
+dad de Madrid, y el capítulo quinto del [Decreto 64/2022](./D64_2022_ordenacion_curriculo_bachillerato_madrid.md), de 20 de julio, establecen el mar-
 co legislativo necesario para garantizar el desarrollo reglamentario por parte de la Conseje-
 ría competente en materia de Educación en la adopción de las medidas de atención a las
 diferencias individuales de los alumnos.
@@ -72,7 +86,7 @@ ción, funcionamiento y evaluación que se establecen en esta Orden, se asientan
 rechos y deberes de los distintos miembros de la comunidad educativa recogidos en el De-
 creto 32/2019, de 9 de abril, del Consejo de Gobierno, por el que se establece el marco
 regulador de la convivencia en los centros docentes de la Comunidad de Madrid.
-El Decreto 64/2022, de 20 de julio, tal y como se ha expuesto anteriormente, estable-
+El [Decreto 64/2022](./D64_2022_ordenacion_curriculo_bachillerato_madrid.md), de 20 de julio, tal y como se ha expuesto anteriormente, estable-
 ce el marco legal para la ordenación académica del Bachillerato en la Comunidad de
 Madrid. No obstante, resulta necesario el desarrollo reglamentario de su contenido para po-
 der hacer efectiva su aplicación en los centros docentes. De hecho, en previsión de esta ne-
@@ -107,8 +121,8 @@ bios de centro docente se realicen en las mejores condiciones para el alumno. Po
 el capítulo quinto de esta Orden se recogen las posibles convalidaciones y exenciones reco-
 nocidas en la normativa básica y se concreta el procedimiento para hacerlas efectivas.
 La presente Orden cumple con los principios de buena regulación recogidos en el ar-
-tículo 129 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de
-las Administraciones Públicas, y el artículo 2 del Decreto 52/2021, de 24 de marzo, del
+tículo 129 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Administrativo Común de
+las Administraciones Públicas, y el artículo 2 del [Decreto 52/2021](../01_marco_normativo_general_y_organico/D52_2021_procedimiento_elaboracion_disposiciones_normativas_madrid.md), de 24 de marzo, del
 Consejo de Gobierno, por el que se regula y simplifica el procedimiento de elaboración de
 las disposiciones normativas de carácter general en la Comunidad de Madrid. La presente
 
@@ -132,9 +146,9 @@ También se cumple el principio de transparencia, conforme a lo establecido en l
 Ley 10/2019, de 10 de abril, de Transparencia y de Participación de la Comunidad de Madrid,
 llevando a cabo el trámite de audiencia e información públicas, mediante la publicación de
 la orden y de los documentos de elaboración en el Portal de Transparencia de la Comunidad
-de Madrid, según lo dispuesto en el artículo 9 del Decreto 52/2021, de 24 de marzo.
-El calendario de implantación de las modificaciones derivadas del Real Decreto 243/2022,
-de 5 de abril, desarrolladas por el Decreto 64/2022, de 20 de julio, requiere que el cur-
+de Madrid, según lo dispuesto en el artículo 9 del [Decreto 52/2021](../01_marco_normativo_general_y_organico/D52_2021_procedimiento_elaboracion_disposiciones_normativas_madrid.md), de 24 de marzo.
+El calendario de implantación de las modificaciones derivadas del [Real Decreto 243/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD243_2022_establecen_ordenacion_ensenanzas_minimas_bachillerato.md),
+de 5 de abril, desarrolladas por el [Decreto 64/2022](./D64_2022_ordenacion_curriculo_bachillerato_madrid.md), de 20 de julio, requiere que el cur-
 so 2023-2024 se inicie con la implantación de las mismas en toda la etapa del Bachillerato.
 En la tramitación de la presente disposición, se ha emitido dictamen por el Consejo
 Escolar de la Comunidad de Madrid y cuenta con el informe de la Abogacía General de la
@@ -146,7 +160,7 @@ noviembre, del Consejo de Gobierno, por el que se establece la estructura orgán
 Consejería de Educación, Universidades, Ciencia y Portavocía de la Comunidad de Madrid,
 en relación con el Decreto 38/2022, de 15 de junio, del Consejo de Gobierno, por el que se
 crea la Vicepresidencia, Consejería de Educación y Universidades, y la disposición final se-
-gunda del Decreto 64/2022, de 20 de julio,
+gunda del [Decreto 64/2022](./D64_2022_ordenacion_curriculo_bachillerato_madrid.md), de 20 de julio,
 DISPONE
 
 ### Capítulo I. Disposiciones generales
@@ -273,12 +287,12 @@ Para poder formalizar matrícula en algún centro sostenido con fondos públicos
 será requisito haber sido admitido en el centro.
 3.
 La formalización de matrícula en un centro docente que imparta el Bachillerato
-otorgará al alumno los derechos reconocidos en el artículo 4 del Decreto 32/2019, de 9 de
+otorgará al alumno los derechos reconocidos en el artículo 4 del [Decreto 32/2019](../07_convivencia_bienestar_y_protocolos/D32_2019_marco_regulador_convivencia_centros_docentes_madrid.md), de 9 de
 abril, del Consejo de Gobierno, por el que se establece el marco regulador de la conviven-
 cia en los centros docentes de la Comunidad de Madrid. Asimismo, el alumno, sus padres
 y tutores legales asumirán los principios, valores, objetivos y fines recogidos en el proyec-
 to educativo del centro, que deberá hacerse público, y atenderán los deberes que les confie-
-re, en cada caso, el Decreto 32/2019, de 9 de abril.
+re, en cada caso, el [Decreto 32/2019](../07_convivencia_bienestar_y_protocolos/D32_2019_marco_regulador_convivencia_centros_docentes_madrid.md), de 9 de abril.
 4.
 Los directores de los centros docentes podrán autorizar de forma excepcional la
 matriculación de un alumno hasta un mes después del inicio del curso, por causas debida-
@@ -346,7 +360,7 @@ dentro del grupo de referencia en régimen ordinario
 1.
 Los grupos de referencia tendrán una ratio máxima de treinta y cinco alumnos, sin
 perjuicio de los supuestos de incremento de ratio que pudieran producirse en aplicación de
-lo dispuesto en el artículo 87.2 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+lo dispuesto en el artículo 87.2 de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación.
 2.
 En los centros sostenidos con fondos públicos, los grupos de materias específicas de
 modalidad se conformarán con un mínimo de quince alumnos. Excepcionalmente, el director
@@ -398,7 +412,7 @@ matricularse en las mismas, si bien no serán computables a efectos de modificar
 las condiciones en las que ha promocionado a segundo.
 d)
 Las materias de segundo curso en las que desee formalizar matrícula, en caso de tener
-reconocida continuidad conforme a lo recogido en el anexo III del Decreto 64/2022,
+reconocida continuidad conforme a lo recogido en el anexo III del [Decreto 64/2022](./D64_2022_ordenacion_curriculo_bachillerato_madrid.md),
 de 20 de julio, del Consejo de Gobierno, por el que se establecen para la Comuni-
 dad de Madrid la ordenación y el currículo del Bachillerato, requerirán la supera-
 ción de la materia del primer curso indicada en dicho anexo o, en su caso, la acre-
@@ -426,9 +440,9 @@ sible, deberá cursar una materia optativa de las ofertadas por el centro.
 
 1.
 La atención a las diferencias individuales del alumnado se ajustará al marco legal
-establecido en el Decreto 23/2023, de 22 de marzo, del Consejo de Gobierno, por el que se
+establecido en el [Decreto 23/2023](../06_atencion_diversidad_y_orientacion/D23_2023_atencion_diferencias_individuales_alumnos_madrid.md), de 22 de marzo, del Consejo de Gobierno, por el que se
 regula la atención educativa a las diferencias individuales del alumnado en la Comunidad
-de Madrid. De conformidad con el artículo 32.1 del Decreto 64/2022, de 20 de julio, la Con-
+de Madrid. De conformidad con el artículo 32.1 del [Decreto 64/2022](./D64_2022_ordenacion_curriculo_bachillerato_madrid.md), de 20 de julio, la Con-
 sejería competente en materia de Educación dispondrá los medios necesarios para que los
 alumnos que requieran una atención diferente a la ordinaria puedan alcanzar los objetivos
 establecidos para la etapa y adquirir las competencias correspondientes. La atención a este
@@ -484,7 +498,7 @@ a otros profesionales que intervengan en el proceso educativo.
 
 1.
 Los alumnos con necesidades educativas especiales se definen en el artículo 10 del
-Decreto 23/2023, de 22 de marzo, y requiere determinados apoyos y atenciones educativas
+[Decreto 23/2023](../06_atencion_diversidad_y_orientacion/D23_2023_atencion_diferencias_individuales_alumnos_madrid.md), de 22 de marzo, y requiere determinados apoyos y atenciones educativas
 específicas para la consecución de los objetivos de aprendizaje adecuados a su desarrollo.
 2.
 Las necesidades educativas de estos alumnos se identificarán y determinarán me-
@@ -789,7 +803,7 @@ ficación al interesado.
 d)
 En caso de resolución desestimatoria, el alumno en el plazo de un mes desde su notifi-
 cación podrá presentar recurso de alzada ante el órgano jerárquicamente superior, en
-los términos previstos en los artículos 115, 121 y 122 de la Ley 39/2015, de 1 de oc-
+los términos previstos en los artículos 115, 121 y 122 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de oc-
 tubre, del Procedimiento Administrativo Común de las Administraciones Públicas.
 4.
 Los centros podrán establecer grupos específicos para este tipo de alumnado, si
@@ -839,7 +853,7 @@ ferentes elementos del currículo.
 2.
 La evaluación continua del alumnado requiere su asistencia regular a las clases y
 a las actividades programadas para las distintas materias que constituyen el plan de estu-
-dios. De conformidad con el artículo 36.2 del Decreto 32/2019, de 9 de abril, los procedi-
+dios. De conformidad con el artículo 36.2 del [Decreto 32/2019](../07_convivencia_bienestar_y_protocolos/D32_2019_marco_regulador_convivencia_centros_docentes_madrid.md), de 9 de abril, los procedi-
 mientos extraordinarios de evaluación para los alumnos que superen el máximo de faltas de
 asistencia fijado en el plan de convivencia para la pérdida del derecho a la evaluación con-
 tinua se concretarán para cada materia en la correspondiente programación didáctica.
@@ -875,12 +889,12 @@ BOCM
 2.
 Los criterios de actuación para orientar la toma de decisiones de los equipos do-
 centes en los procesos de evaluación se incluirán en el proyecto educativo de centro, de
-acuerdo con lo regulado en el Decreto 64/2022, de 20 julio, y en esta Orden.
+acuerdo con lo regulado en el [Decreto 64/2022](./D64_2022_ordenacion_curriculo_bachillerato_madrid.md), de 20 julio, y en esta Orden.
 3.
 Todas las decisiones del equipo docente se adoptarán por consenso y, si ello no
 fuera posible, se adoptará por mayoría absoluta, es decir, más de la mitad de los miembros
 que integran el equipo docente del alumno, salvo las referentes a la titulación del alumno,
-que serán adoptadas conforme al artículo 24 del Decreto 64/2022, de 20 de julio.
+que serán adoptadas conforme al artículo 24 del [Decreto 64/2022](./D64_2022_ordenacion_curriculo_bachillerato_madrid.md), de 20 de julio.
 
 #### Artículo 19. Resultados de la evaluación
 
@@ -929,7 +943,7 @@ como las materias específicas de la modalidad por las que se expide el título 
 la materia de Religión.
 8.
 Para la aplicación de lo previsto en el apartado séptimo de la disposición adicio-
-nal primera del Decreto 64/2022, de 20 de julio, se calculará, además, una nota media nor-
+nal primera del [Decreto 64/2022](./D64_2022_ordenacion_curriculo_bachillerato_madrid.md), de 20 de julio, se calculará, además, una nota media nor-
 malizada sin tomar en consideración la calificación obtenida en la materia de Religión.
 9.
 No se computarán aquellas materias que hayan sido objeto de convalidación o de
@@ -1089,7 +1103,7 @@ obtenida en la materia no superada, sea igual o superior a cinco.
 BOCM
 3.
 En la sesión de evaluación final extraordinaria, las decisiones sobre titulación se-
-rán adoptadas conforme al artículo 24 del Decreto 64/2022, de 20 de julio.
+rán adoptadas conforme al artículo 24 del [Decreto 64/2022](./D64_2022_ordenacion_curriculo_bachillerato_madrid.md), de 20 de julio.
 4.
 El centro docente en el que el alumno finalice el Bachillerato realizará la propues-
 ta para la expedición del título de Bachiller.
@@ -1097,7 +1111,7 @@ ta para la expedición del título de Bachiller.
 El título de Bachiller será único y se expedirá con expresión de la modalidad cur-
 sada y de la nota media obtenida, sin perjuicio de lo previsto en la disposición adicional sép-
 tima de la presente Orden. Este título facultará para acceder a las distintas enseñanzas que
-constituyen la educación superior establecidas en el artículo 3.5 de la Ley Orgánica 2/2006,
+constituyen la educación superior establecidas en el artículo 3.5 de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md),
 de 3 de mayo, de Educación.
 
 #### Artículo 26. Obtención del título de Bachiller desde otras enseñanzas
@@ -1365,7 +1379,7 @@ Bachillerato en el ámbito territorial de la Comunidad de Madrid.
 #### Artículo 34. Traslado de centro docente una vez iniciado el curso escolar y antes de su finalización
 
 1.
-Cuando por alguno de los motivos recogidos en el artículo 12 del Decreto 29/2013,
+Cuando por alguno de los motivos recogidos en el artículo 12 del [Decreto 29/2013](../05_alumnado_y_servicios_escolares/D29_2013_libertad_eleccion_centro_escolar_madrid.md),
 de 11 de abril, del Consejo de Gobierno, de libertad de elección de centro escolar en la Co-
 munidad de Madrid, un alumno deba trasladarse de centro docente a lo largo del curso esco-
 lar, los padres o tutores legales deberán solicitar en el centro de origen el informe para el
@@ -1452,7 +1466,7 @@ BOCM
 4.
 Los padres o tutores legales tendrán derecho de acceso a la información sobre la
 concreción del currículo desarrollada por el centro a través del proyecto educativo del mis-
-mo que, de conformidad con lo dispuesto en el artículo 121.3 de la Ley Orgánica 2/2006,
+mo que, de conformidad con lo dispuesto en el artículo 121.3 de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md),
 de 3 de mayo, deberá hacerse público con objeto de facilitar su conocimiento por el conjun-
 to de la comunidad educativa.
 5.
@@ -1639,7 +1653,7 @@ las enseñanzas profesionales de Música son las recogidas en el anexo II.
 Las convalidaciones de diversas materias del Bachillerato con las asignaturas de
 las enseñanzas profesionales de Danza son las recogidas en el anexo III.
 3.
-Las materias optativas a la que se refiere el artículo 13 del Decreto 64/2022, de 20
+Las materias optativas a la que se refiere el artículo 13 del [Decreto 64/2022](./D64_2022_ordenacion_curriculo_bachillerato_madrid.md), de 20
 de julio, podrán ser convalidadas con una o más asignaturas de las enseñanzas profesiona-
 les de Música o de Danza que tengan en conjunto una carga horaria no inferior a tres horas
 semanales y no hayan sido utilizadas para convalidar otra materia, a elección del alumno.
@@ -1751,7 +1765,7 @@ puesto en la presente Orden, salvo en aquellos aspectos regulados en su normativ
 
 #### Disposición ADICIONAL SEGUNDA. Centros integrados
 
-De conformidad con la disposición adicional cuarta del Decreto 64/2022, de 26 de ju-
+De conformidad con la disposición adicional cuarta del [Decreto 64/2022](./D64_2022_ordenacion_curriculo_bachillerato_madrid.md), de 26 de ju-
 lio, la Consejería con competencias en materia de Educación adaptará lo establecido en esta
 norma a los centros integrados de Música, de Danza y de Bachillerato en la Comunidad de
 Madrid, especialmente en lo relativo al capítulo V de convalidaciones y exenciones.
@@ -1763,7 +1777,7 @@ En lo referente a la obtención de los datos personales del alumnado, a la cesi�
 mismos de unos centros a otros y a la seguridad y confidencialidad de estos, se estará a lo
 dispuesto en el Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo, de 27
 de abril de 2016, relativo a la protección de las personas físicas en lo que respecta al trata-
-miento de datos personales y en lo establecido en la Ley Orgánica 3/2018, de 5 de diciem-
+miento de datos personales y en lo establecido en la [Ley Orgánica 3/2018](../../../estatal/02_gestion_y_administracion_centros/LO3_2018_proteccion_datos_personales_garantia_derechos_digitales.md), de 5 de diciem-
 bre, de Protección de Datos Personales y Garantía de los Derechos Digitales.
 
 #### Disposición ADICIONAL CUARTA. Libros de texto y materiales curriculares.
@@ -1771,7 +1785,7 @@ bre, de Protección de Datos Personales y Garantía de los Derechos Digitales.
 1.
 Los libros de texto y demás materiales curriculares que hayan de utilizarse en cada
 curso de esta etapa deberán atenerse a lo que establece la disposición adicional cuarta de la Ley
-Orgánica 2/2006, de 3 de mayo, de Educación y al currículo establecido en el Decreto 64/2022,
+Orgánica 2/2006, de 3 de mayo, de Educación y al currículo establecido en el [Decreto 64/2022](./D64_2022_ordenacion_curriculo_bachillerato_madrid.md),
 de 26 de julio.
 2.
 El Servicio de Inspección Educativa supervisará los libros de texto y demás ma-
@@ -1794,7 +1808,7 @@ expediente académico del alumno y en el apartado de observaciones del historial
 co de Bachillerato.
 2.
 Sin perjuicio de que los centros bilingües, en virtud de la disposición adicional se-
-gunda del Decreto 64/2022, de 20 de julio, se rijan por su normativa específica, la consig-
+gunda del [Decreto 64/2022](./D64_2022_ordenacion_curriculo_bachillerato_madrid.md), de 20 de julio, se rijan por su normativa específica, la consig-
 
 BOCM
 nación de que un alumno ha cursado en un centro bilingüe el Programa Bilingüe o la Sec-
@@ -1820,7 +1834,7 @@ ción las enseñanzas cursadas en lenguas extranjeras.
 1.
 Quienes hayan obtenido el título de Bachiller por una modalidad podrán obtener-
 lo, además en cualquiera de las otras modalidades mediante la superación de las materias
-de modalidad de primer y segundo curso que, conforme a lo previsto en el Decreto 64/2022,
+de modalidad de primer y segundo curso que, conforme a lo previsto en el [Decreto 64/2022](./D64_2022_ordenacion_curriculo_bachillerato_madrid.md),
 de 20 de julio, se requieren para la modalidad elegida.
 2.
 Los alumnos que posean el título de Técnico en Artes Plásticas y Diseño o hayan su-
@@ -1840,10 +1854,10 @@ establecido en el artículo 26.5.
 Los centros privados adecuarán a su organización y sus normas de funcionamiento las
 referencias a los órganos de gobierno y coordinación docente, recogidas en esta Orden. En
 su caso, podrán ejercer en aquellos aspectos en que sea de aplicación la autonomía recogi-
-da en el artículo veinticinco de la Ley Orgánica 8/1985, de 3 de julio, reguladora del Dere-
+da en el artículo veinticinco de la [Ley Orgánica 8/1985](../../../estatal/02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md), de 3 de julio, reguladora del Dere-
 cho a la Educación.
 
-#### Disposición ADICIONAL OCTAVA. Alumnado que haya cursado enseñanzas derivadas de la Ley Orgánica 8/2013,
+#### Disposición ADICIONAL OCTAVA. Alumnado que haya cursado enseñanzas derivadas de la [Ley Orgánica 8/2013](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md),
 
 de 9 de diciembre, y continúe sus estudios de Bachillerato con las enseñanzas
 derivadas de la Ley Orgánica 3/2020, de 29 de diciembre
@@ -1862,7 +1876,7 @@ Para la recuperación de las materias no superadas en Bachillerato se tomará co
 referencia el currículo derivado de la Ley Orgánica 3/2020, de 29 de diciembre.
 4.
 Los alumnos con materias pendientes de superar de cursos anteriores que hayan
-sido cursadas conforme a la Ley Orgánica 8/2013, de 29 de diciembre, serán evaluados de
+sido cursadas conforme a la [Ley Orgánica 8/2013](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md), de 29 de diciembre, serán evaluados de
 las mismas, si continúan formando parte de la organización del curso correspondiente a la
 ordenación derivada de la Ley Orgánica 3/2020, de 29 de diciembre, o bien, si las materias
 

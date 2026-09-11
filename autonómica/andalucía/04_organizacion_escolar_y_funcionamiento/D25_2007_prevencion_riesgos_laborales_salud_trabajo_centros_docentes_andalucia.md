@@ -1,6 +1,8 @@
 ---
 id: norm-and-d25-2007-prevencion-riesgos-laborales-salud-trabajo-centros-docentes-andalucia
-titulo: Decreto 25/2007, de 6 de febrero, por el que se establecen medidas para el fomento, la prevención de riesgos y la seguridad en el uso de Internet y las tecnologías de la información y la comunicación (TIC) por parte de las personas menores de edad.
+titulo: Decreto 25/2007, de 6 de febrero, por el que se establecen medidas para el
+  fomento, la prevención de riesgos y la seguridad en el uso de Internet y las tecnologías
+  de la información y la comunicación (TIC) por parte de las personas menores de edad.
 jurisdiccion: Andalucía
 ambito: Autonómico
 organo_emisor: Dirección General de Profesorado y Gestión de Recursos Humanos
@@ -17,8 +19,10 @@ fuente_pdf_oficial: http://www.juntadeandalucia.es/boja/2007/39/d5.pdf
 clasificacion:
   categoria_canonica: 04_organizacion_escolar_y_funcionamiento
   subcategoria: Salud y prevención de riesgos
+fundamentos_derecho:
+- norma_id: norm-and-l6-2006-gobierno-comunidad-autonoma-andalucia
+- norma_id: norm-es-lo-1-1996
 ---
-
 # Decreto 25/2007, de 6 de febrero, por el que se establecen medidas para el fomento, la prevención de riesgos y la seguridad en el uso de Internet y las tecnologías de la información y la comunicación (TIC) por parte de las personas menores de edad.
 
 ## Preámbulo
@@ -63,7 +67,7 @@ del Estatuto de Autonomía para Andalucía reconoce a la Comu-
 nidad Autónoma competencia exclusiva en materia de servicios 
 sociales e instituciones públicas de protección y tutela de me-
 nores respetando la legislación civil, penal y penitenciaria.
-Por su parte, la Ley Orgánica 1/1996, de 15 de enero, 
+Por su parte, la [Ley Orgánica 1/1996](../../../estatal/01_marco_normativo_general_y_organico/LO1_1996_proteccion_juridica_menor_modificacion_parcial_codigo.md), de 15 de enero, 
 de Protección Jurídica del Menor, de modificación parcial del 
 Código Civil y de la Ley de Enjuiciamiento Civil, consagra en su 
 artículo 5 el derecho de los menores a la información.
@@ -100,7 +104,7 @@ programas informativos y formativos destinados específica-
 mente a las personas menores, salvaguardando el derecho 
 a la recepción de información veraz, plural y respetuosa con 
 los principios constitucionales, según lo dispuesto en el artícu-
-lo 5.2 de la Ley Orgánica 1/1996. Del apartado 2 del mismo 
+lo 5.2 de la [Ley Orgánica 1/1996](../../../estatal/01_marco_normativo_general_y_organico/LO1_1996_proteccion_juridica_menor_modificacion_parcial_codigo.md). Del apartado 2 del mismo 
 articulo, resulta el deber de las Administraciones Públicas de 
 Andalucía de velar para que en los sistemas informáticos de 
 uso general o cualesquiera otros derivados de la aplicación de 
@@ -135,7 +139,7 @@ nización de Andalucía (2005-2010) aprobado por Acuerdo del
 Consejo de Gobierno de 7 de junio de 2005.
 En su virtud, a propuesta del Consejero de Innovación, 
 Ciencia y Empresa, al amparo de lo previsto en el apartado 
-tercero del articulo 21 de la ley 6/2006, de 24 de octubre, 
+tercero del articulo 21 de la [ley 6/2006](../01_marco_normativo_general_y_organico/L6_2006_gobierno_comunidad_autonoma_andalucia.md), de 24 de octubre, 
 del Gobierno de la Comunidad Autónoma de Andalucía, de 
 acuerdo con el Consejo Consultivo de Andalucía y previa de-
 liberación del Consejo de Gobierno en su reunión del día 6 de 

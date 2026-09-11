@@ -253,8 +253,22 @@ relaciones:
     - Art. 9
     - Art. 10
     - Art. 11
+fundamentos_derecho:
+- norma_id: norm-and-dl2-2021-procedimientos-admision-alumnado-centros-docentes-andalucia
+- norma_id: norm-can-l-4-2023
+- norma_id: norm-can-l-6-2014
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-mad-l4-2023
+- norma_id: norm-es-l-39-2015
+- norma_id: norm-es-l-40-2015
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-lo-3-2018
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
+- norma_id: norm-es-2010-4518
+- norma_id: norm-es-2021-11382
+- norma_id: norm-es-lo-8-2021
 ---
-
 # Decreto 120/2026, de 13 de julio, por el que se regulan los procedimientos para la certificación, acreditación y reconocimiento de la competencia digital docente en el ámbito de la Comunidad Autónoma de Canarias.
 
 ## Preámbulo
@@ -317,7 +331,7 @@ en el artículo 149.1.18.ª de la Constitución, que incluye, en todo caso, la a
 normas de procedimiento administrativo que deriven de las particularidades del derecho 
 sustantivo de Canarias o de las especialidades de la organización de la Administración 
 Pública canaria.
-Asimismo, el apartado 3 del artículo 6 bis de la Ley Orgánica 2/2006, de 3 de mayo, 
+Asimismo, el apartado 3 del artículo 6 bis de la [Ley Orgánica 2/2006](../05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, 
 de Educación (LOE), tras la modificación introducida por la Ley Orgánica 3/2020, de 
 29 de diciembre (LOMLOE), establece que “Corresponde a las comunidades autónomas 
 el ejercicio de sus competencias estatutarias en materia de educación y el desarrollo de las 
@@ -346,21 +360,21 @@ orienten la formación inicial y permanente del profesorado y faciliten el desar
 cultura digital en los centros y en las aulas”.
 
 Lunes 20 de julio de 2026
-Por otro lado, el artículo 83.2  de la Ley Orgánica 3/2018, de 5  de diciembre, de 
+Por otro lado, el artículo 83.2  de la [Ley Orgánica 3/2018](../../../estatal/02_gestion_y_administracion_centros/LO3_2018_proteccion_datos_personales_garantia_derechos_digitales.md), de 5  de diciembre, de 
 Protección de Datos Personales y garantía de los derechos digitales, establece que “El 
 profesorado recibirá las competencias digitales y la formación necesaria para la enseñanza 
 y transmisión de los valores y derechos”.
-A lo que se suma lo dispuesto en el artículo 33 de la Ley Orgánica 8/2021, de 4 de 
+A lo que se suma lo dispuesto en el artículo 33 de la [Ley Orgánica 8/2021](../../../estatal/07_convivencia_bienestar_y_protocolos/LO8_2021_proteccion_integral_infancia_adolescencia_frente_violencia.md), de 4 de 
 junio, de protección integral a la infancia y la adolescencia frente a la violencia, relativo a 
 la formación en materia de derechos, seguridad y responsabilidad digital: “Las administraciones 
 públicas garantizarán la plena inserción del alumnado en la sociedad digital y el aprendizaje 
 de un uso de los medios digitales que sea seguro y respetuoso con la dignidad humana, los 
 valores constitucionales, los derechos fundamentales y, particularmente con el respeto y la 
 garantía de la intimidad personal y familiar y la protección de datos personales, conforme a 
-lo previsto en el artículo 83 de la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de 
+lo previsto en el artículo 83 de la [Ley Orgánica 3/2018](../../../estatal/02_gestion_y_administracion_centros/LO3_2018_proteccion_datos_personales_garantia_derechos_digitales.md), de 5 de diciembre, de Protección de 
 Datos Personales y garantía de los derechos digitales. Específicamente, las administraciones 
 públicas promoverán dentro de todas las etapas formativas el uso adecuado de Internet”.
-El artículo 24.2 de la Ley 6/2014, de 25 de julio, Canaria de Educación no Universitaria, 
+El artículo 24.2 de la [Ley 6/2014](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md), de 25 de julio, Canaria de Educación no Universitaria, 
 determina que “La consejería competente en materia educativa promoverá el desarrollo de 
 entornos de aprendizaje abiertos que ofrezcan nuevas condiciones y formas de aprendizaje y 
 docencia adaptadas a un mundo digitalizado, así como la utilización de recursos educativos 
@@ -372,7 +386,7 @@ Por su parte, el artículo 40.5 de la precitada Ley 6/2024, de 25 de julio, pr
 poseer la titulación requerida para cada etapa educativa y debe acreditar la capacitación 
 para ejercer la docencia utilizando medios telemáticos y los otros recursos propios de la 
 educación no presencial”.
-Asimismo, el artículo 64.6 de la reseñada Ley 6/2014, de 25 de julio, reafirma que: 
+Asimismo, el artículo 64.6 de la reseñada [Ley 6/2014](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md), de 25 de julio, reafirma que: 
 “La formación permanente constituye un derecho y una obligación del profesorado. A tales 
 efectos, la consejería competente en materia de educación realizará una oferta de actividades 
 formativas diversificada, adecuada a las líneas estratégicas del sistema educativo, a las 
@@ -411,10 +425,10 @@ acreditación para cada uno de los niveles de competencia digital docente y el A
 presenta un modelo del certificado de acreditación.
 IV
 La regulación prevista se ajusta a los principios de buena regulación contenidos en 
-el artículo 129  de la Ley 39/2015, de 1  de octubre, del Procedimiento Administrativo 
+el artículo 129  de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1  de octubre, del Procedimiento Administrativo 
 Común de las Administraciones Públicas, esto es, los principios de necesidad, eficacia, 
 proporcionalidad, seguridad jurídica, transparencia y eficiencia, en relación con los apartados 1 
-y 2 del artículo 66 y el artículo 80.5 de la Ley 4/2023, de 23 de marzo, de la Presidencia y 
+y 2 del artículo 66 y el artículo 80.5 de la [Ley 4/2023](../01_marco_normativo_general_y_organico/L4_2023_presidencia_gobierno_canarias.md), de 23 de marzo, de la Presidencia y 
 del Gobierno de Canarias, en tanto persigue el interés general, al conferir validez, estabilidad 
 y continuidad al procedimiento por el que se certifica, acredita y reconoce la competencia 
 digital docente y la unificación de criterios y homogeneidad para su reconocimiento en 
@@ -440,10 +454,10 @@ personas destinatarias de la misma, dándose cumplimiento a los preceptivos trá
 participación ciudadana, al haber sido puesta a disposición de la ciudadanía mediante su 
 publicación en el portal web de la Consejería de Presidencia, Administraciones Públicas, 
 Justicia y Seguridad.
-Conforme a lo dispuesto en la Ley 1/2010, de 26 de febrero, Canaria de Igualdad entre 
+Conforme a lo dispuesto en la [Ley 1/2010](../../../estatal/07_convivencia_bienestar_y_protocolos/L1_2010_canaria_igualdad_entre_mujeres_hombres.md), de 26 de febrero, Canaria de Igualdad entre 
 Mujeres y Hombres, se realiza una evaluación previa del impacto de género para garantizar 
 la integración del principio de igualdad entre mujeres y hombres garantizando un desarrollo 
-profesional no sesgado por el género. Además, en cumplimiento de la Ley 2/2021, de 7 de 
+profesional no sesgado por el género. Además, en cumplimiento de la [Ley 2/2021](../../andalucía/05_alumnado_y_servicios_escolares/DL2_2021_procedimientos_admision_alumnado_centros_docentes_andalucia.md), de 7 de 
 junio, de igualdad social y no discriminación por razón de identidad de genero, expresión 
 de género y características sexuales, se realiza una evaluación del impacto sobre identidad 
 y expresión de género y de diversidad sexual, concluyéndose en ambos que, del contenido 
@@ -451,7 +465,7 @@ del proyecto normativo se aprecia impacto positivo por razón de identidad o exp
 género, no siendo necesario incluir medidas correctoras o compensatorias por no existir 
 desigualdades.
 En su virtud, en ejercicio de la potestad reglamentaria que confiere al Gobierno el 
-artículo 28.d) de la Ley 4/2023, de 23 de marzo, de la Presidencia y del Gobierno de 
+artículo 28.d) de la [Ley 4/2023](../01_marco_normativo_general_y_organico/L4_2023_presidencia_gobierno_canarias.md), de 23 de marzo, de la Presidencia y del Gobierno de 
 Canarias, una vez oído el Consejo Escolar de Canarias, de acuerdo con el dictamen n.º 
 154/2026, de 30 de abril, del Consejo Consultivo de Canarias, a propuesta del Consejero 
 de Educación, Formación Profesional Actividad Física y Deportes, de conformidad con el 
@@ -468,7 +482,7 @@ establecidos en el Acuerdo de 23 de junio de 2022 de la Conferencia Sectorial 
 sobre la certificación, acreditación y reconocimiento de la competencia digital docente.
 ### Artículo 2.- Ámbito de aplicación.
 La regulación contenida en este Decreto será de aplicación al personal docente no 
-universitario de enseñanzas reguladas por la Ley Orgánica 2/2006, de 3  de mayo, de 
+universitario de enseñanzas reguladas por la [Ley Orgánica 2/2006](../05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3  de mayo, de 
 Educación, o normativa legal que la sustituya, en el ámbito de la Comunidad Autónoma de 
 Canarias.
 
@@ -498,7 +512,7 @@ profesorado convocará los distintos procedimientos de acreditación, atendiendo
 establecido en los siguientes artículos.
 ### Artículo 5.- Requisitos de participación.
 1. Podrá participar en los procedimientos regulados por el presente Decreto el personal 
-docente no universitario de enseñanzas reguladas por la Ley Orgánica 2/2006, de 3 de 
+docente no universitario de enseñanzas reguladas por la [Ley Orgánica 2/2006](../05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de 
 mayo, de Educación, o normativa legal que la sustituya, en el ámbito de la Comunidad 
 Autónoma de Canarias.
 2. En aquellos procedimientos que convoquen los niveles A1 y A2 de competencia 
@@ -568,7 +582,7 @@ secretaría del órgano.
 ### Artículo 11.- Funcionamiento y funciones de las comisiones de valoración.
 1. Con carácter general, el régimen de funcionamiento de las diferentes comisiones de 
 valoración se ajustará a lo establecido en la Sección 3.ª del Capítulo II del Título Preliminar 
-de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, o normativa 
+de la [Ley 40/2015](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md), de 1 de octubre, de Régimen Jurídico del Sector Público, o normativa 
 legal que la sustituya.
 2. Las comisiones de valoración tendrán atribuidas las siguientes funciones:
 a) Valorar las tareas, evidencias, documentación o méritos acreditados por las personas 

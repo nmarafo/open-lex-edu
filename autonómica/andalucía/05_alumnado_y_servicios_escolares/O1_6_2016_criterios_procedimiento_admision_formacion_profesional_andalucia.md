@@ -18,9 +18,26 @@ estado: Vigente
 redaccion: original
 fuente_oficial: http://www.juntadeandalucia.es/boja/2016/108/3
 fuente_pdf_oficial: http://www.juntadeandalucia.es/boja/pdf/2016/108/3
+clasificacion:
+  categoria_canonica: 05_alumnado_y_servicios_escolares
+  subcategoria: Formación Profesional
+fundamentos_derecho:
+- norma_id: norm-and-l17-2007
+- norma_id: norm-and-l6-2006-gobierno-comunidad-autonoma-andalucia
+- norma_id: norm-and-l9-2007-administracion-junta-andalucia-laja
+- norma_id: norm-and-d285-2010-regulacion-sistema-informacion-seneca-andalucia
+- norma_id: norm-and-d359-2011-regulacion-modalidades-semipresencial-distancia-andalucia
+- norma_id: norm-and-d-40-2011
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-1999-23750
+- norma_id: norm-es-2001-7022
+- norma_id: norm-es-lo-8-1985
+- norma_id: norm-es-2016-3229
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
+- norma_id: norm-es-1998-10720
 ---
-
-
 # Orden de 1 de junio de 2016, por la que se regulan los criterios y el procedimiento de admisión del alumnado en los centros docentes para cursar ciclos formativos de grado medio y de grado superior, sostenidos con fondos públicos, de formación profesional inicial del sistema educativo.
 
 ## Preámbulo
@@ -28,7 +45,7 @@ fuente_pdf_oficial: http://www.juntadeandalucia.es/boja/pdf/2016/108/3
 Orden de 1 de junio de 2016, por la que se regulan los criterios y el procedimiento de admisión 
 del alumnado en los centros docentes para cursar ciclos formativos de grado medio y de grado superior, 
 sostenidos con fondos públicos, de formación profesional inicial del sistema educativo. 
-La Ley Orgánica 2/2006, de 3 de mayo, de Educación, establece en los apartados 2 y 3.b) del artículo 
+La [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, establece en los apartados 2 y 3.b) del artículo 
 41 las condiciones genéricas de admisión del alumnado en los ciclos formativos de grados medio o superior de 
 formación profesional inicial del sistema educativo. Estas condiciones se concretan en el artículo 47.2 del Real 
 Decreto 1147/2011, de 29 de julio, por el que se establece la ordenación general de la formación profesional del 
@@ -41,7 +58,7 @@ modalidad presencial y oferta parcial por módulos profesionales.
 Las peculiaridades de los procedimientos de admisión en las enseñanzas de formación profesional 
 aconsejan una gestión centralizada de los mismos que permita un tratamiento más ágil de las solicitudes 
 presentadas por las personas interesadas en los diferentes centros docentes sostenidos con fondos públicos 
-y tengan autorizada la oferta de enseñanza que regula esta Orden. El artículo 70 de la Ley 17/2007, de 10 de 
+y tengan autorizada la oferta de enseñanza que regula esta Orden. El artículo 70 de la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de 
 diciembre, de Educación de Andalucía, establece que, a los únicos efectos del ingreso en los ciclos formativos 
 de formación profesional inicial, todos los centros docentes sostenidos con fondos públicos que impartan estas 
 enseñanzas se constituirán en un distrito único, que permitirá la gestión centralizada de todas las solicitudes 
@@ -62,18 +79,18 @@ Por otra parte, el Real Decreto 127/2014, de 28 de febrero, por el que se regula
 de la Formación Profesional Básica de las enseñanzas de formación profesional del sistema educativo, por el que 
 se aprueban catorce títulos profesionales básicos, se fijan sus currículos básicos y se modifica el Real Decreto 
 1850/2009, de 4 de diciembre, sobre expedición de títulos académicos y profesionales correspondientes a 
-las enseñanzas establecidas en la Ley Orgánica 2/2006, de 3 de mayo, de Educación, ha creado las nuevas 
+las enseñanzas establecidas en la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, ha creado las nuevas 
 enseñanzas de Formación Profesional Básica regulando sus condiciones de acceso y su integración con el resto 
 de enseñanzas del Sistema Educativo.
 Por todo lo anterior, es necesario actualizar la normativa autonómica que regule el procedimiento de 
 admisión en las enseñanzas de Formación Profesional para que contemple las nuevas enseñanzas de Formación 
 Profesional Básica y las modificaciones introducidas por la nueva normativa.
 En su virtud, a propuesta de la Directora General de Formación Profesional Inicial y Educación 
-Permanente, de conformidad con lo establecido en la disposición adicional octava del Decreto 40/2011, de 
+Permanente, de conformidad con lo establecido en la disposición adicional octava del [Decreto 40/2011](./D40_2011_criterios_procedimiento_admision_alumnado_centros_docentes_andalucia.md), de 
 22 de febrero, por el que se regulan los criterios y el procedimiento de admisión del alumnado en los centros 
 docentes públicos y privados concertados para cursar las enseñanzas de segundo ciclo de educación infantil, 
 educación primaria, educación especial, educación secundaria obligatoria y bachillerato, y de acuerdo con las 
-atribuciones conferidas por el artículo 44.2 de la Ley 6/2006, de 24 de octubre, del Gobierno de la Comunidad 
+atribuciones conferidas por el artículo 44.2 de la [Ley 6/2006](../01_marco_normativo_general_y_organico/L6_2006_gobierno_comunidad_autonoma_andalucia.md), de 24 de octubre, del Gobierno de la Comunidad 
 Autónoma de Andalucía,
 00092708
 
@@ -118,7 +135,7 @@ c) En oferta parcial diferenciada: incluye un único módulo profesional de un c
 1. La escolarización del alumnado en las enseñanzas a las que se refiere esta Orden garantizará el 
 ejercicio del derecho a la educación, el acceso en condiciones de igualdad y la libertad de elección de centro 
 educativo por solicitantes mayores de edad y por los padres, madres o tutores legales, en el caso de solicitantes 
-menores de edad, en los términos establecidos en los artículos 84 y 85.2 de la Ley Orgánica 2/2006, de 3 de 
+menores de edad, en los términos establecidos en los artículos 84 y 85.2 de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de 
 mayo, de Educación, y en la presente Orden.
 2. En ningún caso habrá discriminación en la admisión del alumnado por razón de nacimiento, raza, 
 sexo, religión, opinión o cualquier otra condición o circunstancia personal o social. Asimismo, no podrá exigirse 
@@ -180,7 +197,7 @@ correspondiente procedimiento de modificación de la autorización. El tamaño d
 de equipamiento existente en el centro docente, serán factores a tener en cuenta.
 3. La Consejería competente en materia de educación podrá autorizar, de manera excepcional, un 
 incremento de hasta un diez por ciento del número máximo de alumnos y alumnas por módulo profesional para 
-atender las necesidades inmediatas de escolarización recogidas en el artículo 87.2 de la Ley Orgánica 2/2006, 
+atender las necesidades inmediatas de escolarización recogidas en el artículo 87.2 de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), 
 de 3 de mayo, de Educación.
 4. En el procedimiento de admisión del alumnado en oferta completa, la dirección de los centros docentes 
 públicos o las personas físicas y jurídicas titulares de los centros docentes privados concertados determinarán 
@@ -197,7 +214,7 @@ deportistas de alto nivel y alto rendimiento, del total de plazas escolares auto
 un 5% para los deportistas que acrediten la condición de deportista de alto nivel o de alto rendimiento. En caso 
 de que el resultado del cálculo de este porcentaje no sea un número entero, se tomará el inmediatamente 
 superior.
-6. De conformidad con lo dispuesto en el artículo 75.2 de la Ley Orgánica 2/2006, de 3 de mayo, de 
+6. De conformidad con lo dispuesto en el artículo 75.2 de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de 
 Educación, del total de plazas escolares autorizadas que se ofrecen se reservará un 5% para alumnado cuya 
 discapacidad reconocida sea igual o superior al 33%. En caso de que el resultado del cálculo de este porcentaje 
 no sea un número entero, se tomará el inmediatamente superior. Las personas que accedan por esta reserva 
@@ -376,15 +393,15 @@ acreditando experiencia laboral.
 ### Artículo 10. Acceso a las enseñanzas de formación profesional inicial del sistema educativo para personas
 
 adultas.
-1. De conformidad con lo establecido en el artículo 67.1 de la Ley Orgánica 2/2006, de 3 de mayo, 
+1. De conformidad con lo establecido en el artículo 67.1 de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, 
 para acceder a los ciclos formativos de formación profesional en el régimen de personas adultas será necesario, 
 además de reunir alguno de los requisitos de acceso establecidos en la presente Orden, tener cumplidos 18 
 años a 31 de diciembre del año natural en el que se formaliza la matrícula.
 2. Excepcionalmente, podrán, asimismo, cursar estas enseñanzas las personas mayores de dieciséis 
 años, o que cumplan esa edad dentro del año natural en que comienza el curso académico, que lo soliciten y 
-que acrediten alguna de las situaciones establecidas en el artículo 105 de la Ley 17/2007, de 10 de diciembre, 
+que acrediten alguna de las situaciones establecidas en el artículo 105 de la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre, 
 de Educación de Andalucía, así como las contempladas en las situaciones establecidas en el artículo 13 del 
-Decreto 359/2011, de 7 de diciembre, por el que se regulan las modalidades semipresencial y a distancia de las 
+[Decreto 359/2011](../03_ordenacion_curricular_y_ensenanzas/D359_2011_regulacion_modalidades_semipresencial_distancia_andalucia.md), de 7 de diciembre, por el que se regulan las modalidades semipresencial y a distancia de las 
 enseñanzas de Formación Profesional Inicial, de Educación Permanente de Personas Adultas, especializadas de 
 idiomas y deportivas, se crea el Instituto de Enseñanzas a Distancia de Andalucía y se establece su estructura 
 orgánica y funcional.
@@ -446,7 +463,7 @@ los artículos 8 y 9, se realizará atendiendo al mayor tiempo de experiencia la
 las personas solicitantes a las que se refieren los apartados 5, 6 y 7 del artículo 5 y apartado 2.a) del presente 
 artículo, se realizará atendiendo al resultado del sorteo establecido en el artículo 14.
 3. En el caso de la modalidad a distancia, la admisión del alumnado en esta oferta parcial se realizará 
-de conformidad con lo establecido en el artículo 18 del Decreto 359/2011, de 7 de diciembre.
+de conformidad con lo establecido en el artículo 18 del [Decreto 359/2011](../03_ordenacion_curricular_y_ensenanzas/D359_2011_regulacion_modalidades_semipresencial_distancia_andalucia.md), de 7 de diciembre.
 
 ### Artículo 14. Criterios de desempate.
 
@@ -507,7 +524,7 @@ obtenido en el curso académico anterior.
 Cualificación Profesional Inicial.
 d) Para el acceso al cupo establecido en el artículo 5, apartados 8.a).3.º y 8.b).3.º, tendrán prioridad:
 1.º Solicitantes que presenten la prueba de acceso a ciclos formativos de grado medio o el curso 
-de acceso a ciclos formativos de grado medio establecido en la Ley Orgánica 2/2006, de 3 de mayo, de 
+de acceso a ciclos formativos de grado medio establecido en la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de 
 Educación.
 2.º Solicitantes que presenten una titulación equivalente al título de Graduado en Educación Secundaria 
 Obligatoria, por la opción de enseñanzas aplicadas.
@@ -561,7 +578,7 @@ certificación oficial de la nota final de la prueba o curso de acceso realizado
 correspondiente.
 3. La persona que ejerce la dirección del centro docente público o la persona física o jurídica titular del 
 centro docente privado concertado, incorporará al expediente del procedimiento de admisión la correspondiente 
-certificación académica emitida por el sistema de información Séneca regulado por el Decreto 285/2010, de 
+certificación académica emitida por el sistema de información Séneca regulado por el [Decreto 285/2010](../02_gestion_y_administracion_centros/D285_2010_regulacion_sistema_informacion_seneca_andalucia.md), de 
 11 de mayo, por el que se regula el sistema de información Séneca y se establece su utilización para la gestión 
 del sistema educativo andaluz. En el caso de que dicho sistema de información no disponga de la información 
 necesaria, la persona que ejerce la dirección del centro docente público o la persona física o jurídica titular del 
@@ -629,7 +646,7 @@ ocupaciones realizadas y duración de las mismas.
 
 La persona que ejerce la dirección del centro docente público o la persona física o jurídica titular del 
 centro docente privado concertado incorporará al expediente del procedimiento de admisión la correspondiente 
-certificación académica emitida por el sistema de información Séneca regulado por el Decreto 285/2010, de 
+certificación académica emitida por el sistema de información Séneca regulado por el [Decreto 285/2010](../02_gestion_y_administracion_centros/D285_2010_regulacion_sistema_informacion_seneca_andalucia.md), de 
 11 de mayo, respecto de las situaciones recogidas en el artículo 13.2.a). En el caso de que dicho sistema de 
 información no disponga de la información necesaria, la persona que ejerce la dirección del centro docente 
 público o la persona física o jurídica titular del centro educativo privado concertado requerirá a la persona 
@@ -694,7 +711,7 @@ procedan.
 
 1. La acreditación de la renta de la unidad familiar se realizará de conformidad con lo establecido en el 
 
-### artículo 20 del Decreto 359/2011, de 7 de diciembre.
+### artículo 20 del [Decreto 359/2011](../03_ordenacion_curricular_y_ensenanzas/D359_2011_regulacion_modalidades_semipresencial_distancia_andalucia.md), de 7 de diciembre.
 
 2. La unidad familiar a tener en cuenta será aquella a la que pertenecía la persona solicitante a fecha de 
 31 de diciembre del ejercicio fiscal del Impuesto de la Renta de las Personas Físicas inmediatamente anterior, 
@@ -732,7 +749,7 @@ Procedimiento de admisión
 
 ### Artículo 29. Distrito único.
 
-De conformidad con lo dispuesto en el artículo 70 de la Ley 17/2007, de Educación de Andalucía, a los 
+De conformidad con lo dispuesto en el artículo 70 de la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de Educación de Andalucía, a los 
 efectos del ingreso en los ciclos formativos de formación profesional inicial del sistema educativo, sostenidos con 
 fondos públicos, todos los centros docentes que impartan enseñanzas de formación profesional, se constituirán 
 en distrito único, que permitirá una gestión centralizada de todas las solicitudes presentadas.
@@ -802,7 +819,7 @@ grado medio o superior, u oferta parcial diferenciada; se cumplimentará de form
 Virtual de Centros de la Consejería competente en materia de educación, y se presentará en el centro docente 
 solicitado en primer lugar, sin perjuicio de lo establecido en el artículo 38.4 de la Ley 30/1992, de 26 de 
 noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, y 
-en los artículos 82 y 83 de la Ley 9/2007, de 22 de octubre, de la Administración de la Junta de Andalucía, en 
+en los artículos 82 y 83 de la [Ley 9/2007](../01_marco_normativo_general_y_organico/L9_2007_administracion_junta_andalucia_laja.md), de 22 de octubre, de la Administración de la Junta de Andalucía, en 
 cuyo caso, para agilizar el procedimiento, podrá remitirse, copia al centro docentes al que se dirige la solicitud.
 2. Los centros docentes con enseñanzas autorizadas sostenidas con fondos públicos facilitarán puntos 
 de acceso para que la ciudadanía pueda acceder a los trámites y la ayuda e información necesaria.
@@ -1170,7 +1187,7 @@ La solicitud de matrícula en el centro docente en el que el alumno o alumna hay
 en virtud del procedimiento de admisión regulado en esta Orden o en el que continúe enseñanzas se realizará 
 de forma telemática en la secretaría virtual de centros de la Consejería competente en materia de educación de 
 acuerdo a lo dispuesto en el artículo 35 de la presente Orden, sin perjuicio de lo establecido en el artículo 38.4 
-de la Ley 30/1992, de 26 de noviembre, y en los artículos 82 y 83 de la Ley 9/2007, de 22 de octubre, en cuyo 
+de la Ley 30/1992, de 26 de noviembre, y en los artículos 82 y 83 de la [Ley 9/2007](../01_marco_normativo_general_y_organico/L9_2007_administracion_junta_andalucia_laja.md), de 22 de octubre, en cuyo 
 caso, para agilizar el procedimiento, podrá remitirse, por cualquier otro medio, copia al centro docente al que se 
 dirige la solicitud.
 00092708
@@ -1274,9 +1291,9 @@ formularán en impresos normalizados, utilizando para ello el Anexo VI.
 3. Los centros docentes deberán matricular antes del 31 de octubre de cada curso académico a los 
 siguientes colectivos:
 a) Alumnado con los módulos profesionales de Formación en Centros de Trabajo y/o Proyecto integrado 
-de los títulos derivados de la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema 
+de los títulos derivados de la [Ley Orgánica 1/1990](../../../estatal/02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md), de 3 de octubre, de Ordenación General del Sistema 
 Educativo y con el módulo profesional de Formación en Centros de Trabajo y, si procede, de Proyecto, de los 
-títulos derivados de la Ley Orgánica 2/2006, de 3 de mayo, cuando estos sean los únicos que le quede a la 
+títulos derivados de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, cuando estos sean los únicos que le quede a la 
 persona por cursar.
 b) Alumnado con resolución favorable de convocatoria extraordinaria en determinados módulos 
 profesionales en atención a lo dispuesto en el artículo 6 de la Orden de 29 de septiembre de 2010.
@@ -1301,12 +1318,12 @@ empleará el modelo que se acompaña como Anexo VI.
 
 a distancia.
 1. El alumnado matriculado en las enseñanzas impartidas en la modalidad a distancia contribuirá al 
-coste de las mismas conforme se establece en el artículo 25 del Decreto 359/2011 de 7 de diciembre.
+coste de las mismas conforme se establece en el artículo 25 del [Decreto 359/2011](../03_ordenacion_curricular_y_ensenanzas/D359_2011_regulacion_modalidades_semipresencial_distancia_andalucia.md) de 7 de diciembre.
 00092708
 
 Núm. 108  página 112	
 8  de  junio  2016
-2. De acuerdo con lo establecido en el artículo 25.3 del Decreto 359/2011, de 7 de diciembre, estará 
+2. De acuerdo con lo establecido en el artículo 25.3 del [Decreto 359/2011](../03_ordenacion_curricular_y_ensenanzas/D359_2011_regulacion_modalidades_semipresencial_distancia_andalucia.md), de 7 de diciembre, estará 
 exento del pago de precios públicos de módulos profesionales el alumnado que haya obtenido el curso anterior 
 la calificación final de sobresaliente en el mismo número de ámbitos, materias o módulos profesionales en los 
 que haya alcanzado dicha calificación, con el máximo de un curso completo. También quedará exento de pago 
@@ -1319,7 +1336,7 @@ y las personas víctimas de terrorismo, así como sus hijos e hijas.
 3. Para el cálculo de las reducciones sobre el precio público, según tramos de ingresos de la unidad 
 familiar, la acreditación de la renta de la unidad familiar se realizará de conformidad con lo establecido en el 
 
-### artículo 20 del Decreto 359/2011, de 7 de diciembre.
+### artículo 20 del [Decreto 359/2011](../03_ordenacion_curricular_y_ensenanzas/D359_2011_regulacion_modalidades_semipresencial_distancia_andalucia.md), de 7 de diciembre.
 
 
 ### Artículo 52. Matriculación una vez finalizado el procedimiento de listas de espera.
@@ -1444,7 +1461,7 @@ a las responsabilidades disciplinarias que se deriven de la misma, de acuerdo co
 materia.
 2. La infracción de las normas sobre admisión del alumnado en los centros docentes privados 
 concertados será causa de incumplimiento grave del concierto por parte de la persona titular del centro docente, 
-en los términos previstos en el artículo 62 de la Ley Orgánica 8/1985, de 3 de julio, reguladora del Derecho a la 
+en los términos previstos en el artículo 62 de la [Ley Orgánica 8/1985](../../../estatal/02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md), de 3 de julio, reguladora del Derecho a la 
 Educación, y podrá dar lugar a las sanciones previstas en dicho artículo.
 
 ### Disposición adicional primera. Aplicación a los centros docentes privados.
@@ -1466,7 +1483,7 @@ docentes aporten en el procedimiento de admisión del alumnado.
 
 En relación con los datos de carácter personal de las personas interesadas en los procedimientos que 
 se regulan en la presente Orden se estará a lo previsto en la disposición adicional vigesimotercera de la Ley 
-Orgánica 2/2006, de 3 de mayo, y a lo dispuesto en la Ley Orgánica 15/1999, de 13 de diciembre, de Protección 
+Orgánica 2/2006, de 3 de mayo, y a lo dispuesto en la [Ley Orgánica 15/1999](../../../estatal/02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md), de 13 de diciembre, de Protección 
 de Datos de Carácter Personal.
 
 ### Disposición adicional cuarta. Admisión del alumnado en los centros docentes acogidos a convenio.
@@ -1535,7 +1552,7 @@ en la misma.
 
 De conformidad con lo establecido en el artículo 13 de la Ley 30/1992, de 26 de noviembre, y del 
 
-### artículo 102 de la Ley 9/2007, de 22 de octubre, se delega, en las personas titulares de las Delegaciones
+### artículo 102 de la [Ley 9/2007](../01_marco_normativo_general_y_organico/L9_2007_administracion_junta_andalucia_laja.md), de 22 de octubre, se delega, en las personas titulares de las Delegaciones
 
 Territoriales de la Consejería competente en materia de educación la competencia para la resolución de los 
 recursos de alzada y reclamaciones que se interpongan en materia de admisión del alumnado en los centros 
@@ -1828,24 +1845,24 @@ el curso de acceso a ciclos formativos de grado medio, la dirección del centro 
 plazas siguiendo el orden establecido en las listas de espera. Estas matriculas podrán realizarse hasta el 31 de 
 octubre de cada año.
 
-### Disposición transitoria primera. Adecuación de los requisitos de acceso a la Ley Orgánica 2/2006, de
+### Disposición transitoria primera. Adecuación de los requisitos de acceso a la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de
 
-3 de mayo, modificada por la Ley Orgánica 8/2013, de 9 de diciembre, para la mejora de la calidad educativa 
+3 de mayo, modificada por la [Ley Orgánica 8/2013](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md), de 9 de diciembre, para la mejora de la calidad educativa 
 (LOMCE).
 En relación a las plazas escolares que se ofrecen al alumnado que tenga el título de Graduado en 
 Educación Secundaria Obligatoria por la opción de enseñanzas aplicadas, será de aplicación el título de Educación 
-Secundaria Obligatoria establecido en la Ley Orgánica 2/2006, de 3 de mayo, no modificada, en tanto que no se 
+Secundaria Obligatoria establecido en la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, no modificada, en tanto que no se 
 regulen las modificaciones introducidas en las condiciones de acceso y admisión a las enseñanzas de Formación 
-Profesional derivadas de la modificación de la Ley Orgánica 2/2006, de 3 de mayo, por la Ley Orgánica 8/2013, 
+Profesional derivadas de la modificación de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, por la [Ley Orgánica 8/2013](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md), 
 de 9 de diciembre, para la mejora de la calidad educativa (LOMCE).
 
-### Disposición transitoria segunda. Títulos de Formación Profesional derivados de la Ley Orgánica 1/1990,
+### Disposición transitoria segunda. Títulos de Formación Profesional derivados de la [Ley Orgánica 1/1990](../../../estatal/02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md),
 
 de 3 de octubre, de ordenación general del sistema educativo (LOGSE).
 1. Mientras mantengan su vigencia los Títulos derivados de la LOGSE, les será de aplicación el 
 procedimiento de admisión regulado en esta Orden. En caso de concurrencia competitiva seguirá en vigor el 
 
-## Anexo I del Real Decreto 777/1998, por el que se desarrollan determinados aspectos de la ordenación de
+## Anexo I del [Real Decreto 777/1998](../../../estatal/08_personal_docente/RD777_1998_desarrollan_determinados_aspectos_ordenacion_formacion_profesional.md), por el que se desarrollan determinados aspectos de la ordenación de
 
 la formación profesional en el ámbito del sistema educativo, en el que se determinan las modalidades de 
 bachillerato para cada ciclo formativo de grado superior, hasta tanto no se actualice o sustituya en la norma 
@@ -2052,7 +2069,7 @@ EL/LA FUNCIONARIO/A
 (Sello del centro docente)
 SR/A. DIRECTOR/A O TITULAR DEL CENTRO DOCENTE
 PROTECCIÓN DE DATOS 
-En cumplimiento de lo dispuesto en la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal, la Consejería de Educación le informa
+En cumplimiento de lo dispuesto en la [Ley Orgánica 15/1999](../../../estatal/02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md), de 13 de diciembre, de Protección de Datos de Carácter Personal, la Consejería de Educación le informa
 que los datos personales obtenidos mediante la cumplimentación de este formulario y demás documentación que se adjunta van a ser incorporados, para su tratamiento,
 al fichero automatizado de nombre “Séneca. Datos generales y académicos del alumnado”, con la finalidad de recoger los datos personales y académicos del alumnado
 que cursa estudios en centros dependientes de la Consejería de Educación, así como de las respectivas unidades familiares. 
@@ -2204,7 +2221,7 @@ EL/LA FUNCIONARIO/A
 (Sello del centro docente)
 SR/A. DIRECTOR/A O TITULAR DEL CENTRO DOCENTE
 PROTECCIÓN DE DATOS 
-En cumplimiento de lo dispuesto en la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal, la Consejería de Educación le informa
+En cumplimiento de lo dispuesto en la [Ley Orgánica 15/1999](../../../estatal/02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md), de 13 de diciembre, de Protección de Datos de Carácter Personal, la Consejería de Educación le informa
 que los datos personales obtenidos mediante la cumplimentación de este formulario y demás documentación que se adjunta van a ser incorporados, para su tratamiento,
 al fichero automatizado de nombre “Séneca. Datos generales y académicos del alumnado”, con la finalidad de recoger los datos personales y académicos del alumnado
 que cursa estudios en centros dependientes de la Consejería de Educación, así como de las respectivas unidades familiares. 
@@ -2512,7 +2529,7 @@ EL/LA FUNCIONARIO/A
 (Sello del centro docente)
 SR/A. DIRECTOR/A O TITULAR DEL CENTRO DOCENTE
 PROTECCIÓN DE DATOS 
-En cumplimiento de lo dispuesto en la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal, la Consejería de Educación le informa
+En cumplimiento de lo dispuesto en la [Ley Orgánica 15/1999](../../../estatal/02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md), de 13 de diciembre, de Protección de Datos de Carácter Personal, la Consejería de Educación le informa
 que los datos personales obtenidos mediante la cumplimentación de este formulario y demás documentación que se adjunta van a ser incorporados, para su tratamiento,
 al fichero automatizado de nombre “Séneca. Datos generales y académicos del alumnado”, con la finalidad de recoger los datos personales y académicos del alumnado
 que cursa estudios en centros dependientes de la Consejería de Educación, así como de las respectivas unidades familiares 
@@ -2637,7 +2654,7 @@ EL/LA FUNCIONARIO/A
 (Sello del centro docente)
 SR/A. DIRECTOR/A O TITULAR DEL CENTRO DOCENTE
 PROTECCIÓN DE DATOS 
-En cumplimiento de lo dispuesto en la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal, la Consejería de Educación le informa
+En cumplimiento de lo dispuesto en la [Ley Orgánica 15/1999](../../../estatal/02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md), de 13 de diciembre, de Protección de Datos de Carácter Personal, la Consejería de Educación le informa
 que los datos personales obtenidos mediante la cumplimentación de este formulario y demás documentación que se adjunta van a ser incorporados, para su tratamiento,
 al fichero automatizado de nombre “Séneca. Datos generales y académicos del alumnado”, con la finalidad de recoger los datos personales y académicos del alumnado
 que cursa estudios en centros dependientes de la Consejería de Educación, así como de las respectivas unidades familiares. 
@@ -2773,7 +2790,7 @@ EL/LA FUNCIONARIO/A
 (Sello del centro docente)
 SR/A. DIRECTOR/A O TITULAR DEL CENTRO DOCENTE
 PROTECCIÓN DE DATOS 
-En cumplimiento de lo dispuesto en la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal, la Consejería de Educación le informa
+En cumplimiento de lo dispuesto en la [Ley Orgánica 15/1999](../../../estatal/02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md), de 13 de diciembre, de Protección de Datos de Carácter Personal, la Consejería de Educación le informa
 que los datos personales obtenidos mediante la cumplimentación de este formulario y demás documentación que se adjunta van a ser incorporados, para su tratamiento,
 al fichero automatizado de nombre “Séneca. Datos generales y académicos del alumnado”, con la finalidad de recoger los datos personales y académicos del alumnado
 que cursa estudios en centros dependientes de la Consejería de Educación, así como de las respectivas unidades familiares. 
@@ -2967,7 +2984,7 @@ EL/LA FUNCIONARIO/A
 (Sello del centro docente)
 SR/A. DIRECTOR/A O TITULAR DEL CENTRO DOCENTE
 PROTECCIÓN DE DATOS 
-En cumplimiento de lo dispuesto en la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal, la Consejería de Educación le informa
+En cumplimiento de lo dispuesto en la [Ley Orgánica 15/1999](../../../estatal/02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md), de 13 de diciembre, de Protección de Datos de Carácter Personal, la Consejería de Educación le informa
 que los datos personales obtenidos mediante la cumplimentación de este formulario y demás documentación que se adjunta van a ser incorporados, para su tratamiento,
 al fichero automatizado de nombre “Séneca. Datos generales y académicos del alumnado”, con la finalidad de recoger los datos personales y académicos del alumnado
 que cursa estudios en centros dependientes de la Consejería de Educación, así como de las respectivas unidades familiares. 
@@ -3086,7 +3103,7 @@ EL/LA FUNCIONARIO/A
 (Sello del centro docente)
 SR/A. DIRECTOR/A O TITULAR DEL CENTRO DOCENTE
 PROTECCIÓN DE DATOS 
-En cumplimiento de lo dispuesto en la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal, la Consejería de Educación le informa
+En cumplimiento de lo dispuesto en la [Ley Orgánica 15/1999](../../../estatal/02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md), de 13 de diciembre, de Protección de Datos de Carácter Personal, la Consejería de Educación le informa
 que los datos personales obtenidos mediante la cumplimentación de este formulario y demás documentación que se adjunta van a ser incorporados, para su tratamiento,
 al fichero automatizado de nombre “Séneca. Datos generales y académicos del alumnado”, con la finalidad de recoger los datos personales y académicos del alumnado
 que cursa estudios en centros dependientes de la Consejería de Educación, así como de las respectivas unidades familiares. 
@@ -3186,7 +3203,7 @@ CÓDIGO IDENTIFICATIVO
 
 002382D
 PROTECCIÓN DE DATOS 
-En cumplimiento de lo dispuesto en la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal, la Consejería de Educación le informa
+En cumplimiento de lo dispuesto en la [Ley Orgánica 15/1999](../../../estatal/02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md), de 13 de diciembre, de Protección de Datos de Carácter Personal, la Consejería de Educación le informa
 que los datos personales obtenidos mediante la cumplimentación de este formulario y demás documentación que se adjunta van a ser incorporados, para su tratamiento,
 al fichero automatizado de nombre “Séneca. Datos generales y académicos del alumnado”, con la finalidad de recoger los datos personales y académicos del alumnado
 que cursa estudios en centros dependientes de la Consejería de Educación, así como de las respectivas unidades familiares. 
@@ -3300,7 +3317,7 @@ EL/LA FUNCIONARIO/A
 (Sello del centro docente)
 SR/A. DIRECTOR/A O TITULAR DEL CENTRO DOCENTE
 PROTECCIÓN DE DATOS 
-En cumplimiento de lo dispuesto en la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal, la Consejería de Educación le informa
+En cumplimiento de lo dispuesto en la [Ley Orgánica 15/1999](../../../estatal/02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md), de 13 de diciembre, de Protección de Datos de Carácter Personal, la Consejería de Educación le informa
 que los datos personales obtenidos mediante la cumplimentación de este formulario y demás documentación que se adjunta van a ser incorporados, para su tratamiento,
 al fichero automatizado de nombre “Séneca. Datos generales y académicos del alumnado”, con la finalidad de recoger los datos personales y académicos del alumnado
 que cursa estudios en centros dependientes de la Consejería de Educación, así como de las respectivas unidades familiares. 

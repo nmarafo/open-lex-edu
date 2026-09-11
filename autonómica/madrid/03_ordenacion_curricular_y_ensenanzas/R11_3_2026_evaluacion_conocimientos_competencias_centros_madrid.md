@@ -28,22 +28,32 @@ tags:
 - conocimientos
 - pruebas_evaluacion
 - madrid
+fundamentos_derecho:
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-mad-d248-2023
+- norma_id: norm-mad-l1-2022
+- norma_id: norm-mad-d-61-2022
+- norma_id: norm-mad-d65-2022
+- norma_id: norm-mad-r11-3-2026-pruebas-certificacion-idiomas-escuelas-oficiales-madrid
+- norma_id: norm-mad-d23-2023
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
 ---
-
-# Resolución de 11 de marzo de 2026, de la Viceconsejería de Política y Organización Educativa, por la que se dictan instrucciones relativas a las pruebas para la evaluación de diagnóstico de los alumnos de cuarto curso de Educación Primaria y segundo curso de Educación Secundaria Obligatoria y a las pruebas para la evaluación de fin de etapa de los alumnos de sexto curso de Educación Primaria y cuarto curso de Educación Secundaria Obligatoria en la Comunidad de Madrid para el curso escolar 2025-2026
+# [Resolución de 11 de marzo de 2026](./R11_3_2026_pruebas_certificacion_idiomas_escuelas_oficiales_madrid.md), de la Viceconsejería de Política y Organización Educativa, por la que se dictan instrucciones relativas a las pruebas para la evaluación de diagnóstico de los alumnos de cuarto curso de Educación Primaria y segundo curso de Educación Secundaria Obligatoria y a las pruebas para la evaluación de fin de etapa de los alumnos de sexto curso de Educación Primaria y cuarto curso de Educación Secundaria Obligatoria en la Comunidad de Madrid para el curso escolar 2025-2026
 
 ## Preámbulo
 
 BOCM-20260316-21
 BOCM
-RESOLUCIÓN de 11 de marzo de 2026, de la Viceconsejería de Política y Orga-
+[RESOLUCIÓN de 11 de marzo de 2026](./R11_3_2026_pruebas_certificacion_idiomas_escuelas_oficiales_madrid.md), de la Viceconsejería de Política y Orga-
 nización Educativa, por la que se dictan instrucciones relativas a las pruebas
 para la evaluación de diagnóstico de los alumnos de cuarto curso de Educación
 Primaria y segundo curso de Educación Secundaria Obligatoria y a las pruebas
 para la evaluación de fin de etapa de los alumnos de sexto curso de Educación
 Primaria y cuarto curso de Educación Secundaria Obligatoria en la Comunidad
 de Madrid para el curso escolar 2025-2026.
-La Ley Orgánica 2/2006, de 3 de mayo, de Educación, establece en su artículo 140 que la
+La [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, establece en su artículo 140 que la
 evaluación del sistema educativo tendrá como finalidad contribuir a mejorar la calidad y la
 equidad de la educación, orientar las políticas educativas, aumentar la transparencia y eficacia
 del sistema educativo y ofrecer información sobre el grado de cumplimiento de los objetivos
@@ -51,13 +61,13 @@ de mejora establecidos por las Administraciones educativas. Asimismo, tiene como
 cionar información sobre el grado de consecución de los objetivos educativos españoles y
 europeos, así como del cumplimiento de los compromisos educativos contraídos en relación
 con la demanda de la sociedad española y las metas fijadas en el contexto de la Unión Europea.
-Tal y como prevén los artículos 21 y 29 de la Ley Orgánica 2/2006, de 3 de mayo, todos los
+Tal y como prevén los artículos 21 y 29 de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, todos los
 alumnos de cuarto curso de Educación Primaria y segundo curso de Educación Secundaria
 Obligatoria realizarán una evaluación de diagnóstico de las competencias adquiridas.
-Igualmente, la disposición adicional segunda de la Ley 1/2022, de 10 de febrero,
+Igualmente, la disposición adicional segunda de la [Ley 1/2022](../01_marco_normativo_general_y_organico/L1_2022_maestra_libertad_eleccion_educativa_madrid.md), de 10 de febrero,
 Maestra de Libertad de Elección Educativa de la Comunidad de Madrid, dispone que la
 Consejería competente en materia de educación no universitaria, además de participar en
-las evaluaciones previstas en la Ley Orgánica 2/2006, de 3 de mayo, coordinadas por la
+las evaluaciones previstas en la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, coordinadas por la
 Administración General del Estado, llevará a cabo aquellas evaluaciones externas que se
 consideren necesarias, dirigidas a la mejora de la calidad, de la equidad y de la excelencia
 de la educación. Por ello, la Comunidad de Madrid pretende realizar una evaluación de fin
@@ -66,7 +76,7 @@ cación Secundaria Obligatoria con el objetivo de comprobar el grado de consecuc
 competencias establecidas en el currículo al finalizar ambas enseñanzas.
 La Viceconsejería de Política y Organización Educativa es competente para regular las
 actuaciones relacionadas con dichas evaluaciones de acuerdo con las competencias atribui-
-das por el Decreto 248/2023, de 11 de octubre, del Consejo de Gobierno, por el que se es-
+das por el [Decreto 248/2023](../01_marco_normativo_general_y_organico/D248_2023_estructura_organica_consejeria_educacion_ciencia_universidades_madrid.md), de 11 de octubre, del Consejo de Gobierno, por el que se es-
 tablece la estructura orgánica de la Consejería de Educación, Ciencia y Universidades.
 Por ello, en virtud de esta disposición normativa se dictan las siguientes instrucciones:
 Primera
@@ -109,7 +119,7 @@ director, con la colaboración y el apoyo de otros especialistas que, regularmen
 ción educativa a dichos alumnos, adaptarán la realización de las pruebas mediante la puesta
 en práctica de las medidas específicas, que se aplican de forma habitual, y que el equipo do-
 cente considere necesarias para el correcto desarrollo de las pruebas, según lo dispuesto en el
-Decreto 23/2023, de 22 de marzo, del Consejo de Gobierno, por el que se regula la atención
+[Decreto 23/2023](../06_atencion_diversidad_y_orientacion/D23_2023_atencion_diferencias_individuales_alumnos_madrid.md), de 22 de marzo, del Consejo de Gobierno, por el que se regula la atención
 educativa a las diferencias individuales del alumnado de la Comunidad de Madrid.
 Con carácter previo al desarrollo de las pruebas, los directores de los centros descargarán
 las hojas de cálculo disponibles en la plataforma (tanto la de códigos como la de incidencias)
@@ -155,7 +165,7 @@ Estructura y diseño de las pruebas de evaluación
 Las pruebas se estructuran en función de las cuatro competencias clave mencionadas an-
 teriormente que, a su vez, se valorarán a través del grado de desarrollo de las competencias
 específicas de cada una de las áreas o materias de cada etapa conforme a lo dispuesto en el
-Decreto 61/2022, de 13 de julio, del Consejo de Gobierno, por el que se establece para la Co-
+[Decreto 61/2022](./D61_2022_ordenacion_curriculo_educacion_primaria_madrid.md), de 13 de julio, del Consejo de Gobierno, por el que se establece para la Co-
 munidad de Madrid la ordenación y el currículo de la etapa de Educación Primaria, y el De-
 creto 65/2022, de 20 de julio, del Consejo de Gobierno, por el que se establecen para la Co-
 munidad de Madrid la ordenación y el currículo de la Educación Secundaria Obligatoria.
@@ -201,11 +211,11 @@ Criterios de evaluación
 1.
 Los criterios de evaluación del grado de adquisición de las competencias especí-
 ficas de las áreas evaluadas en los alumnos de cuarto y sexto curso de Educación Primaria
-serán los establecidos en el Decreto 61/2022, de 13 de julio.
+serán los establecidos en el [Decreto 61/2022](./D61_2022_ordenacion_curriculo_educacion_primaria_madrid.md), de 13 de julio.
 2.
 Los criterios de evaluación del grado de adquisición de las competencias especí-
 ficas de las materias evaluadas en los alumnos de segundo y cuarto curso de Educación Se-
-cundaria Obligatoria serán los establecidos en el Decreto 65/2022, de 20 de julio.
+cundaria Obligatoria serán los establecidos en el [Decreto 65/2022](./D65_2022_ordenacion_curriculo_educacion_secundaria_obligatoria_madrid.md), de 20 de julio.
 Octava
 Responsables de la aplicación de las pruebas
 1.

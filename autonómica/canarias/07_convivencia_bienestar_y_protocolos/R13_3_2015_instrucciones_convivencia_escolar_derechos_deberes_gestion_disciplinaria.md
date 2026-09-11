@@ -26,8 +26,14 @@ relaciones:
   - norm-can-d-114-2011
   - norm-can-l-6-2014
 fuente_pdf_oficial: https://www.gobiernodecanarias.org/cmsgob1/export/sites/educacion/web/_galerias/descargas/normativa-internas/InstruccionesResolConvivencia2015.pdf
+fundamentos_derecho:
+- norma_id: norm-can-d-106-2009
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-can-d-114-2011
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
 ---
-
 # Resolución n.º 67, de 13 de marzo de 2015, de la Viceconsejería de Educación y Universidades, por la que se dictan instrucciones sobre convivencia escolar, derechos y deberes de los miembros de la comunidad educativa y gestión de procedimientos disciplinarios en los centros educativos.
 
 ## Preámbulo
@@ -65,7 +71,7 @@ FUNDAMENTOS DE DERECHO.
  
  
 I.  La dirección de los centros docentes en el ejercic io de sus competencias de acuerdo tanto 
-con la Ley Orgánica 2/2006, de 3 de mayo, LOE, y la s modificaciones planteadas por la Ley 
+con la [Ley Orgánica 2/2006](../05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, LOE, y la s modificaciones planteadas por la Ley 
 Orgánica 8/2013, de 9 de diciembre, LOMCE, como con las demás normas que la desarrollan, 
 aplicarán las medidas contempladas cuando el alumno  o la alumna cometa alguna infracción, 
 actuando con el máximo rigor que exige la garantía de los derechos que tiene cada alumno o 
@@ -107,10 +113,10 @@ docentes en la aplicación de los procedimientos dis ciplinarios, teniendo siemp
 el artículo 1 k) de la LOE establece como principio  la educación para la prevención de 
 conflictos y la resolución pacífica de los mismos, por lo que se deberán intentar las vías de 
 conciliación, salvo los casos señalados, con caráct er general, siguiendo lo establecido en la 
-reciente Orden  de 27 de junio de 2014, antes citada y en el Decreto 114/2011, de 11 de mayo. 
+reciente Orden  de 27 de junio de 2014, antes citada y en el [Decreto 114/2011](./D114_2011_regula_convivencia_ambito_educativo_comunidad_autonoma.md), de 11 de mayo. 
  
 Por ello, considerando lo establecido en el Decreto  52/2009, de 12 de mayo, en la Orden de 
-22 de mayo de 2011, en el Decreto 106/2009, de 28 d e julio y al amparo de lo establecido en 
+22 de mayo de 2011, en el [Decreto 106/2009](../04_organizacion_escolar_y_funcionamiento/D106_2009_regula_funcion_directiva_centros_docentes_publicos.md), de 28 d e julio y al amparo de lo establecido en 
 el artículo 21 de la Ley de Régimen Jurídico de las  Administraciones Públicas y del 
 Procedimiento Administrativo Común, y de acuerdo co n todo lo anterior, en ejercicio de las 
 competencias atribuidas en el artículo 7, apartado 1, letra b) del Reglamento Orgánico de la 
@@ -177,7 +183,7 @@ Primera.  Los directores y las
  directoras de los centros educativos, en los casos de sanciones 
 por faltas muy graves, conductas que perjudican gra vemente la convivencia en el centro 
 docente, para lograr que su resolución sea inmediat amente aplicable de acuerdo con el 
-artículo 72.2 del Decreto 114/2011, de 11 de mayo, deberán tener presente que la misma será 
+artículo 72.2 del [Decreto 114/2011](./D114_2011_regula_convivencia_ambito_educativo_comunidad_autonoma.md), de 11 de mayo, deberán tener presente que la misma será 
 ejecutiva cuando ponga fin a la vía administrativa,  de acuerdo con los principios del 
 procedimiento sancionador que con carácter general se recogen en el artículo 134 y ss. de la 
 Ley 30/1992, de 26 de noviembre. En el caso de no c ontar con la conformidad del alumno o 
@@ -192,7 +198,7 @@ LOE no podrá vulnerar el derecho a la educación ni el derecho a la escolaridad
  
 de acuerdo con lo establecido en los artículos 1 y 4.1 de la LOE y artículo primero de la Ley 
 Orgánica 8/1985, de 3 de julio (LODE). Por ello, co nforme también con el artículo 67. 2 del 
-Decreto 114/2011, de 11 de mayo, en el caso de alum nado expulsado del centro o con medida 
+[Decreto 114/2011](./D114_2011_regula_convivencia_ambito_educativo_comunidad_autonoma.md), de 11 de mayo, en el caso de alum nado expulsado del centro o con medida 
 de inhabilitación para cursar estudios en el mismo,  cuando cursen las enseñanzas obligatorias, 
 los directores y directoras actuarán en coordinació n con la Dirección Territorial de Educación 
 correspondiente, con la máxima diligencia para evit ar que el alumnado deje de estar 
@@ -203,7 +209,7 @@ interesado. Todo ello, sin perjuicio de las medidas  cautelares previstas en el 
 citado Decreto que fuere necesario adoptar para garantizar la convivencia escolar. 
  
 Segunda. Además del propio alumnado entre 12 y 18 años, se gún contempla el artículo 8.4 
-del Decreto 114/2011, de 11 de mayo, los padres, ma dres o tutores legales podrán también, 
+del [Decreto 114/2011](./D114_2011_regula_convivencia_ambito_educativo_comunidad_autonoma.md), de 11 de mayo, los padres, ma dres o tutores legales podrán también, 
 respecto a sus hijos, hijas o tutelados, presentar reclamaciones contra las decisiones y 
 calificaciones académicas que se adopten como resul tado del proceso de evaluación, 
 siguiendo el procedimiento fijado, en el marco de l a patria potestad tal cual se recoge en el 
@@ -242,7 +248,7 @@ docente.
 Cuarta. Cuando a un alumno o alumna mayor de 14 años se le  siga un procedimiento 
 disciplinario y los hechos pudieran constituir infr acción penal se comunicará al Ministerio 
 Fiscal, de conformidad al artículo 56.2 
-  del Decreto 114/2011, de 11 de mayo. De seguirse la  
+  del [Decreto 114/2011](./D114_2011_regula_convivencia_ambito_educativo_comunidad_autonoma.md), de 11 de mayo. De seguirse la  
 vía penal no se adoptará resolución definitiva hast a conocer la resolución judicial 
 correspondiente, pues los hechos probados en vía pe nal vinculan a la Administración, de 
 modo que no puede haber contradicción en los mismos  con independencia de la distinta 
@@ -277,7 +283,7 @@ RESOLUCIÓN DE INCOACIÓN DE EXPEDIENTE DISCIPLINARIO
  
  
 D./Dña. ___________________________________________ , director/a de este centro, de 
-conformidad con el artículo 70 del Decreto 114/2011 , de 11 de mayo, por el que se regula la 
+conformidad con el artículo 70 del [Decreto 114/2011](./D114_2011_regula_convivencia_ambito_educativo_comunidad_autonoma.md) , de 11 de mayo, por el que se regula la 
 convivencia en el ámbito educativo de la Comunidad Autónoma de Canarias, por medio de la presente, 
 al no prosperar las medidas propuestas por la direc ción para corregir la conducta del alumno/a 
 __________________ _____ _________________ del grup o __, del curso ____,según consta en acta 
@@ -317,7 +323,7 @@ También se trasladará este acuerdo al  tutor del re ferido alumno/a, para que 
 representantes legales (si es menor de edad ) sobre las actividades por áreas o materias que de be realizar 
 durante el tiempo que dure la medida, así como la f orma de seguimiento y control que, en su caso, sean  
 necesarias para su aprovechamiento, todo ello con e l fin de garantizar el derecho a la evaluación 
-continua, de acuerdo a lo previsto en el artículo 73.2 del citado Decreto 114/2011 
+continua, de acuerdo a lo previsto en el artículo 73.2 del citado [Decreto 114/2011](./D114_2011_regula_convivencia_ambito_educativo_comunidad_autonoma.md) 
 3.  
  
 Asimismo, de conformidad con el artículo 70.4 del D ecreto 114/2011, RESUELVO nombrar 
@@ -469,7 +475,7 @@ _____________________________________________________________________
 menor de edad ) sobre las actividades por áreas o materias que de be realizar durante el tiempo que dure 
 la medida, así como la forma de seguimiento y contr ol que, en su caso, sean necesarias para su 
 aprovechamiento, todo ello con el fin de garantizar el derecho a la evaluación continua, de acuerdo a lo 
-previsto en el artículo 73.2 del precitado Decreto 114/2011. 
+previsto en el artículo 73.2 del precitado [Decreto 114/2011](./D114_2011_regula_convivencia_ambito_educativo_comunidad_autonoma.md). 
 4.  La medida cautelar comenzará a aplicarse el día… 
  
  Todo lo cual se le notifica, significándole que contra la misma no procede recurso alguno. 
@@ -499,7 +505,7 @@ CITACIÓN PARA DECLARACIÓN Y PRÁCTICA DE LA PRUEBA
  
 D./Dña. ___________________________________________ , instructor/a del expediente 
 disciplinario, incoado al alumno/a ________________ ____, seguido por resolución del director/a del 
-mismo, conforme al artículo 71 del Decreto 114/2011 , de 11 de mayo, por el que se regula la convivenci a 
+mismo, conforme al artículo 71 del [Decreto 114/2011](./D114_2011_regula_convivencia_ambito_educativo_comunidad_autonoma.md) , de 11 de mayo, por el que se regula la convivenci a 
 en el ámbito educativo de la Comunidad Autónoma de Canarias. 
  
 ACUERDA citar ante este instructor/a, a las _____ho ras, del día _______, en las 
@@ -543,7 +549,7 @@ CITACIÓN PARA DECLARACIÓN DE TESTIGOS
  
 D./Dña. ___________________________________________ , instructor/a del expediente 
 disciplinario incoado al alumno/a _________________ ___, seguido por resolución del director/a del 
-mismo, y conforme al artículo 71 del Decreto 114/2011, de 11 de mayo, por el que se regula la convivencia 
+mismo, y conforme al artículo 71 del [Decreto 114/2011](./D114_2011_regula_convivencia_ambito_educativo_comunidad_autonoma.md), de 11 de mayo, por el que se regula la convivencia 
 en el ámbito educativo de la Comunidad Autónoma de Canarias,  
  
 ACUERDA citar ante este instructor/a, a las _____ho ras, del día _______, en las 
@@ -672,7 +678,7 @@ ________________________________________________________________________________
 Considerando los siguientes atenuantes/agravantes 2 ________________________________________ 
 _____________________________________________________________________________________ 
 Considerando que los hechos anteriormente descritos  constituyen conductas que perjudican 
-gravemente la convivencia en el centro, tipificadas  en el artículo 64 del Decreto 114/2011, dado 
+gravemente la convivencia en el centro, tipificadas  en el artículo 64 del [Decreto 114/2011](./D114_2011_regula_convivencia_ambito_educativo_comunidad_autonoma.md), dado 
 que 3__________________________________________________________________________________ 
 _________________________________________________________________________ 
 Dichos hechos  son constitutivos de las faltas previstas en el artículo 64: 
@@ -689,7 +695,7 @@ ________________________________________________________________________________
                                                
  
 1 Diligencias, entrevistas, informes, alegaciones y pruebas practicadas, testifical, documental, … 
-2 Omítase la referencia si no hay atenuantes o agravantes previstos en el artículo 59 del Decreto 114/2011 o aplíquese 
+2 Omítase la referencia si no hay atenuantes o agravantes previstos en el artículo 59 del [Decreto 114/2011](./D114_2011_regula_convivencia_ambito_educativo_comunidad_autonoma.md) o aplíquese 
 el que corresponda. 
 3 Indíquese la valoración de la responsabilidad del alumno/a acorde con el artículo 71.3 d).  
 
@@ -700,7 +706,7 @@ Por todo ello, este instructor/a eleva  a la dirección  la siguiente PROPUESTA 
  
 __________________________________________________________________________________ 
 _____________________________________________________________________________________,  
-medida conforme al apartado _____ del artículo 67 d el Decreto 114/2011, de 11 de mayo, de acuerdo con 
+medida conforme al apartado _____ del artículo 67 d el [Decreto 114/2011](./D114_2011_regula_convivencia_ambito_educativo_comunidad_autonoma.md), de 11 de mayo, de acuerdo con 
 la competencia del director/a del centro establecida en el artículo 72. 
  
 Asimismo se le informa que a partir de la fecha de notificación dispondrá de un plazo de 3 días 
@@ -741,7 +747,7 @@ CITACIÓN PARA TRÁMITE DE AUDIENCIA
  
 D./Dña ___________________________________________, instructor/a del expediente disciplinario 
 incoado al alumno/a ____________________, por resol ución del director/a del mismo, conforme al 
-artículo 71 del Decreto 114/2011.  
+artículo 71 del [Decreto 114/2011](./D114_2011_regula_convivencia_ambito_educativo_comunidad_autonoma.md).  
 ACUERDA citar ante este instructor/a, a las _____ho ras, del día _______, en las 
 dependencias____________ del centro, al alumno/a y a su padre/madre/tutor/a, en caso de minoría de edad,  
 para entregarle la propuesta de resolución del expe diente y concederle el trámite de audiencia estable cido 
@@ -783,7 +789,7 @@ NOTIFICACIÓN DE INCOACIÓN DE EXPEDIENTE DISCIPLINARIO
  
 Con esta fecha, el director/a del centro ha dictado la siguiente resolución: 
 “D./Dña. __________________________________________ _, director/a de este centro, de 
-conformidad con el artículo 70 del Decreto 114/2011 , de 11 de mayo, por el que se regula la 
+conformidad con el artículo 70 del [Decreto 114/2011](./D114_2011_regula_convivencia_ambito_educativo_comunidad_autonoma.md) , de 11 de mayo, por el que se regula la 
 convivencia en el ámbito educativo de la Comunidad Autónoma de Canarias, por medio de la presente, 
 al no prosperar las medidas propuestas por la direc ción para corregir la conducta del alumno/a 
 __________________ _____ _________________ del grup o __, del curso ____,según consta en acta 
@@ -819,7 +825,7 @@ También se trasladará este acuerdo al  tutor del re ferido alumno/a, para que 
 representantes legales (si es menor de edad ) sobre las actividades por áreas o materias que de be realizar 
 durante el tiempo que dure la medida, así como la f orma de seguimiento y control que, en su caso, sean  
 necesarias para su aprovechamiento, todo ello con e l fin de garantizar el derecho a la evaluación 
-continua, de acuerdo a lo previsto en el artículo 73.2 del precitado Decreto 114/2011 3.  
+continua, de acuerdo a lo previsto en el artículo 73.2 del precitado [Decreto 114/2011](./D114_2011_regula_convivencia_ambito_educativo_comunidad_autonoma.md) 3.  
 Asimismo, de conformidad con el artículo 70.4 del D ecreto 114/2011, RESUELVO nombrar 
 instructor/a del expediente a D./Dña. _______________________________________  . 
 La presente resolución se notificará al interesado y se trasladará al instructor/a, informándose de 
@@ -830,7 +836,7 @@ Todo lo cual se notifica, significándole que podrá recusar al instructor/a de 
 29 de la Ley 30/1992, de 26 de noviembre, de Régime n Jurídico de las Administraciones Públicas y del 
 Procedimiento Administrativo Común, según los motivos recogidos en el artículo 28 de la citada ley. 
 Por otro lado, se le informa sobre la posibilidad d e acogerse a la terminación conciliada del 
-procedimiento, según lo establecido en el artículo 74 del Decreto 114/2011 4. 
+procedimiento, según lo establecido en el artículo 74 del [Decreto 114/2011](./D114_2011_regula_convivencia_ambito_educativo_comunidad_autonoma.md) 4. 
 Podrá presentar alegaciones contra la presente reso lución en el plazo de 5 días a partir de la 
 comunicación de la misma, significándole que de no efectuar ninguna alegación el procedimiento 
 continuará hasta su resolución de acuerdo con la tipificación de hechos imputados. 
@@ -849,7 +855,7 @@ Fdo:  __________________________________________________
 5  
                                                 
 3 Se omitirá esta referencia si no se adoptan medidas cautelares.  
-4 Se omitirá este párrafo cuando se den algunos de los supuestos previstos en el art. 74.4 del Decreto 114/2011, de 
+4 Se omitirá este párrafo cuando se den algunos de los supuestos previstos en el art. 74.4 del [Decreto 114/2011](./D114_2011_regula_convivencia_ambito_educativo_comunidad_autonoma.md), de 
 11 de mayo 
 5 Cuando el alumno/a sea menor de edad necesariamente se notificará también al padre, madre o tutor/a legal. 
  
@@ -868,7 +874,7 @@ incoado al alumno/a ____________________, por resolución del director/a  de fec
  
 HAGO CONSTAR que, con fecha de hoy  se recepcionan las alegaciones presentadas por escrito 
 directamente por el alumno/a expedientado  o padre,  madre o tutor/a en caso de minoría de edad, dándos e 
-por cumplido el trámite de audiencia previsto en el artículo 71.2 del Decreto 114/2011. 
+por cumplido el trámite de audiencia previsto en el artículo 71.2 del [Decreto 114/2011](./D114_2011_regula_convivencia_ambito_educativo_comunidad_autonoma.md). 
 También manifiesta 
 2: 
 1.  ___________________________________________________________________________________ 
@@ -997,7 +1003,7 @@ a.  _________________________________________________________________________
 b.  _________________________________________________________________________ 
  
 ACUERDA EL SOBRESEIMIENTO de dicho expediente, en v irtud del apartado___ artículo 67 del 
-Decreto 114/2011. 
+[Decreto 114/2011](./D114_2011_regula_convivencia_ambito_educativo_comunidad_autonoma.md). 
  
  
 En _______________________ a ____ de _________________ del 20__ 
@@ -1042,8 +1048,8 @@ DICE :
 fecha_______________________por el que se le impone  la sanción de __________________________en 
 el expediente disciplinario que le fue incoado al citado alumno. 
  
-2.- Que, conforme al art. 72.1.e),  del Decreto 114/2011, de 11 de mayo, en relación con el art. 132, f) de la 
-Ley Orgánica 2/2006 de 3 de mayo, de Educación, y e l art 114 y ss. de la Ley de Régimen Jurídico de la s 
+2.- Que, conforme al art. 72.1.e),  del [Decreto 114/2011](./D114_2011_regula_convivencia_ambito_educativo_comunidad_autonoma.md), de 11 de mayo, en relación con el art. 132, f) de la 
+[Ley Orgánica 2/2006](../05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md) de 3 de mayo, de Educación, y e l art 114 y ss. de la Ley de Régimen Jurídico de la s 
 Administraciones Públicas y del Procedimiento Admin istrativo Común, por medio del presente escrito, 
 interpone RECURSO DE ALZADA , basado en los siguientes . 
  
@@ -1145,7 +1151,7 @@ Fdo :________________________
                                                
  
 1 Queda excluida la aplicación del procedimiento de conciliación en los supuestos previstos en el artículo 74.4 del 
-Decreto 114/2011, de 11 de mayo.  
+[Decreto 114/2011](./D114_2011_regula_convivencia_ambito_educativo_comunidad_autonoma.md), de 11 de mayo.  
 
  
   
@@ -1184,7 +1190,7 @@ ________________________________________________________________________________
 3.  ___________________________________________________________________________________ 
 ___________________________________________________________________________________ 
  
-Todo ello de conformidad con lo establecido en el  artículo 74.2 del Decreto 114/2011, de 11 de mayo, 
+Todo ello de conformidad con lo establecido en el  artículo 74.2 del [Decreto 114/2011](./D114_2011_regula_convivencia_ambito_educativo_comunidad_autonoma.md), de 11 de mayo, 
 por el que se regula la convivencia en el ámbito educativo en la Comunidad Autónoma de Canarias.  
 
  
@@ -1238,7 +1244,7 @@ Examinados los hechos:
 3.  ___________________________________________________________________________________ 
 Constatado que no se logró la conciliación en el pr ocedimiento abierto, pero que sí se ha logrado un 
 compromiso educativo que no se ha cumplido, y tenie ndo en cuenta que, de acuerdo con el artículo 74.2 
-párrafo segundo del Decreto 114/2011, de 11 de mayo, se cumplen los siguientes requisitos:  
+párrafo segundo del [Decreto 114/2011](./D114_2011_regula_convivencia_ambito_educativo_comunidad_autonoma.md), de 11 de mayo, se cumplen los siguientes requisitos:  
 1.  Que el alumno reconoce la falta cometida y/o el daño causado. 
 2.  Que el alumno/a acepta disculparse ante el ofendido. 
 3.  Que el alumno/a se compromete a cumplir las medidas determinadas con su realización efectiva. 
@@ -1264,7 +1270,7 @@ Sr. /Sra. Director/a del centro.
                                                
  
 1 Queda excluida la aplicación del procedimiento de conciliación en los supuestos previstos en el artículo 74.4 del 
-Decreto 114/2011, de 11 de mayo.  
+[Decreto 114/2011](./D114_2011_regula_convivencia_ambito_educativo_comunidad_autonoma.md), de 11 de mayo.  
  
 2 Se entregará copia de este documento al alumno/a o sus representantes . 
 
@@ -1284,7 +1290,7 @@ Examinados los hechos:
 2.  ___________________________________________________________________________________ 
 3.  ___________________________________________________________________________________ 
  
-Teniendo en cuenta que, de acuerdo con el artículo 74.2 párrafo segundo del Decreto 114/2011, de 11 
+Teniendo en cuenta que, de acuerdo con el artículo 74.2 párrafo segundo del [Decreto 114/2011](./D114_2011_regula_convivencia_ambito_educativo_comunidad_autonoma.md), de 11 
 de mayo, se cumplen los siguientes requisitos:  
 1.  Que el alumno reconoce la falta cometida y/o el daño causado. 
 2.  Que el alumno/a acepta disculparse ante el ofendido. 
@@ -1309,7 +1315,7 @@ Fdo :________________________
                                                
  
 1 Queda excluida la aplicación del procedimiento de conciliación en los supuestos previstos en el artículo 74.4 del 
-Decreto 114/2011, de 11 de mayo.  
+[Decreto 114/2011](./D114_2011_regula_convivencia_ambito_educativo_comunidad_autonoma.md), de 11 de mayo.  
  
 
  
@@ -1323,7 +1329,7 @@ COMUNICACIÓN DE NOMBRAMIENTO DEL INTRUCTOR/A
  
 Con esta fecha, el director/a del centro ha dictado la siguiente resolución: 
 “D./Dña. __________________________________________ _, director/a de este centro, de 
-conformidad con el artículo 70 del Decreto 114/2011 , de 11 de mayo, por el que se regula la 
+conformidad con el artículo 70 del [Decreto 114/2011](./D114_2011_regula_convivencia_ambito_educativo_comunidad_autonoma.md) , de 11 de mayo, por el que se regula la 
 convivencia en el ámbito educativo de la Comunidad Autónoma de Canarias, por medio de la 
 presente, al no prosperar las medidas propuestas po r la dirección para corregir la conducta del 
 alumno/a __________________ _____ _________________  del grupo __, del curso ____,según 
@@ -1358,7 +1364,7 @@ cinco días.
  
   
 caso, sean necesarias para su aprovechamiento, todo  ello con el fin de garantizar el derecho a la 
-evaluación continua, de acuerdo a lo previsto en el artículo 73.2 del precitado Decreto 114/2011 3.  
+evaluación continua, de acuerdo a lo previsto en el artículo 73.2 del precitado [Decreto 114/2011](./D114_2011_regula_convivencia_ambito_educativo_comunidad_autonoma.md) 3.  
 Asimismo, de conformidad con el artículo 70.4 del D ecreto 114/2011, RESUELVO nombrar 
 instructor/a del expediente a D./Dña. _______________________________________  . 
 La presente resolución se notificará al interesado y se trasladará al instructor/a, informándose de 
@@ -1370,7 +1376,7 @@ señalados en el artículo 28 de la Ley 30/1992, de 2 6 de noviembre, de Régime
 Administraciones Públicas y del Procedimiento Administrativo Común. 
 También se le hace saber que se ha acordado informa r al interesado sobre la posibilidad de 
 acogerse a la terminación conciliada del procedimie nto según lo establecido en el artículo 74 del 
-Decreto 114/2011 y, asimismo, que podrá presentar a legaciones contra la presente resolución en el 
+[Decreto 114/2011](./D114_2011_regula_convivencia_ambito_educativo_comunidad_autonoma.md) y, asimismo, que podrá presentar a legaciones contra la presente resolución en el 
 plazo de 5 días a partir de la comunicación de la m isma, significándole que de no efectuar las mismas 
 el procedimiento continuará hasta su resolución de acuerdo con la tipificación de hechos imputados. 
 En ___________________________ a ____ de ___________________ de 20__ 

@@ -589,8 +589,17 @@ relaciones:
   - norma_id: norm-es-2002-4371
   - norma_id: norm-es-2021-20113
   - norma_id: norm-es-2010-12201
+fundamentos_derecho:
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-2001-7022
+- norma_id: norm-es-lo-8-1985
+- norma_id: norm-es-2002-12018
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2000-5990
+- norma_id: norm-es-2002-4371
+- norma_id: norm-es-2010-12201
 ---
-
 # Real Decreto 1363/2007, de 24 de octubre, por el que se establece la ordenación general de las enseñanzas deportivas de régimen especial.
 
 ## Preámbulo

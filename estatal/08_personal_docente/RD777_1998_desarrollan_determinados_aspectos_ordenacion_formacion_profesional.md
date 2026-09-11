@@ -118,8 +118,12 @@ relaciones:
   - norma_id: norm-es-lo-8-1985
   - norma_id: norm-es-1993-23257
   - norma_id: norm-es-1995-22212
+fundamentos_derecho:
+- norma_id: norm-es-2001-7022
+- norma_id: norm-es-lo-8-1985
+- norma_id: norm-es-1995-22212
+- norma_id: norm-es-1993-23257
 ---
-
 # Real Decreto 777/1998, de 30 de abril, por el que se desarrollan determinados aspectos de la ordenación de la formación profesional en el ámbito del sistema educativo.
 
 ## Preámbulo

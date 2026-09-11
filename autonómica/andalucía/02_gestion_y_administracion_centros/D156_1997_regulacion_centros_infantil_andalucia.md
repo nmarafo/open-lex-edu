@@ -31,8 +31,9 @@ relaciones:
   - norma_id: norm-and-l17-2007
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-l-39-2015
+fundamentos_derecho:
+- norma_id: norm-and-l17-2007
 ---
-
 # Decreto 156/1997, de 10 de junio, por el que se regulan los centros de Educación Infantil en Andalucía.
 
 ## Preámbulo

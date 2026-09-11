@@ -31,8 +31,13 @@ relaciones:
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-l-39-2015
   - norma_id: norm-mad-d-29-2013
+fundamentos_derecho:
+- norma_id: norm-mad-l12-1999-creacion-consejo-escolar-comunidad-madrid
+- norma_id: norm-mad-l1-1983-gobierno-administracion-comunidad-madrid
+- norma_id: norm-mad-d18-2008-requisitos-minimos-centros-primer-ciclo-educacion-infantil-madrid
+- norma_id: norm-mad-d-29-2013
+- norma_id: norm-mad-o1240-2013
 ---
-
 # Orden 123/2015, de 26 de enero, sobre admisión de alumnos en primer ciclo de Educación Infantil
 
 ## Preámbulo
@@ -47,7 +52,7 @@ munidad de Madrid.
 La Comunidad de Madrid, con objeto de facilitar la conciliación de la vida familiar y
 laboral, mantiene, en colaboración con los Ayuntamientos de la región y con otras Institu-
 ciones, una red de centros educativos específicos de Educación Infantil.
-La disposición adicional única del Decreto 29/2013, de 11 de abril, del Consejo de Gobier-
+La disposición adicional única del [Decreto 29/2013](./D29_2013_libertad_eleccion_centro_escolar_madrid.md), de 11 de abril, del Consejo de Gobier-
 no, de libertad de elección de centro escolar en la Comunidad de Madrid, establece que la regu-
 lación del proceso de admisión en enseñanzas o etapas distintas a las reguladas en el artículo 1.2
 del citado Decreto se realizará por la Consejería competente en materia de Educación.
@@ -57,16 +62,16 @@ dos sostenidos con fondos públicos de la Comunidad de Madrid. Asimismo, el Decr
 18/2008, de 6 de marzo, establece los requisitos mínimos de los centros que imparten primer
 ciclo de Educación Infantil en el ámbito de la Comunidad de Madrid.
 La admisión de alumnos de segundo ciclo de Educación Infantil escolarizados en Es-
-cuelas Infantiles se regirá por la Orden 1240/2013, de 17 de abril, de la Consejería de Edu-
+cuelas Infantiles se regirá por la [Orden 1240/2013](./O1240_2013_procedimiento_admision_alumnado_centros_sostenidos_fondos_publicos_madrid.md), de 17 de abril, de la Consejería de Edu-
 cación, Juventud y Deporte, por la que se establece el procedimiento para la admisión de
 alumnos en centros docentes sostenidos con fondos públicos de segundo ciclo de Educa-
 ción Infantil, Educación Primaria, Educación Especial, Educación Secundaria Obligatoria
 y Bachillerato en la Comunidad de Madrid.
 En el proceso de elaboración de esta Orden, ha emitido dictamen el Consejo Escolar
-de la Comunidad de Madrid, de acuerdo con el artículo 2.1.b) de la Ley 12/1999, de 29 de
+de la Comunidad de Madrid, de acuerdo con el artículo 2.1.b) de la [Ley 12/1999](../01_marco_normativo_general_y_organico/L12_1999_creacion_consejo_escolar_comunidad_madrid.md), de 29 de
 abril, de creación del Consejo Escolar de la Comunidad de Madrid, modificado por el ar-
 tículo 29 de la Ley 9/2010, de 23 de diciembre. Asimismo, se ha tenido en cuenta el artícu-
-lo 41.d) de la Ley 1/1983, de 13 de diciembre, del Gobierno y la Administración de la Co-
+lo 41.d) de la [Ley 1/1983](../01_marco_normativo_general_y_organico/L1_1983_gobierno_administracion_comunidad_madrid.md), de 13 de diciembre, del Gobierno y la Administración de la Co-
 munidad de Madrid.
 En su virtud, de conformidad con las atribuciones que me confiere el ordenamiento
 vigente,
@@ -183,7 +188,7 @@ que se especifique la puntuación obtenida.
 
 1.
 Para la determinación de las plazas vacantes en cada centro se atenderá a lo esta-
-blecido en el Decreto 18/2008, de 6 de marzo, por el que se establecen los requisitos míni-
+blecido en el [Decreto 18/2008](../02_gestion_y_administracion_centros/D18_2008_requisitos_minimos_centros_primer_ciclo_educacion_infantil_madrid.md), de 6 de marzo, por el que se establecen los requisitos míni-
 mos de los centros que imparten el primer ciclo de Educación Infantil en el ámbito de la Co-
 munidad de Madrid y se tendrá en cuenta la previsión de reserva de plazas para alumnos con
 necesidades educativas especiales según lo dispuesto en el artículo 15 de la presente Orden.
@@ -761,7 +766,7 @@ BOCM
 1.
 Para la determinación de las plazas vacantes en centros privados sostenidos con
 fondos públicos se atenderá a las ratios sobre número máximo de alumnos establecidas en
-el Decreto 18/2008, de 6 de marzo, por el que se establecen los requisitos mínimos de los
+el [Decreto 18/2008](../02_gestion_y_administracion_centros/D18_2008_requisitos_minimos_centros_primer_ciclo_educacion_infantil_madrid.md), de 6 de marzo, por el que se establecen los requisitos mínimos de los
 centros que imparten primer ciclo de Educación Infantil en el ámbito de la Comunidad de
 Madrid.
 2.

@@ -46,8 +46,11 @@ relaciones:
   - norma_id: norm-es-lo-1-1996
   desarrolla:
   - norma_id: norm-es-lo-2-2006
+fundamentos_derecho:
+- norma_id: norm-and-d147-2002-atencion-educativa-alumnado-necesidades-educativas-especiales-andalucia
+- norma_id: norm-and-l9-1999-solidaridad-en-la-educacion-andalucia
+- norma_id: norm-es-2001-7022
 ---
-
 # DECRETO 167/2003, de 17 de junio, por el que se establece la ordenación de la atención educativa a los alumnos y alumnas con necesidades educativas especiales asociadas a condiciones sociales desfavorecidas.
 
 ## Preámbulo
@@ -84,7 +87,7 @@ aseguren la compensación de las desigualdades en la edu-
 cación, de forma que se dé cumplimiento efectivo del derecho
 a la educación consagrado en el artículo 27 de la Constitución
 Española.
-En este sentido, la Ley Orgánica 1/1990, de 3 de octubre,
+En este sentido, la [Ley Orgánica 1/1990](../../../estatal/02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md), de 3 de octubre,
 de Ordenación General del Sistema Educativo, encomienda
 a los poderes públicos el desarrollo de acciones de carácter
 compensatorio en relación con las personas, grupos y ámbitos
@@ -99,14 +102,14 @@ los poderes públicos desarrollarán las acciones necesarias y
 aportarán los recursos y los apoyos precisos que permitan
 compensar los efectos de situaciones de desventaja social para
 el logro de los objetivos de la educación.
-La Ley 9/1999, de 18 de noviembre, de Solidaridad en
+La [Ley 9/1999](./L9_1999_solidaridad_en_la_educacion_andalucia.md), de 18 de noviembre, de Solidaridad en
 la Educación, ha regulado un conjunto de actuaciones com-
 pensadoras dirigidas al alumnado que presenta necesidades
 educativas especiales debidas bien a los diferentes grados y
 tipos de capacidades personales de orden físico, psíquico, cog-
 nitivo o sensorial, bien asociadas a condiciones sociales
 desfavorables.
-El Decreto 147/2002, de 14 de mayo, por el que se
+El [Decreto 147/2002](./D147_2002_atencion_educativa_alumnado_necesidades_educativas_especiales_andalucia.md), de 14 de mayo, por el que se
 establece la ordenación de la atención educativa a los alumnos
 y alumnas con necesidades educativas especiales asociadas
 a sus capacidades personales, ha regulado los aspectos rela-
@@ -114,7 +117,7 @@ tivos a la atención educativa de este alumnado. Procede igual-
 mente la regulación de las actuaciones dirigidas a quienes
 presentan necesidades especiales asociadas a condiciones
 sociales desfavorecidas. Se completa así el desarrollo norma-
-tivo esencial de la citada Ley 9/1999, de 18 de noviembre.
+tivo esencial de la citada [Ley 9/1999](./L9_1999_solidaridad_en_la_educacion_andalucia.md), de 18 de noviembre.
 El presente Decreto establece un conjunto de medidas
 y actuaciones, de carácter compensador, dirigidas al alumnado
 que se encuentre en situación de desventaja sociocultural,
@@ -194,7 +197,7 @@ PRINCIPIOS Y DISPOSICIONES GENERALES
 CAPITULO UNICO
 Artículo 1. Objeto.
 El objeto del presente Decreto es la regulación y el desarro-
-llo de las medidas y actuaciones previstas en la Ley 9/1999,
+llo de las medidas y actuaciones previstas en la [Ley 9/1999](./L9_1999_solidaridad_en_la_educacion_andalucia.md),
 de 18 de noviembre, de Solidaridad en la Educación, para
 prevenir y compensar las situaciones de desigualdad en la
 educación derivadas de factores sociales, económicos, geo-
@@ -205,7 +208,7 @@ cación en los centros docentes sostenidos con fondos públicos
 de Andalucía, a excepción de los universitarios.
 Artículo 3. Destinatarios.
 De conformidad con lo establecido en el artículo 3 de
-la Ley 9/1999, de 18 de noviembre, las acciones de com-
+la [Ley 9/1999](./L9_1999_solidaridad_en_la_educacion_andalucia.md), de 18 de noviembre, las acciones de com-
 pensación educativa contempladas en el presente Decreto se
 dirigen al alumnado de las enseñanzas no universitarias que
 se encuentre en alguna de las siguientes situaciones:
@@ -227,7 +230,7 @@ principios:
 a) Compensación de las desigualdades derivadas de fac-
 tores sociales, económicos, culturales, geográficos, étnicos o
 de otra índole, de acuerdo con lo establecido en el artículo
-63.2 de la Ley Orgánica 1/1990, de 3 de octubre, de Orde-
+63.2 de la [Ley Orgánica 1/1990](../../../estatal/02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md), de 3 de octubre, de Orde-
 nación General del Sistema Educativo.
 b) Normalización, atención a la diversidad, coordinación
 interadministrativa e integración social y educativa.
@@ -269,7 +272,7 @@ del proceso educativo de sus hijos e hijas, especialmente cuan-
 do ello suponga la adopción de medidas de carácter extraor-
 dinario.
 2. Asimismo, de acuerdo con lo establecido en el artícu-
-lo 25 de la Ley 9/1999, de 18 de noviembre, se fomentará
+lo 25 de la [Ley 9/1999](./L9_1999_solidaridad_en_la_educacion_andalucia.md), de 18 de noviembre, se fomentará
 la participación de las confederaciones, federaciones y aso-
 ciaciones de padres y madres, organizaciones no guberna-
 mentales, entidades de acción voluntaria, así como la de otros
@@ -420,7 +423,7 @@ Con objeto de lograr una distribución equilibrada entre
 los centros sostenidos con fondos públicos del alumnado con
 necesidades educativas especiales asociadas a condiciones
 sociales desfavorecidas, de acuerdo con lo establecido en el
-artículo 5.1 de la Ley 9/1999, de 18 de noviembre, la Con-
+artículo 5.1 de la [Ley 9/1999](./L9_1999_solidaridad_en_la_educacion_andalucia.md), de 18 de noviembre, la Con-
 sejería de Educación y Ciencia, del total de puestos escolares
 que se oferten, podrá reservar hasta tres de ellos por unidad
 para la escolarización de este alumnado.
@@ -429,7 +432,7 @@ Actuaciones en el medio urbano
 Artículo 15. Zonas urbanas con especial problemática
 sociocultural.
 1. En relación con las actuaciones previstas en el Capítulo
-III del Título II de la Ley 9/1999, de 18 de noviembre, y
+III del Título II de la [Ley 9/1999](./L9_1999_solidaridad_en_la_educacion_andalucia.md), de 18 de noviembre, y
 de acuerdo con lo establecido en el apartado 4 del artículo
 14 de la mencionada Ley, serán consideradas como zonas
 urbanas con especial problemática sociocultural aquellas en
@@ -487,7 +490,7 @@ y de entidades sin ánimo de lucro, en su caso.
 Artículo 17. Intervención de los servicios de orientación
 educativa.
 De acuerdo con lo recogido en el apartado 3 del artículo
-14 de la Ley 9/1999, de 18 de noviembre, los Equipos de
+14 de la [Ley 9/1999](./L9_1999_solidaridad_en_la_educacion_andalucia.md), de 18 de noviembre, los Equipos de
 Orientación Educativa prestarán una atención preferente a los
 centros situados en el medio urbano cuyo alumnado presente
 una especial problemática socioeducativa.
@@ -497,7 +500,7 @@ Artículo 18. Actuaciones de compensación en zonas
 rurales.
 1. La Consejería de Educación y Ciencia determinará las
 zonas rurales a las que serán de aplicación las actuaciones
-previstas en el Capítulo IV del Título II de la Ley 9/1999,
+previstas en el Capítulo IV del Título II de la [Ley 9/1999](./L9_1999_solidaridad_en_la_educacion_andalucia.md),
 de 18 de noviembre.
 2. En cualquier caso, en aplicación de lo previsto en el
 apartado 4 del artículo 16 de la mencionada Ley, las citadas
@@ -547,7 +550,7 @@ actuaciones de compensación educativa.
 Artículo 21. Alumnado de educación infantil no esco-
 larizado.
 1. De acuerdo con lo establecido en el artículo 15 de
-la Ley 9/1999, de 18 de noviembre, el alumnado de 3 a
+la [Ley 9/1999](./L9_1999_solidaridad_en_la_educacion_andalucia.md), de 18 de noviembre, el alumnado de 3 a
 6 años que por razones de lejanía y dispersión del lugar de
 residencia no pueda ser escolarizado en un centro ordinario,
 será atendido mediante programas específicos de educación
@@ -566,14 +569,14 @@ Educación.
 Artículo 22. Atención de los Equipos de Orientación
 Educativa.
 De acuerdo con lo establecido en el artículo 16.3 de la
-Ley 9/1999, de 18 de noviembre, la Consejería de Educación
+[Ley 9/1999](./L9_1999_solidaridad_en_la_educacion_andalucia.md), de 18 de noviembre, la Consejería de Educación
 y Ciencia adecuará a las necesidades de los centros situados
 en el medio rural los recursos de los Equipos de Orientación
 Educativa que correspondan para hacer posible la atención
 especial a que se refiere el citado artículo.
 Artículo 23. Servicios complementarios.
 Los servicios complementarios a que se refiere el artículo
-16.1 de la Ley 9/1999, de 18 de noviembre, se establecerán
+16.1 de la [Ley 9/1999](./L9_1999_solidaridad_en_la_educacion_andalucia.md), de 18 de noviembre, se establecerán
 de acuerdo con los siguientes criterios:
 
 BOJA núm. 118
@@ -675,7 +678,7 @@ lias dedicadas a tareas laborales de temporada o trabajadores
 itinerantes
 Artículo 28. Escolarización.
 Conforme a lo establecido en el Capítulo VI del Título II
-de la Ley 9/1999, de 18 de noviembre, la Consejería de Edu-
+de la [Ley 9/1999](./L9_1999_solidaridad_en_la_educacion_andalucia.md), de 18 de noviembre, la Consejería de Edu-
 cación y Ciencia garantizará la escolarización del alumnado
 perteneciente a familias dedicadas a tareas laborales de tem-
 porada o a trabajos itinerantes en la etapa de educación obli-
@@ -727,7 +730,7 @@ sarios para garantizar la calidad de la educación que recibe
 este alumnado.
 Artículo 31. Convenios con la Administración Local.
 De acuerdo con lo establecido en el artículo 24 de la
-Ley 9/1999, de 18 de noviembre, cuando la Consejería de
+[Ley 9/1999](./L9_1999_solidaridad_en_la_educacion_andalucia.md), de 18 de noviembre, cuando la Consejería de
 Educación y Ciencia deba asegurar los servicios anteriormente
 citados y no sea posible hacerlo a través de los servicios com-
 plementarios de la enseñanza existentes en los centros, se
@@ -752,7 +755,7 @@ o de enfermedad no puede asistir al centro escolar
 Artículo 33. Alumnado que por razones judiciales no pue-
 de asistir al centro educativo.
 1. De conformidad con lo dispuesto en el artículo 21.1
-de la Ley 9/1999, de 18 de noviembre, la Consejería de Edu-
+de la [Ley 9/1999](./L9_1999_solidaridad_en_la_educacion_andalucia.md), de 18 de noviembre, la Consejería de Edu-
 cación y Ciencia garantizará la continuidad del proceso edu-
 cativo del alumnado de enseñanza obligatoria que por deci-
 siones judiciales no pueda asistir a centros docentes ordinarios.
@@ -776,7 +779,7 @@ tados 3 y 4 anteriores, el Instituto Provincial de Formación
 de Adultos designará a un profesor o profesora que ejercerá
 las funciones de tutoría y seguimiento de este alumnado.
 6. De acuerdo con lo establecido en el apartado 2 del
-artículo 22 de la Ley 9/1999, de 18 de noviembre, en la
+artículo 22 de la [Ley 9/1999](./L9_1999_solidaridad_en_la_educacion_andalucia.md), de 18 de noviembre, en la
 atención educativa y asistencial del alumnado a que se refiere
 el presente artículo se favorecerá la participación y colaboración
 social. A tales efectos, el personal de voluntariado o depen-
@@ -793,7 +796,7 @@ el profesorado de las aulas específicas.
 Artículo 34. Atención educativa del alumnado que no pue-
 de asistir al centro docente por razón de enfermedad.
 1. De acuerdo con lo establecido en el artículo 21.1 de
-la Ley 9/1999, de 18 de noviembre, la Consejería de Edu-
+la [Ley 9/1999](./L9_1999_solidaridad_en_la_educacion_andalucia.md), de 18 de noviembre, la Consejería de Edu-
 cación y Ciencia garantizará la continuidad del proceso edu-
 cativo del alumnado de enseñanza obligatoria que esté hos-
 pitalizado o permanezca durante periodos prolongados en su
@@ -817,14 +820,14 @@ oferta educativa en la modalidad de educación a distancia
 dirigida al alumnado de enseñanzas postobligatorias no uni-
 versitarias que se encuentre en la situación a que se refiere
 el apartado 1 de este artículo, conforme a lo establecido en
-el apartado 4 del artículo 21 de la Ley 9/1999, de 18 de
+el apartado 4 del artículo 21 de la [Ley 9/1999](./L9_1999_solidaridad_en_la_educacion_andalucia.md), de 18 de
 noviembre.
 5. Para atender al alumnado a que se refieren los apar-
 tados 3 y 4 anteriores, el Instituto Provincial de Formación
 de Adultos designará a un profesor o profesora que ejercerá
 las funciones de tutoría y seguimiento de este alumnado.
 6. De acuerdo con lo establecido en el apartado 2 del
-artículo 22 de la Ley 9/1999, de 18 de noviembre, en la
+artículo 22 de la [Ley 9/1999](./L9_1999_solidaridad_en_la_educacion_andalucia.md), de 18 de noviembre, en la
 atención educativa y asistencial del alumnado a que se refiere
 el presente artículo se favorecerá la participación y colaboración
 social. A tales efectos, el personal de voluntariado o depen-
@@ -839,7 +842,7 @@ al efecto elabore el profesorado de las Aulas Hospitalarias o
 del programa de atención educativa domiciliaria.
 Artículo 35. Aulas Hospitalarias.
 1. De acuerdo con lo recogido en el artículo 21.2 de
-la Ley 9/1999, de 18 de noviembre, el alumnado que cursa
+la [Ley 9/1999](./L9_1999_solidaridad_en_la_educacion_andalucia.md), de 18 de noviembre, el alumnado que cursa
 
 BOJA núm. 118
 Sevilla, 23 de junio 2003
@@ -890,7 +893,7 @@ razón de enfermedad.
 1. El tutor o tutora del alumno o alumna de enseñanza
 obligatoria que permanezca durante períodos prolongados en
 su domicilio por razón de enfermedad elaborará, de acuerdo
-con lo establecido en el artículo 22.3 de la Ley 9/1999, de
+con lo establecido en el artículo 22.3 de la [Ley 9/1999](./L9_1999_solidaridad_en_la_educacion_andalucia.md), de
 18 de noviembre, un plan intensivo de acción tutorial.
 2. El plan intensivo de acción tutorial a que se refiere
 el apartado anterior determinará, al menos, los aspectos bási-
@@ -926,7 +929,7 @@ EL ABSENTISMO ESCOLAR
 Artículo 39. Programas de seguimiento escolar de lucha
 contra el absentismo.
 1. Los programas de seguimiento escolar de lucha contra
-el absentismo a que se refiere el artículo 4.2 de la Ley 9/1999,
+el absentismo a que se refiere el artículo 4.2 de la [Ley 9/1999](./L9_1999_solidaridad_en_la_educacion_andalucia.md),
 de 18 de noviembre, se regirán por lo establecido en el presente
 Decreto.
 2. A los efectos del presente Decreto se entenderá por
@@ -955,7 +958,7 @@ erradicar el absentismo escolar.
 1. Los programas de lucha contra el absentismo escolar
 incluirán actuaciones en el ámbito escolar y en el sociofamiliar
 y se articularán, de conformidad con lo establecido en el ar-
-tículo 24 de la Ley 9/1999, de 18 de noviembre, mediante
+tículo 24 de la [Ley 9/1999](./L9_1999_solidaridad_en_la_educacion_andalucia.md), de 18 de noviembre, mediante
 la firma de los correspondientes convenios de colaboración
 entre la Administración de la Junta de Andalucía y las Cor-
 poraciones Locales de los municipios donde se detecte esta

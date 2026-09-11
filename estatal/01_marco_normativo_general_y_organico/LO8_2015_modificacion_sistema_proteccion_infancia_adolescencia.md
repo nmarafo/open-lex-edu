@@ -161,8 +161,11 @@ relaciones:
   - norma_id: norm-es-2000-544
   - norma_id: norm-es-lo-1-1996
   - norma_id: norm-es-lo-1-2004
+fundamentos_derecho:
+- norma_id: norm-es-lo-1-1996
+- norma_id: norm-es-2000-544
+- norma_id: norm-es-lo-1-2004
 ---
-
 # Ley Orgánica 8/2015, de 22 de julio, de modificación del sistema de protección a la infancia y a la adolescencia.
 
 ## Preámbulo
@@ -233,11 +236,11 @@ Igualmente y de manera complementaria con las modificaciones operadas en la Ley 
 
 **V**
 
-La disposición final segunda lleva a cabo una modificación de la Ley Orgánica 4/2000, de 11 de enero, sobre derechos y libertades de los extranjeros en España y su integración social, para la protección de personas extranjeras en situación irregular y sus hijos, que hayan sido víctima de trata de seres humanos.
+La disposición final segunda lleva a cabo una modificación de la [Ley Orgánica 4/2000](./LO4_2000_derechos_libertades_extranjeros_espana_integracion_social.md), de 11 de enero, sobre derechos y libertades de los extranjeros en España y su integración social, para la protección de personas extranjeras en situación irregular y sus hijos, que hayan sido víctima de trata de seres humanos.
 
 **VI**
 
-Mediante la disposición final tercera se lleva a cabo la modificación de la Ley Orgánica 1/2004, de 28 de diciembre, de Medidas de Protección Integral contra la Violencia de Género.
+Mediante la disposición final tercera se lleva a cabo la modificación de la [Ley Orgánica 1/2004](../07_convivencia_bienestar_y_protocolos/LO1_2004_medidas_proteccion_integral_contra_violencia_genero.md), de 28 de diciembre, de Medidas de Protección Integral contra la Violencia de Género.
 
 Cualquier forma de violencia ejercida sobre un menor es injustificable. Entre ellas, es singularmente atroz la violencia que sufren quienes viven y crecen en un entorno familiar donde está presente la violencia de género. Esta forma de violencia afecta a los menores de muchas formas. En primer lugar, condicionando su bienestar y su desarrollo. En segundo lugar, causándoles serios problemas de salud. En tercer lugar, convirtiéndolos en instrumento para ejercer dominio y violencia sobre la mujer. Y, finalmente, favoreciendo la transmisión intergeneracional de estas conductas violentas sobre la mujer por parte de sus parejas o ex parejas. La exposición de los menores a esta forma de violencia en el hogar, lugar en el que precisamente deberían estar más protegidos, los convierte también en víctimas de la misma.
 
@@ -259,9 +262,9 @@ Se introduce una disposición adicional primera que establece la utilización de
 
 Mediante la inclusión de una disposición derogatoria se establece una cláusula general derogatoria.
 
-#### Artículo primero. Modificación de la Ley Orgánica 1/1996, de 15 de enero, de Protección Jurídica del Menor, de modificación parcial del Código Civil y de la Ley de Enjuiciamiento Civil.
+#### Artículo primero. Modificación de la [Ley Orgánica 1/1996](./LO1_1996_proteccion_juridica_menor_modificacion_parcial_codigo.md), de 15 de enero, de Protección Jurídica del Menor, de modificación parcial del Código Civil y de la Ley de Enjuiciamiento Civil.
 
-La Ley Orgánica 1/1996, de 15 de enero, de Protección Jurídica del Menor, de modificación parcial del Código Civil y de la Ley de Enjuiciamiento Civil, queda modificada en los siguientes términos:
+La [Ley Orgánica 1/1996](./LO1_1996_proteccion_juridica_menor_modificacion_parcial_codigo.md), de 15 de enero, de Protección Jurídica del Menor, de modificación parcial del Código Civil y de la Ley de Enjuiciamiento Civil, queda modificada en los siguientes términos:
 
 Uno. Se modifica la rúbrica del capítulo I del título I, que queda redactada como sigue:
 
@@ -487,7 +490,7 @@ que queda redactado como sigue:
 
 «Artículo 778 bis. Ingreso de menores con problemas de conducta en centros de protección específicos.
 
-1. La Entidad Pública, que ostente la tutela o guarda de un menor, y el Ministerio Fiscal estarán legitimados para solicitar la autorización judicial para el ingreso del menor en los centros de protección específicos de menores con problemas de conducta a los que se refiere el artículo 25 de la Ley Orgánica 1/1996, de 15 de enero, de Protección Jurídica del Menor, de modificación parcial del Código Civil y de Enjuiciamiento Civil, debiendo acompañar a la solicitud la valoración psicosocial que lo justifique.
+1. La Entidad Pública, que ostente la tutela o guarda de un menor, y el Ministerio Fiscal estarán legitimados para solicitar la autorización judicial para el ingreso del menor en los centros de protección específicos de menores con problemas de conducta a los que se refiere el artículo 25 de la [Ley Orgánica 1/1996](./LO1_1996_proteccion_juridica_menor_modificacion_parcial_codigo.md), de 15 de enero, de Protección Jurídica del Menor, de modificación parcial del Código Civil y de Enjuiciamiento Civil, debiendo acompañar a la solicitud la valoración psicosocial que lo justifique.
 
 2. Serán competentes para autorizar el ingreso de un menor en dichos centros los Juzgados de Primera Instancia del lugar donde radique el centro.
 
@@ -579,9 +582,9 @@ Se modifica el apartado 2 del artículo 91 de la Ley Orgánica 6/1985, de 1 de j
 
 «2. Corresponde también a los Juzgados de lo Contencioso-administrativo autorizar, mediante auto, la entrada en los domicilios y en los restantes edificios o lugares cuyo acceso requiera el consentimiento de su titular, cuando ello proceda para la ejecución forzosa de actos de la Administración, salvo que se trate de la ejecución de medidas de protección de menores acordadas por la Entidad Pública competente en la materia.»
 
-#### Disposición final segunda. Modificación del apartado 2 del artículo 59 bis de la Ley Orgánica 4/2000, de 11 de enero, sobre derechos y libertades de los extranjeros en España y su integración social.
+#### Disposición final segunda. Modificación del apartado 2 del artículo 59 bis de la [Ley Orgánica 4/2000](./LO4_2000_derechos_libertades_extranjeros_espana_integracion_social.md), de 11 de enero, sobre derechos y libertades de los extranjeros en España y su integración social.
 
-Se modifica el apartado 2 del artículo 59 bis de la Ley Orgánica 4/2000, de 11 de enero, sobre derechos y libertades de los extranjeros en España y su integración social, que queda redactado en los siguientes términos:
+Se modifica el apartado 2 del artículo 59 bis de la [Ley Orgánica 4/2000](./LO4_2000_derechos_libertades_extranjeros_espana_integracion_social.md), de 11 de enero, sobre derechos y libertades de los extranjeros en España y su integración social, que queda redactado en los siguientes términos:
 
 «2. Los órganos administrativos competentes, cuando estimen que existen motivos razonables para creer que una persona extranjera en situación irregular ha sido víctima de trata de seres humanos, informarán a la persona interesada sobre las previsiones del presente artículo y elevarán a la autoridad competente para su resolución la oportuna propuesta sobre la concesión de un período de restablecimiento y reflexión, de acuerdo con el procedimiento previsto reglamentariamente.
 
@@ -589,9 +592,9 @@ Dicho período de restablecimiento y reflexión tendrá una duración de, al men
 
 Con carácter extraordinario la Administración Pública competente velará por la seguridad y protección de aquellas otras personas, que se encuentren en España, con las que la víctima tenga vínculos familiares o de cualquier otra naturaleza, cuando se acredite que la situación de desprotección en que quedarían frente a los presuntos traficantes constituye un obstáculo insuperable para que la víctima acceda a cooperar.»
 
-#### Disposición final tercera. Modificación de la Ley Orgánica 1/2004, de 28 de diciembre, de Medidas de Protección Integral contra la Violencia de Género.
+#### Disposición final tercera. Modificación de la [Ley Orgánica 1/2004](../07_convivencia_bienestar_y_protocolos/LO1_2004_medidas_proteccion_integral_contra_violencia_genero.md), de 28 de diciembre, de Medidas de Protección Integral contra la Violencia de Género.
 
-La Ley Orgánica 1/2004, de 28 de diciembre, de Medidas de Protección Integral contra la Violencia de Género, queda modificada en los siguientes términos:
+La [Ley Orgánica 1/2004](../07_convivencia_bienestar_y_protocolos/LO1_2004_medidas_proteccion_integral_contra_violencia_genero.md), de 28 de diciembre, de Medidas de Protección Integral contra la Violencia de Género, queda modificada en los siguientes términos:
 
 Uno. Se modifica el apartado 2 del artículo 1, que queda redactado como sigue:
 
@@ -623,7 +626,7 @@ Si no acordara la suspensión, el Juez deberá pronunciarse en todo caso sobre l
 
 2. La presente Ley Orgánica se dicta al amparo de la competencia exclusiva para dictar la legislación civil atribuida al Estado por el artículo 149.1.8.ª de la Constitución Española, salvo el artículo segundo, la disposición transitoria única, la disposición final primera y la disposición final tercera, que se dictan al amparo del artículo 149.1.6.ª de la Constitución Española que atribuye al Estado competencia exclusiva para dictar la legislación procesal.
 
-3. La disposición final segunda, que modifica la Ley Orgánica 4/2000, de 11 de enero, sobre derechos y libertades de los extranjeros en España y su integración social, se dicta al amparo del artículo 149.1.2.ª de la Constitución Española que atribuye al Estado competencia exclusiva en materia de extranjería.
+3. La disposición final segunda, que modifica la [Ley Orgánica 4/2000](./LO4_2000_derechos_libertades_extranjeros_espana_integracion_social.md), de 11 de enero, sobre derechos y libertades de los extranjeros en España y su integración social, se dicta al amparo del artículo 149.1.2.ª de la Constitución Española que atribuye al Estado competencia exclusiva en materia de extranjería.
 
 #### Disposición final quinta. No incremento del gasto.
 
@@ -680,10 +683,10 @@ MARIANO RAJOY BREY
 - **Modifica**: [**LO1_2004 Proteccion Integral contra la Violencia de Genero**](../07_convivencia_bienestar_y_protocolos/LO1_2004_medidas_proteccion_integral_contra_violencia_genero.md) (D. Final tercera) desde *(Art. 778 bis)*
 - **Modifica**: [**LO1_1996 Proteccion Juridica del Menor**](./LO1_1996_proteccion_juridica_menor_modificacion_parcial_codigo.md) desde *(Art. 778 bis)*
 - **Modifica**: [**LO1_1996 Proteccion Juridica del Menor**](./LO1_1996_proteccion_juridica_menor_modificacion_parcial_codigo.md) (Art. 25) desde *(Art. 778)*
-- **Modifica**: [**BOE-A-2000-544**](./LO4_2000_derechos_libertades_extranjeros_espana_integracion_social.md) (Art. 59 bis, D. Final segunda) desde *(D. Final segunda. Modificación del apartado 2 del artículo 59 bis de la Ley Orgánica 4/2000, de 11 de enero, sobre derechos y libertades de los extranjeros en España y su integración social.)*
-- **Modifica**: [**BOE-A-2000-544**](./LO4_2000_derechos_libertades_extranjeros_espana_integracion_social.md) (Art. 59 bis) desde *(D. Final segunda. Modificación del apartado 2 del artículo 59 bis de la Ley Orgánica 4/2000, de 11 de enero, sobre derechos y libertades de los extranjeros en España y su integración social.)*
-- **Modifica**: [**LO1_2004 Proteccion Integral contra la Violencia de Genero**](../07_convivencia_bienestar_y_protocolos/LO1_2004_medidas_proteccion_integral_contra_violencia_genero.md) (D. Final tercera) desde *(D. Final tercera. Modificación de la Ley Orgánica 1/2004, de 28 de diciembre, de Medidas de Protección Integral contra la Violencia de Género.)*
-- **Modifica**: [**LO1_2004 Proteccion Integral contra la Violencia de Genero**](../07_convivencia_bienestar_y_protocolos/LO1_2004_medidas_proteccion_integral_contra_violencia_genero.md) desde *(D. Final tercera. Modificación de la Ley Orgánica 1/2004, de 28 de diciembre, de Medidas de Protección Integral contra la Violencia de Género.)*
+- **Modifica**: [**BOE-A-2000-544**](./LO4_2000_derechos_libertades_extranjeros_espana_integracion_social.md) (Art. 59 bis, D. Final segunda) desde *(D. Final segunda. Modificación del apartado 2 del artículo 59 bis de la [Ley Orgánica 4/2000](./LO4_2000_derechos_libertades_extranjeros_espana_integracion_social.md), de 11 de enero, sobre derechos y libertades de los extranjeros en España y su integración social.)*
+- **Modifica**: [**BOE-A-2000-544**](./LO4_2000_derechos_libertades_extranjeros_espana_integracion_social.md) (Art. 59 bis) desde *(D. Final segunda. Modificación del apartado 2 del artículo 59 bis de la [Ley Orgánica 4/2000](./LO4_2000_derechos_libertades_extranjeros_espana_integracion_social.md), de 11 de enero, sobre derechos y libertades de los extranjeros en España y su integración social.)*
+- **Modifica**: [**LO1_2004 Proteccion Integral contra la Violencia de Genero**](../07_convivencia_bienestar_y_protocolos/LO1_2004_medidas_proteccion_integral_contra_violencia_genero.md) (D. Final tercera) desde *(D. Final tercera. Modificación de la [Ley Orgánica 1/2004](../07_convivencia_bienestar_y_protocolos/LO1_2004_medidas_proteccion_integral_contra_violencia_genero.md), de 28 de diciembre, de Medidas de Protección Integral contra la Violencia de Género.)*
+- **Modifica**: [**LO1_2004 Proteccion Integral contra la Violencia de Genero**](../07_convivencia_bienestar_y_protocolos/LO1_2004_medidas_proteccion_integral_contra_violencia_genero.md) desde *(D. Final tercera. Modificación de la [Ley Orgánica 1/2004](../07_convivencia_bienestar_y_protocolos/LO1_2004_medidas_proteccion_integral_contra_violencia_genero.md), de 28 de diciembre, de Medidas de Protección Integral contra la Violencia de Género.)*
 - **Modifica**: [**BOE-A-2000-544**](./LO4_2000_derechos_libertades_extranjeros_espana_integracion_social.md) (Art. 149, D. Final segunda) desde *(D. Final cuarta. Carácter orgánico y títulos competenciales.)*
 - **Modifica**: `norm-es-c-1978` (Art. 149, D. Final segunda) desde *(D. Final cuarta. Carácter orgánico y títulos competenciales.)*
 - **Modifica**: [**LO8_2021 Proteccion Integral a la Infancia y Adolescencia (LOPIVI)**](../07_convivencia_bienestar_y_protocolos/LO8_2021_proteccion_integral_infancia_adolescencia_frente_violencia.md) desde *(D. Final séptima. Entrada en vigor.)*

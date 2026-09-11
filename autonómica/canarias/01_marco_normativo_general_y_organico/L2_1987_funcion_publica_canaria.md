@@ -145,8 +145,10 @@ relaciones:
   articulos:
   - norma_id: '136'
   - norma_id: norm-es-1984-17387
+fundamentos_derecho:
+- norma_id: norm-and-l4-1984
+- norma_id: norm-es-1984-17387
 ---
-
 # Ley 2/1987, de 30 de marzo, de la Función Pública Canaria.
 
 ## Preámbulo

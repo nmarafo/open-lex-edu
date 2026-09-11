@@ -207,8 +207,16 @@ relaciones:
   - norma_id: norm-es-2021-20113
   - norma_id: norm-es-2010-12201
   - norma_id: norm-es-2010-4518
+fundamentos_derecho:
+- norma_id: norm-and-l12-2007-promocion-igualdad-genero-andalucia
+- norma_id: norm-can-l-2-1987
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-1985-5392
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
+- norma_id: norm-es-2010-4518
 ---
-
 # Ley 4/2012, de 25 de junio, de medidas administrativas y fiscales.
 
 ## Preámbulo
@@ -527,9 +535,9 @@ d) Vocales:
 
 e) **Secretaria.** La persona designada por la Presidencia del Instituto de entre el personal al servicio del Instituto Canario de Hemodonación y Hemoterapia, con voz y sin voto.
 
-#### Artículo 4. Modificación de la Ley 2/1987, de 30 de marzo, de la Función Pública Canaria.
+#### Artículo 4. Modificación de la [Ley 2/1987](../../autonómica/canarias/01_marco_normativo_general_y_organico/L2_1987_funcion_publica_canaria.md), de 30 de marzo, de la Función Pública Canaria.
 
-Se modifica la Ley 2/1987, de 30 de marzo, de la Función Pública Canaria, en los términos siguientes:
+Se modifica la [Ley 2/1987](../../autonómica/canarias/01_marco_normativo_general_y_organico/L2_1987_funcion_publica_canaria.md), de 30 de marzo, de la Función Pública Canaria, en los términos siguientes:
 
 Uno. El artículo 95 queda.
 
@@ -733,9 +741,9 @@ Tres. La disposición adicional cuarta queda con la redacción siguiente:
 
 2. Reglamentariamente se establecerá la composición, funciones, organización y régimen de actuación de este órgano consultivo.»
 
-#### Artículo 11. Modificación de la Ley 1/2010, de 26 de febrero, Canaria de Igualdad entre Mujeres y Hombres.
+#### Artículo 11. Modificación de la [Ley 1/2010](../07_convivencia_bienestar_y_protocolos/L1_2010_canaria_igualdad_entre_mujeres_hombres.md), de 26 de febrero, Canaria de Igualdad entre Mujeres y Hombres.
 
-Se modifica la Ley 1/2010, de 26 de febrero, Canaria de Igualdad entre Mujeres y Hombres, en la forma siguiente:
+Se modifica la [Ley 1/2010](../07_convivencia_bienestar_y_protocolos/L1_2010_canaria_igualdad_entre_mujeres_hombres.md), de 26 de febrero, Canaria de Igualdad entre Mujeres y Hombres, en la forma siguiente:
 
 Uno. El apartado 5 del artículo 33 queda.
 
@@ -811,9 +819,9 @@ No obstante lo anterior, los departamentos procederán a la racionalización de 
 
 En ambos supuestos, continuarán percibiendo las retribuciones correspondientes a su puesto de trabajo, sin perjuicio de la percepción de las indemnizaciones por razón del servicio a que tengan derecho, en su caso.
 
-#### Artículo 15. Modificación de la Ley 2/1987, de 30 de marzo, de la Función Pública Canaria.
+#### Artículo 15. Modificación de la [Ley 2/1987](../../autonómica/canarias/01_marco_normativo_general_y_organico/L2_1987_funcion_publica_canaria.md), de 30 de marzo, de la Función Pública Canaria.
 
-Se modifica la Ley 2/1987, de 30 de marzo, de la Función Pública Canaria, en los siguientes términos:
+Se modifica la [Ley 2/1987](../../autonómica/canarias/01_marco_normativo_general_y_organico/L2_1987_funcion_publica_canaria.md), de 30 de marzo, de la Función Pública Canaria, en los siguientes términos:
 
 Uno. El artículo 36 queda.
 
@@ -3565,7 +3573,7 @@ Tres. Se modifica el artículo 7, que queda redactado en los términos siguien
 
 #### «Artículo 7. Deducción por gastos de estudios.
 
-1. Los contribuyentes podrán deducirse por cada descendiente o adoptado soltero menor de 25 años, que dependa económicamente de él y que curse los estudios de educación superior previstos en el apartado 5 del artículo 3 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, fuera de la isla en la que se encuentre la residencia habitual del contribuyente, la cantidad de 1.500 euros.
+1. Los contribuyentes podrán deducirse por cada descendiente o adoptado soltero menor de 25 años, que dependa económicamente de él y que curse los estudios de educación superior previstos en el apartado 5 del artículo 3 de la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, fuera de la isla en la que se encuentre la residencia habitual del contribuyente, la cantidad de 1.500 euros.
 
 La deducción, que se aplicará en la declaración correspondiente al periodo impositivo en que se inicie el curso académico, tendrá como límite el 40 por ciento de la cuota íntegra autonómica. Se asimilan a descendientes aquellas personas vinculadas con el contribuyente por razón de tutela o acogimiento, en los términos previstos en la legislación vigente.
 
@@ -4827,7 +4835,7 @@ m) Las entregas de bienes y las prestaciones de servicios con destino a los cent
 
 n) El transporte de viajeros y mercancías por vía marítima o aérea entre las islas del archipiélago canario.
 
-En ningún caso es aplicable el tipo de gravamen del cero al transporte marítimo de pasajeros de carácter turístico, recreativo o de ocio, educativo o de instrucción al que se refiere el artículo 20 de la Ley 12/2007, de 24 de abril, de Ordenación del Transporte Marítimo de Canarias, ni al transporte aéreo de carácter turístico, recreativo o de ocio, educativo o de instrucción.
+En ningún caso es aplicable el tipo de gravamen del cero al transporte marítimo de pasajeros de carácter turístico, recreativo o de ocio, educativo o de instrucción al que se refiere el artículo 20 de la [Ley 12/2007](../../autonómica/andalucía/01_marco_normativo_general_y_organico/L12_2007_promocion_igualdad_genero_andalucia.md), de 24 de abril, de Ordenación del Transporte Marítimo de Canarias, ni al transporte aéreo de carácter turístico, recreativo o de ocio, educativo o de instrucción.
 
 #### Artículo 53. Tipo de gravamen reducido del 2,75 por ciento.
 
@@ -4901,7 +4909,7 @@ En ningún caso se incluye el servicio de mensajería, recadería y reparto.
 
 d) Los transportes terrestres turísticos en los términos establecidos en la Ley 13/2007, de 17 de mayo, de Ordenación del Transporte por Carretera de Canarias.
 
-e) Los transportes marítimos de pasajeros de carácter turístico, recreativo o de ocio, educativo o de instrucción al que se refiere el artículo 20 de la Ley 12/2007, de 24 de abril, de Ordenación del Transporte Marítimo de Canarias.
+e) Los transportes marítimos de pasajeros de carácter turístico, recreativo o de ocio, educativo o de instrucción al que se refiere el artículo 20 de la [Ley 12/2007](../../autonómica/andalucía/01_marco_normativo_general_y_organico/L12_2007_promocion_igualdad_genero_andalucia.md), de 24 de abril, de Ordenación del Transporte Marítimo de Canarias.
 
 f) Los transportes aéreos de carácter turístico, recreativo o de ocio, educativo o de instrucción.
 

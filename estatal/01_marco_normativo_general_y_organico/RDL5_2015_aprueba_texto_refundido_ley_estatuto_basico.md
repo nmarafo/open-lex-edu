@@ -255,8 +255,15 @@ relaciones:
   - norma_id: norm-es-1985-5392
   - norma_id: norm-es-2013-12632
   - norma_id: norm-es-2012-9364
+fundamentos_derecho:
+- norma_id: norm-es-2015-8470
+- norma_id: norm-es-1984-17387
+- norma_id: norm-es-l-40-2015
+- norma_id: norm-es-l-53-1984
+- norma_id: norm-es-1985-5392
+- norma_id: norm-es-2013-12632
+- norma_id: norm-es-2012-9364
 ---
-
 # Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público.
 
 ## Preámbulo
@@ -312,7 +319,7 @@ Disposición adicional decimoséptima.. Medidas dirigidas al control de la tempo
 
 #### Disposición final segunda.
 
-#### Disposición final tercera. Modificación de la Ley 53/1984, de 26 de diciembre, de incompatibilidades del.
+#### Disposición final tercera. Modificación de la [Ley 53/1984](./L53_1984_incompatibilidades_personal_servicio_administraciones_publicas.md), de 26 de diciembre, de incompatibilidades del.
 
 de la Constitución Española, autoriza al Gobierno para aprobar, en el. plazo de doce meses a partir de la entrada en vigor de esta ley, un texto refundido en el que se integren, debidamente regularizadas, aclaradas y armonizadas, la Ley 7/2007, de 12 de abril, del Estatuto Básico del Empleado Público, y las disposiciones en materia de régimen jurídico del empleo público contenidas en normas con rango de ley que la hayan modificado, y las que, afectando a su ámbito material, puedan, en su caso, promulgarse antes de la aprobación por Consejo de Ministros de los textos refundidos que procedan y así se haya previsto en las mismas. Asimismo, el artículo dos de la citada ley, prevé que los reales decretos legislativos que se dicten de acuerdo con la presente ley incluirán la derogación expresa de las normas que hayan sido objeto de refundición así como de aquellas disposiciones reglamentarias dictadas en aplicación y desarrollo de las mismas que resulten incompatibles con la refundición efectuada. De acuerdo con la citada habilitación se ha procedido a elaborar el texto refundido, siguiendo los criterios que a continuación se exponen. En primer lugar, se ha procedido a integrar en un texto único todas las modificaciones introducidas en la Ley 7/2007, de 12 de abril, a través de diversas leyes que bien han dado una nueva redacción a determinados preceptos, bien, han introducido nuevas disposiciones. En segundo lugar, y de acuerdo con la delegación conferida, se han incluido en el texto las disposiciones en materia de régimen jurídico del empleo público contenidas en normas con rango de ley que la hayan modificado, entendiendo por tales únicamente aquellas normas con rango de ley, y carácter de legislación básica, que de manera indiscutible afectan al ámbito material de la Ley 7/2007, de 12 de abril, y que no tengan un mero carácter coyuntural o temporal, sino que han sido aprobadas con vocación de permanencia. Por otra parte, el principio de seguridad jurídica ha guiado toda la elaboración de este texto refundido. En este sentido, en todo momento se ha perseguido el objetivo unificador que encarna esta clase de textos refundidos, lo que se ha realizado a través de la actualización, aclaración y armonización de las distintas leyes que lo conforman, dando lugar a un nuevo texto, completo y sistemático. Asimismo, se entiende que esta tendencia unificadora no puede ser óbice para que se incluyan en el texto refundido, debidamente integradas, todas aquellas normas que son necesarias para evitar que se produzca un vacío legal, como ocurre con la regulación relativa a los títulos universitarios oficiales correspondientes a la anterior ordenación exigibles para el ingreso en las Administraciones Públicas; o aquellas que, si bien podrían tener un carácter temporal, aun no se han consumado al no haberse cumplido la condición prevista para ello, condición que en la mayoría de los supuestos supone la aprobación de las correspondientes leyes de desarrollo, como es el caso de alguna de las normas incluidas en la disposición derogatoria única de la Ley 7/2007, de 12 de abril, cuya derogación se preveía que se produciría, como se señalaba, cuando entrasen en vigor las leyes de desarrollo, leyes que en la mayoría de los casos aún no se han aprobado. Por último, y como fruto de la integración operada, se ha procedido a ajustar la numeración de las disposiciones como consecuencia de las distintas derogaciones que ya se habían producido con anterioridad. En su virtud, a propuesta del Ministro de Hacienda y Administraciones Públicas, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 30 de octubre de 2015,
 DISPONGO:
@@ -336,7 +343,7 @@ Quedan derogadas todas las disposiciones de igual o inferior rango que se oponga
 
 6. El artículo 7, el artículo 8, apartados uno y dos, el artículo 11 y el.
 
-artículo 13, apartado 1, del Real Decreto-ley 20/2012, de 13 de julio, de medidas para garantizar la estabilidad presupuestaria y de fomento de la competitividad.
+artículo 13, apartado 1, del Real Decreto-[ley 20/2012](../08_personal_docente/RD20_2012_real_decreto_ley_medidas_garantizar_estabilidad.md), de 13 de julio, de medidas para garantizar la estabilidad presupuestaria y de fomento de la competitividad.
 
 7. La disposición adicional cuarta de la Ley Orgánica 9/2013, de 20 de diciembre, de control de la deuda comercial en el sector publico.
 
@@ -346,7 +353,7 @@ artículo 13, apartado 1, del Real Decreto-ley 20/2012, de 13 de julio, de medid
 
 10. El artículo 5 de la Ley 25/2015, de 28 de julio, de mecanismo de segunda oportunidad, reducción de la carga financiera y otras medidas de orden social.
 
-11. La disposición final cuarta de la Ley 26/2015, de 28 de julio, de modificación del sistema de protección a la infancia y a la adolescencia.
+11. La disposición final cuarta de la [Ley 26/2015](./L26_2015_modificacion_sistema_proteccion_infancia_adolescencia.md), de 28 de julio, de modificación del sistema de protección a la infancia y a la adolescencia.
 
 12. El artículo 2 l.
 
@@ -1040,7 +1047,7 @@ Internacionales. Las Administraciones Públicas establecerán los requisitos y c
 
 1. En las ofertas de empleo público se reservará un cupo no inferior al siete por ciento de las vacantes para ser cubiertas entre personas con discapacidad, considerando como tales las definidas en el apartado 2 del artículo 4 l.
 
-texto refundido de la Ley General de derechos de las personas con discapacidad y de su inclusión social, aprobado por el Real Decreto Legislativo 1/2013, de 29 de noviembre, siempre que superen los procesos selectivos y acrediten su discapacidad y la compatibilidad con el desempeño de las tareas, de modo que progresivamente se alcance el dos por ciento de los efectivos totales en cada Administración Pública. La reserva del mínimo del siete por ciento se realizará de manera que, al menos, el dos por ciento de las plazas ofertadas lo sea para ser cubiertas por personas que acrediten discapacidad intelectual y el resto de las plazas ofertadas lo sea para personas que acrediten cualquier otro tipo de discapacidad.
+texto refundido de la Ley General de derechos de las personas con discapacidad y de su inclusión social, aprobado por el [Real Decreto Legislativo 1/2013](../07_convivencia_bienestar_y_protocolos/RDL1_2013_aprueba_texto_refundido_ley_general_derechos.md), de 29 de noviembre, siempre que superen los procesos selectivos y acrediten su discapacidad y la compatibilidad con el desempeño de las tareas, de modo que progresivamente se alcance el dos por ciento de los efectivos totales en cada Administración Pública. La reserva del mínimo del siete por ciento se realizará de manera que, al menos, el dos por ciento de las plazas ofertadas lo sea para ser cubiertas por personas que acrediten discapacidad intelectual y el resto de las plazas ofertadas lo sea para personas que acrediten cualquier otro tipo de discapacidad.
 
 2. Cada Administración Pública adoptará las medidas precisas para establecer las adaptaciones y ajustes razonables de tiempos y medios en el proceso selectivo y, una vez superado dicho proceso, las adaptaciones en el puesto de trabajo a las necesidades de las personas con discapacidad.
 
@@ -1461,7 +1468,7 @@ Instituciones Forales.
 
 1. El presente Estatuto se aplicará a la Comunidad Foral de Navarra en los términos establecidos en el artículo 149.1.18.ª y disposición adicional primera de la Constitución, y en la Ley Orgánica 13/1982, de 10 de agosto, de Reintegración y Amejoramiento del Régimen Foral de Navarra.
 
-2. En el ámbito de la Comunidad Autónoma del País Vasco el presente Estatuto se aplicará de conformidad con la disposición adicional primera de la Constitución, con el artículo 149 1.18.ª de la Constitución y con la Ley Orgánica 3/1979, de 18 de diciembre, por. la que se aprueba el Estatuto de Autonomía para el País Vasco. Las facultades previstas en el artículo 92 bis de la Ley 7/1985, de 7 de abril, respecto a los funcionarios con habilitación de carácter nacional serán ostentadas por las Instituciones Forales de sus territorios históricos o por las Instituciones Comunes de la Comunidad Autónoma, en los términos que establezca la normativa autonómica.
+2. En el ámbito de la Comunidad Autónoma del País Vasco el presente Estatuto se aplicará de conformidad con la disposición adicional primera de la Constitución, con el artículo 149 1.18.ª de la Constitución y con la Ley Orgánica 3/1979, de 18 de diciembre, por. la que se aprueba el Estatuto de Autonomía para el País Vasco. Las facultades previstas en el artículo 92 bis de la [Ley 7/1985](../02_gestion_y_administracion_centros/L7_1985_reguladora_bases_regimen_local.md), de 7 de abril, respecto a los funcionarios con habilitación de carácter nacional serán ostentadas por las Instituciones Forales de sus territorios históricos o por las Instituciones Comunes de la Comunidad Autónoma, en los términos que establezca la normativa autonómica.
 
 #### Disposición adicional tercera. Funcionarios públicos propios de las ciudades de Ceuta y.
 
@@ -1478,7 +1485,7 @@ c) La regulación del procedimiento de provisión de puestos directivos así com
 
 #### Disposición adicional cuarta. Aplicación de este Estatuto a las autoridades administrativas.
 
-independientes de ámbito estatal. Lo establecido en el presente Estatuto se aplicará a las autoridades administrativas independientes del ámbito estatal, Entidades de Derecho Público reguladas en los artículos 109 y 110 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, en la forma prevista en sus leyes de creación.
+independientes de ámbito estatal. Lo establecido en el presente Estatuto se aplicará a las autoridades administrativas independientes del ámbito estatal, Entidades de Derecho Público reguladas en los artículos 109 y 110 de la [Ley 40/2015](./L40_2015_regimen_juridico_sector_publico.md), de 1 de octubre, de Régimen Jurídico del Sector Público, en la forma prevista en sus leyes de creación.
 
 #### Disposición adicional quinta. Jubilación de los funcionarios.
 
@@ -1600,7 +1607,7 @@ acogimiento o adopción de un hijo para el personal funcionario hasta la entrada
 
 #### Disposición transitoria séptima. Referencia a los Organismos Reguladores.
 
-Hasta que se produzca la entrada en vigor de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, las previsiones contenidas en la disposición adicional
+Hasta que se produzca la entrada en vigor de la [Ley 40/2015](./L40_2015_regimen_juridico_sector_publico.md), de 1 de octubre, de Régimen Jurídico del Sector Público, las previsiones contenidas en la disposición adicional
 
 #### Cuarta. de esta ley se entenderán referidas a los organismos reguladores de la disposición adicional décima, 1 de la Ley 6/1997, de 14 de abril, de Organización y Funcionamiento de la Administración General del Estado.
 
@@ -1622,7 +1629,7 @@ c) Finalmente en 2021, la duración del permiso será de dieciséis semanas; las
 #### Disposición derogatoria única.
 
 Quedan derogadas con el alcance establecido en el apartado 2 de la disposición final cuarta, las siguientes disposiciones:
-a) De la Ley de Funcionarios Civiles del Estado aprobada por Decreto 315/1964, de 7 de febrero, los artículos 1, 2, 3, 4, 5.2, 7, 29, 30, 36, 37, 38, 39.2, 40, 41, 42, 44, 47, 48, 49, 50, 59, 60, 61, 63, 64, 65, 68, 71, 76, 77, 78, 79, 80, 87, 89, 90, 91, 92, 93, 102, 104 y 105. b) De la Ley 30/1984, de 2 de agosto, de Medidas para la Reforma de la Función Pública, los artículos 3.2.e) y f); 6; 7; 8; 11; 12; 13.2, 3 y 4; 14.4 y 5; 16; 17; 18.1 a 5; 19.1 y 3; 20.1.a), b) párrafo primero, c), e) y g) en sus párrafos primero a cuarto, e i), 2 y 3; 21; 22.1 a excepción de los dos últimos párrafos; 23; 24; 25; 26; 29, a excepción del último párrafo de sus apartados 5, 6 y 7; 30.3 y 5; 31; 32; 33; disposiciones adicionales tercera.2 y 3, cuarta,
+a) De la Ley de Funcionarios Civiles del Estado aprobada por Decreto 315/1964, de 7 de febrero, los artículos 1, 2, 3, 4, 5.2, 7, 29, 30, 36, 37, 38, 39.2, 40, 41, 42, 44, 47, 48, 49, 50, 59, 60, 61, 63, 64, 65, 68, 71, 76, 77, 78, 79, 80, 87, 89, 90, 91, 92, 93, 102, 104 y 105. b) De la [Ley 30/1984](./L30_1984_medidas_reforma_funcion_publica.md), de 2 de agosto, de Medidas para la Reforma de la Función Pública, los artículos 3.2.e) y f); 6; 7; 8; 11; 12; 13.2, 3 y 4; 14.4 y 5; 16; 17; 18.1 a 5; 19.1 y 3; 20.1.a), b) párrafo primero, c), e) y g) en sus párrafos primero a cuarto, e i), 2 y 3; 21; 22.1 a excepción de los dos últimos párrafos; 23; 24; 25; 26; 29, a excepción del último párrafo de sus apartados 5, 6 y 7; 30.3 y 5; 31; 32; 33; disposiciones adicionales tercera.2 y 3, cuarta,
 
 #### Duodécima. y decimoquinta, disposiciones transitorias segunda, octava y novena.
 
@@ -1634,7 +1641,7 @@ la excepción contemplada en la disposición transitoria
 
 #### Quinta. de este Estatuto.
 
-d) De la Ley 7/1985, de 2 de abril, reguladora de las bases del Régimen Local, el
+d) De la [Ley 7/1985](../02_gestion_y_administracion_centros/L7_1985_reguladora_bases_regimen_local.md), de 2 de abril, reguladora de las bases del Régimen Local, el
 
 ### Capítulo III. del título VII.
 
@@ -1649,7 +1656,7 @@ Las disposiciones de este Estatuto se dictan al amparo del artículo 149.1.18.ª
 
 Las previsiones de esta ley son de aplicación a todas las comunidades autónomas respetando en todo caso las posiciones singulares en materia de sistema institucional y las competencias exclusivas y compartidas en materia de función pública y de autoorganización que les atribuyen los respectivos Estatutos de Autonomía, en el marco de la Constitución.
 
-#### Disposición final tercera. Modificación de la Ley 53/1984, de 26 de diciembre, de.
+#### Disposición final tercera. Modificación de la [Ley 53/1984](./L53_1984_incompatibilidades_personal_servicio_administraciones_publicas.md), de 26 de diciembre, de.
 
 incompatibilidades del personal al servicio de las Administraciones Públicas. Se modifica el apartado 1 del artículo 16, que queda redactado de la siguiente forma:
 «No podrá autorizarse o reconocerse compatibilidad al personal funcionario, al personal eventual y al personal laboral cuando las retribuciones complementarias que tengan derecho a percibir del apartado b) del artículo 24 l.
@@ -1671,11 +1678,11 @@ Función Pública que se dicten en desarrollo de este Estatuto. La disposición 
 ## Relaciones Normativas y Fundamentos de Derecho
 
 ### Estructura y Concordancias Granulares
-- **Modifica**: [**L53_1984 Incompatibilidades del Personal Publico**](./L53_1984_incompatibilidades_personal_servicio_administraciones_publicas.md) (D. Final tercera) desde *(Capítulo IV. Derecho a la negociación colectiva, representación y participación institucional. Derecho de, D. Final tercera. Modificación de la Ley 53/1984, de 26 de diciembre, de incompatibilidades del.)*
-- **Modifica**: `norm-es-c-1978` (D. Derogatoria única) desde *(Capítulo IV. Derecho a la negociación colectiva, representación y participación institucional. Derecho de, D. Final tercera. Modificación de la Ley 53/1984, de 26 de diciembre, de incompatibilidades del.)*
+- **Modifica**: [**L53_1984 Incompatibilidades del Personal Publico**](./L53_1984_incompatibilidades_personal_servicio_administraciones_publicas.md) (D. Final tercera) desde *(Capítulo IV. Derecho a la negociación colectiva, representación y participación institucional. Derecho de, D. Final tercera. Modificación de la [Ley 53/1984](./L53_1984_incompatibilidades_personal_servicio_administraciones_publicas.md), de 26 de diciembre, de incompatibilidades del.)*
+- **Modifica**: `norm-es-c-1978` (D. Derogatoria única) desde *(Capítulo IV. Derecho a la negociación colectiva, representación y participación institucional. Derecho de, D. Final tercera. Modificación de la [Ley 53/1984](./L53_1984_incompatibilidades_personal_servicio_administraciones_publicas.md), de 26 de diciembre, de incompatibilidades del.)*
 - **Modifica**: [**BOE-A-2015-8470**](./L26_2015_modificacion_sistema_proteccion_infancia_adolescencia.md) (D. Final cuarta) desde *(Capítulo IV. Derecho a la negociación colectiva, representación y participación institucional. Derecho de, D. Derogatoria única. Derogación normativa.)*
 - **Modifica**: `norm-es-c-1978` desde *(Título III, Capítulo IV. Derecho a la negociación colectiva, representación y participación institucional. Derecho de reunión., Art. 35)*
-- **Modifica**: [**L53_1984 Incompatibilidades del Personal Publico**](./L53_1984_incompatibilidades_personal_servicio_administraciones_publicas.md) (D. Final tercera) desde *(Título VIII, Capítulo III. del título VII., D. Final tercera. Modificación de la Ley 53/1984, de 26 de diciembre, de.)*
+- **Modifica**: [**L53_1984 Incompatibilidades del Personal Publico**](./L53_1984_incompatibilidades_personal_servicio_administraciones_publicas.md) (D. Final tercera) desde *(Título VIII, Capítulo III. del título VII., D. Final tercera. Modificación de la [Ley 53/1984](./L53_1984_incompatibilidades_personal_servicio_administraciones_publicas.md), de 26 de diciembre, de.)*
 - **Deroga**: [**BOE-A-1984-17387**](./L30_1984_medidas_reforma_funcion_publica.md) (Art. 1, Art. 2, Art. 3, Art. 4, Art. 5, D. Final cuarta) desde *(Título VIII, D. Derogatoria única.)*
 - **Fundamentado en**: `norm-es-c-1978` (Art. 93) desde *(Título VI, Art. 87)*
 - **Fundamentado en**: [**BOE-A-1985-5392**](../02_gestion_y_administracion_centros/L7_1985_reguladora_bases_regimen_local.md) (Art. 149, Art. 92 bis, D. Adicional primera) desde *(Título VIII, D. Adicional segunda. Aplicación de las disposiciones de este Estatuto a las.)*

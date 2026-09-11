@@ -24,8 +24,14 @@ tags:
 - equipos_orientacion
 - psicopedagogicos
 - madrid
+fundamentos_derecho:
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-mad-l1-1983-gobierno-administracion-comunidad-madrid
+- norma_id: norm-es-l-39-2015
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
 ---
-
 # Orden 2642/2020, de 16 de octubre, de la Consejería de Educación y Juventud, por la que se crean y regulan equipos de orientación educativa y psicopedagógica en la Comunidad de Madrid
 
 ## Preámbulo
@@ -36,7 +42,7 @@ Consejería de Educación y Juventud
 ORDEN 2642/2020, de 16 de octubre, de la Consejería de Educación y Juventud,
 por la que se crea el Equipo de Orientación Educativa y Psicopedagógica Espe-
 cífico de Altas Capacidades.
-La Ley Orgánica 2/2006, de 3 de mayo, de Educación, en su artículo 76 establece que
+La [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, en su artículo 76 establece que
 corresponde a las Administraciones Educativas adoptar las medidas necesarias para identi-
 ficar al alumnado con altas capacidades intelectuales y valorar de forma temprana sus ne-
 cesidades. Igualmente, les corresponde adoptar planes de actuación, así como programas de
@@ -80,7 +86,7 @@ cífico de Altas Capacidades, con el fin de establecer en la Comunidad de Madrid
 común para la identificación y la intervención educativa con dichos alumnos.
 En la tramitación de la presente Orden se han tenido en cuenta los principios de buena
 regulación: necesidad, eficacia, proporcionalidad, seguridad jurídica, y eficiencia, recogidos
-en el artículo 129 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Co-
+en el artículo 129 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Administrativo Co-
 mún de las Administraciones Públicas. La necesidad de esta medida queda acreditada por la
 inexistencia, hasta este momento, de un servicio o unidad encargado específicamente de
 orientar la detección y atención educativa en sus centros de los alumnos con alta capacidad.
@@ -94,7 +100,7 @@ da y difundida para general conocimiento por parte de los diferentes sectores qu
 la comunidad educativa.
 En virtud de lo anteriormente expuesto, y con el fin de asegurar la calidad de la ense-
 ñanza mediante la creación de servicios especializados de orientación educativa, y en con-
-cordancia con el artículo 41.d) de la Ley 1/1983, de 13 de diciembre, de Gobierno y Admi-
+cordancia con el artículo 41.d) de la [Ley 1/1983](../01_marco_normativo_general_y_organico/L1_1983_gobierno_administracion_comunidad_madrid.md), de 13 de diciembre, de Gobierno y Admi-
 nistración de la Comunidad de Madrid, y el Decreto 288/2019, de 12 de noviembre, del
 Consejo de Gobierno, por el que se establece la estructura orgánica de la Consejería de Edu-
 cación y Juventud,

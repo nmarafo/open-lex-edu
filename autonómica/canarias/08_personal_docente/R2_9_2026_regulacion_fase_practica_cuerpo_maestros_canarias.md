@@ -1,6 +1,10 @@
 ---
 id: norm-can-r-2026-09-02-regulacion-fase-practica-cuerpo-maestros
-titulo: Resolución de la Dirección General de Personal y Formación del Profesorado de la Consejería de Educación, Formación Profesional, Actividad Física y Deportes del Gobierno de Canarias por la que se establece la fase práctica del procedimiento selectivo para el ingreso en el Cuerpo de Maestros convocado por la Orden de 18 de marzo de 2026, y se establecen las disposiciones para garantizar su desarrollo.
+titulo: Resolución de la Dirección General de Personal y Formación del Profesorado
+  de la Consejería de Educación, Formación Profesional, Actividad Física y Deportes
+  del Gobierno de Canarias por la que se establece la fase práctica del procedimiento
+  selectivo para el ingreso en el Cuerpo de Maestros convocado por la Orden de 18
+  de marzo de 2026, y se establecen las disposiciones para garantizar su desarrollo.
 jurisdiccion: Canarias
 ambito: Autonómico
 organo_emisor: Dirección General de Personal y Formación del Profesorado
@@ -28,8 +32,16 @@ relaciones:
   fundamenta_en:
   - norm-est-rd-276-2007
   - norm-can-l-6-2014
+fundamentos_derecho:
+- norma_id: norm-can-d-212-1991
+- norma_id: norm-can-d-84-2024
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
+- norma_id: norm-es-rd-276-2007
+- norma_id: norm-es-2007-5478
 ---
-
 # Resolución de la Dirección General de Personal y Formación del Profesorado de la Consejería de Educación, Formación Profesional, Actividad Física y Deportes del Gobierno de Canarias por la que se establece la fase práctica del procedimiento selectivo para el ingreso en el Cuerpo de Maestros convocado por la Orden de 18 de marzo de 2026, y se establecen las disposiciones para garantizar su desarrollo.
 
 ## Preámbulo
@@ -50,9 +62,9 @@ servicios efectivos con plenitud de funciones docentes. El desarrollo de esta fa
 Resolución de la Dirección General de Personal y Formación del Profesorado.
 A los anteriores hechos les son de aplicación los siguientes  
 FUNDAMENTOS DE DERECHO
-Primero.- El Real Decreto 276/2007, de 23 de febrero, por el que se aprueba el Reglamento de  
+Primero.- El [Real Decreto 276/2007](../../../estatal/08_personal_docente/RD276_2007_aprueba_reglamento_ingreso_accesos_adquisicion_nuevas.md), de 23 de febrero, por el que se aprueba el Reglamento de  
 ingreso, accesos y adquisición de nuevas especialidades en los Cuerpos docentes a que se refiere la  
-Ley Orgánica 2/2006, de 3 de mayo, de Educación, y se regula el régimen transitorio de ingreso a  
+[Ley Orgánica 2/2006](../05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, y se regula el régimen transitorio de ingreso a  
 que se refiere la Disposición Transitoria Decimoséptima de la citada Ley.
 Concretamente, los artículos 30 y 31 hacen referencia a la regulación y evaluación de la fase de  
 prácticas en los procedimientos selectivos de ingreso y acceso a los diferentes Cuerpos docentes no  
@@ -62,11 +74,11 @@ seleccionados.
 Segundo.- La Orden de 18 de marzo de 2026, por la que se convoca el procedimiento selectivo para 
 el  ingreso  en  el  Cuerpo  de  Maestros  en  el  ámbito  de  la  Comunidad  Autónoma  de  Canarias, 
 correspondiente a las Ofertas de Empleo Público de 2023 y 2024.
-Visto el artículo 16 del Decreto 84/2024, de 10 de junio, por el que se aprueba el Reglamento  
+Visto el artículo 16 del [Decreto 84/2024](../01_marco_normativo_general_y_organico/D84_2024_reglamento_organico_consejeria_educacion_canarias.md), de 10 de junio, por el que se aprueba el Reglamento  
 Orgánico de la Consejería de Educación, Formación Profesional, Actividad Física y Deportes, en  
  0k1dftTgaF3dilDBxY4Ssgvo9d3MaoTT7
 
-relación con el artículo 19 del Decreto 212/1991, de 11 de septiembre, de organización de los  
+relación con el artículo 19 del [Decreto 212/1991](../01_marco_normativo_general_y_organico/D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md), de 11 de septiembre, de organización de los  
 Departamentos de la Administración Autonómica de Canarias.
 Por todo lo expuesto, con base en los hechos y consideraciones jurídicas contenidas en la presente  
 resolución,
@@ -104,7 +116,7 @@ Las personas seleccionadas tendrán que realizar un período de prácticas tutel
 tres meses y medio de servicios efectivos con plenitud de funciones docentes en el centro  
 educativo de destino adjudicado a lo largo del curso 2026-2027.
 Las  personas  nombradas  funcionarias  en  prácticas  deberán  realizar  las  funciones 
-encomendadas en el artículo 91 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación,  
+encomendadas en el artículo 91 de la [Ley Orgánica 2/2006](../05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación,  
 modificado por el artículo único 55 ter en los apartados a) y g) por la Ley Orgánica 3/2020, 
 de 29 de diciembre, que, en todo caso, comprenderán el desarrollo de actividades en  
 relación con la programación del aula y la evaluación del alumnado, la tutorización de los  
@@ -279,7 +291,7 @@ resolver mediante informe razonado, adjuntando dicho informe al acta correspondi
 Profesorado  las  actas  de  constitución  y  de  evaluación  del  personal  funcionario  en 
 prácticas con anterioridad al 31 de mayo de 2027. 
 Décima.- Aspirantes evaluados como “no aptos”.
-1.  Conforme a lo dispuesto en el artículo 31.2 del Real Decreto 276/2007, de 23 de  
+1.  Conforme a lo dispuesto en el artículo 31.2 del [Real Decreto 276/2007](../../../estatal/08_personal_docente/RD276_2007_aprueba_reglamento_ingreso_accesos_adquisicion_nuevas.md), de 23 de  
 febrero, las personas aspirantes calificadas como «no aptas» podrán ser autorizadas por  
 la  Dirección  General  de  Personal  y  Formación  del  Profesorado  a  repetir  la  fase  de 
 prácticas por una sola vez. La repetición se realizará con las personas seleccionadas de  

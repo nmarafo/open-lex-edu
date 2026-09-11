@@ -75,8 +75,12 @@ relaciones:
   - norma_id: norm-es-1988-6938
   - norma_id: norm-es-2001-7022
   - norma_id: norm-es-2002-25289
+fundamentos_derecho:
+- norma_id: norm-es-2001-7022
+- norma_id: norm-es-1988-6938
+- norma_id: norm-es-1988-3987
+- norma_id: norm-es-2002-25289
 ---
-
 # Orden de 30 de abril de 1996 por la que se adecuan a la nueva ordenación educativa determinados criterios en materia de homologación y convalidación de títulos y estudios extranjeros de niveles no universitarios y se fija el régimen de equivalencias con los correspondientes españoles.
 
 ## Preámbulo

@@ -201,9 +201,26 @@ relaciones:
   - norma_id: norm-es-rd-659-2023
   - norma_id: norm-es-2010-12201
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2024-230-3794.pdf
+fundamentos_derecho:
+- norma_id: norm-can-d-84-2024
+- norma_id: norm-can-l-6-2014
+- norma_id: norm-can-lo-1-2018
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-can-res-134
+- norma_id: norm-es-lo-1-1996
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-2001-7022
+- norma_id: norm-es-lo-3-2018
+- norma_id: norm-es-rd-132-2010
+- norma_id: norm-es-lo-3-2022
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2024-10683
+- norma_id: norm-es-2024-10684
+- norma_id: norm-es-2024-10685
+- norma_id: norm-es-rd-659-2023
+- norma_id: norm-es-2010-12201
 ---
-
-# Resolución de 5 de noviembre de 2024,de la Dirección General de Formación Profesional y Enseñanzas de Régimen Especial, por la que se dictan instrucciones y orientaciones para la formación dual en empresas u organismos equiparados en los Certificados Profesionales (Grado C), los Ciclos Formativos de Grado Básico, Medio y Superior (Grados D, niveles 1, 2 y 3) y Cursos de Especialización (Grado E, niveles 2 y 3), en aplicación del Real Decreto 659/2023, de 18 de julio, en los centros docentes no universitarios de la Comunidad Autónoma de Canarias.
+# Resolución de 5 de noviembre de 2024,de la Dirección General de Formación Profesional y Enseñanzas de Régimen Especial, por la que se dictan instrucciones y orientaciones para la formación dual en empresas u organismos equiparados en los Certificados Profesionales (Grado C), los Ciclos Formativos de Grado Básico, Medio y Superior (Grados D, niveles 1, 2 y 3) y Cursos de Especialización (Grado E, niveles 2 y 3), en aplicación del [Real Decreto 659/2023](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md), de 18 de julio, en los centros docentes no universitarios de la Comunidad Autónoma de Canarias.
 
 ## Preámbulo
 
@@ -290,7 +307,7 @@ Las ofertas de formación profesional se entenderán realizadas en régimen inte
 
 2. El concierto deberá contener, como mínimo, lo recogido en el artículo 156 l.
 
-Real Decreto 659/2023 de 18 de julio, así como:
+[Real Decreto 659/2023](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md) de 18 de julio, así como:
 a) La formalización por escrito y conforme al modelo recogido en la aplicación informática correspondiente, firmado y sellado por el director o directora del centro y el representante legal de la empresa u organismo equiparado.
 b) Las partes podrán proponer a la Dirección General de Formación Profesional y Enseñanzas de Régimen Especial (en adelante DGFPERE) la inclusión de cláusulas adicionales que regulen situaciones determinadas y concretas, siempre que las mismas estén en concordancia con los resultados de aprendizaje de la formación y con las disposiciones legales vigentes en cada momento. Esta Dirección General resolverá si la propuesta se transforma en acuerdo entre las partes.
 c) A lo largo del periodo de vigencia del concierto, en cada curso escolar el centro remitirá a la empresa la relación nominal de alumnado que accede a la formación en la empresa, conjuntamente con la programación de dicha formación acordada para cada alumno o alumna, incluyendo el periodo formativo de que se trate, las horas de asistencia a la empresa y su alternancia con el centro educativo. Asimismo, se deberán adjuntar las bajas académicas del alumnado y las modificaciones del plan formativo, si procede.
@@ -616,7 +633,7 @@ Vida laboral y funciones desempeñadas: certificación expedida por la entidad d
 
 #### Decimocuarta. Ciclos LOGSE.
 
-En relación con los ciclos LOGSE aún en vigor quedan, con la ordenación del Sistema de Formación Profesional, sin alteración alguna, no viéndose afectados por el Real Decreto 659/2023, de 18 de julio. Estos ciclos mantendrán el módulo de FCT y la distribución modular y horaria, desarrollada de acuerdo con la normativa básica y autonómica que les sea de aplicación. En estos ciclos formativos tendrán prioridad al acceso a la FCT el alumnado procedente de los centros educativos de titularidad pública y de titularidad privada debidamente autorizados en la Comunidad Autónoma de Canarias.
+En relación con los ciclos LOGSE aún en vigor quedan, con la ordenación del Sistema de Formación Profesional, sin alteración alguna, no viéndose afectados por el [Real Decreto 659/2023](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md), de 18 de julio. Estos ciclos mantendrán el módulo de FCT y la distribución modular y horaria, desarrollada de acuerdo con la normativa básica y autonómica que les sea de aplicación. En estos ciclos formativos tendrán prioridad al acceso a la FCT el alumnado procedente de los centros educativos de titularidad pública y de titularidad privada debidamente autorizados en la Comunidad Autónoma de Canarias.
 
 #### Decimoquinta. Formación de carácter dual en el ámbito sanitario.
 

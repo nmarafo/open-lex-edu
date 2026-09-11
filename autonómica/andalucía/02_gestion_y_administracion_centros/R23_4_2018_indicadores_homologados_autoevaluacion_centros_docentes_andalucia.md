@@ -1,6 +1,10 @@
 ---
 id: norm-and-r23-4-2018-indicadores-homologados-autoevaluacion-centros-docentes-andalucia
-titulo: Resolución de 23 de abril de 2018, de la Agencia Andaluza de Evaluación Educativa, por la que se establecen los indicadores homologados para la autoevaluación de Escuelas Infantiles (2.º ciclo), Colegios de Educación Primaria, Colegios de Educación Infantil y Primaria, Institutos de Educación Secundaria, Centros Integrados de Formación Profesional y Centros Específicos de Educación Especial.
+titulo: Resolución de 23 de abril de 2018, de la Agencia Andaluza de Evaluación Educativa,
+  por la que se establecen los indicadores homologados para la autoevaluación de Escuelas
+  Infantiles (2.º ciclo), Colegios de Educación Primaria, Colegios de Educación Infantil
+  y Primaria, Institutos de Educación Secundaria, Centros Integrados de Formación
+  Profesional y Centros Específicos de Educación Especial.
 jurisdiccion: Andalucía
 ambito: Autonómico
 organo_emisor: Dirección General de Ordenación, Inclusión e Innovación Educativa
@@ -17,8 +21,12 @@ fuente_pdf_oficial: http://www.juntadeandalucia.es/boja/2018/80/BOJA18-080-00024
 clasificacion:
   categoria_canonica: 02_gestion_y_administracion_centros
   subcategoria: Evaluación institucional y calidad
+fundamentos_derecho:
+- norma_id: norm-and-l17-2007
+- norma_id: norm-and-d-220-2013
+- norma_id: norm-and-d327-2010
+- norma_id: norm-and-d328-2010
 ---
-
 # Resolución de 23 de abril de 2018, de la Agencia Andaluza de Evaluación Educativa, por la que se establecen los indicadores homologados para la autoevaluación de Escuelas Infantiles (2.º ciclo), Colegios de Educación Primaria, Colegios de Educación Infantil y Primaria, Institutos de Educación Secundaria, Centros Integrados de Formación Profesional y Centros Específicos de Educación Especial.
 
 ## Preámbulo
@@ -31,7 +39,7 @@ Primaria, Colegios de Educación Infantil y Primaria, Institutos de Educación
 Secundaria, Centros Integrados de Formación Profesional y Centros Específicos 
 de Educación Especial.
 La Agencia Andaluza de Evaluación Educativa, de acuerdo con el artículo 162 de la 
-Ley 17/2007, de 10 de diciembre, de Educación en Andalucía, tiene entre sus objetivos 
+[Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre, de Educación en Andalucía, tiene entre sus objetivos 
 fomentar la cultura de la evaluación en general y de la autoevaluación en los centros 
 docentes, servicios, programas y actividades que conforman el Sistema Educativo 
 Andaluz, así como homologar los criterios y métodos de evaluación del mismo con los 
@@ -47,7 +55,7 @@ El objetivo principal de la evaluación es recoger información suficiente y fia
 colaborar en los esfuerzos por mejorar la calidad. Los procesos de evaluación y mejora 
 son inseparables: no puede haber evaluación sin mejora, ni mejora sin una evaluación 
 permanente. 
-En este sentido, el Decreto 220/2013, de 5 de noviembre, por el que se establece el 
+En este sentido, el [Decreto 220/2013](./D220_2013_marco_general_evaluacion_sistema_educativo_andalucia.md), de 5 de noviembre, por el que se establece el 
 marco general para la evaluación del Sistema Educativo Andaluz y se regulan determinados 
 aspectos de la evaluación del mismo establece, en el artículo 8, que los centros docentes 
 sostenidos con fondos públicos realizarán la autoevaluación de su propio funcionamiento, 
@@ -60,10 +68,10 @@ centros docentes. Finalmente, esta Agencia elaborará y desarrollará, con la pa
 de la Inspección Educativa, planes de evaluación de los centros educativos en los que se 
 tendrá en cuenta las situaciones socioeconómicas y culturales de las familias y alumnado 
 que acogen, el entorno del propio centro y los recursos de que disponen.
-En esta línea, el artículo 26.2 del Decreto 328/2010 que aprueba el Reglamento 
+En esta línea, el artículo 26.2 del [Decreto 328/2010](../04_organizacion_escolar_y_funcionamiento/D328_2010_reglamento_organico_escuelas_infantiles_colegios_primaria_andalucia.md) que aprueba el Reglamento 
 Orgánico de las Escuelas Infantiles de segundo ciclo, de los Colegios de Educación 
 Primaria, de los Colegios de Educación Infantil y Primaria y de los Centros Públicos 
-Específicos de Educación Especial, y el artículo 28.2 del Decreto 327/2010 que aprueba 
+Específicos de Educación Especial, y el artículo 28.2 del [Decreto 327/2010](../04_organizacion_escolar_y_funcionamiento/D327_2010_reglamento_organico_institutos_educacion_secundaria_andalucia.md) que aprueba 
 el Reglamento Orgánico de los Institutos de Educación Secundaria disponen que la 
 Agencia Andaluza de Evaluación Educativa establecerá indicadores que faciliten a 
 estos la realización de su autoevaluación de forma objetiva y homologada en toda la 

@@ -1,6 +1,10 @@
 ---
 id: norm-and-r20-2-2026-acreditacion-nivel-c1-competencia-digital-docente-andalucia
-titulo: Resolución de 20 de febrero de 2026, de la Dirección General de Innovación y Formación del Profesorado, por la que se convoca procedimiento para la obtención de la acreditación del nivel C1 de competencia digital docente para el personal docente no universitario de los centros educativos sostenidos con fondos públicos de la Comunidad Autónoma de Andalucía.
+titulo: Resolución de 20 de febrero de 2026, de la Dirección General de Innovación
+  y Formación del Profesorado, por la que se convoca procedimiento para la obtención
+  de la acreditación del nivel C1 de competencia digital docente para el personal
+  docente no universitario de los centros educativos sostenidos con fondos públicos
+  de la Comunidad Autónoma de Andalucía.
 jurisdiccion: Andalucía
 ambito: Autonómico
 organo_emisor: Dirección General de Profesorado y Gestión de Recursos Humanos
@@ -17,8 +21,19 @@ fuente_pdf_oficial: http://www.juntadeandalucia.es/boja/2026/40/BOJA26-040-00006
 clasificacion:
   categoria_canonica: 08_personal_docente
   subcategoria: Formación del profesorado
+fundamentos_derecho:
+- norma_id: norm-and-d-164-2024
+- norma_id: norm-and-l12-2007-promocion-igualdad-genero-andalucia
+- norma_id: norm-and-l6-2006-gobierno-comunidad-autonoma-andalucia
+- norma_id: norm-and-l9-2007-administracion-junta-andalucia-laja
+- norma_id: norm-and-d93-2013-regulacion-formacion-profesorado-sistema-andaluz-andalucia
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-es-l-39-2015
+- norma_id: norm-es-l-40-2015
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
 ---
-
 # Resolución de 20 de febrero de 2026, de la Dirección General de Innovación y Formación del Profesorado, por la que se convoca procedimiento para la obtención de la acreditación del nivel C1 de competencia digital docente para el personal docente no universitario de los centros educativos sostenidos con fondos públicos de la Comunidad Autónoma de Andalucía.
 
 ## Preámbulo
@@ -53,12 +68,12 @@ educativa no universitaria, un espacio concreto incluido en los contenidos relat
 formación del profesorado como punto de acceso general a toda la información, así como 
 a los distintos trámites relativos a este procedimiento.
 En su virtud, esta Dirección General de Innovación y Formación del Profesorado, en 
-el ejercicio de la competencia que le otorga el artículo 44.2 de la Ley 6/2006, de 24 
+el ejercicio de la competencia que le otorga el artículo 44.2 de la [Ley 6/2006](../01_marco_normativo_general_y_organico/L6_2006_gobierno_comunidad_autonoma_andalucia.md), de 24 
 de octubre, del Gobierno de la Comunidad Autónoma de Andalucía, la disposición final 
-quinta del Decreto 93/2013, de 27 de agosto, por el que se regula la formación inicial 
+quinta del [Decreto 93/2013](./D93_2013_regulacion_formacion_profesorado_sistema_andaluz_andalucia.md), de 27 de agosto, por el que se regula la formación inicial 
 y permanente del profesorado en la Comunidad de Andalucía así como el Sistema 
 Andaluz de Formación Permanente del Profesorado, y en relación al artículo 1 del 
-Decreto 164/2024, de 26 de agosto, por el que se establece la estructura orgánica de la 
+[Decreto 164/2024](../01_marco_normativo_general_y_organico/D164_2024_estructura_organica_consejeria_desarrollo_educativo_andalucia.md), de 26 de agosto, por el que se establece la estructura orgánica de la 
 Consejería de Desarrollo Educativo y Formación Profesional, 
 R E S U E L V E
 Primero. Objeto.
@@ -80,7 +95,7 @@ Segundo. Personas destinatarias.
 Podrá participar en esta convocatoria todo el personal no universitario que se 
 encuentre en alguno de los siguientes supuestos:
 a) Ser personal funcionario de alguno de los cuerpos docentes a los que se refiere la 
-disposición adicional séptima de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, 
+disposición adicional séptima de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, 
 dependiente de la Administración educativa de la Junta de Andalucía, y que se encuentre 
 en cualquiera de las siguientes situaciones administrativas: 
 1. Servicio activo.
@@ -104,7 +119,7 @@ documentarse conforme a lo establecido en dicho Anexo de la presente resolución
 toda la documentación aportada por las personas solicitantes de conformidad con la 
 convocatoria y con el MRCDD.
 Cuarto. Solicitudes y documentación. 
-1. En aplicación de lo establecido en el artículo 14.2.e) de la Ley 39/2015, de 1 de 
+1. En aplicación de lo establecido en el artículo 14.2.e) de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de 
 octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, 
 quienes deseen participar en la convocatoria deberán cumplimentar la correspondiente 
 solicitud que facilitará esta Administración educativa a través de la Secretaría Virtual de 
@@ -148,12 +163,12 @@ secretaría de dicha comisión será sustituida por una persona integrante de la
 comisión con la misma cualificación y requisitos que su titular.
 3. La composición de cada comisión de baremación de la acreditación estará integrada 
 por un número impar de personas no inferior a tres y deberá respetar la representación 
-equilibrada de hombres y mujeres, conforme al artículo 11 de la Ley 12/2007, de 26 
+equilibrada de hombres y mujeres, conforme al artículo 11 de la [Ley 12/2007](../01_marco_normativo_general_y_organico/L12_2007_promocion_igualdad_genero_andalucia.md), de 26 
 de noviembre, para la promoción de la igualdad de género en Andalucía. El régimen 
 de funcionamiento de cada comisión se ajustará a lo establecido en la Sección 3.ª del 
-Capítulo II del Título Preliminar de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico 
+Capítulo II del Título Preliminar de la [Ley 40/2015](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md), de 1 de octubre, de Régimen Jurídico 
 del Sector Público, así como a lo establecido en la Sección 1.ª del Capítulo II del Título IV 
-de la Ley 9/2007, de 22 de octubre, que regula los órganos colegiados.
+de la [Ley 9/2007](../01_marco_normativo_general_y_organico/L9_2007_administracion_junta_andalucia_laja.md), de 22 de octubre, que regula los órganos colegiados.
 4. Las funciones de las comisiones de baremación de la acreditación serán, valorar 
 y analizar la documentación de los solicitantes, elevar a la persona titular de la Dirección 
 General competente en materia de formación del profesorado las listas provisionales y 
@@ -180,7 +195,7 @@ indicación motivada de aquellas solicitudes cuya valoración resulte en la no a
 4. Contra esta resolución las personas interesadas podrán interponer recurso de 
 alzada ante la persona titular de la Consejería de Desarrollo Educativo y Formación 
 Profesional, en el plazo de un mes contado a partir del día siguiente al de la publicación 
-en BOJA, de acuerdo con el dispuesto en los artículos 121 y 122 de la Ley 39/2015, de 
+en BOJA, de acuerdo con el dispuesto en los artículos 121 y 122 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 
 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, 
 o bien directamente recurso contencioso-administrativo ante la Sala de lo Contencioso-
 

@@ -27,8 +27,18 @@ relaciones:
   - norm-can-d-114-2011
   - norm-es-lo-8-2021
 fuente_pdf_oficial: https://www.gobiernodecanarias.org/cmsweb/export/sites/educacion/web/_galerias/descargas/normativa-internas/20240201-resolucion-instrucciones-telefonos-moviles.pdf
+fundamentos_derecho:
+- norma_id: norm-can-d-123-2023
+- norma_id: norm-can-l-6-2014
+- norma_id: norm-can-d-81-2010
+- norma_id: norm-can-o-2013-10-09
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-can-d-114-2011
+- norma_id: norm-es-l-40-2015
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
 ---
-
 # Resolución n.º 8/2024, de 1 de febrero, de la Viceconsejería de Educación, por la que se dictan instrucciones para el uso de los teléfonos móviles en los centros docentes públicos no universitarios de la Comunidad Autónoma de Canarias.
 
 ## Preámbulo
@@ -101,7 +111,7 @@ necesario  establecer  determinados  límites  de  forma  que  los  centros  edu
 capaces  de  beneficiarse  de  las  tecnologías,  convirtiéndolas  en  herramientas  para  el
 aprendizaje  y,  con  ello,  fortalecer  la  participación  responsable  y  efectiva  de  toda  la
 comunidad educativa.
-La Ley Orgánica 2/2006, de 3 de mayo, de Educación, establece en su artículo 120.2 que
+La [Ley Orgánica 2/2006](../05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, establece en su artículo 120.2 que
 los centros docentes dispondrán de autonomía para elaborar, aprobar y ejecutar un proyecto
 educativo y un proyecto de gestión, así como las normas de organización y funcionamiento
 del centro.
@@ -119,7 +129,7 @@ situaciones  de  riesgo  derivadas  de  la  inadecuada  utilización  de  las  T
 atención a las situaciones de violencia en la red. Se fomentará la confianza y seguridad en
 el uso de las tecnologías prestando especial atención a la desaparición de estereotipos de
 género que dificultan la adquisición de competencias digitales en condiciones de igualdad»
-La referida autonomía se recoge en términos semejantes en Ley 6/2014, de 25 de julio,
+La referida autonomía se recoge en términos semejantes en [Ley 6/2014](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md), de 25 de julio,
 Canaria de Educación no Universitaria al establecer en su artículo 17.5 que los centros
 tendrán autonomía pedagógica, de gestión y de organización. dentro de la planificación. El
 artículo 60 y siguientes regula la autonomía y planificación de los centros educativos.  Así,
@@ -131,7 +141,7 @@ reconocidos  a  todos  los  miembros  de  la  comunidad  educativa,  permitan  m
 ambiente de respeto, confianza y colaboración entre todos los sectores de la comunidad
 educativa.»
 En este sentido, el artículo 38 del Reglamento Orgánico de los centros docentes públicos no
-universitarios de la Comunidad Autónoma de Canarias aprobado por Decreto 81/2010, de 8
+universitarios de la Comunidad Autónoma de Canarias aprobado por [Decreto 81/2010](../04_organizacion_escolar_y_funcionamiento/D81_2010_aprueba_reglamento_organico_centros_docentes_publicos.md), de 8
 de julio, preceptúa que los centros poseen autonomía pedagógica, de organización y de
 gestión, de acuerdo con la normativa vigente, así como para elaborar, aprobar y ejecutar el
 proyecto educativo, de gestión y las normas de organización y funcionamiento del centro. En
@@ -142,7 +152,7 @@ aspectos, las normas de convivencia a través del plan de convivencia del centro
 con lo previsto en el apartado 2 h) del precitado artículo 41 del Reglamento Orgánico. Estas
 normas,  incluyendo  el  plan  de  convivencia,  deben  ser  aprobadas  por  los  respectivos
 Consejos Escolares.
-Por su parte, el Decreto 114/2011, de 11 de mayo, por el que se regula la convivencia en el
+Por su parte, el [Decreto 114/2011](./D114_2011_regula_convivencia_ambito_educativo_comunidad_autonoma.md), de 11 de mayo, por el que se regula la convivencia en el
 ámbito  educativo  de  la  Comunidad  Autónoma  de  Canarias  recoge  entre  sus  principios
 generales regulados en el artículo 3 «la participación activa de la comunidad educativa en la
 elaboración, control del cumplimiento y evaluación de las normas de convivencia del centro,
@@ -162,20 +172,20 @@ orientaciones educativas  del  profesorado  y  colaborar  especialmente  en  el 
 respeto y el pleno ejercicio de los derechos de los miembros de la comunidad educativa.»
 El artículo 10 del Reglamento Orgánico de la Consejería de Educación, Universidades,
 Cultura y Deportes aprobado por Decreto 7/2021, de 18 de febrero, vigente de conformidad
-con lo dispuesto en la Disposición transitoria única del Decreto 123/2023, de 17 de julio, por
+con lo dispuesto en la Disposición transitoria única del [Decreto 123/2023](../01_marco_normativo_general_y_organico/D123_2023_determina_estructura_organica_sedes_consejerias_gobierno.md), de 17 de julio, por
 el que se determina la estructura orgánica y las sedes de las Consejerías del Gobierno de
 Canarias, atribuye a la persona titular de la Viceconsejería de Educación la competencia
 para llevar a cabo la planificación y coordinación del normal desarrollo de las actividades
 escolares  así  como  establecer  criterios  de  planificación  general.  Así  mismo,  el  citado
-Decreto 114/2011, de 11 de mayo atribuye a la Consejería, en su artículo 5, competencia
+[Decreto 114/2011](./D114_2011_regula_convivencia_ambito_educativo_comunidad_autonoma.md), de 11 de mayo atribuye a la Consejería, en su artículo 5, competencia
 para llevar a cabo iniciativas de carácter general de apoyo a la convivencia en los centros
 docentes públicos no universitarios.
 Por cuanto antecede, en ejercicio de las competencias atribuidas en la expresada normativa
 y especialmente en el artículo 10 del Reglamento Orgánico de la Consejería de Educación,
 Universidades, Cultura y Deportes aprobado por Decreto 7/2021, de 18 de febrero, vigente
-de conformidad con lo dispuesto en la Disposición transitoria única del Decreto 123/2023, de
+de conformidad con lo dispuesto en la Disposición transitoria única del [Decreto 123/2023](../01_marco_normativo_general_y_organico/D123_2023_determina_estructura_organica_sedes_consejerias_gobierno.md), de
 17 de julio, por el que se determina la estructura orgánica y las sedes de las Consejerías del
-Gobierno de Canarias, en relación con el artículo 6.1 de la Ley 40/2015, de 1 de octubre, de
+Gobierno de Canarias, en relación con el artículo 6.1 de la [Ley 40/2015](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md), de 1 de octubre, de
 Régimen Jurídico del Sector Público, hace necesario dictar instrucciones para el uso de los
 teléfonos  móviles  en  los  centros  docentes  públicos  no  universitarios,  de  la  Comunidad
 Autónoma de Canarias, para lo que,
@@ -243,8 +253,8 @@ Cuarta.- Educación secundaria postobligatoria, educación superior y enseñanza
 régimen especial
 En los centros docentes públicos de la Comunidad Autónoma de Canarias, que impartan
 enseñanzas de carácter postobligatorio, educación superior no universitaria o enseñanzas
-de régimen especial, contenidas en el ámbito de aplicación de la Ley Orgánica 2/2006, de 3
-de mayo, de Educación y de la Ley 6/2014, de 25 de julio, Canaria de Educación no
+de régimen especial, contenidas en el ámbito de aplicación de la [Ley Orgánica 2/2006](../05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3
+de mayo, de Educación y de la [Ley 6/2014](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md), de 25 de julio, Canaria de Educación no
 JOSE MANUEL CABRERA DELGADO - VICECONSEJERO/A Fecha: 01/02/2024 - 11:32:28
 En la dirección https://sede.gobiernodecanarias.org/sede/verifica_doc?codigo_nde=
 puede ser comprobada la autenticidad de esta copia, mediante el número de
@@ -269,7 +279,7 @@ Sexta.- Medidas correctoras
 El incumplimiento por el alumnado de la prohibición o, en su caso, limitación de uso de
 teléfono móvil u otros dispositivos vinculados a la telefonía móvil conllevará la aplicación de
 medidas correctoras por parte de la dirección del centro en los términos previstos en el
-artículo 52.2 letras b) y d) del Decreto 114/2011, de 11 de mayo, por el que se regula la
+artículo 52.2 letras b) y d) del [Decreto 114/2011](./D114_2011_regula_convivencia_ambito_educativo_comunidad_autonoma.md), de 11 de mayo, por el que se regula la
 convivencia en el ámbito educativo de la Comunidad Autónoma de Canarias. Estas medidas
 podrán consistir en la retirada y custodia del dispositivo hasta la finalización de la jornada
 escolar, momento en el que se hará entrega de éste al alumnado o a las personas que

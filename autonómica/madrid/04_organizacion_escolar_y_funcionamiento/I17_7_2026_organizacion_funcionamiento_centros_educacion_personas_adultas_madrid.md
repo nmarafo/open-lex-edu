@@ -28,8 +28,21 @@ relaciones:
   - norm-es-lo-2-2006
   - norm-mad-d-64-2022
 fuente_pdf_oficial: https://www.comunidad.madrid/transparencia/sites/default/files/regulation/documents/2026-07-17_instrucciones_adultos_2026_27_vfinal.pdf
+fundamentos_derecho:
+- norma_id: norm-can-res-boc-2024-230-25
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-can-res-134
+- norma_id: norm-mad-d-27-2025
+- norma_id: norm-mad-d-9-2025
+- norma_id: norm-es-l-39-2015
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-2015-8043
+- norma_id: norm-es-lo-3-2022
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-rd-659-2023
+- norma_id: norm-es-2010-12201
+- norma_id: norm-es-2023-9553
 ---
-
 # Instrucciones de 17 de julio de 2026, de la Dirección General de Educación Secundaria, Formación Profesional y Régimen Especial, sobre la organización y funcionamiento de los Centros de Educación de Personas Adultas (CEPA), en régimen presencial, semipresencial y a distancia, curso 2026-2027.
 
 ## Preámbulo
@@ -42,7 +55,7 @@ INSTRUCCIONES DE LA DIRECCIÓN GENERAL D E EDUCACIÓN  SECUNDARIA, FORMACIÓN
 PROFESIONAL Y RÉGIMEN ESPECIAL , SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO DE 
 LOS CENTROS DE EDUCACIÓN DE PERSONAS ADULTAS, EN EL RÉGIMEN PRESENCIAL, 
 SEMIPRESENCIAL Y A DISTANCIA, PARA EL CURSO ACADÉMICO 2026/2027. 
-La Ley Orgánica 2/2006, de 3 de mayo, de Educación (BOE de 4 de mayo), establece en los artículos 66 al  
+La [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación (BOE de 4 de mayo), establece en los artículos 66 al  
 70 bis los objetivos, la organización y metodología de la educación de las personas adultas. A fin de 
 establecer criterios homogéneos, concretar la aplicación de la normativa vigente de las enseñanzas que se 
 imparten en los Centros de Educación de Personas Adultas (CEPA, en adelante) y facilitar la organización 
@@ -256,7 +269,7 @@ que estime pertinente. Transcurrido dicho plazo y tenidas en cuenta las alegacio
 documentación presentada, el director del centro resolverá lo que proceda. La resolución 
 adoptada, que será motivada, se comunicará al alumno o a sus representantes legales, de 
 modo que quede constancia documentada o acuse de recibo de las mismas, y podrá ser 
-recurrida, de acuerdo con lo previsto en la Ley 39/2015, de 1 de octubre del Procedimiento 
+recurrida, de acuerdo con lo previsto en la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre del Procedimiento 
 Administrativo Común de las Administraciones Públicas. Una copia de la resolución de la 
 anulación de la matrícula se adjuntará al expediente académico del alumno. 
 • El alumno cuya matrícula sea anulada por inasistencia, perderá la condición de alumno 
@@ -302,13 +315,13 @@ el 80% de la ratio ordinaria.
 Excepcionalmente, se podrá autorizar, previa solicitud justificada e informe del Servicio de Inspección 
 Educativa, el funcionamiento de grupos por debajo de la ratio mínima. 
 3. Ciclos Formativos de Grado Básico. 
-De conformidad con los artículos 9.2 y 10.3 del Decreto 27/2025, de 21 de mayo, del Consejo de Gobierno, 
+De conformidad con los artículos 9.2 y 10.3 del [Decreto 27/2025](../03_ordenacion_curricular_y_ensenanzas/D27_2025_ordenacion_organizacion_sistema_formacion_profesional_madrid.md), de 21 de mayo, del Consejo de Gobierno, 
 por el que se regula la ordenación y organización del Sistema de Formación Profesional de la Comunidad 
 de Madrid, la Consejería competente en mate ria de educación podrá ofertar C iclos Formativos de Grado 
 Básico (CFGB) para personas que superen los diecisiete años y que no estén en posesión de un título de 
 Formación Profesional o de cualquier otro título que acredite la finalización de estudios secundarios 
 completos, para favorecer su acceso al mundo laboral.  Cuando esta oferta se realice en el marco de la 
-educación para personas adultas,  y conforme a la disposición adicional primera del Decreto 9/2025 de 26 
+educación para personas adultas,  y conforme a la disposición adicional primera del [Decreto 9/2025](../03_ordenacion_curricular_y_ensenanzas/D9_2025_planes_estudio_titulos_formacion_profesional_grado_basico_madrid.md) de 26 
 de marzo, del Consejo de Gobierno, por el que se establecen para la Comunidad de Madrid los planes de 
 estudios de veinticinco títulos de formación profesional de grado básico,  en las unidades formativas “UF -
 02: Ciencias de la actividad física I” y “UF-04: Ciencias de la actividad física II” únicamente se impartirán los 
@@ -370,7 +383,7 @@ informático permita la matriculación de los mismos alumnos en dos cursos suces
 en los que vienen impartiéndose deberán solicitar su renovación anualmente. 
 4.4. Los Talleres Operativos deberán incluir los siguientes bloques de formación: 
 • FORMACIÓN OCUPACIONAL ESPECÍFICA 
-Los currículos deberán adaptarse a la Ley Orgánica 3/2022, de 31 de marzo, de ordenación e 
+Los currículos deberán adaptarse a la [Ley Orgánica 3/2022](../../canarias/08_personal_docente/R30_6_2023_ordenacion_gestion_determinadas_listas_empleo_tras.md), de 31 de marzo, de ordenación e 
 integración de la Formación Profesional, y a su desarrollo mediante los Reales Decretos: 
 659/2023, de 18 de julio, por el que se desarrolla la ordenación del Sistema de Formación 
 Profesional, 914/2024 por el que se regula su organización y estructura, 532/2025, que 
@@ -518,7 +531,7 @@ y diseño o por la vía de enseñanzas deportivas respectivamente.
 Así mismo, aquellos centros que cuenten con disponibilidad horaria de  los profesores y demanda 
 de alumn os suficiente podrán impartir las materias correspondientes a alguna de  las opciones 
 específicas, con una dedicación horaria de  entre 2 y 3 horas por materia . La parte específica que, 
-en virtud de lo establecido en el artículo 114.4 del Real Decreto 659/2023, de 18 de julio, por el 
+en virtud de lo establecido en el artículo 114.4 del [Real Decreto 659/2023](../../canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, por el 
 que se desarrolla la ordenación del Sistema de Formación Profesional, estará adaptada a los 
 diferentes perfiles profesionales de las enseñanzas, consistirá en la realización de uno de los 
 ejercicios de competencia clave específica, a elegir entre los siguientes: Economía de la empresa, 
@@ -616,7 +629,7 @@ mediante el uso de las tecnologías de la información y la comunicación  y, en
 virtual del centro. 
 QUINTA. Planificación de la acción educativa. 
 1. Los centros disponen de autonomía pedagógica, de organización y de gestión en el marco de la 
-legislación vigente y en los términos recogidos en la Ley Orgánica 2/2006, de 3 de mayo, de 
+legislación vigente y en los términos recogidos en la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de 
 Educación y en las normas que la desarrollen, para elaborar, aprobar y ejecutar el proyecto 
 educativo y el proyecto de gestión, así como las normas de organización y funcionamiento del 
 centro. Estos documentos se analizarán y revisarán periódicamente, teniendo en cuenta la 
@@ -736,11 +749,11 @@ Titulado Medio "E" o Titulado Superior “E”.
 2. Según se establece en la normativa vigente, las materias que se integran en los diferentes ámbitos 
 serán impartidas por funcionarios de los cuerpos docentes de Catedráticos y Profesores de 
 Enseñanza Secundaria de alguna de las especialidades que tengan atribución docente para 
-impartirlas, de acuerdo con lo establecido en el Real Decreto 665/2015, de 17 de julio, por el que 
+impartirlas, de acuerdo con lo establecido en el [Real Decreto 665/2015](../../../estatal/02_gestion_y_administracion_centros/RD665_2015_desarrollan_determinadas_disposiciones_relativas_ejercicio_docencia.md), de 17 de julio, por el que 
 se desarrollan determinadas disposiciones relativas  al ejercicio de la docencia en la Educación 
 Secundaria Obligatoria, la Formación Profesional y las enseñanzas de régimen especial, a la 
 formación inicial del profesorado y a las especialidades de los cuerpos d ocentes de Enseñanza 
-Secundaria y el Real Decreto 286/2023, de 18 de abril, por el que se regula la asignación de 
+Secundaria y el [Real Decreto 286/2023](../../../estatal/08_personal_docente/RD286_2023_regula_asignacion_materias_educacion_secundaria_obligatoria.md), de 18 de abril, por el que se regula la asignación de 
 materias en Educación Secundaria Obligatoria y en Bachillerato a las especialidades de distintos 
 cuerpos de funcionarios docentes, y se modifican diversas normas relativas al profesorado de 
 enseñanzas no universitarias. 
@@ -751,7 +764,7 @@ Comunidad de Madrid, adscritos al centro como titulados superiores.
 4. Así mismo, podrán impartir el nivel I de las enseñanzas para la obtención título de Graduado en 
 Educación Secundaria Obligatoria para personas adultas, tanto en el régimen presencial como 
 semipresencial o en el de distancia, los funcionarios del cuerpo de maestros que reúnan los 
-requisitos establecidos en la disposición transitoria primera de la Ley Orgánica 2/2006. 
+requisitos establecidos en la disposición transitoria primera de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md). 
 5. El Real Decreto 1594/2011, de 4 de noviembre, por el que se establecen las especialidades 
 docentes del Cuerpo de Maestros (BOE  del 9), en su disposición transitoria primera establece que 
 el profesorado del Cuerpo de Maestros que, con anterioridad a la entrada en vigor de la Ley 

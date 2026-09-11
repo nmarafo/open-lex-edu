@@ -35,8 +35,19 @@ relaciones:
   - norm-and-l17-2007
   - norm-es-lo-2-2006
   - norm-and-o-15-1-2021
+fundamentos_derecho:
+- norma_id: norm-and-d-194-2026
+- norma_id: norm-and-l17-2007
+- norma_id: norm-and-d327-2010
+- norma_id: norm-and-d328-2010
+- norma_id: norm-and-o15-1-2021-atencion-diversidad-orientacion-educativa-andalucia
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-l-9-2017
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
+- norma_id: norm-es-lo-8-2021
 ---
-
 # Instrucciones de 1 de septiembre de 2026 de la Dirección General de Inclusión, Convivencia y Participación por las que se establece la organización y el funcionamiento del Programa de Refuerzo, Orientación y Apoyo en los centros docentes públicos dependientes de la Consejería de Educación de la Junta de Andalucía (PROA Andalucía) para el curso 2026/2027.
 
 ## Preámbulo
@@ -50,7 +61,7 @@ CONVIVENCIA Y PARTICIPACIÓN POR LAS QUE SE ESTABLECE LA ORGANIZACIÓN Y EL
 FUNCIONAMIENTO DEL PROGRAMA DE REFUERZO, ORIENTACIÓN Y APOYO EN LOS CENTROS 
 DOCENTES PÚBLICOS DEPENDIENTES DE LA CONSEJERÍA DE EDUCACIÓN DE LA JUNTA DE 
 ANDALUCÍA (PROA ANDALUCÍA) PARA EL CURSO 2026/2027.
-La Ley 17/2007, de 10 de diciembre, de Educación de Andalucía incluye entre sus objetivos garantizar el 
+La [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre, de Educación de Andalucía incluye entre sus objetivos garantizar el 
 derecho de la ciudadanía a una educación permanente y de carácter compensatorio, así como garantizar 
 la igualdad efectiva de oportunidades, las condiciones que permitan su aprendizaje y ejercicio y la 
 inclusión educativa de todos los colectivos que puedan tener dificultades en el acceso y permanencia en 
@@ -61,7 +72,7 @@ resultan prioritarias en el marco del Decreto 103/2026, de 17 de junio, por el q
 educativa en centros docentes no universitarios sostenidos con fondos públicos de zonas con 
 necesidades de transformación social y las actuaciones educativas para el alumnado en situación o 
 riesgo de vulnerabilidad, para posibilitar una respuesta educativa adaptada e integradora.
-El Decreto 194/2026, de 30 de julio, por el que se establece la estructura orgánica de la Consejería de 
+El [Decreto 194/2026](../01_marco_normativo_general_y_organico/D194_2026_estructura_organica_consejeria_educacion_andalucia.md), de 30 de julio, por el que se establece la estructura orgánica de la Consejería de 
 Educación vertebra estos principios educativos en el organigrama administrativo y ejecutivo de la 
 misma, estableciendo una adecuada distribución de competencias e introduciendo criterios de eficiencia 
 y racionalización en el ámbito organizativo del sector público andaluz. 
@@ -116,7 +127,7 @@ una formación de calidad e inclusivas y su culminación, en particular para los
 Siendo este Programa una de las operaciones que se incluyen de manera explícita dentro de dicho 
 Programa Operativo.
 Por todo ello, con la finalidad de regular la organización y funcionamiento del PROA Andalucía, y en 
-virtud de las competencias otorgadas por el Decreto 194/2026, de 30 de julio, por el que se establece la 
+virtud de las competencias otorgadas por el [Decreto 194/2026](../01_marco_normativo_general_y_organico/D194_2026_estructura_organica_consejeria_educacion_andalucia.md), de 30 de julio, por el que se establece la 
 estructura orgánica de la Consejería de Educación, la Dirección General de Inclusión, Convivencia y 
 Participación dicta las siguientes
 INSTRUCCIONES
@@ -351,10 +362,10 @@ Décima. Gestión, coordinación y seguimiento del Programa.
 ostente la dirección del propio centro, quien podrá delegar la organización del mismo en cualquier otro 
 docente del Claustro de profesorado, preferentemente en un miembro del equipo directivo, que actuará 
 como coordinador o coordinadora del Programa. Esta competencia deberá quedar plasmada en el Plan 
-de Centro, de acuerdo con lo establecido en el Decreto 328/2010, de 13 de julio, por el que se aprueba el 
+de Centro, de acuerdo con lo establecido en el [Decreto 328/2010](../04_organizacion_escolar_y_funcionamiento/D328_2010_reglamento_organico_escuelas_infantiles_colegios_primaria_andalucia.md), de 13 de julio, por el que se aprueba el 
 Reglamento Orgánico de las Escuelas Infantiles de segundo grado, de los colegios de Educación Primaria, 
 de los colegios de Educación Infantil y Primaria, y de los centros públicos Específicos de Educación 
-Especial y en el Decreto 327/2010, de 13 de julio, por el que se aprueba el Reglamento Orgánico de los 
+Especial y en el [Decreto 327/2010](../04_organizacion_escolar_y_funcionamiento/D327_2010_reglamento_organico_institutos_educacion_secundaria_andalucia.md), de 13 de julio, por el que se aprueba el Reglamento Orgánico de los 
 Institutos de Educación Secundaria.
 2. Las funciones asociadas al coordinador o coordinadora del Programa en los centros docentes son las 
 siguientes:
@@ -581,7 +592,7 @@ caso de la realización de contratos con entidades para la realización de activ
 PARCEP y PARCES, la persona titular de la dirección del centro docente exigirá a la entidad contratada la 
 aportación de declaración responsable de que todo el personal, propio y subcontratado, al que 
 corresponda la realización de esas tareas, cuenta con el certificado negativo exigido en el artículo 57.1 de 
-la Ley Orgánica 8/2021, de 4 de junio, de Protección Integral a la Infancia y a la Adolescencia frente a la 
+la [Ley Orgánica 8/2021](../../../estatal/07_convivencia_bienestar_y_protocolos/LO8_2021_proteccion_integral_infancia_adolescencia_frente_violencia.md), de 4 de junio, de Protección Integral a la Infancia y a la Adolescencia frente a la 
 violencia. 
 Decimoséptima. Calendario de actuaciones. 
 Actuación
@@ -1237,7 +1248,7 @@ datos que se estimen oportunos, las razones por las que el alumno o la alumna ti
 permanecer en su domicilio. Dicho informe solo será requerido en caso de que el destinatario no 
 haya recibido atención domiciliaria con anterioridad. Estará recogido en el expediente del 
 alumnado, manteniendo la privacidad de los datos según lo establecido en la disposición 
-adicional vigésimo tercera de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+adicional vigésimo tercera de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación.
  22
 Puede verificar la integridad de este documento mediante la lectura del código QR adjunto o mediante el acceso
 a la dirección https://ws050.juntadeandalucia.es/verificarFirma indicando el código de VERIFICACIÓN
@@ -1958,7 +1969,7 @@ PÁG. 39/47
 
 XIV.b 
  
- MEMORIA JUSTIFICATIVA CONTRATO MENOR (Art. 118 Ley 9/2017)
+ MEMORIA JUSTIFICATIVA CONTRATO MENOR (Art. 118 [Ley 9/2017](../../../estatal/02_gestion_y_administracion_centros/L9_2017_contratos_sector_publico_transponen_ordenamiento_juridico.md))
  
  
 1. DATOS IDENTIFICATIVOS DEL CONTRATO:
@@ -2161,7 +2172,7 @@ desarrolla el Programa.
 actividades y una Memoria Final del Programa.
 9. Aportar a la persona titular de la dirección del centro la certificación, o en su defecto, una declaración 
 responsable de que todo el personal, propio y subcontratado, al que corresponda la realización de esas 
-tareas, cuenta con el certificado negativo exigido en el artículo 57.1 de la Ley Orgánica 8/2021, de 4 de 
+tareas, cuenta con el certificado negativo exigido en el artículo 57.1 de la [Ley Orgánica 8/2021](../../../estatal/07_convivencia_bienestar_y_protocolos/LO8_2021_proteccion_integral_infancia_adolescencia_frente_violencia.md), de 4 de 
 junio, de Protección Integral a la Infancia y a la Adolescencia frente a la violencia. 
 CUARTA: El centro docente _________________________________________________ se compromete a:
 1. Establecer los mecanismos de coordinación necesarios con la entidad adjudicataria para garantizar el 
@@ -2178,7 +2189,7 @@ _________________ de 20___
 SEXTA: En este contrato no se revisarán los precios.
 SÉPTIMA: Para responder de las responsabilidades derivadas de la prestación objeto del contrato hasta 
 un importe de ________ euros, el contratista presenta Póliza de seguros de responsabilidad civil número:
-OCTAVA: Para lo no previsto en este contrato se estará a lo dispuesto en la Ley 9/2017 de 8 de noviembre 
+OCTAVA: Para lo no previsto en este contrato se estará a lo dispuesto en la [Ley 9/2017](../../../estatal/02_gestion_y_administracion_centros/L9_2017_contratos_sector_publico_transponen_ordenamiento_juridico.md) de 8 de noviembre 
 de Contratos del Sector Público, así como en el Real Decreto 1098/2001 de 12 de octubre por el que se 
 aprueba el Reglamento General de la Ley de Contratos de las Administraciones Públicas, siendo 
 competente la jurisdicción Contencioso-Administrativa para conocer de las cuestiones derivadas del 

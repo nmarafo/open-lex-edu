@@ -244,8 +244,11 @@ relaciones:
   - norma_id: norm-es-l-19-2013
   - norma_id: norm-es-1985-5392
   - norma_id: norm-es-2003-23399
+fundamentos_derecho:
+- norma_id: norm-es-l-19-2013
+- norma_id: norm-es-2003-23399
+- norma_id: norm-es-1985-5392
 ---
-
 # Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.
 
 ## Preámbulo
@@ -582,7 +585,7 @@ b) A ser asistidos en el uso de medios electrónicos en sus relaciones con las A
 
 c) A utilizar las lenguas oficiales en el territorio de su Comunidad Autónoma, de acuerdo con lo previsto en esta Ley y en el resto del ordenamiento jurídico.
 
-d) Al acceso a la información pública, archivos y registros, de acuerdo con lo previsto en la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno y el resto del Ordenamiento Jurídico.
+d) Al acceso a la información pública, archivos y registros, de acuerdo con lo previsto en la [Ley 19/2013](./L19_2013_transparencia_acceso_informacion_publica_buen_gobierno.md), de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno y el resto del Ordenamiento Jurídico.
 
 e) A ser tratados con respeto y deferencia por las autoridades y empleados públicos, que habrán de facilitarles el ejercicio de sus derechos y el cumplimiento de sus obligaciones.
 
@@ -832,7 +835,7 @@ d) Las copias en soporte papel de documentos originales emitidos en dicho soport
 
 A estos efectos, las Administraciones harán públicos, a través de la sede electrónica correspondiente, los códigos seguros de verificación u otro sistema de verificación utilizado.
 
-4. Los interesados podrán solicitar, en cualquier momento, la expedición de copias auténticas de los documentos públicos administrativos que hayan sido válidamente emitidos por las Administraciones Públicas. La solicitud se dirigirá al órgano que emitió el documento original, debiendo expedirse, salvo las excepciones derivadas de la aplicación de la Ley 19/2013, de 9 de diciembre, en el plazo de quince días a contar desde la recepción de la solicitud en el registro electrónico de la Administración u Organismo competente.
+4. Los interesados podrán solicitar, en cualquier momento, la expedición de copias auténticas de los documentos públicos administrativos que hayan sido válidamente emitidos por las Administraciones Públicas. La solicitud se dirigirá al órgano que emitió el documento original, debiendo expedirse, salvo las excepciones derivadas de la aplicación de la [Ley 19/2013](./L19_2013_transparencia_acceso_informacion_publica_buen_gobierno.md), de 9 de diciembre, en el plazo de quince días a contar desde la recepción de la solicitud en el registro electrónico de la Administración u Organismo competente.
 
 Asimismo, las Administraciones Públicas estarán obligadas a expedir copias auténticas electrónicas de cualquier documento en papel que presenten los interesados y que se vaya a incorporar a un expediente administrativo.
 
@@ -1490,7 +1493,7 @@ El dictamen se emitirá en el plazo de dos meses y deberá pronunciarse sobre la
 
 #### Artículo 82. Trámite de audiencia.
 
-1. Instruidos los procedimientos, e inmediatamente antes de redactar la propuesta de resolución, se pondrán de manifiesto a los interesados o, en su caso, a sus representantes, para lo que se tendrán en cuenta las limitaciones previstas en su caso en la Ley 19/2013, de 9 de diciembre.
+1. Instruidos los procedimientos, e inmediatamente antes de redactar la propuesta de resolución, se pondrán de manifiesto a los interesados o, en su caso, a sus representantes, para lo que se tendrán en cuenta las limitaciones previstas en su caso en la [Ley 19/2013](./L19_2013_transparencia_acceso_informacion_publica_buen_gobierno.md), de 9 de diciembre.
 
 La audiencia a los interesados será anterior a la solicitud del informe del órgano competente para el asesoramiento jurídico o a la solicitud del Dictamen del Consejo de Estado u órgano consultivo equivalente de la Comunidad Autónoma, en el caso que éstos formaran parte del procedimiento.
 
@@ -2042,7 +2045,7 @@ Asimismo, el Gobierno de la Nación podrá aprobar reales decretos-leyes y reale
 
 #### Artículo 128. Potestad reglamentaria.
 
-1. El ejercicio de la potestad reglamentaria corresponde al Gobierno de la Nación, a los órganos de Gobierno de las Comunidades Autónomas, de conformidad con lo establecido en sus respectivos Estatutos, y a los órganos de gobierno locales, de acuerdo con lo previsto en la Constitución, los Estatutos de Autonomía y la Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local.
+1. El ejercicio de la potestad reglamentaria corresponde al Gobierno de la Nación, a los órganos de Gobierno de las Comunidades Autónomas, de conformidad con lo establecido en sus respectivos Estatutos, y a los órganos de gobierno locales, de acuerdo con lo previsto en la Constitución, los Estatutos de Autonomía y la [Ley 7/1985](../02_gestion_y_administracion_centros/L7_1985_reguladora_bases_regimen_local.md), de 2 de abril, reguladora de las Bases del Régimen Local.
 
 2. Los reglamentos y disposiciones administrativas no podrán vulnerar la Constitución o las leyes ni regular aquellas materias que la Constitución o los Estatutos de Autonomía reconocen de la competencia de las Cortes Generales o de las Asambleas Legislativas de las Comunidades Autónomas. Sin perjuicio de su función de desarrollo o colaboración con respecto a la ley, no podrán tipificar delitos, faltas o infracciones administrativas, establecer penas o sanciones, así como tributos, exacciones parafiscales u otras cargas o prestaciones personales o patrimoniales de carácter público.
 
@@ -2064,7 +2067,7 @@ Las habilitaciones para el desarrollo reglamentario de una ley serán conferidas
 
 Las leyes podrán habilitar directamente a Autoridades Independientes u otros organismos que tengan atribuida esta potestad para aprobar normas en desarrollo o aplicación de las mismas, cuando la naturaleza de la materia así lo exija.
 
-5. En aplicación del principio de transparencia, las Administraciones Públicas posibilitarán el acceso sencillo, universal y actualizado a la normativa en vigor y los documentos propios de su proceso de elaboración, en los términos establecidos en el artículo 7 de la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno; definirán claramente los objetivos de las iniciativas normativas y su justificación en el preámbulo o exposición de motivos; y posibilitarán que los potenciales destinatarios tengan una participación activa en la elaboración de las normas.
+5. En aplicación del principio de transparencia, las Administraciones Públicas posibilitarán el acceso sencillo, universal y actualizado a la normativa en vigor y los documentos propios de su proceso de elaboración, en los términos establecidos en el artículo 7 de la [Ley 19/2013](./L19_2013_transparencia_acceso_informacion_publica_buen_gobierno.md), de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno; definirán claramente los objetivos de las iniciativas normativas y su justificación en el preámbulo o exposición de motivos; y posibilitarán que los potenciales destinatarios tengan una participación activa en la elaboración de las normas.
 
 6. En aplicación del principio de eficiencia, la iniciativa normativa debe evitar cargas administrativas innecesarias o accesorias y racionalizar, en su aplicación, la gestión de los recursos públicos.
 
@@ -2206,7 +2209,7 @@ Hasta que, de acuerdo con lo dispuesto en la disposición final séptima, produz
 
 #### Disposición final segunda. Modificación de la [Ley 59/2003](../02_gestion_y_administracion_centros/L59_2003_firma_electronica.md), de 19 de diciembre, de firma electrónica.
 
-En la Ley 59/2003, de 19 de diciembre, de firma electrónica, se incluye un nuevo apartado 11 en el artículo 3 con.
+En la [Ley 59/2003](../02_gestion_y_administracion_centros/L59_2003_firma_electronica.md), de 19 de diciembre, de firma electrónica, se incluye un nuevo apartado 11 en el artículo 3 con.
 
 la siguiente redacción:
 

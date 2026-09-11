@@ -360,8 +360,21 @@ relaciones:
   - norma_id: norm-es-1999-23750
   - norma_id: norm-es-2003-23399
   - norma_id: norm-es-2012-9282
+fundamentos_derecho:
+- norma_id: norm-and-l6-2006-gobierno-comunidad-autonoma-andalucia
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-can-l-16-2003
+- norma_id: norm-es-1984-17387
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-2000-544
+- norma_id: norm-es-l-31-1995
+- norma_id: norm-es-2003-23399
+- norma_id: norm-es-1985-5392
+- norma_id: norm-es-1999-23750
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
+- norma_id: norm-es-2012-9282
 ---
-
 # Ley 2/2012, de 29 de junio, de Presupuestos Generales del Estado para el año 2012. ## Preámbulo
 
 **JUAN CARLOS I**
@@ -3158,7 +3171,7 @@ a) Pensiones extraordinarias del sistema de la Seguridad Social y del Régimen d
 
 b) Pensiones extraordinarias reconocidas al amparo de la disposición adicional cuadragésima tercera de la Ley 62/2003, de 30 de diciembre, de Medidas Fiscales, Administrativas y del Orden Social.
 
-c) Pensiones excepcionales derivadas de atentados terroristas reconocidas al amparo del Real Decreto-ley 6/2006, de 23 de junio.
+c) Pensiones excepcionales derivadas de atentados terroristas reconocidas al amparo del Real Decreto-[ley 6/2006](../../autonómica/andalucía/01_marco_normativo_general_y_organico/L6_2006_gobierno_comunidad_autonoma_andalucia.md), de 23 de junio.
 
 Ocho. Cuando en el momento del señalamiento inicial de las pensiones públicas concurran en un mismo titular alguna o algunas de las pensiones mencionadas en el apartado anterior, o de las reconocidas por actos terroristas en favor de quienes no tengan derecho a pensión en cualquier régimen público de Seguridad Social al amparo del Título II del Real Decreto 851/1992, de 10 de julio, por el que se regulan determinadas pensiones extraordinarias causadas por actos de terrorismo, con otra u otras pensiones públicas, las normas limitativas de este artículo sólo se aplicarán respecto de las no procedentes de actos terroristas.
 
@@ -3176,7 +3189,7 @@ Dos. De acuerdo con lo establecido en la disposición adicional sexta, punto Uno
 
 Uno. En el año 2012 no se revalorizarán las siguientes pensiones públicas:
 
-a) Las pensiones abonadas con cargo a cualquiera de los regímenes o sistemas de previsión enumerados en el artículo 42 de la Ley 37/1988, de 28 de diciembre, cuyo importe íntegro mensual, sumado, en su caso, al importe íntegro mensual de las otras pensiones públicas percibidas por su titular, exceda de 2.522,89 euros íntegros en cómputo mensual, entendiéndose esta cantidad en los términos expuestos en el precedente artículo 41. Lo dispuesto en el párrafo anterior no será aplicable a las pensiones extraordinarias del Régimen de Clases Pasivas del Estado y del sistema de la Seguridad Social originadas por actos terroristas, ni a las pensiones excepcionales derivadas de atentados terroristas, reconocidas al amparo del Real Decreto-ley 6/2006, de 23 de junio, ni a las pensiones reconocidas en virtud de la disposición adicional cuadragésima tercera de la Ley 62/2003, de 30 de diciembre, de Medidas Fiscales, Administrativas y del Orden Social.
+a) Las pensiones abonadas con cargo a cualquiera de los regímenes o sistemas de previsión enumerados en el artículo 42 de la Ley 37/1988, de 28 de diciembre, cuyo importe íntegro mensual, sumado, en su caso, al importe íntegro mensual de las otras pensiones públicas percibidas por su titular, exceda de 2.522,89 euros íntegros en cómputo mensual, entendiéndose esta cantidad en los términos expuestos en el precedente artículo 41. Lo dispuesto en el párrafo anterior no será aplicable a las pensiones extraordinarias del Régimen de Clases Pasivas del Estado y del sistema de la Seguridad Social originadas por actos terroristas, ni a las pensiones excepcionales derivadas de atentados terroristas, reconocidas al amparo del Real Decreto-[ley 6/2006](../../autonómica/andalucía/01_marco_normativo_general_y_organico/L6_2006_gobierno_comunidad_autonoma_andalucia.md), de 23 de junio, ni a las pensiones reconocidas en virtud de la disposición adicional cuadragésima tercera de la Ley 62/2003, de 30 de diciembre, de Medidas Fiscales, Administrativas y del Orden Social.
 
 b) Las pensiones de Clases Pasivas reconocidas a favor de los Camineros del Estado causadas antes del 1 de enero de 1985, con excepción de aquellas cuyo titular sólo percibiera esta pensión como tal caminero.
 
@@ -6912,7 +6925,7 @@ Durante el año 2012, la indemnización por residencia del personal en activo de
 
 Uno. Los complementos personales y transitorios y demás retribuciones que tengan análogo carácter, se regirán por su normativa específica y por lo dispuesto en esta Ley.
 
-Dos. Los complementos personales y transitorios reconocidos en cumplimiento de lo dispuesto en el artículo 13 de la Ley 50/1984, de 30 de diciembre, de Presupuestos Generales del Estado para 1985, al personal incluido en el ámbito de aplicación de la Ley 30/1984, de 2 de agosto, se mantendrán en las mismas cuantías que a 31 de diciembre de 2011 siendo absorbidos por las mejoras que puedan derivarse del cambio de puesto de trabajo.
+Dos. Los complementos personales y transitorios reconocidos en cumplimiento de lo dispuesto en el artículo 13 de la Ley 50/1984, de 30 de diciembre, de Presupuestos Generales del Estado para 1985, al personal incluido en el ámbito de aplicación de la [Ley 30/1984](../01_marco_normativo_general_y_organico/L30_1984_medidas_reforma_funcion_publica.md), de 2 de agosto, se mantendrán en las mismas cuantías que a 31 de diciembre de 2011 siendo absorbidos por las mejoras que puedan derivarse del cambio de puesto de trabajo.
 
 Incluso en el caso de que el cambio de puesto de trabajo determine una disminución de retribuciones, se mantendrá el complemento personal transitorio fijado al producirse la aplicación del nuevo sistema, a cuya absorción se imputarán las mejoras que puedan derivarse del cambio de puesto de trabajo.
 

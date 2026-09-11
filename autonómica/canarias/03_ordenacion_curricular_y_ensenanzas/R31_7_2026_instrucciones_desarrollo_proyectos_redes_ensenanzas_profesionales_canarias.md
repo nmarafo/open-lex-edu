@@ -1,9 +1,17 @@
 ---
 id: norm-can-r-2026-07-31-instrucciones-proyectos-redes-ensenanzas-profesionales-2026-2027
-titulo: Resolución conjunta de la Dirección General de Personal y Formación del Profesorado y de la Dirección General de Formación Profesional y Enseñanzas de Régimen Especial, por la que se publican las Instrucciones para el desarrollo del proyecto de innovación educativa de las Redes de las Enseñanzas Profesionales (red de innovación, red de emprendimiento, red de información y orientación profesional y red de calidad), en centros educativos no universitarios con enseñanzas de Formación Profesional sostenidos con fondos públicos de la Comunidad Autónoma de Canarias durante el curso 2026-2027.
+titulo: Resolución conjunta de la Dirección General de Personal y Formación del Profesorado
+  y de la Dirección General de Formación Profesional y Enseñanzas de Régimen Especial,
+  por la que se publican las Instrucciones para el desarrollo del proyecto de innovación
+  educativa de las Redes de las Enseñanzas Profesionales (red de innovación, red de
+  emprendimiento, red de información y orientación profesional y red de calidad),
+  en centros educativos no universitarios con enseñanzas de Formación Profesional
+  sostenidos con fondos públicos de la Comunidad Autónoma de Canarias durante el curso
+  2026-2027.
 jurisdiccion: Canarias
 ambito: Autonómico
-organo_emisor: Dirección General de Personal y Formación del Profesorado / Dirección General de Formación Profesional y Enseñanzas de Régimen Especial
+organo_emisor: Dirección General de Personal y Formación del Profesorado / Dirección
+  General de Formación Profesional y Enseñanzas de Régimen Especial
 tipo_disposicion: Resolución
 numero_disposicion: 5020/2026
 fecha_disposicion: '2026-07-31'
@@ -29,8 +37,18 @@ relaciones:
   fundamenta_en:
   - norm-can-lo-2-2006
   - norm-can-l-6-2014
+fundamentos_derecho:
+- norma_id: norm-can-l-6-2014
+- norma_id: norm-can-d-112-2011
+- norma_id: norm-can-res-boc-2024-230-25
+- norma_id: norm-can-d-81-2010
+- norma_id: norm-can-o-2013-10-09
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-rd-659-2023
+- norma_id: norm-es-2010-12201
 ---
-
 # Resolución conjunta de la Dirección General de Personal y Formación del Profesorado y de la Dirección General de Formación Profesional y Enseñanzas de Régimen Especial, por la que se publican las Instrucciones para el desarrollo del proyecto de innovación educativa de las Redes de las Enseñanzas Profesionales (red de innovación, red de emprendimiento, red de información y orientación profesional y red de calidad), en centros educativos no universitarios con enseñanzas de Formación Profesional sostenidos con fondos públicos de la Comunidad Autónoma de Canarias durante el curso 2026-2027.
 
 ## Preámbulo
@@ -87,7 +105,7 @@ Orientación Profesional y Red de Calidad— en centros educativos no universita
 Formación Profesional sostenidos con fondos públicos de la Comunidad Autónoma de Canarias durante el 
 curso 2025-2026. 
  FUNDAMENTOS DE DERECHO
-Primero.- La Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la Ley Orgánica 2/2006,  
+Primero.- La Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la [Ley Orgánica 2/2006](../05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md),  
 de 3 de mayo, de Educación, expresa en el preámbulo que los tres principios fundamentales que presiden  
 la Ley son la educación de calidad, el esfuerzo compartido y el compromiso con los objetivos educativos  
 planteados por la Unión Europea, además establece entre los principios de la educación el fomento y la  
@@ -100,7 +118,7 @@ centros  para  el  fomento  de  la  formación,  la  autoevaluación  y  la  mej
 Asimismo, en el artículo 120, reconoce el ejercicio de autonomía de los centros educativos para adoptar  
 experimentaciones, innovaciones pedagógicas, programas educativos o planes de trabajo en los términos  
 que establezcan las Administraciones educativas. 
-Tercero.- La Ley 6/2014, de 25 de julio, Canaria de Educación no Universitaria, establece en su articulo  
+Tercero.- La [Ley 6/2014](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md), de 25 de julio, Canaria de Educación no Universitaria, establece en su articulo  
 5 como finalidad y objetivos del sistema educativo canario   apartado k) crear un nuevo modelo de  
 cooperación entre la administración competente en materia educativa y las universidades canarias, las  
 empresas  y  la  sociedad  que  facilite  la  transformación  de  la  sociedad  canaria  en  una  sociedad  del 
@@ -125,7 +143,7 @@ Formación Profesional. Finalmente.  La Evaluación y calidad del sistema de For
 Título X al plantear en su  artículo 110.1 que una evaluación de la calidad del Sistema de Formación  
 Profesional debe llevarse a cabo con arreglo a los indicadores establecidos en el Marco Europeo de  
 Garantía de la Calidad de la Formación Profesional (EQAVET).
-Quinto.- El Real Decreto 659/2023, de 18 de julio, por el que se desarrolla la ordenación del Sistema de  
+Quinto.- El [Real Decreto 659/2023](./R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, por el que se desarrolla la ordenación del Sistema de  
 Formación  Profesional  en  su  artículo  166,  apartado  1,  que  regula  las  funciones,  perfiles  o  equipos 
 docentes  en  los  centros  del  sistema  de  Formación  Profesional  indica  que  ”Las  administraciones  
 promoverán,  de  acuerdo  con  su  planificación  y  en  los  términos  que  ellas  establezcan,  la  presencia 
@@ -133,7 +151,7 @@ progresiva en los centros del Sistema de Formación Profesional, en particular e
 en centros integrados de formación profesional, la creación de figuras o configuración de equipos que  
 promuevan  y  desarrollen  las  funciones  de  innovación,  internacionalización,  orientación  profesional, 
 emprendimiento y coordinación del procedimiento de acreditación de competencias, en su caso”. 
-Sexto.- El Decreto 112/2011, de 11 de mayo, por el que se regulan los Centros Integrados de Formación  
+Sexto.- El [Decreto 112/2011](../02_gestion_y_administracion_centros/D112_2011_regulan_centros_integrados_formacion_profesional_canarias.md), de 11 de mayo, por el que se regulan los Centros Integrados de Formación  
 Profesional en la Comunidad Autónoma de Canarias, establece que estos centros deben fomentar la  
 innovación  y  el  emprendimiento  como  motores  de  competitividad,  impulsando  la  cultura  de  la  
 investigación  aplicada  y  la  colaboración  con  empresas  y  la  sociedad.  Asimismo,  dispone  que  se  
@@ -143,7 +161,7 @@ Además,  el  decreto  encomienda  a  los  centros  la  prestación  de  servici
 facilitando la toma de decisiones formativas y mejorando la empleabilidad de jóvenes y trabajadores, con  
 el objetivo de adaptar la formación a las necesidades del mercado laboral y potenciar el desarrollo  
 profesional del alumnado.
-Séptimo.- El Decreto 81/2010, de 8 de julio, por el que se aprueba el Reglamento Orgánico de los centros  
+Séptimo.- El [Decreto 81/2010](../04_organizacion_escolar_y_funcionamiento/D81_2010_aprueba_reglamento_organico_centros_docentes_publicos.md), de 8 de julio, por el que se aprueba el Reglamento Orgánico de los centros  
 docentes públicos no universitarios de la Comunidad Autónoma de Canarias, establece en su artículo 38.1  
 que dichos centros disponen de autonomía pedagógica, de organización y de gestión en el marco de la  
 legislación vigente.
@@ -228,7 +246,7 @@ Segundo. Ámbito de aplicación.
 Las Redes de las Enseñanzas Profesionales se despliegan en los centros educativos no universitarios  
 sostenidos con fondos públicos de la Comunidad Autónoma de Canarias que imparten enseñanzas de   
 formación profesional y enseñanzas de régimen especial. 
-De conformidad con lo establecido en el artículo 166 del Real Decreto 659/2023, las redes de innovación,  
+De conformidad con lo establecido en el artículo 166 del [Real Decreto 659/2023](./R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), las redes de innovación,  
 emprendimiento, y de información y orientación profesional constituyen un elemento obligatorio para  
 todos los centros de formación profesional, en virtud de las funciones y perfiles docentes definidos en la  
 citada norma. 

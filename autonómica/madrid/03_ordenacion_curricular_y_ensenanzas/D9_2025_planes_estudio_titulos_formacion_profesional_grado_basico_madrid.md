@@ -28,8 +28,28 @@ tags:
 relaciones:
   desarrolla:
   - norma_id: norm-mad-d-27-2025
+fundamentos_derecho:
+- norma_id: norm-can-res-boc-2024-230-25
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-can-res-134
+- norma_id: norm-mad-d-52-2021
+- norma_id: norm-mad-l1-1983-gobierno-administracion-comunidad-madrid
+- norma_id: norm-mad-d-63-2019
+- norma_id: norm-mad-d65-2022
+- norma_id: norm-es-l-39-2015
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-1999-23750
+- norma_id: norm-es-2010-11426
+- norma_id: norm-es-lo-3-2022
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2014-5591
+- norma_id: norm-es-2024-10683
+- norma_id: norm-es-rd-659-2023
+- norma_id: norm-es-2015-9462
+- norma_id: norm-es-2010-12201
+- norma_id: norm-es-2007-6115
+- norma_id: norm-es-2023-9553
 ---
-
 ## Preámbulo
 
 I. COMUNIDAD DE MADRID
@@ -38,7 +58,7 @@ Consejería de Educación, Ciencia y Universidades
 1 DECRETO 9/2025, de 26 de marzo, del Consejo de Gobierno, por el que se esta-
 blecen para la Comunidad de Madrid los planes de estudios de veinticinco títu-
 los de formación profesional de grado básico.
-La Ley Orgánica 3/2022, de 31 de marzo, de ordenación e integración de la Formación
+La [Ley Orgánica 3/2022](../../canarias/08_personal_docente/R30_6_2023_ordenacion_gestion_determinadas_listas_empleo_tras.md), de 31 de marzo, de ordenación e integración de la Formación
 Profesional, tiene por objeto la constitución y ordenación de un sistema único e integrado
 de formación profesional. A tal fin, redefine las ofertas de formación profesional, entre las
 que se encuentran las enseñanzas de formación profesional del sistema educativo y crea una
@@ -50,7 +70,7 @@ que incluirá, al menos, la formación necesaria para obtener un certificado pro
 Grado C vinculado a estándares de competencia de nivel 1 del Catálogo Nacional de Están-
 dares de Competencias Profesionales, así como un proyecto de aprendizaje colaborativo
 vinculado a estos tres ámbitos.
-El artículo 39 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, dispone que el
+El artículo 39 de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, dispone que el
 Gobierno de la Nación, previa consulta a las comunidades autónomas, establecerá las titu-
 laciones correspondientes a los estudios de formación profesional, así como los aspectos
 básicos del currículo de cada una de ellas. Además, en su artículo 6.3 establece que, con el
@@ -62,7 +82,7 @@ mismo los resultados de aprendizaje correspondientes a las enseñanzas mínimas.
 En el artículo 40.2 de dicha ley se concreta el objetivo de los ciclos formativos de gra-
 do básico estableciendo que contribuirán, además, a que el alumnado adquiera las compe-
 tencias de educación secundaria obligatoria.
-El Real Decreto 659/2023, de 18 de julio, por el que se desarrolla la ordenación del
+El [Real Decreto 659/2023](../../canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, por el que se desarrolla la ordenación del
 Sistema de Formación Profesional, dedica el Capítulo IV de su Título II a la ordenación y
 organización curricular de los grados D y en su artículo 85 despliega la nueva organización
 de los ciclos formativos de grado básico mediante la estructuración de los mismos en tres
@@ -70,14 +90,14 @@ de los ciclos formativos de grado básico mediante la estructuración de los mis
 bito Profesional, que incluirá el módulo profesional de Itinerario personal para la emplea-
 bilidad, así como un Proyecto intermodular de aprendizaje colaborativo vinculado a los
 mismos, para toda la duración del ciclo formativo.
-El citado Real Decreto 659/2023, de 18 de julio, dispone en su artículo 7.2 y 3 que sean
+El citado [Real Decreto 659/2023](../../canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, dispone en su artículo 7.2 y 3 que sean
 las Administraciones educativas las que, respetando lo previsto en dicha norma y en el res-
 to de desarrollos normativos del Sistema de Formación Profesional, así como las atribucio-
-nes competenciales establecidas en el artículo 6 de la Ley Orgánica 2/2006, de 3 de mayo,
-y de acuerdo con lo prescrito por la Ley Orgánica 3/2022, de 31 de marzo, establezcan los
+nes competenciales establecidas en el artículo 6 de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo,
+y de acuerdo con lo prescrito por la [Ley Orgánica 3/2022](../../canarias/08_personal_docente/R30_6_2023_ordenacion_gestion_determinadas_listas_empleo_tras.md), de 31 de marzo, establezcan los
 currículos correspondientes a los grados D, que determinarán, cuando se vean afectados, la
 duración y currículo de los grados A ,ByCc o n t e n i d o se na q uellos.
-En cumplimiento, asimismo, de lo establecido en el artículo 8 del Decreto 63/2019,
+En cumplimiento, asimismo, de lo establecido en el artículo 8 del [Decreto 63/2019](./D63_2019_ordenacion_organizacion_formacion_profesional_madrid.md),
 de 16 de julio, del Consejo de Gobierno, por el que se regula la ordenación y organiza-
 ción de la formación profesional en la Comunidad de Madrid, esta desarrollará los planes
 de estudio correspondientes a ciclos formativos de formación profesional que se establez-
@@ -91,14 +111,14 @@ sico a través de seis decretos por los que se establecen un total de veinticinc
 tudios. Este decreto deroga dichas normas y establece los planes de estudios de los veinti-
 cinco títulos de formación profesional de grado básico, adaptados a la nueva ordenación del
 Sistema de Formación Profesional.
-El Consejo de Ministros ha aprobado el Real Decreto 498/2024, de 21 de mayo, por el
+El Consejo de Ministros ha aprobado el [Real Decreto 498/2024](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD498_2024_modifican_determinados_reales_decretos_establecen_titulos.md), de 21 de mayo, por el
 que se modifican determinados reales decretos por los que se establecen títulos de Formación
 Profesional de grado básico y se fijan sus enseñanzas mínimas, que ha modificado determi-
-nados títulos de Formación Profesional Básica para su adaptación al Real Decreto 659/2023,
+nados títulos de Formación Profesional Básica para su adaptación al [Real Decreto 659/2023](../../canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md),
 de 18 de julio.
 Este decreto tiene por objeto la adecuación a la nueva ordenación del Sistema de For-
 mación Profesional de la Comunidad de Madrid de los planes de estudios de veinticinco ci-
-clos formativos de grado básico, regulados por Ley Orgánica 2/2006, de 3 de mayo, que for-
+clos formativos de grado básico, regulados por [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, que for-
 man parte de la oferta de formación profesional en esta comunidad. En el artículo 1 se
 relacionan todos los decretos de currículo que son objeto de aprobación. En los anexos se in-
 cluyen los contenidos y la duración de los módulos profesionales y la organización y distri-
@@ -114,11 +134,11 @@ La implantación de los planes de estudios establecidos en este decreto afecta a
 ganización de los centros que deben implementar las enseñanzas en el curso 2024-2025, de
 acuerdo con el calendario previsto de implantación de estas enseñanzas fijado en el Real
 Decreto 278/2023, de 11 de abril, por el que se establece el calendario de implantación del
-Sistema de Formación Profesional establecido por la Ley Orgánica 3/2022, de 31 de mar-
+Sistema de Formación Profesional establecido por la [Ley Orgánica 3/2022](../../canarias/08_personal_docente/R30_6_2023_ordenacion_gestion_determinadas_listas_empleo_tras.md), de 31 de mar-
 zo, de ordenación e integración de la Formación Profesional.
-En el marco de lo dispuesto en el artículo 129 de la Ley 39/2015, de 1 de octubre, del
+En el marco de lo dispuesto en el artículo 129 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del
 Procedimiento Administrativo Común de las Administraciones Públicas, y de conformidad
-con el artículo 2 del Decreto 52/2021, de 24 de marzo, del Consejo de Gobierno, por el que
+con el artículo 2 del [Decreto 52/2021](../01_marco_normativo_general_y_organico/D52_2021_procedimiento_elaboracion_disposiciones_normativas_madrid.md), de 24 de marzo, del Consejo de Gobierno, por el que
 se regula y simplifica el procedimiento de elaboración de las disposiciones normativas de
 carácter general en la Comunidad de Madrid, la presente disposición normativa se ajusta a
 las exigencias de los principios de buena regulación.
@@ -128,10 +148,10 @@ la Comunidad de Madrid con el fin de mejorar la cualificación y formación de l
 nos y ofrecer mayores oportunidades de empleo en los diferentes sectores productivos en
 este ámbito territorial.
 Asimismo, la presente norma cumple con el principio de proporcionalidad, ya que contie-
-ne la regulación imprescindible de lo previsto por el Real Decreto 498/2024, de 21 de mayo.
+ne la regulación imprescindible de lo previsto por el [Real Decreto 498/2024](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD498_2024_modifican_determinados_reales_decretos_establecen_titulos.md), de 21 de mayo.
 También cumple con el principio de transparencia, conforme a lo establecido en la
 Ley 10/2019, de 10 de abril, de Transparencia y de Participación de la Comunidad de Madrid,
-y de acuerdo con lo dispuesto en el artículo 9 del Decreto 52/2021, de 24 de marzo. Los trá-
+y de acuerdo con lo dispuesto en el artículo 9 del [Decreto 52/2021](../01_marco_normativo_general_y_organico/D52_2021_procedimiento_elaboracion_disposiciones_normativas_madrid.md), de 24 de marzo. Los trá-
 mites de audiencia e información pública, así como la publicación de la norma, una vez apro-
 bada, se han realizado a través del Portal de Transparencia de la Comunidad de Madrid.
 Por otro lado, el rango de esta disposición responde a la importancia de la materia que
@@ -151,7 +171,7 @@ tatuto de Autonomía de la Comunidad de Madrid, corresponde a esta comunidad aut
 la competencia de desarrollo legislativo y ejecución de la enseñanza en toda su extensión,
 niveles y grados, modalidades y especialidades. El Consejo de Gobierno es competente
 
-para dictar este decreto, de acuerdo con lo establecido en el artículo 21.g) de la Ley 1/1983,
+para dictar este decreto, de acuerdo con lo establecido en el artículo 21.g) de la [Ley 1/1983](../01_marco_normativo_general_y_organico/L1_1983_gobierno_administracion_comunidad_madrid.md),
 de 13 de diciembre, del Gobierno y Administración de la Comunidad de Madrid.
 En su virtud, a propuesta del consejero de Educación, Ciencia y Universidades, oída
 la Comisión Jurídica Asesora de la Comunidad de Madrid, previa deliberación, el Consejo
@@ -200,15 +220,15 @@ pecíficos de la Formación Profesional Básica de las enseñanzas de formación
 fesional del sistema educativo, se aprueban catorce títulos profesionales básicos,
 se fijan sus currículos básicos y se modifica el Real Decreto 1850/2009, de 4 de
 diciembre, sobre expedición de títulos académicos y profesionales correspondien-
-tes a las enseñanzas establecidas en la Ley Orgánica 2/2006, de 3 de mayo, de
+tes a las enseñanzas establecidas en la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de
 Educación, para los títulos de formación profesional de grado básico relacionados
 en los apartados del a) al n) del artículo 1.
-b) En el Real Decreto 356/2014, de 16 de mayo, por el que se establecen siete títulos
+b) En el [Real Decreto 356/2014](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD356_2014_establecen_siete_titulos_formacion_profesional_basica.md), de 16 de mayo, por el que se establecen siete títulos
 de Formación Profesional Básica del catálogo de títulos de las enseñanzas de For-
 
 mación Profesional, para los títulos de formación profesional de grado básico re-
 lacionados en los apartados del ñ) al s) del artículo 1.
-c) En el Real Decreto 774/2015, de 28 de agosto, por el que se establecen seis Títulos
+c) En el [Real Decreto 774/2015](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD774_2015_establecen_seis_titulos_formacion_profesional_basica.md), de 28 de agosto, por el que se establecen seis Títulos
 de Formación Profesional Básica del catálogo de Títulos de las enseñanzas de For-
 mación Profesional, para los títulos de formación profesional de grado básico re-
 lacionados en los apartados del t) al w) del artículo 1.
@@ -233,7 +253,7 @@ Currículo
 1. Las orientaciones metodológicas, las competencias específicas, los criterios de
 evaluación y los contenidos del ámbito de Comunicación y Ciencias Sociales y del ámbito
 de Ciencias Aplicadas, relacionados en los apartados a) y b) del artículo 3, son los defini-
-dos en el anexo III del Decreto 65/2022 de 20 de julio, del Consejo de Gobierno, por el que
+dos en el anexo III del [Decreto 65/2022](./D65_2022_ordenacion_curriculo_educacion_secundaria_obligatoria_madrid.md) de 20 de julio, del Consejo de Gobierno, por el que
 se establecen para la Comunidad de Madrid la ordenación y el currículo de la Educación
 Secundaria Obligatoria.
 2. El currículo del ámbito profesional incluirá los módulos profesionales que se es-
@@ -288,7 +308,7 @@ configuran cada uno de los planes de estudios establecidos en este decreto se de
 el apartado 2 de los anexos citados anteriormente.
 4. Los resultados de aprendizaje y criterios de evaluación que integran el currículo
 del Proyecto intermodular de aprendizaje colaborativo, así como su duración, figuran como
-### anexo I del Real Decreto 498/2024, de 21 de mayo, por el que se modifican determinados
+### anexo I del [Real Decreto 498/2024](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD498_2024_modifican_determinados_reales_decretos_establecen_titulos.md), de 21 de mayo, por el que se modifican determinados
 reales decretos por los que se establecen títulos de Formación Profesional de grado básico
 y se fijan sus enseñanzas mínimas.
 #### Artículo 5
@@ -302,7 +322,7 @@ principio de igualdad de oportunidades entre mujeres y hombres y la prevención 
 lencia de género, la prevención de la violencia sobre la infancia y la adolescencia, el respe-
 to y la no discriminación por motivos de orientación sexual y diversidad sexual e identidad
 o expresión de género. Estos contenidos estarán presentes de forma transversal en los pro-
-cesos de enseñanza y aprendizaje, de acuerdo con lo dispuesto en la Ley Orgánica 3/2007,
+cesos de enseñanza y aprendizaje, de acuerdo con lo dispuesto en la [Ley Orgánica 3/2007](../../../estatal/07_convivencia_bienestar_y_protocolos/LO3_2007_igualdad_efectiva_mujeres_hombres.md),
 de 22 de marzo, para la igualdad efectiva de mujeres y hombres.
 2. Los criterios pedagógicos se adaptarán a las características específicas de las perso-
 nas en formación, adoptándose preferentemente una organización del currículo por proyectos
@@ -345,7 +365,7 @@ a) En los centros docentes de titularidad pública de la consejería con compete
 en materia de Educación, por personal funcionario de los Cuerpos de Catedráticos
 de Enseñanza Secundaria y Profesores de Enseñanza Secundaria de alguna de las
 especialidades que tengan atribución docente para impartir cada ámbito, según se
-establece en el anexo IV del Real Decreto 286/2023, de 18 de abril, por el que se
+establece en el anexo IV del [Real Decreto 286/2023](../../../estatal/08_personal_docente/RD286_2023_regula_asignacion_materias_educacion_secundaria_obligatoria.md), de 18 de abril, por el que se
 regula la asignación de materias en Educación Secundaria Obligatoria y en Bachi-
 llerato a las especialidades de distintos cuerpos de funcionarios docentes, y se mo-
 difican diversas normas relativas al profesorado de enseñanzas no universitarias.
@@ -367,7 +387,7 @@ o Asimismo, para las unidades formativas propias de la Comunidad de Madrid:
 sica II”, la especialidad de Educación Física.
 b) En los centros docentes de titularidad privada o de titularidad pública de otras
 administraciones distintas de la educativa, por profesorado con la titulación y
-requisitos establecidos en el Real Decreto 860/2010, de 2 de julio, por el que se
+requisitos establecidos en el [Real Decreto 860/2010](../../../estatal/02_gestion_y_administracion_centros/RD860_2010_regulan_condiciones_formacion_inicial_profesorado_centros.md), de 2 de julio, por el que se
 regulan las condiciones de formación inicial del profesorado de los centros pri-
 vados para ejercer la docencia en las enseñanzas de educación secundaria obli-
 gatoria o de bachillerato, que tengan atribución docente para la impartición de
@@ -403,7 +423,7 @@ tan a lo dispuesto en el apartado 5 del correspondiente anexo del real decreto q
 cada título de Técnico Básico, referido en el artículo 2.
 3. En el caso de contar, para la impartición de módulos profesionales, con personas
 expertas del sector productivo o expertas sénior de empresa, estas deberán cumplir los re-
-quisitos indicados en el capítulo IV del título V del Real Decreto 659/2023, de 18 de julio,
+quisitos indicados en el capítulo IV del título V del [Real Decreto 659/2023](../../canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio,
 por el que se desarrolla la ordenación del Sistema de Formación Profesional.
 #### Artículo 9
 Espacios y equipamientos
@@ -3121,7 +3141,7 @@ General para la Defensa de los Consumidores y Usuarios y otras leyes
 complementarias, aprobado por el Real De creto Legislativo 1/2007, de 16 de 
 noviembre. 
 - Leyes autonómicas de protección al consumidor.  
-- Ley Orgánica 15/1999, de 13 de dicie mbre, de Protección de Datos de Carácter 
+- [Ley Orgánica 15/1999](../../../estatal/02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md), de 13 de dicie mbre, de Protección de Datos de Carácter 
 Personal.  
 Módulo Profesional: Operaciones básicas en instalación de jardines, parques y 
 zonas verdes  

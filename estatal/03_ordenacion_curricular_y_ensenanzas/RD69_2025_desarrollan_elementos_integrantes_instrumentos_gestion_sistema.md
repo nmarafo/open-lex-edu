@@ -278,8 +278,19 @@ relaciones:
   - norma_id: norm-es-lo-3-2022
   - norma_id: norm-es-rd-659-2023
   - norma_id: norm-es-2010-12201
+fundamentos_derecho:
+- norma_id: norm-can-res-boc-2024-230-25
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-can-res-134
+- norma_id: norm-es-l-39-2015
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-lo-3-2018
+- norma_id: norm-es-lo-3-2022
+- norma_id: norm-es-2002-12018
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-rd-659-2023
+- norma_id: norm-es-2010-12201
 ---
-
 # Real Decreto 69/2025, de 4 de febrero, por el que se desarrollan los elementos integrantes y los instrumentos de gestión del Sistema Nacional de Formación Profesional, y se modifica el Real Decreto 375/1999, de 5 de marzo, por el que se crea el Instituto Nacional de las Cualificaciones.
 
 ## Preámbulo
@@ -288,13 +299,13 @@ La [Ley Orgánica 3/2022](../../autonómica/canarias/08_personal_docente/R30_6_2
 
 La función del Sistema de Formación Profesional es el desarrollo personal y profesional de la persona, la mejora continuada de su cualificación a lo largo de toda la vida y la garantía de la satisfacción de las necesidades formativas del sistema productivo y del empleo.
 
-El artículo 5 de la Ley Orgánica 3/2022, de 31 de marzo, establece que el Sistema de Formación Profesional está compuesto por el conjunto articulado de actuaciones dirigidas a identificar las competencias profesionales del mercado laboral, asegurar las ofertas de formación idóneas, posibilitar la adquisición de la correspondiente formación o, en su caso, el reconocimiento de las competencias profesionales, y poner a disposición de las personas un servicio de orientación y acompañamiento profesional que permita el diseño de itinerarios formativos individuales y colectivos.
+El artículo 5 de la [Ley Orgánica 3/2022](../../autonómica/canarias/08_personal_docente/R30_6_2023_ordenacion_gestion_determinadas_listas_empleo_tras.md), de 31 de marzo, establece que el Sistema de Formación Profesional está compuesto por el conjunto articulado de actuaciones dirigidas a identificar las competencias profesionales del mercado laboral, asegurar las ofertas de formación idóneas, posibilitar la adquisición de la correspondiente formación o, en su caso, el reconocimiento de las competencias profesionales, y poner a disposición de las personas un servicio de orientación y acompañamiento profesional que permita el diseño de itinerarios formativos individuales y colectivos.
 
-El marco jurídico establecido en la Ley Orgánica 3/2022, de 31 de marzo, requiere el correspondiente desarrollo reglamentario para facilitar, de manera predecible, la progresiva adaptación del Sistema de Formación Profesional a las exigencias y las necesidades del país, y a lo establecido en la propia norma, asegurando coherencia entre ellos y sinergias para alcanzar el objetivo de una cualificación profesional permanente de calidad.
+El marco jurídico establecido en la [Ley Orgánica 3/2022](../../autonómica/canarias/08_personal_docente/R30_6_2023_ordenacion_gestion_determinadas_listas_empleo_tras.md), de 31 de marzo, requiere el correspondiente desarrollo reglamentario para facilitar, de manera predecible, la progresiva adaptación del Sistema de Formación Profesional a las exigencias y las necesidades del país, y a lo establecido en la propia norma, asegurando coherencia entre ellos y sinergias para alcanzar el objetivo de una cualificación profesional permanente de calidad.
 
 En este marco, parte de los objetivos de dicha ley orgánica han sido desarrollados por el [Real Decreto 659/2023](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, por el que se desarrolla la ordenación del Sistema de Formación Profesional, con la salvedad de los aspectos relacionados con los elementos integrantes y los instrumentos de Gestión del Sistema de Formación Profesional desarrollados en este real decreto.
 
-La Ley Orgánica 3/2022, de 31 de marzo, define en el capítulo II del título I los elementos integrantes del Sistema de Formación Profesional.
+La [Ley Orgánica 3/2022](../../autonómica/canarias/08_personal_docente/R30_6_2023_ordenacion_gestion_determinadas_listas_empleo_tras.md), de 31 de marzo, define en el capítulo II del título I los elementos integrantes del Sistema de Formación Profesional.
 
 En primer lugar, crea, por modificación del actual Catálogo Nacional de Cualificaciones Profesionales, un Catálogo Nacional de Estándares de Competencias Profesionales, adaptando la denominación con el significado que tiene en los países de la Unión Europea y evitando, de ese modo, los errores interpretativos que el término «cualificación» ha venido arrastrando a lo largo del tiempo. Además, la flexibilización de la formación hasta las «microformaciones» requiere contar con descriptores menores, como son los estándares de competencias profesionales –equivalentes a las unidades de competencia contenidas en las hasta ahora cualificaciones profesionales y los elementos de competencia–. Los estándares de competencias profesionales se organizarán por familias profesionales y por niveles en función de la complejidad, conocimientos y capacidades, responsabilidad y autonomía de la función a desempeñar. Estos descriptores están alineados con los establecidos en la Recomendación del Consejo, de 22 de mayo de 2017, relativa al Marco Europeo de Cualificaciones para el Aprendizaje Permanente para los niveles 3, 4 y 5, respectivamente.
 
@@ -306,13 +317,13 @@ En cuarto lugar, se definen los elementos básicos del currículo de formación 
 
 Por su parte, en el capítulo III del título I, se crean y regulan los Instrumentos de Gestión del Sistema de Formación Profesional, aportando la necesaria seguridad jurídica a los registros oficiales que forman parte de estos instrumentos, que son el Registro Estatal de Formación Profesional, el Registro Estatal de Acreditaciones de Competencia Profesionales Adquiridas por Experiencia Laboral o Vías No Formales e Informales y el Registro General de Centros de Formación Profesional, a los efectos de certificación o validación frente a terceros de los datos registrales.
 
-Con base a lo establecido en la disposición final octava de la Ley Orgánica 3/2022, de 31 de marzo, y al amparo de lo establecido en el artículo 113.1.a) de dicha ley, corresponde al Gobierno la aprobación de las normas reglamentarias del Sistema de Formación Profesional, excepto las atribuidas expresamente al Ministerio de Educación, Formación Profesional y Deportes.
+Con base a lo establecido en la disposición final octava de la [Ley Orgánica 3/2022](../../autonómica/canarias/08_personal_docente/R30_6_2023_ordenacion_gestion_determinadas_listas_empleo_tras.md), de 31 de marzo, y al amparo de lo establecido en el artículo 113.1.a) de dicha ley, corresponde al Gobierno la aprobación de las normas reglamentarias del Sistema de Formación Profesional, excepto las atribuidas expresamente al Ministerio de Educación, Formación Profesional y Deportes.
 
-Igualmente, esta norma adapta el Real Decreto 375/1999, de 5 de marzo, por el que se crea el Instituto Nacional de las Cualificaciones, a los cambios derivados de la Ley Orgánica 3/2022, de 31 de marzo, en lo que atañe a la creación y fines, a las funciones y a la estructura orgánica y funcional.
+Igualmente, esta norma adapta el Real Decreto 375/1999, de 5 de marzo, por el que se crea el Instituto Nacional de las Cualificaciones, a los cambios derivados de la [Ley Orgánica 3/2022](../../autonómica/canarias/08_personal_docente/R30_6_2023_ordenacion_gestion_determinadas_listas_empleo_tras.md), de 31 de marzo, en lo que atañe a la creación y fines, a las funciones y a la estructura orgánica y funcional.
 
 Este real decreto se ajusta a los principios de buena regulación contenidos en el artículo 129 de la [Ley 39/2015](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, principios de necesidad, eficacia, proporcionalidad, seguridad jurídica, transparencia y eficiencia. La norma es necesaria y eficaz en tanto que la misma persigue un interés general al facilitar el carácter integrado y la adecuación entre la formación profesional y el mercado laboral, así como la formación a lo largo de la vida, la movilidad de los trabajadores y la unidad del mercado laboral, así mismo, permite una gestión más eficiente de los recursos públicos. Cumple con los principios de proporcionalidad, seguridad jurídica y eficiencia en la medida en que no supone restricción alguna de derechos, resulta coherente con el ordenamiento jurídico y no afecta a las cargas administrativas. Del mismo modo, durante el procedimiento de elaboración de la norma se ha permitido la participación activa de los potenciales destinatarios a través del trámite de audiencia e información pública y quedan justificados los objetivos que persigue la ley, respetándose así el principio de transparencia.
 
-En la tramitación de este real decreto se han cumplido los trámites establecidos en la Ley 50/1997, de 27 de noviembre, del Gobierno y en la Ley 39/2015, de 1 de octubre. Han sido consultadas las comunidades autónomas, ha emitido dictamen el Consejo Escolar del Estado y han informado el Consejo General de la Formación Profesional y el Ministerio de Política Territorial y Memoria Democrática.
+En la tramitación de este real decreto se han cumplido los trámites establecidos en la Ley 50/1997, de 27 de noviembre, del Gobierno y en la [Ley 39/2015](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre. Han sido consultadas las comunidades autónomas, ha emitido dictamen el Consejo Escolar del Estado y han informado el Consejo General de la Formación Profesional y el Ministerio de Política Territorial y Memoria Democrática.
 
 El presente real decreto se dicta en virtud de las competencias exclusivas que se atribuyen al Estado en el artículo 149.1.1.ª, 7.ª y 30.ª de la Constitución Española, que se refieren respectivamente a la competencia para la regulación de las condiciones básicas que garanticen la igualdad de todos los españoles en el ejercicio de los derechos y en el cumplimiento de los deberes constitucionales; para la legislación laboral, sin perjuicio de su ejecución por los órganos de las comunidades autónomas; y para la regulación de las condiciones de obtención, expedición y homologación de títulos académicos y profesionales y normas básicas para el desarrollo del artículo 27 de la Constitución Española, a fin de garantizar el cumplimiento de las obligaciones de los poderes públicos en esta materia.
 
@@ -326,7 +337,7 @@ En su virtud, a propuesta conjunta de la Ministra de Educación, Formación Prof
 
 #### Artículo 1. Objeto.
 
-El objeto de este real decreto es desarrollar la estructura, organización y contenido de los elementos integrantes y los instrumentos de gestión del Sistema Nacional de Formación Profesional, según lo establecido en el artículo 7 de la Ley Orgánica 3/2022, de 31 de marzo, de ordenación e integración de la Formación Profesional.
+El objeto de este real decreto es desarrollar la estructura, organización y contenido de los elementos integrantes y los instrumentos de gestión del Sistema Nacional de Formación Profesional, según lo establecido en el artículo 7 de la [Ley Orgánica 3/2022](../../autonómica/canarias/08_personal_docente/R30_6_2023_ordenacion_gestion_determinadas_listas_empleo_tras.md), de 31 de marzo, de ordenación e integración de la Formación Profesional.
 
 a) Son elementos integrantes del Sistema Nacional de Formación Profesional:
 
@@ -450,7 +461,7 @@ b) Operar como referencia obligada para el diseño de las ofertas del Catálogo 
 
 #### Artículo 11. Contenido y organización del Catálogo Modular de Formación Profesional.
 
-1. El Catálogo Modular de Formación Profesional recogerá la totalidad de módulos profesionales vinculados a estándares de competencias profesionales que estén incluidos en el currículo básico de una oferta de grado B, C, D o E. No forman parte, por consiguiente, ni los módulos profesionales desvinculados de estándares de competencias profesionales ni tampoco los módulos profesionales complementarios de diseño autonómico, amparados en el artículo 7.4.a) y 7.5.c) del Real Decreto 659/2023, de 18 de julio, por el que se desarrolla la ordenación del Sistema de Formación Profesional.
+1. El Catálogo Modular de Formación Profesional recogerá la totalidad de módulos profesionales vinculados a estándares de competencias profesionales que estén incluidos en el currículo básico de una oferta de grado B, C, D o E. No forman parte, por consiguiente, ni los módulos profesionales desvinculados de estándares de competencias profesionales ni tampoco los módulos profesionales complementarios de diseño autonómico, amparados en el artículo 7.4.a) y 7.5.c) del [Real Decreto 659/2023](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, por el que se desarrolla la ordenación del Sistema de Formación Profesional.
 
 2. Estará organizado por niveles y familias profesionales, en función del estándar de competencias profesionales con el que esté total o parcialmente vinculado. A estos efectos, se entiende como «parcialmente» vinculado aquel módulo profesional que no acredita por sí mismo un estándar de competencias profesionales, pero que lo hace en concurso con otro u otros módulos profesionales y así figura recogido en la norma que establece la acción formativa.
 
@@ -518,19 +529,19 @@ c) Contar con un nivel de referencia en el Marco Español de Cualificaciones par
 
 5. Cada oferta formativa hará mención expresa a la duración, que se ajustará a los siguientes supuestos:
 
-a) Para los grados D y E, la duración total será la determinada por la norma que establezca la oferta formativa, sin perjuicio de lo dispuesto en el artículo 7.5 del Real Decreto 659/2023, de 18 de julio.
+a) Para los grados D y E, la duración total será la determinada por la norma que establezca la oferta formativa, sin perjuicio de lo dispuesto en el artículo 7.5 del [Real Decreto 659/2023](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio.
 
-b) Para los grados A, B y C incluidos completamente en un grado D, la duración será la determinada por la administración competente, de acuerdo con lo dispuesto en el artículo 7.3 del Real Decreto 659/2023, de 18 de julio.
+b) Para los grados A, B y C incluidos completamente en un grado D, la duración será la determinada por la administración competente, de acuerdo con lo dispuesto en el artículo 7.3 del [Real Decreto 659/2023](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio.
 
-c) Para los grados A, B y C que no deriven de un grado D, la duración será la determinada por el Ministerio de Educación, Formación Profesional y Deportes, de acuerdo con lo establecido en el artículo 7.1 del Real Decreto 659/2023, de 18 de julio.
+c) Para los grados A, B y C que no deriven de un grado D, la duración será la determinada por el Ministerio de Educación, Formación Profesional y Deportes, de acuerdo con lo establecido en el artículo 7.1 del [Real Decreto 659/2023](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio.
 
 d) En el supuesto de que una administración competente implantara una acción formativa de grado A, B o C incluida en un grado D del que no tuviera concreción curricular autonómica, la duración de cada grado A, B y C atenderá a la duración que establezca el Ministerio de Educación, Formación Profesional y Deportes para su ámbito de gestión.
 
-6. Los itinerarios integrados a que hace referencia el artículo 22.4 del Real Decreto 659/2023, de 18 de julio, no formarán parte del Catálogo Nacional de Ofertas de Formación Profesional, si bien deberán tener como origen dos ofertas incluidas en dicho catálogo.
+6. Los itinerarios integrados a que hace referencia el artículo 22.4 del [Real Decreto 659/2023](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, no formarán parte del Catálogo Nacional de Ofertas de Formación Profesional, si bien deberán tener como origen dos ofertas incluidas en dicho catálogo.
 
 7. Los currículos mixtos internacionales a que hace mención el artículo 212 l.
 
-Real Decreto 659/2023, de 18 de julio, deberán estar incluidos en el Catálogo Nacional de Ofertas de Formación Profesional, tras el acuerdo entre administraciones estatales.
+[Real Decreto 659/2023](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, deberán estar incluidos en el Catálogo Nacional de Ofertas de Formación Profesional, tras el acuerdo entre administraciones estatales.
 
 ## Capítulo IV. Elementos básicos del currículo.
 
@@ -538,7 +549,7 @@ Real Decreto 659/2023, de 18 de julio, deberán estar incluidos en el Catálogo 
 
 1. Son elementos básicos del currículo el o los resultados de aprendizaje, los criterios de evaluación y los contenidos, que se considerarán implícitamente incluidos en la expresión de los resultados de aprendizaje y de los criterios de evaluación.
 
-2. Las administraciones competentes podrán, en virtud de lo establecido en el artículo 12.4 y 12.5 del Real Decreto 659/2023, de 18 de julio, hacer explícitos esos contenidos e incluirlos, adicionalmente y a título orientativo, en los grados de su competencia, en el currículo de los módulos profesionales, con el compromiso, en ese caso, de su actualización permanente, sin perjuicio de lo establecido en el artículo 13 de la Ley Orgánica 3/2022, de 31 de marzo.
+2. Las administraciones competentes podrán, en virtud de lo establecido en el artículo 12.4 y 12.5 del [Real Decreto 659/2023](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, hacer explícitos esos contenidos e incluirlos, adicionalmente y a título orientativo, en los grados de su competencia, en el currículo de los módulos profesionales, con el compromiso, en ese caso, de su actualización permanente, sin perjuicio de lo establecido en el artículo 13 de la [Ley Orgánica 3/2022](../../autonómica/canarias/08_personal_docente/R30_6_2023_ordenacion_gestion_determinadas_listas_empleo_tras.md), de 31 de marzo.
 
 ## Título II
 
@@ -560,7 +571,7 @@ Real Decreto 659/2023, de 18 de julio, deberán estar incluidos en el Catálogo 
 
 2. Los certificados profesionales (grados C), certificados de competencia (grados B) y acreditaciones parciales de competencia (grados A) cuya inscripción haya sido debidamente tramitada de acuerdo con lo establecido en el artículo 149 l.
 
-Real Decreto 659/2023, de 18 de julio, quedarán recogidos en el Registro Estatal de Formación Profesional.
+[Real Decreto 659/2023](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, quedarán recogidos en el Registro Estatal de Formación Profesional.
 
 3. Las acreditaciones parciales de competencia de carácter autonómico no podrán ser integradas en este registro, hasta tanto no sean incluidas en el Catálogo Nacional de Ofertas de Formación Profesional. Estas acreditaciones parciales de competencia de carácter autonómico tendrán validez autonómica, y no podrán ser expedidas en los formatos previstos para los grados A.
 
@@ -612,7 +623,7 @@ j) Duración, en número de horas.
 
 #### Artículo 20. Naturaleza del Registro Estatal de Acreditaciones de Competencias Profesionales Adquiridas por Experiencia Laboral o Vías No Formales e Informales.
 
-1. El Registro Estatal de Acreditaciones de Competencias Profesionales Adquiridas por Experiencia Laboral o Vías No Formales e Informales es un registro administrativo electrónico dependiente del Ministerio de Educación, Formación Profesional y Deportes que incluirá las acreditaciones personales obtenidas a través del procedimiento de acreditación de competencias profesionales adquiridas por experiencia laboral u otras vías no formales e informales regulado en el título VI del Real Decreto 659/2023, de 18 de julio.
+1. El Registro Estatal de Acreditaciones de Competencias Profesionales Adquiridas por Experiencia Laboral o Vías No Formales e Informales es un registro administrativo electrónico dependiente del Ministerio de Educación, Formación Profesional y Deportes que incluirá las acreditaciones personales obtenidas a través del procedimiento de acreditación de competencias profesionales adquiridas por experiencia laboral u otras vías no formales e informales regulado en el título VI del [Real Decreto 659/2023](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio.
 
 2. Los datos del registro serán objeto de tratamiento automatizado con sujeción a las medidas de seguridad previstas en la normativa sobre protección de datos de carácter personal.
 
@@ -642,19 +653,19 @@ h) Comunidad autónoma de acreditación y fecha en que tuvo lugar.
 
 i) Código y denominación del estándar o estándares acreditados.
 
-3. En el caso de las personas que hayan acreditado estándares de competencias profesionales a través del acceso excepcional para colectivos a que se refiere el artículo 177.2.a) del Real Decreto 659/2023, de 18 de julio, el campo b) del apartado anterior podrá ser sustituido por otro documento o número legalmente reconocido.
+3. En el caso de las personas que hayan acreditado estándares de competencias profesionales a través del acceso excepcional para colectivos a que se refiere el artículo 177.2.a) del [Real Decreto 659/2023](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, el campo b) del apartado anterior podrá ser sustituido por otro documento o número legalmente reconocido.
 
-4. La ciudadanía tendrá derecho a solicitar y obtener del Registro un informe individual sobre los estándares de competencia acreditados mediante este procedimiento que obren en dicho registro, actualizado a la fecha de descarga. Dicho informe podrá obtenerse a través de la sede electrónica del Ministerio de Educación, Formación Profesional y Deportes y se atendrá al modelo establecido en el anexo XVIII del Real Decreto 659/2023, de 18 de julio.
+4. La ciudadanía tendrá derecho a solicitar y obtener del Registro un informe individual sobre los estándares de competencia acreditados mediante este procedimiento que obren en dicho registro, actualizado a la fecha de descarga. Dicho informe podrá obtenerse a través de la sede electrónica del Ministerio de Educación, Formación Profesional y Deportes y se atendrá al modelo establecido en el anexo XVIII del [Real Decreto 659/2023](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio.
 
 ## Capítulo III. Registro General de Centros de Formación Profesional.
 
 #### Artículo 22. Naturaleza del Registro General de Centros de Formación Profesional.
 
-1. El Registro General de Centros de Formación Profesional es un registro administrativo electrónico dependiente del Ministerio de Educación, Formación Profesional y Deportes, en los términos recogidos en los artículos 19, 20 y 21 de la Ley Orgánica 3/2022, de 31 de marzo.
+1. El Registro General de Centros de Formación Profesional es un registro administrativo electrónico dependiente del Ministerio de Educación, Formación Profesional y Deportes, en los términos recogidos en los artículos 19, 20 y 21 de la [Ley Orgánica 3/2022](../../autonómica/canarias/08_personal_docente/R30_6_2023_ordenacion_gestion_determinadas_listas_empleo_tras.md), de 31 de marzo.
 
 2. En el Registro General de Centros de Formación Profesional deben figurar todos los centros que tienen la consideración de Centros del Sistema de Formación Profesional, de acuerdo con lo establecido en el artículo 197 l.
 
-Real Decreto 659/2023, de 18 de julio.
+[Real Decreto 659/2023](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio.
 
 3. El Registro General de Centros de Formación Profesional se construye a partir de los datos de los centros que imparten ofertas del sistema de formación profesional incluidos en los registros autonómicos dependientes de las administraciones competentes, cuando las instalaciones y recursos formativos del centro que imparte ofertas de formación profesional se encuentren en su ámbito territorial, así como los datos de los centros que imparten ofertas de formación profesional y se incluyen en otros registros autonómicos en cuyo ámbito desarrolle el centro su actividad de manera sistemática, en cualquiera de las ofertas, grados y modalidades del Sistema de Formación Profesional.
 
@@ -702,7 +713,7 @@ n) Ofertas del Sistema de Formación Profesional autorizadas, sobre las que se d
 
 2. Corresponde al Ministerio de Educación, Formación Profesional y Deportes la inscripción en el Registro General de Centros de Formación Profesional de los centros que impartan ofertas del Sistema de Formación Profesional dependientes de otros departamentos de la Administración General del Estado.
 
-3. No podrán figurar en el Registro General de Centros de Formación Profesional aquellos centros que se vean afectados por las circunstancias limitantes recogidas en el artículo 198.2 del Real Decreto 659/2023, de 18 de julio.
+3. No podrán figurar en el Registro General de Centros de Formación Profesional aquellos centros que se vean afectados por las circunstancias limitantes recogidas en el artículo 198.2 del [Real Decreto 659/2023](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio.
 
 4. El Registro General de Centros de Formación Profesional mantendrá una versión pública que permitirá la consulta a la ciudadanía.
 
@@ -710,7 +721,7 @@ n) Ofertas del Sistema de Formación Profesional autorizadas, sobre las que se d
 
 #### Disposición adicional primera. Unidades de competencia.
 
-Las unidades de competencia incluidas en el Catálogo Nacional de Cualificaciones Profesionales establecidas al amparo del Real Decreto 1128/2003, de 5 de septiembre, por el que se regula el Catálogo Nacional de Cualificaciones Profesionales, quedan automáticamente asimiladas, a todos los efectos, a los estándares de competencias profesionales a que hace referencia la Ley Orgánica 3/2022, de 31 de marzo, sin perjuicio de desarrollos normativos posteriores que adapten dichas unidades de competencia a lo establecido en los artículos 5 y 6. #### Disposición adicional segunda. Registro de unidades de competencia acreditadas.
+Las unidades de competencia incluidas en el Catálogo Nacional de Cualificaciones Profesionales establecidas al amparo del Real Decreto 1128/2003, de 5 de septiembre, por el que se regula el Catálogo Nacional de Cualificaciones Profesionales, quedan automáticamente asimiladas, a todos los efectos, a los estándares de competencias profesionales a que hace referencia la [Ley Orgánica 3/2022](../../autonómica/canarias/08_personal_docente/R30_6_2023_ordenacion_gestion_determinadas_listas_empleo_tras.md), de 31 de marzo, sin perjuicio de desarrollos normativos posteriores que adapten dichas unidades de competencia a lo establecido en los artículos 5 y 6. #### Disposición adicional segunda. Registro de unidades de competencia acreditadas.
 
 Los datos de acreditaciones incluidos en el registro al que hacía mención el artículo 18 l.
 
@@ -718,9 +729,9 @@ Real Decreto 1224/2009, de 17 de julio, de reconocimiento de las competencias pr
 
 #### Disposición adicional tercera. Catálogo Modular de Formación Profesional.
 
-1. Cualquier módulo profesional que cumpla con los requisitos establecidos en el artículo 11 de este real decreto y que esté incluido en cualesquiera de las ofertas de grados D y E de Formación Profesional amparadas en la Ley Orgánica 2/2006, de 3 de mayo, y establecidas con anterioridad al presente real decreto queda automáticamente incluido en el Catálogo Modular de Formación Profesional.
+1. Cualquier módulo profesional que cumpla con los requisitos establecidos en el artículo 11 de este real decreto y que esté incluido en cualesquiera de las ofertas de grados D y E de Formación Profesional amparadas en la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, y establecidas con anterioridad al presente real decreto queda automáticamente incluido en el Catálogo Modular de Formación Profesional.
 
-2. Cualquier módulo profesional (antes «módulo formativo») incluido en cualesquiera de las ofertas de grados C de Formación Profesional a que se refiere la disposición transitoria primera del Real Decreto 659/2023, de 18 de julio, se considerará incorporado al Catálogo Modular de Formación Profesional.
+2. Cualquier módulo profesional (antes «módulo formativo») incluido en cualesquiera de las ofertas de grados C de Formación Profesional a que se refiere la disposición transitoria primera del [Real Decreto 659/2023](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, se considerará incorporado al Catálogo Modular de Formación Profesional.
 
 #### Disposición adicional cuarta. Catálogo Nacional de Ofertas de Formación Profesional.
 
@@ -736,21 +747,21 @@ Real Decreto 1224/2009, de 17 de julio, de reconocimiento de las competencias pr
 
 2. Las «acreditaciones parciales acumulables» a que hacía mención el artículo 17 l.
 
-Real Decreto 34/2008, de 18 de enero, que estuvieran inscritas en el Registro de Certificados de Profesionalidad quedarán automáticamente asimiladas a grados B (certificados de competencia) a que hace referencia el Real Decreto 659/2023, de 18 de julio.
+Real Decreto 34/2008, de 18 de enero, que estuvieran inscritas en el Registro de Certificados de Profesionalidad quedarán automáticamente asimiladas a grados B (certificados de competencia) a que hace referencia el [Real Decreto 659/2023](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio.
 
 3. Las personas que hubieran cursado bloques formativos (antes «unidades formativas») que formaran parte de un módulo profesional (antes «módulo formativo») a que se refiere el apartado 3 de la disposición adicional cuarta podrán solicitar su registro, en los términos establecidos en el artículo 149 l.
 
-Real Decreto 659/2023, de 18 de julio, y solicitar la expedición de la correspondiente acreditación parcial de competencia (grado A).
+[Real Decreto 659/2023](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, y solicitar la expedición de la correspondiente acreditación parcial de competencia (grado A).
 
-4. La relación entre las ofertas formativas establecidas al amparo del Real Decreto 34/2008, de 18 de enero, y sus equivalentes al amparo del Real Decreto 659/2023, de 18 de julio, quedan recogidas en el anexo IV.
+4. La relación entre las ofertas formativas establecidas al amparo del Real Decreto 34/2008, de 18 de enero, y sus equivalentes al amparo del [Real Decreto 659/2023](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, quedan recogidas en el anexo IV.
 
 #### Disposición adicional sexta. Protección de datos de carácter personal.
 
-1. Los tratamientos de datos personales regulados en el presente real decreto se llevarán a cabo conforme a lo dispuesto en el Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo, de 27 de abril de 2016, relativo a la protección de las personas físicas en lo que respecta al tratamiento de datos personales y a la libre circulación de estos datos y por el que se deroga la directiva 95/46/CE, y en la Ley Orgánica 3/2018, de 5 de diciembre.
+1. Los tratamientos de datos personales regulados en el presente real decreto se llevarán a cabo conforme a lo dispuesto en el Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo, de 27 de abril de 2016, relativo a la protección de las personas físicas en lo que respecta al tratamiento de datos personales y a la libre circulación de estos datos y por el que se deroga la directiva 95/46/CE, y en la [Ley Orgánica 3/2018](../02_gestion_y_administracion_centros/LO3_2018_proteccion_datos_personales_garantia_derechos_digitales.md), de 5 de diciembre.
 
 Los derechos de acceso, rectificación y supresión se ejercitarán conforme a la normativa referida en el párrafo anterior.
 
-2. Los tratamientos de datos que se contemplan en esta norma se establecen al amparo de la Ley Orgánica 3/2022, de 31 de marzo.
+2. Los tratamientos de datos que se contemplan en esta norma se establecen al amparo de la [Ley Orgánica 3/2022](../../autonómica/canarias/08_personal_docente/R30_6_2023_ordenacion_gestion_determinadas_listas_empleo_tras.md), de 31 de marzo.
 
 3. El tratamiento de los datos personales relativos al Registro Estatal de Acreditaciones de Competencias Profesionales adquiridas por experiencia laboral o vías no formales e informales al que se refiere el capítulo I del título II, ya está contemplado en la actividad de tratamiento correspondiente del Registro de Actividades de Tratamiento.
 
@@ -760,7 +771,7 @@ La base jurídica del tratamiento es el cumplimiento de una misión realizada en
 
 Es responsable del tratamiento la Secretaría General de Formación Profesional del Ministerio de Educación, Formación Profesional y Deportes.
 
-Minimización de datos: los datos recogidos se limitarán a los datos identificativos necesarios para la correcta cumplimentación de los anexos XII, XIII y XIV del Real Decreto 659/2023, de 18 de julio.
+Minimización de datos: los datos recogidos se limitarán a los datos identificativos necesarios para la correcta cumplimentación de los anexos XII, XIII y XIV del [Real Decreto 659/2023](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio.
 
 Fuentes y exactitud de los datos: los datos personales serán recabados de otras administraciones competentes en sus ámbitos territoriales, que los recabarán a su vez de los centros.
 
@@ -788,7 +799,7 @@ El responsable del tratamiento garantizará la aplicación de las medidas de seg
 
 #### Disposición derogatoria única. Derogación normativa.
 
-1. Queda derogado el Real Decreto 1128/2003, de 5 de septiembre. Las normas establecidas al amparo de dicho real decreto mantendrán en todo su vigencia, salvo en aquellos aspectos que sean incompatibles con la regulación proyectada en este real decreto o la Ley Orgánica 3/2022, de 31 de marzo.
+1. Queda derogado el Real Decreto 1128/2003, de 5 de septiembre. Las normas establecidas al amparo de dicho real decreto mantendrán en todo su vigencia, salvo en aquellos aspectos que sean incompatibles con la regulación proyectada en este real decreto o la [Ley Orgánica 3/2022](../../autonómica/canarias/08_personal_docente/R30_6_2023_ordenacion_gestion_determinadas_listas_empleo_tras.md), de 31 de marzo.
 
 2. Queda derogado el Real Decreto 817/2014, de 26 de septiembre, por el que se establecen los aspectos puntuales de las cualificaciones profesionales para cuya modificación, procedimiento de aprobación y efectos es de aplicación el artículo 7.3 de la [Ley Orgánica 5/2002](LO5_2002_cualificaciones_formacion_profesional.md), de 19 de junio.
 

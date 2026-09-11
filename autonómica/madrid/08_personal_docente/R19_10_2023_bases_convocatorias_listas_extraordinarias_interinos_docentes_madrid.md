@@ -28,8 +28,15 @@ tags:
 - seleccion_docente
 - recursos_humanos
 - comunidad_de_madrid
+fundamentos_derecho:
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-mad-d248-2023
+- norma_id: norm-es-l-39-2015
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-rd-1834-2008
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
 ---
-
 # Resolución de 19 de octubre de 2023, de la Dirección General de Recursos Humanos, por la que se establecen las bases reguladoras que han de regir las convocatorias de listas extraordinarias permanentemente abiertas para la selección de aspirantes a ocupar puestos docentes en régimen de interinidad en los centros públicos de la Comunidad de Madrid
 
 ## Preámbulo
@@ -56,7 +63,7 @@ terios uniformes de gestión, conforme a los principios de legalidad, eficacia, 
 igualdad, mérito y capacidad que han de regir los procedimientos de selección de emplea-
 dos públicos.
 Por cuanto antecede, esta Dirección General de Recursos Humanos, en virtud de las
-competencias conferidas en el Decreto 248/2023, de 11 de octubre, del Consejo de Gobier-
+competencias conferidas en el [Decreto 248/2023](../01_marco_normativo_general_y_organico/D248_2023_estructura_organica_consejeria_educacion_ciencia_universidades_madrid.md), de 11 de octubre, del Consejo de Gobier-
 no, por el que se establece la estructura orgánica de la Consejería de Educación, Ciencia y
 Universidades,
 RESUELVE
@@ -138,7 +145,7 @@ pedagógica y didáctica.
 Con carácter general, reunirán este requisito quienes estén en posesión del título ofi-
 cial de Máster universitario que habilite para el ejercicio de las profesiones de Profesor de
 Secundaria y Formación Profesional, de acuerdo con lo que se establece en el artículo 9 del
-Real decreto 1834/2008, de 8 de noviembre. La especialidad que conste en el citado título,
+[Real decreto 1834/2008](../../../estatal/02_gestion_y_administracion_centros/RD1834_2008_definen_condiciones_formacion_ejercicio_docencia_educacion.md), de 8 de noviembre. La especialidad que conste en el citado título,
 facultará para la presentación del aspirante a otras especialidades.
 Están dispensados de la posesión del citado título quienes acrediten haber obtenido,
 con anterioridad al 1 de octubre de 2009, alguno de los siguientes requisitos:
@@ -164,7 +171,7 @@ Que la fecha en la cual se obtuvo el título es anterior al 1 de octubre de 2009
 •
 Que el interesado ha superado un mínimo de 60 créditos relacionados con la
 formación pedagógica y didáctica que le aportan las competencias y conoci-
-mientos requeridos por la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+mientos requeridos por la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación.
 — Asimismo quienes hayan impartido docencia, antes del término del cur-
 so 2008/2009, es decir, antes del 31 de agosto 2009, durante dos cursos académi-
 cos completos o, en su defecto, 12 meses ejercidos en periodos continuos o dis-
@@ -180,7 +187,7 @@ ECI/3858/2007, de 27 de diciembre, esto es, quienes posean una titulación decla
 valente a efectos de docencia en las enseñanzas del citado nivel (Anexo VI, R.D. 276/2007,
 de 23 de febrero, “Boletín Oficial del Estado” de 2 de marzo de 2007), deberán aportar una
 certificación oficial que acredite estar en posesión de la formación pedagógica y didáctica
-equivalente a la exigida en el artículo 100.2 de la Ley Orgánica 2/2006, de 3 de mayo, de
+equivalente a la exigida en el artículo 100.2 de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de
 Educación. Quedan exceptuadas de este requisito quienes acrediten que, con anterioridad
 al 1 de septiembre de 2014, han impartido docencia durante dos cursos académicos com-
 pletos o, en su defecto, doce meses en períodos continuos o discontinuos, en centros públi-
@@ -265,7 +272,7 @@ momento de su presentación y envío, o autorizar a la Administración a recabar
 los datos contenidos en los documentos establecidos en la presente resolución. En el caso
 de que no prestará este consentimiento para la consulta y comprobación de sus datos, el in-
 teresado estará obligado con carácter general a aportar copia de los documentos correspon-
-dientes, de acuerdo con lo establecido en el artículo 28.3 de la Ley 39/2015.
+dientes, de acuerdo con lo establecido en el artículo 28.3 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md).
 Adicionalmente, en el apartado de “Sede electrónica” del portal de la Comunidad de
 Madrid ( sede.comunidad.madrid ) están disponibles las siguientes opciones:
 — “Aportación de documentos”, en el apartado “Aportar”, “Documentos”, permite
@@ -290,7 +297,7 @@ solicitud mediante representante:
 Copia del DNI del representante, en el supuesto de no autorizar su consulta.
 •
 Documento de otorgamiento de la representación.
-De acuerdo con lo establecido en el artículo 5 de la Ley 39/2015, de 1 de octubre, del
+De acuerdo con lo establecido en el artículo 5 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del
 Procedimiento Administrativo Común de las Administraciones Públicas, los interesados
 podrán actuar por medio de representante, entendiéndose con este las actuaciones adminis-
 trativas, salvo manifestación expresa en contra del interesado. La representación deberá
@@ -409,7 +416,7 @@ MIÉRCOLES 25 DE OCTUBRE DE 2023
 BOCM
 Noveno
 Recursos
-De conformidad con los artículos 115, 121 y 122 de la Ley 39/2015, de 1 de octubre,
+De conformidad con los artículos 115, 121 y 122 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre,
 del Procedimiento Administrativo Común de las Administraciones Públicas, esta Resolu-
 ción, que no agota la vía administrativa, podrá ser recurrida en alzada ante la Viceconseje-
 ría de Organización Educativa en el plazo de un mes, contado a partir del día siguiente al

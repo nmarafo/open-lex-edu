@@ -28,8 +28,18 @@ relaciones:
   - norma_id: norm-es-lo-2-2006
   fundamentado_en:
   - norma_id: norm-and-l17-2007
+fundamentos_derecho:
+- norma_id: norm-and-l12-2007-promocion-igualdad-genero-andalucia
+- norma_id: norm-and-l17-2007
+- norma_id: norm-and-l6-2006-gobierno-comunidad-autonoma-andalucia
+- norma_id: norm-and-l9-2007-administracion-junta-andalucia-laja
+- norma_id: norm-and-d-71-2009
+- norma_id: norm-and-d25-2007-prevencion-riesgos-laborales-salud-trabajo-centros-docentes-andalucia
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
 ---
-
 # Decreto 15/2012, de 7 de febrero, por el que se aprueba el Reglamento Orgánico de las Escuelas Oficiales de Idiomas en la Comunidad Autónoma de Andalucía.
 
 ## Preámbulo
@@ -57,13 +67,13 @@ la Constitución, a tenor del cual corresponde al Estado dictar
 las normas básicas para el desarrollo del artículo 27 del texto 
 constitucional, a fin de garantizar el cumplimiento de las obli-
 gaciones de los poderes públicos en esta materia.
-La Ley Orgánica 2/2006, de 3 de mayo, de Educación, 
+La [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, 
 ha introducido importantes novedades en la organización, fun-
 cionamiento y gobierno de las escuelas oficiales de idiomas, 
 profundizando en los conceptos de participación de la comu-
 nidad educativa y de autonomía pedagógica, organizativa y de 
 gestión.
-Por otra parte, la Ley 17/2007, de 10 de diciembre, de 
+Por otra parte, la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre, de 
 Educación de Andalucía, reconoce dichos principios al dedicar 
 el Título I a la comunidad educativa: alumnado, profesorado, al 
 que concede el papel relevante que representa en el sistema 
@@ -91,7 +101,7 @@ mas, donde se pueda atender todo tipo de formación lingüís-
 tica y se canalicen planes especiales que, con carácter per-
 manente o de forma coyuntural, se considere oportuno poner 
 en marcha para la consecución de los fines de dicho plan. 
-Así, la propia Ley 17/2007, de 10 de diciembre, en su artículo 
+Así, la propia [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre, en su artículo 
 102.3, ha encomendado a las mismas la formación lingüística 
 del profesorado, especialmente del que imparta materias de 
 su especialidad en una lengua extranjera, así como de otros 
@@ -112,7 +122,7 @@ boración de un nuevo marco regulador que responda de ma-
 nera más ajustada a los requerimientos que nuestra sociedad 
 y, por consiguiente, nuestros centros tienen hoy.
 Todo ello, junto con la necesidad de concretar y desa-
-rrollar los aspectos regulados en la Ley 17/2007, de 10 de 
+rrollar los aspectos regulados en la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de 
 diciembre, requiere la derogación del reglamento de organi-
 zación y funcionamiento de las escuelas oficiales de idiomas 
 actualmente en vigor.
@@ -150,7 +160,7 @@ tal, de manera que el alumnado sea partícipe en la edificación
 de la sociedad del conocimiento.
 Por otra parte, la atribución de mayores competencias a 
 los directores y directoras, en desarrollo de lo establecido en 
-la mencionada Ley 17/2007, de 10 de diciembre, junto con 
+la mencionada [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre, junto con 
 la simplificación administrativa, constituyen indudablemente 
 un novedoso marco regulador de la organización y funciona-
 miento de las escuelas oficiales de idiomas respecto al modelo 
@@ -187,7 +197,7 @@ conformidad en lo establecido en el artículo 45.1.c) de la Ley
 tónoma de Andalucía.
 En su virtud, a propuesta del Consejero de Educación, 
 de conformidad con lo establecido en los artículos 27.9 de la 
-Ley 6/2006, de 24 de octubre, de acuerdo con el Consejo 
+[Ley 6/2006](../01_marco_normativo_general_y_organico/L6_2006_gobierno_comunidad_autonoma_andalucia.md), de 24 de octubre, de acuerdo con el Consejo 
 Consultivo de Andalucía y previa deliberación del Consejo de 
 Gobierno en su reunión del día 7 de febrero de 2012,
 D I S P O N G O
@@ -205,7 +215,7 @@ convenios.
 Disposición adicional segunda. Requisitos de las escuelas 
 oficiales de idiomas de nueva creación.
 1. De conformidad con lo dispuesto en el artículo 103 de 
-la Ley 17/2007, de 10 de diciembre, de Educación de Andalu-
+la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre, de Educación de Andalu-
 cía, las escuelas oficiales de idiomas de nueva creación que 
 impartan las enseñanzas de idiomas de régimen especial de-
 berán situarse en edificios destinados exclusivamente a uso 
@@ -316,7 +326,7 @@ se aprueba mediante el presente Decreto reproducen normas
 dictadas por el Estado al amparo del artículo 149.1.1ª y 30ª 
 de la Constitución Española y recogidas en las Ley Orgánica 
 8/1985, de 3 de julio, reguladora del Derecho a la Educación, 
-y en la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+y en la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación.
 Disposición final tercera. Reproducción de normativa au-
 tonómica.
 Los artículos 2, 3, 8, 14.1, 14.2, 14.3, 14.4, 15.3, 16, 
@@ -327,9 +337,9 @@ d) y j), 27.1, 27.3, 27,4, 28.1, 48.2, 50.4, 51 epígrafes b) y f),
 72.3, 78.2, 86,2, 90.3 y 92.3 del Reglamento Orgánico que 
 se aprueba mediante el presente Decreto reproducen normas 
 dictadas por la Comunidad Autónoma de Andalucía y recogi-
-das en la Ley 17/2007, de 10 de diciembre, de Educación de 
-Andalucía, en la Ley 9/2007, de 22 de octubre, de la Adminis-
-tración de la Junta de Andalucía, en la Ley 12/2007, de 26 
+das en la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre, de Educación de 
+Andalucía, en la [Ley 9/2007](../01_marco_normativo_general_y_organico/L9_2007_administracion_junta_andalucia_laja.md), de 22 de octubre, de la Adminis-
+tración de la Junta de Andalucía, en la [Ley 12/2007](../01_marco_normativo_general_y_organico/L12_2007_promocion_igualdad_genero_andalucia.md), de 26 
 de noviembre, para la promoción de la igualdad de género en 
 Andalucía, y en la Ley 13/2007, de 26 de noviembre, de pre-
 vención y protección integral contra la violencia de género.
@@ -529,7 +539,7 @@ objeto el centro, así como del Plan de Centro establecido por
 la misma.
 4. Las asociaciones del alumnado se inscribirán en el 
 Censo de Entidades Colaboradoras de la Enseñanza, a que 
-se refiere el Decreto 71/2009, de 31 de marzo, por el que se 
+se refiere el [Decreto 71/2009](../02_gestion_y_administracion_centros/D71_2009_regula_censo_entidades_colaboradoras_ensenanza_andalucia.md), de 31 de marzo, por el que se 
 regula el Censo de Entidades Colaboradoras de la Enseñanza.
 TÍTULO II
 EL PROFESORADO
@@ -857,7 +867,7 @@ Artículo 22. Disposiciones generales.
 1. Las escuelas oficiales de idiomas contarán con autono-
 mía pedagógica, de organización y de gestión para poder llevar 
 a cabo modelos de funcionamiento propios, en el marco de la 
-Ley Orgánica 2/2006, de 3 de mayo, y de la Ley 17/2007, 
+[Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, y de la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), 
 de 10 de diciembre, en los términos recogidos en este Regla-
 mento y en las normas que lo desarrollen. 
 2. Los modelos de funcionamiento propios, que podrán 
@@ -917,7 +927,7 @@ dinamizador de la zona donde está ubicada.
 2. El proyecto educativo definirá los objetivos particu-
 lares que la escuela oficial de idiomas se propone alcanzar, 
 partiendo de su realidad y tomando como referencia la Ley 
-Orgánica 2/2006, de 3 de mayo, y la Ley 17/2007, de 10 de 
+Orgánica 2/2006, de 3 de mayo, y la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de 
 diciembre, acerca de los principios que orientan cada uno de 
 los niveles que se imparten en la escuela y las correspondien-
 tes prescripciones acerca del currículo.
@@ -1023,7 +1033,7 @@ f) El plan de autoprotección de la escuela.
 g) Las normas sobre la utilización en la escuela de teléfo-
 nos móviles y otros aparatos electrónicos, así como el proce-
 dimiento para garantizar el acceso seguro a internet del alum-
-nado, de acuerdo con lo dispuesto en el Decreto 25/2007, 
+nado, de acuerdo con lo dispuesto en el [Decreto 25/2007](./D25_2007_prevencion_riesgos_laborales_salud_trabajo_centros_docentes_andalucia.md), 
 de 6 de febrero, por el que se establecen medidas para el 
 fomento, la prevención de riesgos y la seguridad en el uso de 
 internet y las tecnologías de la información y la comunicación 
@@ -1522,7 +1532,7 @@ las conductas de los alumnos y alumnas a que se refiere el
 artículo 37, podrán ser revisadas por el Consejo Escolar a 
 instancia de los padres, madres o representantes legales del 
 alumnado, de acuerdo con lo establecido en el artículo 127 de 
-la Ley Orgánica 2/2006, de 3 de mayo. A tales efectos, la per-
+la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo. A tales efectos, la per-
 sona que ejerza la dirección del centro convocará una sesión 
 extraordinaria del Consejo Escolar en el plazo máximo de dos 
 días lectivos, contados desde que se presente la correspon-
@@ -1626,7 +1636,7 @@ escuelas oficiales de idiomas será el establecido en el Capítulo
 Sevilla, 20 de febrero 2012 
 BOJA núm. 34 
 Página núm. 17
-II del Título IV de la Ley 9/2007, de 22 de octubre, en el Capí-
+II del Título IV de la [Ley 9/2007](../01_marco_normativo_general_y_organico/L9_2007_administracion_junta_andalucia_laja.md), de 22 de octubre, en el Capí-
 tulo II del Título II de la Ley 30/1992, de 26 de noviembre, y 
 demás normativa aplicable.
 Sección 1.ª El Consejo Escolar
@@ -1708,7 +1718,7 @@ de alumnos matriculados en la escuela.
 tores de la comunidad educativa en el Consejo Escolar se rea-
 lizará de forma que permita la representación equilibrada de 
 hombres y mujeres, de conformidad con lo establecido en el 
-artículo 19.2 de la Ley 9/2007, de 22 de octubre.
+artículo 19.2 de la [Ley 9/2007](../01_marco_normativo_general_y_organico/L9_2007_administracion_junta_andalucia_laja.md), de 22 de octubre.
 6. Una vez constituido el Consejo Escolar de la escuela, 
 éste designará una persona que impulse medidas educativas 
 que fomenten la igualdad real y efectiva entre hombres y mu-
@@ -1725,14 +1735,14 @@ tificación de la cuenta de gestión.
 c) Conocer las candidaturas a la dirección y los proyectos 
 de dirección presentados por las personas candidatas.
 d) Participar en la selección del director o directora del 
-centro en los términos que establece la Ley Orgánica 2/2006, 
+centro en los términos que establece la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), 
 de 3 de mayo. Ser informado del nombramiento y cese de 
 los demás miembros del equipo directivo. En su caso, previo 
 acuerdo de sus miembros, adoptado por mayoría de dos ter-
 cios, proponer la revocación del nombramiento del director o 
 directora.
 e) Decidir sobre la admisión del alumnado con sujeción 
-a lo establecido en la Ley Orgánica 2/2006, de 3 de mayo, y 
+a lo establecido en la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, y 
 disposiciones que la desarrollen.
 f) Conocer la resolución de conflictos disciplinarios y velar 
 porque se atengan al presente Reglamento y demás normativa 
@@ -2163,7 +2173,7 @@ ción, de la innovación y de la investigación pedagógica y en la
 formación del profesorado del centro.
 f) Elegir sus representantes en el Consejo Escolar del cen-
 tro y participar en la selección del director o directora en los 
-términos establecidos en la Ley Orgánica 2/2006, de 3 de 
+términos establecidos en la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de 
 mayo, y demás normativa de aplicación.
 g) Conocer las candidaturas a la dirección y los proyectos 
 de dirección presentados por las personas candidatas.
@@ -2393,7 +2403,7 @@ Artículo 73. Selección, nombramiento y cese de la per-
 sona titular de la dirección.
 La selección, nombramiento y cese de la persona que 
 ejerza la dirección de las escuelas oficiales de idiomas se reali-
-zará, según lo establecido en la Ley Orgánica 2/2006, de 3 de 
+zará, según lo establecido en la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de 
 mayo, y en las disposiciones que la desarrollen.
 Artículo 74. Competencias de la persona que ejerza la vi-
 cedirección.

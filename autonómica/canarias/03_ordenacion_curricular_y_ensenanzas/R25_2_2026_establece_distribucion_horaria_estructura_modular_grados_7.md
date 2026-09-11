@@ -121,9 +121,27 @@ relaciones:
   - norma_id: norm-can-res-032
   - norma_id: norm-can-res-boc-2024-226-44
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-046-750.pdf
+fundamentos_derecho:
+- norma_id: norm-can-d-212-1991
+- norma_id: norm-can-d-84-2024
+- norma_id: norm-can-l-6-2014
+- norma_id: norm-can-lo-1-2018
+- norma_id: norm-can-res-033
+- norma_id: norm-can-res-034
+- norma_id: norm-can-res-035
+- norma_id: norm-can-res-036
+- norma_id: norm-can-res-037
+- norma_id: norm-can-res-038
+- norma_id: norm-can-res-032
+- norma_id: norm-can-res-boc-2024-226-44
+- norma_id: norm-can-res-boc-2024-230-25
+- norma_id: norm-can-res-134
+- norma_id: norm-es-l-39-2015
+- norma_id: norm-es-lo-3-2022
+- norma_id: norm-es-rd-659-2023
+- norma_id: norm-es-2025-2039
 ---
-
-# Resolución de 25 de febrero de 2026, por la que se establece la distribución horaria y estructura modular de los Grados C (Certificados Profesionales) y sus correspondientes Grados B (Certificados de Competencia), de niveles 2 y 3, de las familias profesionales de Industrias Alimentarias; Seguridad y Medio Ambiente; Textil, Confección y Piel; y Transporte y Mantenimiento de Vehículos, en el ámbito de la Comunidad Autónoma de Canarias.
+# [Resolución de 25 de febrero de 2026](./R25_2_2026_establece_distribucion_horaria_estructura_modular_grados.md), por la que se establece la distribución horaria y estructura modular de los Grados C (Certificados Profesionales) y sus correspondientes Grados B (Certificados de Competencia), de niveles 2 y 3, de las familias profesionales de Industrias Alimentarias; Seguridad y Medio Ambiente; Textil, Confección y Piel; y Transporte y Mantenimiento de Vehículos, en el ámbito de la Comunidad Autónoma de Canarias.
 
 ## Preámbulo
 
@@ -148,7 +166,7 @@ Sexto.- El [Decreto 84/2024](../01_marco_normativo_general_y_organico/D84_2024_a
 Séptimo.- Mediante [Resolución de 30 de octubre de 2024](R30_10_2024_dictan_instrucciones_orientaciones_implantacion_desarrollo_grados.md), de la Dirección General de Formación Profesional y Enseñanzas de Régimen Especial, se dictaron instrucciones y orientaciones para la implantación y desarrollo de los Grados D y E, a partir del curso escolar 2024/2025, estableciéndose, asimismo, la distribución horaria y modular de dichos currículos en el ámbito autonómico de la Comunidad Autónoma de Canarias.
 Octavo.- Con fecha 25 de abril de 2025 se aprobó la Resolución de la Dirección General de Formación Profesional y Enseñanzas de Régimen Especial, por la que se amplía la Resolución de 21 de febrero de 2025, que dicta instrucciones para la implantación de los
 
-itinerarios formativos de Formación Profesional Adaptada y el desarrollo de los currículos de los módulos de carácter general a partir del curso escolar 2024/2025, en el ámbito de la Comunidad Autónoma de Canarias, y la [Resolución de 30 de octubre de 2024](./R30_10_2024_dictan_instrucciones_orientaciones_implantacion_desarrollo_grados.md), por la que se dictan instrucciones y orientaciones para la implantación y desarrollo de los Grados de Formación D y E, a partir del curso escolar 2024/2025, y se establece la distribución horaria y modular de los currículos, en el ámbito de la Comunidad Autónoma de Canarias. En atención a lo anteriormente indicado, en ejercicio de las competencias atribuidas a la Viceconsejería de Formación Profesional y Cualificaciones Profesionales en el artículo 9, apartado 2, del [Decreto 84/2024](../01_marco_normativo_general_y_organico/D84_2024_aprueba_reglamento_organico_formacion_profesional_actividad.md), de 10 de junio, por el que se aprueba el Reglamento Orgánico de la Consejería de Educación, Formación Profesional, Actividad Física y Deportes, y el desempeño de las funciones previstas en los artículos 11 y 20.1 del Decreto 212/1991, de 11 de septiembre, de organización de los Departamentos de la Administración Autonómica de Canarias,
+itinerarios formativos de Formación Profesional Adaptada y el desarrollo de los currículos de los módulos de carácter general a partir del curso escolar 2024/2025, en el ámbito de la Comunidad Autónoma de Canarias, y la [Resolución de 30 de octubre de 2024](./R30_10_2024_dictan_instrucciones_orientaciones_implantacion_desarrollo_grados.md), por la que se dictan instrucciones y orientaciones para la implantación y desarrollo de los Grados de Formación D y E, a partir del curso escolar 2024/2025, y se establece la distribución horaria y modular de los currículos, en el ámbito de la Comunidad Autónoma de Canarias. En atención a lo anteriormente indicado, en ejercicio de las competencias atribuidas a la Viceconsejería de Formación Profesional y Cualificaciones Profesionales en el artículo 9, apartado 2, del [Decreto 84/2024](../01_marco_normativo_general_y_organico/D84_2024_aprueba_reglamento_organico_formacion_profesional_actividad.md), de 10 de junio, por el que se aprueba el Reglamento Orgánico de la Consejería de Educación, Formación Profesional, Actividad Física y Deportes, y el desempeño de las funciones previstas en los artículos 11 y 20.1 del [Decreto 212/1991](../01_marco_normativo_general_y_organico/D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md), de 11 de septiembre, de organización de los Departamentos de la Administración Autonómica de Canarias,
 RESUELVO:
 Primero.- Aprobar la distribución horaria y la estructura modular de los Grados C (Certificados Profesionales) y sus correspondientes Grados B (Certificados de Competencia) de niveles 2 y 3 de la familia profesional de Industrias Alimentarias, en los términos recogidos en el Anexo I de la presente Resolución.
 Segundo.- Aprobar la distribución horaria y la estructura modular de los Grados C (Certificados Profesionales) y sus correspondientes Grados B (Certificados de Competencia) de niveles 2 y 3 de la familia profesional de Seguridad y Medio Ambiente, en los términos recogidos en el Anexo II de la presente Resolución.

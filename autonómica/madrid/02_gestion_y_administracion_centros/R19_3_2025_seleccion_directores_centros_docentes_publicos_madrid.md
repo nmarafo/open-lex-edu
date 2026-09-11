@@ -26,8 +26,9 @@ tags:
 - centros_publicos
 - equipos_directivos
 - madrid
+fundamentos_derecho:
+- norma_id: norm-es-l-39-2015
 ---
-
 # Resolución de 19 de marzo de 2025, del Director General de Recursos Humanos, por la que se declara la tramitación de urgencia de los procedimientos de renovación y selección del puesto de dirección convocados por Resolución de 25 de noviembre de 2024, de la Dirección General de Recursos Humanos
 
 ## Preámbulo
@@ -64,7 +65,7 @@ RESUELVE
 Primero
 Acordar la aplicación de la tramitación de urgencia a los procedimientos de renova-
 ción y selección del puesto de dirección de los centros educativos públicos no universita-
-rios de la Comunidad de Madrid, en aplicación del artículo 33.1 de la Ley 39/2015, de 1 de
+rios de la Comunidad de Madrid, en aplicación del artículo 33.1 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de
 octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.
 Es por ello que se reducen a la mitad todos los plazos que afecten a la tramitación de
 los procedimientos de renovación y selección del puesto de dirección que estén por reali-
@@ -73,7 +74,7 @@ presentación de solicitudes y recursos.
 Segundo
 Contra la presente resolución no cabe recurso alguno, sin perjuicio del proceden-
 te contra la resolución que ponga fin al procedimiento, de conformidad con el artícu-
-lo 33.2 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común
+lo 33.2 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Administrativo Común
 de las Administraciones Públicas.
 Madrid, a 19 de marzo de 2025.—El Director General de Recursos Humanos, Miguel
 José Zurita Becerril.

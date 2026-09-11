@@ -58,8 +58,18 @@ relaciones:
   - norma_id: norm-can-l-6-2014
     articulos_destino:
     - Art. 54
+fundamentos_derecho:
+- norma_id: norm-can-l-2-1987
+- norma_id: norm-can-l-6-2014
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-es-1984-17387
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-rdl-5-2015
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
+- norma_id: norm-es-rd-276-2007
+- norma_id: norm-es-2007-5478
 ---
-
 # Decreto 88/2026, de 18 de mayo, por el que se aprueba la Oferta de Empleo Público de personal docente no universitario para el año 2026.
 
 ## Preámbulo
@@ -70,16 +80,16 @@ Consejería de Presidencia, Administraciones Públicas, Justicia y Seguridad
 de personal docente no universitario para el año 2026.
 La Oferta de Empleo Público viene determinada en el artículo 70 del texto refundido 
 de la Ley del Estatuto Básico del Empleado Público (en adelante, TREBEP), aprobado por 
-el Real Decreto Legislativo 5/2015, de 30 de octubre, y en el artículo 70 de la Ley 2/1987, 
+el [Real Decreto Legislativo 5/2015](../../../estatal/01_marco_normativo_general_y_organico/RDL5_2015_aprueba_texto_refundido_ley_estatuto_basico.md), de 30 de octubre, y en el artículo 70 de la [Ley 2/1987](../01_marco_normativo_general_y_organico/L2_1987_funcion_publica_canaria.md), 
 de 30 de marzo, de la Función Pública Canaria.
-La Ley Orgánica 2/2006, de 3 de mayo, de Educación, en su disposición adicional 
-duodécima, contiene normas que, junto con las recogidas en la Ley 30/1984, de 2 de agosto, 
+La [Ley Orgánica 2/2006](../05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, en su disposición adicional 
+duodécima, contiene normas que, junto con las recogidas en la [Ley 30/1984](../../../estatal/01_marco_normativo_general_y_organico/L30_1984_medidas_reforma_funcion_publica.md), de 2 de agosto, 
 de medidas para la reforma de la Función Pública, y en el citado texto refundido de la Ley 
 del Estatuto Básico del Empleado Público, constituyen, entre otras, las bases del régimen 
 estatutario de los funcionarios públicos docentes.
-El Real Decreto 276/2007, de 23 de febrero, por el que se aprueba el Reglamento de 
+El [Real Decreto 276/2007](../../../estatal/08_personal_docente/RD276_2007_aprueba_reglamento_ingreso_accesos_adquisicion_nuevas.md), de 23 de febrero, por el que se aprueba el Reglamento de 
 ingreso, accesos y adquisición de nuevas especialidades en los cuerpos docentes a que se 
-refiere la Ley Orgánica 2/2006, de 3 de mayo, de Educación,
+refiere la [Ley Orgánica 2/2006](../05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación,
 
 dispone en su artículo 3.1, 
 como requisito previo a las convocatorias para la provisión de plazas, la aprobación por las 
@@ -113,7 +123,7 @@ a iniciativa de las consejerías u organismos competentes y a propuesta de la Co
 de Presidencia, Administraciones Públicas, Justicia y Seguridad. En todos los casos, será 
 necesario el informe previo de la Dirección General de Planificación y Presupuesto con el 
 fin de valorar la repercusión en los costes de personal.
-La disposición adicional decimoséptima de la Ley 6/2014, de 25 de julio, Canaria de 
+La disposición adicional decimoséptima de la [Ley 6/2014](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md), de 25 de julio, Canaria de 
 Educación no Universitaria, dispone que la Administración educativa adoptará medidas 
 para que, en el marco fijado por la normativa general del Estado, se pueda reducir el 
 porcentaje del profesorado interino en los centros y servicios educativos, de manera que no 

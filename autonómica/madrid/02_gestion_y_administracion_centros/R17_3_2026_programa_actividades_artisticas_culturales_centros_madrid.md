@@ -1,7 +1,10 @@
 ---
 id: norm-mad-r17-3-2026-programa-actividades-artisticas-culturales-centros-madrid
-codigo_sintetizado: R17 3 2026 Programa Actividades Artisticas Culturales Centros Madrid
-titulo: Resolución de 17 de marzo de 2026, de la Dirección General de Enseñanzas Artísticas, por la que se convoca la prueba de acceso para formar parte del Programa Educativo “Coro de Niños y Jóvenes de la Comunidad de Madrid” del curso académico 2026-2027
+codigo_sintetizado: R17 3 2026 Programa Actividades Artisticas Culturales Centros
+  Madrid
+titulo: Resolución de 17 de marzo de 2026, de la Dirección General de Enseñanzas Artísticas,
+  por la que se convoca la prueba de acceso para formar parte del Programa Educativo
+  “Coro de Niños y Jóvenes de la Comunidad de Madrid” del curso académico 2026-2027
 jurisdiccion: Madrid
 ambito: Autonómico
 organo_emisor: Consejería de Educación, Ciencia y Universidades
@@ -18,22 +21,25 @@ clasificacion:
   categoria_canonica: 02_gestion_y_administracion_centros
   subcategoria: Programas y proyectos educativos
 tags:
-  - actividades_artisticas
-  - cultura
-  - centros_docentes
-  - proyectos_educativos
-  - madrid
+- actividades_artisticas
+- cultura
+- centros_docentes
+- proyectos_educativos
+- madrid
+fundamentos_derecho:
+- norma_id: norm-mad-d-95-2025
+- norma_id: norm-es-l-39-2015
+- norma_id: norm-es-lo-3-2018
 ---
-
 # Resolución de 17 de marzo de 2026, de la Dirección General de Enseñanzas Artísticas, por la que se convoca la prueba de acceso para formar parte del Programa Educativo “Coro de Niños y Jóvenes de la Comunidad de Madrid” del curso académico 2026-2027
 
 ## Preámbulo
 
-El Decreto 95/2025, de 23 de diciembre, del Consejo de Gobierno, por el que se crea el Programa Educativo de Actividades Artísticas de la Comunidad de Madrid tiene por objeto potenciar la práctica artística efectiva entre los ciudadanos de la Comunidad de Madrid y planificar las actividades artísticas como herramienta de aprendizaje. Además de ser un hecho de expresión lúdica y social en sí mismo, cada una de las actividades artísticas recogidas en este programa tiene como propósito despertar vocaciones y encauzar las capacidades innatas de los ciudadanos de la región hacia una futura integración en agrupaciones artísticas de carácter aficionado o hacia el acceso a las enseñanzas artísticas regladas y no regladas que se ofertan en el ámbito de la Comunidad de Madrid.
+El [Decreto 95/2025](../03_ordenacion_curricular_y_ensenanzas/D95_2025_creacion_programa_educativo_actividades_artisticas_madrid.md), de 23 de diciembre, del Consejo de Gobierno, por el que se crea el Programa Educativo de Actividades Artísticas de la Comunidad de Madrid tiene por objeto potenciar la práctica artística efectiva entre los ciudadanos de la Comunidad de Madrid y planificar las actividades artísticas como herramienta de aprendizaje. Además de ser un hecho de expresión lúdica y social en sí mismo, cada una de las actividades artísticas recogidas en este programa tiene como propósito despertar vocaciones y encauzar las capacidades innatas de los ciudadanos de la región hacia una futura integración en agrupaciones artísticas de carácter aficionado o hacia el acceso a las enseñanzas artísticas regladas y no regladas que se ofertan en el ámbito de la Comunidad de Madrid.
 
 El Coro de Niños y Jóvenes de la Comunidad de Madrid es una de las actividades que integran el Programa Educativo. La finalidad del Coro es ofrecer a los coralistas una formación vocal y musical de calidad que les permita alcanzar altos niveles artísticos mediante la interpretación de un repertorio variado y atractivo para los integrantes de la agrupación.
 
-El procedimiento de admisión de los coralistas se regula en el artículo 8 del citado Decreto 95/2025, de 23 de diciembre. En este se indica que la prueba de acceso para formar parte del Coro será convocada, con una periodicidad mínima anual, por la Dirección General con competencias en enseñanzas artísticas y tendrá como finalidad la incorporación de nuevos participantes.
+El procedimiento de admisión de los coralistas se regula en el artículo 8 del citado [Decreto 95/2025](../03_ordenacion_curricular_y_ensenanzas/D95_2025_creacion_programa_educativo_actividades_artisticas_madrid.md), de 23 de diciembre. En este se indica que la prueba de acceso para formar parte del Coro será convocada, con una periodicidad mínima anual, por la Dirección General con competencias en enseñanzas artísticas y tendrá como finalidad la incorporación de nuevos participantes.
 
 En consecuencia, resuelvo:
 
@@ -47,7 +53,7 @@ En consecuencia, resuelvo:
 
 #### Segundo. Presentación de solicitudes de participación en la prueba de acceso.
 
-1. Las solicitudes y la documentación que proceda deberán presentarse en el Registro Electrónico General de la Comunidad de Madrid a través del acceso habilitado para ello en el portal de internet de la Comunidad de Madrid (www.comunidad.madrid), en la dirección electrónica sede.comunidad.madrid o bien en los demás lugares previstos en el artículo 16.4 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.
+1. Las solicitudes y la documentación que proceda deberán presentarse en el Registro Electrónico General de la Comunidad de Madrid a través del acceso habilitado para ello en el portal de internet de la Comunidad de Madrid (www.comunidad.madrid), en la dirección electrónica sede.comunidad.madrid o bien en los demás lugares previstos en el artículo 16.4 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.
 
 Para presentar la solicitud por medios telemáticos es necesario disponer de uno de los Certificados Electrónicos reconocidos o cualificados de firma electrónica, que sean operativos en la Comunidad de Madrid y expedidos por prestadores incluidos en la lista de confianza de prestadores de servicios de certificación, o cualquier otro sistema de firma electrónica que la Comunidad de Madrid considere válido en los términos y condiciones que se establezcan específicamente para cada tipo de firma.
 
@@ -97,7 +103,7 @@ La relación de coralistas admitidos y la lista de reserva se publicarán en la 
 
 #### Noveno. Protección de datos.
 
-1. En lo referente a la obtención de los datos personales de los participantes y/o sus representantes legales y a la seguridad y confidencialidad de estos, se atenderá a lo dispuesto en el Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo, de 27 de abril de 2016, relativo a la protección de las personas físicas en lo que respecta al tratamiento de datos personales y en lo establecido en la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales.
+1. En lo referente a la obtención de los datos personales de los participantes y/o sus representantes legales y a la seguridad y confidencialidad de estos, se atenderá a lo dispuesto en el Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo, de 27 de abril de 2016, relativo a la protección de las personas físicas en lo que respecta al tratamiento de datos personales y en lo establecido en la [Ley Orgánica 3/2018](../../../estatal/02_gestion_y_administracion_centros/LO3_2018_proteccion_datos_personales_garantia_derechos_digitales.md), de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales.
 
 2. La Dirección General de Enseñanzas Artísticas será el órgano responsable del tratamiento de los datos ante la que se podrán ejercitar los derechos de acceso, rectificación, oposición, supresión, limitación, portabilidad, así como a no ser objeto de decisiones individuales automatizadas.
 

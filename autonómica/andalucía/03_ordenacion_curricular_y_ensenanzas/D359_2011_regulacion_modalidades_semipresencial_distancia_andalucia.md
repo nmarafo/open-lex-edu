@@ -1,6 +1,10 @@
 ---
 id: norm-and-d359-2011-regulacion-modalidades-semipresencial-distancia-andalucia
-titulo: Decreto 359/2011, de 7 de diciembre, por el que se regulan las modalidades semipresencial y a distancia de las enseñanzas de Formación Profesional Inicial, de Educación Permanente de Personas Adultas, especializadas de idiomas y deportivas, se crea el Instituto de Enseñanzas a Distancia de Andalucía y se establece su estructura orgánica y funcional.
+titulo: Decreto 359/2011, de 7 de diciembre, por el que se regulan las modalidades
+  semipresencial y a distancia de las enseñanzas de Formación Profesional Inicial,
+  de Educación Permanente de Personas Adultas, especializadas de idiomas y deportivas,
+  se crea el Instituto de Enseñanzas a Distancia de Andalucía y se establece su estructura
+  orgánica y funcional.
 jurisdiccion: Andalucía
 ambito: Autonómico
 organo_emisor: Dirección General de Profesorado y Gestión de Recursos Humanos
@@ -17,8 +21,20 @@ fuente_pdf_oficial: http://www.juntadeandalucia.es/boja/2011/251/d2.pdf
 clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Educación a distancia y de personas adultas
+fundamentos_derecho:
+- norma_id: norm-and-l17-2007
+- norma_id: norm-and-l9-2007-administracion-junta-andalucia-laja
+- norma_id: norm-and-d-151-1997
+- norma_id: norm-and-d285-2010-regulacion-sistema-informacion-seneca-andalucia
+- norma_id: norm-and-d301-2009
+- norma_id: norm-and-d327-2010
+- norma_id: norm-and-d-40-2011
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2007-19326
+- norma_id: norm-es-2010-12201
 ---
-
 # Decreto 359/2011, de 7 de diciembre, por el que se regulan las modalidades semipresencial y a distancia de las enseñanzas de Formación Profesional Inicial, de Educación Permanente de Personas Adultas, especializadas de idiomas y deportivas, se crea el Instituto de Enseñanzas a Distancia de Andalucía y se establece su estructura orgánica y funcional.
 
 ## Preámbulo
@@ -40,13 +56,13 @@ ponde al Estado dictar las normas básicas para el desarrollo
 del artículo 27 del texto constitucional, a fin de garantizar el 
 cumplimiento de las obligaciones de los poderes públicos en 
 esta materia.
-La Ley Orgánica 2/2006, de 3 de mayo, de Educación, 
+La [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, 
 contempla en el artículo 3.9 que, para garantizar el derecho 
 a la educación de quienes no puedan asistir de modo regular 
 a los centros docentes, se desarrollará una oferta adecuada 
 de educación a distancia o, en su caso, de apoyo o atención 
 educativa específica.
-La Ley 17/2007, de 10 de diciembre, de Educación de 
+La [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre, de Educación de 
 Andalucía, establece en su artículo 4.1.a), entre los principios 
 básicos en los que se fundamenta el sistema educativo anda-
 luz, la formación integral del alumnado en sus dimensiones 
@@ -279,7 +295,7 @@ CAPÍTULO II
 Ordenación de las enseñanzas
 Artículo 5. Oferta de enseñanzas.
 1. De acuerdo con lo establecido en los artículos 75, 
-102.4, 104.3 y 110 de la Ley 17/2007, de 10 de diciembre, 
+102.4, 104.3 y 110 de la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre, 
 de Educación de Andalucía, se podrán impartir en la modalida-
 des semipresencial y a distancia las enseñanzas de formación 
 profesional inicial, las de educación permanente de personas 
@@ -302,7 +318,7 @@ previamente autorizados por la Consejería competente en ma-
 teria de educación.
 3. El calendario y la jornada escolar en las modalidades 
 semipresencial y a distancia serán los establecidos para la en-
-señanza de que se trate en el Decreto 301/2009, de 14 de 
+señanza de que se trate en el [Decreto 301/2009](../04_organizacion_escolar_y_funcionamiento/D301_2009_regulacion_calendario_jornada_escolar_andalucia.md), de 14 de 
 julio, por el que se regula el calendario y la jornada escolar 
 en los centros docentes, a excepción de los universitarios. No 
 obstante, en el caso de enseñanzas impartidas a distancia, 
@@ -587,7 +603,7 @@ de que se trate.
 b) Ser mayor de dieciocho años o cumplirlos en el año 
 natural en que comience el curso académico.
 2. De conformidad con lo establecido en el artículo 105.2 
-de la Ley 17/2007, de 10 de diciembre, y en los artículos 9.8 
+de la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre, y en los artículos 9.8 
 del Real Decreto 971/2007, de 13 de julio, sobre deportistas 
 de alto nivel y de alto rendimiento, y 26 del Decreto 336/2009, 
 de 22 de septiembre, por el que se regula el Deporte de Ren-
@@ -776,7 +792,7 @@ se desea cursar.
 2. En el caso de que tras la aplicación de los criterios de 
 prioridad establecidos en el apartado anterior se produjera 
 empate entre varias solicitudes, éste se resolverá por sorteo, 
-conforme a lo dispuesto en el artículo 34 del Decreto 40/2011, 
+conforme a lo dispuesto en el artículo 34 del [Decreto 40/2011](../05_alumnado_y_servicios_escolares/D40_2011_criterios_procedimiento_admision_alumnado_centros_docentes_andalucia.md), 
 de 22 de febrero, por el que se regulan los criterios y el pro-
 cedimiento de admisión del alumnado en los centros docentes 
 públicos y privados concertados para cursar las enseñanzas de 
@@ -795,7 +811,7 @@ al menos, un 5% de las plazas para el alumnado que tenga re-
 conocido un grado de discapacidad igual o superior al treinta 
 y tres por ciento.
 2. De conformidad con lo recogido en el artículo 34.2 
-del Real Decreto 1363/2007, de 24 de octubre, por el que 
+del [Real Decreto 1363/2007](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1363_2007_establece_ordenacion_general_ensenanzas_deportivas_regimen.md), de 24 de octubre, por el que 
 se establece la ordenación general de las enseñanzas depor-
 tivas de régimen especial, y en el artículo 26.4.c) del Decreto 
 336/2009, de 22 de septiembre, en las enseñanzas deporti-
@@ -812,7 +828,7 @@ c) Al menos un 10% de las plazas ofertadas para quienes
 acrediten, según el caso, la homologación de su diploma fe-
 derativo, o la convalidación, o la correspondencia a las que se 
 refieren la disposición adicional cuarta y la disposición transi-
-toria primera del Real Decreto 1363/2007, de 24 de octubre.
+toria primera del [Real Decreto 1363/2007](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1363_2007_establece_ordenacion_general_ensenanzas_deportivas_regimen.md), de 24 de octubre.
 3. En las enseñanzas de formación profesional inicial se 
 reservará, al menos, un 30% de las plazas para el alumnado 
 que acceda acreditando la superación de alguna de las vías 
@@ -915,7 +931,7 @@ de la prueba realizada.
 público o del Instituto de Enseñanzas a Distancia de Andalucía 
 incorporará al expediente del procedimiento de admisión la co-
 rrespondiente certificación académica emitida por el sistema 
-de información Séneca, regulado por el Decreto 285/2010, 
+de información Séneca, regulado por el [Decreto 285/2010](../02_gestion_y_administracion_centros/D285_2010_regulacion_sistema_informacion_seneca_andalucia.md), 
 de 11 de mayo, por el que se regula el Sistema de Informa-
 ción Séneca y se establece su utilización para la gestión del 
 sistema educativo andaluz. En el caso de que dicho sistema 
@@ -1101,7 +1117,7 @@ gación Provincial correspondiente o en cualquiera de los luga-
 res determinados en el artículo 38.4 de la Ley 30/1992, de 26 
 de noviembre, de Régimen Jurídico de las Administraciones 
 Públicas y del Procedimiento Administrativo Común, y en el 
-artículo 82 de la Ley 9/2007, de 22 de octubre, de la Adminis-
+artículo 82 de la [Ley 9/2007](../01_marco_normativo_general_y_organico/L9_2007_administracion_junta_andalucia_laja.md), de 22 de octubre, de la Adminis-
 tración de la Junta de Andalucía.
 3. Asimismo, de acuerdo con lo establecido en el artículo 
 17.4 de la Ley 17/2009, de 23 de noviembre, sobre el libre 
@@ -1126,7 +1142,7 @@ la autorización.
 5. En el supuesto de que los documentos requeridos se 
 encontraran ya en poder de la Administración de la Junta de 
 Andalucía, la persona interesada podrá ejercitar el derecho 
-previsto en el artículo 84.3 de la Ley 9/2007, de 22 de octu-
+previsto en el artículo 84.3 de la [Ley 9/2007](../01_marco_normativo_general_y_organico/L9_2007_administracion_junta_andalucia_laja.md), de 22 de octu-
 bre, siempre que indique la fecha y el procedimiento en que 
 los presentó. En caso de imposibilidad material de obtener el 
 documento, el órgano que instruya el procedimiento de autori-
@@ -1278,7 +1294,7 @@ en la modalidad semipresencial se realizará por Orden de la
 persona titular de la Consejería competente en materia de 
 educación, de acuerdo con la planificación educativa, y que-
 dará inscrita en el Registro de Centros Docentes regulado en 
-el Decreto 151/1997, de 27 de mayo.
+el [Decreto 151/1997](../02_gestion_y_administracion_centros/D151_1997_crea_regula_registro_centros_docentes_andalucia.md), de 27 de mayo.
 2. La Consejería competente en materia de educación de-
 terminará cada curso escolar, a través de sus Delegaciones 
 Provinciales, los centros docentes públicos de educación per-
@@ -1307,7 +1323,7 @@ rado que imparta docencia en dicha modalidad de enseñanza.
 El régimen de nombramiento y cese de las personas titulares 
 de las jefaturas de estudios adjuntas será el establecido en los 
 artículos 78 y 79 del Reglamento Orgánico de los institutos de 
-educación secundaria, aprobado por el Decreto 327/2010, de 
+educación secundaria, aprobado por el [Decreto 327/2010](../04_organizacion_escolar_y_funcionamiento/D327_2010_reglamento_organico_institutos_educacion_secundaria_andalucia.md), de 
 13 de julio. 
 2. Son competencias de la jefatura de estudios adjunta:
 a) Organizar, dinamizar e impulsar las acciones necesa-
@@ -1408,7 +1424,7 @@ Sección 1.ª Aspectos generales
 Artículo 35. Creación.
 1. Se crea el Instituto de Enseñanzas a Distancia de Anda-
 lucía como un servicio administrativo con gestión diferenciada 
-de los previstos en el artículo 15 de la Ley 9/2007, de 22 
+de los previstos en el artículo 15 de la [Ley 9/2007](../01_marco_normativo_general_y_organico/L9_2007_administracion_junta_andalucia_laja.md), de 22 
 de octubre, que estará adscrito a la Dirección General com-
 petente en materia de educación a distancia de la Consejería 
 competente en materia de educación.
@@ -1450,7 +1466,7 @@ Artículo 37. Autonomía pedagógica y de gestión.
 El Instituto de Enseñanzas a Distancia de Andalucía dispon-
 drá de autonomía pedagógica para el desarrollo de la educación a 
 distancia, así como de gestión económica en los términos estable-
-cidos en el artículo 129 de la Ley 17/2007, de 10 de diciembre.
+cidos en el artículo 129 de la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre.
 Artículo 38. El proyecto funcional y la memoria de auto-
 evalaución.
 1. El Instituto de Enseñanzas a Distancia de Andalucía 
@@ -1695,7 +1711,7 @@ vocalías se renovarán cada tres años y serán sustituidas por
 las personas suplentes que, al tiempo de su nombramiento, se 
 hayan designado.
 3. De conformidad con lo dispuesto en el artículo 19.2 de 
-la Ley 9/2007, de 22 de octubre, en la composición del Con-
+la [Ley 9/2007](../01_marco_normativo_general_y_organico/L9_2007_administracion_junta_andalucia_laja.md), de 22 de octubre, en la composición del Con-
 sejo de Dirección deberá respetarse la representación equili-
 brada de mujeres y hombres en los términos previstos en el 
 artículo 18.2 de dicha Ley.
@@ -1811,7 +1827,7 @@ cuya opinión se estime conveniente conocer en razón de sus
 conocimientos, prestigio u otras circunstancias, en cuyo caso 
 serán convocados por acuerdo de la Presidencia.
 8. De acuerdo con lo dispuesto en el artículo 91.3 de la 
-Ley 9/2007, de 22 de octubre, las sesiones del Consejo de 
+[Ley 9/2007](../01_marco_normativo_general_y_organico/L9_2007_administracion_junta_andalucia_laja.md), de 22 de octubre, las sesiones del Consejo de 
 Dirección podrán celebrarse mediante la asistencia de sus 
 miembros utilizando redes de comunicación a distancia, para 
 lo que se establecerán las medidas adecuadas que garanticen 
@@ -2005,7 +2021,7 @@ Artículo 52. La dirección.
 la persona titular de la Consejería competente en materia de 
 educación, de entre el profesorado funcionario de carrera per-
 teneciente a los cuerpos docentes recogidos en la disposición 
-adicional séptima de la Ley Orgánica 2/2006, de 3 de mayo, 
+adicional séptima de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, 
 con, al menos, cinco años de antigüedad en uno de ellos o, de 
 forma acumulada, en varios.
 2. El nombramiento se realizará por el procedimiento de 
@@ -2857,7 +2873,7 @@ Instituto.
 démica y laboral y de coordinación docente serán ejercidas, 
 con carácter preferente, por profesorado funcionario de los 
 cuerpos de catedráticos, de acuerdo con lo dispuesto en el 
-artículo 139.5 de la Ley 17/2007, de 10 de diciembre.
+artículo 139.5 de la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre.
 3. La propuesta procurará la participación equilibrada de 
 hombres y mujeres en los órganos de coordinación docente del 
 Instituto en los términos que se recogen en el artículo 58.2.
@@ -3079,12 +3095,12 @@ la Constitución, a tenor del cual corresponde al Estado dictar
 las normas básicas para el desarrollo del artículo 27 del texto 
 constitucional, a fin de garantizar el cumplimiento de las obli-
 gaciones de los poderes públicos en esta materia.
-La Ley Orgánica 2/2006, de 3 de mayo, de Educación, ha 
+La [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, ha 
 introducido importantes novedades en la organización, funcio-
 namiento y gobierno de los centros educativos, profundizando 
 en los conceptos de participación de la comunidad educativa y 
 de autonomía pedagógica, organizativa y de gestión.
-Por otra parte, la Ley 17/2007, de 10 de diciembre, de 
+Por otra parte, la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre, de 
 Educación de Andalucía, reconoce dichos principios al dedicar 
 el Título I a la comunidad educativa: alumnado, profesorado, al 
 que concede el papel relevante que representa en el sistema 
@@ -3112,7 +3128,7 @@ a los requerimientos que nuestra sociedad, y por consiguiente
 nuestros centros, tienen hoy.
 Los cambios mencionados en las leyes anteriores, junto 
 con la necesidad de concretar y desarrollar los aspectos re-
-gulados en la Ley 17/2007, de 10 de diciembre, requieren de 
+gulados en la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre, requieren de 
 la derogación del reglamento orgánico de las escuelas de arte 
 actualmente en vigor.
 Aspecto significativo del Reglamento que se aprueba por 

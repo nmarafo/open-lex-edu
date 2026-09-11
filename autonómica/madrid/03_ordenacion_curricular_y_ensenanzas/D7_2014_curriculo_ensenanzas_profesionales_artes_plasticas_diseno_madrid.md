@@ -25,8 +25,14 @@ tags:
 - diseno
 - curriculo_artes
 - madrid
+fundamentos_derecho:
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-mad-l12-1999-creacion-consejo-escolar-comunidad-madrid
+- norma_id: norm-mad-l1-1983-gobierno-administracion-comunidad-madrid
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
 ---
-
 # Currículo enseñanzas– Decreto 7/2014, de 30 de enero, del Consejo de Gobierno, por el que se establece el currículo y la organización de las enseñanzas elementales de música en la Comunidad de Madrid
 
 ## Preámbulo
@@ -37,7 +43,7 @@ Consejería de Educación, Juventud y Deporte
 DECRETO 7/2014, de 30 de enero, del Consejo de Gobierno, por el que se esta-
 blece el currículo y la organización de las enseñanzas elementales de música en
 la Comunidad de Madrid.
-La Ley Orgánica 2/2006, de 3 de mayo, de Educación, modificada por la Ley Orgáni-
+La [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, modificada por la Ley Orgáni-
 ca 8/2013, de 9 de diciembre, para la Mejora de la Calidad Educativa, dedica el capítulo VI
 del título I a las enseñanzas artísticas, entre las que se encuentran las enseñanzas elementa-
 les de música, estableciendo, en el artículo 48, que tendrán la organización que las Admi-
@@ -56,11 +62,11 @@ rico y el desarrollo de las destrezas necesarias para la práctica musical tanto
 como en grupo. Se asegura así una formación musical que proporciona el nivel de expre-
 sión artística necesario para la continuidad en estudios musicales más avanzados.
 En el proceso de elaboración de este Decreto ha emitido dictamen el Consejo Escolar
-de la Comunidad de Madrid, de acuerdo con el artículo 2.1.b) de la Ley 12/1999, de 29 de
+de la Comunidad de Madrid, de acuerdo con el artículo 2.1.b) de la [Ley 12/1999](../01_marco_normativo_general_y_organico/L12_1999_creacion_consejo_escolar_comunidad_madrid.md), de 29 de
 abril, de Creación del Consejo Escolar de la Comunidad de Madrid, modificada por el ar-
 tículo 29 de la Ley 9/2010, de 23 de diciembre.
 En virtud de todo lo anterior, de conformidad con lo dispuesto en el artículo 21 de la
-Ley 1/1983, de 13 de diciembre, de Gobierno y Administración de la Comunidad de
+[Ley 1/1983](../01_marco_normativo_general_y_organico/L1_1983_gobierno_administracion_comunidad_madrid.md), de 13 de diciembre, de Gobierno y Administración de la Comunidad de
 Madrid, a propuesta de la Consejera de Educación, Juventud y Deporte, de acuerdo con el
 Consejo Consultivo de la Comunidad de Madrid, y previa deliberación del Consejo de Go-
 bierno, en su reunión del día 30 de enero de 2014,
@@ -72,7 +78,7 @@ DISPONE
 El presente Decreto tiene por objeto establecer la organización y el currículo del plan
 de estudios común de las enseñanzas elementales de música en la Comunidad de Madrid, así
 como disponer el marco para que los centros puedan establecer proyectos propios, todo ello
-en virtud de lo establecido en los artículos 48 y 120 de la Ley Orgánica 2/2006, de 3 de mayo,
+en virtud de lo establecido en los artículos 48 y 120 de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo,
 de Educación.
 2.
 Esta norma será de aplicación en los centros públicos y privados de la Comunidad

@@ -46,8 +46,9 @@ relaciones:
   - norma_id: norm-can-l-6-2014
   articulos:
   - norma_id: '63'
+fundamentos_derecho:
+- norma_id: norm-es-lo-8-1985
 ---
-
 # Decreto 276/1997, de 27 de noviembre, por el que se regula el procedimiento de gestión económica de los centros docentes públicos no universitarios de la Comunidad Autónoma de Canarias.
 
 ## Preámbulo
@@ -67,7 +68,7 @@ relaciones:
 • Anterior
 • Siguiente 1997 - 1727
 
-Deportes 1727 - DECRETO 276/1997, de 27 de noviembre, por el que se regula el procedimiento de gestión económica de los centros docentes públicos no universitarios dependientes de la Consejería de Educación, Cultura y Deportes. [image] Descargar en formato pdf Con la entrada en vigor de la Ley Orgánica 8/1985, de 3 de julio, reguladora del Derecho a la Educación, y normas que la desarrollan, se promulgó el Decreto territorial 21/1987, de 13 de marzo, por el que se regula el procedimiento de gestión económica de los centros docentes públicos de niveles no universitarios y residencias escolares dependientes de la Comunidad Autónoma de Canarias, estableciendo un sistema que ha permitido una mayor autonomía y racionalización de la gestión, garantizando el necesario control y registro de las actuaciones derivadas de su actividad económica. La Ley 3/1989, de 24 de febrero, de Presupuestos Generales de la Comunidad Autónoma de Canarias para 1989, legislaba en su
+Deportes 1727 - DECRETO 276/1997, de 27 de noviembre, por el que se regula el procedimiento de gestión económica de los centros docentes públicos no universitarios dependientes de la Consejería de Educación, Cultura y Deportes. [image] Descargar en formato pdf Con la entrada en vigor de la [Ley Orgánica 8/1985](../../../estatal/02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md), de 3 de julio, reguladora del Derecho a la Educación, y normas que la desarrollan, se promulgó el Decreto territorial 21/1987, de 13 de marzo, por el que se regula el procedimiento de gestión económica de los centros docentes públicos de niveles no universitarios y residencias escolares dependientes de la Comunidad Autónoma de Canarias, estableciendo un sistema que ha permitido una mayor autonomía y racionalización de la gestión, garantizando el necesario control y registro de las actuaciones derivadas de su actividad económica. La Ley 3/1989, de 24 de febrero, de Presupuestos Generales de la Comunidad Autónoma de Canarias para 1989, legislaba en su
 
 #### Disposición adicional sexta. , los términos a los que debía acogerse.
 

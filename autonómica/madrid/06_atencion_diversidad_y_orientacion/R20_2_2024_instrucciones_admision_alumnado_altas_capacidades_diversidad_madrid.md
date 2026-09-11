@@ -27,8 +27,13 @@ tags:
 - educacion_especial
 - apoyo_educativo
 - madrid
+fundamentos_derecho:
+- norma_id: norm-mad-d248-2023
+- norma_id: norm-mad-d23-2023
+- norma_id: norm-mad-d-243-2023
+- norma_id: norm-es-l-39-2015
+- norma_id: norm-es-lo-3-2018
 ---
-
 # Resolución de 20 de febrero de 2024, de la Dirección General de Educación Infantil, Primaria y Especial, por la que se dictan instrucciones para el acceso al Centro Regional de Enriquecimiento Educativo para el alumnado con Altas Capacidades Intelectuales de la Comunidad de Madrid (CREACIM) a partir del curso escolar 2024-2025
 
 ## Preámbulo
@@ -40,7 +45,7 @@ Infantil, Primaria y Especial, por la que se dictan instrucciones para el acceso
 al Centro Regional de Enriquecimiento Educativo para el alumnado con Altas
 Capacidades Intelectuales de la Comunidad de Madrid (CREACIM) a partir del
 curso escolar 2024-2025.
-El Decreto 23/2023, de 22 de marzo, del Consejo de Gobierno, por el que se regula la
+El [Decreto 23/2023](./D23_2023_atencion_diferencias_individuales_alumnos_madrid.md), de 22 de marzo, del Consejo de Gobierno, por el que se regula la
 atención educativa a las diferencias individuales del alumnado en la Comunidad de Madrid,
 establece en su artículo 16 que los centros educativos propondrán al alumnado con necesi-
 dad específica de apoyo educativo por altas capacidades intelectuales la participación en el
@@ -53,7 +58,7 @@ alumnado con alta capacidad intelectual, la propuesta de incorporación al Progr
 riquecimiento educativo para el alumnado con Altas Capacidades de la Comunidad de
 Madrid, siguiendo las instrucciones que al efecto disponga la Dirección General competen-
 te en la gestión de este programa.
-Tras la publicación del Decreto 243/2023, de 4 de octubre, del Consejo de Gobierno,
+Tras la publicación del [Decreto 243/2023](./D243_2023_creacion_centro_regional_enriquecimiento_educativo_altas_capacidades_madrid.md), de 4 de octubre, del Consejo de Gobierno,
 por el que se crea el Centro Regional de Enriquecimiento Educativo para el alumnado con
 Altas Capacidades Intelectuales de la Comunidad de Madrid y se establece su régimen ju-
 rídico y estructura, el CREACIM se configura como el centro docente público en el que se
@@ -64,7 +69,7 @@ Corresponde, pues, regular un procedimiento de acceso al CREACIM que se ampare
 en los principios de objetividad y transparencia, y garantice la participación del mayor nú-
 mero de alumnos en el PEAC, una vez propuestos por los centros educativos de referencia
 en los que están escolarizados.
-En consecuencia, y en virtud del Decreto 248/2023, de 11 de octubre, del Consejo de
+En consecuencia, y en virtud del [Decreto 248/2023](../01_marco_normativo_general_y_organico/D248_2023_estructura_organica_consejeria_educacion_ciencia_universidades_madrid.md), de 11 de octubre, del Consejo de
 Gobierno, por el que se establece la estructura orgánica de la Consejería de Educación,
 Ciencia y Universidades, la Dirección General de Educación Infantil, Primaria y Especial,
 resuelve dictar las presentes instrucciones.
@@ -165,7 +170,7 @@ Grupo 9
 15 años
 Grupo 10
 3.
-De acuerdo con lo dispuesto en el artículo 3 del Decreto 243/2023, de 4 de octu-
+De acuerdo con lo dispuesto en el artículo 3 del [Decreto 243/2023](./D243_2023_creacion_centro_regional_enriquecimiento_educativo_altas_capacidades_madrid.md), de 4 de octu-
 bre, con carácter general, los grupos estarán compuestos por un máximo de 18 alumnos, sal-
 vo en el grupo 1, que será de 16 alumnos.
 4.
@@ -258,7 +263,7 @@ va del CREACIM, o bien podrá dirigirse a dicho centro a través de los procedim
 
 BOCM-20240304-22
 BOCM
-templados en la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común
+templados en la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Administrativo Común
 de las Administraciones Públicas.
 Séptima
 Baremación de las solicitudes y publicación de listas provisionales
@@ -424,7 +429,7 @@ Protección de datos y deber de confidencialidad
 1.
 Todos los órganos y profesionales implicados en los procedimientos descritos an-
 teriormente tienen la obligación de tratar los datos de carácter personal a los que tengan ac-
-ceso de conformidad con lo dispuesto en la Ley Orgánica 3/2018, de 5 de diciembre, de Pro-
+ceso de conformidad con lo dispuesto en la [Ley Orgánica 3/2018](../../../estatal/02_gestion_y_administracion_centros/LO3_2018_proteccion_datos_personales_garantia_derechos_digitales.md), de 5 de diciembre, de Pro-
 tección de Datos Personales y garantía de los derechos digitales, así como de acuerdo a otra
 normativa relacionada que resultara de aplicación.
 2.
@@ -443,7 +448,7 @@ les, siguiendo las instrucciones de la Delegación de Protección de Datos.
 5.
 Los profesionales que accedan a los datos personales de los alumnos o de sus fa-
 milias durante los procedimientos descritos en esta resolución estarán sometidos al deber de
-confidencialidad de acuerdo con el artículo 5 de la Ley Orgánica 3/2018, de 5 de diciembre.
+confidencialidad de acuerdo con el artículo 5 de la [Ley Orgánica 3/2018](../../../estatal/02_gestion_y_administracion_centros/LO3_2018_proteccion_datos_personales_garantia_derechos_digitales.md), de 5 de diciembre.
 Decimoquinta
 Difusión de la información
 Las Direcciones de Área Territorial difundirán estas instrucciones a los centros docen-
@@ -563,9 +568,9 @@ ejercicio de poderes públicos.
 4. ¿Cómo ejercer sus derechos? ¿Cuáles son sus derechos cuando nos facilita sus datos?
 Puede ejercer, si lo desea, los derechos de acceso, rectificación y supresión de datos, así como solicitar que se limite el tratamiento
 de sus datos personales, oponerse al mismo, solicitar en su caso la portabilidad de sus datos, así como a no ser objeto de una
-decisión individual basada únicamente en el tratamiento automatizado, incluida la elaboración de perfiles. Según la Ley 39/2015, el
-RGPD y la Ley Orgánica 3/2018, puede ejercer sus derechos por Registro Electrónico o Registro Presencial o en los lugares y formas
-previstos en el artículo 16.4 de la Ley 39/2015, preferentemente mediante el formulario de solicitud "Ejercicio de derechos en materia
+decisión individual basada únicamente en el tratamiento automatizado, incluida la elaboración de perfiles. Según la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), el
+RGPD y la [Ley Orgánica 3/2018](../../../estatal/02_gestion_y_administracion_centros/LO3_2018_proteccion_datos_personales_garantia_derechos_digitales.md), puede ejercer sus derechos por Registro Electrónico o Registro Presencial o en los lugares y formas
+previstos en el artículo 16.4 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), preferentemente mediante el formulario de solicitud "Ejercicio de derechos en materia
 de protección de datos personales"
 5. Tratamientos que incluyen decisiones automatizadas, incluida la elaboración de perfiles, con efectos jurídicos o
 relevantes.

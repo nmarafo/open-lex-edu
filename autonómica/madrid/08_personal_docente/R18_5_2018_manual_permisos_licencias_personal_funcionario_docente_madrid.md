@@ -26,8 +26,9 @@ tags:
 - funcionarios_docentes
 - profesorado
 - madrid
+fundamentos_derecho:
+- norma_id: norm-es-l-39-2015
 ---
-
 # Resolución de 18 de mayo de 2018, de la Dirección General de Recursos Humanos de la Consejería de Educación e Investigación, por la que se determina el personal funcionario docente que va a disfrutar del permiso parcialmente retribuido sin prestación de servicios durante el curso escolar 2018-2019
 
 ## Preámbulo
@@ -70,7 +71,7 @@ lacionado en el Anexo que acompaña a esta Resolución.
 Contra esta resolución, que no pone fin a la vía administrativa, podrá interponerse re-
 curso de alzada ante la Viceconsejería de Organización Educativa en el plazo de un mes
 contado a partir del día siguiente al de su publicación, todo ello de conformidad con lo dis-
-puesto en los artículos 115, 121 y 122 de la Ley 39/2015, de 1 de octubre, del Procedimien-
+puesto en los artículos 115, 121 y 122 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimien-
 to Administrativo Común de las Administraciones Públicas.
 Madrid, a 18 de mayo de 2018.—El Director General de Recursos Humanos, Miguel
 José Zurita Becerril.

@@ -103,8 +103,12 @@ relaciones:
   - norma_id: norm-es-l-39-2015
   - norma_id: norm-es-l-40-2015
   - norma_id: norm-mad-d-29-2013
+fundamentos_derecho:
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
 ---
-
 # Ley 2/2010, de 15 de junio, de Autoridad del Profesor de la Comunidad de Madrid
 
 ## Preámbulo
@@ -135,7 +139,7 @@ Hago saber que la Asamblea de Madrid ha aprobado la siguiente Ley, que yo, en no
 
 PREÁMBULO
 
-La Ley Orgánica 2/2006, de 3 de mayo, de Educación señala en su artículo 104.1 que las Administraciones educativas están obligadas a velar para que el profesorado reciba el trato, la consideración y el respeto acordes con la importancia social de la tarea que tiene encomendada por la sociedad. En el punto 2 de ese mismo artículo, se establece que las Administraciones educativas prestarán una atención prioritaria a la mejora de las condiciones en que el profesorado realiza su trabajo y al estímulo de una creciente consideración y reconocimiento social de la función docente.
+La [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación señala en su artículo 104.1 que las Administraciones educativas están obligadas a velar para que el profesorado reciba el trato, la consideración y el respeto acordes con la importancia social de la tarea que tiene encomendada por la sociedad. En el punto 2 de ese mismo artículo, se establece que las Administraciones educativas prestarán una atención prioritaria a la mejora de las condiciones en que el profesorado realiza su trabajo y al estímulo de una creciente consideración y reconocimiento social de la función docente.
 
 La filosofía de las leyes que han regido la educación en España desde la aprobación de la LOGSE y los cambios sociales acaecidos en las dos últimas décadas han traído consigo una crisis preocupante del conjunto de las instituciones educativas y del papel del profesor. Por un lado, la transmisión de conocimientos y saberes ha perdido su preeminencia como finalidad de la educación, enfrentando a los profesores a nuevas tareas alejadas de su misión esencial y de su auténtica vocación. Por otro lado, se han ido trasladando a los docentes responsabilidades que han de corresponder a la familia antes que a la propia institución escolar.
 
@@ -177,7 +181,7 @@ Subir
 
 #### Artículo 2. Ámbito de aplicación.
 
-La presente ley será de aplicación en los centros educativos de la Comunidad de Madrid, debidamente autorizados, que impartan alguna de las enseñanzas previstas en la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+La presente ley será de aplicación en los centros educativos de la Comunidad de Madrid, debidamente autorizados, que impartan alguna de las enseñanzas previstas en la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación.
 
 Subir
 
@@ -263,7 +267,7 @@ Subir
 
 #### Artículo 8. Deber de colaboración.
 
-De acuerdo con la disposición adicional vigésima tercera de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, los centros podrán recabar de los padres o representantes legales, o en su caso de las instituciones públicas competentes, la colaboración necesaria para la aplicación de las normas que garanticen la convivencia en los centros educativos en relación con la información sobre las circunstancias personales, familiares o sociales que concurran en los alumnos.
+De acuerdo con la disposición adicional vigésima tercera de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, los centros podrán recabar de los padres o representantes legales, o en su caso de las instituciones públicas competentes, la colaboración necesaria para la aplicación de las normas que garanticen la convivencia en los centros educativos en relación con la información sobre las circunstancias personales, familiares o sociales que concurran en los alumnos.
 
 Subir
 

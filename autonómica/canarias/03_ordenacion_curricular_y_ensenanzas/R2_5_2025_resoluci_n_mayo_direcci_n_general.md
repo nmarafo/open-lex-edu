@@ -96,8 +96,18 @@ relaciones:
   - norma_id: norm-es-2024-10685
   - norma_id: norm-es-rd-659-2023
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2025-093-1761.pdf
+fundamentos_derecho:
+- norma_id: norm-can-d-84-2024
+- norma_id: norm-can-l-6-2014
+- norma_id: norm-can-lo-1-2018
+- norma_id: norm-can-res-boc-2024-226-44
+- norma_id: norm-can-res-boc-2024-230-25
+- norma_id: norm-es-2021-979
+- norma_id: norm-es-2020-17274
+- norma_id: norm-es-2024-10684
+- norma_id: norm-es-2024-10685
+- norma_id: norm-es-rd-659-2023
 ---
-
 # Resolución de 2 de mayo de 2025, de la Dirección General de Formación Profesional y Enseñanzas de Régimen Especial por la que se dictan instrucciones para la organización de la oferta de dobles titulaciones de formación profesional (Grados D) de ciclos formativos con el primer curso en común en la Comunidad Autónoma de Canarias a partir del curso 2025/2026 (BOC n.º 93, de 12 de mayo).
 
 ## Preámbulo
@@ -106,7 +116,7 @@ Consejería de Educación, Formación Profesional, Actividad Física y Deportes 
 Primero.- En el contexto educativo y formativo de Canarias, la Dirección General de Formación Profesional y Enseñanzas de Régimen Especial ha identificado la necesidad de optimizar y flexibilizar la formación en diversas familias profesionales. A fin de ofrecer una formación más adaptada a la demanda del mercado laboral y facilitar el acceso a múltiples oportunidades laborales, se ha visto la necesidad de desarrollar un modelo de enseñanza sobre aquellos ciclos formativos con el primer curso en común. Esta medida responde a la necesidad de proporcionar una formación más versátil y competitiva, fomentando la especialización en diversos ciclos y respondiendo a los desafíos de un mercado laboral que requiere profesionales con competencias que permitan una respuesta flexible a la demanda del sector productivo.
 Segundo.- El sistema de Formación Profesional se constituye bajo el amparo de los principios generales de la mejora de la flexibilidad y permeabilidad entre enseñanzas con la finalidad de adquirir las competencias necesarias que garanticen la efectiva empleabilidad del alumnado a través de su cualificación y recualificación con arreglo a itinerarios diversificados.
 Tercero.- En este sentido, con fecha 30 de octubre de 2024, se aprobó la Resolución de la Dirección General de Formación Profesional y Enseñanzas de Régimen Especial por la que se dictan instrucciones y orientaciones para la implantación y desarrollo de los Grados de formación D y E, a partir del curso escolar 2024/2025, y se establece la distribución horaria y modular de los currículos, en el ámbito de la Comunidad Autónoma de Canarias (BOC n.º 226, de 13.11.2024).
-Cuarto.- Asimismo, el 20 de diciembre de 2024 se publicó en el Boletín Oficial de Canarias la Resolución de 29 de noviembre de 2024, por la que se modifica la Resolución de 30 de octubre de 2024, que dicta instrucciones y orientaciones para la implantación y desarrollo de los Grados de formación D y E, a partir del curso escolar 2024/2025, y se establece la distribución horaria y modular de los currículos, en el ámbito de la Comunidad Autónoma de Canarias (BOC n.º 254, de 20.11.2024).
+Cuarto.- Asimismo, el 20 de diciembre de 2024 se publicó en el Boletín Oficial de Canarias la Resolución de 29 de noviembre de 2024, por la que se modifica la [Resolución de 30 de octubre de 2024](./R30_10_2024_dictan_instrucciones_orientaciones_implantacion_desarrollo_grados.md), que dicta instrucciones y orientaciones para la implantación y desarrollo de los Grados de formación D y E, a partir del curso escolar 2024/2025, y se establece la distribución horaria y modular de los currículos, en el ámbito de la Comunidad Autónoma de Canarias (BOC n.º 254, de 20.11.2024).
 Quinto.- En el contexto del desarrollo de nuevos itinerarios formativos de Formación Profesional de grado medio y superior (Grados D) en la Comunidad Autónoma de Canarias, la Dirección General de Formación Profesional y Enseñanzas de Régimen Especial considera
 
 fundamental avanzar en la creación de itinerarios formativos que permitan realizar dos ciclos formativos relacionados entre sí pertenecientes a una familia profesional, facilitando la obtención de dos títulos en tres cursos académicos, promoviendo una formación más completa y versátil, adaptada a las necesidades del mercado laboral. FUNDAMENTOS DE DERECHO
@@ -151,7 +161,7 @@ Las presentes instrucciones tienen por objeto la implantación y desarrollo de l
 • [Real Decreto 499/2024](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD499_2024_modifican_determinados_reales_decretos_establecen_titulos.md), de 21 de mayo, por el que se modifican determinados reales decretos por los que se establecen títulos de Formación Profesional de grado medio y se fijan sus enseñanzas mínimas.
 • [Real Decreto 500/2024](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD500_2024_modifican_determinados_reales_decretos_establecen_titulos.md), de 21 de mayo, por el que se modifican determinados reales decretos por los que se establecen títulos de Formación Profesional de grado superior y se fijan sus enseñanzas mínimas.
 
-3. Las orientaciones referentes a la adaptación del currículo al entorno socio-productivo de Canarias y la metodología se recogen en el Anexo IV de la Resolución de 30 de octubre de 2024, por la que se dictan instrucciones y orientaciones para la implantación y desarrollo de los Grados de formación D y E.
+3. Las orientaciones referentes a la adaptación del currículo al entorno socio-productivo de Canarias y la metodología se recogen en el Anexo IV de la [Resolución de 30 de octubre de 2024](./R30_10_2024_dictan_instrucciones_orientaciones_implantacion_desarrollo_grados.md), por la que se dictan instrucciones y orientaciones para la implantación y desarrollo de los Grados de formación D y E.
 
 4. Las asociaciones de ciclos formativos de grado medio y/o superior del Anexo II se caracterizan por tener el primer curso en común y las del Anexo III se caracterizan por tener el primer curso en común a excepción de un módulo.
 
@@ -246,7 +256,7 @@ de que se trate. La dirección del centro educativo público resolverá y notifi
 2. El alumnado que se encuentre en esta situación se matriculará en el segundo curso del sistema que se extingue y, en su caso, del módulo pendiente de primer curso si este está incluido en alguno de los ciclos del Anexo III.
 
 3. El alumnado cursará los módulos profesionales establecidos desde la publicación del [Real Decreto 659/2023](./R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, y en el caso de no tener la misma codificación se cursarán los siguientes como equivalentes, de acuerdo con la tabla que figura a continuación:
-Ordenación de acuerdo con Real Decreto 659/2023, de 18 de julio Ordenación de acuerdo con Real Decreto 1147/2011, de 29 de julio
+Ordenación de acuerdo con [Real Decreto 659/2023](./R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio Ordenación de acuerdo con Real Decreto 1147/2011, de 29 de julio
 
 1708. Sostenibilidad aplicada al sistema productivo No se cursa
 

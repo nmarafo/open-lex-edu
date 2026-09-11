@@ -1,6 +1,10 @@
 ---
 id: norm-and-r3-12-2025-convocatoria-suscripcion-modificacion-conciertos-educativos-andalucia
-titulo: Resolución de 3 de diciembre de 2025, de la Dirección General de Planificación, Centros y Enseñanza Concertada, por la que se convoca el procedimiento para la suscripción o modificación de los conciertos educativos en las enseñanzas de Educación Infantil, Educación Primaria, Educación Especial, Educación Secundaria Obligatoria, Formación Profesional y Bachillerato en Andalucía para el curso escolar 2026/2027.
+titulo: Resolución de 3 de diciembre de 2025, de la Dirección General de Planificación,
+  Centros y Enseñanza Concertada, por la que se convoca el procedimiento para la suscripción
+  o modificación de los conciertos educativos en las enseñanzas de Educación Infantil,
+  Educación Primaria, Educación Especial, Educación Secundaria Obligatoria, Formación
+  Profesional y Bachillerato en Andalucía para el curso escolar 2026/2027.
 jurisdiccion: Andalucía
 ambito: Autonómico
 organo_emisor: Dirección General de Formación Profesional y Régimen Especial
@@ -17,8 +21,21 @@ fuente_pdf_oficial: http://www.juntadeandalucia.es/boja/2025/239/BOJA25-239-0000
 clasificacion:
   categoria_canonica: 02_gestion_y_administracion_centros
   subcategoria: Centros concertados y convenios
+fundamentos_derecho:
+- norma_id: norm-and-d-164-2024
+- norma_id: norm-and-l17-2007
+- norma_id: norm-and-l9-2007-administracion-junta-andalucia-laja
+- norma_id: norm-and-o-26-12-2024
+- norma_id: norm-and-o-2-12-2022
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-es-l-39-2015
+- norma_id: norm-es-l-40-2015
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-lo-8-1985
+- norma_id: norm-es-rd-2377-1985
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
 ---
-
 # Resolución de 3 de diciembre de 2025, de la Dirección General de Planificación, Centros y Enseñanza Concertada, por la que se convoca el procedimiento para la suscripción o modificación de los conciertos educativos en las enseñanzas de Educación Infantil, Educación Primaria, Educación Especial, Educación Secundaria Obligatoria, Formación Profesional y Bachillerato en Andalucía para el curso escolar 2026/2027.
 
 ## Preámbulo
@@ -31,10 +48,10 @@ la suscripción o modificación de los conciertos educativos en las enseñanzas
 de Educación Infantil, Educación Primaria, Educación Especial, Educación 
 Secundaria Obligatoria, Formación Profesional y Bachillerato en Andalucía para 
 el curso escolar 2026/2027.
-El artículo 116.3 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, dispone 
+El artículo 116.3 de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, dispone 
 que corresponde al Gobierno establecer los aspectos básicos a los que deben someterse 
 los conciertos, estando regulados dichos aspectos por el Reglamento de Normas Básicas 
-sobre Conciertos Educativos, aprobado por el Real Decreto 2377/1985, de 18 de diciembre.
+sobre Conciertos Educativos, aprobado por el [Real Decreto 2377/1985](../../../estatal/02_gestion_y_administracion_centros/RD2377_1985_aprueba_reglamento_normas_basicas_conciertos_educativos.md), de 18 de diciembre.
 Por otro lado, el artículo 116.4 de dicha Ley Orgánica establece que corresponde a 
 las Comunidades Autónomas dictar las normas necesarias para el desarrollo del régimen 
 de conciertos educativos, de acuerdo con lo previsto en dicho artículo y en el marco de lo 
@@ -43,26 +60,26 @@ Asimismo, la disposición adicional octava del citado Reglamento de Normas Bási
 sobre Conciertos Educativos autoriza a las Comunidades Autónomas a ajustar los plazos 
 previstos en el Capítulo I de su Título III.
 En virtud del citado artículo 116.4 de la Ley Orgánica, en el ámbito de la Comunidad 
-Autónoma de Andalucía, por Orden de 26 de diciembre de 2024, se establecieron las normas 
+Autónoma de Andalucía, por [Orden de 26 de diciembre de 2024](./O26_12_2024_normas_convocatorias_conciertos_educativos_andalucia.md), se establecieron las normas 
 de las convocatorias para acogerse al régimen de conciertos educativos en las enseñanzas 
 de Educación Infantil, Educación Especial, Educación Secundaria Obligatoria, Bachillerato y 
 Formación Profesional, desde el año académico 2025/26 hasta el año académico 2028/29; 
-y por Orden de 2 de diciembre de 2022, se establecieron las normas de las convocatorias 
+y por [Orden de 2 de diciembre de 2022](./O2_12_2022_normas_convocatorias_conciertos_educativos_primaria_andalucia.md), se establecieron las normas de las convocatorias 
 para acogerse al régimen de conciertos educativos en la enseñanza de Educación Primaria, 
 desde el curso académico 2023/24 hasta el curso académico 2028/29. 
-El artículo 16.1 de la Orden de 26 de diciembre de 2024, aplicable también a la 
+El artículo 16.1 de la [Orden de 26 de diciembre de 2024](./O26_12_2024_normas_convocatorias_conciertos_educativos_andalucia.md), aplicable también a la 
 enseñanza de Educación Primaria en virtud de lo dispuesto en la disposición adicional 
 primera de la misma, determina que el procedimiento de concesión de los conciertos 
 educativos se iniciará de oficio mediante convocatoria pública anual aprobada por 
 la persona titular de la Dirección General con competencias en materia de conciertos 
 educativos, que será publicada en el Boletín Oficial de la Junta de Andalucía durante el 
 mes anterior al del plazo de presentación de solicitudes.
-El Decreto 164/2024, de 26 de agosto, por el que se establece la estructura orgánica 
+El [Decreto 164/2024](../01_marco_normativo_general_y_organico/D164_2024_estructura_organica_consejeria_desarrollo_educativo_andalucia.md), de 26 de agosto, por el que se establece la estructura orgánica 
 de la Consejería de Desarrollo Educativo y Formación Profesional atribuye a la Dirección 
 General de Planificación, Centros y Enseñanza Concertada las funciones que, en relación 
 con los centros concertados, le atribuye la legislación vigente.
 Por cuanto antecede, en virtud de lo dispuesto en el artículo 16.1 de la Orden de 26 de 
-diciembre de 2024, y en ejercicio de las competencias atribuidas en el Decreto 164/2024, 
+diciembre de 2024, y en ejercicio de las competencias atribuidas en el [Decreto 164/2024](../01_marco_normativo_general_y_organico/D164_2024_estructura_organica_consejeria_desarrollo_educativo_andalucia.md), 
 de 26 de agosto,
 R E S U E L V O
 Primero. Objeto.
@@ -78,32 +95,32 @@ BOJA
 BOJA
 Depósito Legal: SE-410/1979. ISSN: 2253-802X	
 https://www.juntadeandalucia.es/eboja
-con lo dispuesto en la Orden de 26 de diciembre de 2024, por la que se establecen 
+con lo dispuesto en la [Orden de 26 de diciembre de 2024](./O26_12_2024_normas_convocatorias_conciertos_educativos_andalucia.md), por la que se establecen 
 las normas de las convocatorias para acogerse al régimen de conciertos educativos 
 en las enseñanzas de Educación Infantil, Educación Especial, Educación Secundaria 
 Obligatoria, Bachillerato y Formación Profesional, desde el año académico 2025/26 
-hasta el año académico 2028/29, y en la Orden de 2 de diciembre de 2022, por la que 
+hasta el año académico 2028/29, y en la [Orden de 2 de diciembre de 2022](./O2_12_2022_normas_convocatorias_conciertos_educativos_primaria_andalucia.md), por la que 
 se establecen las normas de las convocatorias para acogerse al régimen de conciertos 
 educativos en la enseñanza de Educación Primaria, desde el curso académico 2023/24 
 hasta el curso académico 2028/29.
 Segundo. Régimen Jurídico.
 El procedimiento para la suscripción o modificación de los conciertos educativos a los 
 que se refiere esta resolución, además de por lo previsto en la misma, se regirá por:
-1. La Ley Orgánica 8/1985, de 3 de julio, reguladora del Derecho a la Educación.
-2. La Ley Orgánica 2/2006, de 3 de mayo, de Educación.
-3. El Real Decreto 2377/1985, de 18 de diciembre, por el que se aprueba el Reglamento 
+1. La [Ley Orgánica 8/1985](../../../estatal/02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md), de 3 de julio, reguladora del Derecho a la Educación.
+2. La [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación.
+3. El [Real Decreto 2377/1985](../../../estatal/02_gestion_y_administracion_centros/RD2377_1985_aprueba_reglamento_normas_basicas_conciertos_educativos.md), de 18 de diciembre, por el que se aprueba el Reglamento 
 de Normas Básicas sobre Conciertos Educativos.
-4. La Ley 17/2007, de 10 de diciembre, de Educación de Andalucía.
-5. La Orden de 26 de diciembre de 2024, por la que se establecen las normas de las 
+4. La [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre, de Educación de Andalucía.
+5. La [Orden de 26 de diciembre de 2024](./O26_12_2024_normas_convocatorias_conciertos_educativos_andalucia.md), por la que se establecen las normas de las 
 convocatorias para acogerse al régimen de conciertos educativos en las enseñanzas de 
 Educación Infantil, Educación Especial, Educación Secundaria Obligatoria, Bachillerato y 
 Formación Profesional, desde el año académico 2025/26 hasta el año académico 2028/29, 
-y la Orden de 2 de diciembre de 2022, por la que se establecen las normas de las convocatorias 
+y la [Orden de 2 de diciembre de 2022](./O2_12_2022_normas_convocatorias_conciertos_educativos_primaria_andalucia.md), por la que se establecen las normas de las convocatorias 
 para acogerse al régimen de conciertos educativos en la enseñanza de Educación Primaria, 
 desde el curso académico 2023/24 hasta el curso académico 2028/29. 
-6. La Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las 
+6. La [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Administrativo Común de las 
 Administraciones Públicas.
-7. La Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público.
+7. La [Ley 40/2015](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md), de 1 de octubre, de Régimen Jurídico del Sector Público.
 8. Cualesquiera otras normas de derecho administrativo que pudieran resultar de aplicación.
 Tercero. Destinatarios.
 Podrán participar en la presente convocatoria los centros docentes privados que 
@@ -120,7 +137,7 @@ procedimiento establecido en la Sección 2.ª del Capítulo II de la Orden de 26
 de 2024.
 2. Las solicitudes se dirigirán a la persona titular de la Consejería competente en 
 materia de educación y se formularán de acuerdo con el modelo que se acompaña como 
-Anexo I a la Orden de 26 de diciembre de 2024.
+Anexo I a la [Orden de 26 de diciembre de 2024](./O26_12_2024_normas_convocatorias_conciertos_educativos_andalucia.md).
 3. De conformidad con lo dispuesto en el artículo 17.2 de la Orden de 26 de diciembre 
 de 2024, las solicitudes para la suscripción o modificación de los conciertos se presentarán 
 en el mes de enero anterior al del inicio del curso académico para el que se solicita, a 
@@ -143,14 +160,14 @@ telemáticas.
 Docentes de la Comunidad Autónoma de Andalucía como titulares o representantes de 
 los respectivos centros docentes. En el caso de que la titularidad corresponda a una 
 persona jurídica, la solicitud deberá ser firmada por quien ostente la representación legal 
-de ésta, en los términos recogidos en el artículo 5 de la Ley 39/2015, de 1 de octubre, del 
+de ésta, en los términos recogidos en el artículo 5 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del 
 Procedimiento Administrativo Común de las Administraciones Públicas.
 5. En el caso de cooperativas que no tengan formalizado concierto educativo, en la 
 solicitud se hará constar, por la persona que ejerza la presidencia de la cooperativa, que 
 los estatutos de la misma no contienen cláusulas que impidan el cumplimiento de las 
 obligaciones propias de los centros acogidos al régimen de conciertos educativos.
 Quinto. Documentación.
-De conformidad con el artículo 18 de la Orden de 26 de diciembre de 2024, las solicitudes 
+De conformidad con el artículo 18 de la [Orden de 26 de diciembre de 2024](./O26_12_2024_normas_convocatorias_conciertos_educativos_andalucia.md), las solicitudes 
 se acompañarán de una memoria explicativa que deberá especificar:
 a) Enseñanza para la que se solicita el concierto o su modificación, con expresión del 
 número de unidades actualmente en funcionamiento. Si se trata de centros que imparten 
@@ -158,7 +175,7 @@ Formación Profesional o Bachillerato, se especificarán las unidades que corres
 respectivamente, a cada ciclo formativo o modalidad. Asimismo, en el caso de la 
 Educación Especial, se especificarán las unidades que corresponden a cada tipología, y 
 se acompañará, en su caso, el Plan de actuación incluido en el proyecto educativo a que 
-se refiere el artículo 8 de la Orden de 26 de diciembre de 2024.
+se refiere el artículo 8 de la [Orden de 26 de diciembre de 2024](./O26_12_2024_normas_convocatorias_conciertos_educativos_andalucia.md).
 b) Alumnado matriculado en el año académico en el que se realiza la solicitud, 
 indicando su distribución por cursos y unidades. En el caso de centros que imparten 
 Formación Profesional o Bachillerato, se indicará, además, la distribución del alumnado 
@@ -177,7 +194,7 @@ f) Cualquier otra información que permita valorar la actividad del centro, tale
 servicios complementarios, actividades complementarias y extraescolares y otras 
 circunstancias.
 Sexto. Subsanación de las solicitudes y requerimiento de documentación.
-1. De acuerdo con el artículo 19 de la Orden de 26 de diciembre de 2024, las 
+1. De acuerdo con el artículo 19 de la [Orden de 26 de diciembre de 2024](./O26_12_2024_normas_convocatorias_conciertos_educativos_andalucia.md), las 
 Delegaciones Territoriales competentes en materia de educación examinarán las 
 solicitudes presentadas y verificarán que se hayan presentado en plazo y forma, que los 
 centros cumplen los requisitos para el acceso al régimen de conciertos y que aportan, 
@@ -201,10 +218,10 @@ b) Las que se presenten por medios distintos a los recogidos si, requerida la pe
 solicitante por la Administración a tal efecto, no se procede a la subsanación. A estos 
 efectos, se considerará como fecha de presentación de la solicitud aquella en la que 
 haya sido realizada la subsanación, conforme a lo dispuesto en el artículo 68 de la 
-Ley 39/2015, de 1 de octubre.
+[Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre.
 Séptimo. Instrucción.
 La instrucción del procedimiento comprenderá todas las actuaciones previstas en el 
-Capítulo II de la Orden de 26 de diciembre de 2024.
+Capítulo II de la [Orden de 26 de diciembre de 2024](./O26_12_2024_normas_convocatorias_conciertos_educativos_andalucia.md).
 Octavo. Resolución.
 La persona titular de la Consejería competente en materia de educación resolverá 
 mediante orden la convocatoria, a propuesta de la Dirección General competente 
@@ -217,8 +234,8 @@ Boletín Oficial de la Junta de Andalucía.
 Contra esta resolución, que no pone fin a la vía administrativa, cabe interponer recurso 
 de alzada ante la persona titular de la Consejería competente en materia de educación 
 en el plazo de un mes, a contar desde el día siguiente al de su publicación en el Boletín 
-Oficial de la Junta de Andalucía, de acuerdo con los artículos 121 y 122 de la Ley 39/2015, 
+Oficial de la Junta de Andalucía, de acuerdo con los artículos 121 y 122 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), 
 de 1 octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, 
-y el artículo 115 de la Ley 9/2007, de 22 de octubre, de la Administración de la Junta de 
+y el artículo 115 de la [Ley 9/2007](../01_marco_normativo_general_y_organico/L9_2007_administracion_junta_andalucia_laja.md), de 22 de octubre, de la Administración de la Junta de 
 Andalucía.
 Sevilla, 3 de diciembre de 2025.- El Director General, Rafael Salas Machuca.

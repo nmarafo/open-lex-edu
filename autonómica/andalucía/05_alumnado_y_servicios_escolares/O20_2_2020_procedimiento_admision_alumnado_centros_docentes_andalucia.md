@@ -36,8 +36,15 @@ relaciones:
   - norma_id: norm-and-l17-2007
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-l-39-2015
+fundamentos_derecho:
+- norma_id: norm-and-l17-2007
+- norma_id: norm-and-l6-2006-gobierno-comunidad-autonoma-andalucia
+- norma_id: norm-and-l9-2007-administracion-junta-andalucia-laja
+- norma_id: norm-and-d-21-2020
+- norma_id: norm-es-l-39-2015
+- norma_id: norm-es-l-40-2015
+- norma_id: norm-es-lo-3-2018
 ---
-
 # Orden de 20 de febrero de 2020, por la que se desarrolla el procedimiento de admisión del alumnado en los centros docentes públicos y privados concertados para cursar las enseñanzas de segundo ciclo de educación infantil, educación primaria, educación especial, educación secundaria obligatoria y bachillerato.
 
 ## Preámbulo
@@ -59,8 +66,8 @@ respetando, en todo caso, lo dispuesto en el artículo 149.1.18.º de la Constit
 que faculta al Estado para fijar las bases del régimen jurídico de las Administraciones 
 públicas. 
 En desarrollo de los preceptos citados y en el marco normativo de la Ley Orgánica 
-2/2006, de 3 de mayo, de Educación, y de la Ley 17/2007, de 10 de diciembre, de 
-Educación de Andalucía, el Decreto 21/2020, de 17 de febrero, por el que se regulan los 
+2/2006, de 3 de mayo, de Educación, y de la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre, de 
+Educación de Andalucía, el [Decreto 21/2020](./D21_2020_criterios_admision_alumnado_centros_docentes_andalucia.md), de 17 de febrero, por el que se regulan los 
 criterios y el procedimiento de admisión del alumnado en los centros docentes públicos y 
 privados concertados para cursar las enseñanzas de segundo ciclo de educación infantil, 
 educación primaria, educación especial, educación secundaria obligatoria y bachillerato, 
@@ -76,7 +83,7 @@ las mismas, resulta conveniente elaborar una normativa que sea aplicable a las d
 enseñanzas que puedan impartirse en los centros cada curso académico.
 En la tramitación de esta orden se ha actuado conforme a los principios de necesidad, 
 eficacia, proporcionalidad, seguridad jurídica, transparencia y eficiencia establecidos 
-en el artículo 129 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo 
+en el artículo 129 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Administrativo 
 Común de las Administraciones Públicas, erigiéndose en el instrumento más adecuado 
 para el cumplimiento de sus fines, sin que sirva a dicho cumplimiento una modificación de 
 la normativa que deroga. Asimismo, se garantizan los principios de proporcionalidad de la 
@@ -88,10 +95,10 @@ en lo que se refiere al procedimiento de admisión del alumnado en las enseñanz
 segundo ciclo de educación infantil, educación primaria, educación especial, educación 
 secundaria obligatoria y bachillerato.
 En su virtud, a propuesta de la Dirección General de Planificación y Centros, de 
-acuerdo con lo establecido en la disposición final tercera del Decreto 21/2020, de 17 de 
+acuerdo con lo establecido en la disposición final tercera del [Decreto 21/2020](./D21_2020_criterios_admision_alumnado_centros_docentes_andalucia.md), de 17 de 
 Extraordinario núm. 3 - Sábado, 29 de febrero de 2020
 página  
-febrero, y de conformidad con lo dispuesto en el artículo 44.2 de la Ley 6/2006, de 24 de 
+febrero, y de conformidad con lo dispuesto en el artículo 44.2 de la [Ley 6/2006](../01_marco_normativo_general_y_organico/L6_2006_gobierno_comunidad_autonoma_andalucia.md), de 24 de 
 octubre, del Gobierno de la Comunidad Autónoma de Andalucía,
 D I S P O N G O
 CAPÍTULO I
@@ -104,7 +111,7 @@ La presente orden tiene por objeto desarrollar el procedimiento de admisión del
 alumnado en los centros docentes públicos y privados concertados para cursar las 
 enseñanzas de segundo ciclo de educación infantil, educación primaria, educación 
 especial, educación secundaria obligatoria y bachillerato, de conformidad con lo 
-establecido en el Decreto 21/2020, de 17 de febrero, por el que se regulan los criterios y 
+establecido en el [Decreto 21/2020](./D21_2020_criterios_admision_alumnado_centros_docentes_andalucia.md), de 17 de febrero, por el que se regulan los criterios y 
 el procedimiento de admisión del alumnado en los centros docentes públicos y privados 
 concertados para cursar las enseñanzas de segundo ciclo de educación infantil, educación 
 primaria, educación especial, educación secundaria obligatoria y bachillerato.
@@ -122,7 +129,7 @@ concertado a otro centro sin la conformidad de su titular.
 3. Corresponde a las personas titulares de los correspondientes órganos territoriales 
 provinciales de la Administración de la Junta de Andalucía competentes en materia 
 de educación la comunicación a cada centro docente de las adscripciones que le 
-correspondan, a los efectos de lo dispuesto en el artículo 6 del Decreto 21/2020, de 17 de 
+correspondan, a los efectos de lo dispuesto en el artículo 6 del [Decreto 21/2020](./D21_2020_criterios_admision_alumnado_centros_docentes_andalucia.md), de 17 de 
 febrero.
 4. Las plazas escolares reservadas para el alumnado procedente de los centros 
 adscritos no podrán ser adjudicadas a otros alumnos o alumnas hasta que quede 
@@ -132,14 +139,14 @@ garantizada la admisión de dicho alumnado.
 de la Administración de la Junta de Andalucía competentes en materia de educación 
 determinarán los centros docentes en los que tendrá prioridad para ser admitido el 
 alumnado que se encuentre en algunas de las situaciones a que se refiere el artículo 20.3 
-del Decreto 21/2020, de 17 de febrero.
+del [Decreto 21/2020](./D21_2020_criterios_admision_alumnado_centros_docentes_andalucia.md), de 17 de febrero.
 2. La relación de centros docentes a la que se refiere el apartado anterior será 
 publicada en los tablones de anuncios de los correspondientes órganos territoriales 
 provinciales de la Administración de la Junta de Andalucía competentes en materia de 
 educación con anterioridad al inicio del plazo de presentación de las solicitudes, así como 
 en la sede electrónica de la Consejería competente en materia de educación.
 3. Las personas que tengan prioridad en la admisión, de conformidad con lo dispuesto 
-en el artículo 20 del Decreto 21/2020, de 17 de febrero, solicitarán plaza utilizando 
+en el artículo 20 del [Decreto 21/2020](./D21_2020_criterios_admision_alumnado_centros_docentes_andalucia.md), de 17 de febrero, solicitarán plaza utilizando 
 el modelo que como Anexo III acompaña a la presente orden, acreditando dichas 
 Extraordinario núm. 3 - Sábado, 29 de febrero de 2020
 página  
@@ -152,14 +159,14 @@ en el artículo 27.
 1. Con anterioridad al plazo de presentación de solicitudes, la persona titular del 
 correspondiente órgano territorial provincial de la Administración de la Junta de Andalucía 
 competente en materia de educación comunicará a los centros docentes la oferta 
-educativa a la que se refiere el artículo 4.2 del Decreto 21/2020, de 17 de febrero. En 
+educativa a la que se refiere el artículo 4.2 del [Decreto 21/2020](./D21_2020_criterios_admision_alumnado_centros_docentes_andalucia.md), de 17 de febrero. En 
 la misma se especificarán las plazas escolares que se reservan para el alumnado con 
 necesidades específicas de apoyo educativo conforme a lo que establece el artículo 32.2 
 de dicho Decreto.
 2. Las plazas escolares que se tendrán en cuenta en el procedimiento de admisión se 
 determinarán multiplicando el número de unidades autorizadas, en el caso de los centros 
 públicos, o concertadas en cada curso por el número máximo de alumnos y alumnas que 
-corresponda por unidad, conforme a lo establecido en el artículo 5.1 del Decreto 21/2020, 
+corresponda por unidad, conforme a lo establecido en el artículo 5.1 del [Decreto 21/2020](./D21_2020_criterios_admision_alumnado_centros_docentes_andalucia.md), 
 de 17 de febrero.
 3. La persona que ejerza la dirección del centro docente informará al Consejo Escolar, 
 durante el mes de febrero de cada año, del número de plazas escolares reservadas para 
@@ -167,7 +174,7 @@ el alumnado del propio centro.
 4. La dirección de los centros docentes públicos y las personas representantes de 
 la titularidad de los centros docentes privados concertados determinarán las plazas 
 escolares vacantes para cada curso, de conformidad con lo establecido en el artículo 5.3 
-y las disposiciones adicionales segunda y tercera del Decreto 21/2020, de 17 de febrero, 
+y las disposiciones adicionales segunda y tercera del [Decreto 21/2020](./D21_2020_criterios_admision_alumnado_centros_docentes_andalucia.md), de 17 de febrero, 
 y procederán a su publicación en el tablón de anuncios del centro.
 #### Artículo 5. Información previa que se deberá publicar en los centros docentes.
 1. Antes del inicio del plazo establecido para la presentación de las solicitudes, los 
@@ -192,7 +199,7 @@ i) El calendario del procedimiento ordinario de admisión del alumnado al que se
 el artículo 19.
 2. La información a la que se refiere el apartado 1 estará expuesta, al menos, hasta 
 la finalización del plazo de presentación de recursos de alzada y reclamaciones al que se 
-refiere el artículo 48 del Decreto 21/2020, de 17 de febrero.
+refiere el artículo 48 del [Decreto 21/2020](./D21_2020_criterios_admision_alumnado_centros_docentes_andalucia.md), de 17 de febrero.
 Extraordinario núm. 3 - Sábado, 29 de febrero de 2020
 página  
 3. La persona que ejerza la secretaría del centro docente público o la persona que 
@@ -201,7 +208,7 @@ información Séneca, que se ha efectuado la exposición en los tablones de anun
 referida información.
 #### Artículo 6. Procedimiento de cálculo de la renta per cápita anual y del patrimonio de 
 la unidad familiar.
-1. A efectos de lo previsto en el artículo 13.2 del Decreto 21/2020, de 17 de febrero, la 
+1. A efectos de lo previsto en el artículo 13.2 del [Decreto 21/2020](./D21_2020_criterios_admision_alumnado_centros_docentes_andalucia.md), de 17 de febrero, la 
 renta de la unidad familiar que se considerará será la suma de la base imponible general 
 y la base imponible del ahorro de la declaración o declaraciones del Impuesto sobre la 
 Renta de las Personas Físicas del ejercicio fiscal al que se refiere el apartado 1 del citado 
@@ -216,11 +223,11 @@ de la unidad familiar a la que se refieren los apartados 1 y 2 entre el número 
 que la componen. 
 4. Los umbrales indicativos de patrimonio familiar por encima de los cuales la 
 puntuación por el criterio de renta se reducirá a la mitad, de conformidad con lo dispuesto 
-en el artículo 23.3 del Decreto 21/2020, de 17 de febrero, serán los que se fijen para la 
+en el artículo 23.3 del [Decreto 21/2020](./D21_2020_criterios_admision_alumnado_centros_docentes_andalucia.md), de 17 de febrero, serán los que se fijen para la 
 denegación de las becas o ayudas al estudio en la correspondiente normativa estatal en 
 vigor en el momento de su consideración.
 #### Artículo 7. Padre, madre, tutor o guardador legal que trabaja en el centro.
-A los efectos de lo establecido en el artículo 20.2 del Decreto 21/2020, de 17 de 
+A los efectos de lo establecido en el artículo 20.2 del [Decreto 21/2020](./D21_2020_criterios_admision_alumnado_centros_docentes_andalucia.md), de 17 de 
 febrero, se considera que el padre, la madre o la persona que ostenta la tutela o la guarda 
 legal del alumno o alumna tiene su puesto de trabajo habitual en el centro docente si 
 ejerce en el mismo una actividad laboral continuada con una jornada mínima de diez 
@@ -239,7 +246,7 @@ información Séneca. Corresponde a la persona que ejerce la dirección del cent
 público o a la persona representante de la titularidad del centro privado concertado la 
 incorporación de la citada certificación al expediente del procedimiento de admisión.
 2. A efectos de acreditación de la circunstancia a que se refiere el primer supuesto 
-del artículo 11.3 y el artículo 10.2.g) del Decreto 21/2020, de 17 de febrero, la Consejería 
+del artículo 11.3 y el artículo 10.2.g) del [Decreto 21/2020](./D21_2020_criterios_admision_alumnado_centros_docentes_andalucia.md), de 17 de febrero, la Consejería 
 competente en materia de educación recabará la información necesaria de los registros 
 Extraordinario núm. 3 - Sábado, 29 de febrero de 2020
 página  
@@ -299,7 +306,7 @@ c) Alta en la Seguridad Social y una declaración responsable de la persona inte
 sobre la vigencia de la misma.
 3. La información o los certificados justificativos de la actividad laboral a los que 
 se refieren los párrafos anteriores servirán, en su caso, para acreditar que se está en 
-la situación a la que se refiere el artículo 16 del Decreto 21/2020, de 17 de febrero, a 
+la situación a la que se refiere el artículo 16 del [Decreto 21/2020](./D21_2020_criterios_admision_alumnado_centros_docentes_andalucia.md), de 17 de febrero, a 
 excepción del informe de situación actual a que se refiere el apartado 1 que deberá ser 
 sustituido por el de vida laboral.
 #### Artículo 11. Acreditación de la renta de la unidad familiar.
@@ -312,7 +319,7 @@ del Catastro, a través de medios informáticos o telemáticos.
 A efectos de la valoración del criterio de renta anual de la unidad familiar, todas las 
 personas mayores de dieciséis años de la unidad familiar a la que pertenecía el alumno 
 o alumna a fecha 31 de diciembre del ejercicio fiscal al que se refiere el artículo 13.1 del 
-Decreto 21/2020, de 17 de febrero, deberán declarar responsablemente, en la solicitud 
+[Decreto 21/2020](./D21_2020_criterios_admision_alumnado_centros_docentes_andalucia.md), de 17 de febrero, deberán declarar responsablemente, en la solicitud 
 de admisión, que cumplen sus obligaciones tributarias, así como autorizar expresamente 
 para que la Agencia Estatal de Administración Tributaria o, en su caso, los órganos 
 competentes de la Comunidad Autónoma del País Vasco o de la Comunidad Foral de 
@@ -328,7 +335,7 @@ certificación de haberes, declaración responsable o cualquier otro documento d
 una de las personas mayores de dieciséis años de la unidad familiar.
 #### Artículo 12. Acreditación del criterio de discapacidad o trastorno en el desarrollo.
 1. A efectos de acreditación del criterio de discapacidad o trastorno en el desarrollo 
-recogido en los artículos 10.2 d), 14 y 24 del Decreto 21/2020, de 17 de febrero, la 
+recogido en los artículos 10.2 d), 14 y 24 del [Decreto 21/2020](./D21_2020_criterios_admision_alumnado_centros_docentes_andalucia.md), de 17 de febrero, la 
 Consejería competente en materia de educación recabará la información necesaria de los 
 registros administrativos correspondientes, salvo que las personas mayores de edad de 
 la unidad familiar del alumno o alumna que se encuentren en esta situación se opongan 
@@ -386,7 +393,7 @@ resolución judicial.
 en un centro autorizado para ello.
 1. A efectos de la acreditación de estar matriculado en el primer ciclo de educación 
 infantil en un centro autorizado para ello en las condiciones establecidas en al artículo 
-17 del decreto 21/2020, de 17 de febrero, la persona que ejerce la dirección del centro 
+17 del [decreto 21/2020](./D21_2020_criterios_admision_alumnado_centros_docentes_andalucia.md), de 17 de febrero, la persona que ejerce la dirección del centro 
 docente público o la persona representante de la titularidad del centro docente privado 
 concertado donde el alumno o la alumna ha solicitado la plaza incorporará al expediente 
 del procedimiento de admisión la correspondiente certificación emitida por el sistema de 
@@ -416,13 +423,13 @@ persona interesada la certificación correspondiente.
 o alumna tiene su puesto de trabajo habitual en el centro docente solicitado, en las 
 condiciones recogidas en el artículo 7, se estará a lo dispuesto en el artículo 10.1.
 2. A efectos de la acreditación de simultanear enseñanzas regladas de música o 
-danza y de educación secundaria a que se refiere el artículo 20.3 del Decreto 21/2020, de 
+danza y de educación secundaria a que se refiere el artículo 20.3 del [Decreto 21/2020](./D21_2020_criterios_admision_alumnado_centros_docentes_andalucia.md), de 
 17 de febrero, la persona que ejerce la dirección del centro docente público o la persona 
 representante de la titularidad del centro docente privado concertado incorporará al 
 expediente del procedimiento de admisión la correspondiente certificación emitida por el 
 sistema de información Séneca.
 3. A efectos de acreditación de la condición de integrante del deporte de rendimiento 
-de Andalucía, recogida en el artículo 20.3 del Decreto 21/2020, de 17 de febrero, la 
+de Andalucía, recogida en el artículo 20.3 del [Decreto 21/2020](./D21_2020_criterios_admision_alumnado_centros_docentes_andalucia.md), de 17 de febrero, la 
 Consejería competente en materia de educación consultará la información necesaria del 
 Registro del Deporte de Rendimiento de Andalucía, al que se refiere el artículo 15 del 
 Decreto 336/2009, de 22 de septiembre, por el que se regula el Deporte de Rendimiento 
@@ -437,7 +444,7 @@ la máxima categoría nacional se deberá presentar certificado acreditativo emi
 Federación Deportiva Andaluza de la modalidad correspondiente.
 4. A efectos de acreditación del traslado de la unidad familiar por movilidad forzosa de 
 cualquiera de los padres, madres, tutores o guardadores, a que se refiere el artículo 20.4 
-del Decreto 21/2020, de 17 de febrero, la Consejería competente en materia de educación 
+del [Decreto 21/2020](./D21_2020_criterios_admision_alumnado_centros_docentes_andalucia.md), de 17 de febrero, la Consejería competente en materia de educación 
 recabará, a través de medios informáticos o telemáticos, la información necesaria de los 
 registros administrativos correspondientes, salvo que la persona que suscribe la solicitud 
 se oponga a ello, en cuyo caso deberá aportar el informe de vida laboral de la persona 
@@ -447,13 +454,13 @@ en los seis meses anteriores. Asimismo, deberá aportarse una certificación exp
 efecto por la persona titular de la empresa o por la persona responsable de personal de la 
 misma que deberá contener el domicilio del lugar de trabajo y la duración del traslado.
 5. A efectos de acreditar la situación de adopción u otras medidas de protección 
-de menores a que se refiere el artículo 20.4 del Decreto 21/2020, de 17 de febrero, la 
+de menores a que se refiere el artículo 20.4 del [Decreto 21/2020](./D21_2020_criterios_admision_alumnado_centros_docentes_andalucia.md), de 17 de febrero, la 
 persona solicitante deberá aportar copia autenticada del documento que acredite 
 dichas situaciones expedido por la Consejería competente en materia de protección de 
 menores. 
 Extraordinario núm. 3 - Sábado, 29 de febrero de 2020
 6. A efectos de acreditación del cambio de residencia derivado de actos de violencia 
-de género a que se refiere el artículo 20.4 del Decreto 21/2020, de 17 de febrero, será 
+de género a que se refiere el artículo 20.4 del [Decreto 21/2020](./D21_2020_criterios_admision_alumnado_centros_docentes_andalucia.md), de 17 de febrero, será 
 necesario presentar una copia autenticada de la resolución judicial otorgando la orden 
 de protección a favor de la víctima de violencia de género, de la sentencia condenatoria 
 o de la medida cautelar a favor de la misma o, excepcionalmente, hasta tanto se dicte 
@@ -463,14 +470,14 @@ y protección integral contra la violencia de género. En la solicitud de admisi
 constar el nuevo domicilio de residencia, quedando en todo momento garantizada la 
 confidencialidad de su situación.
 7. Para acreditar la condición de víctima de terrorismo a que se refiere el artículo 
-20.4 del Decreto 21/2020, de 17 de febrero, será necesaria la certificación expedida por 
+20.4 del [Decreto 21/2020](./D21_2020_criterios_admision_alumnado_centros_docentes_andalucia.md), de 17 de febrero, será necesaria la certificación expedida por 
 la Administración pública que corresponda. Para acreditar que el alumno o la alumna es 
 familiar hasta el segundo grado por consanguinidad de una persona víctima de terrorismo 
 se deberá presentar copia autenticada del libro o libros de familia que correspondan.
 ### Sección 3.ª Documentación complementaria
 #### Artículo 18. Documentación complementaria para la admisión del alumnado con 
 necesidades específicas de apoyo educativo.
-1. A los efectos de lo dispuesto en el artículo 32.5 del Decreto 21/2020, de 17 de 
+1. A los efectos de lo dispuesto en el artículo 32.5 del [Decreto 21/2020](./D21_2020_criterios_admision_alumnado_centros_docentes_andalucia.md), de 17 de 
 febrero, el padre, madre, tutor o guardador legal del alumno o alumna menor de edad 
 o el alumnado mayor de edad declarará en la solicitud de admisión que presenta 
 necesidades educativas especiales asociadas a discapacidad, trastorno en el desarrollo 
@@ -482,7 +489,7 @@ ejerza la dirección del centro docente público o la persona física o jurídic
 docente privado concertado interesará al equipo de orientación educativa correspondiente 
 la elaboración del mencionado dictamen.
 3. Para el alumnado que precise acciones de carácter compensatorio, al que se 
-refiere el artículo 31.3 del Decreto 21/2020, de 17 de febrero, se deberá aportar, en el 
+refiere el artículo 31.3 del [Decreto 21/2020](./D21_2020_criterios_admision_alumnado_centros_docentes_andalucia.md), de 17 de febrero, se deberá aportar, en el 
 momento de formalizar la solicitud de admisión, la correspondiente certificación emitida 
 por los servicios sociales comunitarios del municipio donde resida la persona solicitante 
 o, en su caso, por la Administración pública que corresponda.
@@ -516,15 +523,15 @@ se podrán relacionar otros centros docentes por orden de preferencia para el ca
 no se produzca la admisión en aquél.
 4. El alumnado que solicite ser admitido prioritariamente en algún centro distinto 
 del centro o de los centros que le corresponden por adscripción, presentará solicitud 
-conforme a lo establecido en el artículo 43.1 del Decreto 21/2020, de 17 de febrero.
+conforme a lo establecido en el artículo 43.1 del [Decreto 21/2020](./D21_2020_criterios_admision_alumnado_centros_docentes_andalucia.md), de 17 de febrero.
 5. Las personas que presenten la solicitud de forma telemática podrán presentar, 
 cuando proceda, en el centro en el que soliciten ser admitidos prioritariamente la 
-documentación a la que se refiere el artículo 43.2 del Decreto 21/2020, de 17 de febrero, 
+documentación a la que se refiere el artículo 43.2 del [Decreto 21/2020](./D21_2020_criterios_admision_alumnado_centros_docentes_andalucia.md), de 17 de febrero, 
 presentando el recibo que se emita conforme a lo dispuesto en el artículo 45.4 de dicho 
 decreto.
 #### Artículo 22. Publicación del baremo.
 1. Finalizado el plazo de presentación de solicitudes y, en su caso, el de subsanación 
-y requerimiento de documentación a que se refiere el artículo 44.1 del Decreto 21/2020, de 
+y requerimiento de documentación a que se refiere el artículo 44.1 del [Decreto 21/2020](./D21_2020_criterios_admision_alumnado_centros_docentes_andalucia.md), de 
 17 de febrero, el Consejo Escolar del centro docente público o la persona representante 
 de la titularidad del centro docente privado concertado publicará en el tablón de anuncios 
 del centro lo siguiente:
@@ -549,7 +556,7 @@ Séneca.
 Asimismo dicho sistema de información facilitará a cada centro la relación de centros 
 solicitados como subsidiarios por cada uno de los alumnos o alumnas que lo han solicitado 
 como prioritario incluyendo, en su caso, la puntuación otorgada.
-4. De conformidad con lo establecido en el artículo 37.1.b) del Decreto 21/2020, de 
+4. De conformidad con lo establecido en el artículo 37.1.b) del [Decreto 21/2020](./D21_2020_criterios_admision_alumnado_centros_docentes_andalucia.md), de 
 17 de febrero, cuando el centro modifique la propuesta de puntuación o de resolución 
 de admisión efectuada por el sistema de información Séneca, deberá remitir a la 
 Extraordinario núm. 3 - Sábado, 29 de febrero de 2020
@@ -585,7 +592,7 @@ de la resolución judicial, pero no a su contenido.
 #### Artículo 24. Resolución del procedimiento de admisión en los centros docentes 
 elegidos prioritariamente.
 1. Tras la finalización del trámite de audiencia, y de conformidad con lo establecido 
-en el artículo 47.3 del Decreto 21/2020, de 17 de febrero, el Consejo Escolar de cada 
+en el artículo 47.3 del [Decreto 21/2020](./D21_2020_criterios_admision_alumnado_centros_docentes_andalucia.md), de 17 de febrero, el Consejo Escolar de cada 
 centro emitirá un informe sobre las alegaciones presentadas que elevará a la persona 
 que ejerce la dirección del centro docente público o a la persona representante de la 
 titularidad del centro docente privado concertado, quien las valorará, y establecerá el 
@@ -624,7 +631,7 @@ solicitado como prioritario de acuerdo con lo establecido en el artículo 49 del
 21/2020, de 17 de febrero.
 2. La adjudicación se realizará considerando los centros docentes elegidos como 
 subsidiarios, la puntuación total otorgada en los mismos y, en caso de empate, la 
-aplicación del resultado del sorteo al que se refiere el artículo 30 del Decreto 21/2020, de 
+aplicación del resultado del sorteo al que se refiere el artículo 30 del [Decreto 21/2020](./D21_2020_criterios_admision_alumnado_centros_docentes_andalucia.md), de 
 17 de febrero.
 3. Las comisiones territoriales de garantías de admisión adjudicarán las plazas 
 vacantes que se generen como consecuencia de la admisión, en el orden establecido en 
@@ -714,7 +721,7 @@ del inicio efectivo de las clases, las nuevas vacantes que pudieran resultar pod
 adjudicadas en el procedimiento extraordinario al que se refiere el artículo 51 del Decreto 
 21/2020, de 17 de febrero.
 5. En el caso de que esté pendiente de resolución algún recurso de alzada o 
-reclamación a los que se refiere el artículo 48 del Decreto 21/2020, de 17 de febrero, 
+reclamación a los que se refiere el artículo 48 del [Decreto 21/2020](./D21_2020_criterios_admision_alumnado_centros_docentes_andalucia.md), de 17 de febrero, 
 lo establecido en los apartados anteriores se llevará a cabo una vez se resuelvan los 
 mismos.
 CAPITULO IV
@@ -723,7 +730,7 @@ Procedimiento extraordinario
 1. La solicitud de plaza escolar será única y podrá presentarse en el centro docente 
 en el que el alumno o alumna pretende ser admitido o en el correspondiente órgano 
 territorial provincial de la Administración de la Junta de Andalucía competente en materia 
-de educación, conforme a lo que establece el artículo 51.2 del Decreto 21/2020, de 17 de 
+de educación, conforme a lo que establece el artículo 51.2 del [Decreto 21/2020](./D21_2020_criterios_admision_alumnado_centros_docentes_andalucia.md), de 17 de 
 febrero. Dicha solicitud será registrada en el sistema de información Séneca.
 2. La solicitud deberá formularse utilizando el modelo que como Anexo IX acompaña a 
 la presente orden. Los impresos serán facilitados gratuitamente por los centros docentes 
@@ -741,21 +748,21 @@ CAPÍTULO V
 Escolarización en determinados supuestos
 #### Artículo 30. Supuestos excepcionales por enfermedad.
 1. Las enfermedades que podrán ser consideradas a los efectos de la aplicación de 
-lo recogido en el artículo 53 del Decreto 21/2020, de 17 de febrero, son las relacionadas 
+lo recogido en el artículo 53 del [Decreto 21/2020](./D21_2020_criterios_admision_alumnado_centros_docentes_andalucia.md), de 17 de febrero, son las relacionadas 
 en el Anexo del Real Decreto 1148/2011, de 29 de julio, para la aplicación y desarrollo, en 
 el Sistema de la Seguridad Social, de la prestación económica por cuidado de menores 
 afectados por cáncer u otra enfermedad grave, modificado por la Orden TMS/103/2019, 
 de 6 de febrero.
 2. Para la acreditación de este supuesto, la certificación a la que se refiere el artículo 
-53 del Decreto 21/2020, de 17 de febrero, deberá ser expedida por el médico o la médica 
+53 del [Decreto 21/2020](./D21_2020_criterios_admision_alumnado_centros_docentes_andalucia.md), de 17 de febrero, deberá ser expedida por el médico o la médica 
 especialista correspondiente en el ejercicio de sus funciones como autoridad sanitaria.
 Extraordinario núm. 3 - Sábado, 29 de febrero de 2020
 #### Artículo 31. Supuesto de prematuridad extrema.
-1. A los efectos de lo recogido en el artículo 54 del Decreto 21/2020, de 17 de febrero, 
+1. A los efectos de lo recogido en el artículo 54 del [Decreto 21/2020](./D21_2020_criterios_admision_alumnado_centros_docentes_andalucia.md), de 17 de febrero, 
 se considera que un niño o niña es prematuro extremo cuando ha nacido antes de la 
 semana 28 de gestación.
 2. Para la acreditación de este supuesto, la certificación a la que se refiere el artículo 
-54 del Decreto 21/2020, de 17 de febrero, deberá ser expedida por el médico o la médica 
+54 del [Decreto 21/2020](./D21_2020_criterios_admision_alumnado_centros_docentes_andalucia.md), de 17 de febrero, deberá ser expedida por el médico o la médica 
 especialista correspondiente en el ejercicio de sus funciones como autoridad sanitaria.
 ### Disposición adicional primera. Protección de datos de carácter personal.
 1. La Dirección General competente en materia de escolarización será responsable 
@@ -770,7 +777,7 @@ de los centros docentes privados concertados actúan en esta materia bajo la aut
 del responsable del tratamiento y las personas participantes en el procedimiento 
 ejercerán ante ellos los derechos que les reconoce dicho Reglamento, sin perjuicio de las 
 obligaciones que corresponden al responsable del tratamiento.
-3. De conformidad con lo establecido en el artículo 5.1 de la Ley Orgánica 3/2018, de 
+3. De conformidad con lo establecido en el artículo 5.1 de la [Ley Orgánica 3/2018](../../../estatal/02_gestion_y_administracion_centros/LO3_2018_proteccion_datos_personales_garantia_derechos_digitales.md), de 
 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, 
 el responsable del tratamiento de datos, así como todas las personas que intervengan 
 en cualquier fase de este, estarán sujetos al deber de confidencialidad a que se refiere el 
@@ -814,7 +821,7 @@ Comunidades Autónomas deberán ser autorizados por la persona titular de la Dir
 General competente en materia de ordenación educativa.
 3. No se podrán autorizar traslados de matrícula en el tercer trimestre del curso 
 académico. No obstante, en el caso de cambio de centro por los motivos recogidos en la 
-disposición adicional quinta del Decreto 21/2020, de 17 de febrero, se estará a lo dispuesto 
+disposición adicional quinta del [Decreto 21/2020](./D21_2020_criterios_admision_alumnado_centros_docentes_andalucia.md), de 17 de febrero, se estará a lo dispuesto 
 en la misma, así como en el artículo 29.5 de la presente orden.
 ### Disposición adicional cuarta. Anulación de matrícula.
 1. La dirección de los centros docentes, a petición razonada del alumno o alumna o, 
@@ -887,13 +894,13 @@ alumnos y alumnas solicitantes y, en su caso, la puntuación total obtenida.
 b) El 16 de abril de 2020 comenzará el trámite de audiencia establecido en el artículo 
 23.1.
 c) El 11 de mayo de 2020 se celebrará el sorteo público al que se refiere el artículo 30 
-del Decreto 21/2020, de 17 de febrero.
+del [Decreto 21/2020](./D21_2020_criterios_admision_alumnado_centros_docentes_andalucia.md), de 17 de febrero.
 d) El 12 de mayo de 2020 se publicarán las resoluciones de admisión.
 e) El 21 de mayo de 2020 se publicará la adjudicación de plaza escolar al alumnado 
 no admitido en el centro docente elegido como prioritario.
 f) El 22 de mayo de 2020 comenzará el plazo establecido para la presentación de 
 recursos de alzada y reclamaciones ante la persona titular de la Consejería competente 
-en materia de educación establecido en el artículo 48 del Decreto 21/2020, de 17 de 
+en materia de educación establecido en el artículo 48 del [Decreto 21/2020](./D21_2020_criterios_admision_alumnado_centros_docentes_andalucia.md), de 17 de 
 febrero.
 Disposición transitoria única. Sede electrónica de la Consejería competente en 
 materia de educación.
@@ -913,8 +920,8 @@ prueba de evaluación ESCALA y su procedimiento de aplicación en los centros do
 de Andalucía.
 ### Disposición final primera. Delegación de competencias para la resolución de recursos 
 de alzada y reclamaciones.
-De conformidad con lo establecido en el artículo 9 de la Ley 40/2015, de 1 de octubre, 
-de Régimen Jurídico del Sector Público, y en el artículo 102 de la Ley 9/2007, de 22 de 
+De conformidad con lo establecido en el artículo 9 de la [Ley 40/2015](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md), de 1 de octubre, 
+de Régimen Jurídico del Sector Público, y en el artículo 102 de la [Ley 9/2007](../01_marco_normativo_general_y_organico/L9_2007_administracion_junta_andalucia_laja.md), de 22 de 
 octubre, de la Administración de la Junta de Andalucía, se delega en las personas titulares 
 de los correspondientes órganos territoriales provinciales de la Administración de la Junta 
 de Andalucía competentes en materia de educación la competencia para la resolución de 

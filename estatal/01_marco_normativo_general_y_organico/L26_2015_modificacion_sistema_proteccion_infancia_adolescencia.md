@@ -311,8 +311,19 @@ relaciones:
   - norma_id: norm-es-2021-20113
   - norma_id: norm-es-2010-12201
   - norma_id: norm-es-lo-1-2004
+fundamentos_derecho:
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-can-l-16-2003
+- norma_id: norm-es-lo-1-1996
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-2000-544
+- norma_id: norm-es-2013-13756
+- norma_id: norm-es-1999-23750
+- norma_id: norm-es-2016-3229
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
+- norma_id: norm-es-lo-1-2004
 ---
-
 # Ley 26/2015, de 28 de julio, de modificación del sistema de protección a la infancia y a la adolescencia.
 
 ## Preámbulo

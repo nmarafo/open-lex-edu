@@ -103,8 +103,11 @@ relaciones:
   - norma_id: norm-es-l-53-1984
   - norma_id: norm-es-2001-7022
   - norma_id: norm-es-lo-8-1985
+fundamentos_derecho:
+- norma_id: norm-es-l-53-1984
+- norma_id: norm-es-2001-7022
+- norma_id: norm-es-lo-8-1985
 ---
-
 # Ley Orgánica 5/2002, de 19 de junio, de las Cualificaciones y de la Formación Profesional.
 
 ## Preámbulo

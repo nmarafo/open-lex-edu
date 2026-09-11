@@ -24,8 +24,9 @@ tags:
 - potestad_reglamentaria
 - consejeria
 - madrid
+fundamentos_derecho:
+- norma_id: norm-es-2012-9282
 ---
-
 # Ley 1/1983, de 13 de diciembre, del Gobierno y Administración de la Comunidad de Madrid
 
 ## Preámbulo
@@ -1208,7 +1209,7 @@ e) Cualesquiera otras competencias que les atribuya la normativa en vigor.
 
 Las retribuciones que le corresponda percibir serán únicamente las correspondientes al cargo de Viceconsejero, sin que sea posible compatibilizar las mismas con cualquier tipo de dietas, indemnizaciones o asistencias previstas en función de su condición de Diputado.
 
-Se modifica el apartado 4 por el art. 4 de la Ley 4/2012, de 4 de julio. 
+Se modifica el apartado 4 por el art. 4 de la [Ley 4/2012](../../../estatal/08_personal_docente/L4_2012_medidas_administrativas_fiscales.md), de 4 de julio. 
 Ref. BOE-A-2012-12816
 .
 

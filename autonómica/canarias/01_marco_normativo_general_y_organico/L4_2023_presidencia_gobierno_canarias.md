@@ -247,9 +247,14 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2023-060-884.p
 ocr_procesado: true
 motor_ocr: rapidocr_onnxruntime
 anexos_extraidos_pdf: true
+fundamentos_derecho:
+- norma_id: norm-can-l-14-1990
+- norma_id: norm-can-lo-1-2018
+- norma_id: norm-mad-l1-1983-gobierno-administracion-comunidad-madrid
+- norma_id: norm-mad-l4-2023
+- norma_id: norm-es-l-39-2015
 ---
-
-# Ley 4/2023, de 23 de marzo, de la Presidencia y del Gobierno de Canarias.
+# [Ley 4/2023](../../madrid/01_marco_normativo_general_y_organico/L4_2023_derechos_garantias_proteccion_integral_infancia_adolescencia_madrid.md), de 23 de marzo, de la Presidencia y del Gobierno de Canarias.
 
 ## Preámbulo
 
@@ -262,7 +267,7 @@ Formato de archivo en PDF/Adobe Acrobat. Tamaño:
 Firma electrónica
 - Descargar
 
-Sea notorio a todos los ciudadanos y ciudadanas que el Parlamento de Canarias ha aprobado y yo, en nombre del Rey y de acuerdo con lo que establece el artículo 47.1 del Estatuto de Autonomía de Canarias, promulgo y ordeno la publicación de la Ley 4/2023, de 23 de marzo, de la Presidencia y del Gobierno de Canarias.
+Sea notorio a todos los ciudadanos y ciudadanas que el Parlamento de Canarias ha aprobado y yo, en nombre del Rey y de acuerdo con lo que establece el artículo 47.1 del Estatuto de Autonomía de Canarias, promulgo y ordeno la publicación de la [Ley 4/2023](../../madrid/01_marco_normativo_general_y_organico/L4_2023_derechos_garantias_proteccion_integral_infancia_adolescencia_madrid.md), de 23 de marzo, de la Presidencia y del Gobierno de Canarias.
 
 ÍNDICE
 
@@ -516,7 +521,7 @@ Sea notorio a todos los ciudadanos y ciudadanas que el Parlamento de Canarias ha
 
 ### Disposiciones finales
 
-#### Primera. Modificación de la Ley 14/1990, de 26 de julio, de Régimen Jurídico de las Administraciones Públicas de Canarias
+#### Primera. Modificación de la [Ley 14/1990](./L14_1990_regimen_juridico_administraciones_publicas_canarias.md), de 26 de julio, de Régimen Jurídico de las Administraciones Públicas de Canarias
 
 #### Segunda. Facultades de desarrollo.
 
@@ -524,7 +529,7 @@ Sea notorio a todos los ciudadanos y ciudadanas que el Parlamento de Canarias ha
 
 **I**
 
-El régimen, organización y funcionamiento del Gobierno, así como el estatuto de sus miembros, se ha venido rigiendo durante cuatro décadas por las normas contenidas en la Ley 1/1983, de 14 de abril, del Gobierno y de la Administración Pública de la Comunidad Autónoma de Canarias, cuyo título II, que abordaba la regulación de la Administración pública de la Comunidad Autónoma de Canarias, fue derogado por la Ley 14/1990, de 26 de julio, de Régimen Jurídico de las Administraciones Públicas de Canarias.
+El régimen, organización y funcionamiento del Gobierno, así como el estatuto de sus miembros, se ha venido rigiendo durante cuatro décadas por las normas contenidas en la [Ley 1/1983](../../madrid/01_marco_normativo_general_y_organico/L1_1983_gobierno_administracion_comunidad_madrid.md), de 14 de abril, del Gobierno y de la Administración Pública de la Comunidad Autónoma de Canarias, cuyo título II, que abordaba la regulación de la Administración pública de la Comunidad Autónoma de Canarias, fue derogado por la [Ley 14/1990](./L14_1990_regimen_juridico_administraciones_publicas_canarias.md), de 26 de julio, de Régimen Jurídico de las Administraciones Públicas de Canarias.
 
 Dicha ley se aprobó en uso de la competencia exclusiva en materia de organización, régimen y funcionamiento de sus instituciones de autogobierno que el Estatuto de Autonomía de Canarias, aprobado por Ley Orgánica 10/1982, de 10 de agosto, atribuía a la comunidad autónoma, y en cumplimiento del mandato contenido en su artículo 16.2, que establecía que una ley determinará la composición y atribuciones del Gobierno, así como el estatuto de sus miembros.
 
@@ -532,9 +537,9 @@ Hay que resaltar, además, que dicha ley fue la primera y única ley aprobada po
 
 Sin embargo, la necesidad de adecuar el régimen, organización y funcionamiento de la Presidencia y el Gobierno de Canarias a las circunstancias actuales, básicamente se impone por dos motivos.
 
-El primero, como consecuencia de la reforma del Estatuto de Autonomía de Canarias, aprobada por la Ley Orgánica 1/2018, de 5 de noviembre, que ha introducido distintas previsiones que modifican la configuración tanto de la Presidencia como del Gobierno de Canarias, entre las que, sin perjuicio de otros aspectos, hay que destacar la atribución a la Presidencia de la facultad de disolución anticipada del Parlamento de Canarias, la supresión de la limitación numérica del Gobierno de Canarias, la posibilidad de que el Gobierno dicte decretos leyes en caso de extraordinaria y urgente necesidad y las limitaciones del Gobierno cesante o en funciones. Aspectos del régimen de configuración, organización, atribuciones y funcionamiento de la Presidencia y del Gobierno de Canarias que deben articularse en la regulación legal de las mismas, máxime cuando el propio Estatuto de Autonomía de Canarias remite a la ley, por una parte, el desarrollo del estatuto y atribuciones de quienes forman parte del Gobierno (artículo 51.2); y, por otra, la regulación de las atribuciones del Gobierno cesante (artículo 52.2).
+El primero, como consecuencia de la reforma del Estatuto de Autonomía de Canarias, aprobada por la [Ley Orgánica 1/2018](./LO1_2018_reforma_estatuto_autonomia_canarias.md), de 5 de noviembre, que ha introducido distintas previsiones que modifican la configuración tanto de la Presidencia como del Gobierno de Canarias, entre las que, sin perjuicio de otros aspectos, hay que destacar la atribución a la Presidencia de la facultad de disolución anticipada del Parlamento de Canarias, la supresión de la limitación numérica del Gobierno de Canarias, la posibilidad de que el Gobierno dicte decretos leyes en caso de extraordinaria y urgente necesidad y las limitaciones del Gobierno cesante o en funciones. Aspectos del régimen de configuración, organización, atribuciones y funcionamiento de la Presidencia y del Gobierno de Canarias que deben articularse en la regulación legal de las mismas, máxime cuando el propio Estatuto de Autonomía de Canarias remite a la ley, por una parte, el desarrollo del estatuto y atribuciones de quienes forman parte del Gobierno (artículo 51.2); y, por otra, la regulación de las atribuciones del Gobierno cesante (artículo 52.2).
 
-Y el segundo atiende a la conveniencia de corregir en este preciso momento las deficiencias, insuficiencias y carencias que se han puesto de manifiesto a lo largo del dilatado periodo de vigencia de la Ley 1/1983, de 14 de abril, aun cuando la mayoría se han superado con una aplicación de la norma conciliadora con los propósitos de la acción de Gobierno y con el eficaz y transparente funcionamiento de este.
+Y el segundo atiende a la conveniencia de corregir en este preciso momento las deficiencias, insuficiencias y carencias que se han puesto de manifiesto a lo largo del dilatado periodo de vigencia de la [Ley 1/1983](../../madrid/01_marco_normativo_general_y_organico/L1_1983_gobierno_administracion_comunidad_madrid.md), de 14 de abril, aun cuando la mayoría se han superado con una aplicación de la norma conciliadora con los propósitos de la acción de Gobierno y con el eficaz y transparente funcionamiento de este.
 
 **II**
 
@@ -564,9 +569,9 @@ El título VI, bajo la rúbrica de control de la actuación del Gobierno, consta
 
 En las disposiciones adicionales se recoge, por una parte, el uso de las nuevas tecnologías en el funcionamiento del Gobierno y sus comisiones, la previsión de existencia de delegaciones del Gobierno de Canarias en el exterior, y la posibilidad de desconcentración y delegación de las competencias del presidente o presidenta como titular del departamento.
 
-La disposición derogatoria procede a la derogación expresa de la Ley 1/1983, de 14 de abril, del Gobierno y de la Administración Pública de la Comunidad Autónoma de Canarias, y de la disposición adicional segunda de la Ley 4/1997, de 6 de junio, sobre sedes de los órganos de la Administración Pública de la Comunidad Autónoma de Canarias, así como de todas las disposiciones de igual o inferior rango que se opongan, contradigan o resulten incompatibles con esta nueva ley.
+La disposición derogatoria procede a la derogación expresa de la [Ley 1/1983](../../madrid/01_marco_normativo_general_y_organico/L1_1983_gobierno_administracion_comunidad_madrid.md), de 14 de abril, del Gobierno y de la Administración Pública de la Comunidad Autónoma de Canarias, y de la disposición adicional segunda de la Ley 4/1997, de 6 de junio, sobre sedes de los órganos de la Administración Pública de la Comunidad Autónoma de Canarias, así como de todas las disposiciones de igual o inferior rango que se opongan, contradigan o resulten incompatibles con esta nueva ley.
 
-Las disposiciones finales contienen, en primer término, la modificación parcial de la Ley 14/1990, de 26 de julio, de Régimen Jurídico de las Administraciones Públicas de Canarias; en segundo lugar, la habilitación al Gobierno y al presidente o presidenta, en cada uno en los ámbitos que se determinan en el articulado de la propia ley, para el desarrollo y ejecución de la misma; y, por último, su entrada en vigor, que se producirá al día siguiente de su publicación en el Boletín Oficial de Canarias, pues su aplicación no presenta dificultades que exijan que se demore su entrada en vigor.
+Las disposiciones finales contienen, en primer término, la modificación parcial de la [Ley 14/1990](./L14_1990_regimen_juridico_administraciones_publicas_canarias.md), de 26 de julio, de Régimen Jurídico de las Administraciones Públicas de Canarias; en segundo lugar, la habilitación al Gobierno y al presidente o presidenta, en cada uno en los ámbitos que se determinan en el articulado de la propia ley, para el desarrollo y ejecución de la misma; y, por último, su entrada en vigor, que se producirá al día siguiente de su publicación en el Boletín Oficial de Canarias, pues su aplicación no presenta dificultades que exijan que se demore su entrada en vigor.
 
 ## Título Preliminar
 
@@ -1302,7 +1307,7 @@ INICIATIVA LEGISLATIVA Y POTESTADES NORMATIVAS DEL GOBIERNO
 
 #### Artículo 66. Principios de buena regulación.
 
-1. En el ejercicio de la iniciativa legislativa y de las potestades normativas previstas en este título se actuará de acuerdo con los principios de necesidad, eficacia, proporcionalidad, seguridad jurídica, transparencia y eficiencia, en los términos previstos en la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, o norma que la sustituya.
+1. En el ejercicio de la iniciativa legislativa y de las potestades normativas previstas en este título se actuará de acuerdo con los principios de necesidad, eficacia, proporcionalidad, seguridad jurídica, transparencia y eficiencia, en los términos previstos en la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, o norma que la sustituya.
 
 2. En la exposición de motivos de los anteproyectos de ley y de los decretos leyes, o en el preámbulo de los proyectos de reglamento, según se trate, se justificará la adecuación a los mencionados principios.
 
@@ -1622,7 +1627,7 @@ d) La valoración económica de la iniciativa reglamentaria.
 
 3. Los proyectos de reglamentos en materia organizativa no serán objeto de consulta previa, pero podrán someterse al trámite de información pública cuando así lo considere conveniente el órgano competente para su aprobación o para proponer su aprobación al Gobierno.
 
-4. La tramitación de los decretos que determinen el número, denominación y competencias de las consejerías, así como los que establezcan la estructura orgánica y las sedes de las consejerías, se limitará a los informes del Servicio Jurídico y del órgano competente en materia de gasto público, todo ello sin perjuicio de lo dispuesto en el artículo 27 de la Ley 14/1990, de 26 de julio, o ley que la sustituya.
+4. La tramitación de los decretos que determinen el número, denominación y competencias de las consejerías, así como los que establezcan la estructura orgánica y las sedes de las consejerías, se limitará a los informes del Servicio Jurídico y del órgano competente en materia de gasto público, todo ello sin perjuicio de lo dispuesto en el artículo 27 de la [Ley 14/1990](./L14_1990_regimen_juridico_administraciones_publicas_canarias.md), de 26 de julio, o ley que la sustituya.
 
 #### Artículo 83. Iniciativas reglamentarias en caso de cese del Gobierno.
 
@@ -1690,15 +1695,15 @@ El Gobierno podrá crear delegaciones del Gobierno de Canarias en el exterior pa
 
 Quedan derogadas todas las disposiciones de igual o inferior rango que se opongan, contradigan o resulten incompatibles con la presente ley, y específicamente las siguientes:
 
-1. La Ley 1/1983, de 14 de abril, del Gobierno y de la Administración Pública de la Comunidad Autónoma de Canarias.
+1. La [Ley 1/1983](../../madrid/01_marco_normativo_general_y_organico/L1_1983_gobierno_administracion_comunidad_madrid.md), de 14 de abril, del Gobierno y de la Administración Pública de la Comunidad Autónoma de Canarias.
 
 2. La disposición adicional segunda de la Ley 4/1997, de 6 de junio, sobre sedes de los órganos de la Administración Pública de la Comunidad Autónoma de Canarias.
 
 ### Disposiciones finales
 
-#### Primera. Modificación de la Ley 14/1990, de 26 de julio, de Régimen Jurídico de las Administraciones Públicas de Canarias.
+#### Primera. Modificación de la [Ley 14/1990](./L14_1990_regimen_juridico_administraciones_publicas_canarias.md), de 26 de julio, de Régimen Jurídico de las Administraciones Públicas de Canarias.
 
-Se modifica la Ley 14/1990, de 26 de julio, de Régimen Jurídico de las Administraciones Públicas de Canarias, en los términos siguientes:
+Se modifica la [Ley 14/1990](./L14_1990_regimen_juridico_administraciones_publicas_canarias.md), de 26 de julio, de Régimen Jurídico de las Administraciones Públicas de Canarias, en los términos siguientes:
 
 Uno.- El artículo 27 queda.
 

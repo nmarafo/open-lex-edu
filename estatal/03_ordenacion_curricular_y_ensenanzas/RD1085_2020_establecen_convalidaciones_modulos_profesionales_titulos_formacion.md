@@ -349,9 +349,17 @@ relaciones:
   - norma_id: norm-es-2021-20113
   - norma_id: norm-es-2021-979
   - norma_id: norm-es-2010-12201
+fundamentos_derecho:
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-es-l-39-2015
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-2001-7022
+- norma_id: norm-es-rd-39-1997
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2021-979
+- norma_id: norm-es-2010-12201
 ---
-
-# Real Decreto 1085/2020, de 9 de diciembre, por el que se establecen convalidaciones de módulos profesionales de los títulos de Formación Profesional del sistema educativo español y las medidas para su aplicación, y se modifica el Real Decreto 1147/2011, de 29 de julio, por el que se establece la ordenación general de la formación profesional del sistema educativo.
+# [Real Decreto 1085/2020](./RD1085_2020_correccion_errores_real_decreto_establecen_convalidaciones.md), de 9 de diciembre, por el que se establecen convalidaciones de módulos profesionales de los títulos de Formación Profesional del sistema educativo español y las medidas para su aplicación, y se modifica el Real Decreto 1147/2011, de 29 de julio, por el que se establece la ordenación general de la formación profesional del sistema educativo.
 
 ## Preámbulo
 
@@ -685,7 +693,7 @@ Formación aportada
 
 Formación a convalidar
 
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 1/1990
+Módulos profesionales de diferentes títulos regulados por la [Ley Orgánica 1/1990](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md)
 
 Módulos Profesionales de Lengua Extranjera de ciclos formativos de Grado Medio o Superior, en cualquiera de sus denominaciones, siempre que sea la misma que la que se desea convalidar.
 
@@ -705,7 +713,7 @@ Formación aportada
 
 Formación a convalidar
 
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 1/1990
+Módulos profesionales de diferentes títulos regulados por la [Ley Orgánica 1/1990](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md)
 
 Módulos Profesionales de Lengua Extranjera de ciclos formativos de Grado Superior, en cualquiera de sus denominaciones, siempre que sea la misma que la que se desea convalidar.
 
@@ -725,7 +733,7 @@ Formación aportada
 
 Formación a convalidar
 
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 1/1990
+Módulos profesionales de diferentes títulos regulados por la [Ley Orgánica 1/1990](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md)
 
 MP Segunda Lengua Extranjera, siempre que sea la misma que la que se desea convalidar.
 
@@ -745,7 +753,7 @@ Formación aportada
 
 Formación a convalidar
 
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 1/1990
+Módulos profesionales de diferentes títulos regulados por la [Ley Orgánica 1/1990](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md)
 
 GRADO MEDIO
 
@@ -769,7 +777,7 @@ Formación aportada
 
 Formación a convalidar
 
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 1/1990
+Módulos profesionales de diferentes títulos regulados por la [Ley Orgánica 1/1990](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md)
 
 GRADO SUPERIOR
 
@@ -799,7 +807,7 @@ Formación aportada
 
 Formación a convalidar
 
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 1/1990
+Módulos profesionales de diferentes títulos regulados por la [Ley Orgánica 1/1990](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md)
 
 GRADO MEDIO
 
@@ -839,7 +847,7 @@ Formación aportada
 
 Formación a convalidar
 
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 1/1990
+Módulos profesionales de diferentes títulos regulados por la [Ley Orgánica 1/1990](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md)
 
 GRADO MEDIO
 
@@ -6857,7 +6865,7 @@ Química textil
 
 ## Anexo II
 
-Convalidaciones de módulos profesionales entre títulos regulados por la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo y por la Ley Orgánica 2/2006, de 3 de mayo, de Educación
+Convalidaciones de módulos profesionales entre títulos regulados por la [Ley Orgánica 1/1990](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md), de 3 de octubre, de Ordenación General del Sistema Educativo y por la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación
 
 Convalidaciones de los módulos profesionales de Formación y Orientación Laboral
 
@@ -6865,9 +6873,9 @@ Formación aportada
 
 Formación a convalidar
 
-Módulos Profesionales de diferentes títulos regulados por la Ley Orgánica 1/1990
+Módulos Profesionales de diferentes títulos regulados por la [Ley Orgánica 1/1990](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md)
 
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
+Módulos profesionales de diferentes títulos regulados por la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md)
 
 GRADO MEDIO Y GRADO SUPERIOR
 
@@ -6891,11 +6899,11 @@ Formación aportada
 
 Formación a convalidar
 
-Módulos Profesionales de diferentes títulos regulados por la Ley Orgánica 1/1990
+Módulos Profesionales de diferentes títulos regulados por la [Ley Orgánica 1/1990](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md)
 
 Empresa e Iniciativa Emprendedora
 
-(Ley Orgánica 2/2006)
+([Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md))
 
 GRADO MEDIO Y GRADO SUPERIOR
 
@@ -7035,9 +7043,9 @@ Formación aportada
 
 Formación a convalidar
 
-Módulos Profesionales de diferentes títulos regulados por la Ley Orgánica 1/1990
+Módulos Profesionales de diferentes títulos regulados por la [Ley Orgánica 1/1990](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md)
 
-Módulos profesionales de inglés de diferentes títulos regulados por la Ley Orgánica 2/2006
+Módulos profesionales de inglés de diferentes títulos regulados por la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md)
 
 GRADO MEDIO
 
@@ -7083,9 +7091,9 @@ Formación aportada
 
 Formación a convalidar
 
-Módulos Profesionales de diferentes títulos regulados por la Ley Orgánica 1/1990
+Módulos Profesionales de diferentes títulos regulados por la [Ley Orgánica 1/1990](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md)
 
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
+Módulos profesionales de diferentes títulos regulados por la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md)
 
 GRADO SUPERIOR
 
@@ -7101,9 +7109,9 @@ Formación aportada
 
 Formación a convalidar
 
-Módulos Profesionales de diferentes títulos regulados por la Ley Orgánica 1/1990
+Módulos Profesionales de diferentes títulos regulados por la [Ley Orgánica 1/1990](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md)
 
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
+Módulos profesionales de diferentes títulos regulados por la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md)
 
 Técnico en Cuidados Auxiliares de Enfermería
 
@@ -7119,9 +7127,9 @@ Formación aportada
 
 Formación a convalidar
 
-Módulos Profesionales de diferentes títulos regulados por la Ley Orgánica 1/1990
+Módulos Profesionales de diferentes títulos regulados por la [Ley Orgánica 1/1990](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md)
 
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
+Módulos profesionales de diferentes títulos regulados por la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md)
 
 GRADO MEDIO
 
@@ -7291,9 +7299,9 @@ Formación aportada
 
 Formación a convalidar
 
-Módulos Profesionales de diferentes títulos regulados por la Ley Orgánica 1/1990
+Módulos Profesionales de diferentes títulos regulados por la [Ley Orgánica 1/1990](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md)
 
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
+Módulos profesionales de diferentes títulos regulados por la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md)
 
 GRADO MEDIO
 
@@ -7875,9 +7883,9 @@ Formación aportada
 
 Formación a convalidar
 
-Módulos Profesionales de diferentes títulos regulados por la Ley Orgánica 1/1990
+Módulos Profesionales de diferentes títulos regulados por la [Ley Orgánica 1/1990](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md)
 
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
+Módulos profesionales de diferentes títulos regulados por la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md)
 
 GRADO MEDIO
 
@@ -8057,9 +8065,9 @@ Formación aportada
 
 Formación a convalidar
 
-Módulos Profesionales de diferentes títulos regulados por la Ley Orgánica 1/1990
+Módulos Profesionales de diferentes títulos regulados por la [Ley Orgánica 1/1990](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md)
 
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
+Módulos profesionales de diferentes títulos regulados por la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md)
 
 GRADO MEDIO
 
@@ -8305,9 +8313,9 @@ Formación aportada
 
 Formación a convalidar
 
-Módulos Profesionales de diferentes títulos regulados por la Ley Orgánica 1/1990
+Módulos Profesionales de diferentes títulos regulados por la [Ley Orgánica 1/1990](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md)
 
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
+Módulos profesionales de diferentes títulos regulados por la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md)
 
 GRADO MEDIO
 
@@ -8665,9 +8673,9 @@ Formación aportada
 
 Formación a convalidar
 
-Módulos Profesionales de diferentes títulos regulados por la Ley Orgánica 1/1990
+Módulos Profesionales de diferentes títulos regulados por la [Ley Orgánica 1/1990](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md)
 
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
+Módulos profesionales de diferentes títulos regulados por la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md)
 
 GRADO MEDIO
 
@@ -9059,9 +9067,9 @@ Formación aportada
 
 Formación a convalidar
 
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 1/1990
+Módulos profesionales de diferentes títulos regulados por la [Ley Orgánica 1/1990](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md)
 
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
+Módulos profesionales de diferentes títulos regulados por la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md)
 
 GRADO MEDIO
 
@@ -9251,9 +9259,9 @@ Formación aportada
 
 Formación a convalidar
 
-Módulos Profesionales de diferentes títulos regulados por la Ley Orgánica 1/1990
+Módulos Profesionales de diferentes títulos regulados por la [Ley Orgánica 1/1990](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md)
 
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
+Módulos profesionales de diferentes títulos regulados por la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md)
 
 GRADO MEDIO
 
@@ -9907,9 +9915,9 @@ Formación aportada
 
 Formación a convalidar
 
-Módulos Profesionales de diferentes títulos regulados por la Ley Orgánica 1/1990
+Módulos Profesionales de diferentes títulos regulados por la [Ley Orgánica 1/1990](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md)
 
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
+Módulos profesionales de diferentes títulos regulados por la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md)
 
 GRADO MEDIO
 
@@ -10247,9 +10255,9 @@ Formación aportada
 
 Formación a convalidar
 
-Módulos Profesionales de diferentes títulos regulados por la Ley Orgánica 1/1990
+Módulos Profesionales de diferentes títulos regulados por la [Ley Orgánica 1/1990](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md)
 
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
+Módulos profesionales de diferentes títulos regulados por la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md)
 
 GRADO MEDIO
 
@@ -10459,9 +10467,9 @@ Formación aportada
 
 Formación a convalidar
 
-Módulos Profesionales de diferentes títulos regulados por la Ley Orgánica 1/1990
+Módulos Profesionales de diferentes títulos regulados por la [Ley Orgánica 1/1990](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md)
 
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
+Módulos profesionales de diferentes títulos regulados por la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md)
 
 GRADO MEDIO
 
@@ -10653,9 +10661,9 @@ Formación aportada
 
 Formación a convalidar
 
-Módulos Profesionales de diferentes títulos regulados por la Ley Orgánica 1/1990
+Módulos Profesionales de diferentes títulos regulados por la [Ley Orgánica 1/1990](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md)
 
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
+Módulos profesionales de diferentes títulos regulados por la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md)
 
 GRADO MEDIO
 
@@ -11079,9 +11087,9 @@ Formación aportada
 
 Formación a convalidar
 
-Módulos Profesionales de diferentes títulos regulados por la Ley Orgánica 1/1990
+Módulos Profesionales de diferentes títulos regulados por la [Ley Orgánica 1/1990](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md)
 
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
+Módulos profesionales de diferentes títulos regulados por la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md)
 
 GRADO MEDIO
 
@@ -11271,9 +11279,9 @@ Formación aportada
 
 Formación a convalidar
 
-Módulos Profesionales de diferentes títulos regulados por la Ley Orgánica 1/1990
+Módulos Profesionales de diferentes títulos regulados por la [Ley Orgánica 1/1990](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md)
 
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
+Módulos profesionales de diferentes títulos regulados por la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md)
 
 GRADO MEDIO
 
@@ -11841,9 +11849,9 @@ Formación aportada
 
 Formación a convalidar
 
-Módulos Profesionales de diferentes títulos regulados por la Ley Orgánica 1/1990
+Módulos Profesionales de diferentes títulos regulados por la [Ley Orgánica 1/1990](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md)
 
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
+Módulos profesionales de diferentes títulos regulados por la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md)
 
 GRADO MEDIO
 
@@ -12065,9 +12073,9 @@ Formación aportada
 
 Formación a convalidar
 
-Módulos Profesionales de diferentes títulos regulados por la Ley Orgánica 1/1990
+Módulos Profesionales de diferentes títulos regulados por la [Ley Orgánica 1/1990](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md)
 
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
+Módulos profesionales de diferentes títulos regulados por la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md)
 
 GRADO MEDIO
 
@@ -12397,9 +12405,9 @@ Formación aportada
 
 Formación a convalidar
 
-Módulos Profesionales de diferentes títulos regulados por la Ley Orgánica 1/1990
+Módulos Profesionales de diferentes títulos regulados por la [Ley Orgánica 1/1990](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md)
 
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
+Módulos profesionales de diferentes títulos regulados por la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md)
 
 GRADO MEDIO
 
@@ -12703,9 +12711,9 @@ Formación aportada
 
 Formación a convalidar
 
-Módulos Profesionales de diferentes títulos regulados por la Ley Orgánica 1/1990
+Módulos Profesionales de diferentes títulos regulados por la [Ley Orgánica 1/1990](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md)
 
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
+Módulos profesionales de diferentes títulos regulados por la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md)
 
 GRADO MEDIO
 
@@ -13149,9 +13157,9 @@ Formación aportada
 
 Formación a convalidar
 
-Módulos Profesionales de diferentes títulos regulados por la Ley Orgánica 1/1990
+Módulos Profesionales de diferentes títulos regulados por la [Ley Orgánica 1/1990](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md)
 
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
+Módulos profesionales de diferentes títulos regulados por la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md)
 
 GRADO MEDIO
 
@@ -13509,9 +13517,9 @@ Formación aportada
 
 Formación a convalidar
 
-Módulos Profesionales de diferentes títulos regulados por la Ley Orgánica 1/1990
+Módulos Profesionales de diferentes títulos regulados por la [Ley Orgánica 1/1990](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md)
 
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
+Módulos profesionales de diferentes títulos regulados por la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md)
 
 GRADO MEDIO
 
@@ -13925,9 +13933,9 @@ Formación aportada
 
 Formación a convalidar
 
-Módulos Profesionales de diferentes títulos regulados por la Ley Orgánica 1/1990
+Módulos Profesionales de diferentes títulos regulados por la [Ley Orgánica 1/1990](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md)
 
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
+Módulos profesionales de diferentes títulos regulados por la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md)
 
 GRADO MEDIO
 
@@ -14255,9 +14263,9 @@ Formación aportada
 
 Formación a convalidar
 
-Módulos Profesionales de diferentes títulos regulados por la Ley Orgánica 1/1990
+Módulos Profesionales de diferentes títulos regulados por la [Ley Orgánica 1/1990](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md)
 
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
+Módulos profesionales de diferentes títulos regulados por la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md)
 
 GRADO MEDIO
 
@@ -14333,7 +14341,7 @@ Cerámicas avanzadas.
 
 ## Anexo III
 
-Convalidaciones de módulos profesionales incluidos en los títulos de Formación Profesional aprobados de conformidad con la Ley Orgánica 2/2006, de 3 de mayo, de Educación
+Convalidaciones de módulos profesionales incluidos en los títulos de Formación Profesional aprobados de conformidad con la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación
 
 Para todos los ciclos formativos con formación y orientación laboral
 
@@ -14341,9 +14349,9 @@ Formación aportada
 
 Formación a convalidar
 
-Módulos profesionales de diferentes títulos regulados por Ley Orgánica 2/2006
+Módulos profesionales de diferentes títulos regulados por [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md)
 
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
+Módulos profesionales de diferentes títulos regulados por la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md)
 
 Formación y orientación laboral.
 
@@ -14353,7 +14361,7 @@ Formación aportada
 
 Formación a convalidar
 
-Módulos profesionales de diferentes títulos regulados por Ley Orgánica 2/2006
+Módulos profesionales de diferentes títulos regulados por [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md)
 
 Módulos profesionales de diferentes títulos regulados por la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
 
@@ -14365,7 +14373,7 @@ Formación aportada
 
 Formación a convalidar
 
-Módulos profesionales de diferentes títulos regulados por Ley Orgánica 2/2006
+Módulos profesionales de diferentes títulos regulados por [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md)
 
 Módulos profesionales de diferentes títulos regulados por la Ley Orgánica2/2006
 
@@ -14399,9 +14407,9 @@ Formación aportada
 
 Formación a convalidar
 
-Módulos profesionales de diferentes títulos regulados por Ley Orgánica 2/2006
+Módulos profesionales de diferentes títulos regulados por [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md)
 
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
+Módulos profesionales de diferentes títulos regulados por la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md)
 
 0179 Inglés.
 
@@ -14445,9 +14453,9 @@ Formación aportada
 
 Formación a convalidar
 
-Módulos profesionales de diferentes títulos regulados por Ley Orgánica 2/2006
+Módulos profesionales de diferentes títulos regulados por [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md)
 
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
+Módulos profesionales de diferentes títulos regulados por la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md)
 
 Certificado del Ciclo Elemental o de Aptitud, de la Escuela Oficial de Idiomas.
 
@@ -14475,7 +14483,7 @@ Formación aportada
 
 Formación a convalidar
 
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
+Módulos profesionales de diferentes títulos regulados por la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md)
 
 GRADO SUPERIOR
 
@@ -14555,7 +14563,7 @@ Formación aportada
 
 Formación a convalidar
 
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
+Módulos profesionales de diferentes títulos regulados por la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md)
 
 GRADO MEDIO
 
@@ -14651,7 +14659,7 @@ Formación aportada
 
 Formación a convalidar
 
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
+Módulos profesionales de diferentes títulos regulados por la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md)
 
 GRADO MEDIO
 
@@ -14735,7 +14743,7 @@ Formación aportada
 
 Formación a convalidar
 
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
+Módulos profesionales de diferentes títulos regulados por la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md)
 
 GRADO MEDIO
 
@@ -14947,7 +14955,7 @@ Formación aportada
 
 Formación a convalidar
 
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
+Módulos profesionales de diferentes títulos regulados por la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md)
 
 GRADO MEDIO
 
@@ -15045,7 +15053,7 @@ Formación aportada
 
 Formación a convalidar
 
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
+Módulos profesionales de diferentes títulos regulados por la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md)
 
 GRADO MEDIO
 
@@ -15339,7 +15347,7 @@ Formación aportada
 
 Formación a convalidar
 
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
+Módulos profesionales de diferentes títulos regulados por la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md)
 
 GRADO MEDIO
 
@@ -15715,7 +15723,7 @@ Formación aportada
 
 Formación a convalidar
 
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
+Módulos profesionales de diferentes títulos regulados por la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md)
 
 GRADO MEDIO
 
@@ -16007,7 +16015,7 @@ Formación aportada
 
 Formación a convalidar
 
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
+Módulos profesionales de diferentes títulos regulados por la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md)
 
 GRADO SUPERIOR
 
@@ -16175,7 +16183,7 @@ Formación aportada
 
 Formación a convalidar
 
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
+Módulos profesionales de diferentes títulos regulados por la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md)
 
 GRADO MEDIO
 
@@ -16285,7 +16293,7 @@ Formación aportada
 
 Formación a convalidar
 
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
+Módulos profesionales de diferentes títulos regulados por la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md)
 
 GRADO MEDIO
 
@@ -16393,7 +16401,7 @@ Formación aportada
 
 Formación a convalidar
 
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
+Módulos profesionales de diferentes títulos regulados por la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md)
 
 GRADO MEDIO
 
@@ -17013,7 +17021,7 @@ Formación aportada
 
 Formación a convalidar
 
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
+Módulos profesionales de diferentes títulos regulados por la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md)
 
 GRADO MEDIO
 
@@ -17111,7 +17119,7 @@ Formación aportada
 
 Formación a convalidar
 
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
+Módulos profesionales de diferentes títulos regulados por la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md)
 
 Módulos profesionales de diferentes títulos regulados por la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
 
@@ -17505,7 +17513,7 @@ Formación aportada
 
 Formación a convalidar
 
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
+Módulos profesionales de diferentes títulos regulados por la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md)
 
 GRADO MEDIO
 
@@ -17729,7 +17737,7 @@ Formación aportada
 
 Formación a convalidar
 
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
+Módulos profesionales de diferentes títulos regulados por la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md)
 
 GRADO MEDIO
 
@@ -17857,7 +17865,7 @@ Formación aportada
 
 Formación a convalidar
 
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
+Módulos profesionales de diferentes títulos regulados por la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md)
 
 GRADO MEDIO
 
@@ -17983,7 +17991,7 @@ Formación aportada
 
 Formación a convalidar
 
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
+Módulos profesionales de diferentes títulos regulados por la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md)
 
 GRADO MEDIO
 
@@ -18103,7 +18111,7 @@ Formación aportada
 
 Formación a convalidar
 
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
+Módulos profesionales de diferentes títulos regulados por la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md)
 
 GRADO MEDIO
 
@@ -18249,7 +18257,7 @@ Formación aportada
 
 Formación a convalidar
 
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
+Módulos profesionales de diferentes títulos regulados por la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md)
 
 GRADO MEDIO
 
@@ -18315,7 +18323,7 @@ Formación aportada
 
 Formación a convalidar
 
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
+Módulos profesionales de diferentes títulos regulados por la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md)
 
 GRADO MEDIO
 
@@ -18717,7 +18725,7 @@ Formación aportada
 
 Formación a convalidar
 
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
+Módulos profesionales de diferentes títulos regulados por la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md)
 
 Técnico en Mantenimiento de Material Rodante Ferroviario
 
@@ -18755,7 +18763,7 @@ Cualquier ciclo formativo
 
 Comercio y Marketing/Hostelería y Turismo
 
-c) Convalidaciones entre módulos profesionales establecidos en el título de Técnico en Comercialización de productos alimentarios (RD 189/2018, de 6 de abril) y los de otros títulos establecidos al amparo de la Ley Orgánica 2/2006 (LOE).
+c) Convalidaciones entre módulos profesionales establecidos en el título de Técnico en Comercialización de productos alimentarios (RD 189/2018, de 6 de abril) y los de otros títulos establecidos al amparo de la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md) (LOE).
 
 Formación aportada
 
@@ -18785,7 +18793,7 @@ Ciclo completo.
 
 Transporte y Mantenimiento de Vehículos
 
-b) Convalidaciones entre módulos profesionales de títulos establecidos al amparo de la Ley Orgánica 2/2006 (LOE) y los establecidos en el título de Técnico en Montaje de estructuras e Instalación de sistemas aeronáuticos (RD 74/2018, de 19 de febrero).
+b) Convalidaciones entre módulos profesionales de títulos establecidos al amparo de la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md) (LOE) y los establecidos en el título de Técnico en Montaje de estructuras e Instalación de sistemas aeronáuticos (RD 74/2018, de 19 de febrero).
 
 Formación aportada
 

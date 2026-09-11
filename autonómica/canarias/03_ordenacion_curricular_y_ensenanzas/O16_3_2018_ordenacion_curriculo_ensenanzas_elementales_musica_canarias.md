@@ -33,8 +33,17 @@ relaciones:
   fundamentado_en:
   - norm-es-lo-2-2006
   - norm-can-l-6-2014
+fundamentos_derecho:
+- norma_id: norm-can-d-135-2016
+- norma_id: norm-can-l-6-2014
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-mad-l1-1983-gobierno-administracion-comunidad-madrid
+- norma_id: norm-es-l-39-2015
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
+- norma_id: norm-es-2013-12632
 ---
-
 # Orden de 16 de marzo de 2018, por la que se establece la ordenación y el currículo de las enseñanzas elementales de música en el ámbito de la Comunidad Autónoma de Canarias.
 
 ## Preámbulo
@@ -50,7 +59,7 @@ Autónoma el ejercicio de las competencias de desarrollo legislativo y de ejecuc
 materia de enseñanza en toda la extensión, niveles, grados, modalidades y especialidades, 
 sin perjuicio de lo dispuesto en el artículo 27 de la Constitución y en las leyes orgánicas que, 
 conforme al apartado 1 del artículo 81 de la misma, lo desarrollen. 
-La Ley Orgánica 2/2006, de 3 de mayo, de Educación, modificada por la Ley Orgánica 
+La [Ley Orgánica 2/2006](../05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, modificada por la Ley Orgánica 
 8/2013, de 9 de diciembre, para la mejora de la calidad educativa, dedica el Capítulo VI 
 del Título I a las enseñanzas artísticas y establece, en el artículo 45.2, que las enseñanzas 
 elementales de música forman parte de las enseñanzas artísticas. Al mismo tiempo, el artículo 
@@ -59,7 +68,7 @@ de enseñanzas de régimen especial.
 A su vez, la citada Ley Orgánica establece en su artículo 48.1 que las enseñanzas 
 elementales de música tendrán las características y la organización que las Administraciones 
 educativas determinen.
-La Ley 6/2014, de 25 de julio, Canaria de Educación no Universitaria, en el Título 
+La [Ley 6/2014](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md), de 25 de julio, Canaria de Educación no Universitaria, en el Título 
 II, Capítulo III, dedicado a las enseñanzas de régimen especial, regula las enseñanzas 
 artísticas, que tienen como finalidad facilitar una formación artística de calidad y garantizar 
 la formación de los correspondientes profesionales. Por su parte, el artículo 27 define las 
@@ -101,16 +110,16 @@ fundamental de todo el proceso de enseñanza-aprendizaje.
 En la Comunidad Autónoma de Canarias se imparten las enseñanzas elementales de 
 música, con carácter experimental, desde el año 2008, en consonancia con el Real Decreto 
 806/2006, de 30 de junio, por el que se establece el calendario de aplicación de la nueva 
-ordenación del sistema educativo, establecida por la Ley Orgánica 2/2006, de 3 de mayo, de 
+ordenación del sistema educativo, establecida por la [Ley Orgánica 2/2006](../05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de 
 Educación. Una vez culminado el proceso de implantación, es necesario establecer un marco 
 normativo que regule la ordenación y el currículo de las citadas enseñanzas.
 Cabe señalar que, en la redacción de esta norma, se da cumplimiento a los principios 
-de buena regulación a los que se refiere el artículo 129.1 de la Ley 39/2015, de 1 de 
+de buena regulación a los que se refiere el artículo 129.1 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de 
 octubre, del Procedimiento Administrativo Común de las Administraciones Públicas. Así, 
 la disposición es respetuosa con los principios de necesidad, eficacia y proporcionalidad, en 
 tanto que con ella se consigue el fin perseguido, establecer la ordenación y el currículo de las 
 enseñanzas elementales de música en el ámbito de la Comunidad Autónoma de Canarias, al 
-amparo de lo dispuesto en el mencionado artículo 48.1 de la Ley Orgánica 2/2006, de 3 de 
+amparo de lo dispuesto en el mencionado artículo 48.1 de la [Ley Orgánica 2/2006](../05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de 
 mayo, de Educación. Asimismo, el proyecto ha sido puesto a disposición de la ciudadanía 
 mediante la publicación en el portal web de la Consejería, posibilitando así su participación 
 activa en la elaboración; la iniciativa es coherente con el resto del ordenamiento jurídico, 
@@ -121,11 +130,11 @@ claramente definido, cumpliendo así los principios de seguridad jurídica, tran
 eficiencia. 
 En ejercicio de la potestad reglamentaria que corresponde a la persona titular de la 
 Consejería de Educación y Universidades, al amparo de lo establecido en el artículo 5 del 
-Decreto 135/2016, de 10 de octubre, por el que se aprueba el Reglamento Orgánico de 
+[Decreto 135/2016](../01_marco_normativo_general_y_organico/D135_2016_reglamento_organico_consejeria_educacion_universidades_cultura.md), de 10 de octubre, por el que se aprueba el Reglamento Orgánico de 
 
 Viernes 23 de marzo de 2018
 la Consejería de Educación y Universidades, en relación con los artículos 32 y 37 de la 
-Ley 1/1983, de 14 de abril, del Gobierno y de la Administración Pública de la Comunidad 
+[Ley 1/1983](../../madrid/01_marco_normativo_general_y_organico/L1_1983_gobierno_administracion_comunidad_madrid.md), de 14 de abril, del Gobierno y de la Administración Pública de la Comunidad 
 Autónoma de Canarias,
 
 ## Texto Articulado
@@ -137,7 +146,7 @@ FINALIDAD Y ORGANIZACIÓN DE LAS ENSEÑANZAS ELEMENTALES DE MÚSICA
 Artículo 1.- Objeto y ámbito de aplicación.
 1. La presente Orden tiene por objeto establecer la ordenación y el currículo de las 
 enseñanzas elementales de música en la Comunidad Autónoma de Canarias, de acuerdo con 
-lo dispuesto en la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+lo dispuesto en la [Ley Orgánica 2/2006](../05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación.
 2. Esta Orden será de aplicación en los centros educativos públicos y privados de la 
 Comunidad Autónoma de Canarias que estén autorizados para impartir estas enseñanzas.
 Artículo 2.- Finalidad y organización.
@@ -882,7 +891,7 @@ especialidad de Música, que acrediten los requisitos de experiencia docente y p
 que se establecen en el Anexo 3º de la presente Orden.
 3. Asimismo y de conformidad con el artículo quince, apartado tercero, del Real Decreto 
 303/2010, de 15 de marzo, por el que se establecen los requisitos mínimos de los centros 
-que impartan enseñanzas artísticas reguladas en la Ley Orgánica 2/2006, de 3 de mayo, de 
+que impartan enseñanzas artísticas reguladas en la [Ley Orgánica 2/2006](../05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de 
 Educación, para la impartición de la asignatura de Timple, en las citadas enseñanzas, se 
 
 Viernes 23 de marzo de 2018
@@ -897,7 +906,7 @@ establecer las convalidaciones de las asignaturas propias del currículo estable
 Orden por asignaturas pertenecientes a currículos de enseñanzas elementales de música de 
 otras Comunidades Autónomas.
 Disposición adicional segunda. Alumnado con discapacidad.
-1. En el marco de lo establecido en el Real Decreto Legislativo 1/2013, de 29 de 
+1. En el marco de lo establecido en el [Real Decreto Legislativo 1/2013](../../../estatal/07_convivencia_bienestar_y_protocolos/RDL1_2013_aprueba_texto_refundido_ley_general_derechos.md), de 29 de 
 noviembre, por el que se aprueba el texto refundido de la Ley General de derechos de las 
 personas con discapacidad y de su inclusión social, deberán cumplirse las disposiciones 
 vigentes en materia de promoción de la accesibilidad.

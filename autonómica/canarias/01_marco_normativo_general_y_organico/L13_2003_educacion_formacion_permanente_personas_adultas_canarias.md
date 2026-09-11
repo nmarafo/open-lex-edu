@@ -24,8 +24,12 @@ tags:
 - formacion-permanente
 - canarias
 - marco-general
+fundamentos_derecho:
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
 ---
-
 # Ley 13/2003, de 4 de abril, de Educación y Formación Permanente de Personas Adultas de Canarias.
 
 
@@ -816,7 +820,7 @@ Subir
 #### Disposición adicional séptima. Régimen de conciertos educativos en la modalidad de educación a distancia.
 
 
-1. La Administración Pública de la Comunidad Autónoma de Canarias, a través de la consejería competente en materia de educación y formación permanente de adultos, adaptará la aplicación de las normas reguladoras del régimen de conciertos educativos a la modalidad de educación a distancia de Radio ECCA y de todas las entidades que participen de las mismas singularidades que ésta, potenciando su inclusión en el mismo, de conformidad con lo previsto en el capítulo IV del título IV de la Ley Orgánica 2/2006, de 3 de mayo, de Educación o norma que la sustituya.
+1. La Administración Pública de la Comunidad Autónoma de Canarias, a través de la consejería competente en materia de educación y formación permanente de adultos, adaptará la aplicación de las normas reguladoras del régimen de conciertos educativos a la modalidad de educación a distancia de Radio ECCA y de todas las entidades que participen de las mismas singularidades que ésta, potenciando su inclusión en el mismo, de conformidad con lo previsto en el capítulo IV del título IV de la [Ley Orgánica 2/2006](../05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación o norma que la sustituya.
 
 2. Entre las particularidades a abordar en la normativa de adaptación a que hace referencia el apartado 1, se tendrán en cuenta, entre otras, las siguientes:
 

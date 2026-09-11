@@ -80,13 +80,20 @@ relaciones:
   - norma_id: norm-can-res-134
   - norma_id: norm-es-lo-3-2022
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2022-087-1481.pdf
+fundamentos_derecho:
+- norma_id: norm-can-l-6-2014
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-can-res-134
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-lo-3-2022
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
 ---
-
 # Resolución de 21 de abril de 2022, por la que se dictan instrucciones para la organización y el funcionamiento del Curso Específico de Acceso a Ciclos Formativos de Formación Profesional de Grado Medio que se impartirá en centros de educación de personas adultas dependientes de esta Consejería (BOC n.º 87, de 4 de mayo).
 
 ## Preámbulo
 
-Primero.- La Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la Ley Orgánica 2/2006, de 3 de mayo, de Educación, establece en su artículo único, apartado treinta y cinco, las condiciones en que queda redactado el artículo 41 "Condiciones de acceso y admisión", estableciendo, en su apartado 41.2.b), como una de las condiciones para el acceso a ciclos formativos de grado medio "haber superado un curso de formación específico preparatorio para el acceso a ciclos de grado medio en centros públicos o privados autorizados por la administración educativa". Asimismo, en el preámbulo de esta ley se establece que "es importante resaltar que todos los alumnos o alumnas que finalizan educación secundaria obligatoria, además de poder incorporarse al mundo laboral, deben tener opciones de formación posterior. Por esta razón, los alumnos y alumnas que no obtengan el título correspondiente recibirán una certificación oficial en la que constará el número de años cursados y el nivel de adquisición de las competencias. Asimismo, recibirán un consejo orientador individualizado que incluirá una propuesta sobre la opción u opciones académicas o profesionales más convenientes para continuar su proceso formativo".
+Primero.- La Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la [Ley Orgánica 2/2006](../05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, establece en su artículo único, apartado treinta y cinco, las condiciones en que queda redactado el artículo 41 "Condiciones de acceso y admisión", estableciendo, en su apartado 41.2.b), como una de las condiciones para el acceso a ciclos formativos de grado medio "haber superado un curso de formación específico preparatorio para el acceso a ciclos de grado medio en centros públicos o privados autorizados por la administración educativa". Asimismo, en el preámbulo de esta ley se establece que "es importante resaltar que todos los alumnos o alumnas que finalizan educación secundaria obligatoria, además de poder incorporarse al mundo laboral, deben tener opciones de formación posterior. Por esta razón, los alumnos y alumnas que no obtengan el título correspondiente recibirán una certificación oficial en la que constará el número de años cursados y el nivel de adquisición de las competencias. Asimismo, recibirán un consejo orientador individualizado que incluirá una propuesta sobre la opción u opciones académicas o profesionales más convenientes para continuar su proceso formativo".
 Segundo.- La [Ley Orgánica 3/2022](../08_personal_docente/R30_6_2023_ordenacion_gestion_determinadas_listas_empleo_tras.md), de 31 de marzo, de ordenación e integración de la Formación Profesional, establece, en el artículo 46, que las administraciones educativas ofertarán cursos de formación específicos preparatorios para el acceso a la formación
 
 profesional destinados a personas que no cumplan los requisitos de acceso y que "la superación de la totalidad o de parte de estos cursos dependientes de las administraciones educativas comportará la exención, total o parcial, de la prueba de acceso, considerando, en su caso, la posesión de un Grado A, B o C de formación profesional o de experiencia laboral".

@@ -152,8 +152,21 @@ relaciones:
     - Art. 29
     articulos_destino:
     - Art. 60
+fundamentos_derecho:
+- norma_id: norm-can-l-6-2014
+- norma_id: norm-can-d-142-2018
+- norma_id: norm-can-d-81-2010
+- norma_id: norm-can-o-2013-10-09
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-mad-l1-1983-gobierno-administracion-comunidad-madrid
+- norma_id: norm-es-l-39-2015
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-2016-3229
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-rd-1041-2017
+- norma_id: norm-es-2019-317
+- norma_id: norm-es-2010-12201
 ---
-
 # Orden de 15 de septiembre de 2022, por la que se regula la evaluación del alumnado de enseñanzas de idiomas y de las pruebas de certificación de idiomas de régimen especial en la Comunidad Autónoma de Canarias.
 
 ## Preámbulo
@@ -168,7 +181,7 @@ de lo dispuesto en el artículo 27 de la Constitución y en las Leyes Orgánica
 
 al apartado 1 del artículo 81 de la Carta Magna, lo desarrollen.
 
-La Ley Orgánica 2/2006, de 3 de mayo, de Educación, define las enseñanzas de idiomas
+La [Ley Orgánica 2/2006](../05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, define las enseñanzas de idiomas
 
 como aquellas de régimen especial que tienen por objeto capacitar al alumnado para el uso
 
@@ -180,7 +193,7 @@ intermedio y avanzado, y su correspondencia con los niveles A, B y C del Marco C
 
 Europeo de Referencia para las Lenguas que, a su vez, se subdividen en los niveles A1, A2,
 
-B1, B2, C1 y C2. En el ámbito autonómico, la Ley 6/2014, de 25 de julio, Canaria de Educación no
+B1, B2, C1 y C2. En el ámbito autonómico, la [Ley 6/2014](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md), de 25 de julio, Canaria de Educación no
 
 Universitaria, complementa esta definición de las enseñanzas de régimen especial, a las
 
@@ -196,7 +209,7 @@ artículo 35, regula aspectos básicos de las enseñanzas de idiomas tales como 
 
 características, y la certificación de idiomas.
 
-La citada Ley Orgánica 2/2006, de 3 de mayo, de Educación, dispone en el artículo 61
+La citada [Ley Orgánica 2/2006](../05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, dispone en el artículo 61
 
 que la evaluación del alumnado que curse sus estudios en las escuelas oficiales de idiomas
 
@@ -210,13 +223,13 @@ educativas regularán las pruebas específicas para la obtención de los certifi
 
 de los niveles básico, intermedio y avanzado.
 
-El Real Decreto 1041/2017, de 22 de diciembre, por el que se fijan las exigencias
+El [Real Decreto 1041/2017](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1041_2017_exigencias_minimas_curriculo_basico_idiomas_regimen_especial.md), de 22 de diciembre, por el que se fijan las exigencias
 
 mínimas del nivel básico a efectos de certificación, se establece el currículo básico de los
 
 niveles Intermedio B1, Intermedio B2, Avanzado C1, y Avanzado C2, de las Enseñanzas
 
-de idiomas de régimen especial reguladas por la Ley Orgánica 2/2006, de 3 de mayo, de
+de idiomas de régimen especial reguladas por la [Ley Orgánica 2/2006](../05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de
 
 Educación, y se establecen las equivalencias entre las Enseñanzas de idiomas de régimen
 
@@ -224,7 +237,7 @@ especial reguladas en diversos planes de estudios y las del citado Real Decreto,
 
 desarrollar las modificaciones que en materia de enseñanzas de régimen especial habían
 
-sido introducidas por la derogada Ley Orgánica 8/2013, de 9 de diciembre, entre las que se
+sido introducidas por la derogada [Ley Orgánica 8/2013](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md), de 9 de diciembre, entre las que se
 
 encontraba un nuevo anclaje de los niveles impartidos en las escuelas oficiales de idiomas
 
@@ -232,11 +245,11 @@ y la regulación básica para la obtención de la certificación.
 
 Fijada la ordenación general y los aspectos básicos del currículo por el mencionado
 
-Real Decreto 1041/2017, de 22  de diciembre, la Comunidad Autónoma de Canarias
+[Real Decreto 1041/2017](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1041_2017_exigencias_minimas_curriculo_basico_idiomas_regimen_especial.md), de 22  de diciembre, la Comunidad Autónoma de Canarias
 
 Lunes 26 de septiembre de 2022
 
-desarrolló para su ámbito de actuación mediante el Decreto 142/2018, de 8 de octubre, la
+desarrolló para su ámbito de actuación mediante el [Decreto 142/2018](./D142_2018_ordenacion_curriculo_ensenanzas_certificacion_idiomas_regimen_especial.md), de 8 de octubre, la
 
 ordenación y el currículo de las enseñanzas y la certificación de idiomas de régimen especial,
 
@@ -260,7 +273,7 @@ otra parte, en la
 
 vigor las disposiciones normativas e instrucciones dictadas en la materia.
 
-El Real Decreto 1041/2017, de 22 de diciembre, en el artículo 4, establece que las
+El [Real Decreto 1041/2017](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1041_2017_exigencias_minimas_curriculo_basico_idiomas_regimen_especial.md), de 22 de diciembre, en el artículo 4, establece que las
 
 enseñanzas y la certificación del nivel básico tendrán las características y organización
 
@@ -280,7 +293,7 @@ Autónomas. Asimismo, dispone en el artículo 8 que los documentos oficiales de 
 
 son el expediente académico y las actas de evaluación.
 
-En desarrollo de lo dispuesto en el citado artículo 7 se aprobó el Real Decreto 1/2019,
+En desarrollo de lo dispuesto en el citado artículo 7 se aprobó el [Real Decreto 1/2019](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1_2019_establecen_principios_basicos_comunes_evaluacion_aplicables.md),
 
 de 11 de enero, por el que se establecen los principios básicos comunes de evaluación
 
@@ -310,7 +323,7 @@ certificación de calidad.
 
 En la tramitación de esta Orden se ha dado cumplimiento a los principios de buena
 
-regulación a los que se refiere el artículo 129.1 de la Ley 39/2015, de 1 de octubre, del
+regulación a los que se refiere el artículo 129.1 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del
 
 Procedimiento Administrativo Común de las Administraciones Públicas, entre ellos los
 
@@ -342,7 +355,7 @@ así los principios de seguridad jurídica, transparencia y eficiencia.
 
 En virtud de todo ello, de acuerdo con las competencias atribuidas en el artículo 32,
 
-apartado c), de la Ley 1/1983, de 14 de abril, del Gobierno y de la Administración Pública
+apartado c), de la [Ley 1/1983](../../madrid/01_marco_normativo_general_y_organico/L1_1983_gobierno_administracion_comunidad_madrid.md), de 14 de abril, del Gobierno y de la Administración Pública
 
 de Canarias, así como en el artículo 6 del Decreto 7/2021, de 18 de febrero, por el que se
 
@@ -416,7 +429,7 @@ criterios de evaluación establecidos en los currículos de cada uno de los nive
 
 recogidos en el
 
-## Anexo 1. º del Decreto 142/2018, de 8 de octubre, por el que se establece
+## Anexo 1. º del [Decreto 142/2018](./D142_2018_ordenacion_curriculo_ensenanzas_certificacion_idiomas_regimen_especial.md), de 8 de octubre, por el que se establece
 
 la ordenación y el currículo de las enseñanzas y la certificación de idiomas de régimen
 
@@ -462,7 +475,7 @@ lo largo de la vida.
 
 didácticas la planificación de la actividad docente ateniéndose a lo que determina el
 
-Decreto 81/2010, de 8 de julio, por el que se aprueba el Reglamento Orgánico de los centros
+[Decreto 81/2010](../04_organizacion_escolar_y_funcionamiento/D81_2010_aprueba_reglamento_organico_centros_docentes_publicos.md), de 8 de julio, por el que se aprueba el Reglamento Orgánico de los centros
 
 docentes públicos no universitarios de la Comunidad Autónoma de Canarias.
 
@@ -472,7 +485,7 @@ programaciones didácticas los aspectos de los currículos establecidos en el
 
 ## Anexo 1. º del
 
-Decreto 142/2018, de 8 de octubre, que deberán ser trabajados en cada uno de los cursos
+[Decreto 142/2018](./D142_2018_ordenacion_curriculo_ensenanzas_certificacion_idiomas_regimen_especial.md), de 8 de octubre, que deberán ser trabajados en cada uno de los cursos
 
 que conforman los diferentes niveles.
 
@@ -756,7 +769,7 @@ que exista en ese caso un número de convocatorias limitado.
 
 #### Artículo 8. Evaluación para el acceso a las enseñanzas.
 
-Sin perjuicio de lo dispuesto en el artículo 11 del Decreto 142/2018, de 8 octubre, se
+Sin perjuicio de lo dispuesto en el artículo 11 del [Decreto 142/2018](./D142_2018_ordenacion_curriculo_ensenanzas_certificacion_idiomas_regimen_especial.md), de 8 octubre, se
 
 facilitará el acceso a los distintos cursos y niveles de las enseñanzas de idiomas a quienes
 
@@ -850,7 +863,7 @@ reasignación está sujeta a la existencia de plazas vacantes y se hará constar
 
 académico del alumno o alumna y en el acta de la prueba de clasificación.
 
-Excepcionalmente, en aplicación de lo establecido en el artículo 20 del Decreto 142/2018,
+Excepcionalmente, en aplicación de lo establecido en el artículo 20 del [Decreto 142/2018](./D142_2018_ordenacion_curriculo_ensenanzas_certificacion_idiomas_regimen_especial.md),
 
 de 8 octubre, sobre flexibilización del itinerario educativo en caso de ritmos acelerados en la
 
@@ -880,13 +893,13 @@ y a lo que se establezca anualmente en los procedimientos de admisión y matríc
 
 **2.1.** Cada uno de los certificados oficiales de idiomas de los distintos niveles a los que
 
-se hace referencia en los artículos 5, 6, 7, 8 y 9 del Decreto 142/2018, de 8 de octubre,
+se hace referencia en los artículos 5, 6, 7, 8 y 9 del [Decreto 142/2018](./D142_2018_ordenacion_curriculo_ensenanzas_certificacion_idiomas_regimen_especial.md), de 8 de octubre,
 
 permite el acceso al primer curso del siguiente nivel del idioma correspondiente.
 
 Lunes 26 de septiembre de 2022
 
-**2.2.** En aplicación de lo establecido en el Real Decreto 1/2019, de 11 de enero, en lo
+**2.2.** En aplicación de lo establecido en el [Real Decreto 1/2019](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1_2019_establecen_principios_basicos_comunes_evaluacion_aplicables.md), de 11 de enero, en lo
 
 que respecta al acceso a las enseñanzas de idiomas mediante la superación de algunas
 
@@ -978,7 +991,7 @@ y mediación, se podrán certificar competencias parciales relacionadas con una 
 
 estas actividades de lengua.
 
-4. De conformidad con el artículo 3.2 del Real Decreto 1/2019, de 11 de enero, las
+4. De conformidad con el artículo 3.2 del [Real Decreto 1/2019](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1_2019_establecen_principios_basicos_comunes_evaluacion_aplicables.md), de 11 de enero, las
 
 pruebas se elaborarán, administrarán y evaluarán según unos estándares que garanticen
 
@@ -994,7 +1007,7 @@ competencias, contenidos y criterios de evaluación establecidos para cada nivel
 
 de lengua en los currículos fijados en el
 
-## Anexo 1. º del Decreto 142/2018, de 8 de octubre,
+## Anexo 1. º del [Decreto 142/2018](./D142_2018_ordenacion_curriculo_ensenanzas_certificacion_idiomas_regimen_especial.md), de 8 de octubre,
 
 por el que se establece la ordenación y el currículo de las enseñanzas y la certificación de
 
@@ -1012,7 +1025,7 @@ correspondiente en el uso del idioma.
 
 a todas las personas que cumplan los requisitos y condiciones de acceso establecidos en el
 
-artículo 26 del Decreto 142/2018, de 8 de octubre, o estar destinadas a colectivos específicos
+artículo 26 del [Decreto 142/2018](./D142_2018_ordenacion_curriculo_ensenanzas_certificacion_idiomas_regimen_especial.md), de 8 de octubre, o estar destinadas a colectivos específicos
 
 definidos por unos requisitos complementarios establecidos en las convocatorias.
 
@@ -1030,7 +1043,7 @@ responsable de las enseñanzas de idiomas de régimen especial de la consejería
 
 en materia de educación.
 
-No obstante lo anterior, de acuerdo con lo previsto en el artículo 27.1 del Decreto 142/2018,
+No obstante lo anterior, de acuerdo con lo previsto en el artículo 27.1 del [Decreto 142/2018](./D142_2018_ordenacion_curriculo_ensenanzas_certificacion_idiomas_regimen_especial.md),
 
 de 8 de octubre, el alumnado que curse el nivel A2 en las escuelas oficiales de idiomas (EOI),
 
@@ -1072,7 +1085,7 @@ realizar la inscripción en las pruebas dentro de los plazos establecidos en cad
 
 2. La inscripción se realizará en las condiciones establecidas en el artículo 27.3 del
 
-Decreto 142/2018, de 8 de octubre, pudiendo efectuarse como aspirante escolarizado o
+[Decreto 142/2018](./D142_2018_ordenacion_curriculo_ensenanzas_certificacion_idiomas_regimen_especial.md), de 8 de octubre, pudiendo efectuarse como aspirante escolarizado o
 
 como aspirante libre.
 
@@ -1094,7 +1107,7 @@ curso distinto al último curso del nivel del idioma del que deseen obtener el c
 
 #### Artículo 12. Convocatorias.
 
-1. De acuerdo con lo establecido en el artículo 27.2 del citado Decreto 142/2018, de
+1. De acuerdo con lo establecido en el artículo 27.2 del citado [Decreto 142/2018](./D142_2018_ordenacion_curriculo_ensenanzas_certificacion_idiomas_regimen_especial.md), de
 
 8  de octubre, el procedimiento de pruebas de certificación de competencia general de
 
@@ -1190,7 +1203,7 @@ elaborará y publicará, para cada curso académico, un documento de especificac
 
 detallará las características de las pruebas de certificación que se convoquen, y recogerá los
 
-aspectos fijados en el artículo 4.6 del Real Decreto 1/2019, de 11 de enero.
+aspectos fijados en el artículo 4.6 del [Real Decreto 1/2019](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1_2019_establecen_principios_basicos_comunes_evaluacion_aplicables.md), de 11 de enero.
 
 #### Artículo 14. Elaboración de las pruebas.
 
@@ -1238,9 +1251,9 @@ B2, Avanzado C1 y Avanzado C2. 2. En la evaluación y calificación de las prueb
 
 referencia los criterios de evaluación recogidos para cada nivel y actividad de lengua en los
 
-currículos establecidos en el Decreto 142/2018, de 8 de octubre, así como los principios
+currículos establecidos en el [Decreto 142/2018](./D142_2018_ordenacion_curriculo_ensenanzas_certificacion_idiomas_regimen_especial.md), de 8 de octubre, así como los principios
 
-comunes de evaluación establecidos en el Real Decreto 1/2019, de 11 de enero.
+comunes de evaluación establecidos en el [Real Decreto 1/2019](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1_2019_establecen_principios_basicos_comunes_evaluacion_aplicables.md), de 11 de enero.
 
 3. El proceso de evaluación y calificación de las pruebas se desarrollará según directrices
 
@@ -1336,7 +1349,7 @@ Los certificados oficiales de enseñanzas de idiomas deberán incluir, como mín
 
 los siguientes datos: denominación del certificado (en la modalidad de certificación de
 
-competencias parciales recogida en el artículo 25.4 del Decreto 142/2018, de 8 de octubre,
+competencias parciales recogida en el artículo 25.4 del [Decreto 142/2018](./D142_2018_ordenacion_curriculo_ensenanzas_certificacion_idiomas_regimen_especial.md), de 8 de octubre,
 
 se añadirá la actividad o actividades de lengua evaluadas), órgano que lo expide, datos de la
 
@@ -1368,7 +1381,7 @@ con los créditos de las asignaturas de libre configuración.
 
 La validez de los certificados de competencias parciales por actividad de lengua a los
 
-que se refiere el artículo 25.4 del Decreto 142/2018, de 8 de octubre, estará limitada a la
+que se refiere el artículo 25.4 del [Decreto 142/2018](./D142_2018_ordenacion_curriculo_ensenanzas_certificacion_idiomas_regimen_especial.md), de 8 de octubre, estará limitada a la
 
 acreditación de la competencia en esa actividad de lengua, por lo que dichos certificados
 
@@ -1572,7 +1585,7 @@ especial podrán solicitar ser evaluadas únicamente de la actividad o actividad
 
 cuya realización no se vea afectada por su discapacidad en los términos establecidos en el
 
-artículo 23.4 del Decreto 142/2018, de 8 de octubre. La aplicación de esta evaluación se
+artículo 23.4 del [Decreto 142/2018](./D142_2018_ordenacion_curriculo_ensenanzas_certificacion_idiomas_regimen_especial.md), de 8 de octubre. La aplicación de esta evaluación se
 
 extenderá a todo el plan de estudios.
 
@@ -1636,7 +1649,7 @@ respetar lo que establece la legislación vigente en materia de protección de d
 
 personal, y, en todo caso, lo establecido en la
 
-#### disposición adicional vigesimotercera de la. Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+#### disposición adicional vigesimotercera de la. [Ley Orgánica 2/2006](../05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación.
 
 #### Artículo 23. Solicitud de aclaraciones.
 
@@ -1812,7 +1825,7 @@ idiomas de régimen especial son el expediente académico y las actas de calific
 
 #### Artículo 26. Expediente académico.
 
-1. De conformidad con lo establecido en el artículo 24 del Decreto 142/2018, de 8 de
+1. De conformidad con lo establecido en el artículo 24 del [Decreto 142/2018](./D142_2018_ordenacion_curriculo_ensenanzas_certificacion_idiomas_regimen_especial.md), de 8 de
 
 octubre, el expediente académico se considera el documento básico para garantizar la
 
@@ -1832,7 +1845,7 @@ Lunes 26 de septiembre de 2022
 
 #### Artículo 27. Actas de calificación y certificación.
 
-1. En aplicación de lo establecido en el Decreto 142/2018, de 8 de octubre, al término
+1. En aplicación de lo establecido en el [Decreto 142/2018](./D142_2018_ordenacion_curriculo_ensenanzas_certificacion_idiomas_regimen_especial.md), de 8 de octubre, al término
 
 de cada uno de los cursos de cada nivel se extenderán las actas de calificación para recoger
 
@@ -1876,11 +1889,11 @@ en todo caso, lo establecido en la
 
 #### Artículo 29. Evaluación de los cursos de especialización.
 
-1. De acuerdo con lo establecido en el artículo 60.4 de la Ley Orgánica 2/2006, de
+1. De acuerdo con lo establecido en el artículo 60.4 de la [Ley Orgánica 2/2006](../05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de
 
-3 de mayo, de Educación, en los artículos 35.2 y 35.8 de la Ley 6/2014, de 25 de julio,
+3 de mayo, de Educación, en los artículos 35.2 y 35.8 de la [Ley 6/2014](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md), de 25 de julio,
 
-Canaria de Educación no Universitaria, y en el artículo 6.5 del Real Decreto 1041/2017,
+Canaria de Educación no Universitaria, y en el artículo 6.5 del [Real Decreto 1041/2017](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1041_2017_exigencias_minimas_curriculo_basico_idiomas_regimen_especial.md),
 
 de 22 de diciembre, las escuelas oficiales de idiomas podrán organizar e impartir cursos de
 
@@ -1890,7 +1903,7 @@ general, a personas con necesidades específicas de aprendizaje de idiomas.
 
 2. La evaluación de los cursos de especialización se ajustará a lo dispuesto en el
 
-Decreto 142/2018, de 8 de octubre.
+[Decreto 142/2018](./D142_2018_ordenacion_curriculo_ensenanzas_certificacion_idiomas_regimen_especial.md), de 8 de octubre.
 
 #### Disposición adicional primera. Atribuciones a centros directivos.
 
@@ -1958,7 +1971,7 @@ Manuela de Armas Rodríguez.
 - **Cita a**: [**BOE-A-2019-317**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1_2019_establecen_principios_basicos_comunes_evaluacion_aplicables.md) desde *(Capítulo II. EVALUACIÓN DEL ALUMNADO DE ENSEÑANZAS DE IDIOMAS, Art. 8)*
 - **Cita a**: [**BOE-A-2019-317**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1_2019_establecen_principios_basicos_comunes_evaluacion_aplicables.md) (Art. 4) desde *(Capítulo III. EVALUACIÓN DE LAS PRUEBAS DE CERTIFICACIÓN, Art. 13)*
 - **Cita a**: [**BOE-A-2019-317**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1_2019_establecen_principios_basicos_comunes_evaluacion_aplicables.md) desde *(Capítulo III. EVALUACIÓN DE LAS PRUEBAS DE CERTIFICACIÓN, Art. 16)*
-- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (D. Adicional vigesimotercera) desde *(Capítulo V. GARANTÍAS EN LOS PROCESOS DE EVALUACIÓN, D. Adicional vigesimotercera de la. Ley Orgánica 2/2006, de 3 de mayo, de Educación.)*
-- **Cita a**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (D. Adicional vigesimotercera) desde *(Capítulo V. GARANTÍAS EN LOS PROCESOS DE EVALUACIÓN, D. Adicional vigesimotercera de la. Ley Orgánica 2/2006, de 3 de mayo, de Educación.)*
-- **Cita a**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (D. Adicional vigesimotercera) desde *(Capítulo V. GARANTÍAS EN LOS PROCESOS DE EVALUACIÓN, D. Adicional vigesimotercera de la. Ley Orgánica 2/2006, de 3 de mayo, de Educación.)*
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (D. Adicional vigesimotercera) desde *(Capítulo V. GARANTÍAS EN LOS PROCESOS DE EVALUACIÓN, D. Adicional vigesimotercera de la. [Ley Orgánica 2/2006](../05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación.)*
+- **Cita a**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (D. Adicional vigesimotercera) desde *(Capítulo V. GARANTÍAS EN LOS PROCESOS DE EVALUACIÓN, D. Adicional vigesimotercera de la. [Ley Orgánica 2/2006](../05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación.)*
+- **Cita a**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (D. Adicional vigesimotercera) desde *(Capítulo V. GARANTÍAS EN LOS PROCESOS DE EVALUACIÓN, D. Adicional vigesimotercera de la. [Ley Orgánica 2/2006](../05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación.)*
 - **Cita a**: [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md) (Art. 35) desde *(Capítulo VII. OTRAS DISPOSICIONES, Art. 29)*

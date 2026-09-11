@@ -1,6 +1,11 @@
 ---
 id: norm-and-r29-3-2026-evaluacion-acreditacion-titulacion-grados-d-e-formacion-profesional-andalucia
-titulo: Resolución de 29 de marzo de 2026, de la Dirección General de Formación Profesional y Educación Permanente, por la que se modifican los anexos VIII, IX, X, XI, XII, XIII, XIV, XV, XVII, XVIII, XIX, XX y XXII de la Orden de 18 de septiembre de 2025, por la que se regula la evaluación, certificación, acreditación y titulación académica del alumnado que cursa enseñanzas de los grados D y E del Sistema de Formación Profesional en la Comunidad Autónoma de Andalucía.
+titulo: Resolución de 29 de marzo de 2026, de la Dirección General de Formación Profesional
+  y Educación Permanente, por la que se modifican los anexos VIII, IX, X, XI, XII,
+  XIII, XIV, XV, XVII, XVIII, XIX, XX y XXII de la Orden de 18 de septiembre de 2025,
+  por la que se regula la evaluación, certificación, acreditación y titulación académica
+  del alumnado que cursa enseñanzas de los grados D y E del Sistema de Formación Profesional
+  en la Comunidad Autónoma de Andalucía.
 jurisdiccion: Andalucía
 ambito: Autonómico
 organo_emisor: Dirección General de Ordenación, Inclusión e Innovación Educativa
@@ -17,9 +22,16 @@ fuente_pdf_oficial: http://www.juntadeandalucia.es/boja/2026/65/BOJA26-065-00035
 clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Formación Profesional
+fundamentos_derecho:
+- norma_id: norm-and-d-164-2024
+- norma_id: norm-and-o-18-9-2025
+- norma_id: norm-can-res-boc-2024-230-25
+- norma_id: norm-can-res-134
+- norma_id: norm-es-l-39-2015
+- norma_id: norm-es-lo-3-2022
+- norma_id: norm-es-rd-659-2023
 ---
-
-# Resolución de 29 de marzo de 2026, de la Dirección General de Formación Profesional y Educación Permanente, por la que se modifican los anexos VIII, IX, X, XI, XII, XIII, XIV, XV, XVII, XVIII, XIX, XX y XXII de la Orden de 18 de septiembre de 2025, por la que se regula la evaluación, certificación, acreditación y titulación académica del alumnado que cursa enseñanzas de los grados D y E del Sistema de Formación Profesional en la Comunidad Autónoma de Andalucía.
+# Resolución de 29 de marzo de 2026, de la Dirección General de Formación Profesional y Educación Permanente, por la que se modifican los anexos VIII, IX, X, XI, XII, XIII, XIV, XV, XVII, XVIII, XIX, XX y XXII de la [Orden de 18 de septiembre de 2025](./O18_9_2025_evaluacion_certificacion_titulacion_grados_d_e_fp_andalucia.md), por la que se regula la evaluación, certificación, acreditación y titulación académica del alumnado que cursa enseñanzas de los grados D y E del Sistema de Formación Profesional en la Comunidad Autónoma de Andalucía.
 
 ## Preámbulo
 
@@ -31,7 +43,7 @@ IX, X, XI, XII, XIII, XIV, XV, XVII, XVIII, XIX, XX y XXII de la Orden de 18 de
 septiembre de 2025, por la que se regula la evaluación, certificación, acreditación 
 y titulación académica del alumnado que cursa enseñanzas de los grados D y E 
 del Sistema de Formación Profesional en la Comunidad Autónoma de Andalucía.
-La Orden de 18 de septiembre de 2025, por la que se regula la evaluación, 
+La [Orden de 18 de septiembre de 2025](./O18_9_2025_evaluacion_certificacion_titulacion_grados_d_e_fp_andalucia.md), por la que se regula la evaluación, 
 certificación, acreditación y titulación académica del alumnado que cursa enseñanzas de 
 los grados D y E del Sistema de Formación Profesional en la Comunidad Autónoma de 
 Andalucía, establece el marco regulador para la evaluación y titulación correspondientes 
@@ -67,10 +79,10 @@ de la orden, con el objetivo de mejorar su claridad, precisión y funcionalidad 
 de los centros y del personal administrativo. Esta actualización contribuye a optimizar la 
 eficacia y eficiencia de la gestión administrativa y a facilitar la correcta tramitación de los 
 procedimientos internos vinculados a los procesos de evaluación y certificación académica.
-En virtud de las competencias que me atribuye el artículo 9 del Decreto 164/2024, de 
+En virtud de las competencias que me atribuye el artículo 9 del [Decreto 164/2024](../01_marco_normativo_general_y_organico/D164_2024_estructura_organica_consejeria_desarrollo_educativo_andalucia.md), de 
 26 de agosto, por el que se establece la estructura orgánica de la Consejería de Desarrollo 
 Educativo y Formación Profesional, y de la habilitación contenida en la disposición final 
-cuarta de la Orden de 18 de septiembre de 2025,
+cuarta de la [Orden de 18 de septiembre de 2025](./O18_9_2025_evaluacion_certificacion_titulacion_grados_d_e_fp_andalucia.md),
 
 00335689
  Número 65 - Martes, 7 de abril de 2026
@@ -129,7 +141,7 @@ D./D.ª ……………..………………..……………..., Director/a o pe
 ……………………………………………………………………...…. con código de centro ……………………... y 
 dirección en ………………………………..………………………………………………………………………….....
 COMUNICA:
-Que, de acuerdo con lo previsto en el artículo 9 de la Orden de 18 de septiembre de 2025, por la que se 
+Que, de acuerdo con lo previsto en el artículo 9 de la [Orden de 18 de septiembre de 2025](./O18_9_2025_evaluacion_certificacion_titulacion_grados_d_e_fp_andalucia.md), por la que se 
 regula la evaluación, certificación, acreditación y titulación académica del alumnado que cursa enseñanzas 
 de los grados D y E del Sistema de Formación Profesional en la Comunidad Autónoma de Andalucía, se ha 
 procedido a la anulación de oficio de la matrícula del alumno/a:
@@ -895,7 +907,7 @@ Certifica
 CERT
 Obtiene título
 TIT
-(6) Según el artículo 20 de la Orden de 18 de septiembre de 2025,  la calificación final de un grado D ó E se calculará como la media aritmética simple de las calificaciones de los módulos que tienen valoración numérica; 
+(6) Según el artículo 20 de la [Orden de 18 de septiembre de 2025](./O18_9_2025_evaluacion_certificacion_titulacion_grados_d_e_fp_andalucia.md),  la calificación final de un grado D ó E se calculará como la media aritmética simple de las calificaciones de los módulos que tienen valoración numérica; 
 del resultado se tomará la parte entera y las dos primeras cifras decimales, redondeando por exceso la cifra de las centésimas si la de las milésimas resultase igual o superior a cinco.
 En ______________________, a ______ de ________________ de 20 ___
 
@@ -1062,8 +1074,8 @@ CERTIFICA:
 Que D./D.ª ………………………………………………………………….………….., con DNI/NIE/Pasaporte 
 ………………….………. matriculado/a en este centro, ha superado el Grado D o E en 
 ……………………………………………………., regulado por el Real Decreto ………………………..…..…… 
-y la Orden ……………...……………..….. , de conformidad con lo establecido en la Ley Orgánica 3/2022, de 
-31 de marzo, de Ordenación e Integración de la Formación Profesional, y el Real Decreto 659/2023, de 18 
+y la Orden ……………...……………..….. , de conformidad con lo establecido en la [Ley Orgánica 3/2022](../../canarias/08_personal_docente/R30_6_2023_ordenacion_gestion_determinadas_listas_empleo_tras.md), de 
+31 de marzo, de Ordenación e Integración de la Formación Profesional, y el [Real Decreto 659/2023](../../canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 
 de julio, por el que se desarrolla la ordenación del Sistema de Formación Profesional, y ha obtenido las 
 siguientes calificaciones finales:
 CÓDIGO DEL 
@@ -1074,7 +1086,7 @@ NOTA FINAL GRADO D / E
 Nota: La presente certificación académica de asistencia con aprovechamiento se emite en sustitución del: 
 (marcar lo que proceda)
 □Título de Técnico o de Técnico Superior para aquellas personas admitidas a grados D en oferta modu-
-lar en las circunstancias recogidas en el artículo 31.4 del Real Decreto 659/2023, de 18 de julio.
+lar en las circunstancias recogidas en el artículo 31.4 del [Real Decreto 659/2023](../../canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio.
 □Título de Especialista o de Máster de Formación Profesional para aquellas personas admitidas a cur-
 sos de especialización en las circunstancias recogidas en los artículos 120.3.c) y 121.2 c) del Real De-
 creto 659/2023, de 18 de julio.
@@ -1553,11 +1565,11 @@ BOJA
 BOJA
 Depósito Legal: SE-410/1979. ISSN: 2253-802X	
 https://www.juntadeandalucia.es/eboja
-De acuerdo con lo establecido en el artículo 36.1 de la Orden de 18 de septiembre de 2025, por la que se regula la 
+De acuerdo con lo establecido en el artículo 36.1 de la [Orden de 18 de septiembre de 2025](./O18_9_2025_evaluacion_certificacion_titulacion_grados_d_e_fp_andalucia.md), por la que se regula la 
 evaluación, certificación, acreditación y titulación académica del alumnado que cursa enseñanzas de los grados 
 D y E del Sistema de Formación Profesional en la Comunidad Autónoma de Andalucía, la persona interesada 
 dispone de un plazo de un mes, a contar desde el día siguiente al de notificación de esta resolución, para 
 interponer recurso de alzada ante la persona titular de la Delegación Territorial de la Consejería competente en 
-materia de educación, de conformidad con lo dispuesto en los artículos 121 y 122 de la Ley 39/2015, de 1 de 
+materia de educación, de conformidad con lo dispuesto en los artículos 121 y 122 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de 
 octubre, del Procedimiento Administrativo Común de las Administraciones Públicas. La resolución de dicho 
 recurso de alzada pondrá fin a la vía administrativa.

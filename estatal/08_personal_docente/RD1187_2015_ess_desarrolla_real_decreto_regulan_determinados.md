@@ -87,9 +87,11 @@ relaciones:
   - norma_id: '1'
   - norma_id: norm-es-1999-23750
   - norma_id: norm-es-2014-7684
+fundamentos_derecho:
+- norma_id: norm-es-1999-23750
+- norma_id: norm-es-2014-7684
 ---
-
-# Orden ESS/1187/2015, de 15 de junio, por la que se desarrolla el Real Decreto 625/2014, de 18 de julio, por el que se regulan determinados aspectos de la gestión y control de los procesos por incapacidad temporal en los primeros trescientos sesenta y cinco días de su duración.
+# Orden ESS/1187/2015, de 15 de junio, por la que se desarrolla el [Real Decreto 625/2014](./RD625_2014_regulan_determinados_aspectos_gestion_control_procesos.md), de 18 de julio, por el que se regulan determinados aspectos de la gestión y control de los procesos por incapacidad temporal en los primeros trescientos sesenta y cinco días de su duración.
 
 ## Preámbulo
 

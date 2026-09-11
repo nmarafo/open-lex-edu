@@ -30,8 +30,9 @@ relaciones:
   - norma_id: norm-and-l17-2007
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-l-39-2015
+fundamentos_derecho:
+- norma_id: norm-and-l17-2007
 ---
-
 # Decreto 77/1994, de 5 de abril, por el que se regula la Educación Infantil en Andalucía.
 
 ## Preámbulo

@@ -17,8 +17,16 @@ estado: Vigente
 redaccion: original
 fuente_oficial: http://www.juntadeandalucia.es/boja/2020/138/1
 fuente_pdf_oficial: http://www.juntadeandalucia.es/boja/pdf/2020/138/1
+clasificacion:
+  categoria_canonica: 04_organizacion_escolar_y_funcionamiento
+  subcategoria: Instalaciones y condiciones ambientales
+fundamentos_derecho:
+- norma_id: norm-and-l17-2007
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
 ---
-
 # Ley 1/2020, de 13 de julio, para la mejora de las condiciones térmicas y ambientales de los centros educativos andaluces mediante técnicas bioclimáticas y uso de energías renovables.
 
 ## Preámbulo
@@ -120,7 +128,7 @@ Se incluye una disposición adicional para establecer medidas de apoyo de la Jun
 de Andalucía para la mejora de las condiciones térmicas y ambientales de los centros 
 concertados, para garantizar la igualdad de oportunidades de su alumnado y de su 
 comunidad educativa en relación con las medidas que impulsa la presente Ley.
-Por último, se integra en esta Ley la modificación del artículo 171 de la Ley 17/2007, 
+Por último, se integra en esta Ley la modificación del artículo 171 de la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), 
 de 10 de diciembre, de Educación de Andalucía.
 00175178
 
@@ -389,14 +397,14 @@ Hasta el inicio de las actuaciones de acondicionamiento de los centros educativo
 base a la presente Ley, seguirá vigente la planificación de climatización actual de la Junta 
 de Andalucía en lo que complemente y no se oponga a lo determinado en esta Ley.
 
-### Disposición final primera. Modificación de la Ley 17/2007, de 10 de diciembre, de
+### Disposición final primera. Modificación de la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre, de
 
 Educación de Andalucía.
-Se modifica el artículo 171 de la Ley 17/2007, de 10 de diciembre, de Educación de 
+Se modifica el artículo 171 de la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre, de Educación de 
 Andalucía, que queda redactado de la siguiente forma:
 «Artículo 171. Edificios destinados a centros docentes públicos.
 1. De conformidad con lo establecido en el apartado 2 de la disposición adicional 
-decimoquinta de la Ley Orgánica 2/2006, de 3 de mayo, la conservación, el mantenimiento 
+decimoquinta de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, la conservación, el mantenimiento 
 y la vigilancia de los edificios destinados a centros públicos de educación infantil, de 
 educación primaria o de educación especial dependientes de la Administración educativa 
 corresponderán al municipio respectivo. Dichos edificios no podrán destinarse a otros 
@@ -409,7 +417,7 @@ financiero entre la Administración titular del centro y la Junta de Andalucía.
 incentivables por la Junta de Andalucía podrán ascender al 100% del presupuesto de la 
 actuación.
 3. De acuerdo con lo recogido en el apartado 3 de la disposición adicional decimoquinta 
-de la Ley Orgánica 2/2006, de 3 de mayo, cuando la Comunidad Autónoma deba 
+de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, cuando la Comunidad Autónoma deba 
 afectar, por necesidades de escolarización, edificios escolares de propiedad municipal 
 en los que se hallen ubicados centros de educación infantil, de educación primaria o de 
 educación especial, dependientes de la Administración educativa, para impartir educación 

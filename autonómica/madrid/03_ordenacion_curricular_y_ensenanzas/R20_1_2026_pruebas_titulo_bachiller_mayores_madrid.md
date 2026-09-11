@@ -26,8 +26,17 @@ tags:
 - adultos
 - titulacion
 - madrid
+fundamentos_derecho:
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-mad-d64-2022
+- norma_id: norm-mad-o2067-2023
+- norma_id: norm-mad-o-2367-2025
+- norma_id: norm-es-l-39-2015
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-lo-3-2018
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
 ---
-
 # Resolución de 20 de enero de 2026, de la Dirección General de Educación Secundaria, Formación Profesional y Régimen Especial, por la que se convocan para el año 2026 las pruebas para la obtención del título de Bachiller destinadas a personas mayores de veinte años en la Comunidad de Madrid
 
 ## Preámbulo
@@ -38,12 +47,12 @@ RESOLUCIÓN de 20 de enero de 2026, de la Dirección General de Educación
 Secundaria, Formación Profesional y Régimen Especial, por la que se convocan
 para el año 2026 las pruebas para la obtención del título de Bachiller destina-
 das a personas mayores de veinte años en la Comunidad de Madrid.
-De conformidad con el artículo 4 de la Orden 2367/2025, de 2 de julio, de la Conseje-
+De conformidad con el artículo 4 de la [Orden 2367/2025](./O2367_2025_regulacion_pruebas_obtencion_titulo_bachiller_mayores_veinte_anos_madrid.md), de 2 de julio, de la Conseje-
 ría de Educación, Ciencia y Universidades, por la que se regulan las pruebas para la obten-
 ción del título de Bachiller destinadas a personas mayores de veinte años en la Comunidad
 de Madrid, corresponde a la dirección general competente en materia de ordenación acadé-
 mica de estas enseñanzas la convocatoria de estas pruebas.
-Las convalidaciones y exenciones atenderán a lo dispuesto en la Orden 2067/2023, de 11
+Las convalidaciones y exenciones atenderán a lo dispuesto en la [Orden 2067/2023](./O2067_2023_organizacion_funcionamiento_evaluacion_bachillerato_madrid.md), de 11
 de junio, de la Vicepresidencia, Consejería de Educación y Universidades, por la que se regu-
 lan determinados aspectos de organización, funcionamiento y evaluación en el Bachillerato.
 Con objeto de dar cumplimiento a todo ello, esta Dirección General de Educación Se-
@@ -187,7 +196,7 @@ General
 Tercero
 Requisitos de participación
 1.
-De conformidad con lo establecido en el artículo 3 de la Orden 2367/2025, de 2 de
+De conformidad con lo establecido en el artículo 3 de la [Orden 2367/2025](./O2367_2025_regulacion_pruebas_obtencion_titulo_bachiller_mayores_veinte_anos_madrid.md), de 2 de
 julio, podrán participar en estas pruebas las personas mayores de veinte años, o que los cum-
 plan en el año natural en el que se celebran las mismas, no estén en posesión del título de Ba-
 chiller, ni estén matriculadas en las enseñanzas de Bachillerato en cualquiera de sus modali-
@@ -196,9 +205,9 @@ académicos de acceso al Bachillerato. El incumplimiento de estos requisitos con
 anulación de la inscripción y, en su caso, de los resultados obtenidos en las mismas.
 2.
 Los egresados de Bachillerato al amparo de la Ley Orgánica 3/2020, de 29 de di-
-ciembre, por la que se modifica la Ley Orgánica 2/2006, de 3 de mayo, de Educación, po-
+ciembre, por la que se modifica la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, po-
 drán participar en estas pruebas para la obtención de una nueva modalidad, conforme a lo
-dispuesto en la disposición adicional sexta del Decreto 64/2022, de 11 de junio, de la Vice-
+dispuesto en la disposición adicional sexta del [Decreto 64/2022](./D64_2022_ordenacion_curriculo_bachillerato_madrid.md), de 11 de junio, de la Vice-
 presidencia, Consejería de Educación y universidades, por la que se regulan determinados
 aspectos de organización, funcionamiento y evaluación del Bachillerato.
 Cuarto
@@ -213,7 +222,7 @@ licita reconocimiento, exención o convalidación.
 Las materias de Bachillerato integradas en las pruebas para la obtención del título de
 Bachiller destinadas a personas mayores de veinte años en la Comunidad de Madrid en la
 convocatoria del año 2026 serán las recogidas en el anexo.
-De conformidad con lo dispuesto en el artículo 23.6 del Decreto 64/2022, de 20 de ju-
+De conformidad con lo dispuesto en el artículo 23.6 del [Decreto 64/2022](./D64_2022_ordenacion_curriculo_bachillerato_madrid.md), de 20 de ju-
 lio, la inscripción por parte de los aspirantes en alguna materia del segundo curso que im-
 plique continuidad exigirá la correcta acreditación de la superación de la materia vinculada
 
@@ -246,18 +255,18 @@ convalidadas o exentas en convocatorias anteriores de las pruebas libres para la
 obtención del título de Bachillerato para mayores de veinte años.
 d)
 Documentación que acredite alguna de las condiciones para la convalidación de
-materias de Bachillerato, conforme al capítulo V de la Orden 2067/2023, de 11 de
+materias de Bachillerato, conforme al capítulo V de la [Orden 2067/2023](./O2067_2023_organizacion_funcionamiento_evaluacion_bachillerato_madrid.md), de 11 de
 junio, de la Vicepresidencia, Consejería de Educación y Universidades, por la que
 se regulan determinados aspectos de organización, funcionamiento y evaluación
 en el Bachillerato.
 e)
 Documentación que acredite alguna de las condiciones para estar exento de la ma-
-teria de Educación Física, conforme al artículo 40.4 de la Orden 2067/2023, de 11
+teria de Educación Física, conforme al artículo 40.4 de la [Orden 2067/2023](./O2067_2023_organizacion_funcionamiento_evaluacion_bachillerato_madrid.md), de 11
 de junio.
 5.
 Si el aspirante solicita el reconocimiento de los resultados obtenidos en una mate-
 ria anteriormente superada al amparo de algún sistema educativo anterior a la Ley Orgánica
-3/2020, de 29 de diciembre, por la que se modifica la Ley Orgánica 2/2006, de 3 de mayo,
+3/2020, de 29 de diciembre, por la que se modifica la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo,
 de Educación (LOMLOE), deberá consultar la correspondencia entre materias que estará
 disponible en el portal de internet de la Comunidad de Madrid www.comunidad.madrid , en
 la dirección electrónica: https://www.comunidad.madrid/servicios/educacion/regulacion-
@@ -280,7 +289,7 @@ en la convocatoria del año 2026 serán las recogidas en el anexo de la presente
 2.
 Para poder ser propuesto a la obtención del título de Bachiller, el aspirante debe-
 rá superar todas las materias de la modalidad de Bachillerato y, en su caso, vía en la que se
-ha inscrito, conforme a la ordenación académica vigente establecida en el Decreto 64/2022,
+ha inscrito, conforme a la ordenación académica vigente establecida en el [Decreto 64/2022](./D64_2022_ordenacion_curriculo_bachillerato_madrid.md),
 de 20 de julio.
 Sexto
 Inscripción en las pruebas
@@ -299,7 +308,7 @@ BOCM-20260203-25
 BOCM
 tegral de gestión educativa de la Comunidad de Madrid (RAÍCES) desde la URL
 https://raices.madrid.org/secretariavirtual o en los registros electrónicos previstos
-en el artículo 16.4.a) de la Ley 39/2015, de 1 de octubre, del Procedimiento Admi-
+en el artículo 16.4.a) de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Admi-
 nistrativo Común de las Administraciones Públicas.
 El acceso a la secretaría virtual podrá hacerse con uno de los certificados electró-
 nicos reconocidos o cualificados de firma electrónica, que sean operativos en la
@@ -336,7 +345,7 @@ rioridad y que hayan sido acreditadas documentalmente por el interesado.
 Durante la tramitación del expediente el interesado podrá aportar cuanta do-
 cumentación estime oportuna, para subsanar o mejorar su solicitud, a través del portal
 comunidad.madrid , Administración Electrónica, Aportación de Documentos, respe-
-tando los plazos establecidos en el artículo 68 de la Ley 39/2015, de 1 de octubre, de
+tando los plazos establecidos en el artículo 68 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, de
 Procedimiento Administrativo Común de las Administraciones Públicas.
 6.
 No obstante, los originales de la documentación presentada podrán ser requeridos
@@ -386,7 +395,7 @@ en su página web, con la debida antelación, el calendario y el horario de real
 uno de los ejercicios que integran las pruebas.
 3.
 Estos ejercicios serán elaborados, de conformidad con el currículo de Bachillera-
-to establecido en el Decreto 64/2022, de 20 de julio, y calificados por los departamentos de
+to establecido en el [Decreto 64/2022](./D64_2022_ordenacion_curriculo_bachillerato_madrid.md), de 20 de julio, y calificados por los departamentos de
 coordinación didáctica que tengan asignadas las materias correspondientes de Bachillerato
 en los centros en que se realizan las pruebas. Así mismo, deberán atender cuantas reclama-
 ciones pudieran presentar los participantes contra las calificaciones obtenidas.
@@ -408,7 +417,7 @@ tantes legales y a la seguridad y confidencialidad de estos, se atenderá a lo d
 Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo, de 27 de abril de 2016,
 relativo a la protección de las personas físicas en lo que respecta al tratamiento de datos per-
 sonales y a la libre circulación de estos datos y por el que se deroga la Directiva 95/46/UE,
-y en lo establecido en la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos
+y en lo establecido en la [Ley Orgánica 3/2018](../../../estatal/02_gestion_y_administracion_centros/LO3_2018_proteccion_datos_personales_garantia_derechos_digitales.md), de 5 de diciembre, de Protección de Datos
 Personales y garantía de los derechos digitales. Puede consultarse el detalle de la actividad
 de tratamiento Pruebas para la obtención del título de técnico y de técnico superior de for-
 mación profesional. Pruebas libres de certificación de nivel en idiomas. Pruebas para la ob-

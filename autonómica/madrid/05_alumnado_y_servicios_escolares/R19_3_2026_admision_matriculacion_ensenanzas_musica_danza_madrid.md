@@ -27,8 +27,13 @@ tags:
 - conservatorios
 - matricula
 - madrid
+fundamentos_derecho:
+- norma_id: norm-mad-d248-2023
+- norma_id: norm-mad-d-28-2024
+- norma_id: norm-mad-d106-2018-ordenacion-ensenanzas-idiomas-regimen-especial-madrid
+- norma_id: norm-mad-o1587-2022-admision-matricula-escuelas-oficiales-idiomas-madrid
+- norma_id: norm-es-l-39-2015
 ---
-
 # Resolución de 19 de marzo de 2026, de la Dirección General de Educación Secundaria, Formación Profesional y Régimen Especial por la que se determinan los plazos de acceso, admisión y matrícula de alumnos de nuevo ingreso para el curso 2026-2027 en las Escuelas Oficiales de Idiomas de la Comunidad de Madrid
 
 ## Preámbulo
@@ -40,12 +45,12 @@ Secundaria, Formación Profesional y Régimen Especial por la que se determi-
 nan los plazos de acceso, admisión y matrícula de alumnos de nuevo ingreso
 para el curso 2026-2027 en las Escuelas Oficiales de Idiomas de la Comunidad
 de Madrid.
-El Decreto 106/2018, de 19 de junio, del Consejo de Gobierno, por el que se ordenan las
+El [Decreto 106/2018](../03_ordenacion_curricular_y_ensenanzas/D106_2018_ordenacion_ensenanzas_idiomas_regimen_especial_madrid.md), de 19 de junio, del Consejo de Gobierno, por el que se ordenan las
 enseñanzas de idiomas de régimen especial y se establecen los currículos de los niveles bási-
 co, intermedio y avanzado en la Comunidad de Madrid, dispone que corresponde a la conse-
 jería con competencias en Educación regular el procedimiento de admisión y matrícula de
 alumnos de nuevo ingreso en las Escuelas Oficiales de Idiomas de la Comunidad de Madrid.
-Por otro lado, la Orden 1587/2022, de 8 de junio, de la Consejería de Educación, Uni-
+Por otro lado, la [Orden 1587/2022](../03_ordenacion_curricular_y_ensenanzas/O1587_2022_admision_matricula_escuelas_oficiales_idiomas_madrid.md), de 8 de junio, de la Consejería de Educación, Uni-
 versidades, Ciencia y Portavocía, por la que se regula el procedimiento de admisión y ma-
 trícula del alumnado oficial y libre en las Escuelas Oficiales de Idiomas de la Comunidad
 de Madrid, establece en su artículo 4 que la dirección general competente en materia de en-
@@ -54,8 +59,8 @@ misión y matrícula para alumnos oficiales.
 Con el fin de hacer públicos los plazos de admisión y matrícula de alumnos de nuevo
 ingreso para el curso 2026-2027 en las enseñanzas de idiomas de régimen especial, así
 como los procedimientos de inscripción para la realización de la prueba de clasificación, y
-en virtud de las competencias atribuidas por el decreto 28/2024, de 24 de abril, del Conse-
-jo de Gobierno, por el que se modifica el Decreto 248/2023, de 11 de octubre, del Consejo
+en virtud de las competencias atribuidas por el [decreto 28/2024](../01_marco_normativo_general_y_organico/D28_2024_modificacion_estructura_organica_consejeria_educacion_ciencia_universidades_madrid.md), de 24 de abril, del Conse-
+jo de Gobierno, por el que se modifica el [Decreto 248/2023](../01_marco_normativo_general_y_organico/D248_2023_estructura_organica_consejeria_educacion_ciencia_universidades_madrid.md), de 11 de octubre, del Consejo
 de Gobierno, por el que se establece la estructura orgánica de la Consejería de Educación,
 Ciencia y Universidades,
 RESUELVE
@@ -87,7 +92,7 @@ mentación que proceda en el Registro Electrónico General de la Comunidad de Ma
 través del acceso habilitado para ello en el portal de internet de la Comunidad de Madrid
 ( www.comunidad.madrid ), en la dirección electrónica: “sede.comunidad.madrid”. Así
 mismo, se podrán presentar en cualquiera de los lugares establecidos en el artículo 16.4 de
-la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Adminis-
+la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Administrativo Común de las Adminis-
 traciones públicas.
 3.
 Los modelos para la presentación de las solicitudes para la admisión como alum-
@@ -110,7 +115,7 @@ de la Administración actuante o hayan sido elaborados por cualquier otra Admini
 La Administración actuante podrá consultar o recabar dichos documentos salvo que el in-
 teresado se opusiera a ello, en cuyo caso el interesado estará obligado, con carácter gene-
 ral, a aportar copia de los documentos correspondientes, de acuerdo con lo establecido en
-el artículo 28.3 de la Ley 39/2015, de 1 de octubre. No obstante, no habrá lugar a tal opo-
+el artículo 28.3 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre. No obstante, no habrá lugar a tal opo-
 sición cuando la aportación del documento se exigiera en el marco del ejercicio de potesta-
 des sancionadoras o de inspección.
 6.
@@ -163,7 +168,7 @@ Formalización de matrícula para los cursos reglados anuales y los cursos de pr
 La formalización de matrícula para los solicitantes admitidos se realizará del 9
 al 22 de julio de 2026, ambas fechas incluidas.
 2.
-De acuerdo con el artículo 14.2 de la Orden 1587/2022, de 8 de junio, la matrícu-
+De acuerdo con el artículo 14.2 de la [Orden 1587/2022](../03_ordenacion_curricular_y_ensenanzas/O1587_2022_admision_matricula_escuelas_oficiales_idiomas_madrid.md), de 8 de junio, la matrícu-
 la quedará formalizada cuando el solicitante o persona autorizada haya presentado el justi-
 ficante de abono de precios públicos, así como la documentación requerida en la Escuela
 Oficial de Idiomas en la que ha sido admitido.
@@ -224,7 +229,7 @@ Formalización de matrícula para los cursos reglados de segundo cuatrimestre
 La formalización de matrícula para los solicitantes admitidos se realizará del 20
 de enero de 2027 al 2 de febrero de 2027, ambas fechas incluidas.
 2.
-De acuerdo con el artículo 14.2 de la Orden 1587/2022, de 8 de junio, la matrícu-
+De acuerdo con el artículo 14.2 de la [Orden 1587/2022](../03_ordenacion_curricular_y_ensenanzas/O1587_2022_admision_matricula_escuelas_oficiales_idiomas_madrid.md), de 8 de junio, la matrícu-
 la quedará formalizada cuando el solicitante o persona autorizada haya presentado el justi-
 ficante de abono de precios públicos, así como la documentación requerida en la Escuela
 Oficial de Idiomas en la que ha sido admitido.

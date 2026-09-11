@@ -1,6 +1,8 @@
 ---
 id: norm-mad-r30-7-2026-plan-anual-actuacion-inspeccion-educativa-madrid-2026-2027
-titulo: Resolución de 30 de julio de 2026, de la Viceconsejería de Política y Organización Educativa, por la que se aprueba el Plan Anual de Actuación de la Inspección Educativa para el curso 2026-2027.
+titulo: Resolución de 30 de julio de 2026, de la Viceconsejería de Política y Organización
+  Educativa, por la que se aprueba el Plan Anual de Actuación de la Inspección Educativa
+  para el curso 2026-2027.
 jurisdiccion: Madrid
 ambito: Autonómico
 organo_emisor: Viceconsejería de Política y Organización Educativa
@@ -27,15 +29,27 @@ relaciones:
   fundamenta_en:
   - norm-mad-d61-2019
   - norm-mad-d248-2023
+fundamentos_derecho:
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-mad-d248-2023
+- norma_id: norm-mad-l1-2022
+- norma_id: norm-mad-d61-2019-organizacion-estructura-funcionamiento-inspeccion-educativa-madrid
+- norma_id: norm-mad-o732-2021-desarrollo-decreto-inspeccion-educativa-madrid
+- norma_id: norm-mad-d32-2019
+- norma_id: norm-mad-o6-2023
+- norma_id: norm-mad-r26-11-2024-instrucciones-protocolo-prevencion-conductas-autolesivas-suicidio-centros-educativos-madrid
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2026-2622
+- norma_id: norm-es-2010-12201
 ---
-
 # Resolución de 30 de julio de 2026, de la Viceconsejería de Política y Organización Educativa, por la que se aprueba el Plan Anual de Actuación de la Inspección Educativa para el curso 2026-2027.
 
 ## Preámbulo
 
-La Viceconsejería de Política y Organización Educativa tiene encomendado el ejercicio de las competencias que corresponden a la Consejería de Educación para el desempeño de la función inspectora en materia de educación, en orden a garantizar el cumplimiento de las leyes y la mejora de la calidad del sistema educativo, de acuerdo con lo que se señala en el artículo 5.1.m) del Decreto 248/2023, de 11 de octubre, del Consejo de Gobierno, por el que se establece la estructura orgánica de la Consejería de Educación, Ciencia y Universidades.
+La Viceconsejería de Política y Organización Educativa tiene encomendado el ejercicio de las competencias que corresponden a la Consejería de Educación para el desempeño de la función inspectora en materia de educación, en orden a garantizar el cumplimiento de las leyes y la mejora de la calidad del sistema educativo, de acuerdo con lo que se señala en el artículo 5.1.m) del [Decreto 248/2023](../01_marco_normativo_general_y_organico/D248_2023_estructura_organica_consejeria_educacion_ciencia_universidades_madrid.md), de 11 de octubre, del Consejo de Gobierno, por el que se establece la estructura orgánica de la Consejería de Educación, Ciencia y Universidades.
 
-Igualmente, el artículo 7 del Decreto 61/2019, de 9 de julio, del Consejo de Gobierno, por el que se regula la organización, estructura y funcionamiento de la Inspección Educativa de la Comunidad de Madrid, atribuye a la Viceconsejería la competencia para aprobar los planes generales plurianuales y los planes anuales de actuación de la Inspección Educativa.
+Igualmente, el artículo 7 del [Decreto 61/2019](./D61_2019_organizacion_estructura_funcionamiento_inspeccion_educativa_madrid.md), de 9 de julio, del Consejo de Gobierno, por el que se regula la organización, estructura y funcionamiento de la Inspección Educativa de la Comunidad de Madrid, atribuye a la Viceconsejería la competencia para aprobar los planes generales plurianuales y los planes anuales de actuación de la Inspección Educativa.
 
 La Resolución de 23 de julio de 2025, de la Viceconsejería de Política y Organización Educativa, aprobó el Plan General Plurianual de Actuación de la Inspección Educativa de la Comunidad de Madrid para el período 2025-2029, en el que se definen los objetivos, líneas de actuación prioritarias y criterios marco de intervención inspectora.
 
@@ -43,7 +57,7 @@ Mediante la presente Resolución, se concreta el desarrollo de estas actuaciones
 
 El Plan Anual de Actuación del curso 2026-2027 se ha elaborado por la Subdirección General de Inspección Educativa a partir de la evaluación de las actuaciones desarrolladas durante el curso anterior y de las directrices fijadas por la Consejería.
 
-En el Decreto 61/2019, de 9 de julio, se establece que los planes generales plurianuales y los planes anuales de actuación son los instrumentos marco para la planificación, organización, homogeneización y coordinación de la función inspectora en el conjunto de los centros y servicios educativos de la Comunidad de Madrid.
+En el [Decreto 61/2019](./D61_2019_organizacion_estructura_funcionamiento_inspeccion_educativa_madrid.md), de 9 de julio, se establece que los planes generales plurianuales y los planes anuales de actuación son los instrumentos marco para la planificación, organización, homogeneización y coordinación de la función inspectora en el conjunto de los centros y servicios educativos de la Comunidad de Madrid.
 
 Así, a propuesta de la Subdirección General de Inspección Educativa, he resuelto aprobar el Plan Anual de Actuación de la Inspección Educativa para el curso 2026-2027 que se incorpora como Anexo a la presente resolución.
 
@@ -78,7 +92,7 @@ pección Educativa, a partir del cual los servicios territoriales de Inspección
 ñarán sus planes territoriales, que serán aprobados por los respectivos titulares de las
 Direcciones de Área Territorial, con la estructura establecida en el artículo 26.3 de la Or-
 den 732/2021, de 24 de marzo, de la Consejería de Educación y Juventud, por la que se de-
-sarrolla el Decreto 61/2019, de 9 de julio, del Consejo de Gobierno, por el que se regula la
+sarrolla el [Decreto 61/2019](./D61_2019_organizacion_estructura_funcionamiento_inspeccion_educativa_madrid.md), de 9 de julio, del Consejo de Gobierno, por el que se regula la
 organización, estructura y funcionamiento de la Inspección Educativa de la Comunidad de
 Madrid.
 El Plan Anual de Actuación del curso 2026-2027 se ha elaborado por la Subdirección
@@ -91,7 +105,7 @@ En consecuencia, la Subdirección General de Inspección Educativa propone, para
 aprobación, el Plan Anual de Actuación de la Inspección Educativa, que constituirá el mar-
 co de referencia para el curso escolar 2026-2027 y cuyas actuaciones habrán de desarrollar-
 se bajo la coordinación de dicha Subdirección General.
-En el Decreto 61/2019, de 9 de julio, se establece que los planes generales plurianua-
+En el [Decreto 61/2019](./D61_2019_organizacion_estructura_funcionamiento_inspeccion_educativa_madrid.md), de 9 de julio, se establece que los planes generales plurianua-
 les y los planes anuales de actuación serán aprobados por el órgano administrativo que en
 cada momento ostente la competencia en materia de Inspección Educativa.
 Así, a propuesta de la Subdirección General de Inspección Educativa, he resuelto apro-
@@ -132,29 +146,29 @@ Territoriales de Actuación.
 territoriales. 
  
 1. Legislación aplicable. 
-1.1. Ley Orgánica 2/2006, de 3 de mayo, de Educación. 
-1.2. Ley 1/2022, de 10 de febrero, Maestra de Libertad de Elección Educativa de 
+1.1. [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación. 
+1.2. [Ley 1/2022](../01_marco_normativo_general_y_organico/L1_2022_maestra_libertad_eleccion_educativa_madrid.md), de 10 de febrero, Maestra de Libertad de Elección Educativa de 
 la Comunidad de Madrid. 
-1.3. Real Decreto 68/2026, de 4 de febrero, por el que se regula la inspección 
+1.3. [Real Decreto 68/2026](../../../estatal/04_organizacion_escolar_y_funcionamiento/RD68_2026_regula_inspeccion_educativa.md), de 4 de febrero, por el que se regula la inspección 
 educativa. 
-1.4. Decreto 248/2023, de 11 de octubre, del Consejo de Gobierno, por el que 
+1.4. [Decreto 248/2023](../01_marco_normativo_general_y_organico/D248_2023_estructura_organica_consejeria_educacion_ciencia_universidades_madrid.md), de 11 de octubre, del Consejo de Gobierno, por el que 
 se establece la estructura orgánica de la Consejería de Educación, Ciencia y 
 Universidades. 
-1.5. Decreto 61/2019, de 9 de julio, del Consejo de Gobierno, por el que se regula 
+1.5. [Decreto 61/2019](./D61_2019_organizacion_estructura_funcionamiento_inspeccion_educativa_madrid.md), de 9 de julio, del Consejo de Gobierno, por el que se regula 
 la organización, estructura y funcionamiento de la Inspección Educativa en la 
 Comunidad de Madrid 
-1.6. Orden 732/2021, de 24 de marzo, de la Consejería de Educación y Juventud, 
-por la que se desarrolla el Decreto 61/2019, de 9 de julio, del Consejo de Gobierno, por 
+1.6. [Orden 732/2021](./O732_2021_desarrollo_decreto_inspeccion_educativa_madrid.md), de 24 de marzo, de la Consejería de Educación y Juventud, 
+por la que se desarrolla el [Decreto 61/2019](./D61_2019_organizacion_estructura_funcionamiento_inspeccion_educativa_madrid.md), de 9 de julio, del Consejo de Gobierno, por 
 el que se regula la organización, estructura y funcionamiento de la Inspección Educativa 
 de la Comunidad de Madrid. 
-1.7. Orden 6/2023, de 3 de enero, de la Vicepresidencia, Consejería de 
+1.7. [Orden 6/2023](../07_convivencia_bienestar_y_protocolos/O6_2023_creacion_unidad_convivencia_contra_acoso_escolar_madrid.md), de 3 de enero, de la Vicepresidencia, Consejería de 
 Educación y Universidades, por la que se establecen la estructura y funciones de la 
 unidad de convivencia y contra el acoso escolar. 
 
 1.8. Orden 1196/2001, de 29 de marzo, del Consejero de Educación, por la que 
 se hace efectiva la consolidación del complemento específico singular de los directores 
 de los centros públicos de enseñanza no universitaria. 
-1.9. Resolución de 26 de noviembre de 2024, de la Viceconsejería de Política y 
+1.9. [Resolución de 26 de noviembre de 2024](../07_convivencia_bienestar_y_protocolos/R26_11_2024_instrucciones_protocolo_prevencion_conductas_autolesivas_suicidio_centros_educativos_madrid.md), de la Viceconsejería de Política y 
 Organización Educativa, por la que se da publicidad a los protocolos de actuación ante 
 cualquier tipo de violencia en los centros educativos 
 1.10. Resolución de la Viceconsejería de Política y Organización Educativa de 
@@ -204,7 +218,7 @@ instrumentos para la planificación, seguimiento, coordinación y evaluación de
 actuaciones de la Inspección Educativa.  
 
 3.1. Subdirección General de Inspección Educativa  
-El artículo 8.1 del Decreto 61/2019, de 9 de julio, y el artículo 42 la Orden 732/2021, de 
+El artículo 8.1 del [Decreto 61/2019](./D61_2019_organizacion_estructura_funcionamiento_inspeccion_educativa_madrid.md), de 9 de julio, y el artículo 42 la [Orden 732/2021](./O732_2021_desarrollo_decreto_inspeccion_educativa_madrid.md), de 
 24 de marzo, señalan que la Subdirección General de Inspección Educativa propone los 
 planes generales de actuación de la Inspección, realiza el seguimiento de su ejecución 
 y eleva a la Viceconsejería de Política y Organización Educativa las memorias, así como 
@@ -245,7 +259,7 @@ Unidad de instrucción de expedientes disciplinarios, recogida en el Plan
 General Plurianual de Actuación.  
 - Asesoramiento a los centros docentes y a los propios servicios territoriales a 
 través de la Unidad de convivencia y contra el acoso escolar, recogida en el 
-artículo 6.1. del Decreto 248/2023, de 11 de octubre, y en la Orden 6/2023, 
+artículo 6.1. del [Decreto 248/2023](../01_marco_normativo_general_y_organico/D248_2023_estructura_organica_consejeria_educacion_ciencia_universidades_madrid.md), de 11 de octubre, y en la [Orden 6/2023](../07_convivencia_bienestar_y_protocolos/O6_2023_creacion_unidad_convivencia_contra_acoso_escolar_madrid.md), 
 de 3 de enero. 
 - Asesorar a otras unidades de la Consejería de Educación, Ciencia y 
 Universidades en la redacción y revisión de normativa para asegurar la 
@@ -261,8 +275,8 @@ Raíces.
 3.2. Servicios territoriales de Inspección Educativa   
 El presente Plan Anual de Actuación será concretado por los diferentes Servicios de 
 Inspección en planes territoriales, que deberán ser aprobados por el respectivo director 
-de Área Territorial según se establece en el artículo 7.6 del Decreto 61/2019, de 9 de 
-julio, y en el artículo 26 de la Orden 732/2021, de 24 de marzo. Los planes territoriales 
+de Área Territorial según se establece en el artículo 7.6 del [Decreto 61/2019](./D61_2019_organizacion_estructura_funcionamiento_inspeccion_educativa_madrid.md), de 9 de 
+julio, y en el artículo 26 de la [Orden 732/2021](./O732_2021_desarrollo_decreto_inspeccion_educativa_madrid.md), de 24 de marzo. Los planes territoriales 
 serán remitidos a la Subdirección General de Inspección Educativa con anterioridad al 
 16 de octubre de 2026. 
 Los planes territoriales deben concretar las actuaciones establecidas en este Plan Anual 
@@ -270,7 +284,7 @@ de Actuación y adecuarlas a cada servicio territorial, teniendo en cuenta el n�
 centros y servicios y el número y perfil de los inspectores de educación del propio 
 servicio.  
 El Plan Territorial de Actuación deberá contemplar los siguientes aspectos, de acuerdo 
-con lo señalado en el artículo 26.3 de la Orden 732/2021, de 24 de marzo:  
+con lo señalado en el artículo 26.3 de la [Orden 732/2021](./O732_2021_desarrollo_decreto_inspeccion_educativa_madrid.md), de 24 de marzo:  
 a) Objetivos. 
 b) Descripción de la organización y el funcionamiento del servicio territorial de 
 Inspección. Debe especificarse la relación de inspectores de cada uno de los distritos y 
@@ -289,8 +303,8 @@ actuaciones propuestas.
 Los centros directivos de la Consejería de Educación, Ciencia y Universidades deberán 
 dar traslado la Subdirección General de Inspección Educativa de todas las actuaciones 
 no incluidas en el Plan Anual de Actuación que  soliciten a los servicios territoriales de 
-Inspección, en aplicación de lo previsto previo en el artículo 8.1 del Decreto 61/2019, de 
-9 de julio, y en el artículo 24.7 de la Orden 732/2021, de 24 de marzo.  
+Inspección, en aplicación de lo previsto previo en el artículo 8.1 del [Decreto 61/2019](./D61_2019_organizacion_estructura_funcionamiento_inspeccion_educativa_madrid.md), de 
+9 de julio, y en el artículo 24.7 de la [Orden 732/2021](./O732_2021_desarrollo_decreto_inspeccion_educativa_madrid.md), de 24 de marzo.  
  
 3.3. Equipos de distrito  
 Cada servicio territorial planificará, con la periodicidad que considere más adecuada, las 
@@ -303,7 +317,7 @@ equipo de distrito las actuaciones que debe realizar en cada uno de sus centros,
 programas y servicios. La planificación se registrará, en el sistema integral de gestión 
 educativa Raíces, el primer día laborable de cada semana, y será analizada, verificada 
 y aprobada por el jefe de distrito, en cumplimiento de lo previsto en el artículo 48.2 a y 
-b de la Orden 732/2021, de 24 de marzo.  
+b de la [Orden 732/2021](./O732_2021_desarrollo_decreto_inspeccion_educativa_madrid.md), de 24 de marzo.  
 De forma excepcional, el jefe de distrito, previo conocimiento de la jefatura del servicio, 
 podrá asignar a un inspector actuaciones habituales correspondientes al centro de otro 
 inspector cuando se constaten circunstancias que hagan precisa una resolución 
@@ -312,7 +326,7 @@ inmediata o una distribución más equilibrada de las actuaciones pendientes en 
 momento específico del curso. 
  
 4. Tipos de actuaciones de la Inspección Educativa  
-Según señala el artículo 22 de la Orden 732/2021, de 24 de marzo, las actuaciones de 
+Según señala el artículo 22 de la [Orden 732/2021](./O732_2021_desarrollo_decreto_inspeccion_educativa_madrid.md), de 24 de marzo, las actuaciones de 
 la Inspección Educativa podrán ser habituales, habituales de mayor relevancia y de 
 atención preferente; además, la Inspección Educativa también puede desarrollar 
 actuaciones extraordinarias e incidentales͘ 
@@ -386,7 +400,7 @@ Las actuaciones de los inspectores que se lleven a cabo en el campo de Informaci
 apoyo y colaboración a las Direcciones de Área Territorial y a otros órganos de la 
 Administración educativa, solo se realizarán en aquellas circunstancias que no puedan 
 ser resueltas por los directores de los centros en el ejercicio de sus competencias 
-recogidas en el artículo 132 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.  
+recogidas en el artículo 132 de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación.  
 Algunas actuaciones habituales serán objeto de un tratamiento homogéneo en los cinco 
 servicios territoriales mediante la utilización de los correspondientes instrumentos 
 específicos o, en su caso, de guías para la supervisión, proporcionados a tal efecto por 
@@ -407,7 +421,7 @@ Los informes de evaluación anual de la función directiva serán enviados por l
 servicio a la Subdirección General de Inspección Educativa. 
  
 4.2. Actuaciones habituales de mayor relevancia. 
-El artículo 22 de la Orden 732/2021, de 24 de marzo, establece que las actuaciones 
+El artículo 22 de la [Orden 732/2021](./O732_2021_desarrollo_decreto_inspeccion_educativa_madrid.md), de 24 de marzo, establece que las actuaciones 
 habituales de mayor relevancia son aquellas cuya incidencia en los centros docentes 
 exige una especial consideración dentro de los planes generales de actuación.  
 
@@ -632,7 +646,7 @@ desarrollo de esta actuación.
 4.3. Actuaciones de atención preferente. 
 Las actuaciones de atención preferente responden a los objetivos y a las líneas 
 prioritarias de la consejería con competencias en materia de educación, según se 
-establece en el artículo 22 de la Orden 732/2021, de 24 de marzo. Su planificación 
+establece en el artículo 22 de la [Orden 732/2021](./O732_2021_desarrollo_decreto_inspeccion_educativa_madrid.md), de 24 de marzo. Su planificación 
 corresponde a la Subdirección General de Inspección Educativa. 
 Para el curso escolar 2026-2027 se realizarán las actuaciones de atención preferente 
 que se enumeran a continuación:  
@@ -785,12 +799,12 @@ educativos.
 La Subdirección General de Inspección Educativa colaborará en el asesoramiento a los 
 centros y servicios educativos de la Comunidad de Madrid en situaciones de 
 convivencia, acoso escolar y atención socioemocional al alumnado. Para ello, cuenta 
-con la Unidad de convivencia y contra el acoso escolar, que en el Decreto 248/2023, de 
+con la Unidad de convivencia y contra el acoso escolar, que en el [Decreto 248/2023](../01_marco_normativo_general_y_organico/D248_2023_estructura_organica_consejeria_educacion_ciencia_universidades_madrid.md), de 
 11 de octubre, del Consejo de Gobierno, tiene conferidas las funciones de planificación 
 y desarrollo de medidas dirigidas a favorecer la convivencia en los centros docentes, así 
 como la coordinación de los diferentes servicios y unidades que intervienen en los 
 conflictos de convivencia escolar y en las situaciones de acoso escolar. 
-El artículo 29.2 del Decreto 32/2019, de 9 de abril, del Consejo de Gobierno, por el que 
+El artículo 29.2 del [Decreto 32/2019](../07_convivencia_bienestar_y_protocolos/D32_2019_marco_regulador_convivencia_centros_docentes_madrid.md), de 9 de abril, del Consejo de Gobierno, por el que 
 se establece el Marco Regulador de la Convivencia en los Centros Docentes de la 
 Comunidad de Madrid concreta las funciones de la Unidad de convivencia y contra el 
 acoso escolar: 
@@ -813,14 +827,14 @@ escolar.
 el acoso escolar integren diferentes servicios de la Administración de la Comunidad de 
 Madrid y de otras administraciones. 
  
-La Orden 6/2023, de 3 de enero, de la Vicepresidencia, Consejería de Educación y 
+La [Orden 6/2023](../07_convivencia_bienestar_y_protocolos/O6_2023_creacion_unidad_convivencia_contra_acoso_escolar_madrid.md), de 3 de enero, de la Vicepresidencia, Consejería de Educación y 
 Universidades, por la que se establecen la estructura y funciones de la unidad de 
 convivencia y contra el acoso escolar, regula las funciones de los tres equipos que 
 constituyen la unidad: equipo de convivencia, dedicado a su fomento y consolidación en 
 los centros educativos; equipo contra el acoso escolar, destinado a la lucha contra esta 
 lacra; y equipo para el asesoramiento en materia socioemocional al alumnado, 
 establecido para el apoyo a los centros en esa temática. 
-Por otra parte, mediante la Resolución de 26 de noviembre de 2024, de la 
+Por otra parte, mediante la [Resolución de 26 de noviembre de 2024](../07_convivencia_bienestar_y_protocolos/R26_11_2024_instrucciones_protocolo_prevencion_conductas_autolesivas_suicidio_centros_educativos_madrid.md), de la 
 Viceconsejería de Política y Organización Educ ativa, se da publicidad a los protocolos 
 de actuación ante cualquier tipo de violencia, de empleo preceptivo por todos los centros 
 educativos de la Comunidad de Madrid. Estos protocolos se tramitan por los centros a 
@@ -857,7 +871,7 @@ Estas actuaciones extraordinarias se efectuarán preferentemente por equipos de
 inspectores coordinados por la Subdirección General de Inspección Educativa. 
  
 4.7.  Actuaciones incidentales. 
-La Orden 732/2021, de 24 de marzo, en su artículo 22.5, define las actuaciones 
+La [Orden 732/2021](./O732_2021_desarrollo_decreto_inspeccion_educativa_madrid.md), de 24 de marzo, en su artículo 22.5, define las actuaciones 
 incidentales como aquellas que, por no estar previstas, por su singularidad y naturaleza, 
 no permiten su planificación ni su demora. Estas actuaciones se plantean ante 
 situaciones que exigen una rápida y urgente intervención del servicio territorial de 
@@ -888,7 +902,7 @@ impartan enseñanzas artísticas superiores corresponderá a la Inspección Educ
 adscrita a la Dirección General de Enseñanzas Artísticas. 
  
 6. Equipos de ámbito específico 
-El artículo 36 de la Orden 732/2021, de 24 de marzo, creó los ámbitos específicos  de 
+El artículo 36 de la [Orden 732/2021](./O732_2021_desarrollo_decreto_inspeccion_educativa_madrid.md), de 24 de marzo, creó los ámbitos específicos  de 
 Supervisión, Evaluación y Convivencia en el ámbito escolar con el objetivo de fomentar 
 la especialización en la actuación de la Inspección Educativa. A su vez, el Plan General 
 Plurianual de Actuación estableció los siguientes equipos de ámbito específico para 
@@ -923,7 +937,7 @@ Los equipos se constituirán formalmente antes del final del mes de septiembre. 
 equipo de ámbito específico contará con un inspector coordinador nombrado por el 
 Subdirector General de Inspección Educativa. 
 Los equipos de ámbito específico tendrán, además de las funciones establecidas en el 
-artículo 38 de la Orden 732/2021, de 24 de marzo, las siguientes, según se señala en 
+artículo 38 de la [Orden 732/2021](./O732_2021_desarrollo_decreto_inspeccion_educativa_madrid.md), de 24 de marzo, las siguientes, según se señala en 
 el Plan General Plurianual: 
 - Presentación, información y asesoramiento a los inspectores de cada 
 servicio sobre la aplicación de las actuaciones de mayor relevancia y 
@@ -961,9 +975,9 @@ adscrito al equipo de ámbito especifico de evaluación de la función directiva
 con las pautas que se establezcan por la Subdirección General de Inspección Educativa. 
  
 7. Plan de formación y actualización de los inspectores de educación. 
-El artículo 12.1 del Decreto 61/2019, de 9 de julio, establece que el perfeccionamiento 
+El artículo 12.1 del [Decreto 61/2019](./D61_2019_organizacion_estructura_funcionamiento_inspeccion_educativa_madrid.md), de 9 de julio, establece que el perfeccionamiento 
 y actualización en el ejercicio profesional constituyen un derecho y un deber de los 
-inspectores de educación. El artículo 53 de la Orden 732/2021, de 24 de marzo, señala 
+inspectores de educación. El artículo 53 de la [Orden 732/2021](./O732_2021_desarrollo_decreto_inspeccion_educativa_madrid.md), de 24 de marzo, señala 
 que la formación permanente de los inspectores de educación estará orientada a la 
 adquisición y profundización en los conocimientos y técnicas relativas a sus funciones, 
 capacidades y actuaciones. 
@@ -1035,8 +1049,8 @@ Inspección Educativa elevará al Viceconsejero de Política y Organización Edu
  
 10. Otros aspectos relativos a la organización y funcionamiento de los servicios 
 territoriales 
-Además de lo establecido en el Decreto 61/2019,
- de 9 de julio, y en la Orden 732/2021, 
+Además de lo establecido en el [Decreto 61/2019](./D61_2019_organizacion_estructura_funcionamiento_inspeccion_educativa_madrid.md),
+ de 9 de julio, y en la [Orden 732/2021](./O732_2021_desarrollo_decreto_inspeccion_educativa_madrid.md), 
 de 24 de marzo, se tendrán en cuenta las siguientes normas de organización y 
 funcionamiento: 
 1. La Subdirección General de Inspección Educativa convocará a los miembros de los 

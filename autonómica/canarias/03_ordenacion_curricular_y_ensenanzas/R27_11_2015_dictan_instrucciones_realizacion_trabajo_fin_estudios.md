@@ -67,8 +67,12 @@ relaciones:
   - norma_id: norm-es-2010-12201
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2015-245-5622.pdf
 fuente_juriscan: http://www.gobiernodecanarias.org/juriscan/ficha.jsp?id=73844
+fundamentos_derecho:
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
 ---
-
 # Resolución de 27 de noviembre de 2015, por la que se dictan instrucciones para la realización del trabajo fin de estudios correspondiente a las Enseñanzas Artísticas Superiores en la Comunidad Autónoma de Canarias, en el curso académico 2015-2016 (BOC n.º 245, de 18 de diciembre).
 
 ## Preámbulo

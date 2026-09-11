@@ -19,9 +19,27 @@ estado: Vigente
 redaccion: original
 fuente_oficial: http://www.juntadeandalucia.es/boja/2021/507/1
 fuente_pdf_oficial: http://www.juntadeandalucia.es/boja/pdf/2021/507/1
+clasificacion:
+  categoria_canonica: 06_atencion_diversidad_y_orientacion
+  subcategoria: Atención a la diversidad y NEAE
+fundamentos_derecho:
+- norma_id: norm-and-l12-2007-promocion-igualdad-genero-andalucia
+- norma_id: norm-and-l17-2007
+- norma_id: norm-and-l6-2006-gobierno-comunidad-autonoma-andalucia
+- norma_id: norm-and-d285-2010-regulacion-sistema-informacion-seneca-andalucia
+- norma_id: norm-and-o-10-8-2007
+- norma_id: norm-and-d328-2010
+- norma_id: norm-and-o-25-7-2008
+- norma_id: norm-and-l2-2014-no-discriminacion-identidad-genero-transexuales-andalucia
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-mad-d-126-2014
+- norma_id: norm-es-l-39-2015
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-2016-3229
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2014-2222
+- norma_id: norm-es-2010-12201
 ---
-
-
 # Orden de 15 de enero de 2021, por la que se desarrolla el currículo correspondiente a la etapa de Educación Primaria en la Comunidad Autónoma de Andalucía, se regulan determinados aspectos de la atención a la diversidad, se establece la ordenación de la evaluación del proceso de aprendizaje del alumnado y se determina el proceso de tránsito entre distintas etapas educativas.
 
 ## Preámbulo
@@ -40,19 +58,19 @@ a fin de garantizar el cumplimiento de las obligaciones de los poderes públicos
 materia.
 En el ejercicio de esta competencia se publicó el Decreto 97/2015, de 3 de marzo, por 
 el que se establece la ordenación y el currículo de la Educación Primaria en la Comunidad 
-Autónoma de Andalucía, de conformidad con lo dispuesto en la Ley Orgánica 2/2006, de 
-3 de mayo, de Educación, y en el Real Decreto 126/2014, de 28 de febrero, por el que se 
+Autónoma de Andalucía, de conformidad con lo dispuesto en la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 
+3 de mayo, de Educación, y en el Real [Decreto 126/2014](../../madrid/05_alumnado_y_servicios_escolares/D126_2014_precios_publicos_servicios_comedor_escuelas_infantiles_madrid.md), de 28 de febrero, por el que se 
 establece el currículo básico de la Educación Primaria.
-La Ley Orgánica 8/2013, de 9 de diciembre, para la mejora de la calidad educativa, 
-ha introducido modificaciones en la Ley Orgánica 2/2006, de 3 de mayo, que afectan a la 
+La [Ley Orgánica 8/2013](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md), de 9 de diciembre, para la mejora de la calidad educativa, 
+ha introducido modificaciones en la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, que afectan a la 
 evaluación final de la etapa de Educación Primaria entre otros aspectos. En cumplimiento 
 de estas previsiones legales, el Gobierno ha aprobado diversos desarrollos reglamentarios 
 que afectan a la configuración de esta evaluación. En primer lugar, el Real Decreto 
 1058/2015, de 20 de noviembre, por el que se regulan las características generales de 
 las pruebas de la evaluación final de la etapa de Educación Primaria establecida en la 
-Ley Orgánica 2/2006, de 3 de mayo, de Educación. Posteriormente, el Real Decreto-ley 
+[Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación. Posteriormente, el Real Decreto-ley 
 5/2016, de 9 de diciembre, de medidas urgentes para la ampliación del calendario de 
-implantación de la Ley Orgánica 8/2013, de 9 de diciembre, para la mejora de la calidad 
+implantación de la [Ley Orgánica 8/2013](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md), de 9 de diciembre, para la mejora de la calidad 
 educativa. Dicho Real Decreto-ley estableció la adecuación del régimen jurídico de las 
 evaluaciones finales de etapa y derogó la disposición final primera del Real Decreto 
 1058/2015, de 20 de noviembre. 
@@ -72,7 +90,7 @@ un nuevo marco normativo, mediante la presente Orden, que regule en Andalucía l
 de Educación Primaria en aspectos curriculares y organizativos, así como en lo referente 
 al ámbito de la atención a la diversidad, la evaluación y el proceso de coordinación en el 
 tránsito entre etapas educativas. 
-La Ley 17/2007, de 10 de diciembre, de Educación de Andalucía, y las orientaciones 
+La [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre, de Educación de Andalucía, y las orientaciones 
 de la Unión Europea inciden en la necesidad de la adquisición de las competencias clave 
 00184586
 
@@ -99,7 +117,7 @@ competencial adquirido por el alumnado debe estar integrada con la evaluación d
 contenidos de las distintas áreas.
 Por tanto, es necesario reseñar que el currículo de la etapa de Educación Primaria 
 tiene un carácter global e integrador. Teniendo en cuenta lo establecido en el artículo 2 
-del Real Decreto 126/2014, de 28 de febrero, el currículo de esta etapa en Andalucía 
+del Real [Decreto 126/2014](../../madrid/05_alumnado_y_servicios_escolares/D126_2014_precios_publicos_servicios_comedor_escuelas_infantiles_madrid.md), de 28 de febrero, el currículo de esta etapa en Andalucía 
 ordena, organiza y relaciona los elementos que determinan los procesos de enseñanza y 
 aprendizaje. Este currículo concreta los conocimientos, las habilidades para aplicarlos en 
 diferentes situaciones y las actitudes ante la vida para la adquisición de las competencias 
@@ -124,7 +142,7 @@ el esfuerzo personal en relación con la actividad escolar, en las habilidades c
 en la capacidad crítica ante la realidad que le rodea. En definitiva, se pretende favorecer 
 el éxito escolar del alumnado, en función de sus capacidades, sus intereses y sus 
 expectativas. A su vez, se determinan los documentos oficiales de evaluación conforme 
-a lo establecido en la disposición adicional cuarta del Real Decreto 126/2014, de 28 de 
+a lo establecido en la disposición adicional cuarta del Real [Decreto 126/2014](../../madrid/05_alumnado_y_servicios_escolares/D126_2014_precios_publicos_servicios_comedor_escuelas_infantiles_madrid.md), de 28 de 
 febrero, para lo cual se incorporan los Anexos V.a, V.b, V.c y V.d.
 Asimismo, la presente orden regula aspectos relativos al tránsito entre etapas 
 educativas, garantizando un marco de actuación unificado y preciso que facilite la definición 
@@ -164,7 +182,7 @@ centros y al profesorado realizar la última concreción y adaptación curricula
 de las diversas situaciones educativas y de las características específicas del alumnado 
 al que atienden.
 La presente orden se ha elaborado atendiendo a los principios de buena regulación 
-contenidos en el artículo 129 de la Ley 39/2015, de 1 de octubre, del Procedimiento 
+contenidos en el artículo 129 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento 
 Administrativo Común de las Administraciones Públicas: principios de necesidad, eficacia, 
 proporcionalidad, seguridad jurídica, transparencia y eficiencia, en tanto que persigue un 
 interés general al proporcionar a la ciudadanía un marco normativo de las enseñanzas 
@@ -177,12 +195,12 @@ jurídico y permitiendo una gestión más eficiente de los recursos públicos, p
 quedan justificados los objetivos que persigue la ley. Además, en el procedimiento de 
 elaboración de esta orden se ha permitido y facilitado la participación y las aportaciones 
 de las personas potenciales destinatarias a través de los procedimientos de audiencia 
-e información pública regulados en el artículo 133 de la citada Ley 39/2015, de 1 de 
+e información pública regulados en el artículo 133 de la citada [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de 
 octubre. 
 En su virtud, a propuesta de la Directora General de Ordenación y Evaluación 
 Educativa, de conformidad con lo previsto en la disposición final segunda del Decreto 
 97/2015, de 3 de marzo, y en uso de las atribuciones conferidas por el artículo 44.2 de la 
-Ley 6/2006, de 24 de octubre, del Gobierno de la Comunidad Autónoma de Andalucía,
+[Ley 6/2006](../01_marco_normativo_general_y_organico/L6_2006_gobierno_comunidad_autonoma_andalucia.md), de 24 de octubre, del Gobierno de la Comunidad Autónoma de Andalucía,
 D I S P O N G O
 
 ## CAPÍTULO I
@@ -250,7 +268,7 @@ currículo, así como el establecimiento de la metodología didáctica.
 
 1. El currículo incluirá de manera transversal, sin perjuicio de su tratamiento específico 
 en las distintas áreas de Educación Primaria, los elementos establecidos en el artículo 10 
-y en la disposición adicional séptima del Real Decreto 126/2014, de 28 de febrero.
+y en la disposición adicional séptima del Real [Decreto 126/2014](../../madrid/05_alumnado_y_servicios_escolares/D126_2014_precios_publicos_servicios_comedor_escuelas_infantiles_madrid.md), de 28 de febrero.
 2. Asimismo, se trabajarán elementos curriculares relacionados con el desarrollo 
 sostenible y el medio ambiente, el funcionamiento del medio físico y natural y la 
 repercusión que sobre el mismo tienen las actividades humanas, el agotamiento de los 
@@ -265,11 +283,11 @@ BOJA
 todo ello con objeto de fomentar la contribución activa en la defensa, conservación y 
 mejora de nuestro entorno medioambiental como elemento determinante de la calidad de 
 vida.
-3. Teniendo en cuenta el artículo 40 de la Ley 17/2007, de 10 de diciembre, de 
+3. Teniendo en cuenta el artículo 40 de la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre, de 
 Educación de Andalucía, y el artículo 5.6 del Decreto 97/2015, de 3 de marzo, se han 
 incorporado al currículo de Educación Primaria contenidos propios de la Comunidad 
 Autónoma de Andalucía.
-4. Atendiendo a lo recogido en el Capítulo I del Título II de la Ley 12/2007, de 26 de 
+4. Atendiendo a lo recogido en el Capítulo I del Título II de la [Ley 12/2007](../01_marco_normativo_general_y_organico/L12_2007_promocion_igualdad_genero_andalucia.md), de 26 de 
 noviembre, para la promoción de la igualdad de género en Andalucía, se favorecerá la 
 resolución pacífica de conflictos y modelos de convivencia basados en la diversidad, la 
 tolerancia y el respeto a la igualdad de derechos y oportunidades de mujeres y hombres.
@@ -309,7 +327,7 @@ vivimos.
 
 ### Artículo 5. Autonomía de los centros docentes.
 
-De acuerdo con lo establecido en el artículo 125.1 de la Ley 17/2007, de 10 de 
+De acuerdo con lo establecido en el artículo 125.1 de la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de 
 diciembre, los centros docentes contarán con autonomía pedagógica, de organización 
 y de gestión para poder llevar a cabo modelos de funcionamiento propios, en el marco 
 de la legislación vigente, en los términos recogidos en dicha Ley y en las normas que la 
@@ -517,7 +535,7 @@ aprende el máximo posible y desarrolla todas sus potencialidades.
 recogido en el proyecto educativo del centro, recibirán la información y asesoramiento 
 necesarios respecto a las características y necesidades del alumnado, así como de las 
 medidas a adoptar para su adecuada atención.
-4. Según lo dispuesto en el artículo 27.2.g) del Decreto 328/2010, de 13 de julio, por el 
+4. Según lo dispuesto en el artículo 27.2.g) del [Decreto 328/2010](../04_organizacion_escolar_y_funcionamiento/D328_2010_reglamento_organico_escuelas_infantiles_colegios_primaria_andalucia.md), de 13 de julio, por el 
 que se aprueba el Reglamento Orgánico de las escuelas infantiles de segundo ciclo, de 
 los colegios de educación primaria, de los colegios de educación infantil y primaria, y de 
 los centros públicos específicos de educación especial, las programaciones didácticas en 
@@ -527,7 +545,7 @@ humanos y materiales que se les asignen de acuerdo con la planificación educati
 con objeto de posibilitar la atención a la diversidad de su alumnado en el marco de lo 
 establecido en la presente Orden, y en el resto de la normativa que resulte de aplicación. 
 La forma de atención a la diversidad que adopte cada centro formará parte de su proyecto 
-educativo, según lo dispuesto en el artículo 21.3.f) del citado Decreto 328/2010, de 13 de 
+educativo, según lo dispuesto en el artículo 21.3.f) del citado [Decreto 328/2010](../04_organizacion_escolar_y_funcionamiento/D328_2010_reglamento_organico_escuelas_infantiles_colegios_primaria_andalucia.md), de 13 de 
 julio.
 
 ## Sección 2.ª Medidas generales de atención a la diversidad
@@ -1029,7 +1047,7 @@ alumno o alumna.
 
 ### Artículo 30. Evaluación individualizada de tercer curso.
 
-1. Teniendo en cuenta lo establecido en el artículo 12.3 del Real Decreto 126/2014, 
+1. Teniendo en cuenta lo establecido en el artículo 12.3 del Real [Decreto 126/2014](../../madrid/05_alumnado_y_servicios_escolares/D126_2014_precios_publicos_servicios_comedor_escuelas_infantiles_madrid.md), 
 de 28 de febrero, los centros docentes realizarán una evaluación individualizada a todo el 
 alumnado al finalizar el tercer curso de Educación Primaria.
 2. Los referentes para la evaluación del grado de dominio de las destrezas, 
@@ -1304,7 +1322,7 @@ circunstancia se hará constar en el expediente académico.
 
 ### Artículo 39. Cumplimentación y validación de los documentos oficiales de evaluación.
 
-1. De conformidad con lo establecido en el artículo 13.1 del Decreto 285/2010, de 
+1. De conformidad con lo establecido en el artículo 13.1 del [Decreto 285/2010](../02_gestion_y_administracion_centros/D285_2010_regulacion_sistema_informacion_seneca_andalucia.md), de 
 11 de mayo, por el que se regula el Sistema de Información Séneca y se establece su 
 utilización para la gestión del sistema educativo andaluz, los centros docentes sostenidos 
 con fondos públicos cumplimentarán electrónicamente los documentos oficiales de 
@@ -1618,7 +1636,7 @@ En lo referente a la obtención de los datos personales del alumnado, a la cesi�
 los mismos de unos centros a otros y a la seguridad y confidencialidad de estos, se estará 
 a lo dispuesto en la legislación vigente en materia de protección de datos de carácter 
 personal y, en todo caso, a lo establecido en la disposición adicional vigesimotercera de 
-la Ley Orgánica 2/2006, de 3 de mayo.
+la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo.
 
 ### Disposición adicional cuarta. Centros docentes que impartan enseñanzas bilingües.
 
@@ -1628,7 +1646,7 @@ funcionamiento a las características propias de sus centros.
 
 ### Disposición adicional quinta. Secretaría virtual y ventanilla electrónica.
 
-En virtud del artículo 14.1 de la Ley 39/2015, de 1 de octubre, del Procedimiento 
+En virtud del artículo 14.1 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento 
 Administrativo Común de las Administraciones Públicas, los centros docentes facilitarán la 
 tramitación electrónica de todos aquellos procedimientos que deban realizar el alumnado 
 o las familias. Asimismo, en aplicación del artículo 29 del Decreto 622/2019, de 27 de 
@@ -1637,7 +1655,7 @@ y los centros docentes se realizarán a través del Sistema de Información Sén
 
 ### Disposición derogatoria única. Derogación normativa.
 
-1. Queda derogada la Orden de 10 de agosto de 2007, por la que se desarrolla el 
+1. Queda derogada la [Orden de 10 de agosto de 2007](../03_ordenacion_curricular_y_ensenanzas/O10_8_2007_ordenacion_evaluacion_educacion_secundaria_obligatoria_andalucia.md), por la que se desarrolla el 
 currículo correspondiente a la Educación Primaria en Andalucía.
 2. Queda derogada la Orden de 4 de noviembre de 2015, por la que se establece 
 la ordenación de la evaluación del proceso de aprendizaje del alumnado de Educación 
@@ -1652,7 +1670,7 @@ página 28
 Depósito Legal: SE-410/1979. ISSN: 2253 - 802X	
 http://www.juntadeandalucia.es/eboja
 BOJA
-4. Queda derogada la Orden de 25 de julio de 2008, por la que se regula la atención 
+4. Queda derogada la [Orden de 25 de julio de 2008](./O25_7_2008_atencion_diversidad_educacion_secundaria_obligatoria_andalucia.md), por la que se regula la atención 
 a la diversidad del alumnado que cursa la educación básica en los centros docentes 
 públicos de Andalucía.
 5. Asimismo, quedan derogadas cuantas disposiciones de igual o inferior rango se 
@@ -16674,7 +16692,7 @@ trabajar la empatía, al respeto y la tolerancia, así como las habilidades y la
 relacionarse y actuar de acuerdo con los derechos y deberes humanos fundamentales.
 Entre los objetivos de Educación Primaria los valores sociales y cívicos deben contribuir a desarrollar en el
 alumnado los saberes, las capacidades, los hábitos, las actitudes y los valores que les permitan alcanzar,
-además de los objetivos enumerados en el artículo 17 de la Ley Orgánica 2/2006, de 3 de mayo, de
+además de los objetivos enumerados en el artículo 17 de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de
 Educación, otros que den prioridad a los procedimientos para el desarrollo de la confianza en sí mismo, el
 sentido crítico, la iniciativa personal y el espíritu emprendedor.
 Se ha de posibilitar que los alumnos y alumnas de la etapa de Educación Primaria tengan la ocasión de
@@ -21203,7 +21221,7 @@ Como orientación en el tratamiento de los contenidos se primará la puesta en v
 humanas y la educación afectivo-emocional; la aplicación real de las teorías éticas y los derechos humanos
 como referencia universal para la conducta humana en la resolución y superación de conflictos y la
 demostración mediante acciones concretas de la igualdad entre hombres y mujeres al amparo de la Ley
-12/2007, de 26 de noviembre, para la promoción de la igualdad de género en Andalucía, y la Ley 2/2014,
+12/2007, de 26 de noviembre, para la promoción de la igualdad de género en Andalucía, y la [Ley 2/2014](../07_convivencia_bienestar_y_protocolos/L2_2014_no_discriminacion_identidad_genero_transexuales_andalucia.md),
 de 8 de julio, integral para la no discriminación por motivos de identidad de género y reconocimiento de los
 derechos de las personas transexuales de Andalucía, desde el reconocimiento y acción de las características
 de las sociedades actuales mediante actitudes de tolerancia, aceptando las minorías y las expresiones de las

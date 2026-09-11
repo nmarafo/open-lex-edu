@@ -151,8 +151,18 @@ relaciones:
   - norma_id: norm-es-2010-12201
   - norma_id: norm-can-d-212-1991
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2023-133-2236.pdf
+fundamentos_derecho:
+- norma_id: norm-can-l-6-2014
+- norma_id: norm-can-d-142-2018
+- norma_id: norm-can-d-106-2009
+- norma_id: norm-can-d-81-2010
+- norma_id: norm-can-o-2013-10-09
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-rd-1041-2017
+- norma_id: norm-es-2010-12201
 ---
-
 # Resolución de 27 de junio de 2023, de la Dirección General de Formación Profesional y Educación de Adultos por la que se dictan instrucciones específicas sobre organización y funcionamiento de la Escuela Oficial de Idiomas a Distancia de Canarias. (BOC n.º 133, de 10 de julio).
 
 ## Preámbulo
@@ -167,11 +177,11 @@ Segundo.- La [Ley 6/2014](../01_marco_normativo_general_y_organico/L6_2014_canar
 ### Capítulo III. , en el que establece que los objetivos de estas enseñanzas, su organización y
 
 el acceso, la evaluación y la obtención del título correspondiente se realizarán de acuerdo con lo recogido en la normativa básica del Estado. Además, en su artículo 35 se refiere a las escuelas oficiales de idiomas, y regula aspectos básicos de las enseñanzas, tales como su finalidad y características. Asimismo, este artículo establece que las modalidades para la enseñanza de idiomas pueden ser de educación presencial, educación semipresencial y educación no presencial.
-Tercero.- El marco general de las Enseñanzas de Idiomas de Régimen Especial queda regulado por el Real Decreto 1041/2017, de 22 de diciembre, por el que se fijan las exigencias mínimas del nivel básico a efectos de certificación, se establece el currículo básico de los niveles Intermedio B1, Intermedio B2, Avanzado C1, y Avanzado C2, de las Enseñanzas de idiomas de régimen especial reguladas por la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, y se establecen las equivalencias entre las Enseñanzas de Idiomas de régimen especial reguladas en diversos planes de estudios y las de este real decreto, y, en el ámbito autonómico, por el Decreto 142/2018, de 8 de octubre, por el que se establece la ordenación y el currículo de las enseñanzas y la certificación de idiomas de régimen especial para la Comunidad Autónoma de Canarias.
+Tercero.- El marco general de las Enseñanzas de Idiomas de Régimen Especial queda regulado por el [Real Decreto 1041/2017](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1041_2017_exigencias_minimas_curriculo_basico_idiomas_regimen_especial.md), de 22 de diciembre, por el que se fijan las exigencias mínimas del nivel básico a efectos de certificación, se establece el currículo básico de los niveles Intermedio B1, Intermedio B2, Avanzado C1, y Avanzado C2, de las Enseñanzas de idiomas de régimen especial reguladas por la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, y se establecen las equivalencias entre las Enseñanzas de Idiomas de régimen especial reguladas en diversos planes de estudios y las de este real decreto, y, en el ámbito autonómico, por el [Decreto 142/2018](./D142_2018_ordenacion_curriculo_ensenanzas_certificacion_idiomas_regimen_especial.md), de 8 de octubre, por el que se establece la ordenación y el currículo de las enseñanzas y la certificación de idiomas de régimen especial para la Comunidad Autónoma de Canarias.
 Cuarto.- El Decreto 1042/2018, de 8 de octubre, determina que las enseñanzas de idiomas se podrán organizar en modalidad a distancia, siendo esta modalidad impartida en la escuela oficial de idiomas encargada de la enseñanza de idiomas a distancia. Esta modalidad busca compensar las limitaciones fruto de la fragmentación y ultraperificidad del territorio canario favoreciendo que una escuela oficial de idiomas pueda llegar a todo el archipiélago para dar respuesta a la necesidad de aprendizaje de idiomas.
 Quinto.- El [Decreto 81/2010](../04_organizacion_escolar_y_funcionamiento/D81_2010_aprueba_reglamento_organico_centros_docentes_publicos.md), de 8 de julio, por el que se aprueba el Reglamento Orgánico de los centros docentes públicos no universitarios de la Comunidad Autónoma de Canarias, determina en su disposición adicional tercera, sobre centros de características especiales, que las escuelas oficiales de idiomas se regirán por su normativa específica y, supletoriamente, por el Reglamento aprobado por el citado Decreto.
 Sexto.- En este mismo sentido, la [Orden de 9 de octubre de 2013](../04_organizacion_escolar_y_funcionamiento/O9_10_2013_desarrolla_decreto_aprueba_reglamento_organico_centros.md), que desarrolla el mencionado [Decreto 81/2010](../04_organizacion_escolar_y_funcionamiento/D81_2010_aprueba_reglamento_organico_centros_docentes_publicos.md), de 8 de julio, dispone en el artículo 1.2, en cuanto a la organización y funcionamiento de los centros docentes públicos no universitarios, que las Escuelas oficiales de Idiomas se regirán por su normativa específica y, supletoriamente, por lo dispuesto en la citada Orden.
-Séptimo.- La Orden de 16 de julio de 2019, que modifica la citada Orden de 9 de octubre de 2013, establece la jornada semanal del profesorado en los centros en los que se impartan las enseñanzas de educación secundaria y educación superior no universitaria. En atención a lo anteriormente indicado, de conformidad con lo dispuesto en el artículo 19 l [Decreto.
+Séptimo.- La Orden de 16 de julio de 2019, que modifica la citada [Orden de 9 de octubre de 2013](../04_organizacion_escolar_y_funcionamiento/O9_10_2013_desarrolla_decreto_aprueba_reglamento_organico_centros.md), establece la jornada semanal del profesorado en los centros en los que se impartan las enseñanzas de educación secundaria y educación superior no universitaria. En atención a lo anteriormente indicado, de conformidad con lo dispuesto en el artículo 19 l [Decreto.
 
 212/1991](../01_marco_normativo_general_y_organico/D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md), de 11 de septiembre, de organización de los Departamentos de la Administración de la Comunidad Autónoma de Canarias, y en el artículo 18 del Reglamento Orgánico de la Consejería de Educación, Universidades, Cultura y Deportes, aprobado por Decreto 7/2021, de 18 de febrero, se asignan competencias generales y específicas a la Dirección General de Formación Profesional y Educación de Adultos,
 RESUELVO:
@@ -299,7 +309,7 @@ c. Mantener actualizada la metodología didáctica y adecuarla a los diferentes 
 
 **9.2.** El profesorado que imparte enseñanzas en la modalidad a distancia debe acreditar la capacitación para ejercer la docencia utilizando los medios telemáticos y otros recursos propios de la educación no presencial. Por lo tanto, el profesorado de la Escuela Oficial de Idiomas a Distancia de Canarias deberá contar con los requisitos de formación tecnológica y pedagógica específica para atender a esta modalidad de enseñanzas.
 
-**9.3.** Sin perjuicio de las funciones establecidas en el artículo 91 de La Ley Orgánica 2/2006, de 3 de mayo, de Educación, serán funciones específicas del profesorado de la Escuela Oficial de Idiomas a Distancia de Canarias las siguientes:
+**9.3.** Sin perjuicio de las funciones establecidas en el artículo 91 de La [Ley Orgánica 2/2006](../05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, serán funciones específicas del profesorado de la Escuela Oficial de Idiomas a Distancia de Canarias las siguientes:
 a. Participar en la elaboración, adaptación, actualización, revisión y mejora del material didáctico coordinado por el departamento, bajo la organización y supervisión de la jefatura del mismo y la jefatura de estudios.
 b. Elaborar y poner en práctica un plan de recuperación para el alumnado con el profesorado que imparta el mismo nivel.
 c. Participar, siguiendo las directrices del equipo directivo, en la elaboración del plan de acogida del alumnado, tanto de quienes se incorporan desde el principio de curso como de quienes lo hacen una vez comenzado.

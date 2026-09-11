@@ -220,8 +220,17 @@ relaciones:
   - norma_id: norm-es-2021-20113
   - norma_id: norm-es-2010-12201
   - norma_id: norm-es-2007-6115
+fundamentos_derecho:
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-2001-7022
+- norma_id: norm-es-2002-12018
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2007-19326
+- norma_id: norm-es-2002-4371
+- norma_id: norm-es-2010-12201
+- norma_id: norm-es-2007-6115
 ---
-
 # Real Decreto 878/2011, de 24 de junio, por el que se establece el título de Técnico Deportivo en Salvamento y Socorrismo y se fijan sus enseñanzas mínimas y los requisitos de acceso.
 
 ## Preámbulo

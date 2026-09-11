@@ -200,8 +200,15 @@ relaciones:
   - norma_id: norm-es-2014-2222
   - norma_id: norm-es-2021-20113
   - norma_id: norm-es-2010-12201
+fundamentos_derecho:
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-mad-d-126-2014
+- norma_id: norm-es-l-39-2015
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2014-2222
+- norma_id: norm-es-2010-12201
 ---
-
 # Real Decreto 984/2021, de 16 de noviembre, por el que se regulan la evaluación y la promoción en la Educación Primaria, así como la evaluación, la promoción y la titulación en la Educación Secundaria Obligatoria, el Bachillerato y la Formación Profesional.
 
 ## Preámbulo
@@ -294,7 +301,7 @@ En aquellas comunidades autónomas que posean más de una lengua oficial de acue
 
 3. Si en algún caso y tras haber aplicado las medidas ordinarias suficientes, adecuadas y personalizadas para atender el desfase curricular o las dificultades de aprendizaje del alumno o la alumna, el equipo docente considera que la permanencia un año más en el mismo curso es la medida más adecuada para favorecer su desarrollo, el citado equipo organizará un plan específico de refuerzo para que, durante ese curso, pueda alcanzar el grado de adquisición de las competencias correspondientes. Esta decisión solo se podrá adoptar una vez durante la etapa y tendrá, en todo caso, carácter excepcional.
 
-4. En aplicación de lo previsto en el artículo 20.3 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, los tutores de segundo y cuarto emitirán al finalizar el curso un informe sobre el grado de adquisición de las competencias de cada alumno o alumna, indicando en su caso las medidas de refuerzo que se deben contemplar en el ciclo siguiente.
+4. En aplicación de lo previsto en el artículo 20.3 de la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, los tutores de segundo y cuarto emitirán al finalizar el curso un informe sobre el grado de adquisición de las competencias de cada alumno o alumna, indicando en su caso las medidas de refuerzo que se deben contemplar en el ciclo siguiente.
 
 5. Con el fin de garantizar la continuidad del proceso de formación del alumnado, cada alumno o alumna dispondrá al finalizar la etapa de un informe elaborado por su tutor o tutora sobre su evolución y el grado de adquisición de las competencias desarrolladas, según lo dispuesto por las Administraciones educativas. En el caso de alumnado con necesidades educativas especiales, el informe deberá reflejar las adaptaciones y medidas adoptadas y su necesidad de continuidad en la siguiente etapa escolar.
 
@@ -324,7 +331,7 @@ Este alumnado deberá superar las evaluaciones correspondientes a dichos planes,
 
 4. La permanencia en el mismo curso se considerará una medida de carácter excepcional y se tomará tras haber agotado las medidas ordinarias de refuerzo y apoyo para solventar las dificultades de aprendizaje del alumno o la alumna. En todo caso, el alumno o la alumna podrá permanecer en el mismo curso una sola vez y dos veces como máximo a lo largo de la enseñanza obligatoria.
 
-5. De forma excepcional se podrá permanecer un año más en el cuarto curso, aunque se haya agotado el máximo de permanencia, siempre que el equipo docente considere que esta medida favorece la adquisición de las competencias establecidas para la etapa. En este caso se podrá prolongar un año el límite de edad al que se refiere el artículo 4.2 de la Ley Orgánica 2/2006, de 3 de mayo.
+5. De forma excepcional se podrá permanecer un año más en el cuarto curso, aunque se haya agotado el máximo de permanencia, siempre que el equipo docente considere que esta medida favorece la adquisición de las competencias establecidas para la etapa. En este caso se podrá prolongar un año el límite de edad al que se refiere el artículo 4.2 de la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo.
 
 6. En todo caso, la permanencia en el mismo curso se planificará de manera que las condiciones curriculares se adapten a las necesidades del alumnado y estén orientadas a la superación de las dificultades detectadas, así como al avance y profundización en los aprendizajes ya adquiridos. Estas condiciones se recogerán en un plan específico personalizado con cuantas medidas se consideren adecuadas para este alumnado.
 
@@ -348,7 +355,7 @@ c) Que finalicen en 2021-2022 el tercer curso de Educación Secundaria Obligator
 
 En todos estos casos, la incorporación a estos programas requerirá, además de la evaluación académica, un informe de idoneidad de la medida en los términos que establezcan las Administraciones educativas, y se realizará una vez oído el propio alumno o alumna, y contando con la conformidad de sus madres, padres, o tutores legales.
 
-3. El alumnado que en 2021-2022 hubiera cursado el segundo curso de Educación Secundaria Obligatoria en un programa de mejora del aprendizaje y del rendimiento podrá incorporarse de forma automática al primer curso de un programa de diversificación curricular en el curso 2022-2023. Asimismo podrán hacerlo quienes hayan finalizado el tercer curso de Educación Secundaria Obligatoria en un programa de mejora del aprendizaje y del rendimiento y no estén en condiciones de promocionar a cuarto curso, siempre que la incorporación al programa les permita obtener el título dentro de los límites de edad establecidos en el artículo 4.2 de la Ley Orgánica 2/2006, de 3 de mayo, teniendo en cuenta asimismo la prolongación excepcional de la permanencia en la etapa que prevé la propia ley en el artículo 28.5. 4. Las Administraciones educativas garantizarán al alumnado con necesidades educativas especiales que participe en estos programas los recursos de apoyo que, con carácter general, se prevean para este alumnado.
+3. El alumnado que en 2021-2022 hubiera cursado el segundo curso de Educación Secundaria Obligatoria en un programa de mejora del aprendizaje y del rendimiento podrá incorporarse de forma automática al primer curso de un programa de diversificación curricular en el curso 2022-2023. Asimismo podrán hacerlo quienes hayan finalizado el tercer curso de Educación Secundaria Obligatoria en un programa de mejora del aprendizaje y del rendimiento y no estén en condiciones de promocionar a cuarto curso, siempre que la incorporación al programa les permita obtener el título dentro de los límites de edad establecidos en el artículo 4.2 de la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, teniendo en cuenta asimismo la prolongación excepcional de la permanencia en la etapa que prevé la propia ley en el artículo 28.5. 4. Las Administraciones educativas garantizarán al alumnado con necesidades educativas especiales que participe en estos programas los recursos de apoyo que, con carácter general, se prevean para este alumnado.
 
 #### Artículo 14. Incorporación a un programa de mejora del aprendizaje y del rendimiento.
 
@@ -372,7 +379,7 @@ b) Que hayan cursado el tercer curso de Educación Secundaria Obligatoria o, exc
 
 4. En cualquier caso, todos los alumnos y alumnas recibirán, al concluir su escolarización en la Educación Secundaria Obligatoria, una certificación oficial en la que constará el número de años cursados y el nivel de adquisición de las competencias de la etapa.
 
-5. Quienes, una vez finalizado el proceso de evaluación de cuarto curso de Educación Secundaria Obligatoria, no hayan obtenido el título, y hayan superado los límites de edad establecidos en el artículo 4.2 de la Ley Orgánica 2/2006, de 3 de mayo, teniendo en cuenta asimismo la prolongación excepcional de la permanencia en la etapa que prevé la propia ley en el artículo 28.5, podrán hacerlo en los dos cursos siguientes a través de la realización de pruebas o actividades personalizadas extraordinarias de las materias que no hayan superado, de acuerdo con el currículo establecido por las Administraciones educativas competentes y con la organización que dichas Administraciones dispongan.
+5. Quienes, una vez finalizado el proceso de evaluación de cuarto curso de Educación Secundaria Obligatoria, no hayan obtenido el título, y hayan superado los límites de edad establecidos en el artículo 4.2 de la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, teniendo en cuenta asimismo la prolongación excepcional de la permanencia en la etapa que prevé la propia ley en el artículo 28.5, podrán hacerlo en los dos cursos siguientes a través de la realización de pruebas o actividades personalizadas extraordinarias de las materias que no hayan superado, de acuerdo con el currículo establecido por las Administraciones educativas competentes y con la organización que dichas Administraciones dispongan.
 
 ## Capítulo IV. Ciclos de Formación Profesional Básica.
 
@@ -522,7 +529,7 @@ Igualmente, las decisiones sobre la promoción serán adoptadas conforme a dicha
 
 #### Disposición transitoria cuarta. Documentos de evaluación.
 
-Hasta la implantación de las modificaciones introducidas por la Ley Orgánica 3/2020, de 29 de diciembre, en el currículo, la organización y los objetivos de las enseñanzas objeto de este real decreto, los documentos oficiales de evaluación, así como el procedimiento de expresión de los resultados de evaluación se ajustarán a lo previsto, para la Educación Primaria, en la disposición adicional cuarta del Real Decreto 126/2014, de 28 de febrero, y para la Educación Secundaria Obligatoria y el Bachillerato, en la disposición adicional sexta del Real Decreto 1105/2014, de 26 de diciembre, si bien se tendrán en cuenta las salvedades que se establecen a continuación:
+Hasta la implantación de las modificaciones introducidas por la Ley Orgánica 3/2020, de 29 de diciembre, en el currículo, la organización y los objetivos de las enseñanzas objeto de este real decreto, los documentos oficiales de evaluación, así como el procedimiento de expresión de los resultados de evaluación se ajustarán a lo previsto, para la Educación Primaria, en la disposición adicional cuarta del Real [Decreto 126/2014](../../autonómica/madrid/05_alumnado_y_servicios_escolares/D126_2014_precios_publicos_servicios_comedor_escuelas_infantiles_madrid.md), de 28 de febrero, y para la Educación Secundaria Obligatoria y el Bachillerato, en la disposición adicional sexta del Real Decreto 1105/2014, de 26 de diciembre, si bien se tendrán en cuenta las salvedades que se establecen a continuación:
 
 a) Las actas de evaluación de los diferentes cursos de Educación Primaria y Secundaria Obligatoria se cerrarán al término del período lectivo ordinario. Las actas de Bachillerato se cerrarán al final del período lectivo después de la convocatoria ordinaria, y tras la convocatoria extraordinaria.
 
@@ -530,7 +537,7 @@ b) Igualmente, en el historial académico de Educación Primaria y Educación Se
 
 #### Disposición derogatoria única. Derogación normativa.
 
-Quedan derogados los artículos 11 y 12 del Real Decreto 126/2014, de 28 de febrero, y los artículos 20, 21, 22, 23, 30, 31, 32, 33 y 34, y los apartados 4 y 7 de la disposición adicional cuarta del Real Decreto 1105/2014, de 26 de diciembre, así como cuantas otras disposiciones de igual o inferior rango se opongan a lo dispuesto en este real decreto.
+Quedan derogados los artículos 11 y 12 del Real [Decreto 126/2014](../../autonómica/madrid/05_alumnado_y_servicios_escolares/D126_2014_precios_publicos_servicios_comedor_escuelas_infantiles_madrid.md), de 28 de febrero, y los artículos 20, 21, 22, 23, 30, 31, 32, 33 y 34, y los apartados 4 y 7 de la disposición adicional cuarta del Real Decreto 1105/2014, de 26 de diciembre, así como cuantas otras disposiciones de igual o inferior rango se opongan a lo dispuesto en este real decreto.
 
 #### Disposición final primera. Título competencial.
 

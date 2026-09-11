@@ -33,13 +33,21 @@ relaciones:
   - norm-es-lo-8-2021
   - norm-es-lo-2-2006
   - norm-and-l17-2007
+fundamentos_derecho:
+- norma_id: norm-and-d-194-2026
+- norma_id: norm-and-l17-2007
+- norma_id: norm-and-res-2026-09-01-mas-equidad
+- norma_id: norm-and-res-2026-09-01-violencia-genero
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
 ---
-
-# Resolución de 1 de septiembre de 2026, de la Dirección General de Inclusión, Convivencia y Participación, por la que se establece la organización y el funcionamiento del Programa de Bienestar Emocional en el ámbito educativo en los centros docentes andaluces no universitarios para el curso 2026/2027.
+# [Resolución de 1 de septiembre de 2026](../06_atencion_diversidad_y_orientacion/R1_9_2026_organizacion_funcionamiento_programa_mas_equidad_2026_2027.md), de la Dirección General de Inclusión, Convivencia y Participación, por la que se establece la organización y el funcionamiento del Programa de Bienestar Emocional en el ámbito educativo en los centros docentes andaluces no universitarios para el curso 2026/2027.
 
 ## Preámbulo
 
-Resolución de 1 de septiembre de 2026, de la Dirección General de Inclusión, Convivencia y 
+[Resolución de 1 de septiembre de 2026](../06_atencion_diversidad_y_orientacion/R1_9_2026_organizacion_funcionamiento_programa_mas_equidad_2026_2027.md), de la Dirección General de Inclusión, Convivencia y 
 Participación, por la que se establece la organización y el funcionamiento del Programa de Bienestar 
 Emocional en el ámbito educativo en los centros docentes andaluces no universitarios para el curso 
 2026/2027.
@@ -76,7 +84,7 @@ exigencias a los que se enfrenta el personal docente y se pone la atención en l
 con los recursos, la formación y el apoyo adecuados. Descuidar esto puede tener consecuencias negativas 
 para la salud, la autoeficacia y las prácticas docentes, factores que aumentan la probabilidad de abandonar 
 la profesión.
-La Ley Orgánica 2/2006, de 3 de mayo, de Educación establece la educación inclusiva como principio 
+La [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación establece la educación inclusiva como principio 
 fundamental, con el fin de atender a la diversidad de las necesidades de todo el alumnado (artículo 4.3, 
 redacción dada por la Ley 3/2020, de 29 de diciembre). Y señala que, cuando tal diversidad lo requiera, se 
 adoptarán las medidas organizativas, metodológicas y curriculares pertinentes, conforme a los principios 
@@ -93,7 +101,7 @@ ALMUDENA GARCIA ROSADO
 VERIFICACIÓN
 PÁG. 1/7
 
-Por su parte, la Ley 17/2007, de 10 de diciembre, de Educación de Andalucía recoge entre sus objetivos el de 
+Por su parte, la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre, de Educación de Andalucía recoge entre sus objetivos el de 
 potenciar la orientación educativa como medio para el desarrollo personal y como garantía de una 
 respuesta educativa ajustada a las necesidades del alumnado. En su artículo 5 se reseña el favorecer el éxito 
 escolar del alumnado, en función de sus capacidades, sus intereses y sus expectativas, así como promover 
@@ -153,7 +161,7 @@ problemas psicosociales de desarrollo, de alteraciones del estado de ánimo y de
 hijas.
 Con la finalidad de establecer la organización y funcionamiento de dicho Programa de Bienestar Emocional 
 en el ámbito educativo en la Comunidad Autónoma de Andalucía para el curso 2026/2027, y en virtud de las 
-competencias que otorga el Decreto 194/2026, de 30 de julio, por el que se establece la estructura orgánica 
+competencias que otorga el [Decreto 194/2026](../01_marco_normativo_general_y_organico/D194_2026_estructura_organica_consejeria_educacion_andalucia.md), de 30 de julio, por el que se establece la estructura orgánica 
 de la Consejería de Educación, la Dirección General de Inclusión, Convivencia y Participación
 
 ## Texto Articulado

@@ -31,8 +31,18 @@ relaciones:
   - norm-and-l-1-2020
   - norm-and-d-25-2007
   - norm-es-lo-2-2006
+fundamentos_derecho:
+- norma_id: norm-and-d334-2009-regulacion-centros-integrados-formacion-profesional-andalucia
+- norma_id: norm-and-15-2012
+- norma_id: norm-and-d25-2007-prevencion-riesgos-laborales-salud-trabajo-centros-docentes-andalucia
+- norma_id: norm-and-d327-2010
+- norma_id: norm-and-d328-2010
+- norma_id: norm-and-360-2011
+- norma_id: norm-and-361-2011
+- norma_id: norm-and-l1-2020-bioclimatizacion-condiciones-ambientales-centros-andalucia
+- norma_id: norm-and-d-213-1995
+- norma_id: norm-es-l-31-1995
 ---
-
 # Protocolo general de actuación en el ámbito educativo andaluz no universitario ante olas de calor o altas temperaturas excepcionales.
 
 ## Protocolo y Directrices
@@ -1222,7 +1232,7 @@ Sin perjuicio de lo anterior, el protocolo del centro podrá incorporar la reali
 actividades formativas que aseguren la actualización del personal docente en la materia. Para 
 ello, el centro docente podrá incorporarlas en su plan de formación.  
 8.2 APOYO A LA FUNCIÓN TUTORIAL DEL PROFESORADO. 
-En aplicación del artículo 7.1 del Decreto 213/1995, de 12 de septiembre de 1995, por 
+En aplicación del artículo 7.1 del [Decreto 213/1995](../05_alumnado_y_servicios_escolares/D213_1995_reglamento_asociaciones_padres_madres_alumnado_ampas_andalucia.md), de 12 de septiembre de 1995, por 
 el que se regulan los equipos de orientación educativa y 9.5 de la Orden de 23 de julio de 
 2003, por la que se regulan determinados aspectos sobre la organización y el funcionamiento 
 de los Equipos de Orientación Educativa, los médicos de los Equipos de Orientación Educativa 
@@ -1688,7 +1698,7 @@ El presente protocolo general de actuación en el ámbito educativo andaluz no u
 ante olas de calor o altas temperaturas excepcionales ha sido redactado considerando la 
 siguiente normativa vigente relacionada con su objeto, ámbito y finalidad: 
 ●● Normativa de ámbito estatal: 
-■■ Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales. 
+■■ [Ley 31/1995](../../../estatal/02_gestion_y_administracion_centros/L31_1995_prevencion_riesgos_laborales.md), de 8 de noviembre, de Prevención de Riesgos Laborales. 
 ■■ Ley 17/2015, de 9 de julio, del Sistema Nacional de Protección Civil 
 ■■ Real Decreto 393/2007, de 23 de marzo, por el que se aprueba l Norma Básica de 
 Autoprotección de los centros, establecimiento y dependencias dedicados a actividades que 
@@ -1705,9 +1715,9 @@ noviembre, de Gestión de Emergencias en Andalucía.
 de los Institutos Provinciales de Formación para Adultos (IPFAs). 
 ■■ Decreto 196/2005, de 13 de septiembre, por el que se aprueba el Reglamento 
 Orgánico de los Centros de Educación Permanente. 
-■■ Decreto 334/2009, de 22 de septiembre, por el que se regulan los centros 
+■■ [Decreto 334/2009](../02_gestion_y_administracion_centros/D334_2009_regulacion_centros_integrados_formacion_profesional_andalucia.md), de 22 de septiembre, por el que se regulan los centros 
 integrados de Formación Profesional en la Comunidad Autónoma de Andalucía. 
-■■ Decreto 327/2010, de 13 de julio, por el que se aprueba el Reglamento Orgánico 
+■■ [Decreto 327/2010](../04_organizacion_escolar_y_funcionamiento/D327_2010_reglamento_organico_institutos_educacion_secundaria_andalucia.md), de 13 de julio, por el que se aprueba el Reglamento Orgánico 
 de los Institutos de Educación Secundaria. 
 
  
@@ -1715,20 +1725,20 @@ de los Institutos de Educación Secundaria.
 44  
 Protocolo general de actuación en el ámbito educativo andaluz no 
 universitario ante olas de calor o altas temperaturas excepcionales. 
-■■ Decreto 328/2010, de 13 de julio, por el que se aprueba el Reglamento Orgánico 
+■■ [Decreto 328/2010](../04_organizacion_escolar_y_funcionamiento/D328_2010_reglamento_organico_escuelas_infantiles_colegios_primaria_andalucia.md), de 13 de julio, por el que se aprueba el Reglamento Orgánico 
 de las escuelas infantiles de segundo grado, de los colegios de educación primaria, de los 
 colegios de educación infantil y primaria, y de los centros públicos específicos de educación 
 especial. 
 ■■ Decreto 304/2011, de 11 de octubre, por el que se regula la estructura organizativa 
 de prevención de riesgos laborales para el personal al servicio de la Administración de la Junta 
 de Andalucía. 
-■■ Decreto 360/2011, de 7 de diciembre, por el que se aprueba el reglamento 
+■■ [Decreto 360/2011](../04_organizacion_escolar_y_funcionamiento/D360_2011_reglamento_organico_escuelas_arte_andalucia.md), de 7 de diciembre, por el que se aprueba el reglamento 
 orgánico de las Escuelas de Arte. 
-■■ Decreto 361/2011, de 7 de diciembre, por el que se aprueba el Reglamento 
+■■ [Decreto 361/2011](../04_organizacion_escolar_y_funcionamiento/D361_2011_reglamento_organico_conservatorios_musica_danza_andalucia.md), de 7 de diciembre, por el que se aprueba el Reglamento 
 Orgánico de los Conservatorios Elementales y Conservatorios Profesionales de Música. 
 ■■ Decreto 362/2011, de 7 de diciembre, por el que se aprueba el Reglamento 
 Orgánico de los Conservatorios Profesionales de Danza. 
-■■ Decreto 15/2012, de 7 en la Comunidad Autónoma de Andalucía de febrero, por 
+■■ [Decreto 15/2012](../04_organizacion_escolar_y_funcionamiento/D15_2012_reglamento_organico_escuelas_oficiales_idiomas_andalucia.md), de 7 en la Comunidad Autónoma de Andalucía de febrero, por 
 el que se aprueba el Reglamento Orgánico de las Escuelas Oficiales de Idiomas en la 
 Comunidad Autónoma de Andalucía. 
 ■■ Decreto 91/2023, de 18 de abril, por el que se crea las Escuelas de Arte y Superiores 

@@ -33,8 +33,13 @@ relaciones:
   - norma_id: norm-and-l17-2007
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-l-39-2015
+fundamentos_derecho:
+- norma_id: norm-and-l17-2007
+- norma_id: norm-and-l6-2006-gobierno-comunidad-autonoma-andalucia
+- norma_id: norm-and-d285-2010-regulacion-sistema-informacion-seneca-andalucia
+- norma_id: norm-and-d301-2009
+- norma_id: norm-and-361-2011
 ---
-
 # Orden de 19 de marzo de 2012, por la que se regula la organización y el funcionamiento de los conservatorios elementales y de los conservatorios profesionales de música, así como el horario de los centros, del alumnado y del profesorado.
 
 ## Preámbulo
@@ -46,7 +51,7 @@ sionales de música, así como el horario de los centros,
 del alumnado y del profesorado.
 El Reglamento Orgánico de los conservatorios ele-
 mentales y de los conservatorios profesionales de música, 
-aprobado por el Decreto 361/2011, de 7 de diciembre, por 
+aprobado por el [Decreto 361/2011](./D361_2011_reglamento_organico_conservatorios_musica_danza_andalucia.md), de 7 de diciembre, por 
 el que se aprueba el Reglamento orgánico de los conser-
 vatorios elementales y de los conservatorios profesionales 
 de música, ha regulado determinados aspectos relacionados 
@@ -92,9 +97,9 @@ grupos y, en su caso, turnos que tenga encomendados cada
 departamento de coordinación didáctica. 
 En su virtud, a propuesta de la Directora General de Orde-
 nación y Evaluación Educativa y de acuerdo con las facultades 
-que me confiere el artículo 44.2 de la Ley 6/2006, de 24 de 
+que me confiere el artículo 44.2 de la [Ley 6/2006](../01_marco_normativo_general_y_organico/L6_2006_gobierno_comunidad_autonoma_andalucia.md), de 24 de 
 octubre, del Gobierno de la Comunidad Autónoma de Andalu-
-cía, y la disposición final cuarta del Decreto 361/2011, de 7 
+cía, y la disposición final cuarta del [Decreto 361/2011](./D361_2011_reglamento_organico_conservatorios_musica_danza_andalucia.md), de 7 
 de diciembre,
 D I S P O N G O
 CAPÍTULO I 
@@ -120,7 +125,7 @@ Plan de Centro y autoevaluación
 de Centro se llevará a cabo de acuerdo con lo dispuesto en el 
 ### Capítulo II del Título V del Reglamento Orgánico de los conser-
 vatorios elementales y de los conservatorios profesionales de 
-música aprobado por el Decreto 361/2011, de 7 de diciembre, 
+música aprobado por el [Decreto 361/2011](./D361_2011_reglamento_organico_conservatorios_musica_danza_andalucia.md), de 7 de diciembre, 
 por el que se aprueba el Reglamento orgánico de los conser-
 vatorios elementales y de los conservatorios profesionales de 
 música.
@@ -128,7 +133,7 @@ música.
 curso académico para elaborar y aprobar su Plan de Centro.
 #### Artículo 4. Difusión del Plan de Centro.
 1. De conformidad con el artículo 22.5 del Reglamento 
-aprobado por el Decreto 361/2011, de 7 de diciembre, el 
+aprobado por el [Decreto 361/2011](./D361_2011_reglamento_organico_conservatorios_musica_danza_andalucia.md), de 7 de diciembre, el 
 Plan de Centro será público y se facilitará su conocimiento 
 por la comunidad educativa y la ciudadanía en general. A tales 
 efectos, la persona que ejerza la dirección del conservatorio 
@@ -145,7 +150,7 @@ carán en esta su Plan de Centro, así como sus actualizaciones
 y modificaciones. 
 3. El Plan de Centro de cada conservatorio se incluirá 
 en el Sistema de Información Séneca, regulado mediante el 
-Decreto 285/2010, de 11 de mayo, por el que se regula el 
+[Decreto 285/2010](../02_gestion_y_administracion_centros/D285_2010_regulacion_sistema_informacion_seneca_andalucia.md), de 11 de mayo, por el que se regula el 
 Sistema de Información Séneca y se establece su utilización 
 para la gestión del sistema educativo andaluz. 
 #### Artículo 5. Actualización o modificación del Plan de Centro.
@@ -191,14 +196,14 @@ d
  ,alliv
 e
 S
-del Reglamento aprobado por el Decreto 361/2011, de 7 de 
+del Reglamento aprobado por el [Decreto 361/2011](./D361_2011_reglamento_organico_conservatorios_musica_danza_andalucia.md), de 7 de 
 diciembre. 
 2. Las actualizaciones o modificaciones del Plan de Centro 
 serán aprobadas, en su caso, e incluidas en el Sistema de Infor-
 mación Séneca antes del quince de noviembre de cada año.
 #### Artículo 6. Proceso de autoevaluación.
 1. De conformidad con lo recogido en el artículo 27.1 del 
-Reglamento aprobado por el Decreto 361/2011, de 7 de di-
+Reglamento aprobado por el [Decreto 361/2011](./D361_2011_reglamento_organico_conservatorios_musica_danza_andalucia.md), de 7 de di-
 ciembre, los centros realizarán una autoevaluación de su pro-
 pio funcionamiento, de los programas que desarrollan, de los 
 procesos de enseñanza y aprendizaje y de los resultados del 
@@ -265,7 +270,7 @@ cará a las entrevistas con los padres, madres o representan-
 tes legales del alumnado y otra a las tareas administrativas 
 propias de la tutoría.
 3. De conformidad con lo dispuesto en el artículo 80.m) 
-del Reglamento aprobado por el Decreto 361/2011, de 7 de 
+del Reglamento aprobado por el [Decreto 361/2011](./D361_2011_reglamento_organico_conservatorios_musica_danza_andalucia.md), de 7 de 
 diciembre, el horario dedicado a las entrevistas con los pa-
 dres, madres o representantes legales del alumnado se fijará 
 de forma que se posibilite la asistencia de los mismos y, en 
@@ -283,7 +288,7 @@ lución a lo largo del curso y recibir información que oriente la
 toma de decisiones académicas y profesionales. 
 #### Artículo 10. Tutoría electrónica.
 a) De conformidad con lo recogido en el artículo 16 del 
-Decreto 285/2010, de 11 de mayo, los centros docentes y las 
+[Decreto 285/2010](../02_gestion_y_administracion_centros/D285_2010_regulacion_sistema_informacion_seneca_andalucia.md), de 11 de mayo, los centros docentes y las 
 familias intercambiarán información mediante la utilización del 
 Sistema de Información Séneca para apoyar el proceso de en-
 señanza y aprendizaje del alumnado. 
@@ -301,7 +306,7 @@ CAPÍTULO IV
 Horarios
 #### Artículo 11. Elaboración de los horarios.
 1. De conformidad con lo dispuesto en el artículo 68.f) 
-del Reglamento aprobado por el Decreto 361/2011, de 7 de 
+del Reglamento aprobado por el [Decreto 361/2011](./D361_2011_reglamento_organico_conservatorios_musica_danza_andalucia.md), de 7 de 
 diciembre, la jefatura de estudios elaborará, en colaboración 
 con los restantes miembros del equipo directivo, el horario ge-
 neral del conservatorio, el horario lectivo del alumnado y el 
@@ -309,7 +314,7 @@ horario individual del profesorado, de acuerdo con lo estable-
 cido en este capítulo y con los criterios incluidos en el proyecto 
 educativo y velará por su estricto cumplimiento.
 2. De conformidad con lo dispuesto en el artículo 69.h) 
-del Reglamento aprobado por el Decreto 361/2011, de 7 de 
+del Reglamento aprobado por el [Decreto 361/2011](./D361_2011_reglamento_organico_conservatorios_musica_danza_andalucia.md), de 7 de 
 diciembre, la secretaría elaborará, en colaboración con los res-
 tantes miembros del equipo directivo, el horario del personal 
 de administración y servicios y velará por su estricto cumpli-
@@ -396,7 +401,7 @@ nales de música es el establecido en el Anexo III de la Orden
 de 25 de octubre de 2007, por la que se desarrolla el currículo 
 de las enseñanzas profesionales de Música en Andalucía.
 3. De conformidad con lo dispuesto en el artículo 17 del 
-Decreto 301/2009, de 14 de julio, por el que se regula el ca-
+[Decreto 301/2009](./D301_2009_regulacion_calendario_jornada_escolar_andalucia.md), de 14 de julio, por el que se regula el ca-
 lendario y la jornada escolar en los centros docentes, a ex-
 cepción de los universitarios, el horario lectivo semanal para 
 estas enseñanzas se desarrollará de lunes a viernes, ambos 
@@ -551,7 +556,7 @@ ras de estudios adjuntas tendrá diez horas en el caso de que
 el conservatorio tenga jornada de mañana y tarde.
 3. La dirección del conservatorio, en el ejercicio de las 
 competencias establecidas en el artículo 64.1.ñ) del Regla-
-mento aprobado por el Decreto 361/2011, de 7 de diciembre, 
+mento aprobado por el [Decreto 361/2011](./D361_2011_reglamento_organico_conservatorios_musica_danza_andalucia.md), de 7 de diciembre, 
 dispondrá de autonomía para distribuir entre los miembros del 
 equipo directivo el número total de horas que, en aplicación 
 de los criterios recogidos en los apartados 1 y 2, se asignen 
@@ -700,19 +705,19 @@ nig
 á
 P
 procedimiento establecido en el Reglamento aprobado por el 
-Decreto 361/2011, de 7 de diciembre. 
+[Decreto 361/2011](./D361_2011_reglamento_organico_conservatorios_musica_danza_andalucia.md), de 7 de diciembre. 
 ### Disposición adicional segunda. Elaboración del Plan de 
 Centro.
 La dirección del conservatorio convocará, en un plazo 
 de quince días, contados a partir de la entrada en vigor de la 
 presente orden, una sesión extraordinaria del Claustro de Pro-
 fesorado, cuyo único punto del orden del día será la presenta-
-ción del Reglamento aprobado por el Decreto 361/2011, de 7 
+ción del Reglamento aprobado por el [Decreto 361/2011](./D361_2011_reglamento_organico_conservatorios_musica_danza_andalucia.md), de 7 
 de diciembre, y de la presente orden, con objeto de facilitar su 
 difusión y conocimiento entre el profesorado, así como para 
 iniciar los trabajos de elaboración del Plan de Centro en cum-
 plimiento de lo recogido en la disposición transitoria primera 
-del Decreto 361/2011, de 7 de diciembre. 
+del [Decreto 361/2011](./D361_2011_reglamento_organico_conservatorios_musica_danza_andalucia.md), de 7 de diciembre. 
 ### Disposición adicional tercera. Sustituciones del profesorado.
 La gestión de las sustituciones del profesorado de los 
 conservatorios elementales y de los conservatorios profesio-
@@ -737,7 +742,7 @@ les y de los conservatorios profesionales de música que estén
 en funcionamiento a la entrada en vigor de la presente orden 
 mantendrán su vigencia hasta la aprobación de los correspon-
 dientes Planes de Centro, siempre que no se opongan a lo 
-previsto en el Reglamento aprobado por el Decreto 361/2011, 
+previsto en el Reglamento aprobado por el [Decreto 361/2011](./D361_2011_reglamento_organico_conservatorios_musica_danza_andalucia.md), 
 de 7 de diciembre, y en esta Orden.
 Disposición derogatoria única. Derogación normativa.
 Queda derogado el artículo 4 de la Orden de 5 de sep-
@@ -834,7 +839,7 @@ grupos y, en su caso, turnos que tenga encomendados cada
 departamento de coordinación didáctica. 
 En su virtud, a propuesta de la Directora General de Orde-
 nación y Evaluación Educativa y de acuerdo con las facultades 
-que me confiere el artículo 44.2 de la Ley 6/2006, de 24 de 
+que me confiere el artículo 44.2 de la [Ley 6/2006](../01_marco_normativo_general_y_organico/L6_2006_gobierno_comunidad_autonoma_andalucia.md), de 24 de 
 octubre, del Gobierno de la Comunidad Autónoma de Andalu-
 cía, y la disposición final cuarta del Decreto 362/2011, de 7 
 de diciembre, 

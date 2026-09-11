@@ -614,8 +614,19 @@ relaciones:
   - norma_id: norm-es-l-39-2015
   - norma_id: norm-es-l-40-2015
   - norma_id: norm-mad-d-29-2013
+fundamentos_derecho:
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-mad-l12-1999-creacion-consejo-escolar-comunidad-madrid
+- norma_id: norm-es-l-39-2015
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-lo-3-2018
+- norma_id: norm-es-lo-8-1985
+- norma_id: norm-es-rd-2377-1985
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
+- norma_id: norm-es-2007-6115
+- norma_id: norm-es-2013-12632
 ---
-
 # Ley 1/2022, de 10 de febrero, Maestra de Libertad de Elección Educativa de la Comunidad de Madrid
 
 ## Preámbulo
@@ -686,7 +697,7 @@ I
 
 El artículo 27 de la Constitución Española reconoce el derecho a la educación y la libertad de enseñanza; precisa en su apartado 2 que la educación tendrá por objeto el pleno desarrollo de la personalidad humana en el respeto a los principios democráticos de convivencia y a los derechos y libertades fundamentales.
 
-Por su parte, la Ley Orgánica 2/2006, de 3 de mayo, de Educación, concreta en su artículo 1 los principios del sistema educativo, entre otros, la calidad de la educación para todo el alumnado, la equidad, la flexibilidad para adecuar la educación a la diversidad, el reconocimiento del papel que corresponde a los padres, madres y tutores legales como primeros responsables de la educación de sus hijos y la libertad de enseñanza.
+Por su parte, la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, concreta en su artículo 1 los principios del sistema educativo, entre otros, la calidad de la educación para todo el alumnado, la equidad, la flexibilidad para adecuar la educación a la diversidad, el reconocimiento del papel que corresponde a los padres, madres y tutores legales como primeros responsables de la educación de sus hijos y la libertad de enseñanza.
 
 De los principios enunciados, de especial trascendencia resultan el de igualdad de oportunidades de todos los españoles al acceso a la educación de calidad y el de la libertad de enseñanza, que facilita el derecho de las familias y tutores legales a elegir el tipo de educación y el centro para sus hijos, por las consecuencias que implica en los procesos de admisión del alumnado en centros sostenidos con fondos públicos, ya sean públicos o privados. Consecuentemente, los poderes públicos han de adoptar las medidas necesarias para garantizar a los padres o tutores el ejercicio de esa libertad de elección en los distintos centros educativos financiados con fondos públicos.
 
@@ -696,17 +707,17 @@ La libertad de enseñanza no se garantiza únicamente por la mera coexistencia d
 
 La existencia de una doble red de centros escolares, públicos y privados sostenidos con fondos públicos permite conseguir una prestación efectiva del servicio público y social de la educación, de manera gratuita, en condiciones de igualdad, garantizando el respeto a los derechos y libertades constitucionales y en el marco de la programación general de la enseñanza.
 
-Desde la aprobación de la Ley Orgánica 8/1985, de 3 de julio, reguladora del Derecho a la Educación, y el Real Decreto 2377/1985, de 18 de diciembre, por el que se aprueba el Reglamento de Normas Básicas sobre Conciertos Educativos, el marco normativo sobre la figura del concierto educativo ha permitido garantizar la libre elección de centro para las enseñanzas declaradas gratuitas en la Ley 2/2006, de 3 de mayo.
+Desde la aprobación de la [Ley Orgánica 8/1985](../../../estatal/02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md), de 3 de julio, reguladora del Derecho a la Educación, y el [Real Decreto 2377/1985](../../../estatal/02_gestion_y_administracion_centros/RD2377_1985_aprueba_reglamento_normas_basicas_conciertos_educativos.md), de 18 de diciembre, por el que se aprueba el Reglamento de Normas Básicas sobre Conciertos Educativos, el marco normativo sobre la figura del concierto educativo ha permitido garantizar la libre elección de centro para las enseñanzas declaradas gratuitas en la Ley 2/2006, de 3 de mayo.
 
 Este modelo basado en el respeto al derecho a la educación y a la libertad de enseñanza, se ha desarrollado de manera satisfactoria en el territorio de la Comunidad de Madrid, si bien se considera necesario la publicación de una disposición normativa con rango de ley que le otorgue estabilidad y seguridad jurídica.
 
 II
 
-En el caso de los alumnos con necesidades educativas especiales, la libertad de elección de centro educativo, conforme al artículo 74.1 de la Ley Orgánica 2/2006, de 3 de mayo, se concreta en el respeto a los principios de normalización, inclusión, no discriminación e igualdad efectiva en el acceso y la permanencia en el sistema educativo, y ha de permitir la introducción de medidas de flexibilización de duración de las enseñanzas en las distintas etapas educativas, cuando se considere necesario.
+En el caso de los alumnos con necesidades educativas especiales, la libertad de elección de centro educativo, conforme al artículo 74.1 de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, se concreta en el respeto a los principios de normalización, inclusión, no discriminación e igualdad efectiva en el acceso y la permanencia en el sistema educativo, y ha de permitir la introducción de medidas de flexibilización de duración de las enseñanzas en las distintas etapas educativas, cuando se considere necesario.
 
 Los poderes públicos, teniendo en cuenta el interés superior del menor y en consonancia con la decisión tomada por las familias, facilitarán que el alumnado se escolarice en el régimen más inclusivo, entendiendo como tal aquel que garantice tanto un mayor grado de desarrollo de las competencias y de la capacidad de los escolares, como una inserción real y efectiva en la sociedad, y que podrá formalizarse bien en centros ordinarios, en unidades de educación especial en centros ordinarios, en centros de educación especial u optando por la modalidad de educación combinada. Sobre la base de los principios reseñados, la escolarización del alumnado en unidades o centros de educación especial, que podrá extenderse hasta los veintiún años, sólo se llevará a cabo cuando sus necesidades no puedan ser atendidas en el marco de las medidas de atención a la diversidad de los centros ordinarios.
 
-En este sentido, también se hace necesario recordar que el Real Decreto Legislativo 1/2013, de 29 de noviembre, por el que se aprueba el Texto Refundido de la Ley General de derechos de las personas con discapacidad y de su inclusión social, dispone que corresponde a las administraciones educativas asegurar un sistema educativo inclusivo en todos los niveles educativos así como la enseñanza a lo largo de la vida y garantizar un puesto escolar a los alumnos con discapacidad en la educación básica, prestando atención a la diversidad de necesidades educativas del alumnado con discapacidad, mediante la regulación de apoyos y ajustes razonables para la atención de quienes precisen una atención especial de aprendizaje o de inclusión.
+En este sentido, también se hace necesario recordar que el [Real Decreto Legislativo 1/2013](../../../estatal/07_convivencia_bienestar_y_protocolos/RDL1_2013_aprueba_texto_refundido_ley_general_derechos.md), de 29 de noviembre, por el que se aprueba el Texto Refundido de la Ley General de derechos de las personas con discapacidad y de su inclusión social, dispone que corresponde a las administraciones educativas asegurar un sistema educativo inclusivo en todos los niveles educativos así como la enseñanza a lo largo de la vida y garantizar un puesto escolar a los alumnos con discapacidad en la educación básica, prestando atención a la diversidad de necesidades educativas del alumnado con discapacidad, mediante la regulación de apoyos y ajustes razonables para la atención de quienes precisen una atención especial de aprendizaje o de inclusión.
 
 La Convención sobre los derechos de las personas con discapacidad, celebrada en Nueva York el 13 de diciembre de 2006 y ratificada por España el 23 de noviembre de 2007, viene a insistir en este mismo planteamiento. De esta manera, el artículo 24 de la Convención, en su apartado 2, letra e), al referirse a la educación de las personas con discapacidad, establece que los Estados Partes asegurarán que se faciliten medidas de apoyo personalizadas y efectivas en entornos que fomenten al máximo el desarrollo académico y social, de conformidad con el objetivo de la plena inclusión.
 
@@ -714,7 +725,7 @@ La Agenda 2030 para el Desarrollo Sostenible, también ratificada por España, s
 
 Por su parte, el Estatuto de Autonomía de la Comunidad de Madrid determina, en su artículo 29.1, la competencia para el desarrollo legislativo y ejecución de la enseñanza en toda su extensión, niveles y grados, modalidades y especialidades, de acuerdo con lo dispuesto en el artículo 27 de la Constitución Española y leyes orgánicas que conforme al apartado 1 del artículo 81 de la misma lo desarrollen, y sin perjuicio de las facultades que atribuye al Estado el número 30 del apartado 1 del artículo 149 y de la Alta Inspección para su cumplimiento y garantía.
 
-La presente ley, en desarrollo de la Ley Orgánica 2/2006, de 3 de mayo, garantiza la libre elección de centro educativo recogida en el artículo 27 de la Constitución Española, teniendo en cuenta las demandas de la sociedad y el desarrollo integral de los alumnos y, de manera específica, de aquéllos que presentan necesidades educativas especiales. Este alumnado presenta una serie de necesidades personales e individuales concretas; cada escolar es único y precisa una u otra respuesta educativa que depende de una alta variedad de factores. Por tanto, la inclusión de los alumnos con necesidades educativas especiales debe tener una consideración específica en cada una de las enseñanzas, capaz de proporcionar a cada uno la educación más ajustada a sus características y necesidades, en cualquier modalidad educativa.
+La presente ley, en desarrollo de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, garantiza la libre elección de centro educativo recogida en el artículo 27 de la Constitución Española, teniendo en cuenta las demandas de la sociedad y el desarrollo integral de los alumnos y, de manera específica, de aquéllos que presentan necesidades educativas especiales. Este alumnado presenta una serie de necesidades personales e individuales concretas; cada escolar es único y precisa una u otra respuesta educativa que depende de una alta variedad de factores. Por tanto, la inclusión de los alumnos con necesidades educativas especiales debe tener una consideración específica en cada una de las enseñanzas, capaz de proporcionar a cada uno la educación más ajustada a sus características y necesidades, en cualquier modalidad educativa.
 
 Los centros ordinarios han avanzado de manera considerable en el principio de inclusión en las últimas décadas, afirmación que se constata al observar el perfil de alumnado diverso que se ha escolarizado en los mismos, y que ha derivado en una atención educativa eficiente y eficaz. Esta situación ha implicado cambios significativos en los centros de educación especial, que se han instituido, especialmente, en centros en los que se atiende a un tipo de alumnado que requiere de apoyos muy especializados e intensivos durante toda la jornada escolar. Se hace necesario, pues, potenciar y poner en valor el rol de los centros de educación especial como centros abiertos al entorno. El papel que representan como centros de enseñanza para el alumnado de necesidades educativas especiales merece un reconocimiento, que, a su vez, ha de acompañarse del reconocimiento de otras funciones relacionadas con la prestación de otros servicios, tales como el asesoramiento a centros ordinarios, o la oferta de programas específicos para la escolarización del alumnado de educación infantil o formativos que les preparen para una cualificación profesional básica, con el fin de propiciar el máximo desarrollo de los alumnos en todos los ámbitos de su desarrollo y momento evolutivo.
 
@@ -754,9 +765,9 @@ El capítulo quinto del título II se dedica a la participación de las familias
 
 Por último, en el capítulo sexto se regulan aspectos relacionados con la coordinación, seguimiento y evaluación. La coordinación versará entre el personal que trabaje en un mismo centro educativo, en diferentes centros educativos, o con profesionales de entidades, asociaciones y organizaciones sin ánimo de lucro que atiendan al alumnado con necesidades educativas especiales. Por otro lado, se prevé el seguimiento y evaluación de la aplicación de las disposiciones contenidas en la ley, para lo que se contará con todos los sectores implicados.
 
-La ley contiene cuatro disposiciones adicionales. La primera de ellas desarrolla lo establecido en el artículo 148.2 de la Ley Orgánica 2/2006, de 3 de mayo, por el que corresponde a las Administraciones públicas competentes ordenar, regular y ejercer la inspección educativa en su ámbito territorial.
+La ley contiene cuatro disposiciones adicionales. La primera de ellas desarrolla lo establecido en el artículo 148.2 de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, por el que corresponde a las Administraciones públicas competentes ordenar, regular y ejercer la inspección educativa en su ámbito territorial.
 
-La disposición adicional segunda se refiere a la evaluación del sistema educativo madrileño. Se contempla la posibilidad de realizar evaluaciones externas organizadas por la Comunidad de Madrid, además de participar en las que, con carácter obligado, determina la Ley Orgánica 2/2006, de 3 de mayo, u otras de carácter internacional reconocidas para su aplicación por la administración educativa estatal.
+La disposición adicional segunda se refiere a la evaluación del sistema educativo madrileño. Se contempla la posibilidad de realizar evaluaciones externas organizadas por la Comunidad de Madrid, además de participar en las que, con carácter obligado, determina la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, u otras de carácter internacional reconocidas para su aplicación por la administración educativa estatal.
 
 La disposición adicional tercera regula la aplicación del contenido de la ley a los centros privados.
 
@@ -768,7 +779,7 @@ La disposición derogatoria de la ley plantea la derogación de cuantas disposic
 
 IV
 
-La presente ley se adecua a los principios rectores recogidos en el artículo 129 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, y, conforme a ellos, dispone su objeto y finalidades.
+La presente ley se adecua a los principios rectores recogidos en el artículo 129 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, y, conforme a ellos, dispone su objeto y finalidades.
 
 De este modo, las razones de interés general que, de acuerdo con el principio de necesidad justifican la aprobación de esta norma, son la regulación por primera vez mediante ley de la prestación del servicio público educativo en la Comunidad de Madrid, conforme a las competencias que tiene atribuidas, y la garantía de libertad, calidad y equidad del sistema educativo.
 
@@ -780,9 +791,9 @@ Esta ley respeta, además, el principio de proporcionalidad, ya que contiene la 
 
 Asimismo, se promulga respetando el principio de eficiencia, por cuanto no impone cargas innecesarias a los interesados y su formulación se asienta sobre la base de la racionalización de la gestión de los recursos públicos.
 
-En el proceso de elaboración de esta ley se ha dado cumplimiento al trámite de audiencia e información pública a través del Portal de Transparencia de la Comunidad de Madrid, conforme a lo dispuesto en el artículo 133.2 de la Ley 39/2015, de 1 de octubre, y en el artículo 26.6 de la Ley 50/1997, de 27 de noviembre, de Gobierno, por lo que se respeta, con ello, el principio de transparencia normativa.
+En el proceso de elaboración de esta ley se ha dado cumplimiento al trámite de audiencia e información pública a través del Portal de Transparencia de la Comunidad de Madrid, conforme a lo dispuesto en el artículo 133.2 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, y en el artículo 26.6 de la Ley 50/1997, de 27 de noviembre, de Gobierno, por lo que se respeta, con ello, el principio de transparencia normativa.
 
-Por último, ha emitido dictamen el Consejo Escolar de la Comunidad de Madrid, de acuerdo con el artículo 2.1.b) de la Ley 12/1999, de 29 de abril, de creación del Consejo Escolar de la Comunidad de Madrid, y se ha recabado informe de la Abogacía General de la Comunidad de Madrid.
+Por último, ha emitido dictamen el Consejo Escolar de la Comunidad de Madrid, de acuerdo con el artículo 2.1.b) de la [Ley 12/1999](./L12_1999_creacion_consejo_escolar_comunidad_madrid.md), de 29 de abril, de creación del Consejo Escolar de la Comunidad de Madrid, y se ha recabado informe de la Abogacía General de la Comunidad de Madrid.
 
 ## Título PRELIMINAR. ##### Disposiciones de carácter general
 
@@ -794,7 +805,7 @@ En expresión de la garantía de los valores constitucionales en los centros edu
 
 #### Artículo 2. Ámbito de aplicación.
 
-Esta ley será de aplicación en los centros educativos de la Comunidad de Madrid sostenidos con fondos públicos que impartan las enseñanzas declaradas gratuitas en la Ley Orgánica 2/2006, de 3 de mayo, de Educación, sin perjuicio de lo establecido en la disposición adicional tercera.
+Esta ley será de aplicación en los centros educativos de la Comunidad de Madrid sostenidos con fondos públicos que impartan las enseñanzas declaradas gratuitas en la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, sin perjuicio de lo establecido en la disposición adicional tercera.
 
 #### Artículo 3. Definiciones.
 
@@ -802,13 +813,13 @@ A los efectos de la presente ley se entiende por:
 
 a) Libertad de elección de centro educativo: el derecho de los padres, madres o tutores legales a dicha elección y el de todo el alumnado al acceso, en condiciones de igualdad, a un puesto escolar, cualquiera de las enseñanzas gratuitas, mediante la programación general de enseñanza de la Comunidad de Madrid, que tendrá en cuenta la oferta existente de centros públicos y privados sostenidos con fondos públicos.
 
-b) Atención al alumnado con necesidades educativas especiales: el conjunto de medidas y apoyos destinados al alumnado identificado como tal, a fin de favorecer su desarrollo personal y social, y su potencial de aprendizaje, y de facilitar la adquisición de las competencias y la consecución de los objetivos de cada una de las enseñanzas definidas en la Ley Orgánica 2/2006, de 3 de mayo, con la finalidad de que avancen en su desarrollo y en la transición a la vida adulta.
+b) Atención al alumnado con necesidades educativas especiales: el conjunto de medidas y apoyos destinados al alumnado identificado como tal, a fin de favorecer su desarrollo personal y social, y su potencial de aprendizaje, y de facilitar la adquisición de las competencias y la consecución de los objetivos de cada una de las enseñanzas definidas en la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, con la finalidad de que avancen en su desarrollo y en la transición a la vida adulta.
 
 c) Modalidad de educación más inclusiva: la escolarización en centros educativos ordinarios, en unidades de educación especial en centros ordinarios, en centros de educación especial o en la modalidad combinada, teniendo en cuenta la situación de cada alumno y el interés superior del menor, con el fin de alcanzar el máximo desarrollo posible de las capacidades del alumno y su inclusión en la sociedad.
 
 #### Artículo 4. Gratuidad.
 
-La Comunidad de Madrid garantiza la gratuidad de la educación obligatoria, conforme a lo dispuesto en la Ley Orgánica 2/2006, de 3 de mayo y promoverá la gratuidad progresiva en las etapas no obligatorias.
+La Comunidad de Madrid garantiza la gratuidad de la educación obligatoria, conforme a lo dispuesto en la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo y promoverá la gratuidad progresiva en las etapas no obligatorias.
 
 #### Artículo 5. Principios generales.
 
@@ -818,13 +829,13 @@ a) Derecho a la educación. Todos los alumnos incluidos en las edades de enseña
 
 b) Igualdad de oportunidades. La escolarización en las enseñanzas a las que se refiere esta ley tendrá como objetivo la igualdad de oportunidades de todos los alumnos, con independencia de su lugar de residencia. En ningún caso habrá discriminación por razón de nacimiento, raza, sexo, discapacidad, religión, opinión o cualquier otra condición o circunstancia personal o social.
 
-Sin perjuicio del cumplimiento de lo dispuesto en la disposición adicional vigesimoquinta, apartado 1, de la Ley Orgánica 2/2006, de 3 de mayo, en su redacción dada por la Ley Orgánica 3/2020, de 19 de diciembre, no constituye discriminación la admisión de alumnos o la organización de la enseñanza diferenciadas por sexos, siempre que la enseñanza que impartan se desarrolle conforme a lo dispuesto en el artículo 2 de la Convención relativa a la lucha contra las discriminaciones en la esfera de la enseñanza, aprobada por la Conferencia General de la UNESCO el 14 de diciembre de 1960, en el artículo 2 de la Ley Orgánica 2/2006, de 3 de mayo, y en el artículo 24 de la Ley Orgánica 3/2007, de 22 de mayo para la igualdad efectiva de mujeres y hombres. Para desarrollar la igualdad de oportunidades podrán implementar sistemas pedagógicos que permitan desarrollar las metodologías docentes oportunas a las necesidades de los alumnos.
+Sin perjuicio del cumplimiento de lo dispuesto en la disposición adicional vigesimoquinta, apartado 1, de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, en su redacción dada por la Ley Orgánica 3/2020, de 19 de diciembre, no constituye discriminación la admisión de alumnos o la organización de la enseñanza diferenciadas por sexos, siempre que la enseñanza que impartan se desarrolle conforme a lo dispuesto en el artículo 2 de la Convención relativa a la lucha contra las discriminaciones en la esfera de la enseñanza, aprobada por la Conferencia General de la UNESCO el 14 de diciembre de 1960, en el artículo 2 de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, y en el artículo 24 de la [Ley Orgánica 3/2007](../../../estatal/07_convivencia_bienestar_y_protocolos/LO3_2007_igualdad_efectiva_mujeres_hombres.md), de 22 de mayo para la igualdad efectiva de mujeres y hombres. Para desarrollar la igualdad de oportunidades podrán implementar sistemas pedagógicos que permitan desarrollar las metodologías docentes oportunas a las necesidades de los alumnos.
 
 c) Derecho a recibir las enseñanzas en castellano. Se garantiza el derecho de los alumnos a recibir las enseñanzas en castellano, como lengua oficial y vehicular de España, de manera que, al finalizar la educación básica, comprendan y se expresen, de forma oral y por escrito, en esta lengua. Los programas relacionados con la enseñanza en distintas lenguas extranjeras en la Comunidad de Madrid se desarrollan al amparo de este derecho.
 
 d) Pluralidad de la oferta educativa. Un factor determinante de la calidad del sistema educativo es la autonomía de los centros escolares para definir proyectos educativos específicos que respondan de forma efectiva a las demandas expresadas por las familias.
 
-e) Excelencia académica. El reconocimiento del esfuerzo y la excelencia académica de los alumnos con atención a las especiales características de cada edad y etapa educativa, serán tenidos en cuenta en el proceso de escolarización de estos. El criterio de la excelencia académica se considerará en los términos indicados en el artículo 85.1 de la Ley Orgánica 2/2006, de 3 de mayo.
+e) Excelencia académica. El reconocimiento del esfuerzo y la excelencia académica de los alumnos con atención a las especiales características de cada edad y etapa educativa, serán tenidos en cuenta en el proceso de escolarización de estos. El criterio de la excelencia académica se considerará en los términos indicados en el artículo 85.1 de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo.
 
 f) Compromiso de las familias. La matriculación de alumnos en un centro sostenido con fondos públicos supondrá el conocimiento y el respeto de su proyecto educativo por parte de las respectivas familias y, en su caso, de su carácter propio. Las normas de organización y funcionamiento acordadas en un centro docente deberán respetar, a su vez, los derechos del alumnado y de las familias reconocidos en la Constitución Española y en las leyes.
 
@@ -850,17 +861,17 @@ d) La intervención educativa se llevará a cabo por equipos, en los que partici
 
 #### Artículo 6. Ejercicio de la libertad de elección.
 
-1. La Comunidad de Madrid garantiza el derecho a la educación básica, promueve la gratuidad en el marco de lo recogido en esta ley y posibilita la libertad de elección de centro docente en la programación general de la enseñanza, con la participación efectiva de los sectores interesados en la educación a través de su Consejo Escolar, regulado por Ley 12/1999, de 29 de abril, de creación del Consejo Escolar de la Comunidad de Madrid.
+1. La Comunidad de Madrid garantiza el derecho a la educación básica, promueve la gratuidad en el marco de lo recogido en esta ley y posibilita la libertad de elección de centro docente en la programación general de la enseñanza, con la participación efectiva de los sectores interesados en la educación a través de su Consejo Escolar, regulado por [Ley 12/1999](./L12_1999_creacion_consejo_escolar_comunidad_madrid.md), de 29 de abril, de creación del Consejo Escolar de la Comunidad de Madrid.
 
-2. La Comunidad de Madrid garantiza la libertad de las familias en la elección de un centro escolar sostenido con fondos públicos, de tal manera que pueda ejercerse en todo el territorio de la Comunidad sin que se vea limitado por el domicilio, con lo que se evita cualquier tipo de segregación causada por el lugar de residencia o de trabajo, si bien se considerarán criterios prioritarios en la baremación de solicitudes de admisión los incluidos en el artículo 84 de la Ley Orgánica 2/2006, de 3 de mayo.
+2. La Comunidad de Madrid garantiza la libertad de las familias en la elección de un centro escolar sostenido con fondos públicos, de tal manera que pueda ejercerse en todo el territorio de la Comunidad sin que se vea limitado por el domicilio, con lo que se evita cualquier tipo de segregación causada por el lugar de residencia o de trabajo, si bien se considerarán criterios prioritarios en la baremación de solicitudes de admisión los incluidos en el artículo 84 de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo.
 
-3. El derecho a la educación básica y gratuita y la libertad de enseñanza podrán hacerse efectivos en los centros privados mediante el régimen de conciertos, de acuerdo con lo previsto en la Ley Orgánica 8/1985, de 3 de julio, reguladora del Derecho a la Educación y en la Ley Orgánica 2/2006, de 3 de mayo, así como en el Reglamento de Normas Básicas sobre Conciertos Educativos, aprobado por el Real Decreto 2377/1985, de 18 de diciembre.
+3. El derecho a la educación básica y gratuita y la libertad de enseñanza podrán hacerse efectivos en los centros privados mediante el régimen de conciertos, de acuerdo con lo previsto en la [Ley Orgánica 8/1985](../../../estatal/02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md), de 3 de julio, reguladora del Derecho a la Educación y en la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, así como en el Reglamento de Normas Básicas sobre Conciertos Educativos, aprobado por el [Real Decreto 2377/1985](../../../estatal/02_gestion_y_administracion_centros/RD2377_1985_aprueba_reglamento_normas_basicas_conciertos_educativos.md), de 18 de diciembre.
 
 4. La libertad de elección se promueve también mediante el fomento de la gratuidad progresiva en las etapas no obligatorias.
 
 #### Artículo 7. Programación de puestos escolares.
 
-1. En la programación específica de puestos escolares de nueva creación la Comunidad de Madrid, de conformidad con lo previsto en el artículo 109.1 de la Ley Orgánica 2/2006, de 3 de mayo, armonizará las exigencias derivadas de la obligación que tienen los poderes públicos de garantizar el derecho de todos a la educación con los derechos individuales de los alumnos y sus padres o tutores.
+1. En la programación específica de puestos escolares de nueva creación la Comunidad de Madrid, de conformidad con lo previsto en el artículo 109.1 de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, armonizará las exigencias derivadas de la obligación que tienen los poderes públicos de garantizar el derecho de todos a la educación con los derechos individuales de los alumnos y sus padres o tutores.
 
 2. La Comunidad de Madrid garantizará, en cualquier caso, la existencia de plazas suficientes para las enseñanzas declaradas gratuitas por la ley, considerada la oferta de centros públicos y privados sostenidos con fondos públicos y la demanda social, así como las consignaciones presupuestarias y el principio de economía y eficiencia en el uso de los recursos públicos.
 
@@ -870,11 +881,11 @@ d) La intervención educativa se llevará a cabo por equipos, en los que partici
 
 1. La singularidad de los centros privados no dificulta ni supone un obstáculo para solicitar el acogimiento a ser sostenidos con fondos públicos.
 
-2. En el marco de lo establecido en la Ley Orgánica 2/2006, de 3 de mayo, podrán acogerse al régimen de conciertos los centros privados de la Comunidad de Madrid que ofrezcan enseñanzas declaradas gratuitas en dicha ley y satisfagan necesidades de escolarización. En consecuencia, podrán ser objeto de concierto educativo los centros educativos, entre los que se incluyen, en su caso, los de educación especial, que impartan las enseñanzas de segundo ciclo de educación infantil, educación primaria, educación secundaria obligatoria y ciclos de formación profesional básica.
+2. En el marco de lo establecido en la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, podrán acogerse al régimen de conciertos los centros privados de la Comunidad de Madrid que ofrezcan enseñanzas declaradas gratuitas en dicha ley y satisfagan necesidades de escolarización. En consecuencia, podrán ser objeto de concierto educativo los centros educativos, entre los que se incluyen, en su caso, los de educación especial, que impartan las enseñanzas de segundo ciclo de educación infantil, educación primaria, educación secundaria obligatoria y ciclos de formación profesional básica.
 
 3. Los conciertos de enseñanzas postobligatorias tendrán carácter singular.
 
-4. La incorporación del representante del Ayuntamiento en el Consejo Escolar de los centros privados concertados, en cuyo término municipal radique el centro, se realizará cuando el suelo en que se edifique el mismo provenga de una cesión municipal o cuando dicho Ayuntamiento financie de forma significativa actuaciones o programas educativos en los mencionados centros, de acuerdo con lo previsto en el artículo 56, apartado primero, de la Ley Orgánica 8/1985, de 3 de julio, reguladora del Derecho a la Educación.
+4. La incorporación del representante del Ayuntamiento en el Consejo Escolar de los centros privados concertados, en cuyo término municipal radique el centro, se realizará cuando el suelo en que se edifique el mismo provenga de una cesión municipal o cuando dicho Ayuntamiento financie de forma significativa actuaciones o programas educativos en los mencionados centros, de acuerdo con lo previsto en el artículo 56, apartado primero, de la [Ley Orgánica 8/1985](../../../estatal/02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md), de 3 de julio, reguladora del Derecho a la Educación.
 
 Mediante Orden de la Consejería competente en materia de Educación no universitaria se determinará la participación significativa que dé lugar a dicha incorporación.
 
@@ -882,11 +893,11 @@ Mediante Orden de la Consejería competente en materia de Educación no universi
 
 1. El acceso al régimen de financiación pública de la Comunidad de Madrid conlleva que los centros privados asuman activamente un compromiso social en orden a la prestación del servicio de interés público de la educación.
 
-2. Los centros privados concertados llevarán a cabo una escolarización equitativa del alumnado e impartirán las enseñanzas concertadas en condiciones de gratuidad. Las actividades afectadas al régimen de conciertos a las que se refiere el artículo 51 de la Ley Orgánica 8/1985, de 3 de julio, como son las actividades escolares complementarias, las extraescolares y los servicios escolares, se realizarán, en todo caso, con carácter no lucrativo.
+2. Los centros privados concertados llevarán a cabo una escolarización equitativa del alumnado e impartirán las enseñanzas concertadas en condiciones de gratuidad. Las actividades afectadas al régimen de conciertos a las que se refiere el artículo 51 de la [Ley Orgánica 8/1985](../../../estatal/02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md), de 3 de julio, como son las actividades escolares complementarias, las extraescolares y los servicios escolares, se realizarán, en todo caso, con carácter no lucrativo.
 
 #### Artículo 10. Centros que atiendan al alumnado con necesidades específicas de apoyo educativo.
 
-Los conciertos educativos considerarán las características de los centros de educación especial y las de los centros ordinarios autorizados que, en el marco de lo previsto en el artículo 116 de la Ley Orgánica 2/2006, de 3 de mayo, escolaricen alumnos con necesidades educativas especiales o desarrollen programas de innovación pedagógica autorizados por la administración educativa, o lleven a cabo programas de compensación de las desigualdades en educación.
+Los conciertos educativos considerarán las características de los centros de educación especial y las de los centros ordinarios autorizados que, en el marco de lo previsto en el artículo 116 de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, escolaricen alumnos con necesidades educativas especiales o desarrollen programas de innovación pedagógica autorizados por la administración educativa, o lleven a cabo programas de compensación de las desigualdades en educación.
 
 ## Título II. ##### Alumnado con necesidades educativas especiales
 
@@ -896,7 +907,7 @@ Los conciertos educativos considerarán las características de los centros de e
 
 1. La escolarización de los alumnos con necesidades educativas especiales en centros sostenidos con fondos públicos tiene como finalidad conseguir el máximo desarrollo personal del alumno, su plena inclusión en la comunidad educativa y en la sociedad, y una enseñanza de calidad. Para lograr estos objetivos, partiendo de las circunstancias personales de cada alumno, se actuará de acuerdo con los principios de libertad de elección de centro, normalización e inclusión, no discriminación, información a las familias e igualdad efectiva en el acceso y la permanencia en el sistema educativo.
 
-2. Con carácter general y de conformidad con lo previsto en el artículo 74 de la Ley Orgánica 2/2006, de 3 de mayo, el alumnado con necesidades educativas especiales se escolarizará en centros ordinarios. Solo cuando las necesidades educativas de los alumnos no puedan atenderse convenientemente en los citados centros y teniendo en cuenta el interés superior del menor, previa emisión del dictamen correspondiente y el acuerdo favorable de la familia, la escolarización se determinará en centros de educación especial o en unidades de educación especial en centros ordinarios, o se acordará la modalidad de escolarización de educación combinada, al objeto de garantizar la inclusión adecuada del alumnado.
+2. Con carácter general y de conformidad con lo previsto en el artículo 74 de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, el alumnado con necesidades educativas especiales se escolarizará en centros ordinarios. Solo cuando las necesidades educativas de los alumnos no puedan atenderse convenientemente en los citados centros y teniendo en cuenta el interés superior del menor, previa emisión del dictamen correspondiente y el acuerdo favorable de la familia, la escolarización se determinará en centros de educación especial o en unidades de educación especial en centros ordinarios, o se acordará la modalidad de escolarización de educación combinada, al objeto de garantizar la inclusión adecuada del alumnado.
 
 3. Con objeto de conseguir una escolarización eficiente, la Consejería competente en materia de Educación podrá establecer centros ordinarios de atención preferente de educación infantil, primaria o secundaria para que en ellos se atiendan las necesidades educativas especiales del alumnado que requiera una respuesta específica, con recursos, dotaciones y equipamientos singulares.
 
@@ -988,7 +999,7 @@ Cuando el alumnado con necesidades educativas especiales requiera, en función d
 
 2. Para la identificación de las necesidades, su valoración y medidas a adoptar, se contará con el asesoramiento de los servicios de orientación, con la información que se haya recabado de las familias, así como con otro tipo de información procedente de servicios externos especializados que resulte de interés para la determinación de las necesidades educativas.
 
-3. Los servicios de orientación educativa se definen como los recursos necesarios para garantizar la aplicación de la Ley Orgánica 2/2006, de 3 de mayo, en la Comunidad de Madrid, pues reconoce, entre los principios que sustentan el sistema educativo, la orientación educativa y profesional, entendida como medio para el logro de una formación personalizada, que propicie una educación integral en conocimientos, destrezas y valores.
+3. Los servicios de orientación educativa se definen como los recursos necesarios para garantizar la aplicación de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, en la Comunidad de Madrid, pues reconoce, entre los principios que sustentan el sistema educativo, la orientación educativa y profesional, entendida como medio para el logro de una formación personalizada, que propicie una educación integral en conocimientos, destrezas y valores.
 
 4. El centro deberá informar a los padres y tutores legales de las necesidades educativas, los resultados de los procesos de identificación y valoración, y las medidas de actuación que se consideren oportunas.
 
@@ -1140,7 +1151,7 @@ En el seguimiento y aplicación de lo previsto en esta ley participarán los dis
 
 1. La administración educativa ejercerá la inspección de todos los elementos y aspectos del sistema educativo no universitario para asegurar el cumplimiento de las leyes, la garantía de los derechos y la observancia de los deberes de cuantos participan en los procesos de enseñanza y aprendizaje, la mejora del sistema educativo y la calidad y equidad de la enseñanza.
 
-2. El ejercicio de la inspección educativa se realizará conforme a las funciones, atribuciones y principios de actuación recogidos, respectivamente, en los artículos 151, 153 y 153 bis de la Ley Orgánica 2/2006, de 3 de mayo.
+2. El ejercicio de la inspección educativa se realizará conforme a las funciones, atribuciones y principios de actuación recogidos, respectivamente, en los artículos 151, 153 y 153 bis de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo.
 
 3. En el desempeño de sus funciones, los inspectores de educación tendrán la consideración de autoridad pública y, como tales, recibirán de los miembros de la comunidad educativa, así como de las demás autoridades y funcionarios, la ayuda y colaboración precisas para el desarrollo de su actividad.
 
@@ -1148,21 +1159,21 @@ En el seguimiento y aplicación de lo previsto en esta ley participarán los dis
 
 5. La fase de oposición consistirá en una prueba, encaminada a valorar la capacidad de liderazgo para el desempeño de la función inspectora, en la que se evaluarán conocimientos pedagógicos, de administración y de legislación educativa, así como los conocimientos de las técnicas específicas para el desempeño de las funciones asociadas.
 
-6. En la fase de concurso se valorará la trayectoria profesional de los candidatos, sus méritos específicos como docentes, el desempeño de cargos directivos con evaluación positiva, la pertenencia a alguno de los Cuerpos de Catedráticos a que se refiere la Ley Orgánica 2/2006, de 3 de mayo, y el ejercicio, en su caso, de la función inspectora.
+6. En la fase de concurso se valorará la trayectoria profesional de los candidatos, sus méritos específicos como docentes, el desempeño de cargos directivos con evaluación positiva, la pertenencia a alguno de los Cuerpos de Catedráticos a que se refiere la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, y el ejercicio, en su caso, de la función inspectora.
 
 #### Disposición adicional segunda. Evaluación del sistema educativo.
 
-1. La Consejería competente en la materia de educación no universitaria, además de participar en las evaluaciones previstas en la Ley Orgánica 2/2006, de 3 de mayo, coordinadas por la Administración General del Estado, llevará a cabo aquellas evaluaciones externas, que se consideren necesarias, dirigidas a la mejora de la calidad, de la equidad y de la excelencia de la educación.
+1. La Consejería competente en la materia de educación no universitaria, además de participar en las evaluaciones previstas en la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, coordinadas por la Administración General del Estado, llevará a cabo aquellas evaluaciones externas, que se consideren necesarias, dirigidas a la mejora de la calidad, de la equidad y de la excelencia de la educación.
 
 2. La Comunidad de Madrid podrá participar en las evaluaciones internacionales que sean coordinadas por la Administración General del Estado.
 
 #### Disposición adicional tercera. Centros privados.
 
-El contenido de esta ley será de aplicación a los centros privados no sostenidos con fondos públicos, siempre que no contravenga lo dispuesto en el articulado del título I de la Ley Orgánica 8/1985, de 3 de julio, reguladora del Derecho a la Educación, y las exigencias del capítulo III del título IV y del capítulo II del título V de la Ley Orgánica 2/2006, de 3 de mayo.
+El contenido de esta ley será de aplicación a los centros privados no sostenidos con fondos públicos, siempre que no contravenga lo dispuesto en el articulado del título I de la [Ley Orgánica 8/1985](../../../estatal/02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md), de 3 de julio, reguladora del Derecho a la Educación, y las exigencias del capítulo III del título IV y del capítulo II del título V de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo.
 
 #### Disposición adicional cuarta. Protección de datos personales.
 
-En todo caso se dará cumplimiento a las previsiones contenidas en la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, así como al Reglamento (UE) del Parlamento Europeo y del Consejo, de 27 de abril de 2016, relativo a la protección de las personas físicas en lo que respecta al tratamiento de datos personales y a la libre circulación de estos datos y por el que se deroga la Directiva 95/46/CE (Reglamento General de Protección de Datos), así como la normativa posterior que la desarrolle o modifique.
+En todo caso se dará cumplimiento a las previsiones contenidas en la [Ley Orgánica 3/2018](../../../estatal/02_gestion_y_administracion_centros/LO3_2018_proteccion_datos_personales_garantia_derechos_digitales.md), de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, así como al Reglamento (UE) del Parlamento Europeo y del Consejo, de 27 de abril de 2016, relativo a la protección de las personas físicas en lo que respecta al tratamiento de datos personales y a la libre circulación de estos datos y por el que se deroga la Directiva 95/46/CE (Reglamento General de Protección de Datos), así como la normativa posterior que la desarrolle o modifique.
 
 #### Disposición adicional quinta. Centros educativos con concierto.
 
@@ -1182,7 +1193,7 @@ Se faculta al Consejo de Gobierno para dictar cuantas disposiciones sean necesar
 
 #### Disposición final segunda. Educación inclusiva.
 
-La educación inclusiva del alumnado en los centros docentes de la Comunidad de Madrid, en desarrollo del artículo 4.3 de la Ley Orgánica 2/2006, de 3 de mayo, se regulará por el Consejo de Gobierno en un plazo de seis meses desde la entrada en vigor de esta ley.
+La educación inclusiva del alumnado en los centros docentes de la Comunidad de Madrid, en desarrollo del artículo 4.3 de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, se regulará por el Consejo de Gobierno en un plazo de seis meses desde la entrada en vigor de esta ley.
 
 #### Disposición final tercera. Entrada en vigor.
 

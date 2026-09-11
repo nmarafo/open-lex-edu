@@ -154,8 +154,20 @@ relaciones:
   - norma_id: norm-can-res-boc-2026-039-102
   - norma_id: norm-can-res-boc-2026-039-103
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-039-643.pdf
+fundamentos_derecho:
+- norma_id: norm-can-l-6-2014
+- norma_id: norm-can-res-juriscan-65631-68
+- norma_id: norm-can-d-9-2022
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-can-o-2022-03-03-desarrollo-admision
+- norma_id: norm-can-res-boc-2026-039-102
+- norma_id: norm-can-res-boc-2026-039-103
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-lo-3-2018
+- norma_id: norm-es-2024-11613
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
 ---
-
 # Resolución de 5 de febrero de 2026, de la DGACESC, por la que se convoca el procedimiento de admisión del alumnado en centros docentes que oferten enseñanzas de Educación Infantil, Educación Primaria, Educación Secundaria Obligatoria, Bachillerato y Educación de Personas Adultas sostenidos con fondos públicos, para el curso escolar 2026-2027, en la Comunidad Autónoma de Canarias (BOC núm. 31, de 16 de febrero).
 
 ## Preámbulo
@@ -266,7 +278,7 @@ En relación a las enseñanzas artísticas superiores de Arte Dramático, las pr
 
 **3.1.** Las pruebas específicas de acceso a las enseñanzas artísticas superiores serán elaboradas por los respectivos centros. Las orientaciones sobre las pruebas y los criterios de evaluación y calificación se harán públicos en los tablones de anuncios y en las web de los centros, en la fecha establecida en el correspondiente calendario recogido en el Anexo I de la presente Resolución.
 
-**3.2.** La estructura y contenido de las pruebas específicas de acceso a las enseñanzas artísticas superiores se ajustarán a lo dispuesto en el Anexo I de la Resolución de 25 de mayo de 2011, en su redacción actual.
+**3.2.** La estructura y contenido de las pruebas específicas de acceso a las enseñanzas artísticas superiores se ajustarán a lo dispuesto en el Anexo I de la [Resolución de 25 de mayo de 2011](../03_ordenacion_curricular_y_ensenanzas/R25_5_2011_dictan_instrucciones_organizacion_desarrollo_pruebas_acceso.md), en su redacción actual.
 
 **3.3.** La calificación final de la prueba resultará de la suma de las calificaciones medias ponderadas de las partes o ejercicios de los que conste la prueba y se expresará en una escala del cero al diez, con dos decimales, siendo preciso obtener una calificación igual o superior a cinco puntos para la superación de la misma.
 

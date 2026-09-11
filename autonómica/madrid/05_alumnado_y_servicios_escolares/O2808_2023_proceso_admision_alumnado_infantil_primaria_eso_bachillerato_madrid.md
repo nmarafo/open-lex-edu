@@ -37,8 +37,22 @@ relaciones:
   - norma_id: norm-mad-d-29-2013
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-mad-o-1240-2013
+fundamentos_derecho:
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-mad-d-52-2021
+- norma_id: norm-mad-l1-1983-gobierno-administracion-comunidad-madrid
+- norma_id: norm-mad-l1-2022
+- norma_id: norm-mad-d-36-2022
+- norma_id: norm-mad-d-61-2022
+- norma_id: norm-mad-o130-2023
+- norma_id: norm-mad-o460-2023
+- norma_id: norm-mad-d23-2023
+- norma_id: norm-es-l-39-2015
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-lo-8-1985
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
 ---
-
 # Orden 2808/2023, de 30 de julio, de la Consejería de Educación, Ciencia y Universidades, por la que se regula el proceso de admisión de alumnos en centros docentes sostenidos con fondos públicos que imparten segundo ciclo de educación infantil, educación primaria, educación secundaria obligatoria, bachillerato y educación especial en la Comunidad de Madrid.
 
 ## Preámbulo
@@ -49,13 +63,13 @@ C) Otras Disposiciones
 
 CONSEJERÍA DE EDUCACIÓN, CIENCIA Y UNIVERSIDADES
 
-La Ley Orgánica 2/2006, de 3 de mayo, de Educación, dedica el título II a la equidad en la educación. En su capítulo I, en relación con los alumnos con necesidad específica de apoyo educativo, determina que las Administraciones educativas dispondrán los medios necesarios para que alcancen el máximo desarrollo personal, intelectual, social y emocional, así como los objetivos establecidos con carácter general en dicha ley. En la sección primera del citado capítulo se define al alumnado que presenta necesidades educativas especiales como aquel que afronta barreras que limitan su acceso, presencia, participación o aprendizaje, derivadas de discapacidad o de trastornos graves de conducta, de la comunicación y del lenguaje, por un período de su escolarización o a lo largo de toda ella, y que requiere determinados apoyos y atenciones educativas específicas para la consecución de los objetivos de aprendizaje adecuados a su desarrollo.
+La [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, dedica el título II a la equidad en la educación. En su capítulo I, en relación con los alumnos con necesidad específica de apoyo educativo, determina que las Administraciones educativas dispondrán los medios necesarios para que alcancen el máximo desarrollo personal, intelectual, social y emocional, así como los objetivos establecidos con carácter general en dicha ley. En la sección primera del citado capítulo se define al alumnado que presenta necesidades educativas especiales como aquel que afronta barreras que limitan su acceso, presencia, participación o aprendizaje, derivadas de discapacidad o de trastornos graves de conducta, de la comunicación y del lenguaje, por un período de su escolarización o a lo largo de toda ella, y que requiere determinados apoyos y atenciones educativas específicas para la consecución de los objetivos de aprendizaje adecuados a su desarrollo.
 
 En relación con la escolarización de este alumnado en unidades o centros de educación especial, el artículo 74.1 indica que podrá extenderse hasta los veintiún años, y solo se llevará a cabo cuando sus necesidades no puedan ser atendidas en el marco de las medidas de atención a la diversidad de los centros ordinarios. A su vez, el artículo 74.4 del citado texto legal determina que corresponde a las Administraciones educativas promover la escolarización en la Educación Infantil del alumnado que presente necesidades educativas especiales.
 
-Por su parte, la Ley 1/2022, de 10 de febrero, Maestra de Libertad de Elección Educativa de la Comunidad de Madrid, regula en el capítulo I del título II la escolarización del alumnado con necesidades educativas especiales. Sobre los criterios de escolarización en las diversas modalidades inclusivas, determina que se actuará de acuerdo con los principios de libertad de elección de centro, normalización e inclusión, no discriminación, información a las familias e igualdad efectiva en el acceso y la permanencia en el sistema educativo. Asimismo, establece que, con carácter general y de conformidad con lo previsto en el artículo 74 de la Ley Orgánica 2/2006, de 3 de mayo, el alumnado con necesidades educativas especiales se escolarizará en centros ordinarios, y que solo cuando sus necesidades educativas no puedan atenderse convenientemente en los citados centros y teniendo en cuenta el interés superior del menor, previa emisión del dictamen correspondiente y el acuerdo favorable de la familia, la escolarización se determinará en centros de Educación Especial o en unidades de Educación Especial en centros ordinarios, o se acordará la modalidad de escolarización combinada, al objeto de garantizar la inclusión adecuada del alumnado.
+Por su parte, la [Ley 1/2022](../01_marco_normativo_general_y_organico/L1_2022_maestra_libertad_eleccion_educativa_madrid.md), de 10 de febrero, Maestra de Libertad de Elección Educativa de la Comunidad de Madrid, regula en el capítulo I del título II la escolarización del alumnado con necesidades educativas especiales. Sobre los criterios de escolarización en las diversas modalidades inclusivas, determina que se actuará de acuerdo con los principios de libertad de elección de centro, normalización e inclusión, no discriminación, información a las familias e igualdad efectiva en el acceso y la permanencia en el sistema educativo. Asimismo, establece que, con carácter general y de conformidad con lo previsto en el artículo 74 de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, el alumnado con necesidades educativas especiales se escolarizará en centros ordinarios, y que solo cuando sus necesidades educativas no puedan atenderse convenientemente en los citados centros y teniendo en cuenta el interés superior del menor, previa emisión del dictamen correspondiente y el acuerdo favorable de la familia, la escolarización se determinará en centros de Educación Especial o en unidades de Educación Especial en centros ordinarios, o se acordará la modalidad de escolarización combinada, al objeto de garantizar la inclusión adecuada del alumnado.
 
-El Decreto 23/2023, de 22 de marzo, del Consejo de Gobierno, por el que se regula la atención educativa a las diferencias individuales del alumnado en la Comunidad de Madrid, regula en su artículo 13 la escolarización en centros o unidades de Educación Especial y la escolarización combinada.
+El [Decreto 23/2023](../06_atencion_diversidad_y_orientacion/D23_2023_atencion_diferencias_individuales_alumnos_madrid.md), de 22 de marzo, del Consejo de Gobierno, por el que se regula la atención educativa a las diferencias individuales del alumnado en la Comunidad de Madrid, regula en su artículo 13 la escolarización en centros o unidades de Educación Especial y la escolarización combinada.
 
 En relación con la modalidad de escolarización en Educación Especial, ordena las enseñanzas en las etapas educativas de Educación Infantil Especial, Educación Básica Obligatoria y Talleres Formativos. Sobre la modalidad de escolarización combinada, definida como un proceso de enseñanza y aprendizaje compartido entre un centro ordinario y una unidad o centro de Educación Especial, podrá proponerse para el alumnado que disponga de un nivel ajustado de autonomía y competencia personal y social, de tal forma que la atención educativa que reciba en ambos centros no se vea limitada por las barreras para el aprendizaje y la participación de la modalidad de escolarización ordinaria.
 
@@ -63,9 +77,9 @@ Por último, el citado artículo emplaza a un desarrollo posterior del mismo por
 
 En desarrollo de la normativa anteriormente mencionada, corresponde regular la atención a las diferencias individuales del alumnado con necesidades educativas especiales escolarizado en unidades y centros de Educación Especial, así como la modalidad de escolarización combinada. En relación con la escolarización, se desarrollan los aspectos esenciales de la misma en los centros de Educación Especial y unidades de Educación Especial en centros ordinarios, y se regula la modalidad de escolarización combinada.
 
-A su vez, esta orden dispone sobre las etapas educativas de Educación Infantil Especial, Educación Básica Obligatoria y Talleres Formativos. Aspectos como la organización de las etapas reseñadas, la concreción curricular, la propuesta didáctica, la acción tutorial o la evaluación y los documentos a ella asociados se describen a lo largo del articulado. Por último, de conformidad con la disposición adicional cuarta de la Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la Ley Orgánica 2/2006, el capítulo IV enmarca la actuación de los centros de Educación Especial como centros de referencia y apoyo a los centros ordinarios.
+A su vez, esta orden dispone sobre las etapas educativas de Educación Infantil Especial, Educación Básica Obligatoria y Talleres Formativos. Aspectos como la organización de las etapas reseñadas, la concreción curricular, la propuesta didáctica, la acción tutorial o la evaluación y los documentos a ella asociados se describen a lo largo del articulado. Por último, de conformidad con la disposición adicional cuarta de la Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), el capítulo IV enmarca la actuación de los centros de Educación Especial como centros de referencia y apoyo a los centros ordinarios.
 
-La presente orden se adecúa a los principios de buena regulación, de acuerdo con lo previsto en el artículo 129 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, y en el artículo 2 del Decreto 52/2021, de 24 de marzo, del Consejo de Gobierno, por el que se regula y simplifica el procedimiento de elaboración de las disposiciones normativas de carácter general de la Comunidad de Madrid.
+La presente orden se adecúa a los principios de buena regulación, de acuerdo con lo previsto en el artículo 129 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, y en el artículo 2 del [Decreto 52/2021](../01_marco_normativo_general_y_organico/D52_2021_procedimiento_elaboracion_disposiciones_normativas_madrid.md), de 24 de marzo, del Consejo de Gobierno, por el que se regula y simplifica el procedimiento de elaboración de las disposiciones normativas de carácter general de la Comunidad de Madrid.
 
 Conforme a los principios de necesidad y eficacia, esta norma responde al interés general de la educación al concretar la regulación de la escolarización del alumnado y su atención educativa en los centros de Educación Especial y unidades de Educación Especial en centros ordinarios, la organización de las enseñanzas que en ellos se imparten, así como la escolarización combinada. A su vez, establece el marco de actuación de los centros de Educación Especial como centros de referencia y apoyo a los centros ordinarios, abiertos al entorno.
 
@@ -75,11 +89,11 @@ Igualmente, se garantiza el principio de seguridad jurídica, pues respeta el co
 
 Por último, no impone cargas administrativas innecesarias o accesorias, ni modifica las existentes, en aplicación del principio de eficiencia.
 
-También cumple esta norma con el principio de transparencia, conforme a lo establecido en la Ley 10/2019, de 10 de abril, de Transparencia y de Participación de la Comunidad de Madrid, y en el artículo 9 del Decreto 52/2021 de 24 de marzo, mediante la evacuación del trámite de audiencia e información pública y la publicación de la orden y de los documentos de su proceso de elaboración en el Portal de Transparencia de la Comunidad de Madrid.
+También cumple esta norma con el principio de transparencia, conforme a lo establecido en la Ley 10/2019, de 10 de abril, de Transparencia y de Participación de la Comunidad de Madrid, y en el artículo 9 del [Decreto 52/2021](../01_marco_normativo_general_y_organico/D52_2021_procedimiento_elaboracion_disposiciones_normativas_madrid.md) de 24 de marzo, mediante la evacuación del trámite de audiencia e información pública y la publicación de la orden y de los documentos de su proceso de elaboración en el Portal de Transparencia de la Comunidad de Madrid.
 
 Para la elaboración de esta orden se han solicitado los informes de coordinación y calidad normativa, de la Consejería de Familia, Juventud y Política Social sobre los análisis de impactos de carácter social, de la Dirección General de Educación Concertada, Becas y Ayudas al Estudio, de la Delegación de Protección de Datos de la Consejería de Educación, Ciencia y Universidades, de la Dirección General de Transparencia y Atención al Ciudadano, del Consejo Escolar de la Comunidad de Madrid, de la Secretaría General Técnica de la Consejería de Educación, Ciencia y Universidades y el informe de la Abogacía General de la Comunidad de Madrid.
 
-El Consejero de Educación, Ciencia y Universidades es competente para dictar esta orden, de acuerdo con lo establecido en el artículo 41.d) de la Ley 1/1983, de 13 de diciembre, de Gobierno y Administración de la Comunidad de Madrid.
+El Consejero de Educación, Ciencia y Universidades es competente para dictar esta orden, de acuerdo con lo establecido en el artículo 41.d) de la [Ley 1/1983](../01_marco_normativo_general_y_organico/L1_1983_gobierno_administracion_comunidad_madrid.md), de 13 de diciembre, de Gobierno y Administración de la Comunidad de Madrid.
 
 En su virtud, a propuesta de la Dirección General de Educación Infantil, Primaria y Especial, de acuerdo con el Decreto 38/2023, de 23 de junio, de la Presidenta de la Comunidad de Madrid, por el que se establece el número y denominación de las Consejerías de la Comunidad de Madrid, en relación con el artículo 1 del Decreto 236/2021, de 17 de noviembre, del Consejo de Gobierno, por el que se establece la estructura orgánica de la Consejería de Educación, Universidades, Ciencia y Portavocía,
 
@@ -109,18 +123,18 @@ La presente Orden tiene por objeto regular aspectos relativos a la escolarizaci�
 
 Disposiciones generales
 
-1.  La escolarización en centros o unidades de Educación Especial en centros ordinarios, de carácter revisable y reversible, se llevará a cabo cuando las necesidades educativas del alumnado requieran de apoyos especializados, adaptaciones curriculares y medidas específicas de acceso al contexto escolar de difícil o imposible atención y respuesta efectiva en la escolarización ordinaria, bien sea durante un período de su escolarización o a lo largo de toda ella. En todo caso, este alumnado será el identificado con necesidades educativas especiales según el procedimiento indicado en el artículo 10 del Decreto 23/2023, de 22 de marzo.
+1.  La escolarización en centros o unidades de Educación Especial en centros ordinarios, de carácter revisable y reversible, se llevará a cabo cuando las necesidades educativas del alumnado requieran de apoyos especializados, adaptaciones curriculares y medidas específicas de acceso al contexto escolar de difícil o imposible atención y respuesta efectiva en la escolarización ordinaria, bien sea durante un período de su escolarización o a lo largo de toda ella. En todo caso, este alumnado será el identificado con necesidades educativas especiales según el procedimiento indicado en el artículo 10 del [Decreto 23/2023](../06_atencion_diversidad_y_orientacion/D23_2023_atencion_diferencias_individuales_alumnos_madrid.md), de 22 de marzo.
 
 2.  La escolarización del alumnado en una unidad o centro de Educación Especial requerirá la conformidad de los padres o tutores legales y se adoptará bajo los principios de libertad de elección de centro, normalización, inclusión, no discriminación, información a las familias e igualdad efectiva en el acceso y la permanencia en el sistema educativo.
 
 3.  Con carácter general, en todos los centros de Educación Especial se ofertará, al menos, la escolarización al alumnado que por su edad cronológica le corresponde cursar la enseñanza obligatoria. Además, los citados centros podrán ofertar la etapa de Educación Infantil Especial en los términos recogidos en el capítulo IV o incorporar la etapa de Talleres Formativos, según dispone el capítulo V.
 
-4.  La escolarización del alumnado con necesidades educativas especiales podrá adoptar la modalidad de combinada, conforme a lo establecido en el artículo 19 de la Ley 1/2022, de 10 de febrero, y al artículo 13.4 del Decreto 23/2023, de 22 de marzo, y procederá en el caso del alumnado escolarizado en las etapas de Educación Infantil Especial y Educación Básica Obligatoria.
+4.  La escolarización del alumnado con necesidades educativas especiales podrá adoptar la modalidad de combinada, conforme a lo establecido en el artículo 19 de la [Ley 1/2022](../01_marco_normativo_general_y_organico/L1_2022_maestra_libertad_eleccion_educativa_madrid.md), de 10 de febrero, y al artículo 13.4 del [Decreto 23/2023](../06_atencion_diversidad_y_orientacion/D23_2023_atencion_diferencias_individuales_alumnos_madrid.md), de 22 de marzo, y procederá en el caso del alumnado escolarizado en las etapas de Educación Infantil Especial y Educación Básica Obligatoria.
 
 
 #### Artículo 4. Escolarización en centros de Educación Especial o unidades de Educación Especial en centros ordinarios
 
-1.  La escolarización del alumnado en un centro de Educación Especial, público o privado o en una unidad de Educación Especial en un centro ordinario público, procederá tras la oportuna resolución del director de área territorial, de acuerdo con lo establecido en el apartado 3 del artículo 11 del Decreto 23/2023, de 22 de marzo.
+1.  La escolarización del alumnado en un centro de Educación Especial, público o privado o en una unidad de Educación Especial en un centro ordinario público, procederá tras la oportuna resolución del director de área territorial, de acuerdo con lo establecido en el apartado 3 del artículo 11 del [Decreto 23/2023](../06_atencion_diversidad_y_orientacion/D23_2023_atencion_diferencias_individuales_alumnos_madrid.md), de 22 de marzo.
 
 2.  En los centros de Educación Especial se escolarizará el alumnado con necesidades educativas especiales que requiera de la aplicación de las medidas específicas que a continuación se indican:
 
@@ -132,7 +146,7 @@ c)	Medidas específicas de acceso al contexto escolar durante toda la jornada, c
 
 La aplicación conjunta de estas medidas responde a la necesidad educativa del alumnado cuya participación social activa en todos los contextos de un centro ordinario sería muy limitada por las barreras para el aprendizaje y la participación.
 
-3.  Conforme a lo establecido en el artículo 17.2 de la Ley 1/2022, de 10 de febrero, el alumno podrá extender la escolarización en un centro de Educación Especial hasta la finalización del curso escolar que inicie en el año natural en el que cumpla veintiún años.
+3.  Conforme a lo establecido en el artículo 17.2 de la [Ley 1/2022](../01_marco_normativo_general_y_organico/L1_2022_maestra_libertad_eleccion_educativa_madrid.md), de 10 de febrero, el alumno podrá extender la escolarización en un centro de Educación Especial hasta la finalización del curso escolar que inicie en el año natural en el que cumpla veintiún años.
 
 4.  En las unidades de Educación Especial se escolarizará el alumnado con necesidades educativas especiales que requiera de la aplicación de las siguientes medidas específicas para una atención adecuada a sus diferencias individuales:
 
@@ -165,7 +179,7 @@ c)	Medidas específicas de acceso al contexto escolar con recursos muy específi
 
 La aplicación conjunta de estas medidas asegurará que la participación social activa en los contextos de los centros en los que el alumno combina su escolarización no se verá limitada por las barreras para el aprendizaje y la participación.
 
-3.  Como modalidad diferenciada de escolarización, requerirá la resolución favorable del titular de la dirección de área territorial, de acuerdo con el apartado 3 del artículo 11 del Decreto 23/2023, de 22 de marzo, y le serán de aplicación las disposiciones del citado decreto relacionadas con los procedimientos de cambio de modalidad de escolarización.
+3.  Como modalidad diferenciada de escolarización, requerirá la resolución favorable del titular de la dirección de área territorial, de acuerdo con el apartado 3 del artículo 11 del [Decreto 23/2023](../06_atencion_diversidad_y_orientacion/D23_2023_atencion_diferencias_individuales_alumnos_madrid.md), de 22 de marzo, y le serán de aplicación las disposiciones del citado decreto relacionadas con los procedimientos de cambio de modalidad de escolarización.
 
 
 #### Artículo 6. Variantes y organización de la escolarización combinada
@@ -212,13 +226,13 @@ Tanto en la situación a) como en la b), el alumno se incorporará al centro aso
 
 Disposiciones generales
 
-1.  La etapa de Educación Básica Obligatoria, en adelante (EBO), regulada en el artículo 13 del Decreto 23/2023, de 22 de marzo, se ordena en diez cursos académicos.
+1.  La etapa de Educación Básica Obligatoria, en adelante (EBO), regulada en el artículo 13 del [Decreto 23/2023](../06_atencion_diversidad_y_orientacion/D23_2023_atencion_diferencias_individuales_alumnos_madrid.md), de 22 de marzo, se ordena en diez cursos académicos.
 
 2.  La intervención educativa en esta etapa buscará el máximo desarrollo de las capacidades del alumnado, según el momento evolutivo en el que se encuentre, su condición personal y las necesidades educativas especiales que en él se identifiquen.
 
 3.  La EBO se impartirá por el profesorado que cuente con la debida especialización o habilitación en Pedagogía Terapéutica o Audición y Lenguaje, y podrá ser apoyado, en su labor docente, por maestros de otras especialidades cuando las enseñanzas a impartir lo requieran. En este supuesto, el director del centro decidirá la necesidad de la presencia del maestro tutor en el aula cuando se realice dicho apoyo a los ámbitos.
 
-4.  En esta etapa se adoptarán las medidas organizativas, metodológicas y curriculares que se precisen para atender a las diferencias individuales del alumnado, que respetarán, en todo caso, las medidas ordinarias y las específicas establecidas para el alumnado con necesidades educativas especiales en el Decreto 23/2023, de 22 de marzo, así como las dispuestas, en desarrollo de la normativa anterior, en la presente orden.
+4.  En esta etapa se adoptarán las medidas organizativas, metodológicas y curriculares que se precisen para atender a las diferencias individuales del alumnado, que respetarán, en todo caso, las medidas ordinarias y las específicas establecidas para el alumnado con necesidades educativas especiales en el [Decreto 23/2023](../06_atencion_diversidad_y_orientacion/D23_2023_atencion_diferencias_individuales_alumnos_madrid.md), de 22 de marzo, así como las dispuestas, en desarrollo de la normativa anterior, en la presente orden.
 
 5.  Los métodos pedagógicos que los centros acuerden, asentados en el principio de autonomía, favorecerán modelos de intervención educativa dirigidos al máximo desarrollo y a la consecución de aprendizajes significativos que promuevan la autonomía personal, el conocimiento y la relación con el entorno y los índices de comunicación y expresión adecuados a su momento evolutivo y condición personal.
 
@@ -237,7 +251,7 @@ Disposiciones generales
 
 5.  El tiempo de permanencia del alumnado en la EBO se podrá flexibilizar, a criterio del profesor tutor, oído el orientador, observadas las necesidades del alumnado, por lo que se le podrán aplicar las mismas prórrogas de escolarización que las establecidas en la normativa de ordenación académica para las etapas de Educación Primaria y Educación Secundaria Obligatoria, y en los mismos momentos temporales, siempre que no se hubieran agotado en las citadas etapas.
 
-6.  En esta etapa educativa, la prórroga de escolarización extraordinaria al objeto de conseguir los objetivos de la enseñanza básica, a la que se refiere el artículo 75.1 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, no requerirá autorización.
+6.  En esta etapa educativa, la prórroga de escolarización extraordinaria al objeto de conseguir los objetivos de la enseñanza básica, a la que se refiere el artículo 75.1 de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, no requerirá autorización.
 
 7.  Todas las prórrogas de escolarización quedarán reflejadas en el expediente académico del alumnado y se informarán, en su caso, en el informe personal por traslado, en el apartado de observaciones.
 
@@ -266,7 +280,7 @@ c)	Comunicación y Expresión.
 
 6.  Se podrán desarrollar experiencias educativas de contacto con una lengua extranjera que aproximen al alumnado alguno de los contenidos del bloque J “Lengua extranjera” de la etapa de Educación Infantil o elementos curriculares del área “Lengua Extranjera: Inglés” de la etapa de Educación Primaria. Estas experiencias educativas de exposición a una lengua extranjera podrán planificarse y desarrollarse dentro del ámbito “Comunicación y Expresión” por parte del profesorado del centro que imparta el citado ámbito.
 
-7.  El currículo de cada uno de los ámbitos tomará como referencia el de las correspondientes áreas que agrupa, dispuesto tanto en el anexo II del Decreto 36/2022, de 8 de junio, del Consejo de Gobierno, por el que se establece para la Comunidad de Madrid la ordenación y el currículo de la etapa de Educación Infantil, como en el anexo II del Decreto 61/2022, de 13 de julio, por el que se establece para la Comunidad de Madrid la ordenación y el currículo de la etapa de Educación Primaria. El proceso de enseñanza y aprendizaje en la EBO considerará, también, los contenidos transversales establecidos en los artículos 12 y 11, respectivamente, de los decretos mencionados.
+7.  El currículo de cada uno de los ámbitos tomará como referencia el de las correspondientes áreas que agrupa, dispuesto tanto en el anexo II del [Decreto 36/2022](../03_ordenacion_curricular_y_ensenanzas/D36_2022_ordenacion_curriculo_educacion_infantil_madrid.md), de 8 de junio, del Consejo de Gobierno, por el que se establece para la Comunidad de Madrid la ordenación y el currículo de la etapa de Educación Infantil, como en el anexo II del [Decreto 61/2022](../03_ordenacion_curricular_y_ensenanzas/D61_2022_ordenacion_curriculo_educacion_primaria_madrid.md), de 13 de julio, por el que se establece para la Comunidad de Madrid la ordenación y el currículo de la etapa de Educación Primaria. El proceso de enseñanza y aprendizaje en la EBO considerará, también, los contenidos transversales establecidos en los artículos 12 y 11, respectivamente, de los decretos mencionados.
 
 8.  La concreción curricular en la etapa de Educación Básica Obligatoria será individualizada y consistirá en la realización de adaptaciones curriculares de cada ámbito que se ajusten a la condición personal del alumno y a sus necesidades educativas. Se determinarán, para cada alumno, las competencias específicas de los ámbitos, criterios de evaluación asociados y contenidos a movilizar en cada uno de los cursos. Los criterios de evaluación de la adaptación curricular serán el referente a considerar en la valoración de los aprendizajes del alumnado.
 
@@ -361,11 +375,11 @@ c)	Otra documentación generada durante el período de escolarización en la EBO
 
 Disposiciones generales
 
-1.  La atención educativa de la etapa de Educación Infantil Especial, en adelante (EIE), ordenada en el artículo 13 del Decreto 23/2023, de 22 de marzo, buscará el máximo desarrollo de las capacidades del alumnado de acuerdo con las necesidades educativas que se identifiquen en cada alumno.
+1.  La atención educativa de la etapa de Educación Infantil Especial, en adelante (EIE), ordenada en el artículo 13 del [Decreto 23/2023](../06_atencion_diversidad_y_orientacion/D23_2023_atencion_diferencias_individuales_alumnos_madrid.md), de 22 de marzo, buscará el máximo desarrollo de las capacidades del alumnado de acuerdo con las necesidades educativas que se identifiquen en cada alumno.
 
 2.  La etapa de Educación Infantil Especial se impartirá por el profesorado que cuente con la debida especialización o habilitación en Pedagogía Terapéutica o Audición y Lenguaje.
 
-3.  En esta etapa se adoptarán las medidas organizativas, metodológicas y curriculares que se precisen para atender a las diferencias individuales del alumnado, que respetarán, en todo caso, las medidas ordinarias y específicas establecidas para el alumnado con necesidades educativas especiales en el Decreto 23/2023, de 22 de marzo, así como las dispuestas, en desarrollo de la normativa anterior, en la presente orden.
+3.  En esta etapa se adoptarán las medidas organizativas, metodológicas y curriculares que se precisen para atender a las diferencias individuales del alumnado, que respetarán, en todo caso, las medidas ordinarias y específicas establecidas para el alumnado con necesidades educativas especiales en el [Decreto 23/2023](../06_atencion_diversidad_y_orientacion/D23_2023_atencion_diferencias_individuales_alumnos_madrid.md), de 22 de marzo, así como las dispuestas, en desarrollo de la normativa anterior, en la presente orden.
 
 4.  Los métodos pedagógicos que los centros acuerden, asentados en el principio de autonomía, favorecerán modelos de intervención educativa dirigidos al máximo desarrollo y a la consecución de aprendizajes significativos que promuevan el conocimiento de sí mismo y la autonomía personal, el descubrimiento y la exploración del entorno próximo y la comunicación y expresión, y se adecuarán a su condición personal.
 
@@ -393,7 +407,7 @@ Disposiciones generales
 
 #### Artículo 19. Concreción curricular y propuesta didáctica
 
-1.  La etapa de Educación Infantil Especial tomará como referencia el currículo de las áreas del anexo II del Decreto 36/2022, de 8 de junio, del Consejo de Gobierno, por el que se establece para la Comunidad de Madrid la ordenación y el currículo de la etapa de Educación Infantil. El proceso de enseñanza y aprendizaje en la EIE considerará, también, los contenidos transversales establecidos en el artículo 12 del mencionado Decreto.
+1.  La etapa de Educación Infantil Especial tomará como referencia el currículo de las áreas del anexo II del [Decreto 36/2022](../03_ordenacion_curricular_y_ensenanzas/D36_2022_ordenacion_curriculo_educacion_infantil_madrid.md), de 8 de junio, del Consejo de Gobierno, por el que se establece para la Comunidad de Madrid la ordenación y el currículo de la etapa de Educación Infantil. El proceso de enseñanza y aprendizaje en la EIE considerará, también, los contenidos transversales establecidos en el artículo 12 del mencionado Decreto.
 
 2.  La concreción curricular en la etapa de Educación Infantil Especial será individualizada y consistirá en la realización de adaptaciones curriculares de las áreas de las enseñanzas de Educación Infantil que se ajustarán a la condición personal del alumno y a sus necesidades educativas. Se determinarán, para cada alumno, las competencias específicas de las áreas, criterios de evaluación asociados y contenidos a movilizar en cada uno de los cursos.
 
@@ -403,7 +417,7 @@ Disposiciones generales
 
 5.  A la propuesta didáctica dispuesta en el artículo 12, los centros que impartan la etapa de Educación Infantil Especial incorporarán las decisiones y acuerdos adoptados en relación con estas enseñanzas.
 
-6.  El horario en EIE se define en los mismos términos que el horario de la EBO, y su distribución será proporcional a la establecida en el artículo 7.3 de la Orden 460/2023, de 17 de febrero, de la Vicepresidencia, Consejería de Educación y Universidades, por la que se regulan aspectos de organización y funcionamiento, evaluación y autonomía pedagógica en la etapa de Educación Infantil en la Comunidad de Madrid.
+6.  El horario en EIE se define en los mismos términos que el horario de la EBO, y su distribución será proporcional a la establecida en el artículo 7.3 de la [Orden 460/2023](../03_ordenacion_curricular_y_ensenanzas/O460_2023_organizacion_funcionamiento_evaluacion_educacion_infantil_madrid.md), de 17 de febrero, de la Vicepresidencia, Consejería de Educación y Universidades, por la que se regulan aspectos de organización y funcionamiento, evaluación y autonomía pedagógica en la etapa de Educación Infantil en la Comunidad de Madrid.
 
 
 #### Artículo 20. Acción tutorial
@@ -450,7 +464,7 @@ c)	Otra documentación generada durante el período de escolarización en EIE y 
 
 Disposiciones generales
 
-1.  Los programas para la transición a la vida adulta a los que se refiere el artículo 18 de la Ley 1/2022, de 10 de febrero, se desarrollarán en la etapa de Talleres Formativos, de acuerdo con el artículo 13 del Decreto 23/2023, de 22 de marzo.
+1.  Los programas para la transición a la vida adulta a los que se refiere el artículo 18 de la [Ley 1/2022](../01_marco_normativo_general_y_organico/L1_2022_maestra_libertad_eleccion_educativa_madrid.md), de 10 de febrero, se desarrollarán en la etapa de Talleres Formativos, de acuerdo con el artículo 13 del [Decreto 23/2023](../06_atencion_diversidad_y_orientacion/D23_2023_atencion_diferencias_individuales_alumnos_madrid.md), de 22 de marzo.
 
 2.  La etapa de Talleres Formativos se dirige al alumnado que tenga cumplidos los dieciséis años de edad, haya finalizado su escolarización en la etapa de Educación Básica Obligatoria o, previa autorización de la dirección general competente en materia de educación especial, a aquel otro alumnado que, cumpliendo con el requisito de edad, sus necesidades educativas especiales aconsejen que la continuidad de su proceso formativo se lleve a cabo a través de estos programas.
 
@@ -548,9 +562,9 @@ c)	Otra documentación generada durante el período de escolarización en TF y q
 
 Disposiciones generales
 
-1.  De conformidad con la disposición adicional cuarta de la Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la Ley Orgánica 2/2006, de 3 de mayo, los centros de Educación Especial, además de escolarizar al alumnado que requiera una atención muy especializada, cumplen con la función de centros de referencia y apoyo a los centros ordinarios que escolaricen alumnado con necesidades educativas especiales.
+1.  De conformidad con la disposición adicional cuarta de la Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, los centros de Educación Especial, además de escolarizar al alumnado que requiera una atención muy especializada, cumplen con la función de centros de referencia y apoyo a los centros ordinarios que escolaricen alumnado con necesidades educativas especiales.
 
-2.  A su vez, los centros de Educación Especial sostenidos con fondos públicos se configuran como centros abiertos al entorno. De acuerdo con el apartado 4 del artículo 17 de la Ley 1/2022, de 10 de febrero, podrán organizar actividades educativas conjuntas con centros ordinarios, entre las que se incluirán las relacionadas con actuaciones de sensibilización, conocimiento y respeto hacia las personas con discapacidad.
+2.  A su vez, los centros de Educación Especial sostenidos con fondos públicos se configuran como centros abiertos al entorno. De acuerdo con el apartado 4 del artículo 17 de la [Ley 1/2022](../01_marco_normativo_general_y_organico/L1_2022_maestra_libertad_eleccion_educativa_madrid.md), de 10 de febrero, podrán organizar actividades educativas conjuntas con centros ordinarios, entre las que se incluirán las relacionadas con actuaciones de sensibilización, conocimiento y respeto hacia las personas con discapacidad.
 
 
 #### Artículo 29. Funciones
@@ -576,7 +590,7 @@ b)	Acompañamiento, asesoramiento y apoyo a la función tutorial ante una propue
 
 ### DISPOSICIÓN ADICIONAL PRIMERA. Plan Incluyo
 
-1.  En cumplimiento del artículo 33 del Decreto 23/2023, de 22 de marzo, el Plan Incluyo de los centros de Educación Especial, centros públicos ordinarios con unidades de Educación Especial o de los centros que participen en la modalidad de escolarización combinada, incorporará las actuaciones relacionadas con la atención a las diferencias individuales del alumnado al que se dirige esta orden.
+1.  En cumplimiento del artículo 33 del [Decreto 23/2023](../06_atencion_diversidad_y_orientacion/D23_2023_atencion_diferencias_individuales_alumnos_madrid.md), de 22 de marzo, el Plan Incluyo de los centros de Educación Especial, centros públicos ordinarios con unidades de Educación Especial o de los centros que participen en la modalidad de escolarización combinada, incorporará las actuaciones relacionadas con la atención a las diferencias individuales del alumnado al que se dirige esta orden.
 
 2.  El Plan Incluyo del centro de Educación Especial incorporará, a su vez, las actuaciones que desarrolle como centro de referencia y apoyo abierto al entorno.
 
@@ -590,7 +604,7 @@ b)	Acompañamiento, asesoramiento y apoyo a la función tutorial ante una propue
 
 ### DISPOSICIÓN ADICIONAL TERCERA. De las garantías de seguridad y confidencialidad en la obtención y tratamiento de datos personales del alumnado
 
-La obtención y tratamiento de los datos personales del alumnado y, en particular, los contenidos en los documentos oficiales de evaluación, su cesión de unos centros a otros y la adopción de medidas que garanticen la seguridad y confidencialidad de dichos datos, estará a lo dispuesto en la disposición adicional vigesimotercera de la Ley Orgánica 2/2006, de 3 de mayo, así como en la Ley 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales y disposiciones normativas que se dicten en su desarrollo.
+La obtención y tratamiento de los datos personales del alumnado y, en particular, los contenidos en los documentos oficiales de evaluación, su cesión de unos centros a otros y la adopción de medidas que garanticen la seguridad y confidencialidad de dichos datos, estará a lo dispuesto en la disposición adicional vigesimotercera de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, así como en la Ley 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales y disposiciones normativas que se dicten en su desarrollo.
 
 
 ### DISPOSICIÓN ADICIONAL CUARTA. Autorización de unidades de Educación Especial en centros públicos ordinarios
@@ -600,7 +614,7 @@ Las unidades de Educación Especial en centros públicos ordinarios se autorizar
 
 ### DISPOSICIÓN ADICIONAL QUINTA. Centros privados
 
-1.  El contenido de esta orden será de aplicación a los centros privados, sin perjuicio de lo dispuesto en el artículo 25 de la Ley Orgánica 8/1985, de 3 de julio, y en el Título V de la Ley Orgánica 2/2006, de 3 de mayo, que determina el ámbito de la participación y autonomía para centros docentes privados no concertados.
+1.  El contenido de esta orden será de aplicación a los centros privados, sin perjuicio de lo dispuesto en el artículo 25 de la [Ley Orgánica 8/1985](../../../estatal/02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md), de 3 de julio, y en el Título V de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, que determina el ámbito de la participación y autonomía para centros docentes privados no concertados.
 
 2.  Los centros privados concertados de Educación Especial podrán establecer convenios de colaboración con centros privados concertados ordinarios, al objeto de solicitar la autorización en éstos de unidades de Educación Especial. Estas unidades se regirán por lo establecido en el citado convenio, que se adecuará en su contenido a lo dispuesto en esta orden.
 
@@ -611,14 +625,14 @@ Las unidades de Educación Especial en centros públicos ordinarios se autorizar
 
 Modelo de diligencia a extender en los documentos oficiales de evaluación de Educación Primaria para el alumnado de incorporación tardía al sistema educativo español
 
-1.  Conforme a lo establecido en el artículo 17.4 del Decreto 23/2023, de 22 de marzo, en el caso del alumnado de incorporación tardía al sistema educativo español se extenderá una diligencia en el apartado correspondiente de su expediente académico, que seguirá el modelo dispuesto en el anexo X.
+1.  Conforme a lo establecido en el artículo 17.4 del [Decreto 23/2023](../06_atencion_diversidad_y_orientacion/D23_2023_atencion_diferencias_individuales_alumnos_madrid.md), de 22 de marzo, en el caso del alumnado de incorporación tardía al sistema educativo español se extenderá una diligencia en el apartado correspondiente de su expediente académico, que seguirá el modelo dispuesto en el anexo X.
 
-2.  La diligencia a la que se refiere el apartado anterior se trasladará al historial académico del alumno, apartado de diligencias y observaciones, de acuerdo con lo establecido en el artículo 26.1 de la Orden 130/2023, de 23 de enero, de la Vicepresidencia, Consejería de Educación y Universidades, por la que se regulan aspectos de organización y funcionamiento, evaluación y autonomía pedagógica en la etapa de Educación Primaria en la Comunidad de Madrid.
+2.  La diligencia a la que se refiere el apartado anterior se trasladará al historial académico del alumno, apartado de diligencias y observaciones, de acuerdo con lo establecido en el artículo 26.1 de la [Orden 130/2023](../03_ordenacion_curricular_y_ensenanzas/O130_2023_organizacion_funcionamiento_evaluacion_educacion_primaria_madrid.md), de 23 de enero, de la Vicepresidencia, Consejería de Educación y Universidades, por la que se regulan aspectos de organización y funcionamiento, evaluación y autonomía pedagógica en la etapa de Educación Primaria en la Comunidad de Madrid.
 
 
 ### DISPOSICIÓN ADICIONAL SÉPTIMA. Enseñanza de religión
 
-En las etapas de Educación Infantil Especial y Educación Básica Obligatoria se ofertará la enseñanza de religión, de acuerdo a lo establecido en los apartados 1 y 2 de la disposición adicional segunda de la Ley Orgánica 2/2006, de 3 de mayo.
+En las etapas de Educación Infantil Especial y Educación Básica Obligatoria se ofertará la enseñanza de religión, de acuerdo a lo establecido en los apartados 1 y 2 de la disposición adicional segunda de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo.
 
 
 ### DISPOSICIÓN DEROGATORIA ÚNICA. Derogación normativa

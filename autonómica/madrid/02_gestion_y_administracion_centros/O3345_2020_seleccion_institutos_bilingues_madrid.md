@@ -25,8 +25,16 @@ tags:
 - seleccion_centros
 - bilinguismo
 - madrid
+fundamentos_derecho:
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-mad-l1-1983-gobierno-administracion-comunidad-madrid
+- norma_id: norm-mad-o972-2017-organizacion-funcionamiento-institutos-bilingues-madrid
+- norma_id: norm-es-l-39-2015
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-2016-3229
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
 ---
-
 # Selección institutos bilingües– Orden 3345/2020, de 18 de diciembre, del Consejero de Educación y Juventud, de selección de institutos públicos de Educación Secundaria en los que se llevará a cabo la implantación del Programa Bilingüe español-inglés en el curso 2021-2022
 
 ## Preámbulo
@@ -45,7 +53,7 @@ tras año, han permitido extender la implantación de este sistema a un número 
 yor de colegios.
 Con el fin de garantizar la continuidad del modelo bilingüe en la Educación Secunda-
 ria Obligatoria, la Consejería de Educación, Juventud y Deporte de la Comunidad de Madrid
-aprobó la Orden 972/2017, de 7 de abril, de la Consejería de Educación, Juventud y Depor-
+aprobó la [Orden 972/2017](./O972_2017_organizacion_funcionamiento_institutos_bilingues_madrid.md), de 7 de abril, de la Consejería de Educación, Juventud y Depor-
 te, por la que se regulan los institutos bilingües español-inglés de la Comunidad de Madrid.
 El objeto de dicha Orden es la regulación de determinados aspectos de la organización y fun-
 cionamiento de los institutos bilingües en la Comunidad de Madrid, la organización de la en-
@@ -68,7 +76,7 @@ español-inglés.
 La presente convocatoria se encuadra dentro del Decreto 48/2015, de 14 de mayo, del
 Consejo de Gobierno, por el que se establece para la Comunidad de Madrid el currículo de
 la Educación Secundaria Obligatoria, modificado por el Decreto 18/2018, de 20 de marzo,
-y de la citada Orden 972/2017, de 7 de abril, de la Consejería de Educación, Juventud y De-
+y de la citada [Orden 972/2017](./O972_2017_organizacion_funcionamiento_institutos_bilingues_madrid.md), de 7 de abril, de la Consejería de Educación, Juventud y De-
 porte, por la que se regulan los institutos bilingües español-inglés de la Comunidad de
 Madrid. Ambas normas han sido dictadas en el marco de la normativa estatal y al amparo
 de las competencias atribuidas por el artículo 29 de su Estatuto de Autonomía, aprobado
@@ -76,8 +84,8 @@ por Ley Orgánica 3/1983, de 25 de febrero, conforme al cual, le corresponde la 
 cia de desarrollo legislativo y ejecución de la enseñanza en toda su extensión, niveles y gra-
 dos, modalidades y especialidades, de acuerdo con el artículo 27 de la Constitución y leyes
 orgánicas que conforme el apartado 1 del artículo 81 de la misma la desarrollen.
-Entre la normativa estatal, destacan la Ley Orgánica 2/2006, de 3 de mayo, de Edu-
-cación (LOE), modificada por la Ley Orgánica 8/2013, de 9 de diciembre, para la mejora
+Entre la normativa estatal, destacan la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Edu-
+cación (LOE), modificada por la [Ley Orgánica 8/2013](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md), de 9 de diciembre, para la mejora
 de la calidad educativa (LOMCE), que establece como uno de los fines del sistema educa-
 tivo la capacitación para la comunicación en una o más lenguas extranjeras; así como el
 Real Decreto 1105/2014, de 26 de diciembre, por el que se establece el currículo básico de
@@ -89,7 +97,7 @@ Juventud, esta Consejería es el órgano de la Comunidad de Madrid al que se atr
 BOCM
 competencias de esta Administración autonómica en relación con la educación, siendo,
 en consecuencia, la competente para aprobar la presente Orden.
-A tal fin, y de conformidad con el artículo 41 de la Ley 1/1983, de 13 de diciembre, de
+A tal fin, y de conformidad con el artículo 41 de la [Ley 1/1983](../01_marco_normativo_general_y_organico/L1_1983_gobierno_administracion_comunidad_madrid.md), de 13 de diciembre, de
 Gobierno y Administración,
 DISPONGO:
 
@@ -98,7 +106,7 @@ DISPONGO:
 Objeto
 Constituye el objeto de la presente Orden regular la selección de institutos de Educa-
 ción Secundaria que implantarán el Programa Bilingüe español-inglés a partir del cur-
-so 2021-2022, de acuerdo con la Orden 972/2017, de 7 de abril, de la Consejería de Educa-
+so 2021-2022, de acuerdo con la [Orden 972/2017](./O972_2017_organizacion_funcionamiento_institutos_bilingues_madrid.md), de 7 de abril, de la Consejería de Educa-
 ción, Juventud y Deporte, por la que se regulan los institutos bilingües español-inglés de la
 Comunidad de Madrid.
 Segundo
@@ -112,13 +120,13 @@ a)
 Los profesores de la especialidad de Inglés que impartan docencia en la vía Sec-
 ción Bilingüe deberán contar con la correspondiente acreditación para impartir el
 currículo de Inglés Avanzado, de acuerdo con lo establecido en el artículo 10.2 de
-la Orden 972/2017, de 7 de abril, de la Consejería de Educación, Juventud y De-
+la [Orden 972/2017](./O972_2017_organizacion_funcionamiento_institutos_bilingues_madrid.md), de 7 de abril, de la Consejería de Educación, Juventud y De-
 porte, por la que se regulan los institutos bilingües español-inglés de la Comuni-
 dad de Madrid.
 b)
 Los profesores de otras materias susceptibles de ser impartidas en lengua inglesa debe-
 rán contar con la correspondiente habilitación lingüística para el desempeño de pues-
-tos bilingües, de acuerdo con lo establecido en el artículo 10.1 de la Orden 972/2017,
+tos bilingües, de acuerdo con lo establecido en el artículo 10.1 de la [Orden 972/2017](./O972_2017_organizacion_funcionamiento_institutos_bilingues_madrid.md),
 de 7 de abril, de la Consejería de Educación, Juventud y Deporte, por la que se regu-
 lan los institutos bilingües español-inglés de la Comunidad de Madrid.
 c)
@@ -159,7 +167,7 @@ se requerirá al interesado para que complete el expediente en un plazo de diez 
 contados a partir del día siguiente al de la recepción de la notificación, con la advertencia
 de que, en caso de no aportarse la totalidad de la documentación requerida durante dicho
 plazo, se le tendrá por desistido de su petición, previa resolución expresa, en los términos
-establecidos en el artículo 68 de la Ley 39/2015, de 1 de octubre, del Procedimiento Admi-
+establecidos en el artículo 68 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Admi-
 nistrativo Común de las Administraciones Públicas.
 La documentación requerida podrá aportarse telemáticamente durante la tramitación
 del expediente a través de la opción Aportación de documentos y consulta de expedientes,
@@ -197,7 +205,7 @@ e)
 ## Anexo VI. : Propuesta de un candidato para su nombramiento como Profesor Coor-
 
 dinador o Coordinador Jefe del Programa Bilingüe, según proceda, de acuerdo con
-lo establecido en la Orden 972/2017, de 7 de abril, de la Consejería de Educación,
+lo establecido en la [Orden 972/2017](./O972_2017_organizacion_funcionamiento_institutos_bilingues_madrid.md), de 7 de abril, de la Consejería de Educación,
 Juventud y Deporte, por la que se regulan los institutos bilingües español-inglés
 de la Comunidad de Madrid.
 f)
@@ -244,7 +252,7 @@ lingüística para desempeñar puestos bilingües y que hayan adquirido el com-
 promiso de participar en el programa.
 — Propuesta de un candidato para su nombramiento como Profesor Coordinador
 o Coordinador Jefe del Programa Bilingüe, según proceda, de acuerdo con lo
-establecido en la Orden 972/2017, de 7 de abril, de la Consejería de Educa-
+establecido en la [Orden 972/2017](./O972_2017_organizacion_funcionamiento_institutos_bilingues_madrid.md), de 7 de abril, de la Consejería de Educa-
 ción, Juventud y Deporte, por la que se regulan los institutos bilingües espa-
 ñol-inglés de la Comunidad de Madrid.
 c)
@@ -296,7 +304,7 @@ finalice el plazo de presentación de las solicitudes.
 Contra dicha Orden de resolución, que pone fin a la vía administrativa, podrá interpo-
 nerse recurso potestativo de reposición ante el titular de la Consejería de Educación y Ju-
 ventud en el plazo de un mes, desde el día siguiente a la publicación de la resolución, de
-acuerdo con lo dispuesto en los artículos 123 y 124 de la Ley 39/2015, de 1 de octubre, del
+acuerdo con lo dispuesto en los artículos 123 y 124 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del
 Procedimiento Administrativo Común de las Administraciones Públicas.
 No obstante, podrá optarse por interponer directamente recurso contencioso-adminis-
 trativo ante la Sala de lo Contencioso-Administrativo del Tribunal Superior de Justicia de
@@ -311,7 +319,7 @@ tivo de reposición sea resuelto expresamente o se haya producido su desestimaci
 Sexto
 Enseñanzas en inglés
 Las enseñanzas en inglés se organizarán conforme a lo establecido en los artícu-
-los 4, 5 y 6 de la Orden 972/2017, de 7 de abril, de la Consejería de Educación, Juven-
+los 4, 5 y 6 de la [Orden 972/2017](./O972_2017_organizacion_funcionamiento_institutos_bilingues_madrid.md), de 7 de abril, de la Consejería de Educación, Juven-
 tud y Deporte, por la que se regulan los institutos bilingües español-inglés de la Comu-
 nidad de Madrid.
 Séptimo
@@ -345,7 +353,7 @@ tud podrá establecer las medidas oportunas para dotar al centro del profesorado
 3.
 La continuidad como instituto bilingüe podrá reconsiderarse si, una vez evaluada
 la implantación del Programa Bilingüe, se dedujera que no se están siguiendo las directri-
-ces establecidas en la Orden 972/2017, de 7 de abril, de la Consejería de Educación, Juven-
+ces establecidas en la [Orden 972/2017](./O972_2017_organizacion_funcionamiento_institutos_bilingues_madrid.md), de 7 de abril, de la Consejería de Educación, Juven-
 tud y Deporte, por la que se regulan los institutos bilingües español-inglés de la Comuni-
 dad de Madrid.
 Noveno
@@ -444,11 +452,11 @@ siguientes finalidades:
 -Selección de institutos públicos de Educación Secundaria en los que se llevará a cabo la implantación del Programa Bilingüe español-inglés en el
 curso 2021-2022
 3. ¿Cuál es la legitimación en la cual se basa la licitud del tratamiento?
-Base de legitimación: Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+Base de legitimación: [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación.
 Base jurídica: RGPD 6.1 e) el tratamiento es necesario para el cumplimiento de una misión realizada en interés público o en el ejercicio de
 poderes públicos conferidos al responsable del tratamiento.
 4. ¿Cómo ejercer sus derechos? ¿Cuáles son sus derechos cuando nos facilita sus datos?
-Según la Ley 39/2015, el RGPD (UE) y la Ley Orgánica 3/201, puede ejercitar, si lo desea, los derechos de acceso, rectificación y supresión de
+Según la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), el RGPD (UE) y la Ley Orgánica 3/201, puede ejercitar, si lo desea, los derechos de acceso, rectificación y supresión de
 datos, así como solicitar que se limite el tratamiento de sus datos personales, oponerse al mismo, solicitar en su caso la portabilidad de sus datos,
 así como a no ser objeto de una decisión individual basada únicamente en el tratamiento automatizado, incluida la elaboración de perfiles, tanto
 por Registro Electrónico como por Registro Presencial, en ambos casos haciendo constar la referencia «Ejercicio de derechos de protección de
@@ -529,7 +537,7 @@ Especificar:
 2. Breve introducción descriptiva del contexto del centro.
 3. Breve justificación de la solicitud del Programa Bilingüe.
 4. Previsión de materias que se van a impartir en inglés a lo largo de la implantación del Programa.
-5. Propuesta de modelo organizativo previsto, según la Orden 972/2017, de 7 de abril, de la Consejería de
+5. Propuesta de modelo organizativo previsto, según la [Orden 972/2017](./O972_2017_organizacion_funcionamiento_institutos_bilingues_madrid.md), de 7 de abril, de la Consejería de
 Educación, Juventud y Deporte, por la que se regulan los institutos bilingües español-inglés de la
 Comunidad de Madrid: materias, grupos, coordinación y profesores.
 6. Experiencia educativa:
@@ -602,13 +610,13 @@ inglés en el curso 2021-2022
 
 3. ¿Cuál es la legitimación en la cual se basa la licitud del tratamiento?
 
-Base de legitimación: Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+Base de legitimación: [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación.
 Base jurídica: RGPD 6.1 e) el tratamiento es necesario para el cumplimiento de una misión realizada en interés público o en el ejercicio de
 poderes públicos conferidos al responsable del tratamiento.
 
 4. ¿Cómo ejercer sus derechos? ¿Cuáles son sus derechos cuando nos facilita sus datos?
 
-Según la Ley 39/2015, el RGPD (UE) y la Ley Orgánica 3/201, puede ejercitar, si lo desea, los derechos de acceso, rectificación y
+Según la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), el RGPD (UE) y la Ley Orgánica 3/201, puede ejercitar, si lo desea, los derechos de acceso, rectificación y
 supresión de datos, así como solicitar que se limite el tratamiento de sus datos personales, oponerse al mismo, solicitar en su caso la
 portabilidad de sus datos, así como a no ser objeto de una decisión individual basada únicamente en el tratamiento automatizado, incluida
 la elaboración de perfiles, tanto por Registro Electrónico como por Registro Presencial, en ambos casos haciendo constar la referencia
@@ -666,7 +674,7 @@ del Instituto …………………………………………………………
 Código de centro …………………… del municipio de …………………………………………………………………………
 
 HACE CONSTAR
-1. Que el Consejo Escolar del centro conoce el contenido y características de la Orden 972/2017, de 7 de abril, de la
+1. Que el Consejo Escolar del centro conoce el contenido y características de la [Orden 972/2017](./O972_2017_organizacion_funcionamiento_institutos_bilingues_madrid.md), de 7 de abril, de la
 Consejería de Educación, Juventud y Deporte, por la que se regulan los institutos bilingües español-inglés de la Comunidad
 de Madrid y de la convocatoria para la implantación de enseñanzas bilingües español-inglés en Institutos de Educación
 Secundaria de la Comunidad de Madrid.
@@ -725,13 +733,13 @@ español-inglés en el curso 2021-2022
 
 3. ¿Cuál es la legitimación en la cual se basa la licitud del tratamiento?
 
-Base de legitimación: Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+Base de legitimación: [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación.
 Base jurídica: RGPD 6.1 e) el tratamiento es necesario para el cumplimiento de una misión realizada en interés público o en el
 ejercicio de poderes públicos conferidos al responsable del tratamiento.
 
 4. ¿Cómo ejercer sus derechos? ¿Cuáles son sus derechos cuando nos facilita sus datos?
 
-Según la Ley 39/2015, el RGPD (UE) y la Ley Orgánica 3/201, puede ejercitar, si lo desea, los derechos de acceso, rectificación y
+Según la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), el RGPD (UE) y la Ley Orgánica 3/201, puede ejercitar, si lo desea, los derechos de acceso, rectificación y
 supresión de datos, así como solicitar que se limite el tratamiento de sus datos personales, oponerse al mismo, solicitar en su caso la
 portabilidad de sus datos, así como a no ser objeto de una decisión individual basada únicamente en el tratamiento automatizado,
 incluida la elaboración de perfiles, tanto por Registro Electrónico como por Registro Presencial, en ambos casos haciendo constar la
@@ -790,7 +798,7 @@ del Claustro del instituto…..……………..................................
 Código de centro …......................, del municipio de ..............................................................................
 
 HACE CONSTAR
-1. Que el Claustro del centro conoce el contenido y características de la Orden 972/2017, de 7 de abril, de la Consejería de
+1. Que el Claustro del centro conoce el contenido y características de la [Orden 972/2017](./O972_2017_organizacion_funcionamiento_institutos_bilingues_madrid.md), de 7 de abril, de la Consejería de
 Educación, Juventud y Deporte, por la que se regulan los institutos bilingües español-inglés de la Comunidad de Madrid y de
 la convocatoria para la implantación de la enseñanza bilingüe español-inglés en Institutos de Educación Secundaria de la
 Comunidad de Madrid.
@@ -839,13 +847,13 @@ español-inglés en el curso 2021-2022
 
 3. ¿Cuál es la legitimación en la cual se basa la licitud del tratamiento?
 
-Base de legitimación: Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+Base de legitimación: [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación.
 Base jurídica: RGPD 6.1 e) el tratamiento es necesario para el cumplimiento de una misión realizada en interés público o en el
 ejercicio de poderes públicos conferidos al responsable del tratamiento.
 
 4. ¿Cómo ejercer sus derechos? ¿Cuáles son sus derechos cuando nos facilita sus datos?
 
-Según la Ley 39/2015, el RGPD (UE) y la Ley Orgánica 3/201, puede ejercitar, si lo desea, los derechos de acceso, rectificación y
+Según la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), el RGPD (UE) y la Ley Orgánica 3/201, puede ejercitar, si lo desea, los derechos de acceso, rectificación y
 supresión de datos, así como solicitar que se limite el tratamiento de sus datos personales, oponerse al mismo, solicitar en su caso la
 portabilidad de sus datos, así como a no ser objeto de una decisión individual basada únicamente en el tratamiento automatizado,
 incluida la elaboración de perfiles, tanto por Registro Electrónico como por Registro Presencial, en ambos casos haciendo constar la
@@ -943,13 +951,13 @@ inglés en el curso 2021-2022
 
 3. ¿Cuál es la legitimación en la cual se basa la licitud del tratamiento?
 
-Base de legitimación: Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+Base de legitimación: [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación.
 Base jurídica: RGPD 6.1 e) el tratamiento es necesario para el cumplimiento de una misión realizada en interés público o en el ejercicio
 de poderes públicos conferidos al responsable del tratamiento.
 
 4. ¿Cómo ejercer sus derechos? ¿Cuáles son sus derechos cuando nos facilita sus datos?
 
-Según la Ley 39/2015, el RGPD (UE) y la Ley Orgánica 3/201, puede ejercitar, si lo desea, los derechos de acceso, rectificación y
+Según la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), el RGPD (UE) y la Ley Orgánica 3/201, puede ejercitar, si lo desea, los derechos de acceso, rectificación y
 supresión de datos, así como solicitar que se limite el tratamiento de sus datos personales, oponerse al mismo, solicitar en su caso la
 portabilidad de sus datos, así como a no ser objeto de una decisión individual basada únicamente en el tratamiento automatizado,
 incluida la elaboración de perfiles, tanto por Registro Electrónico como por Registro Presencial, en ambos casos haciendo constar la
@@ -1040,13 +1048,13 @@ inglés en el curso 2021-2022
 
 3. ¿Cuál es la legitimación en la cual se basa la licitud del tratamiento?
 
-Base de legitimación: Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+Base de legitimación: [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación.
 Base jurídica: RGPD 6.1 e) el tratamiento es necesario para el cumplimiento de una misión realizada en interés público o en el ejercicio
 de poderes públicos conferidos al responsable del tratamiento.
 
 4. ¿Cómo ejercer sus derechos? ¿Cuáles son sus derechos cuando nos facilita sus datos?
 
-Según la Ley 39/2015, el RGPD (UE) y la Ley Orgánica 3/201, puede ejercitar, si lo desea, los derechos de acceso, rectificación y
+Según la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), el RGPD (UE) y la Ley Orgánica 3/201, puede ejercitar, si lo desea, los derechos de acceso, rectificación y
 supresión de datos, así como solicitar que se limite el tratamiento de sus datos personales, oponerse al mismo, solicitar en su caso la
 portabilidad de sus datos, así como a no ser objeto de una decisión individual basada únicamente en el tratamiento automatizado,
 incluida la elaboración de perfiles, tanto por Registro Electrónico como por Registro Presencial, en ambos casos haciendo constar la
@@ -1153,13 +1161,13 @@ español-inglés en el curso 2021-2022
 
 3. ¿Cuál es la legitimación en la cual se basa la licitud del tratamiento?
 
-Base de legitimación: Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+Base de legitimación: [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación.
 Base jurídica: RGPD 6.1 e) el tratamiento es necesario para el cumplimiento de una misión realizada en interés público o en el
 ejercicio de poderes públicos conferidos al responsable del tratamiento.
 
 4. ¿Cómo ejercer sus derechos? ¿Cuáles son sus derechos cuando nos facilita sus datos?
 
-Según la Ley 39/2015, el RGPD (UE) y la Ley Orgánica 3/201, puede ejercitar, si lo desea, los derechos de acceso, rectificación y
+Según la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), el RGPD (UE) y la Ley Orgánica 3/201, puede ejercitar, si lo desea, los derechos de acceso, rectificación y
 supresión de datos, así como solicitar que se limite el tratamiento de sus datos personales, oponerse al mismo, solicitar en su caso la
 portabilidad de sus datos, así como a no ser objeto de una decisión individual basada únicamente en el tratamiento automatizado,
 incluida la elaboración de perfiles, tanto por Registro Electrónico como por Registro Presencial, en ambos casos haciendo constar la
@@ -1294,13 +1302,13 @@ español-inglés en el curso 2021-2022
 
 3. ¿Cuál es la legitimación en la cual se basa la licitud del tratamiento?
 
-Base de legitimación: Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+Base de legitimación: [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación.
 Base jurídica: RGPD 6.1 e) el tratamiento es necesario para el cumplimiento de una misión realizada en interés público o en el
 ejercicio de poderes públicos conferidos al responsable del tratamiento.
 
 4. ¿Cómo ejercer sus derechos? ¿Cuáles son sus derechos cuando nos facilita sus datos?
 
-Según la Ley 39/2015, el RGPD (UE) y la Ley Orgánica 3/201, puede ejercitar, si lo desea, los derechos de acceso, rectificación y
+Según la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), el RGPD (UE) y la Ley Orgánica 3/201, puede ejercitar, si lo desea, los derechos de acceso, rectificación y
 supresión de datos, así como solicitar que se limite el tratamiento de sus datos personales, oponerse al mismo, solicitar en su caso la
 portabilidad de sus datos, así como a no ser objeto de una decisión individual basada únicamente en el tratamiento automatizado,
 incluida la elaboración de perfiles, tanto por Registro Electrónico como por Registro Presencial, en ambos casos haciendo constar la

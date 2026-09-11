@@ -33,8 +33,10 @@ relaciones:
   fundamentado_en:
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-can-l-6-2014
+fundamentos_derecho:
+- norma_id: norm-can-d-276-1997
+- norma_id: norm-mad-l1-1983-gobierno-administracion-comunidad-madrid
 ---
-
 # Orden de 25 de febrero de 2003, por la que se regula la organización y funcionamiento de los comedores escolares en los centros públicos docentes no universitarios dependientes de la Consejería de Educación, Cultura y Deportes, y se establecen las bases de la convocatoria de plazas y ayudas con destino a dicho servicio complementario.
 
 ## Preámbulo
@@ -43,7 +45,7 @@ La Ley Orgánica 9/1995, de 20 de noviembre, de la participación, la evaluació
 
 El Decreto 337/1997, de 19 de diciembre, por el que se establece el régimen general de ayudas y subvenciones de la Administración Pública de la Comunidad Autónoma de Canarias (B.O.C. nº 170, de 31.12.97), modificado por los Decretos 174/1998, de 8 de octubre (B.O.C. nº 132, de 19.10.98), y Decreto 103/2000, de 12 de junio (B.O.C. nº 77, de 23.6.00).
 
-El Decreto 276/1997, de 27 de noviembre, por el que se regula el procedimiento de gestión económica de los centros docentes públicos no universitarios dependientes de la Consejería de Educación, Cultura y Deportes (B.O.C. nº 162, de 17.12.97), potencia la necesaria autonomía de gestión económica de los referidos centros docentes.
+El [Decreto 276/1997](../02_gestion_y_administracion_centros/D276_1997_regula_procedimiento_gestion_economica_centros_docentes.md), de 27 de noviembre, por el que se regula el procedimiento de gestión económica de los centros docentes públicos no universitarios dependientes de la Consejería de Educación, Cultura y Deportes (B.O.C. nº 162, de 17.12.97), potencia la necesaria autonomía de gestión económica de los referidos centros docentes.
 
 La realidad social demanda de las administraciones educativas, la existencia de los servicios escolares de comedor en los centros docentes dependientes de la Consejería de Educación, como un servicio educativo complementario a la enseñanza, compensatorio y social dentro de los principios de igualdad y solidaridad, establecidos en las líneas de actuación preferentes del "Pacto por la Educación".
 
@@ -55,7 +57,7 @@ La presente Orden pretende la actualización y adaptación de la normativa que r
 
 En el funcionamiento de dicho servicio complementario de comedor escolar, se deben coordinar en su gestión los distintos órganos directivos con competencias, correspondiéndole a la Dirección General de Promoción Educativa, en virtud de lo estipulado en el artículo 14 del Decreto 305/1991, de 29 de noviembre, por el que se aprueba el Reglamento Orgánico de la Consejería de Educación, Cultura y Deportes (B.O.C. nº 161, de 9.12.91), la ordenación y gestión de dicho servicio complementario. En este sentido, debe coordinar su labor con la Dirección General de Centros, en virtud de lo estipulado en el artículo 11 de la referenciada normativa, a quien corresponde, en el funcionamiento de este servicio la gestión, control, régimen administrativo de los gastos y actuaciones que se generen. Asimismo, la Inspección de Educación debe velar por la adecuación de este servicio a lo preceptuado en la normativa y por su buen funcionamiento. La coordinación entre los distintos órganos directivos contribuirá a la mejora de calidad del servicio y repercutirá en el interés público.
 
-En su virtud y, de acuerdo con las competencias que tengo atribuidas por el artículo 32.c) de la Ley 1/1983, de 14 de abril, del Gobierno y de la Administración Pública de Canarias (B.O.C. nº 11, de 30.4.83) así como por los artículos 1 y 5.1.c) del Decreto 305/1991, de 29 de noviembre, por el que se aprueba el Reglamento Orgánico de la Consejería de Educación, Cultura y Deportes,
+En su virtud y, de acuerdo con las competencias que tengo atribuidas por el artículo 32.c) de la [Ley 1/1983](../../madrid/01_marco_normativo_general_y_organico/L1_1983_gobierno_administracion_comunidad_madrid.md), de 14 de abril, del Gobierno y de la Administración Pública de Canarias (B.O.C. nº 11, de 30.4.83) así como por los artículos 1 y 5.1.c) del Decreto 305/1991, de 29 de noviembre, por el que se aprueba el Reglamento Orgánico de la Consejería de Educación, Cultura y Deportes,
 
 
 ### D i s p o n g o:

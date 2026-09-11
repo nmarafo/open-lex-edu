@@ -25,8 +25,11 @@ tags:
 - reglamento-organico
 - organizacion-escolar
 - canarias
+fundamentos_derecho:
+- norma_id: norm-can-l-1-1997
+- norma_id: norm-es-2001-7022
+- norma_id: norm-es-lo-8-1985
 ---
-
 # Decreto 93/1999, de 25 de mayo, por el que se regula la creación de los centros de educación obligatoria de la Comunidad Autónoma de Canarias y se aprueba su Reglamento Orgánico.
 
 ## Preámbulo
@@ -47,17 +50,17 @@ I. DISPOSICIONES GENERALES - Consejería de Educación, Cultura y Deportes
 
 Descargar en formato pdf
 
-La actual reforma educativa, regulada por la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo, presenta una concepción renovada de los centros escolares haciendo especial hincapié en su autonomía pedagógica, organizativa y de gestión económica. Asimismo, dispone que los poderes públicos darán una atención prioritaria al conjunto de factores que favorezcan la calidad y la mejora de la enseñanza.
+La actual reforma educativa, regulada por la [Ley Orgánica 1/1990](../../../estatal/02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md), de 3 de octubre, de Ordenación General del Sistema Educativo, presenta una concepción renovada de los centros escolares haciendo especial hincapié en su autonomía pedagógica, organizativa y de gestión económica. Asimismo, dispone que los poderes públicos darán una atención prioritaria al conjunto de factores que favorezcan la calidad y la mejora de la enseñanza.
 
 De otra parte, la Ley Orgánica 9/1995, de 20 de noviembre, de la Participación, Evaluación y Gobierno de los centros docentes, a fin de reforzar las garantías para promover una enseñanza de calidad, dar un nuevo impulso a la participación de los distintos sectores de la comunidad educativa en la organización y gobierno de los centros y adecuar la actividad educativa a los principios y finalidades de la L.O.G.S.E., determina que los poderes públicos fomentarán la participación de la comunidad educativa en la organización y gobierno de los centros docentes y en la definición y contextualización de su proyecto educativo; todo ello, a través de una mayor implicación de sus órganos de gobierno en la dinámica educativa para profundizar en la autonomía de su gestión.
 
-El artículo 11.1, de la Ley Orgánica 8/1985, de 3 de julio, reguladora del Derecho a la Educación determina la tipología de los centros docentes en función de las enseñanzas que imparten. Asimismo, el apartado 2 de ese mismo artículo prevé la adaptación reglamentaria de lo preceptuado en esta ley a los centros que impartan enseñanzas no comprendidas en los tipos de centros determinados en el apartado anterior, así como a los centros integrados que imparten dos o más de las enseñanzas a que se refiere este artículo.
+El artículo 11.1, de la [Ley Orgánica 8/1985](../../../estatal/02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md), de 3 de julio, reguladora del Derecho a la Educación determina la tipología de los centros docentes en función de las enseñanzas que imparten. Asimismo, el apartado 2 de ese mismo artículo prevé la adaptación reglamentaria de lo preceptuado en esta ley a los centros que impartan enseñanzas no comprendidas en los tipos de centros determinados en el apartado anterior, así como a los centros integrados que imparten dos o más de las enseñanzas a que se refiere este artículo.
 
 La implantación del nuevo sistema educativo, al reformar estructuralmente las distintas etapas educativas, modifica el contenido del precitado artículo, quedando explicitado en la Disposición Adicional Sexta de la Ley Orgánica de Ordenación General del Sistema Educativo, en los siguientes términos: La adaptación de lo preceptuado en esta ley a los centros que imparten enseñanzas no comprendidas en el apartado anterior, así como a los centros de educación infantil y a los centros integrados que abarquen dos o más de las enseñanzas a que se refiere este artículo, se efectuará reglamentariamente.
 
 La necesidad de conjugar el objetivo de extender la obligatoriedad de la educación hasta los 16 años con la implantación de la misma en el mayor número de municipios de esta Comunidad Autónoma, que compense las desigualdades derivadas de la especial configuración geográfica de nuestro Archipiélago, aconseja la creación y regulación de un nuevo tipo de centro en el que se impartan con las necesarias garantías de calidad todas las etapas que configuran la educación obligatoria. Se precisa, pues, adaptar la infraestructura educativa existente a las exigencias devenidas de la implantación del nuevo sistema educativo con el fin de satisfacer las necesidades educativas de un determinado contexto escolar.
 
-Por otra parte, y con objeto de dar cumplimiento a lo dispuesto en la referida Ley Orgánica 1/1990, de 3 de octubre, sobre mantenimiento, conservación y vigilancia de los edificios donde se ubiquen los centros públicos de educación obligatoria, se ha llegado al correspondiente acuerdo entre el Gobierno de Canarias y los Ayuntamientos afectados, de modo que pueda establecerse una corresponsabilidad efectiva entre ambas Administraciones públicas.
+Por otra parte, y con objeto de dar cumplimiento a lo dispuesto en la referida [Ley Orgánica 1/1990](../../../estatal/02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md), de 3 de octubre, sobre mantenimiento, conservación y vigilancia de los edificios donde se ubiquen los centros públicos de educación obligatoria, se ha llegado al correspondiente acuerdo entre el Gobierno de Canarias y los Ayuntamientos afectados, de modo que pueda establecerse una corresponsabilidad efectiva entre ambas Administraciones públicas.
 
 En virtud de lo expuesto, en el ejercicio de las competencias conferidas a las Comunidades Autónomas en la Disposición Adicional Primera de la Ley Orgánica reguladora del Derecho a la Educación y al amparo de lo preceptuado en el artículo 32.1 del Estatuto de Autonomía de Canarias, a propuesta del Consejero de Educación, Cultura y Deportes, con el preceptivo informe del Consejo Escolar de Canarias y previa deliberación del Gobierno en su reunión del día 25 de mayo de 1999,
 
@@ -86,7 +89,7 @@ b) El centro se creará y suprimirá a propuesta de la Consejería competente en
 
 c) Previamente a su creación, la corporación local que promueva el centro y la Consejería competente en materia de educación firmarán un convenio en el que se regulará el régimen económico y de funcionamiento del mismo, conforme a lo establecido en este Reglamento.
 
-d) Los centros creados con arreglo a lo establecido en este apartado tendrán, a todos los efectos, el carácter de centros públicos, de acuerdo con la disposición adicional segunda de la Ley Orgánica 8/1985, de 3 de julio, reguladora del Derecho a la Educación.
+d) Los centros creados con arreglo a lo establecido en este apartado tendrán, a todos los efectos, el carácter de centros públicos, de acuerdo con la disposición adicional segunda de la [Ley Orgánica 8/1985](../../../estatal/02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md), de 3 de julio, reguladora del Derecho a la Educación.
 
 e) Las funciones que en el Reglamento orgánico aprobado por este Decreto competen a la Administración educativa, en relación con el nombramiento y cese del director y del equipo directivo de estos centros, se entenderán referidas al titular público promotor.
 
@@ -111,7 +114,7 @@ e) Las funciones que en el Reglamento orgánico aprobado por este Decreto compet
 
 DISPOSICIONES ADICIONALES
 
-Primera.- Con objeto de dar cumplimiento a lo previsto en la disposición adicional decimoséptima de la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo, la Consejería de Educación, Cultura y Deportes y la Federación Canaria de Municipios acordarán las fórmulas apropiadas para corresponsabilizarse de la conservación, el mantenimiento y la vigilancia de los Centros de Educación Obligatoria dependientes de dicha Consejería, sin perjuicio de los acuerdos o convenios que procedan respecto a las Corporaciones en cuyo término municipal radiquen los Centros.
+Primera.- Con objeto de dar cumplimiento a lo previsto en la disposición adicional decimoséptima de la [Ley Orgánica 1/1990](../../../estatal/02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md), de 3 de octubre, de Ordenación General del Sistema Educativo, la Consejería de Educación, Cultura y Deportes y la Federación Canaria de Municipios acordarán las fórmulas apropiadas para corresponsabilizarse de la conservación, el mantenimiento y la vigilancia de los Centros de Educación Obligatoria dependientes de dicha Consejería, sin perjuicio de los acuerdos o convenios que procedan respecto a las Corporaciones en cuyo término municipal radiquen los Centros.
 
 Segunda.- El alumnado del tercer ciclo de educación primaria podrá optar en igualdad de condiciones con el alumnado de la educación secundaria obligatoria, a la representación en el consejo escolar del centro en los términos que se establecen en este Reglamento, así como formar parte de la junta de delegados.
 
@@ -353,7 +356,7 @@ f) Colaborar con el coordinador de formación del centro, en la coordinación de
 
 g) Participar en el proceso de elaboración del proyecto educativo del centro, de la programación general anual y del reglamento de régimen interior y normas de convivencia del centro.
 
-h) Establecer el procedimiento para el control de las faltas de asistencia del alumnado y proponer los criterios para la comunicación al ayuntamiento respectivo de los casos de absentismo escolar significativo de los menores escolarizados, conforme lo establecido en el artº. 19 de la Ley 1/1997, de 7 de febrero, de Atención Integral a los Menores.
+h) Establecer el procedimiento para el control de las faltas de asistencia del alumnado y proponer los criterios para la comunicación al ayuntamiento respectivo de los casos de absentismo escolar significativo de los menores escolarizados, conforme lo establecido en el artº. 19 de la [Ley 1/1997](../01_marco_normativo_general_y_organico/L1_1997_atencion_integral_menores.md), de 7 de febrero, de Atención Integral a los Menores.
 
 i) Cualquier otra función que le pueda ser encomendada por el director dentro del ámbito de sus competencias.
 
@@ -444,7 +447,7 @@ g) Impulsar los planes de seguridad y emergencia del centro, responsabilizándos
 
 h) Aquellas otras funciones que les delegue el consejo escolar en el ámbito de sus competencias.
 
-3. Conforme a lo establecido en el artículo 58.3 de la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo y en el artículo 25.2 de la Ley Orgánica 9/1995, de 20 de noviembre, de la Participación, Evaluación y Gobierno de los centros docentes, la Administración educativa favorecerá el ejercicio de la función directiva mediante la adopción de medidas que mejoren la preparación y la actuación de los equipos directivos, en relación con los recursos humanos y materiales disponibles.
+3. Conforme a lo establecido en el artículo 58.3 de la [Ley Orgánica 1/1990](../../../estatal/02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md), de 3 de octubre, de Ordenación General del Sistema Educativo y en el artículo 25.2 de la Ley Orgánica 9/1995, de 20 de noviembre, de la Participación, Evaluación y Gobierno de los centros docentes, la Administración educativa favorecerá el ejercicio de la función directiva mediante la adopción de medidas que mejoren la preparación y la actuación de los equipos directivos, en relación con los recursos humanos y materiales disponibles.
 
 4. La Administración educativa organizará programas de formación para mejorar la cualificación de los equipos directivos.
 
@@ -1661,7 +1664,7 @@ EVALUACIÓN DE LOS CENTROS
 
 2. La evaluación se realizará desde perspectivas formativas, complementando las perspectivas internas con las externas al centro.
 
-3. De conformidad con lo que establece el artículo 62 de la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo y con lo dispuesto en el Decreto Territorial 31/1995, de 24 de febrero, por el que se crea y regula el Instituto Canario de Evaluación y Calidad Educativa (ICEC), la evaluación se orientará a la permanente adecuación del sistema educativo a las demandas sociales y a las necesidades educativas.
+3. De conformidad con lo que establece el artículo 62 de la [Ley Orgánica 1/1990](../../../estatal/02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md), de 3 de octubre, de Ordenación General del Sistema Educativo y con lo dispuesto en el Decreto Territorial 31/1995, de 24 de febrero, por el que se crea y regula el Instituto Canario de Evaluación y Calidad Educativa (ICEC), la evaluación se orientará a la permanente adecuación del sistema educativo a las demandas sociales y a las necesidades educativas.
 
 
 #### Artículo 72.- La Evaluación externa de los centros.

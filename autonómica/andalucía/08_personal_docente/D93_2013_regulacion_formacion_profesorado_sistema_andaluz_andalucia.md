@@ -1,6 +1,8 @@
 ---
 id: norm-and-d93-2013-regulacion-formacion-profesorado-sistema-andaluz-andalucia
-titulo: Decreto 93/2013, de 27 de agosto, por el que se regula la formación inicial y permanente del profesorado en la Comunidad Autónoma de Andalucía, así como el Sistema Andaluz de Formación Permanente del Profesorado.
+titulo: Decreto 93/2013, de 27 de agosto, por el que se regula la formación inicial
+  y permanente del profesorado en la Comunidad Autónoma de Andalucía, así como el
+  Sistema Andaluz de Formación Permanente del Profesorado.
 jurisdiccion: Andalucía
 ambito: Autonómico
 organo_emisor: Dirección General de Profesorado y Gestión de Recursos Humanos
@@ -17,8 +19,22 @@ fuente_pdf_oficial: http://www.juntadeandalucia.es/boja/2013/170/BOJA13-170-0004
 clasificacion:
   categoria_canonica: 08_personal_docente
   subcategoria: Formación del profesorado
+fundamentos_derecho:
+- norma_id: norm-and-l12-2007-promocion-igualdad-genero-andalucia
+- norma_id: norm-and-l17-2007
+- norma_id: norm-and-l6-2006-gobierno-comunidad-autonoma-andalucia
+- norma_id: norm-and-l9-2007-administracion-junta-andalucia-laja
+- norma_id: norm-and-d149-2009-regulacion-centros-primer-ciclo-educacion-infantil-andalucia
+- norma_id: norm-and-d327-2010
+- norma_id: norm-and-d328-2010
+- norma_id: norm-and-d137-2002-apoyo-familias-andaluzas-servicios-educativos
+- norma_id: norm-and-d302-2010-ordenacion-funcion-publica-docente-seleccion-provision-andalucia
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-1999-23750
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
 ---
-
 # Decreto 93/2013, de 27 de agosto, por el que se regula la formación inicial y permanente del profesorado en la Comunidad Autónoma de Andalucía, así como el Sistema Andaluz de Formación Permanente del Profesorado.
 
 ## Preámbulo
@@ -38,13 +54,13 @@ El artículo 52.1 del Estatuto de Autonomía para Andalucía atribuye a la Comun
 competencia exclusiva en materia de enseñanza no universitaria, la formación del personal docente, de los 
 demás profesionales de la educación y la aprobación de las directrices de actuación en materia de recursos 
 humanos.
-La Ley Orgánica 2/2006, de 3 de mayo, de Educación, se refiere en el capítulo III de su título III a la 
+La [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, se refiere en el capítulo III de su título III a la 
 formación del profesorado, tanto inicial como permanente. Respecto de la primera dispone que se ajustará a 
 las necesidades de titulación y de cualificación requeridas por la ordenación general del sistema educativo. 
 Asimismo, destaca la relevancia de la experiencia profesional a la hora de facilitar y tutorizar la incorporación a 
 la docencia del profesorado y el acceso a la formación permanente como un derecho y una obligación de todo el 
 personal docente y una responsabilidad de las Administraciones educativas y de los propios centros. 
-Por su parte, la Ley 17/2007, de 10 de diciembre, de Educación de Andalucía, dedica el capítulo II de 
+Por su parte, la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre, de Educación de Andalucía, dedica el capítulo II de 
 su título I al profesorado, ocupándose en la sección 3.ª de dicho capítulo de la formación inicial y permanente 
 del profesorado y del Sistema Andaluz de Formación Permanente del Profesorado. En el artículo 18 dispone 
 que el componente esencial de la formación inicial será la relación permanente e interactiva entre la teoría y la 
@@ -68,12 +84,12 @@ aprendizaje dirigidas a mejorar la realidad educativa de los mismos, así como e
 docente en el aula, mediante metodologías activas y de participación. El profesorado de las aulas del siglo XXI 
 trabaja en entornos colaborativos y ayuda a los jóvenes a aprender de forma autónoma.
 Con objeto de reforzar la conexión entre la formación del profesorado y las necesidades de los centros 
-en los que presta servicio, el artículo 127.1 de la Ley 17/2007, de 10 de diciembre, establece que el proyecto 
+en los que presta servicio, el artículo 127.1 de la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre, establece que el proyecto 
 educativo de los centros docentes incluirá el plan de formación del profesorado. Dicho plan será elaborado a 
 partir del diagnóstico de necesidades de formación del profesorado del centro y del resultado de las evaluaciones 
 que se hayan llevado a cabo en el mismo.
 La importancia que debe tener la formación permanente en la vida de un centro queda reflejada en 
-el reglamento orgánico de los institutos de educación secundaria, aprobado por Decreto 327/2010, de 13 de 
+el reglamento orgánico de los institutos de educación secundaria, aprobado por [Decreto 327/2010](../04_organizacion_escolar_y_funcionamiento/D327_2010_reglamento_organico_institutos_educacion_secundaria_andalucia.md), de 13 de 
 julio, que incluye en su artículo 82 la creación en dichos centros de un departamento de formación, evaluación 
 e innovación educativa, entre cuyas funciones se encuentra la realización de un diagnóstico de necesidades 
 00032656
@@ -94,10 +110,10 @@ Escuelas Oficiales de Idiomas en la Comunidad Autónoma de Andalucía, recogen, 
 coordinación docente análogos para la realización de las funciones relativas a la formación permanente del 
 profesorado. Estas funciones, de acuerdo con el reglamento orgánico de las escuelas infantiles de segundo 
 ciclo, de los colegios de educación primaria, de los colegios de educación infantil y primaria y de los centros 
-públicos específicos de educación especial, aprobado por Decreto 328/2010, de 13 de julio, las asume el equipo 
+públicos específicos de educación especial, aprobado por [Decreto 328/2010](../04_organizacion_escolar_y_funcionamiento/D328_2010_reglamento_organico_escuelas_infantiles_colegios_primaria_andalucia.md), de 13 de julio, las asume el equipo 
 técnico de coordinación pedagógica de los mencionados centros.
-La citada Ley 17/2007, de 10 de diciembre, establece, además, entre los principios del sistema educativo 
-andaluz, la promoción de la igualdad efectiva entre hombres y mujeres. Asimismo, la Ley 12/2007, de 26 de 
+La citada [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre, establece, además, entre los principios del sistema educativo 
+andaluz, la promoción de la igualdad efectiva entre hombres y mujeres. Asimismo, la [Ley 12/2007](../01_marco_normativo_general_y_organico/L12_2007_promocion_igualdad_genero_andalucia.md), de 26 de 
 noviembre, para la promoción de la igualdad de género y la Ley 13/2007, de 26 de noviembre, de medidas de 
 prevención y protección integral contra la violencia de género, determinan que la oferta formativa dirigida al 
 profesorado incluya actuaciones coeducativas desde el aprendizaje de actitudes que respeten la igualdad. 
@@ -128,7 +144,7 @@ de abril, que regularon el Sistema Andaluz de Formación Permanente del Profesor
 Planes Andaluces del Formación Permanente del Profesorado. No obstante, para continuar avanzando hacia 
 la consecución de los objetivos estratégicos presentes en la Estrategia Europea de Educación y Formación 
 ET2020, así como para adaptar la formación del profesorado a los nuevos requerimientos educativos derivados 
-de la Ley Orgánica 2/2006, de 3 de mayo, y de la Ley 17/2007, de 10 de diciembre, que dispone como 
+de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, y de la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre, que dispone como 
 prioridad del sistema educativo andaluz la de establecer las condiciones que permitan al alumnado alcanzar las 
 competencias básicas, la coordinación en el ámbito de la educación y la formación deberá aplicarse con una 
 perspectiva integrada basada fundamentalmente en el aprendizaje entre iguales y el intercambio de buenas 
@@ -152,10 +168,10 @@ un desarrollo profesional permanente del personal docente y asesor que, basado e
 desarrollo de sus competencias profesionales, contribuya a la calidad del sistema educativo y ofrezca resultados 
 claros y visibles de mejora en los rendimientos del alumnado.
 En la elaboración de la presente norma se han cumplimentado los trámites de audiencia e información 
-pública, de conformidad en lo establecido en el artículo 45.1.c) de la Ley 6/2006, de 24 de octubre, del Gobierno 
+pública, de conformidad en lo establecido en el artículo 45.1.c) de la [Ley 6/2006](../01_marco_normativo_general_y_organico/L6_2006_gobierno_comunidad_autonoma_andalucia.md), de 24 de octubre, del Gobierno 
 de la Comunidad Autónoma de Andalucía.
 En su virtud, a propuesta de la Consejera de Educación, de conformidad con lo establecido en el 
-artículo 21.3 de la Ley 6/2006, de 24 de octubre, de acuerdo con el Consejo Consultivo de Andalucía y previa 
+artículo 21.3 de la [Ley 6/2006](../01_marco_normativo_general_y_organico/L6_2006_gobierno_comunidad_autonoma_andalucia.md), de 24 de octubre, de acuerdo con el Consejo Consultivo de Andalucía y previa 
 deliberación del Consejo de Gobierno en su reunión del día 27 de agosto de 2013,
 D I S P O N G O
 TÍTULO PRELIMINAR
@@ -171,7 +187,7 @@ c) La formación permanente del profesorado de los centros docentes privados con
 su aplicación a las características específicas de organización y funcionamiento y a la estructura de cargos 
 directivos y de coordinación docente de que dispongan.
 d) El Sistema Andaluz de Formación Permanente del Profesorado, a que se refiere el artículo 20 de la 
-Ley 17/2007, de 10 de diciembre, de Educación de Andalucía.
+[Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre, de Educación de Andalucía.
 Artículo 2. Fines.
 La formación del profesorado se orientará a la mejora de la competencia profesional docente y directiva 
 mediante la consecución de los siguientes fines:
@@ -205,7 +221,7 @@ Formación inicial del profesorado
 Artículo 3. Regulación y contenido. 
 La formación inicial del profesorado se ajustará a las necesidades de titulación y de cualificación 
 requeridas por la ordenación general del sistema educativo y se regulará según lo recogido en el artículo 100 de 
-la Ley Orgánica 2/2006, de 3 de mayo, y en la correspondiente normativa de desarrollo. 
+la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, y en la correspondiente normativa de desarrollo. 
 Su contenido garantizará las competencias profesionales adecuadas para afrontar los retos del sistema 
 educativo y adaptar las enseñanzas a las nuevas necesidades formativas del alumnado.
 Artículo 4. Objetivos.
@@ -214,7 +230,7 @@ de capacidades y aptitudes. Deberá permitir, en consecuencia, el desarrollo de 
 docentes del futuro profesorado. El componente esencial será la relación permanente e interactiva entre la 
 teoría y la práctica y la preparación para la dirección de los procesos de enseñanza y aprendizaje y de desarrollo 
 personal del alumnado, y su objetivo final será preparar al profesorado para dar respuesta a los retos del sistema 
-educativo que se recogen en la Ley 17/2007, de 10 de diciembre.
+educativo que se recogen en la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre.
 2. A tales efectos, la formación inicial del profesorado le permitirá desarrollar las siguientes competencias 
 profesionales:
 a) Desempeñar las funciones y deberes que implica su práctica profesional en el contexto educativo 
@@ -320,7 +336,7 @@ del personal docente que dirija la fase de prácticas, así como, en su caso, su
 otras actividades del grado y máster que habilitan para el desempeño de la profesión docente.
 Artículo 9. Fase de prácticas para el ingreso en los cuerpos docentes.
 La organización, realización y evaluación de la fase de prácticas para el ingreso en los cuerpos docentes 
-se llevará a cabo de conformidad con lo establecido en la sección primera del capítulo II del Decreto 302/2010, 
+se llevará a cabo de conformidad con lo establecido en la sección primera del capítulo II del [Decreto 302/2010](./D302_2010_ordenacion_funcion_publica_docente_seleccion_provision_andalucia.md), 
 de 1 de julio, por el que se ordena la función pública docente y se regula la selección del profesorado y la 
 provisión de puestos de trabajo docentes.
 CAPÍTULO II
@@ -546,7 +562,7 @@ la coordinadora provincial de formación y los directores y directoras de los ce
 Boletín Oficial de la Junta de Andalucía
 Núm. 170  página 15
 provincia. Este equipo no tendrá la naturaleza de órgano colegiado, de conformidad con lo dispuesto en el 
-capítulo II del título IV de la Ley 9/2007, de 22 de octubre, de la Administración de la Junta de Andalucía.
+capítulo II del título IV de la [Ley 9/2007](../01_marco_normativo_general_y_organico/L9_2007_administracion_junta_andalucia_laja.md), de 22 de octubre, de la Administración de la Junta de Andalucía.
 2. El equipo provincial de formación realizará las siguientes funciones:
 a) Impulsar el desarrollo coordinado de los proyectos de formación de los centros del profesorado.
 b) Potenciar los mecanismos de coordinación entre los centros docentes de sus respectivas zonas de 
@@ -621,10 +637,10 @@ e) Elaborar propuestas en materia de formación del profesorado y elevarlas a la
 competente.
 5. En la constitución, modificación o renovación de la Comisión Andaluza de Formación del Profesorado, 
 a fin de garantizar la representación equilibrada de hombres y mujeres, se actuará conforme a lo previsto en el 
-artículo 19.2 de la Ley 9/2007, de 22 de octubre.
+artículo 19.2 de la [Ley 9/2007](../01_marco_normativo_general_y_organico/L9_2007_administracion_junta_andalucia_laja.md), de 22 de octubre.
 Artículo 21. Régimen de constitución y funcionamiento.
 El régimen de constitución y funcionamiento de la Comisión Andaluza de Formación del Profesorado 
-será el establecido en el capítulo II del título IV de la Ley 9/2007, de 22 de octubre, en las normas básicas del 
+será el establecido en el capítulo II del título IV de la [Ley 9/2007](../01_marco_normativo_general_y_organico/L9_2007_administracion_junta_andalucia_laja.md), de 22 de octubre, en las normas básicas del 
 capítulo II del título II de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones 
 Públicas y del Procedimiento Administrativo Común, y en las normas reglamentarias que se dicten en desarrollo 
 de las anteriores.
@@ -670,7 +686,7 @@ k) Aquellas otras que les atribuya la Consejería competente en materia de educa
 competencias.
 Sección 2.ª Autonomía pedagógica y de gestión
 Artículo 24. Autonomía de los centros del profesorado.
-1. De acuerdo con lo establecido en el artículo 20.2 de la Ley 17/2007, de 10 de diciembre, los centros 
+1. De acuerdo con lo establecido en el artículo 20.2 de la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre, los centros 
 del profesorado contarán con autonomía pedagógica y de gestión en los términos recogidos en este Decreto 
 y en las normas que lo desarrollen. Para ello, la Consejería competente en materia de educación dotará a los 
 centros del profesorado de recursos humanos y materiales.
@@ -934,7 +950,7 @@ profesorado.
 n) Cualesquiera otras que le sean atribuidas por Orden de la persona titular de la Consejería competente 
 en materia de educación.
 Artículo 39. Potestad disciplinaria de la dirección.
-1. En aplicación de lo recogido en el artículo 132.5 de le Ley 17/2007, de 10 de diciembre, los directores 
+1. En aplicación de lo recogido en el artículo 132.5 de le [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre, los directores 
 y directoras de los centros del profesorado serán competentes para el ejercicio de la potestad disciplinaria 
 respecto del personal al servicio de la Administración de la Junta de Andalucía que presta servicios en su centro, 
 en los casos que se recogen a continuación:
@@ -1116,7 +1132,7 @@ los procedimientos para la elección de los miembros del Consejo de Centro, así
 sustitución en el caso de que se produzcan vacantes, y el periodo de nombramiento.
 6. La designación o elección de los miembros del Consejo de Centro se realizará de forma que permita 
 la representación equilibrada de hombres y mujeres, de conformidad con lo establecido en el artículo 19.2 de la 
-Ley 9/2007, de 22 de octubre.
+[Ley 9/2007](../01_marco_normativo_general_y_organico/L9_2007_administracion_junta_andalucia_laja.md), de 22 de octubre.
 Artículo 46. Competencias del Consejo de Centro.
 Corresponde al Consejo de Centro de los centros del profesorado las siguientes competencias:
 a) Aprobar y realizar el seguimiento del Plan de Centro del centro del profesorado.
@@ -1157,7 +1173,7 @@ h) Colaborar en las evaluaciones del centro del profesorado.
 i) Elegir a sus representantes en el Consejo de Centro.
 Artículo 48. Régimen de constitución y funcionamiento.
 El régimen de constitución y funcionamiento del Consejo de Centro y del equipo técnico de formación 
-será el establecido en el capítulo II del título IV de la Ley 9/2007, de 22 de octubre, en las normas básicas del 
+será el establecido en el capítulo II del título IV de la [Ley 9/2007](../01_marco_normativo_general_y_organico/L9_2007_administracion_junta_andalucia_laja.md), de 22 de octubre, en las normas básicas del 
 capítulo II del título II de la Ley 30/1992, de 26 de noviembre, y en las normas reglamentarias que se dicten en 
 desarrollo de las anteriores.
 Sección 4.ª Asesorías de formación
@@ -1301,7 +1317,7 @@ prácticas educativas y el desarrollo de las actividades de formación permanent
 cada centro docente elaborará su propio plan de formación del profesorado a partir del diagnóstico que realice 
 de las necesidades formativas del profesorado que preste servicio en el mismo, basadas en los resultados de 
 la autoevaluación de cada curso y de las evaluaciones que se realicen. El plan de formación del profesorado 
-formará parte de su proyecto educativo, conforme a lo dispuesto en el artículo 127.1 de la Ley 17/2007, de 10 
+formará parte de su proyecto educativo, conforme a lo dispuesto en el artículo 127.1 de la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 
 de diciembre. 
 00032656
 
@@ -1318,9 +1334,9 @@ Artículo 57. Asesoría de referencia.
 1. El equipo técnico de coordinación pedagógica de las escuelas infantiles de segundo ciclo, de los colegios 
 de educación primaria, de los colegios de educación infantil y primaria y de los centros públicos específicos de 
 educación especial establecidos en los artículos 78 y 88 del reglamento orgánico de estos centros, aprobado 
-por Decreto 328/2010, de 13 de julio, y el departamento de formación, evaluación e innovación educativa de 
+por [Decreto 328/2010](../04_organizacion_escolar_y_funcionamiento/D328_2010_reglamento_organico_escuelas_infantiles_colegios_primaria_andalucia.md), de 13 de julio, y el departamento de formación, evaluación e innovación educativa de 
 los institutos de educación secundaria a que se refieren los artículos 82.1 y 87 del reglamento orgánico de los 
-institutos de educación secundaria, aprobado por Decreto 327/2010, de 13 de julio, contarán para la realización 
+institutos de educación secundaria, aprobado por [Decreto 327/2010](../04_organizacion_escolar_y_funcionamiento/D327_2010_reglamento_organico_institutos_educacion_secundaria_andalucia.md), de 13 de julio, contarán para la realización 
 de sus funciones con la colaboración de un asesor o asesora de referencia, de acuerdo con lo que se determine 
 por Orden de la persona titular de la Consejería competente en materia de educación.
 2. Igualmente contarán con la colaboración de un asesor de referencia para el cumplimiento de sus 
@@ -1398,9 +1414,9 @@ Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter
 dictadas en su desarrollo, así como en la Ley 30/1992, de 26 de noviembre. 
 2. En todo caso, los datos correspondientes al personal funcionario docente dependiente de la Consejería 
 competente en materia de educación serán incorporados al registro auxiliar de personal docente del Registro 
-General de Personal de la Junta de Andalucía a que se refiere el artículo 14 de la Ley 17/2007, de 10 de 
+General de Personal de la Junta de Andalucía a que se refiere el artículo 14 de la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de 
 diciembre, a los efectos oportunos.
-3. De conformidad con lo establecido en la Ley Orgánica 15/1999, de 13 de diciembre, las personas 
+3. De conformidad con lo establecido en la [Ley Orgánica 15/1999](../../../estatal/02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md), de 13 de diciembre, las personas 
 titulares de los datos de carácter personal que sean objeto de tratamiento en el Registro tendrán, respecto de 
 dichos datos, los derechos de acceso, rectificación, cancelación y oposición en los términos previstos en dicha 
 Ley Orgánica y en el Reglamento de desarrollo de la misma.
@@ -1426,7 +1442,7 @@ Núm. 170  página 30
 Boletín Oficial de la Junta de Andalucía
 30  de  agosto  2013
 precisar el consentimiento de las personas afectadas, de acuerdo con lo establecido en el artículo 11.2 e) de la 
-Ley Orgánica 15/1999, de 13 de diciembre.
+[Ley Orgánica 15/1999](../../../estatal/02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md), de 13 de diciembre.
 3. Los datos procedentes del Registro que se utilicen en la confección de las estadísticas oficiales 
 quedarán sometidos a la preservación del secreto estadístico, en los términos establecidos en los artículos 9 al 
 13 y 25 de la Ley 4/1989, de 12 de diciembre, de Estadística de la Comunidad Autónoma de Andalucía. 
@@ -1439,7 +1455,7 @@ Artículo 64. Colaboración con las universidades y otras instituciones y entida
 1. La Consejería competente en materia de educación podrá establecer fórmulas de colaboración con 
 otras instituciones y entidades con incidencia en la formación del profesorado cuya participación sea considerada 
 de interés para el Sistema Andaluz de Formación Permanente del Profesorado.
-2. A tales efectos, de conformidad con lo establecido en el artículo 175 de la Ley 17/2007, de 10 de 
+2. A tales efectos, de conformidad con lo establecido en el artículo 175 de la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de 
 diciembre, la Consejería competente en materia de educación promoverá convenios de colaboración con las 
 universidades con la finalidad de impulsar la coordinación entre la formación inicial y permanente del profesorado.
 3. Asimismo, la Consejería competente en materia de educación impulsará la elaboración de convenios 
@@ -1456,7 +1472,7 @@ de Formación Permanente del Profesorado.
 CAPÍTULO VIII
 Evaluación
 Artículo 66. Evaluación del Sistema Andaluz de Formación Permanente del Profesorado.
-1. De conformidad con lo dispuesto en el artículo 144.4 de la Ley 17/2007, de 10 de diciembre, la 
+1. De conformidad con lo dispuesto en el artículo 144.4 de la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre, la 
 Consejería competente en materia de educación elaborará y desarrollará planes de evaluación del Sistema 
 Andaluz de Formación Permanente del Profesorado y, en particular, de los centros del profesorado. 
 2. La evaluación de los centros del profesorado deberá tener en cuenta las conclusiones obtenidas en 
@@ -1521,7 +1537,7 @@ tareas educativas dentro del sistema educativo público andaluz.
 Disposición adicional quinta. Centros de educación infantil de convenio.
 El personal de atención educativa al alumnado del primer ciclo de educación infantil en los centros 
 acogidos a convenio con la Consejería competente en materia de educación al amparo de lo previsto en el 
-artículo 51 del Decreto 149/2009, de 12 de mayo, por el que se regulan los centros que imparten el primer ciclo 
+artículo 51 del [Decreto 149/2009](../02_gestion_y_administracion_centros/D149_2009_regulacion_centros_primer_ciclo_educacion_infantil_andalucia.md), de 12 de mayo, por el que se regulan los centros que imparten el primer ciclo 
 de la educación infantil, podrá participar en las actividades formativas que se determinen del Sistema Andaluz 
 de Formación Permanente del Profesorado, de acuerdo con la normativa específica que resulte de aplicación.
 Disposición adicional sexta. Formación de los padres y madres del alumnado.
@@ -1566,7 +1582,7 @@ de Centro de acuerdo con lo recogido en este Decreto, siempre que continúen cum
 formar parte de los mismos por el sector que les corresponda.
 Disposición transitoria cuarta. Plazo para cumplir los requisitos de titulación o acreditación en el primer 
 ciclo de educación infantil.
-El plazo para cumplir los requisitos recogidos en el artículo 16 del Decreto 149/2009, de 12 de mayo, 
+El plazo para cumplir los requisitos recogidos en el artículo 16 del [Decreto 149/2009](../02_gestion_y_administracion_centros/D149_2009_regulacion_centros_primer_ciclo_educacion_infantil_andalucia.md), de 12 de mayo, 
 por el que se regulan los centros que imparten el primer ciclo de la educación infantil, por las personas a las que 
 se refiere la disposición transitoria segunda de dicho Decreto finalizará el 31 de diciembre de 2013.
 Disposición derogatoria única. Derogación normativa. 
@@ -1599,9 +1615,9 @@ El Anexo del Decreto 56/2012, de 6 de marzo, se sustituye por el Anexo III del p
 30  de  agosto  2013	
 Boletín Oficial de la Junta de Andalucía
 Núm. 170  página 33
-Disposición final segunda. Modificación del Decreto 137/2002, de 30 de abril, de apoyo a las familias 
+Disposición final segunda. Modificación del [Decreto 137/2002](../05_alumnado_y_servicios_escolares/D137_2002_apoyo_familias_andaluzas_servicios_educativos.md), de 30 de abril, de apoyo a las familias 
 andaluzas.
-Se modifica el artículo 21.ter del Decreto 137/2002, de 30 de abril, en los términos que se recogen a 
+Se modifica el artículo 21.ter del [Decreto 137/2002](../05_alumnado_y_servicios_escolares/D137_2002_apoyo_familias_andaluzas_servicios_educativos.md), de 30 de abril, en los términos que se recogen a 
 continuación:
 Uno. El apartado 2 tendrá la siguiente redacción en sus apartados a) y d):
 «a) Reunir los requisitos académicos para ser beneficiario de la cuantía fija ligada a la renta del 
@@ -1621,7 +1637,7 @@ contenidas en la Ley 10/2010, de 15 de noviembre, relativa a medidas para la asi
 víctimas del terrorismo de la Comunidad Autónoma de Andalucía.
 Disposición final cuarta. Reproducción de normativa de rango superior.
 Los artículos 3, primer párrafo, 4.1, 6.1, 8.1, primer inciso, 10.1, 13.1, 15.1, 15.3 y 22.1 reproducen 
-normas dictadas por la Comunidad Autónoma de Andalucía y recogidas en la Ley 17/2007, de 10 de diciembre, 
+normas dictadas por la Comunidad Autónoma de Andalucía y recogidas en la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre, 
 de Educación de Andalucía.
 Disposición final quinta. Desarrollo.
 Se habilita a la Consejera de Educación para dictar cuantas disposiciones sean necesarias para el 

@@ -201,9 +201,13 @@ relaciones:
   - norma_id: norm-es-1999-23750
   - norma_id: norm-es-2008-979
   - norma_id: norm-es-2007-6115
+fundamentos_derecho:
+- norma_id: norm-es-2007-19814
+- norma_id: norm-es-1999-23750
+- norma_id: norm-es-2008-979
+- norma_id: norm-es-2007-6115
 ---
-
-# Real Decreto 1495/2011, de 24 de octubre, por el que se desarrolla la Ley 37/2007, de 16 de noviembre, sobre reutilización de la información del sector público, para el ámbito del sector público estatal.
+# Real Decreto 1495/2011, de 24 de octubre, por el que se desarrolla la [Ley 37/2007](./L37_2007_reutilizacion_informacion_sector_publico.md), de 16 de noviembre, sobre reutilización de la información del sector público, para el ámbito del sector público estatal.
 
 ## Preámbulo
 

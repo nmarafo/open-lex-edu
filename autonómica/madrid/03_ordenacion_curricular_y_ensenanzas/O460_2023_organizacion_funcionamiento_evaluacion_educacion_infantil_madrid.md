@@ -31,8 +31,21 @@ relaciones:
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-l-39-2015
   - norma_id: norm-mad-d-29-2013
+fundamentos_derecho:
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-mad-d-52-2021
+- norma_id: norm-mad-l12-1999-creacion-consejo-escolar-comunidad-madrid
+- norma_id: norm-mad-l1-1983-gobierno-administracion-comunidad-madrid
+- norma_id: norm-mad-d17-2008-desarrollo-ensenanzas-educacion-infantil-madrid
+- norma_id: norm-mad-d-36-2022
+- norma_id: norm-mad-o-1190-2021
+- norma_id: norm-es-l-39-2015
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-lo-3-2018
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-rd-95-2022
+- norma_id: norm-es-2010-12201
 ---
-
 # Orden 460/2023, de 17 de febrero, de la Consejería de Educación, Universidades, Ciencia y Portavocía, por la que se regulan los aspectos de organización, funcionamiento y evaluación en la etapa de Educación Infantil en la Comunidad de Madrid
 
 ## Preámbulo
@@ -44,17 +57,17 @@ ORDEN 460/2023, de 17 de febrero, de la Vicepresidencia, Consejería de Edu-
 cación y Universidades, por la que se regulan aspectos de organización y fun-
 cionamiento, evaluación y autonomía pedagógica en la etapa de Educación In-
 fantil en la Comunidad de Madrid.
-La Ley Orgánica 2/2006, de 3 de mayo, de Educación, define la Educación Infantil
+La [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, define la Educación Infantil
 como la etapa educativa con identidad propia que atiende a niños desde el nacimiento has-
 ta los seis años de edad. En su artículo 14.1 se ordena la etapa en dos ciclos, el primero com-
 prenderá hasta los tres años de edad y el segundo desde los tres a los seis años.
-El Real Decreto 95/2022, de 1 de febrero, por el que se establece la ordenación y las
+El [Real Decreto 95/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD95_2022_establece_ordenacion_ensenanzas_minimas_educacion_infantil.md), de 1 de febrero, por el que se establece la ordenación y las
 enseñanzas mínimas de la Educación Infantil, entiende esta etapa educativa como única,
 con identidad propia, e incluye, además de las enseñanzas mínimas, otras disposiciones re-
 feridas a aspectos esenciales de la ordenación, como la evaluación, la atención a las dife-
 rencias individuales y la autonomía de los centros.
 En desarrollo del real decreto anteriormente mencionado, la Comunidad de Madrid
-aprobó el Decreto 36/2022, de 8 de junio, del Consejo de Gobierno, por el que se establece
+aprobó el [Decreto 36/2022](./D36_2022_ordenacion_curriculo_educacion_infantil_madrid.md), de 8 de junio, del Consejo de Gobierno, por el que se establece
 para la Comunidad de Madrid la ordenación y el currículo de la etapa de Educación Infantil.
 En él se disponen, además del currículo, aspectos de organización, atención a las diferen-
 cias individuales, evaluación y autonomía pedagógica de los centros, y se habilita al titular
@@ -69,9 +82,9 @@ regular las características y procedimientos de la evaluación y de los documen
 ciados; y disponer la autonomía pedagógica de los centros en la organización de las ense-
 ñanzas de Educación Infantil.
 La presente orden se adecúa a los principios de buena regulación previstos, de acuer-
-do con lo establecido en el artículo 129 de la Ley 39/2015, de 1 de octubre, del Proce-
+do con lo establecido en el artículo 129 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Proce-
 dimiento Administrativo Común de las Administraciones Públicas, y en el artículo 2 del
-Decreto 52/2021, de 24 de marzo, del Consejo de Gobierno, por el que se regula y simpli-
+[Decreto 52/2021](../01_marco_normativo_general_y_organico/D52_2021_procedimiento_elaboracion_disposiciones_normativas_madrid.md), de 24 de marzo, del Consejo de Gobierno, por el que se regula y simpli-
 fica el procedimiento de elaboración de las disposiciones normativas de carácter general de
 la Comunidad de Madrid.
 Conforme a los principios de necesidad y eficacia, esta norma atiende al interés gene-
@@ -83,15 +96,15 @@ currículo de la etapa de Educación Infantil, sin imponer obligaciones a los de
 adecuándose a la norma de rango superior. Igualmente, se garantiza el principio de seguri-
 dad jurídica, pues respeta el contenido de la normativa básica y contribuye a lograr un or-
 denamiento jurídico sólido y coherente en la regulación de las enseñanzas de Educación In-
-fantil en desarrollo del contenido del Decreto 36/2022, de 8 de junio. Por otro lado, no
+fantil en desarrollo del contenido del [Decreto 36/2022](./D36_2022_ordenacion_curriculo_educacion_infantil_madrid.md), de 8 de junio. Por otro lado, no
 impone cargas administrativas innecesarias o accesorias, ni modifica las existentes, en aplica-
 ción del principio de eficiencia. Por último, también cumple esta norma con el principio de trans-
 parencia conforme a lo establecido en la Ley 10/2019, de 10 de abril, de Transparencia y de Par-
 ticipación de la Comunidad de Madrid, habiéndose efectuado los trámites de audiencia e
 información pública a través del Portal de Transparencia de la Comunidad de Madrid, siguien-
-do, igualmente, lo dispuesto en el artículo 9 del citado Decreto 52/2021, de 24 de marzo.
+do, igualmente, lo dispuesto en el artículo 9 del citado [Decreto 52/2021](../01_marco_normativo_general_y_organico/D52_2021_procedimiento_elaboracion_disposiciones_normativas_madrid.md), de 24 de marzo.
 En el proceso de elaboración de esta orden ha emitido dictamen el Consejo Escolar de la
-Comunidad de Madrid, de acuerdo con el artículo 2.1 de la Ley 12/1999, de 29 de abril, de
+Comunidad de Madrid, de acuerdo con el artículo 2.1 de la [Ley 12/1999](../01_marco_normativo_general_y_organico/L12_1999_creacion_consejo_escolar_comunidad_madrid.md), de 29 de abril, de
 
 BOCM
 creación del Consejo Escolar de la Comunidad de Madrid, y se han recabado los informes en
@@ -100,8 +113,8 @@ sión de género, y de impacto en materia de familia, infancia y adolescencia, a
 Abogacía General, de conformidad con lo dispuesto en el artículo 4.1.a) de la Ley 3/1999,
 de 30 de marzo, de Ordenación de los Servicios Jurídicos de la Comunidad de Madrid.
 Por lo que antecede, en virtud de las competencias que atribuye el artículo 41.d) de la
-Ley 1/1983, de 13 de diciembre, del Gobierno y Administración de la Comunidad de Madrid,
-y en cumplimiento de lo establecido en la disposición final segunda del Decreto 36/2022,
+[Ley 1/1983](../01_marco_normativo_general_y_organico/L1_1983_gobierno_administracion_comunidad_madrid.md), de 13 de diciembre, del Gobierno y Administración de la Comunidad de Madrid,
+y en cumplimiento de lo establecido en la disposición final segunda del [Decreto 36/2022](./D36_2022_ordenacion_curriculo_educacion_infantil_madrid.md),
 de 8 de junio, y en el Decreto 236/2021, de 17 de noviembre, del Consejo de Gobierno, por
 el que se establece la estructura orgánica de la Consejería de Educación, Universidades, Cien-
 cia y Portavocía, en relación con el Decreto 38/2022, de 15 de junio, del Consejo de Gobier-
@@ -134,7 +147,7 @@ gratuito, de los 3 a los 6 años.
 2.
 El currículo de la etapa se organiza en áreas de aprendizaje orientadas al desarrollo
 de competencias específicas del alumnado. Los contenidos y criterios de evaluación de las
-áreas determinados para cada uno de los ciclos contenidos en el Decreto 36/2022, de 8 de
+áreas determinados para cada uno de los ciclos contenidos en el [Decreto 36/2022](./D36_2022_ordenacion_curriculo_educacion_infantil_madrid.md), de 8 de
 junio, serán los referentes para la programación y planificación de la enseñanza.
 3.
 En esta etapa se pondrá especial énfasis en los principios de equidad e inclusión
@@ -223,7 +236,7 @@ centes las informaciones relacionadas con el proceso educativo que estos le prop
 
 1.
 La propuesta pedagógica, que forma parte del proyecto educativo, es el documento
-institucional en el que los centros concretarán el currículo establecido en el Decreto 36/2022,
+institucional en el que los centros concretarán el currículo establecido en el [Decreto 36/2022](./D36_2022_ordenacion_curriculo_educacion_infantil_madrid.md),
 de 8 de junio, y que recoge el carácter educativo de los dos ciclos de esta etapa. En desarro-
 llo del citado decreto, constará, al menos, de los siguientes elementos:
 a)
@@ -290,7 +303,7 @@ Para el primer ciclo de la etapa, el horario lectivo en los centros sostenidos c
 fondos públicos se regulará por parte de la consejería con competencia en materia de Edu-
 cación. En el caso de centros privados no sostenidos con fondos públicos, la distribución
 horaria para este ciclo permitirá la efectiva implantación y desarrollo del currículo estable-
-cido en el Decreto 36/2022, de 8 de junio, y comprenderá un mínimo de cuatro horas dia-
+cido en el [Decreto 36/2022](./D36_2022_ordenacion_curriculo_educacion_infantil_madrid.md), de 8 de junio, y comprenderá un mínimo de cuatro horas dia-
 rias consecutivas de lunes a viernes.
 5.
 En el segundo ciclo de la etapa, el horario lectivo y los tiempos de recreo abarca-
@@ -429,7 +442,7 @@ e)
 Permanencia de un año más en la etapa, entendida como el período de escolariza-
 ción que transcurre en un curso académico por debajo del que le corresponde por
 edad cronológica. En el primer ciclo de la etapa, se atenderá a lo establecido en la
-Orden 1190/2021, de 29 de abril, de la Consejería de Educación y Juventud, por
+[Orden 1190/2021](./O1190_2021_regulacion_bilinguismo_centros_concertados_madrid.md), de 29 de abril, de la Consejería de Educación y Juventud, por
 la que se regula la medida de permanencia de un año más en el primer ciclo de la
 etapa de Educación Infantil en la Comunidad de Madrid. En el segundo ciclo, la
 permanencia del alumnado se regirá por lo dispuesto en el artículo 13 de la pre-
@@ -475,7 +488,7 @@ sean operativos en la Comunidad de Madrid y expedidos por prestadores incluidos 
 firma electrónica que la Comunidad de Madrid considere valido en los términos y condi-
 ciones que se establezcan específicamente para cada tipo de firma.
 5.
-Al ser los solicitantes sujetos del artículo 14.2 de la Ley 39/2015, obligados a re-
+Al ser los solicitantes sujetos del artículo 14.2 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), obligados a re-
 lacionarse electrónicamente con la Administración, la notificación se realizará a través de
 medios electrónicos de acuerdo con lo establecido en el artículo 43 del mismo texto legal.
 A tal efecto, el solicitante está obligado a estar dado de alta en el servicio de Notificaciones
@@ -491,7 +504,7 @@ ción de autorización de permanencia de un año más en la etapa, e informará 
 tutores legales de la citada resolución.
 8.
 La medida de permanencia de un año más en el segundo ciclo de la etapa podrá ex-
-tinguirse, de acuerdo con el procedimiento establecido en el artículo 8 de la Orden 1190/2021,
+tinguirse, de acuerdo con el procedimiento establecido en el artículo 8 de la [Orden 1190/2021](./O1190_2021_regulacion_bilinguismo_centros_concertados_madrid.md),
 de 29 de abril.
 
 #### Artículo 14. Medidas específicas de atención al alumnado con necesidades educativas
@@ -530,14 +543,14 @@ BOCM
 por condición personal de prematuridad
 1.
 El alumnado con nacimiento prematuro en los términos definidos en el artículo 4.b)
-de la Orden 1190/2021, de 29 de abril, podrá incorporarse al primer ciclo de la etapa un año
+de la [Orden 1190/2021](./O1190_2021_regulacion_bilinguismo_centros_concertados_madrid.md), de 29 de abril, podrá incorporarse al primer ciclo de la etapa un año
 por debajo de su edad cronológica, previa autorización, de acuerdo con el procedimiento
 establecido en la citada orden.
 2.
 La incorporación de este alumnado un año por debajo de su edad cronológica en el
 primer ciclo podrá extinguirse a lo largo de la etapa según el procedimiento establecido en el
 
-#### Artículo 8. de la Orden 1190/2021, de 29 de abril. De no extinguirse durante la etapa, se extin-
+#### Artículo 8. de la [Orden 1190/2021](./O1190_2021_regulacion_bilinguismo_centros_concertados_madrid.md), de 29 de abril. De no extinguirse durante la etapa, se extin-
 
 guirá de oficio en los términos indicados en el mismo artículo, al objeto de que el alumnado
 comience la Educación Primaria en el año natural en el que cumpla 6 años de edad.
@@ -555,7 +568,7 @@ La observación directa y sistemática de las diferentes situaciones de aprendiz
 tividades planteadas al alumnado constituirá la técnica principal del proceso de evaluación.
 3.
 Se tomarán como referentes de evaluación los criterios de evaluación recogidos en
-el Decreto 36/2022, de 8 de junio, para cada ciclo en cada una de las áreas, al objeto de ase-
+el [Decreto 36/2022](./D36_2022_ordenacion_curriculo_educacion_infantil_madrid.md), de 8 de junio, para cada ciclo en cada una de las áreas, al objeto de ase-
 gurar una evaluación objetiva.
 4.
 Al término de la etapa, una valoración positiva de todas las áreas que la confor-
@@ -584,7 +597,7 @@ apellidos del firmante, así como la referencia a su cargo o atribución docente
 3.
 Los documentos de evaluación podrán ser emitidos en soporte electrónico, siempre
 que queden garantizadas su autenticidad, integridad y conservación y se cumplan las garantías
-y los requisitos establecidos por la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de
+y los requisitos establecidos por la [Ley Orgánica 3/2018](../../../estatal/02_gestion_y_administracion_centros/LO3_2018_proteccion_datos_personales_garantia_derechos_digitales.md), de 5 de diciembre, de Protección de
 Datos Personales y garantía de los derechos digitales y su normativa de desarrollo.
 4.
 El Servicio Territorial de Inspección Educativa asesorará y supervisará el proce-
@@ -655,7 +668,7 @@ pertinente.
 de las enseñanzas de Educación Infantil
 1.
 En el marco del currículo, la organización de las enseñanzas y el horario lectivo se-
-manal que se regulan en el Decreto 36/2022, de 8 de junio, los centros docentes que impartan
+manal que se regulan en el [Decreto 36/2022](./D36_2022_ordenacion_curriculo_educacion_infantil_madrid.md), de 8 de junio, los centros docentes que impartan
 la etapa de Educación Infantil en la Comunidad de Madrid dispondrán de autonomía pedagó-
 gica, de organización y de gestión para adoptar, en concreto, las siguientes decisiones:
 
@@ -680,11 +693,11 @@ Diseñar e implantar métodos pedagógicos y didácticos propios.
 Corresponde a los centros docentes, en virtud de su autonomía pedagógica, deci-
 dir los materiales educativos y, en su caso, los libros de texto que hayan de utilizarse en el
 desarrollo de las áreas. Dichos materiales se adaptarán, en todo caso, al currículo dispues-
-to en el Decreto 36/2022, de 8 de junio, de acuerdo con lo establecido en la disposición adi-
-cional cuarta de la Ley Orgánica 2/2006, de 3 de mayo.
+to en el [Decreto 36/2022](./D36_2022_ordenacion_curriculo_educacion_infantil_madrid.md), de 8 de junio, de acuerdo con lo establecido en la disposición adi-
+cional cuarta de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo.
 3.
 La planificación y programación de la atención educativa a la que se refiere el ar-
-tículo 8.5 del Decreto 36/2022, de 8 de junio, se incluirá en el proyecto educativo de cada
+tículo 8.5 del [Decreto 36/2022](./D36_2022_ordenacion_curriculo_educacion_infantil_madrid.md), de 8 de junio, se incluirá en el proyecto educativo de cada
 centro.
 
 #### Artículo 23. Enseñanzas en lengua extranjera
@@ -694,7 +707,7 @@ La impartición de una parte del currículo en una lengua extranjera en el segun
 ciclo de la etapa atenderá a lo siguiente:
 a)
 La impartición de áreas o, en su caso, bloques de contenido en lengua extranjera
-no supondrá modificación alguna del currículo establecido en el Decreto 36/2022,
+no supondrá modificación alguna del currículo establecido en el [Decreto 36/2022](./D36_2022_ordenacion_curriculo_educacion_infantil_madrid.md),
 de 8 de junio.
 b)
 No podrán impartirse en lengua extranjera los contenidos recogidos en el bloque D
@@ -739,7 +752,7 @@ de datos personales del alumnado
 La obtención y tratamiento de los datos personales del alumnado y, en particular, los
 contenidos en los documentos oficiales de evaluación, su cesión de unos centros a otros y
 la adopción de medidas que garanticen la seguridad y confidencialidad de dichos datos, es-
-tará a lo dispuesto en la disposición adicional vigesimotercera de la Ley Orgánica 2/2006,
+tará a lo dispuesto en la disposición adicional vigesimotercera de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md),
 de 3 de mayo, así como la Ley 3/2018, de 5 de diciembre, de Protección de Datos Persona-
 les y garantía de los derechos digitales y disposiciones normativas que se dicten en su de-
 sarrollo.
@@ -758,13 +771,13 @@ Se deroga la Orden 680/2009, de 19 de febrero, de la Consejería de Educación, 
 que se regulan para la Comunidad de Madrid la evaluación en la Educación Infantil y los
 documentos de aplicación.
 
-#### Disposición FINAL PRIMERA. Modificación de la Orden 1190/2021, de 29 de abril, de la Consejería de Educación
+#### Disposición FINAL PRIMERA. Modificación de la [Orden 1190/2021](./O1190_2021_regulacion_bilinguismo_centros_concertados_madrid.md), de 29 de abril, de la Consejería de Educación
 
 y Juventud, por la que se regula la medida de permanencia de un año más en el primer
 ciclo de la etapa de Educación Infantil en la Comunidad de Madrid
 Uno.
 El título de la orden queda redactado en los siguientes términos:
-“Orden 1190/2021, de 29 de abril, de la Consejería de Educación y Juventud, por la
+“[Orden 1190/2021](./O1190_2021_regulacion_bilinguismo_centros_concertados_madrid.md), de 29 de abril, de la Consejería de Educación y Juventud, por la
 que se regula la medida de permanencia de un año más en el primer ciclo de la etapa de Edu-
 cación Infantil, así como la extinción de la medida de permanencia de un año más en la eta-
 pa de Educación Infantil en la Comunidad de Madrid”.
@@ -790,7 +803,7 @@ Objeto y ámbito de aplicación.
 1.
 La presente orden tiene por objeto regular la medida de permanencia de un año
 más en el primer ciclo de la etapa de Educación Infantil, que se extiende de los cero a los
-tres años de edad, de acuerdo con el artículo 14.1 de la Ley Orgánica 2/2006, de 3 de mayo,
+tres años de edad, de acuerdo con el artículo 14.1 de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo,
 
 BOCM
 así como la extinción de la medida de permanencia de un año más en la etapa de Educación
@@ -850,7 +863,7 @@ e)
 El alumnado escolarizado en el segundo curso del segundo ciclo se escolarizará en
 el primer curso del primer ciclo de la etapa de Educación Primaria”.
 Cinco.
-Se modifican los anexos II, III, IV y V de la Orden 1190/2021, de 29 de abril,
+Se modifican los anexos II, III, IV y V de la [Orden 1190/2021](./O1190_2021_regulacion_bilinguismo_centros_concertados_madrid.md), de 29 de abril,
 por los anexos VI, VII, VIII y IX, respectivamente, de la presente orden.
 
 #### Disposición FINAL SEGUNDA. Habilitación para la aplicación y ejecución
@@ -966,8 +979,8 @@ ejercicio de poderes públicos.
 Puede ejercer, si lo desea, los derechos de acceso, rectificación y supresión de datos, así como solicitar que se limite el
 tratamiento de sus datos personales, oponerse al mismo, solicitar en su caso la portabilidad de sus datos, así como a no ser
 objeto de una decisión individual basada únicamente en el tratamiento automatizado, incluida la elaboración de perfiles.
-Según la Ley 39/2015, el RGPD y la Ley Orgánica 3/2018, puede ejercer sus derechos por Registro Electrónico o Registro
-Presencial o en los lugares y formas previstos en el artículo 16.4 de la Ley 39/2015, preferentemente mediante el formulario de
+Según la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), el RGPD y la [Ley Orgánica 3/2018](../../../estatal/02_gestion_y_administracion_centros/LO3_2018_proteccion_datos_personales_garantia_derechos_digitales.md), puede ejercer sus derechos por Registro Electrónico o Registro
+Presencial o en los lugares y formas previstos en el artículo 16.4 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), preferentemente mediante el formulario de
 solicitud “Ejercicio de derechos en materia de protección de datos personales”.
 5. Tratamientos que incluyen decisiones automatizadas, incluida la elaboración de perfiles, con efectos jurídicos o
 relevantes.
@@ -1168,7 +1181,7 @@ Y UNIVERSIDADES
 DILIGENCIA A EXTENDER EN EL EXPEDIENTE ACADÉMICO DE EDUCACIÓN INFANTIL DE LOS ALUMNOS
 QUE HAN CURSADO ENSEÑANZAS DEL SEGUNDO CICLO EN UNA LENGUA EXTRANJERA
 El/la alumno/a titular de este Expediente Académico de Educación Infantil ha cursado en el idioma
-____________________ áreas/bloques del currículo regulado por el Decreto 36/2022, de 8 de junio, del Consejo
+____________________ áreas/bloques del currículo regulado por el [Decreto 36/2022](./D36_2022_ordenacion_curriculo_educacion_infantil_madrid.md), de 8 de junio, del Consejo
 de Gobierno, por el que se establece para la Comunidad de Madrid la ordenación y el currículo de la etapa de
 Educación Infantil, en los cursosii
 ______________________________________________________ del
@@ -1183,11 +1196,11 @@ VICEPRESIDENCIA,
 CONSEJERÍA DE EDUCACIÓN
 Y UNIVERSIDADES
 
-## Anexo VI. Modificación del Anexo II de la Orden 1190/2021, de 29 de abril
+## Anexo VI. Modificación del Anexo II de la [Orden 1190/2021](./O1190_2021_regulacion_bilinguismo_centros_concertados_madrid.md), de 29 de abril
 
 ## Anexo II. EDUCACIÓN INFANTIL
 
-(Orden 1190/2021, de 29 de Abril)
+([Orden 1190/2021](./O1190_2021_regulacion_bilinguismo_centros_concertados_madrid.md), de 29 de Abril)
 INFORME DEL PERSONAL EDUCATIVO CON ATENCIÓN DIRECTA AL ALUMNO/A
 NIA:
 Datos personales del alumno/a
@@ -1234,7 +1247,7 @@ VICEPRESIDENCIA,
 CONSEJERÍA DE EDUCACIÓN
 Y UNIVERSIDADES
 
-## Anexo VII. Modificación del Anexo III de la Orden 1190/2021, de 29 de abril
+## Anexo VII. Modificación del Anexo III de la [Orden 1190/2021](./O1190_2021_regulacion_bilinguismo_centros_concertados_madrid.md), de 29 de abril
 
 ## Anexo III. EDUCACIÓN INFANTIL
 
@@ -1260,7 +1273,7 @@ documentación:
 ܆Solicitud de los padres/madres o tutores legales del alumno/a. (ANEXO I)
 ܆Informe del personal educativo con atención directa al alumno/a. (ANEXO II)
 Considerando, además, que:
-La solicitud SI ܆NO ܆se ajusta en fondo y forma a lo establecido en la Orden 1190/2021 de 29 de abril, de la
+La solicitud SI ܆NO ܆se ajusta en fondo y forma a lo establecido en la [Orden 1190/2021](./O1190_2021_regulacion_bilinguismo_centros_concertados_madrid.md) de 29 de abril, de la
 Consejería de Educación y Juventud, por la que se regula la medida de permanencia de un año más en el primer
 ciclo de la Etapa de Educación Infantil en la Comunidad de Madrid.
 ܆Los derechos del alumno/a y de su familia han sido respetados.
@@ -1280,7 +1293,7 @@ VICEPRESIDENCIA,
 CONSEJERÍA DE EDUCACIÓN
 Y UNIVERSIDADES
 
-## Anexo VIII. MODIFICACIÓN DEL ANEXO IV DE LA ORDEN 1190/2021, DE 29 DE ABRIL
+## Anexo VIII. MODIFICACIÓN DEL ANEXO IV DE LA [ORDEN 1190/2021](./O1190_2021_regulacion_bilinguismo_centros_concertados_madrid.md), DE 29 DE ABRIL
 
 ## Anexo IV. 1.- Datos del alumno/a
 
@@ -1393,8 +1406,8 @@ ejercicio de poderes públicos.
 Puede ejercer, si lo desea, los derechos de acceso, rectificación y supresión de datos, así como solicitar que se limite el
 tratamiento de sus datos personales, oponerse al mismo, solicitar en su caso la portabilidad de sus datos, así como a no ser
 objeto de una decisión individual basada únicamente en el tratamiento automatizado, incluida la elaboración de perfiles.
-Según la Ley 39/2015, el RGPD y la Ley Orgánica 3/2018, puede ejercer sus derechos por Registro Electrónico o Registro
-Presencial o en los lugares y formas previstos en el artículo 16.4 de la Ley 39/2015, preferentemente mediante el formulario de
+Según la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), el RGPD y la [Ley Orgánica 3/2018](../../../estatal/02_gestion_y_administracion_centros/LO3_2018_proteccion_datos_personales_garantia_derechos_digitales.md), puede ejercer sus derechos por Registro Electrónico o Registro
+Presencial o en los lugares y formas previstos en el artículo 16.4 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), preferentemente mediante el formulario de
 solicitud “Ejercicio de derechos en materia de protección de datos personales”.
 5. Tratamientos que incluyen decisiones automatizadas, incluida la elaboración de perfiles, con efectos jurídicos o
 relevantes.
@@ -1428,7 +1441,7 @@ VICEPRESIDENCIA,
 CONSEJERÍA DE EDUCACIÓN
 Y UNIVERSIDADES
 
-## Anexo IX. MODIFICACIÓN DEL ANEXO V DE LA ORDEN 1190/2021, DE 29 DE ABRIL
+## Anexo IX. MODIFICACIÓN DEL ANEXO V DE LA [ORDEN 1190/2021](./O1190_2021_regulacion_bilinguismo_centros_concertados_madrid.md), DE 29 DE ABRIL
 
 ## Anexo V. EDUCACIÓN INFANTIL
 
@@ -1468,10 +1481,10 @@ Y UNIVERSIDADES
 
 DILIGENCIA PARA EL CIERRE DEL EXPEDIENTE PERSONAL DE EDUCACIÓN INFANTIL
 Diligencia por la que se hace constar que el presente Expediente Personal, abierto en el marco del Real Decreto
-1630/2006, de 29 de diciembre (BOE del 4 de enero de 2007), del Decreto 17/2008, de 6 de marzo (BOCM de 12
+1630/2006, de 29 de diciembre (BOE del 4 de enero de 2007), del [Decreto 17/2008](./D17_2008_desarrollo_ensenanzas_educacion_infantil_madrid.md), de 6 de marzo (BOCM de 12
 de marzo de 2008) y de la Orden ORDEN 680/2009, de 19 de febrero QUEDA CERRADO por la entrada en vigor
 de la nueva ordenación académica de acuerdo con la Ley Orgánica 3/2020, de 29 de diciembre, por la que se
-modifica la Ley Orgánica 2/2006, de 3 de mayo, de Educación (BOE del 30 de diciembre de 2020)y su normativa de
+modifica la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación (BOE del 30 de diciembre de 2020)y su normativa de
 desarrollo.
 ____ de___________________ de 20 ____
 VºBº El/La Director/a

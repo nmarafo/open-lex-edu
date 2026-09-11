@@ -26,8 +26,20 @@ tags:
 - eoi
 - evaluacion_idiomas
 - madrid
+fundamentos_derecho:
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-mad-l12-1999-creacion-consejo-escolar-comunidad-madrid
+- norma_id: norm-mad-l1-1983-gobierno-administracion-comunidad-madrid
+- norma_id: norm-mad-d106-2018-ordenacion-ensenanzas-idiomas-regimen-especial-madrid
+- norma_id: norm-es-l-39-2015
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-lo-3-2018
+- norma_id: norm-es-2016-3229
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-rd-1041-2017
+- norma_id: norm-es-2019-317
+- norma_id: norm-es-2010-12201
 ---
-
 # Regulación enseñanzas idiomas– Orden 2414/2019, de 1 de agosto, del Consejero de Educación e Investigación, por la que se regula la evaluación y certificación de los niveles básico, intermedio y avanzado de las enseñanzas de idiomas de régimen especial en la Comunidad de Madrid
 
 ## Preámbulo
@@ -39,8 +51,8 @@ ORDEN 2414/2019, de 1 de agosto, del Consejero de Educación e Investigación,
 por la que se regula la evaluación y certificación de los niveles básico, interme-
 dio y avanzado de las enseñanzas de idiomas de régimen especial en la Comuni-
 dad de Madrid.
-La Ley Orgánica 2/2006, de 3 de mayo, de Educación (en adelante LOE), modificada
-por la Ley Orgánica 8/2013, de 9 de diciembre, para la Mejora de la Calidad Educativa, re-
+La [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación (en adelante LOE), modificada
+por la [Ley Orgánica 8/2013](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md), de 9 de diciembre, para la Mejora de la Calidad Educativa, re-
 gula, entre otros aspectos, la organización de las enseñanzas de idiomas de régimen espe-
 cial. Asimismo, dispone que las Administraciones educativas regularán las pruebas termi-
 nales para la obtención de los certificados oficiales de los niveles básico, intermedio y
@@ -49,16 +61,16 @@ A su vez, el Ministerio de Educación, Cultura y Deporte ha regulado en el Real 
 to 1041/2017, de 22 de diciembre, por el que se fijan las exigencias mínimas del nivel bá-
 sico a efectos de certificación, se establece el currículo básico de los niveles Intermedio B1,
 Intermedio B2, Avanzado C1, y Avanzado C2, de las Enseñanzas de idiomas de régimen
-especial reguladas por la Ley Orgánica 2/2006, de 3 de mayo, de Educación, y se estable-
+especial reguladas por la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, y se estable-
 cen las equivalencias entre las Enseñanzas de idiomas de régimen especial reguladas en di-
 versos planes de estudios y las de este real decreto, determinados aspectos relacionados con
 la certificación de los mencionados niveles y, en su capítulo cuarto, establece los documen-
 tos oficiales de evaluación.
-Por su parte, el Real Decreto 1/2019, de 11 de enero, establece los principios básicos
+Por su parte, el [Real Decreto 1/2019](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1_2019_establecen_principios_basicos_comunes_evaluacion_aplicables.md), de 11 de enero, establece los principios básicos
 comunes de evaluación aplicables a las pruebas de certificación oficial de los niveles Inter-
 medio B1, Intermedio B2, Avanzado C1, y Avanzado C2 de las enseñanzas de idiomas de
 régimen especial.
-En el ámbito de la Comunidad de Madrid, el Decreto 106/2018, de 19 de junio, del
+En el ámbito de la Comunidad de Madrid, el [Decreto 106/2018](./D106_2018_ordenacion_ensenanzas_idiomas_regimen_especial_madrid.md), de 19 de junio, del
 Consejo de Gobierno, por el que se ordenan las enseñanzas de idiomas de régimen especial
 y se establecen los currículos de los niveles básico, intermedio y avanzado en la Comuni-
 dad de Madrid, determina, en su capítulo cuarto, las características de la evaluación y cer-
@@ -74,7 +86,7 @@ tivamente y los documentos académicos y de evaluación. La finalidad de la pres
 es garantizar una evaluación y unas pruebas de certificación de calidad que favorezcan la
 obtención de los mejores resultados en el aprendizaje de idiomas.
 La presente norma se adecua a los siguientes principios de buena regulación, de acuer-
-do con lo previsto en el artículo 129 de la Ley 39/2015, de 1 de octubre, del Procedimien-
+do con lo previsto en el artículo 129 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimien-
 to Administrativo Común de las Administraciones Públicas:
 El principio de necesidad y eficacia por razón de interés general, al tratarse de una norma
 que desarrolla la reglamentación vigente de las enseñanzas de idiomas de régimen especial.
@@ -86,22 +98,22 @@ extralimitarse en su cometido.
 El principio de seguridad jurídica, por cuanto respeta lo contenido en los reales decre-
 tos 1041/2017, de 22 de diciembre y 1/2019, de 11 de enero, al establecer las característi-
 cas de la evaluación y el procedimiento de certificación dentro de lo regulado por la norma
-básica, así como respetando lo establecido en el Decreto 106/2018, de 19 de junio.
+básica, así como respetando lo establecido en el [Decreto 106/2018](./D106_2018_ordenacion_ensenanzas_idiomas_regimen_especial_madrid.md), de 19 de junio.
 
 BOCM
 El principio de transparencia, por cuanto se ha dado cumplimiento al trámite de
 audiencia e información pública a través del Portal de Transparencia de la Comunidad de
-Madrid, conforme a lo dispuesto en los artículos 133.2 de la citada Ley 39/2015, de 1 de
+Madrid, conforme a lo dispuesto en los artículos 133.2 de la citada [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de
 octubre, y del artículo 26.6 de la Ley 50/1997, de 27 de noviembre, de Gobierno.
 El principio de eficiencia pues la norma evita cargas administrativas innecesarias o ac-
 cesorias y racionaliza, en su aplicación, la gestión de los recursos públicos.
 Para elaborar esta Orden ha emitido dictamen el Consejo Escolar de la Comunidad de
-Madrid, de acuerdo con lo establecido en el artículo 2.1.b) de la Ley 12/1999, de 29 de abril,
+Madrid, de acuerdo con lo establecido en el artículo 2.1.b) de la [Ley 12/1999](../01_marco_normativo_general_y_organico/L12_1999_creacion_consejo_escolar_comunidad_madrid.md), de 29 de abril,
 de Creación del Consejo Escolar de la Comunidad de Madrid, modificada por el artículo 29
 de la Ley 9/2010, de 23 de diciembre, de Medidas Fiscales, Administrativas y Racionaliza-
 ción del Sector Público.
-Por todo lo anterior, en virtud de las competencias que atribuye el Decreto 106/2018,
-de 19 de junio, del Consejo de Gobierno, el artículo 41.d), de la Ley 1/1983, de 13 de diciem-
+Por todo lo anterior, en virtud de las competencias que atribuye el [Decreto 106/2018](./D106_2018_ordenacion_ensenanzas_idiomas_regimen_especial_madrid.md),
+de 19 de junio, del Consejo de Gobierno, el artículo 41.d), de la [Ley 1/1983](../01_marco_normativo_general_y_organico/L1_1983_gobierno_administracion_comunidad_madrid.md), de 13 de diciem-
 bre, de Gobierno y Administración de la Comunidad de Madrid, y el Decreto 127/2017, de 24
 de octubre, del Consejo de Gobierno, por el que se establece la estructura orgánica de la Con-
 sejería de Educación e Investigación,
@@ -358,7 +370,7 @@ bas indicadas en el apartado anterior no será dispensado de la realización de 
 partes de las que conste la correspondiente prueba, que será única para todo el alumnado.
 3.
 Las adaptaciones deberán garantizar que el alumnado ha alcanzado las competencias
-establecidas en el Decreto 106/2018, de 19 de junio, para cada uno de los cursos y niveles.
+establecidas en el [Decreto 106/2018](./D106_2018_ordenacion_ensenanzas_idiomas_regimen_especial_madrid.md), de 19 de junio, para cada uno de los cursos y niveles.
 
 BOCM
 
@@ -494,7 +506,7 @@ to positivo.
 El nivel de competencia que evalúa cada prueba de certificación se establece con
 referencia a los objetivos, las competencias, los contenidos y los criterios de evaluación de
 los niveles y actividades de lengua básico A2, intermedio B1, intermedio B2, avanzado C1
-y avanzado C2, según se definen en el Decreto 106/2018, de 19 de junio.
+y avanzado C2, según se definen en el [Decreto 106/2018](./D106_2018_ordenacion_ensenanzas_idiomas_regimen_especial_madrid.md), de 19 de junio.
 5.
 El alumnado de cada idioma y nivel realizará la misma prueba de certificación en
 cada convocatoria.
@@ -534,7 +546,7 @@ La dirección general con competencias en estas enseñanzas elaborará y hará p
 blico, para cada curso académico, un documento de especificaciones que detallará las ca-
 racterísticas de las pruebas de certificación, y recogerá, al menos, los aspectos fijados en el
 
-#### Artículo 4. 6 del Real Decreto 1/2019, de 11 de enero.
+#### Artículo 4. 6 del [Real Decreto 1/2019](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1_2019_establecen_principios_basicos_comunes_evaluacion_aplicables.md), de 11 de enero.
 
 #### Artículo 21. Información a los candidatos
 
@@ -660,7 +672,7 @@ rrespondiente.
 La dirección general con competencias en estas enseñanzas establecerá una guía de
 elaboración de pruebas de certificación en la que recogerá las directrices para la elaboración
 de dichas pruebas, que deberán ser tenidas en cuenta por el profesorado en su elaboración, de
-acuerdo con lo recogido en el artículo 5.2 del Real Decreto 1/2019, de 11 de enero.
+acuerdo con lo recogido en el artículo 5.2 del [Real Decreto 1/2019](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1_2019_establecen_principios_basicos_comunes_evaluacion_aplicables.md), de 11 de enero.
 3.
 La dirección general con competencias en estas enseñanzas coordinará la elabora-
 ción de las pruebas de certificación de los idiomas impartidos en más de una EOI.
@@ -955,7 +967,7 @@ tablecido en el apartado siguiente, el Director de Área Territorial adoptará l
 tinente, que será motivada en todo caso, y se comunicará inmediatamente al director de la
 EOI para su aplicación y traslado al interesado. La resolución del Director de Área Territo-
 rial pondrá fin a la vía administrativa, sin perjuicio que el interesado pueda interponer los
-recursos previstos en la ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Co-
+recursos previstos en la [ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Administrativo Co-
 mún de las Administraciones Públicas.
 4.
 El Servicio de Inspección Educativa de la Dirección de Área Territorial analizará
@@ -990,7 +1002,7 @@ BOCM
 1.
 Los documentos oficiales de evaluación para las enseñanzas de idiomas de régi-
 men especial son el expediente académico y las actas de calificación, según lo establecido
-en el artículo 16 del Decreto 106/2018, de 19 de junio.
+en el artículo 16 del [Decreto 106/2018](./D106_2018_ordenacion_ensenanzas_idiomas_regimen_especial_madrid.md), de 19 de junio.
 2.
 La dirección general con competencias en estas enseñanzas establecerá los modelos
 de los documentos de evaluación, en los se deberá recoger siempre la norma básica y la norma
@@ -1029,7 +1041,7 @@ rrespondiente.
 1.
 El expediente académico es el documento básico que garantiza el traslado del
 alumnado entre los distintos centros y en el que consta la estructura de niveles y cursos, así
-como el número mínimo de horas lectivas por curso establecido por el Decreto 106/2018,
+como el número mínimo de horas lectivas por curso establecido por el [Decreto 106/2018](./D106_2018_ordenacion_ensenanzas_idiomas_regimen_especial_madrid.md),
 de 19 de junio.
 2.
 El alumnado dispondrá de un único expediente para las enseñanzas de idiomas de
@@ -1037,7 +1049,7 @@ régimen especial que se abrirá en el momento de formalizar matrícula.
 3.
 El expediente académico será común para todas las EOI de la Comunidad de
 Madrid y deberá incluir, al menos, los aspectos establecidos en el apartado 3 del artículo 17
-del Decreto 106/2018, de 19 de junio.
+del [Decreto 106/2018](./D106_2018_ordenacion_ensenanzas_idiomas_regimen_especial_madrid.md), de 19 de junio.
 4.
 El alumnado podrá solicitar certificación de los datos recogidos en su expediente aca-
 démico, que será firmada por el secretario del centro con el visto bueno del director del mismo.
@@ -1059,7 +1071,7 @@ Jefe del Departamento.
 3.
 Las actas de calificación correspondientes a las pruebas de certificación, tanto de
 alumnos oficiales como de libres, seguirá lo establecido en el apartado 9 del artículo 8 del
-Real Decreto 1041/2017, de 22 de diciembre.
+[Real Decreto 1041/2017](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1041_2017_exigencias_minimas_curriculo_basico_idiomas_regimen_especial.md), de 22 de diciembre.
 4.
 Los resultados consignados en las actas de calificación a los que se refieren los
 apartados anteriores se reflejarán en los expedientes académicos de los alumnos.
@@ -1075,7 +1087,7 @@ que establezca dicha dirección general.
 #### Artículo 47. Certificados de nivel
 
 1.
-El Decreto 106/2018, de 19 de junio, en su artículo 20 establece la denominación
+El [Decreto 106/2018](./D106_2018_ordenacion_ensenanzas_idiomas_regimen_especial_madrid.md), de 19 de junio, en su artículo 20 establece la denominación
 de los certificados de nivel como: Certificado de nivel básico A2, Certificado de nivel in-
 termedio B1, Certificado de nivel intermedio B2, Certificado de nivel avanzado C1 y Cer-
 tificado de nivel avanzado C2.
@@ -1107,7 +1119,7 @@ petencias en estas enseñanzas.
 
 1.
 El alumnado podrá trasladarse de EOI para proseguir sus estudios conforme a lo
-establecido en el artículo 19 del Decreto 106/2018, de 19 de junio.
+establecido en el artículo 19 del [Decreto 106/2018](./D106_2018_ordenacion_ensenanzas_idiomas_regimen_especial_madrid.md), de 19 de junio.
 2.
 El traslado se realizará antes del comienzo de las actividades lectivas, en los tér-
 minos que establezca la consejería con competencias en Educación en el procedimiento de
@@ -1169,8 +1181,8 @@ cumentación del traslado y archivará una copia del mismo.
 
 En lo referente a la obtención de los datos personales del alumnado, a la cesión de los
 mismos de unos centros a otros y a la seguridad y confidencialidad de estos, se estará a lo
-dispuesto en la Disposición adicional 23.a de la Ley Orgánica 2/2006, de 3 de mayo, de
-Educación y en la Ley Orgánica 3/2018, de 5 de diciembre, de protección de datos perso-
+dispuesto en la Disposición adicional 23.a de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de
+Educación y en la [Ley Orgánica 3/2018](../../../estatal/02_gestion_y_administracion_centros/LO3_2018_proteccion_datos_personales_garantia_derechos_digitales.md), de 5 de diciembre, de protección de datos perso-
 nales y garantía de derechos digitales.
 
 #### Disposición ADICIONAL SEGUNDA. Utilización de las pruebas de certificación

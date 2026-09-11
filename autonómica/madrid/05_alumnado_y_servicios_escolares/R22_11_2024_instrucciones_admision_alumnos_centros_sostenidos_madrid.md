@@ -28,22 +28,33 @@ tags:
 - centros_sostenidos
 - escolarizacion
 - madrid
+fundamentos_derecho:
+- norma_id: norm-mad-d248-2023
+- norma_id: norm-mad-d-28-2024
+- norma_id: norm-mad-l1-2022
+- norma_id: norm-mad-d-29-2013
+- norma_id: norm-mad-o1240-2013
+- norma_id: norm-mad-o-2808-2023
+- norma_id: norm-mad-r22-11-2024-instrucciones-admision-alumnos-bachillerato-madrid
+- norma_id: norm-mad-d23-2023
+- norma_id: norm-es-l-39-2015
+- norma_id: norm-es-lo-1-2004
+- norma_id: norm-es-2013-12632
 ---
-
-# Resolución de 22 de noviembre de 2024, de la Viceconsejería de Política y Organización Educativa, por la que se dictan instrucciones sobre la participación en el proceso de admisión de alumnos en centros docentes sostenidos con fondos públicos que imparten segundo ciclo de Educación Infantil, Educación Primaria, Educación Secundaria Obligatoria, Bachillerato, así como las etapas de Educación Especial en la Comunidad de Madrid para el curso 2025-2026
+# [Resolución de 22 de noviembre de 2024](./R22_11_2024_instrucciones_admision_alumnos_bachillerato_madrid.md), de la Viceconsejería de Política y Organización Educativa, por la que se dictan instrucciones sobre la participación en el proceso de admisión de alumnos en centros docentes sostenidos con fondos públicos que imparten segundo ciclo de Educación Infantil, Educación Primaria, Educación Secundaria Obligatoria, Bachillerato, así como las etapas de Educación Especial en la Comunidad de Madrid para el curso 2025-2026
 
 ## Preámbulo
 
 BOCM-20241213-26
 BOCM
-RESOLUCIÓN de 22 de noviembre de 2024, de la Viceconsejería de Política y
+[RESOLUCIÓN de 22 de noviembre de 2024](./R22_11_2024_instrucciones_admision_alumnos_bachillerato_madrid.md), de la Viceconsejería de Política y
 Organización Educativa, por la que se dictan instrucciones sobre la participa-
 ción en el proceso de admisión de alumnos en centros docentes sostenidos con
 fondos públicos que imparten segundo ciclo de Educación Infantil, Educación
 Primaria, Educación Secundaria Obligatoria, Bachillerato, así como las etapas
 de Educación Especial en la Comunidad de Madrid para el curso 2025-2026.
-El Decreto 29/2013, de 11 de abril, del Consejo de Gobierno, de libertad de elección
-de centro escolar en la Comunidad de Madrid y la Orden 1240/2013, de 17 de abril, de la
+El [Decreto 29/2013](./D29_2013_libertad_eleccion_centro_escolar_madrid.md), de 11 de abril, del Consejo de Gobierno, de libertad de elección
+de centro escolar en la Comunidad de Madrid y la [Orden 1240/2013](./O1240_2013_procedimiento_admision_alumnado_centros_sostenidos_fondos_publicos_madrid.md), de 17 de abril, de la
 Consejería de Educación, Juventud y Deporte establecen el marco y el procedimiento ge-
 neral para la admisión de alumnos en centros docentes sostenidos con fondos públicos que
 imparten segundo ciclo de Educación Infantil, Educación Primaria, Educación Secundaria
@@ -52,9 +63,9 @@ En el marco de la citada normativa corresponde organizar, mediante la presente r
 lución, el desarrollo del proceso ordinario de admisión de alumnos en centros sostenidos
 con fondos públicos, así como disponer sobre el proceso extraordinario para el curso esco-
 lar 2025-2026.
-Por ello, en virtud del Decreto 248/2023, de 11 de octubre, del Consejo de Gobierno,
+Por ello, en virtud del [Decreto 248/2023](../01_marco_normativo_general_y_organico/D248_2023_estructura_organica_consejeria_educacion_ciencia_universidades_madrid.md), de 11 de octubre, del Consejo de Gobierno,
 por el que se establece la estructura orgánica de la Consejería de Educación, Ciencia y Uni-
-versidades, modificado por el Decreto 28/2024, de 24 de abril, la Viceconsejería de Políti-
+versidades, modificado por el [Decreto 28/2024](../01_marco_normativo_general_y_organico/D28_2024_modificacion_estructura_organica_consejeria_educacion_ciencia_universidades_madrid.md), de 24 de abril, la Viceconsejería de Políti-
 ca y Organización Educativa dicta las siguientes instrucciones.
 SECCIÓN PRIMERA
 Disposiciones de carácter general
@@ -94,7 +105,7 @@ BOCM
 Tercera
 Servicios de Apoyo a la Escolarización
 1.
-El capítulo II de la Orden 1240/2013, de 17 de abril, de la Consejería de Educa-
+El capítulo II de la [Orden 1240/2013](./O1240_2013_procedimiento_admision_alumnado_centros_sostenidos_fondos_publicos_madrid.md), de 17 de abril, de la Consejería de Educa-
 ción, Juventud y Deporte, regula la posibilidad de establecer Servicios de Apoyo a la Esco-
 larización en las DAT, sus funciones y composición.
 2.
@@ -175,7 +186,7 @@ mos.
 En aquellos municipios en los que todos los IES sean bilingües y, por
 tanto, esté garantizada la continuidad en el programa bilingüe de todos
 los alumnos procedentes de colegios públicos bilingües tal y como esta-
-blece la Orden 1240/2013, de 17 de abril, de la Consejería de Educación,
+blece la [Orden 1240/2013](./O1240_2013_procedimiento_admision_alumnado_centros_sostenidos_fondos_publicos_madrid.md), de 17 de abril, de la Consejería de Educación,
 Juventud y Deporte, una vez analizadas las circunstancias de planifica-
 ción, oferta educativa y capacidad de los centros, las DAT podrán no
 efectuar adscripciones de carácter preferente entre centros bilingües y
@@ -338,7 +349,7 @@ de localidad o no sea posible incrementar el número de unidades, las DAT podrá
 zar, antes de la adjudicación de plaza escolar, que la citada ratio se incremente hasta
 un 10 % en el número de alumnos por grupo.
 4.
-La Orden 1240/2013, de 17 de abril establece y cuantifica en su artículo 14 la re-
+La [Orden 1240/2013](./O1240_2013_procedimiento_admision_alumnado_centros_sostenidos_fondos_publicos_madrid.md), de 17 de abril establece y cuantifica en su artículo 14 la re-
 serva de plazas para alumnos con NEE y necesidad de compensación educativa, que se lle-
 vará a cabo en el primer nivel educativo sostenido con fondos públicos en cada centro. Sin
 perjuicio del carácter global de dicha reserva, que abarca los dos perfiles de alumnos a los
@@ -440,7 +451,7 @@ b)
 En aquellos casos en los que la solicitud de admisión no se presente por vía tele-
 mática, podrá ser entregada presencialmente en el centro educativo solicitado en
 primer lugar o bien ser dirigida a dicho centro a través de los procedimientos con-
-templados en la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo
+templados en la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Administrativo
 Común de las Administraciones Públicas.
 3.
 La solicitud de admisión será cumplimentada y firmada por ambos padres, madres
@@ -476,7 +487,7 @@ alumnos desearían cursar. Los colegios públicos que tengan adscripción única
 berán informar, en el mismo plazo, a través de Raíces, los alumnos de sexto de Educación
 Primaria que vayan a pasar a Educación Secundaria Obligatoria.
 8.
-En cumplimiento de la normativa vigente, Ley 39/2015, de 1 de octubre, del Pro-
+En cumplimiento de la normativa vigente, [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Pro-
 cedimiento Administrativo Común de las Administraciones Públicas, la administración edu-
 cativa realizará, a través del Sistema Integral de Gestión Educativa Raíces, las consultas re-
 lativas a la información disponible sobre las circunstancias alegadas en la solicitud, evitando
@@ -787,7 +798,7 @@ Decimoprimera
 Escolarización de alumnos con necesidades educativas especiales. Aspectos generales
 1.
 La escolarización de dichos alumnos se realizará de conformidad con lo estable-
-cido en el Decreto 23/2023, de 22 de marzo.
+cido en el [Decreto 23/2023](../06_atencion_diversidad_y_orientacion/D23_2023_atencion_diferencias_individuales_alumnos_madrid.md), de 22 de marzo.
 2.
 Para ello es esencial determinar lo antes posible el número de alumnos que pre-
 sentan o pudieran presentar NEE y que será necesario escolarizar en cada localidad en las
@@ -905,7 +916,7 @@ tima. Incluirán de forma priorizada centros que cuenten con dicha modalidad de 
 zación y en todos los casos se adjuntará el modelo Anexo V.
 5.
 La escolarización de los alumnos con NEE en la modalidad de Educación Espe-
-cial se realizará según lo establecido en el artículo 4 de la Orden 2808/2023, de 30 de julio
+cial se realizará según lo establecido en el artículo 4 de la [Orden 2808/2023](./O2808_2023_proceso_admision_alumnado_infantil_primaria_eso_bachillerato_madrid.md), de 30 de julio
 y de modo análogo al resto de solicitudes de alumnos con NEE se realizará por los SAE de
 forma personalizada a través del Sistema Integral de Gestión Educativa Raíces.
 
@@ -967,7 +978,7 @@ Otras informaciones de interés sobre el centro, de conformidad con lo estableci
 en la Resolución conjunta de 4 de diciembre de 2023, de las Viceconsejerías de
 Política Educativa y de Organización Educativa, sobre la información a las fami-
 lias que deben contener las páginas web de los centros educativos de la Comuni-
-dad de Madrid, en cumplimiento de la Ley 1/2022, de 10 de febrero, Maestra de
+dad de Madrid, en cumplimiento de la [Ley 1/2022](../01_marco_normativo_general_y_organico/L1_2022_maestra_libertad_eleccion_educativa_madrid.md), de 10 de febrero, Maestra de
 Libertad de Elección Educativa de la Comunidad de Madrid.
 2.
 Con anterioridad al inicio del período de presentación de solicitudes de plaza
@@ -1010,7 +1021,7 @@ el proceso de matriculación los centros se abstendrán de solicitar a las famil
 ción de información no indispensable, así como de aquella otra que ya esté en poder de la
 administración y los centros o que ya haya sido aportada por las familias.
 3.
-En aplicación de lo dispuesto en el artículo 10.7 de la Orden 1240/2013, de 17 de
+En aplicación de lo dispuesto en el artículo 10.7 de la [Orden 1240/2013](./O1240_2013_procedimiento_admision_alumnado_centros_sostenidos_fondos_publicos_madrid.md), de 17 de
 abril, la relación de solicitantes no admitidos en un centro sostenido con fondos públicos,
 ordenada según la puntuación obtenida por cada alumno dentro de cada grupo de adscrip-
 ción y prioridad de solicitud, seguirá vigente hasta la fecha de inicio las actividades lecti-
@@ -1029,7 +1040,7 @@ Decimosexta
 Proceso extraordinario de admisión de alumnos
 1.
 El proceso extraordinario de admisión de alumnos se realizará de conformidad
-con lo establecido en el artículo 16 de la Orden 1240/2013, de 17 de abril, de la Consejería
+con lo establecido en el artículo 16 de la [Orden 1240/2013](./O1240_2013_procedimiento_admision_alumnado_centros_sostenidos_fondos_publicos_madrid.md), de 17 de abril, de la Consejería
 de Educación, Juventud y Deporte.
 2.
 Los SAE dispondrán, durante el período extraordinario de admisión, de informa-
@@ -1508,7 +1519,7 @@ do en otra Comunidad Autónoma, será necesario acreditar dicha circunstancia me
 diante la presentación de los correspondientes certificados e informes emitidos
 por la Consejería de Familia, Juventud y Asuntos Sociales por los órganos com-
 petentes de otras Comunidades Autónomas o, anteriormente, por el IMSERSO.
-De acuerdo con el Real Decreto Legislativo 1/2013, de 29 de noviembre, por el
+De acuerdo con el [Real Decreto Legislativo 1/2013](../../../estatal/07_convivencia_bienestar_y_protocolos/RDL1_2013_aprueba_texto_refundido_ley_general_derechos.md), de 29 de noviembre, por el
 que se aprueba el Texto Refundido de la Ley General de derechos de las personas
 con discapacidad y de su inclusión social, tendrán validez a efectos de baremación
 y obtención de puntuación de las solicitudes de admisión, los certificados en los
@@ -1516,7 +1527,7 @@ que figure un grado de discapacidad igual o superior al 33 %.
 Condición de víctima de violencia de género o del terrorismo.
 — La condición de víctima de violencia de género se acreditará aportando el Modelo co-
 mún para la acreditación administrativa de la situación de violencia de género, adopta-
-do en cumplimiento de lo previsto en el artículo 23 de la Ley Orgánica 1/2004, de 28
+do en cumplimiento de lo previsto en el artículo 23 de la [Ley Orgánica 1/2004](../../../estatal/07_convivencia_bienestar_y_protocolos/LO1_2004_medidas_proteccion_integral_contra_violencia_genero.md), de 28
 de diciembre, de medidas de protección integral contra la violencia de género.
 
 BOCM-20241213-26
@@ -1527,7 +1538,7 @@ Valoración del expediente académico (último curso finalizado) exclusivamente 
 admisión a las enseñanzas de Bachillerato:
 — Las familias indicarán dicha circunstancia para el centro o centros concretos en la
 solicitud.
-— En cumplimiento de lo dispuesto en el anexo II del Decreto 29/2013, de 11 de
+— En cumplimiento de lo dispuesto en el anexo II del [Decreto 29/2013](./D29_2013_libertad_eleccion_centro_escolar_madrid.md), de 11 de
 abril, del Consejo de Gobierno, de libertad de elección de centro escolar en la Co-
 munidad de Madrid, modificado y actualizado por el Decreto 244/2021, de 29 de
 diciembre, el centro valorará el expediente académico de los solicitantes en el úl-

@@ -43,8 +43,9 @@ relaciones:
   - norma_id: norm-and-l17-2007
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-l-39-2015
+fundamentos_derecho:
+- norma_id: norm-and-l17-2007
 ---
-
 # Decreto 213/1995, de 12 de septiembre, por el que se regulan las Asociaciones de Padres y Madres del Alumnado.
 
 ## Preámbulo

@@ -24,9 +24,17 @@ tags:
 - libertad_eleccion
 - centros_escolares
 - madrid
+fundamentos_derecho:
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-mad-l12-1999-creacion-consejo-escolar-comunidad-madrid
+- norma_id: norm-mad-l1-1983-gobierno-administracion-comunidad-madrid
+- norma_id: norm-mad-d-29-2013
+- norma_id: norm-es-l-39-2015
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
 ---
-
-# Decreto 11/2019, de 5 de marzo, del Consejo de Gobierno, por el que se modifica el Decreto 29/2013, de 11 de abril, de Libertad de Elección de Centro Escolar en la Comunidad de Madrid
+# Decreto 11/2019, de 5 de marzo, del Consejo de Gobierno, por el que se modifica el [Decreto 29/2013](./D29_2013_libertad_eleccion_centro_escolar_madrid.md), de 11 de abril, de Libertad de Elección de Centro Escolar en la Comunidad de Madrid
 
 ## Preámbulo
 
@@ -34,15 +42,15 @@ BOCM
 Consejería de Educación e Investigación
 1
 DECRETO 11/2019, de 5 de marzo, del Consejo de Gobierno, por el que se mo-
-difica el Decreto 29/2013, de 11 de abril, de Libertad de Elección de Centro
+difica el [Decreto 29/2013](./D29_2013_libertad_eleccion_centro_escolar_madrid.md), de 11 de abril, de Libertad de Elección de Centro
 Escolar en la Comunidad de Madrid.
-El Decreto 29/2013, de 11 de abril, del Consejo de Gobierno, de libertad de elección
+El [Decreto 29/2013](./D29_2013_libertad_eleccion_centro_escolar_madrid.md), de 11 de abril, del Consejo de Gobierno, de libertad de elección
 de centro escolar en la Comunidad de Madrid establece el marco y el procedimiento gene-
 ral para la admisión de alumnos en centros docentes sostenidos con fondos públicos de se-
 gundo ciclo de Educación Infantil, Educación Primaria, Educación Secundaria Obligatoria,
 Bachillerato y Educación Especial en la Comunidad de Madrid.
 La experiencia acumulada desde su entrada en vigor y las mejoras procedimentales de-
-rivadas de la aplicación de la Ley 39/2015, de 1 de octubre, del Procedimiento Administra-
+rivadas de la aplicación de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Administra-
 tivo Común de las Administraciones Públicas, hacen necesaria su modificación con el fin
 de facilitar, entre otros objetivos, la mejora de la equidad y transparencia en la admisión de
 alumnos en centros sostenidos con fondos públicos, el agrupamiento de hermanos en un
@@ -51,14 +59,14 @@ bles casos de empate en puntuación que se produzcan en cada centro.
 El presente Decreto del Consejo de Gobierno, por el que se modifica el Decre-
 to 29/2013, de 11 de abril, se dicta al amparo de las competencias que corresponden a la Co-
 munidad de Madrid de conformidad con lo dispuesto en el artículo 29 del Estatuto de Auto-
-nomía de la Comunidad de Madrid y la disposición final sexta de la Ley Orgánica 2/2006,
+nomía de la Comunidad de Madrid y la disposición final sexta de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md),
 de 3 de mayo, de Educación.
 Este Decreto se adecúa a los principios de buena regulación previstos en el artículo 129
-de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Admi-
+de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Administrativo Común de las Admi-
 nistraciones Públicas y, en particular a los principios de necesidad y eficiencia. En este sen-
 tido, como ya se ha indicado, facilitar el agrupamiento de hermanos en un mismo centro,
 medida que contribuye a facilitar la conciliación de la vida laboral y familiar requiere la mo-
-dificación del baremo de admisión establecido en el Decreto 29/2013. Igualmente se ha es-
+dificación del baremo de admisión establecido en el [Decreto 29/2013](./D29_2013_libertad_eleccion_centro_escolar_madrid.md). Igualmente se ha es-
 timado necesario actualizar y modificar algunos aspectos concretos del proceso de admi-
 sión de alumnos en centros sostenidos con fondos públicos, tales como el desarrollo del
 sorteo público que permita resolver casos de empate entre varias solicitudes. Dado el carác-
@@ -66,13 +74,13 @@ ter puntual de dichas modificaciones, en aplicación de los principios de propor
 seguridad jurídica y transparencia, la Comunidad de Madrid ha optado por realizar una mo-
 dificación parcial de la normativa vigente.
 En el proceso de elaboración de este Decreto ha emitido dictamen el Consejo Escolar
-de la Comunidad de Madrid, de acuerdo con el artículo 2.1.b) de la Ley 12/1999, de 29 de
+de la Comunidad de Madrid, de acuerdo con el artículo 2.1.b) de la [Ley 12/1999](../01_marco_normativo_general_y_organico/L12_1999_creacion_consejo_escolar_comunidad_madrid.md), de 29 de
 abril, de creación del Consejo Escolar de la Comunidad de Madrid. Asimismo, se ha some-
 tido al trámite de audiencia e información pública y se han tenido en cuenta los informes
 preceptivos emitidos por la Secretaría General Técnica de la Consejería de Educación e In-
 vestigación y por la Abogacía General de la Comunidad de Madrid. La aprobación de este
 Decreto corresponde al Consejo de Gobierno de la Comunidad de Madrid de conformidad
-con el artículo 21 de la Ley 1/1983, de 13 de diciembre, de Gobierno y Administración de
+con el artículo 21 de la [Ley 1/1983](../01_marco_normativo_general_y_organico/L1_1983_gobierno_administracion_comunidad_madrid.md), de 13 de diciembre, de Gobierno y Administración de
 la Comunidad de Madrid.
 En su virtud, a propuesta del Consejero de Educación e Investigación, de acuerdo con
 el dictamen de la Comisión Jurídica Asesora de la Comunidad de Madrid emitido con fe-
@@ -84,9 +92,9 @@ DISPONE
 
 #### Artículo único
 
-Modificación del Decreto 29/2013, de 11 de abril, del Consejo de Gobierno, de Libertad
+Modificación del [Decreto 29/2013](./D29_2013_libertad_eleccion_centro_escolar_madrid.md), de 11 de abril, del Consejo de Gobierno, de Libertad
 de Elección de Centro Escolar en la Comunidad de Madrid, criterios de admisión
-El Decreto 29/2013, de 11 de abril, se modifica en los siguientes términos:
+El [Decreto 29/2013](./D29_2013_libertad_eleccion_centro_escolar_madrid.md), de 11 de abril, se modifica en los siguientes términos:
 Uno.
 Se modifican los apartados 2 y 6 del artículo 9, que pasan a tener el siguiente
 tenor literal:

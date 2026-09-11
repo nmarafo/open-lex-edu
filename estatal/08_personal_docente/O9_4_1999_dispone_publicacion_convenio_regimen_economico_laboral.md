@@ -46,8 +46,10 @@ relaciones:
   articulos:
   - norma_id: '27'
   - norma_id: norm-es-2001-7022
+fundamentos_derecho:
+- norma_id: norm-es-2001-7022
+- norma_id: norm-es-1993-23257
 ---
-
 # Orden de 9 de abril de 1999 por la que se dispone la publicación del Convenio sobre el régimen económico-laboral de las personas que, no perteneciendo a los Cuerpos de Funcionarios Docentes, están encargadas de la enseñanza de la religión católica en los centros públicos de Educación Infantil, de Educación Primaria y de Educación Secundaria.
 
 ## Preámbulo
@@ -68,7 +70,7 @@ Excmos. Sres. Ministros de Justicia y de Educación y Cultura.
 
 Convenio sobre el régimen económico-laboral de las personas que, no perteneciendo a los Cuerpos de Funcionarios Docentes, están encargadas de la enseñanza de la religión católica en los centros públicos de Educación Infantil, de Educación Primaria y de Educación Secundaria
 
-En el marco de la Constitución y de conformidad con lo previsto en el Acuerdo entre el Estado español y la Santa Sede sobre Enseñanza y Asuntos Culturales, de 3 de enero de 1979, así como en la disposición adicional segunda de la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo, modificada por el artículo 93 de la Ley 50/1998, de 30 de diciembre, de Medidas Fiscales, Administrativas y del Orden Social, se suscribe el presente Convenio que sustituye al celebrado el 20 de mayo de 1993 y tiene por objeto determinar el régimen económico-laboral de las personas que, no perteneciendo a los Cuerpos de funcionarios docentes, están encargadas de la enseñanza de la religión católica en los centros públicos de Educación Infantil, de Educación Primaria y de Educación Secundaria.
+En el marco de la Constitución y de conformidad con lo previsto en el Acuerdo entre el Estado español y la Santa Sede sobre Enseñanza y Asuntos Culturales, de 3 de enero de 1979, así como en la disposición adicional segunda de la [Ley Orgánica 1/1990](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md), de 3 de octubre, de Ordenación General del Sistema Educativo, modificada por el artículo 93 de la Ley 50/1998, de 30 de diciembre, de Medidas Fiscales, Administrativas y del Orden Social, se suscribe el presente Convenio que sustituye al celebrado el 20 de mayo de 1993 y tiene por objeto determinar el régimen económico-laboral de las personas que, no perteneciendo a los Cuerpos de funcionarios docentes, están encargadas de la enseñanza de la religión católica en los centros públicos de Educación Infantil, de Educación Primaria y de Educación Secundaria.
 
 A tal fin, los Ministros de Justicia y de Educación y Cultura, en representación del Gobierno, y el Presidente de la Conferencia Episcopal Española, debidamente autorizado por la Santa Sede, firman el siguiente Convenio, de acuerdo con las siguientes cláusulas:
 
@@ -100,7 +102,7 @@ A los efectos anteriores serán consideradas personas competentes para la enseñ
 
 #### Sexta.
 
-En el caso de los profesores de religión católica de Educación Infantil y de Educación Primaria, pendientes aún de que se les aplique la equiparación económica a la retribución por hora de clase impartida por los profesores interinos del nivel correspondiente, se procederá a dicha equiparación retributiva, de conformidad con lo dispuesto en el Acuerdo entre el Estado español y la Santa Sede sobre Enseñanza y Asuntos Culturales, de 3 de enero de 1979; la disposición adicional segunda de la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo, modificada por el artículo 93 de la Ley 50/1998, de 30 de diciembre, de Medidas Fiscales, Administrativas y del Orden Social; y en todo caso, con respeto a las sentencias firmes recaídas sobre esta cuestión. Los profesores de religión católica de Educación Secundaria, manteniendo la actual equiparación de su retribución con la del profesorado interino correspondiente, pasarán a prestar su actividad en régimen de contratación laboral de acuerdo con lo previsto en el apartado 2 de la cláusula anterior.
+En el caso de los profesores de religión católica de Educación Infantil y de Educación Primaria, pendientes aún de que se les aplique la equiparación económica a la retribución por hora de clase impartida por los profesores interinos del nivel correspondiente, se procederá a dicha equiparación retributiva, de conformidad con lo dispuesto en el Acuerdo entre el Estado español y la Santa Sede sobre Enseñanza y Asuntos Culturales, de 3 de enero de 1979; la disposición adicional segunda de la [Ley Orgánica 1/1990](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md), de 3 de octubre, de Ordenación General del Sistema Educativo, modificada por el artículo 93 de la Ley 50/1998, de 30 de diciembre, de Medidas Fiscales, Administrativas y del Orden Social; y en todo caso, con respeto a las sentencias firmes recaídas sobre esta cuestión. Los profesores de religión católica de Educación Secundaria, manteniendo la actual equiparación de su retribución con la del profesorado interino correspondiente, pasarán a prestar su actividad en régimen de contratación laboral de acuerdo con lo previsto en el apartado 2 de la cláusula anterior.
 
 #### Séptima.
 
@@ -114,7 +116,7 @@ El presente Convenio, que se suscribe con carácter indefinido, será susceptibl
 
 Disposición derogatoria ....
 
-El presente Convenio deroga y sustituye al suscrito por las mismas partes con fecha de 20 de mayo de 1993, publicado mediante Orden de 9 de septiembre de 1993. Madrid, 26 de febrero de 1999.–La Ministra de Justicia, Margarita Mariscal de Gante y Mirón.–El Ministro de Educación y Cultura, Mariano Rajoy Brey.–El Presidente de la Conferencia Episcopal Española, Elías Yanes Álvarez.
+El presente Convenio deroga y sustituye al suscrito por las mismas partes con fecha de 20 de mayo de 1993, publicado mediante [Orden de 9 de septiembre de 1993](./RD850_1993_aprueban_temarios_han_regir_procedimientos_ingreso.md). Madrid, 26 de febrero de 1999.–La Ministra de Justicia, Margarita Mariscal de Gante y Mirón.–El Ministro de Educación y Cultura, Mariano Rajoy Brey.–El Presidente de la Conferencia Episcopal Española, Elías Yanes Álvarez.
 
 ## Relaciones Normativas y Fundamentos de Derecho
 

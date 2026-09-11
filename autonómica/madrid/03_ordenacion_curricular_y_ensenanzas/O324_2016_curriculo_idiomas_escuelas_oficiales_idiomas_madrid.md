@@ -26,8 +26,13 @@ tags:
 - curriculo_idiomas
 - profesorado
 - madrid
+fundamentos_derecho:
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-mad-l12-1999-creacion-consejo-escolar-comunidad-madrid
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
 ---
-
 # Orden 324/2016, de 12 de febrero, del Consejero de Educación, Juventud y Deporte, por la que se establece la organización, implantación y currículo de los cursos de idiomas de nivel C1 y se regula, con carácter experimental, la prueba de certificación de los mismos
 
 ## Preámbulo
@@ -39,7 +44,7 @@ ORDEN 324/2016, de 12 de febrero, del Consejero de Educación, Juventud y
 Deporte, por la que se establece la organización, implantación y currículo de los
 cursos de idiomas de nivel C1 y se regula, con carácter experimental, la prueba
 de certificación de los mismos.
-La Ley Orgánica 2/2006, de 3 de mayo, de Educación, modificada por la Ley Orgáni-
+La [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, modificada por la Ley Orgáni-
 ca 8/2013, de 9 de diciembre, para la mejora de la calidad educativa, establece en su artícu-
 lo 60.4 que, de acuerdo con lo que establezcan las Administraciones Educativas, las Escue-
 las Oficiales de Idiomas podrán impartir cursos para la actualización de conocimientos de
@@ -60,7 +65,7 @@ cionamiento de competencias en idiomas, incluyendo los niveles C1 y C2, acredita
 mente algunas destrezas.
 Además, la Orden 3661/2007, de 6 de julio, de la Consejera de Educación, por la que
 se regula para la Comunidad de Madrid la implantación y la organización de las enseñan-
-zas de idiomas de régimen especial derivadas de la Ley Orgánica 2/2006, de 3 de mayo, de
+zas de idiomas de régimen especial derivadas de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de
 Educación, establece en el punto 7 de su artículo décimo que la Dirección General compe-
 tente regulará las acreditaciones y certificaciones a las que conduzcan los cursos para el per-
 feccionamiento de la competencia en idiomas.
@@ -84,7 +89,7 @@ sustentarse en la autonomía del alumno en su aprendizaje, por cuanto los alumno
 den a este nivel poseen las herramientas y conocimientos suficientes para alcanzar el dominio
 operativo requerido.
 En el proceso de elaboración de esta Orden ha emitido dictamen el Consejo Escolar de
-la Comunidad de Madrid, de acuerdo con el artículo 2.1.b) de la Ley 12/1999, de 29 de
+la Comunidad de Madrid, de acuerdo con el artículo 2.1.b) de la [Ley 12/1999](../01_marco_normativo_general_y_organico/L12_1999_creacion_consejo_escolar_comunidad_madrid.md), de 29 de
 abril, de Creación del Consejo Escolar de la Comunidad de Madrid, modificada por el ar-
 tículo 29 de la Ley 9/2010, de 23 de diciembre.
 
@@ -143,7 +148,7 @@ sejo de Gobierno, por el que se establece el currículo del nivel avanzado de la
 de las Escuelas Oficiales de Idiomas de la Comunidad de Madrid, o el certificado de aptitud
 referido como equivalente en el Anexo III del Real Decreto 1629/2006, de 29 de diciembre,
 por el que se fijan los aspectos básicos del currículo de las enseñanzas de idiomas de régi-
-men especial reguladas por la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+men especial reguladas por la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación.
 2.
 Asimismo, se podrá acceder mediante una prueba que garantice el nivel de com-
 petencia comunicativa del alumno para la realización del curso. El departamento didáctico
@@ -410,7 +415,7 @@ demnización por las actividades realizadas.
 En lo referente a la obtención de los datos personales de los aspirantes y a la seguridad
 y confidencialidad de estos, se estará a lo dispuesto en la legislación vigente en materia de
 protección de datos de carácter personal y, en todo caso, a lo establecido en la disposición
-adicional vigésima tercera de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+adicional vigésima tercera de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación.
 
 #### Disposición FINAL PRIMERA. Calendario de aplicación
 

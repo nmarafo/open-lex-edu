@@ -47,8 +47,9 @@ relaciones:
   articulos:
   - norma_id: '22'
   - norma_id: norm-es-2001-7022
+fundamentos_derecho:
+- norma_id: norm-es-2001-7022
 ---
-
 # Orden ECD/454/2002, de 22 de febrero, por la que se establecen los elementos básicos de los informes de evaluación de las enseñanzas que conducentes a la obtención de titulaciones de técnicos deportivos reguladas por el Real Decreto 1913/1997, de 19 de diciembre, así como los requisitos formales derivados del proceso de evaluación que son necesarios para garantizar la movilidad de los alumnos.
 
 ## Preámbulo

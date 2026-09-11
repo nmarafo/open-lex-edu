@@ -1,6 +1,10 @@
 ---
 id: norm-can-i-2026-08-31-organizacion-funcionamiento-personal-psicologia-educativa
-titulo: Instrucciones de la Dirección General de Ordenación de las Enseñanzas, Inclusión e Innovación, por las que se establecen las funciones y se determina la organización y el funcionamiento del personal de psicología educativa, en los centros educativos no universitarios sostenidos con fondos públicos de la Comunidad Autónoma de Canarias durante el curso escolar 2026-2027.
+titulo: Instrucciones de la Dirección General de Ordenación de las Enseñanzas, Inclusión
+  e Innovación, por las que se establecen las funciones y se determina la organización
+  y el funcionamiento del personal de psicología educativa, en los centros educativos
+  no universitarios sostenidos con fondos públicos de la Comunidad Autónoma de Canarias
+  durante el curso escolar 2026-2027.
 jurisdiccion: Canarias
 ambito: Autonómico
 organo_emisor: Dirección General de Ordenación de las Enseñanzas, Inclusión e Innovación
@@ -29,8 +33,15 @@ relaciones:
   fundamenta_en:
   - norm-can-l-6-2014
   - norm-can-d-114-2011
+fundamentos_derecho:
+- norma_id: norm-can-d-84-2024
+- norma_id: norm-can-l-6-2014
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
+- norma_id: norm-es-lo-8-2021
 ---
-
 # Instrucciones de la Dirección General de Ordenación de las Enseñanzas, Inclusión e Innovación, por las que se establecen las funciones y se determina la organización y el funcionamiento del personal de psicología educativa, en los centros educativos no universitarios sostenidos con fondos públicos de la Comunidad Autónoma de Canarias durante el curso escolar 2026-2027.
 
 ## Preámbulo y Marco Normativo
@@ -59,7 +70,7 @@ propuesta sitúa a los entornos educativos como espacios estratégicos fundament
 salud mental y el bienestar emocional, mental y físico del alumnado. Lejos de ser considerado como un  
 factor aislado, este bienestar se constituye como el requisito previo fundamental para el aprendizaje, el  
 éxito escolar y la prevención del abandono educativo temprano.
-En consonancia con estas directrices europeas, la Ley Orgánica 2/2006, de 3 de mayo, de Educación,  
+En consonancia con estas directrices europeas, la [Ley Orgánica 2/2006](../05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación,  
 modificada por la Ley Orgánica 3/2020, de 29 de diciembre (LOMLOE), sitúa en su artículo 1 como  
 principios del sistema educativo la equidad, la inclusión educativa y la orientación como medios para  
 alcanzar  una  formación  personalizada  que  propicie  el  pleno  desarrollo  de  la  personalidad  y  una 
@@ -74,14 +85,14 @@ para facilitar la detección de dificultades socioemocionales durante todo su it
 Este documento ha sido firmado electrónicamente por:
 DAVID PABLOS GONZALEZ - DIRECTOR/A GENERAL Fecha: 31/08/2026 - 11:09:13
 
-La Ley 6/2014, de 25 de julio, Canaria de Educación no Universitaria establece, como principios rectores del  
+La [Ley 6/2014](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md), de 25 de julio, Canaria de Educación no Universitaria establece, como principios rectores del  
 sistema educativo canario, la equidad y la mejora continua de los centros y servicios educativos para que  
 puedan ofrecer la respuesta más adecuada a las características del alumnado, determinado en su artículo 4,  
 apartados 1 y 2, que el sistema educativo canario se configura como un sistema inclusivo orientado a  
 garantizar  a  cada  persona  la  atención  adecuada  para  alcanzar  el  máximo  nivel  de  sus  capacidades  y 
 competencias, así como un sistema equitativo que garantiza las condiciones de aprendizaje adecuadas para  
 evitar que las desigualdades sociales y económicas impidan el éxito escolar. 
-La Ley Orgánica 8/2021, de 4 de junio, de protección integral a la infancia y la adolescencia frente a la  
+La [Ley Orgánica 8/2021](../../../estatal/07_convivencia_bienestar_y_protocolos/LO8_2021_proteccion_integral_infancia_adolescencia_frente_violencia.md), de 4 de junio, de protección integral a la infancia y la adolescencia frente a la  
 violencia, ha supuesto un impulso para el desarrollo de actuaciones dirigidas a garantizar entornos seguros y  
 protectores en el ámbito educativo, reforzando el papel de los centros educativos en la prevención, detección  
 precoz e intervención ante situaciones de vulnerabilidad, violencia, malestar emocional y riesgo que afecten  
@@ -120,7 +131,7 @@ La Resolución n.º 2224/2026, de 11 de mayo de 2026, de la Dirección General d
 Profesorado, incorporó el puesto de provisión voluntaria de Psicólogo Educativo, dentro de la planificación  
 de recursos humanos del sistema educativo público de Canarias, estableciendo los requisitos específicos para  
 su desempeño. Como consecuencia de dicha incorporación, y de conformidad con lo dispuesto en el artículo  
-17 del anexo del Decreto 84/2024, de 10 de junio, por el que se aprueba el Reglamento Orgánico de la  
+17 del anexo del [Decreto 84/2024](../01_marco_normativo_general_y_organico/D84_2024_reglamento_organico_consejeria_educacion_canarias.md), de 10 de junio, por el que se aprueba el Reglamento Orgánico de la  
 Consejería de Educación, Formación Profesional, Actividad Física y Deportes, corresponde a la Dirección  
 General de Ordenación de las Enseñanzas, Inclusión e Innovación (en adelante DGOEII) el establecimiento 
 de las presentes instrucciones, para la definición de su organización, funciones, ámbitos de actuación y  

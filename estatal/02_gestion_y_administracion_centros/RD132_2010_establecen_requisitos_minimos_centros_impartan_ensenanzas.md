@@ -148,13 +148,20 @@ relaciones:
   - norma_id: '6'
   - norma_id: norm-es-2021-20113
   - norma_id: norm-es-2010-12201
+fundamentos_derecho:
+- norma_id: norm-can-res-boc-2024-230-25
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-lo-8-1985
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-rd-659-2023
+- norma_id: norm-es-2010-12201
 ---
-
 # Real Decreto 132/2010, de 12 de febrero, por el que se establecen los requisitos mínimos de los centros que impartan las enseñanzas del segundo ciclo de la educación infantil, la educación primaria y la educación secundaria.
 
 ## Preámbulo
 
-Además de la habilitación expresa al Gobierno para que regule los requisitos mínimos de los centros docentes contenida en el artículo 14 de la Ley Orgánica 8/1985, reguladora del Derecho a la Educación, el rango reglamentario de esta norma está justificado por resultar un complemento indispensable a la legislación educativa, así como un complemento necesario para alcanzar el común denominador que persigue la normativa básica estatal, ya que una norma reglamentaria resulta el instrumento idóneo dado el carácter técnico de la regulación relativa a la titulación académica del profesorado, relación numérica alumnoprofesor, y a las instalaciones docentes y deportivas de los centros docentes. Por otra parte, la Ley 17/2009, de 23 de noviembre, sobre el libre acceso a las actividades de servicios y su ejercicio, afecta a los requisitos a los que se somete la prestación de servicios educativos de interés económico general, en tanto que dichos requisitos deberán tener carácter reglado, ser claros e inequívocos, objetivos e imparciales, transparentes, proporcionados al objetivo de interés general y darse a conocer con antelación. En este sentido, se remite la regulación de los aspectos técnicos relacionados con los requisitos que deben reunir las instalaciones docentes a lo establecido en el Real Decreto 314/2006, de 17 de marzo, por el que se aprueba el Código Técnico de Edificación, donde se establecen las normas técnicas relativas a la seguridad estructural, la seguridad de utilización, la salubridad, la protección frente al ruido, el ahorro de energía y la seguridad en caso de incendio, fijando, entre otros requisitos, una ocupación de 2 metros cuadrados por persona en aulas infantiles, 1,5 metros cuadrados por persona en el resto de las aulas, y 5 metros cuadrados por persona en los espacios diferentes a las aulas como laboratorios, talleres, gimnasios, salas de dibujo, etc. Para la elaboración de este real decreto han sido consultadas las comunidades autónomas en el seno de la Conferencia Sectorial de Educación y se ha recabado el informe previo del Consejo Escolar del Estado. En su virtud, a propuesta del Ministro de Educación, de acuerdo con el Consejo de Estado, y previa deliberación del Consejo de Ministros en su reunión del día 12 de febrero de 2010, DISPONGO:
+Además de la habilitación expresa al Gobierno para que regule los requisitos mínimos de los centros docentes contenida en el artículo 14 de la [Ley Orgánica 8/1985](./LO8_1985_reguladora_derecho_educacion.md), reguladora del Derecho a la Educación, el rango reglamentario de esta norma está justificado por resultar un complemento indispensable a la legislación educativa, así como un complemento necesario para alcanzar el común denominador que persigue la normativa básica estatal, ya que una norma reglamentaria resulta el instrumento idóneo dado el carácter técnico de la regulación relativa a la titulación académica del profesorado, relación numérica alumnoprofesor, y a las instalaciones docentes y deportivas de los centros docentes. Por otra parte, la Ley 17/2009, de 23 de noviembre, sobre el libre acceso a las actividades de servicios y su ejercicio, afecta a los requisitos a los que se somete la prestación de servicios educativos de interés económico general, en tanto que dichos requisitos deberán tener carácter reglado, ser claros e inequívocos, objetivos e imparciales, transparentes, proporcionados al objetivo de interés general y darse a conocer con antelación. En este sentido, se remite la regulación de los aspectos técnicos relacionados con los requisitos que deben reunir las instalaciones docentes a lo establecido en el Real Decreto 314/2006, de 17 de marzo, por el que se aprueba el Código Técnico de Edificación, donde se establecen las normas técnicas relativas a la seguridad estructural, la seguridad de utilización, la salubridad, la protección frente al ruido, el ahorro de energía y la seguridad en caso de incendio, fijando, entre otros requisitos, una ocupación de 2 metros cuadrados por persona en aulas infantiles, 1,5 metros cuadrados por persona en el resto de las aulas, y 5 metros cuadrados por persona en los espacios diferentes a las aulas como laboratorios, talleres, gimnasios, salas de dibujo, etc. Para la elaboración de este real decreto han sido consultadas las comunidades autónomas en el seno de la Conferencia Sectorial de Educación y se ha recabado el informe previo del Consejo Escolar del Estado. En su virtud, a propuesta del Ministro de Educación, de acuerdo con el Consejo de Estado, y previa deliberación del Consejo de Ministros en su reunión del día 12 de febrero de 2010, DISPONGO:
 
 ## Título I
 
@@ -168,12 +175,12 @@ Disposiciones de carácter general
 
 #### Artículo 2. Denominación de los centros docentes.
 
-Los centros docentes tendrán la denominación genérica que establecen los artículos 111 y 114 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+Los centros docentes tendrán la denominación genérica que establecen los artículos 111 y 114 de la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación.
 
 #### Artículo 3. Requisitos de instalaciones comunes a todos los centros.
 
 1. Todos los centros docentes que impartan las enseñanzas de educación infantil de
-segundo ciclo, educación primaria, educación secundaria obligatoria, bachillerato y formación profesional se ajustarán a lo establecido en la Ley Orgánica 8/1985, de 3 de julio, reguladora del Derecho a la Educación, en la Ley Orgánica 2/2006, de Educación y en las normas que las desarrollen, así como a lo dispuesto en el Real Decreto 314/2006, de 17 de marzo, por el que se aprueba el Código Técnico de Edificación.
+segundo ciclo, educación primaria, educación secundaria obligatoria, bachillerato y formación profesional se ajustarán a lo establecido en la [Ley Orgánica 8/1985](./LO8_1985_reguladora_derecho_educacion.md), de 3 de julio, reguladora del Derecho a la Educación, en la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de Educación y en las normas que las desarrollen, así como a lo dispuesto en el Real Decreto 314/2006, de 17 de marzo, por el que se aprueba el Código Técnico de Edificación.
 
 2. Los centros docentes mencionados en el apartado anterior deberán cumplir, como mínimo, los siguientes requisitos relativos a las instalaciones:
 a) Situarse en edificios independientes, destinados exclusivamente a uso escolar, si bien sus instalaciones podrán ser utilizadas fuera del horario escolar para la realización de otras actividades de carácter educativo, cultural o deportivo. En el caso de centros docentes que impartan el segundo ciclo de educación infantil, tendrán, además, acceso independiente del resto de instalaciones. Excepcionalmente, en el caso de centros públicos que impartan ciclos formativos de grado medio, grado superior o cursos de especialización de formación profesional, se podrá autorizar la ubicación de únicamente estas enseñanzas en edificios de titularidad pública con uso compartido, siempre que se halle claramente delimitado el espacio específicamente destinado a uso educativo.
@@ -222,7 +229,7 @@ Los centros docentes que ofrecen el segundo ciclo de la educación infantil tend
 
 1. La atención educativa en el primer ciclo de educación infantil correrá a cargo de profesionales que posean el título de Grado que habilite para el ejercicio de la profesión de maestro de educación infantil, el título de Maestro con la especialidad de educación infantil, o el título de Técnico Superior en Educación Infantil regulado en el Real Decreto 1394/2007, de 29 de octubre.
 
-2. Las Administraciones educativas garantizarán la presencia en los centros a los que se refiere el anterior apartado, del número necesario de graduados en el título que habilite para el ejercicio de la profesión de maestro de educación infantil, o de maestros con la especialidad en educación infantil para garantizar la elaboración, el seguimiento y la evaluación de la propuesta pedagógica a la que se refiere el artículo 14.2 de la Ley Orgánica 2/2006, de 3 de mayo, de educación.
+2. Las Administraciones educativas garantizarán la presencia en los centros a los que se refiere el anterior apartado, del número necesario de graduados en el título que habilite para el ejercicio de la profesión de maestro de educación infantil, o de maestros con la especialidad en educación infantil para garantizar la elaboración, el seguimiento y la evaluación de la propuesta pedagógica a la que se refiere el artículo 14.2 de la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de educación.
 
 3. El segundo ciclo de educación infantil correrá a cargo de profesionales que posean el
 título de Grado en Educación infantil, o el título de Maestro con la especialidad de educación infantil. Cuando las enseñanzas impartidas lo requieran, el grupo podrá ser atendido por maestros de otras especialidades.
@@ -269,7 +276,7 @@ De los centros de educación secundaria
 3. (Derogado)
 4. (Derogado)
 
-5. Los centros docentes que imparten títulos de Formación profesional estarán sometidos a los requisitos mínimos que establece este real decreto, así como los establecidos en el Real Decreto 659/2023, de 18 de julio, por el que se desarrolla la Ordenación del Sistema de Formación Profesional, y la normativa que regule los títulos de técnico básico, técnico y técnico superior de formación profesional.
+5. Los centros docentes que imparten títulos de Formación profesional estarán sometidos a los requisitos mínimos que establece este real decreto, así como los establecidos en el [Real Decreto 659/2023](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, por el que se desarrolla la Ordenación del Sistema de Formación Profesional, y la normativa que regule los títulos de técnico básico, técnico y técnico superior de formación profesional.
 
 #### Artículo 14. Instalaciones y condiciones materiales de los centros que imparten educación secundaria obligatoria.
 
@@ -373,7 +380,7 @@ Los centros públicos y los centros privados autorizados serán inscritos en un 
 
 #### Disposición adicional séptima. Centros sometidos al Derecho común.
 
-En aplicación de lo establecido en el artículo 24.1 de la Ley Orgánica 8/1985, de 3 de julio, reguladora del Derecho a la Educación, los centros privados que impartan enseñanzas que no estén reguladas en la Ley Orgánica 2/2006, de 3 de mayo, de Educación, que están sometidos a las normas de derecho común, no podrán utilizar ninguna de las denominaciones genéricas establecidas en dicha ley para los centros docentes, ni cualesquiera otras que pudieran inducir a error o confusión con aquellas.
+En aplicación de lo establecido en el artículo 24.1 de la [Ley Orgánica 8/1985](./LO8_1985_reguladora_derecho_educacion.md), de 3 de julio, reguladora del Derecho a la Educación, los centros privados que impartan enseñanzas que no estén reguladas en la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, que están sometidos a las normas de derecho común, no podrán utilizar ninguna de las denominaciones genéricas establecidas en dicha ley para los centros docentes, ni cualesquiera otras que pudieran inducir a error o confusión con aquellas.
 
 #### Disposición adicional octava. Profesionales habilitados.
 

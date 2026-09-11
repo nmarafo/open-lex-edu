@@ -92,8 +92,17 @@ relaciones:
   - norma_id: norm-es-2010-12201
   - norma_id: norm-can-res-boc-2024-117-93
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2024-125-2080.pdf
+fundamentos_derecho:
+- norma_id: norm-can-d-84-2024
+- norma_id: norm-can-l-14-1990
+- norma_id: norm-can-d-109-1999
+- norma_id: norm-can-o-2016-05-12
+- norma_id: norm-can-res-boc-2024-117-93
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
 ---
-
 # Resolución de 20 de junio de 2024
 
 ## Preámbulo
@@ -107,7 +116,7 @@ Primero.- El Título V de la [Ley Orgánica 2/2006](../../../estatal/01_marco_no
 
 y el gobierno de los centros. De ahí deriva la importancia y la trascendencia que tienen las elecciones a miembro del Consejo, toda vez que tal órgano, junto con la figura del coordinador o coordinadora de los CER y los distintos equipos educativos de los centros que lo integran, conforman el eje de la organización y funcionamiento de dichos CER.
 Segundo.- La necesidad de convocar elecciones para la renovación o nueva constitución de los representantes de los distintos sectores de la comunidad educativa en los Consejos de los CER viene determinada en la Sección 3.ª del Capítulo II del [Decreto 109/1999](../02_gestion_y_administracion_centros/D109_1999_regula_regimen_creacion_funcionamiento_colectivos_escuelas.md), de 25 de mayo, por el que se regula el régimen de creación y funcionamiento de los Colectivos de Escuelas Rurales.
-Tercero.- La Orden de 12 de mayo de 2016, por la que se regulan la composición y el procedimiento para la constitución y la renovación de los consejos escolares de los centros educativos sostenidos con fondos públicos del ámbito de la Comunidad Autónoma
+Tercero.- La [Orden de 12 de mayo de 2016](../02_gestion_y_administracion_centros/O12_5_2016_regulan_composicion_procedimiento_constitucion_renovacion_consejos_escolares.md), por la que se regulan la composición y el procedimiento para la constitución y la renovación de los consejos escolares de los centros educativos sostenidos con fondos públicos del ámbito de la Comunidad Autónoma
 
 de Canarias, actualiza el marco normativo para el procedimiento de la elección, renovación y constitución de este órgano colegiado, incluyendo los Consejos de los CER.
 Cuarto.- La [Resolución de 3 de junio de 2024](R3_6_2024_resoluci_n_junio.md), por la que se convoca el proceso y se aprueba el calendario para la renovación parcial o la nueva constitución de los Consejos Escolares de los centros educativos sostenidos con fondos públicos del ámbito de la Comunidad Autónoma de Canarias, a celebrar en el curso escolar 2024-2025. Por ello, en virtud de las competencias atribuidas en el artículo 29, apartado 1, letra a), de la [Ley 14/1990](../01_marco_normativo_general_y_organico/L14_1990_regimen_juridico_administraciones_publicas_canarias.md), de 26 de julio, de Régimen Jurídico de las Administraciones Públicas de Canarias, y en el artículo 18, apartado 2.A).a), del Reglamento Orgánico de la Consejería de Educación, Formación Profesional, Actividad Física y Deportes, aprobado por [Decreto 84/2024](../01_marco_normativo_general_y_organico/D84_2024_aprueba_reglamento_organico_formacion_profesional_actividad.md), de 10 de junio,
@@ -129,7 +138,7 @@ El Consejo del CER tendrá la composición que viene determinada en el artículo
 
 1. La presente convocatoria es de aplicación a todos los CER, para cubrir las vacantes de los sectores del alumnado y de los padres y madres del alumnado y para la renovación parcial de los representantes del equipo pedagógico.
 
-2. De igual manera, mediante la presente convocatoria se deberá cubrir el representante de cada uno de los ayuntamientos, para cuyo puesto de designación se procederá de conformidad con lo previsto en el artículo 18 de la Orden de 12 de mayo de 2016. 3. Los CER de nueva creación en el curso escolar 2024-2025 deberán constituir su Consejo en su totalidad.
+2. De igual manera, mediante la presente convocatoria se deberá cubrir el representante de cada uno de los ayuntamientos, para cuyo puesto de designación se procederá de conformidad con lo previsto en el artículo 18 de la [Orden de 12 de mayo de 2016](../02_gestion_y_administracion_centros/O12_5_2016_regulan_composicion_procedimiento_constitucion_renovacion_consejos_escolares.md). 3. Los CER de nueva creación en el curso escolar 2024-2025 deberán constituir su Consejo en su totalidad.
 
 #### Quinto. Trámites iniciales.
 
@@ -139,7 +148,7 @@ Los coordinadores y las coordinadoras de los CER solicitarán, a los respectivos
 
 1. Para la organización del procedimiento de elección, se constituirá en cada CER una Junta electoral, presidida por su coordinador o coordinadora, y compuesta por los siguientes miembros: un maestro o maestra del equipo pedagógico, que actuará como secretario o secretaria; un padre, madre o persona tutora legal del alumnado, y, en su caso, un alumno o alumna, que pertenecerán a los consejos escolares de los centros del CER y designados mediante sorteo público, previamente notificado por escrito a los distintos sectores de la comunidad educativa.
 
-2. Las juntas electorales se ocuparán de organizar el proceso de elección de las personas representantes del Consejo del CER en las condiciones que mejor aseguren la designación y la participación de todos los sectores de la comunidad educativa, conforme a lo establecido en el artículo 16 de la antedicha Orden de 12 de mayo de 2016. 3. Constituida la Junta electoral, estudiará y planificará el proceso conforme al calendario establecido al efecto.
+2. Las juntas electorales se ocuparán de organizar el proceso de elección de las personas representantes del Consejo del CER en las condiciones que mejor aseguren la designación y la participación de todos los sectores de la comunidad educativa, conforme a lo establecido en el artículo 16 de la antedicha [Orden de 12 de mayo de 2016](../02_gestion_y_administracion_centros/O12_5_2016_regulan_composicion_procedimiento_constitucion_renovacion_consejos_escolares.md). 3. Constituida la Junta electoral, estudiará y planificará el proceso conforme al calendario establecido al efecto.
 
 4. La Junta electoral informará de los miembros que continúan su mandato y, como consecuencia, del número de vacantes a cubrir en cada uno de los sectores.
 
@@ -170,7 +179,7 @@ Octavo.- Elecciones de representantes del sector de padres, madres o personas tu
 
 2. Los maestros y maestras sustitutos, que se hallen cubriendo una sustitución temporal, podrán ser electores, pero no elegibles, pudiendo ser elegible el sustituido.
 
-3. Si en la primera votación no hubiese resultado elegido el número de maestros y maestras que corresponda, se procederá a realizar, en el mismo acto, una segunda votación para alcanzar dicho número, una vez considerados los desempates y sin perjuicio de lo dispuesto en el artículo 27 de la citada Orden de 12 de mayo de 2016. #### Décimo. Papeletas.
+3. Si en la primera votación no hubiese resultado elegido el número de maestros y maestras que corresponda, se procederá a realizar, en el mismo acto, una segunda votación para alcanzar dicho número, una vez considerados los desempates y sin perjuicio de lo dispuesto en el artículo 27 de la citada [Orden de 12 de mayo de 2016](../02_gestion_y_administracion_centros/O12_5_2016_regulan_composicion_procedimiento_constitucion_renovacion_consejos_escolares.md). #### Décimo. Papeletas.
 
 1. Las papeletas para las votaciones deberán llevar el sello del CER y contener la relación de todas las candidaturas proclamadas por la Junta electoral, ordenadas alfabéticamente por el primer apellido y numeradas de forma correlativa, así como especificar, de forma clara, el número máximo de personas candidatas que puedan señalar. En el margen izquierdo, y delante del número cardinal, figurará un recuadro en blanco en donde la persona electora señalará con una cruz la candidatura o las candidaturas por las que vota. Si la Junta electoral, de acuerdo con sus competencias, hubiera establecido el modelo de papeleta, este se hará público en el tablón de anuncios y en la web del CER, en su caso.
 

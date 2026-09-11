@@ -97,8 +97,16 @@ relaciones:
   - norma_id: norm-can-d-135-2016
   - norma_id: norm-can-d-212-1991
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2018-048-1091.pdf
+fundamentos_derecho:
+- norma_id: norm-can-d-135-2016
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-es-l-39-2015
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-2016-3229
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-rd-1041-2017
+- norma_id: norm-es-2010-12201
 ---
-
 # Resolución de 27 de febrero de 2018, por la que se determinan las características de las pruebas para la obtención del certificado de nivel C2 de enseñanzas de idiomas de régimen especial, en la Comunidad Autónoma de Canarias (BOC n.º 48, de 8 de marzo).
 
 ## Preámbulo
@@ -106,7 +114,7 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2018-048-1091.
 Primero.- Anualmente se convocan pruebas para la obtención de los certificados de enseñanzas de idiomas de régimen especial en la Comunidad Autónoma de Canarias.
 Segundo.- Estas pruebas, de carácter común y unificado, son elaboradas de acuerdo con unas instrucciones concretas, que determinan la estructura general de la prueba, el formato, el calendario de elaboración, así como los procesos de validación y revisión que garantizan la fiabilidad de las pruebas.
 Tercero.- Esas instrucciones también definen las características de cada una de las partes de la prueba en relación con los niveles hasta ahora convocados: nivel básico, nivel intermedio, nivel avanzado y nivel C1. Cuarto.- En el curso 2017/2018 ha comenzado a impartirse en las Escuelas Oficiales de Idiomas el nivel C2. Puesto que hasta ahora no han sido convocadas pruebas para la obtención del certificado de especialización de este nivel, queda por definir las características concretas de las pruebas en relación con este nivel C2. A los anteriores hechos les son de aplicación los siguientes FUNDAMENTOS DE DERECHO
-Primero.- La [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación (BOE nº 106, de 4 de mayo de 2006), en la redacción actual dada por la [Ley Orgánica 8/2013](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md), de 9 de diciembre, para la mejora de la calidad educativa (BOE nº 295, de 10 de diciembre de 2013), regula en sus artículos 59, 60, 61 y 62 la ordenación de las enseñanzas de idiomas, estableciendo que estas enseñanzas se organizarán en tres niveles, que se corresponderán, respectivamente, con los niveles A, B y C del Marco Común Europeo de Referencia para las Lenguas, que se subdividen en los niveles A1, A2, B1, B2, C1 y C2. Segundo.- El Real Decreto 1041/2017, de 22 de diciembre, por el que se fijan las exigencias mínimas del nivel básico a efectos de certificación, se establece el currículo básico de los niveles Intermedio B1, Intermedio B2, Avanzado C1, y Avanzado C2, de las Página
+Primero.- La [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación (BOE nº 106, de 4 de mayo de 2006), en la redacción actual dada por la [Ley Orgánica 8/2013](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md), de 9 de diciembre, para la mejora de la calidad educativa (BOE nº 295, de 10 de diciembre de 2013), regula en sus artículos 59, 60, 61 y 62 la ordenación de las enseñanzas de idiomas, estableciendo que estas enseñanzas se organizarán en tres niveles, que se corresponderán, respectivamente, con los niveles A, B y C del Marco Común Europeo de Referencia para las Lenguas, que se subdividen en los niveles A1, A2, B1, B2, C1 y C2. Segundo.- El [Real Decreto 1041/2017](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1041_2017_exigencias_minimas_curriculo_basico_idiomas_regimen_especial.md), de 22 de diciembre, por el que se fijan las exigencias mínimas del nivel básico a efectos de certificación, se establece el currículo básico de los niveles Intermedio B1, Intermedio B2, Avanzado C1, y Avanzado C2, de las Página
 
 Enseñanzas de idiomas de régimen especial reguladas por la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, y se establecen las equivalencias entre las enseñanzas de idiomas de régimen especial reguladas en diversos planes de estudios (BOE nº 311, de 23 de diciembre de 2017), a los efectos de la certificación, fija las exigencias mínimas de nivel básico y el currículo de los niveles intermedio B1, B2 y avanzado C1 y C2. Tercero.- El Decreto 362/2007, de 2 de octubre, por el que se establece la ordenación de las enseñanzas de idiomas de régimen especial en la Comunidad Autónoma de Canarias (BOC nº 205, de 15 de octubre de 2007), dedica los artículos 15 y 16 a los cursos de especialización y actualización y su
 

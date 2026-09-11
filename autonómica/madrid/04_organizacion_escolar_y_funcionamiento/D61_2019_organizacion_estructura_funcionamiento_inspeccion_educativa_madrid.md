@@ -25,8 +25,15 @@ tags:
 - organizacion_inspeccion
 - supervision_escolar
 - madrid
+fundamentos_derecho:
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-mad-l12-1999-creacion-consejo-escolar-comunidad-madrid
+- norma_id: norm-mad-l1-1983-gobierno-administracion-comunidad-madrid
+- norma_id: norm-es-l-39-2015
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
 ---
-
 # Decreto 61/2019, de 9 de julio, del Consejo de Gobierno, por el que se regula la organización, estructura y funcionamiento de la Inspección Educativa en la Comunidad de Madrid
 
 ## Preámbulo
@@ -38,7 +45,7 @@ la organización, estructura y funcionamiento de la Inspección Educativa en la
 Comunidad de Madrid.
 La Constitución Española establece en su artículo 27.8, que los poderes públicos inspec-
 cionarán y homologarán el sistema educativo para garantizar el cumplimiento de las leyes.
-La Ley Orgánica 2/2006, de 3 de mayo, de Educación, establece en su artículo 148.2
+La [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, establece en su artículo 148.2
 que corresponde a las Administraciones Públicas competentes ordenar, regular y ejercer la
 Inspección Educativa dentro del respectivo ámbito territorial. El artículo 148.3 establece,
 igualmente, que la Inspección Educativa se realizará sobre todos los elementos y aspectos
@@ -75,7 +82,7 @@ rece la calidad de la enseñanza y que ha de ser ejercida desde la profesionalid
 necesaria autonomía, por lo que requiere un alto nivel de capacitación profesional y una
 adecuada formación.
 El proyecto normativo se ha elaborado atendiendo a los principios de buena regulación
-previstos en el artículo 129 de la Ley 39/2015, de 1 de octubre, del Procedimiento Admi-
+previstos en el artículo 129 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Admi-
 nistrativo Común de las Administraciones Públicas.
 Se atiende a los principios de necesidad y eficacia porque se dota a la Inspección Edu-
 cativa de un marco jurídico estable, con el rango normativo adecuado, que permita poste-
@@ -93,10 +100,10 @@ Autonomía, es plenamente competente en materia de educación no universitaria y
 ponde, por tanto, establecer las normas que, respetando las competencias estatales, desarro-
 llen los aspectos que han de ser de aplicación en su ámbito territorial.
 En el proceso de elaboración de este decreto ha emitido dictamen el Consejo Escolar
-de la Comunidad de Madrid, de acuerdo con el artículo 2.1.b) de la Ley 12/1999, de 29 de
+de la Comunidad de Madrid, de acuerdo con el artículo 2.1.b) de la [Ley 12/1999](../01_marco_normativo_general_y_organico/L12_1999_creacion_consejo_escolar_comunidad_madrid.md), de 29 de
 abril, de creación del Consejo Escolar de la Comunidad de Madrid. Asimismo se ha emiti-
 do informe por la Abogacía General de la Comunidad de Madrid.
-De acuerdo con lo establecido en el artículo 21.g) de la Ley 1/1983, de 13 de diciem-
+De acuerdo con lo establecido en el artículo 21.g) de la [Ley 1/1983](../01_marco_normativo_general_y_organico/L1_1983_gobierno_administracion_comunidad_madrid.md), de 13 de diciem-
 bre, de Gobierno y Administración de la Comunidad de Madrid, el Consejo de Gobierno de
 la Comunidad de Madrid es competente para dictar el presente decreto.
 En virtud de todo lo anterior, a propuesta del Consejero de Educación e Investigación,
@@ -146,7 +153,7 @@ Velar por el cumplimiento, en los centros educativos, de las leyes, reglamentos 
 demás disposiciones vigentes que afecten al sistema educativo.
 f)
 Velar por el cumplimiento y aplicación de los principios y valores recogidos en la
-Ley Orgánica 2/2006, de 3 de mayo, de Educación, en particular los destinados a
+[Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, en particular los destinados a
 fomentar la igualdad real entre hombres y mujeres, así como velar por la igualdad
 y no discriminación de otros colectivos que por razón no sólo de género sino de
 orientación o identidad sexual o por cualquier otra circunstancia, puedan ser ob-
@@ -172,7 +179,7 @@ Cualesquiera otras que se le encomiende de acuerdo con la normativa vigente.
 Las funciones de la Inspección Educativa serán desempeñadas por los funcionarios
 pertenecientes a los Cuerpos de Inspectores de Educación e Inspectores al Servicio de la
 Administración Educativa y por los funcionarios a los que se refiere el apartado 2 de la dis-
-posición adicional decimotercera de la Ley Orgánica 2/2006, de 3 de mayo, así como fun-
+posición adicional decimotercera de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, así como fun-
 cionarios docentes de los cuerpos docente no universitarios en comisión de servicios como
 Inspectores accidentales.
 

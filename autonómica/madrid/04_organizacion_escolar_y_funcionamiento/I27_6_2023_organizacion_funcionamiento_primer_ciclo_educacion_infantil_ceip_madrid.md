@@ -28,8 +28,14 @@ relaciones:
   - norm-es-lo-2-2006
   - norm-mad-d-36-2022
 fuente_pdf_oficial: https://www.comunidad.madrid/docs/assets/2023/06/27/instrucciones_primer_ciclo_infantil_en_ceip_2023-2024.pdf
+fundamentos_derecho:
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-2013-13756
+- norma_id: norm-es-1985-5392
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
 ---
-
 # Instrucciones de 27 de junio de 2023, de la Dirección General de Educación Infantil, Primaria y Especial, sobre organización y funcionamiento del primer ciclo de Educación Infantil en centros de Educación Infantil y Primaria (CEIP) de la Comunidad de Madrid.
 
 ## Preámbulo
@@ -659,9 +665,9 @@ distintos momentos de la jornada escolar.
  Garantizar que el alumnado tenga suficiente  contacto con los espacios al aire 
 libre.  
  Fijar un horario adecuado para la atención a las familias.  
-En cumplimiento de la normativa vigente, Ley Orgánica 2/2006, de 3 de mayo, de 
-Educación, Disposición adicional decimoquinta y Ley 27/2013, de 27 de diciembre, de 
-racionalización y sostenibilidad de la Administración Local, que modifica la Ley 7/1985, 
+En cumplimiento de la normativa vigente, [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de 
+Educación, Disposición adicional decimoquinta y [Ley 27/2013](../../../estatal/02_gestion_y_administracion_centros/L27_2013_racionalizacion_sostenibilidad_administracion_local.md), de 27 de diciembre, de 
+racionalización y sostenibilidad de la Administración Local, que modifica la [Ley 7/1985](../../../estatal/02_gestion_y_administracion_centros/L7_1985_reguladora_bases_regimen_local.md), 
 de 2  de abril, reguladora de las Bases de Régimen Local, “la conservación, el 
 mantenimiento y la vigilancia de los edificios destinados a centros públicos de educación 
 infantil, de educación primaria o de educación especial, corresponderán al municipio 

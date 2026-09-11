@@ -31,8 +31,10 @@ relaciones:
   - norma_id: norm-and-l17-2007
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-l-39-2015
+fundamentos_derecho:
+- norma_id: norm-and-l17-2007
+- norma_id: norm-and-l6-2006-gobierno-comunidad-autonoma-andalucia
 ---
-
 # Orden de 16 de noviembre de 2007, por la que se regula la evaluación en las Escuelas Oficiales de Idiomas.
 
 ## Preámbulo
@@ -40,7 +42,7 @@ relaciones:
 
 Decreto se encuentran las de desarrollo, coordinación y promoción de las políticas activas en materia de personas mayores, integración social de personas con discapacidad y de atención a la dependencia. Se reconoce a la Dirección General de Personas Mayores el ejercicio de estas competencias y en particular el diseño, la realización y la evaluación de los servicios y programas específicos dirigidos a las personas mayores, especialmente los relativos a la atención a la dependencia y al fomento del envejecimiento activo. Como consecuencia de ello se establece una regulación del programa de Turismo Social de personas mayores de Andalucía mediante la Orden de 12 de mayo de 2005, modificada por la de 14 de noviembre de 2006. Transcurrida esta primera etapa se hace necesario, en aras de procurar un mejor servicio a las Personas Mayores y garantizar así la mejora de su calidad de vida, un desarrollo más pormenorizado y exhaustivo de esta materia.
 
-En su virtud, a propuesta de la Dirección General de Personas Mayores, en uso de las facultades conferidas por el artículo 44.2 de la Ley 6/2006, de 24 de octubre, del Gobierno de la Comunidad Autónoma,
+En su virtud, a propuesta de la Dirección General de Personas Mayores, en uso de las facultades conferidas por el artículo 44.2 de la [Ley 6/2006](../01_marco_normativo_general_y_organico/L6_2006_gobierno_comunidad_autonoma_andalucia.md), de 24 de octubre, del Gobierno de la Comunidad Autónoma,
 DISPONGO:
 
 #### Artículo . #### Artículo . ### Capítulo I

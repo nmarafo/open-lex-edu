@@ -173,8 +173,16 @@ relaciones:
   desarrolla:
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-lo-8-2021
+fundamentos_derecho:
+- norma_id: norm-and-l6-2006-gobierno-comunidad-autonoma-andalucia
+- norma_id: norm-and-d137-2002-apoyo-familias-andaluzas-servicios-educativos
+- norma_id: norm-and-l9-1999-solidaridad-en-la-educacion-andalucia
+- norma_id: norm-and-d-85-1999
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
 ---
-
 # Decreto 19/2007, de 23 de enero, por el que se adoptan medidas para la promoción de la Cultura de Paz y la Mejora de la Convivencia en los Centros Educativos sostenidos con fondos públicos.
 
 ## Preámbulo
@@ -228,7 +236,7 @@ bre, de fomento de la educación y la cultura de paz, ha esta-
 blecido una serie de medidas destinadas al ámbito educativo 
 y de la investigación, con el objeto de establecer la cultura de 
 paz y no-violencia en nuestra sociedad.
-Asimismo, la Ley Orgánica 2/2006, de 3 de mayo, de 
+Asimismo, la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de 
 Educación, en los párrafos c), k) y l) de su artículo 1 establece 
 como principios del sistema educativo la transmisión y puesta 
 en práctica de valores que favorezcan la libertad personal, la 
@@ -240,7 +248,7 @@ pacífica de los mismos, así como la no violencia en todos los
 ámbitos de la vida personal, familiar y social y el desarrollo de 
 la igualdad de derechos y oportunidades y el fomento de la 
 igualdad efectiva entre hombres y mujeres.
-En Andalucía, la Ley 9/1999, de 18 de noviembre, de So-
+En Andalucía, la [Ley 9/1999](../06_atencion_diversidad_y_orientacion/L9_1999_solidaridad_en_la_educacion_andalucia.md), de 18 de noviembre, de So-
 lidaridad en la Educación, establece como uno de sus objeti-
 vos el desarrollo de actitudes de comunicación y respeto entre 
 todos los miembros de la comunidad educativa, independien-
@@ -258,7 +266,7 @@ lucía elaboró un informe sobre la convivencia en los centros
 educativos en Andalucía el 20 de diciembre de 2005.
 En su virtud, a propuesta de la Consejera de Educación, 
 de conformidad con lo establecido en el apartado 3 del ar-
-tículo 21 de la Ley 6/2006, de 24 de octubre, del Gobierno de 
+tículo 21 de la [Ley 6/2006](../01_marco_normativo_general_y_organico/L6_2006_gobierno_comunidad_autonoma_andalucia.md), de 24 de octubre, del Gobierno de 
 la Comunidad Autónoma de Andalucía, de acuerdo con el Con-
 sejo Consultivo de Andalucía y previa deliberación del Consejo 
 de Gobierno en su reunión del día 23 de enero de 2007,
@@ -1842,7 +1850,7 @@ Convivencia Escolar se constituirá en un plazo máximo de tres
 meses, contados a partir de la fecha de entrada en vigor del 
 presente Decreto.
 Disposición derogatoria única. Derogación normativa.
-Queda derogado el Decreto 85/1999, de 6 de abril, por 
+Queda derogado el [Decreto 85/1999](./D85_1999_derechos_deberes_alumnado_andalucia.md), de 6 de abril, por 
 el que se regulan los derechos y deberes del alumnado y las 
 correspondientes normas de convivencia en los centros do-
 centes públicos y concertados no universitarios, excepto los 
@@ -1854,7 +1862,7 @@ Disposición final primera. Modificación del Decreto
 deberes del alumnado y las correspondientes normas de con-
 vivencia en los centros docentes públicos y privados concerta-
 dos no universitarios.
-El Decreto 85/1999, de 6 de abril, por el que se regulan 
+El [Decreto 85/1999](./D85_1999_derechos_deberes_alumnado_andalucia.md), de 6 de abril, por el que se regulan 
 los derechos y deberes del alumnado y las correspondientes 
 normas de convivencia en los centros docentes públicos y pri-
 vados concertados no universitarios, queda modificado como 
@@ -1869,7 +1877,7 @@ Sevilla, 2 de febrero 2007
 BOJA núm. 25 
 Página núm. 23
 concertados, en relación con las enseñanzas reguladas en la 
-Ley Orgánica 2/2006, de 3 de mayo, de Educación.»
+[Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación.»
 Dos. Se modifica el apartado 2 del artículo 2, que queda 
 redactado de la siguiente manera:
 «2. El ejercicio de los derechos y el cumplimiento de los 
@@ -1962,7 +1970,7 @@ ORDEN de 19 de enero de 2007, por la que se
 modifica el Anexo relativo al modelo de impreso de so-
 licitud de reserva de plazas en centros de atención so-
 cioeducativa para niños y niñas menores de tres años.
-El Decreto 137/2002, de 30 de abril, de Apoyo a las Fami-
+El [Decreto 137/2002](../05_alumnado_y_servicios_escolares/D137_2002_apoyo_familias_andaluzas_servicios_educativos.md), de 30 de abril, de Apoyo a las Fami-
 lias Andaluzas, ha previsto un conjunto de medidas, servicios 
 y ayudas a la institución familiar desde una perspectiva global, 
 incidiendo entre otras cuestiones en la protección social, la 

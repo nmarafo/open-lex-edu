@@ -58,8 +58,9 @@ relaciones:
   - norma_id: norm-es-lo-8-1985
   articulos:
   - norma_id: '27'
+fundamentos_derecho:
+- norma_id: norm-es-lo-8-1985
 ---
-
 # Real Decreto 1533/1986, de 11 de julio, por el que se regulan las asociaciones de padres de alumnos.
 
 ## Preámbulo

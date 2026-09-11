@@ -25,8 +25,18 @@ tags:
 - directores
 - jefes_estudios
 - madrid
+fundamentos_derecho:
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-mad-d248-2023
+- norma_id: norm-mad-d-28-2024
+- norma_id: norm-mad-r-19-10-2023
+- norma_id: norm-es-l-39-2015
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-lo-8-1985
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-rd-1041-2017
+- norma_id: norm-es-2010-12201
 ---
-
 # Resolución de 12 de marzo de 2026, de la Dirección General de Recursos Humanos, por la que se convocan listas extraordinarias permanentemente abiertas en determinadas especialidades y cuerpos
 
 ## Preámbulo
@@ -61,8 +71,8 @@ listas extraordinarias permanentemente abiertas en las especialidades relacionad
 
 ## Anexo I. Por cuanto antecede, esta Dirección General de Recursos Humanos, en virtud de las
 
-competencias conferidas en el Decreto 248/2023, de 11 de octubre, del Consejo de Gobier-
-no, modificado por el Decreto 28/2024, de 24 de abril, del Consejo de Gobierno, por el que
+competencias conferidas en el [Decreto 248/2023](../01_marco_normativo_general_y_organico/D248_2023_estructura_organica_consejeria_educacion_ciencia_universidades_madrid.md), de 11 de octubre, del Consejo de Gobier-
+no, modificado por el [Decreto 28/2024](../01_marco_normativo_general_y_organico/D28_2024_modificacion_estructura_organica_consejeria_educacion_ciencia_universidades_madrid.md), de 24 de abril, del Consejo de Gobierno, por el que
 se establece la estructura orgánica de la Consejería de Educación, Ciencia y Universidades,
 RESUELVE
 Primero
@@ -87,7 +97,7 @@ Segundo
 Requisitos de los aspirantes para formar parte de la lista extraordinaria
 Podrán solicitar pertenecer a estas listas extraordinarias aquellas personas que reúnan
 o estén en condiciones de reunir, a la fecha de su nombramiento, los requisitos establecidos
-en el artículo segundo de la Resolución de 19 de octubre de 2023, de la Dirección General
+en el artículo segundo de la [Resolución de 19 de octubre de 2023](./R19_10_2023_bases_convocatorias_listas_extraordinarias_interinos_docentes_madrid.md), de la Dirección General
 de Recursos Humanos, por la que se establecen las bases reguladoras que han de regir las
 convocatorias de listas extraordinarias permanentemente abiertas para la selección de aspi-
 rantes a ocupar puestos docentes en régimen de interinidad en los centros docentes públi-
@@ -122,7 +132,7 @@ Baremo
 A la presente convocatoria le será de aplicación el baremo que se recoge en el Anexo IV.
 Sexto
 Recursos
-De conformidad con los artículos 115, 121 y 122 de la Ley 39/2015, de 1 de octubre,
+De conformidad con los artículos 115, 121 y 122 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre,
 del Procedimiento Administrativo Común de las Administraciones Públicas, esta Resolu-
 ción, que no agota la vía administrativa, podrá ser recurrida en alzada ante la Viceconseje-
 ría de Política y Organización Educativa en el plazo de un mes, contado a partir del día si-
@@ -258,13 +268,13 @@ en más de un centro docente.
 subapartados relativos a la experiencia docente previa.
 
 ➢ Se entiende por centros públicos los centros, a los que se refiere el Capítulo II del Título IV de la
-Ley Orgánica 2/2006, de 3 de mayo de educación, integrados en la red pública de centros creados y
+[Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo de educación, integrados en la red pública de centros creados y
 sostenidos por las Administraciones Educativas.
 
 ➢ Se entenderá por “otros centros” aquellos cuyo titular es una persona física o jurídica de carácter
 privado, en cuya apertura y funcionamiento están sometidos al principio de autorización
 administrativa, la cual se concede previa constatación de que reúnan los requisitos mínimos
-establecidos, conforme a lo dispuesto en el artículo 23 de la Ley Orgánica 8/1985, de 3 de julio,
+establecidos, conforme a lo dispuesto en el artículo 23 de la [Ley Orgánica 8/1985](../../../estatal/02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md), de 3 de julio,
 Reguladora del Derecho a la Educación o en el Titulo IV. Capítulos III y IV de la Ley Órgánica 2/2006,
 de 3 de mayo, de Educación.
 
@@ -286,7 +296,7 @@ por traductor jurado o validada por el consulado u oficina correspondiente) al c
 que por la Dirección General de Recursos Humanos puedan recabarse informes complementarios
 para verificar la autenticidad de los documentos presentados. La categoría por la que se haya
 formalizado el contrato deberá ser equivalente a las incluidas en la Disposición adicional séptima de
-la Ley Orgánica 2/2006, de 3 de mayo, de Educación, donde se incluye el ordenamiento de los
+la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, donde se incluye el ordenamiento de los
 cuerpos en la función pública.
 
 ➢ Los servicios prestados en centros públicos dependientes de los Ayuntamientos, tanto de gestión
@@ -321,7 +331,7 @@ con los servicios efectivamente prestados, será tramitada en la Dirección de �
 correspondiente.
 
 ➢ Sólo se valorarán los servicios prestados en las enseñanzas que corresponde impartir a los
-cuerpos docentes que se ordenan en la Disposición adicional séptima de la Ley Orgánica 2/2006, de
+cuerpos docentes que se ordenan en la Disposición adicional séptima de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de
 3 de mayo, de Educación. No obstante, los servicios prestados en universidades españolas serán
 valorados.
 
@@ -579,7 +589,7 @@ para ingreso en la función pública docente, o que no hayan sido necesarias par
 #### título alegado.
 
 ➢ La certificación del nivel avanzado o equivalente de las Escuelas Oficiales de Idiomas es la que
-se corresponde con la establecida en el Real decreto 1041/2017, de 22 de diciembre (BOE 311, 23
+se corresponde con la establecida en el [Real decreto 1041/2017](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1041_2017_exigencias_minimas_curriculo_basico_idiomas_regimen_especial.md), de 22 de diciembre (BOE 311, 23
 de diciembre), por lo que deberán aplicarse las equivalencias previstas en el Anexo II del mismo.
 
 ➢ Se puntuará un solo certificado por idioma con 0,500 puntos.

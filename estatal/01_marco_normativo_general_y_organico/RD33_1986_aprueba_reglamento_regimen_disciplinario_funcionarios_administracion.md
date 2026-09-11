@@ -66,8 +66,9 @@ relaciones:
   articulos:
   - norma_id: '27'
   - norma_id: norm-es-1984-17387
+fundamentos_derecho:
+- norma_id: norm-es-1984-17387
 ---
-
 # Real Decreto 33/1986, de 10 de enero, por el que se aprueba el Reglamento de Régimen Disciplinario de los Funcionarios de la Administración del Estado.
 
 ## Preámbulo

@@ -107,8 +107,10 @@ relaciones:
   - norma_id: '27'
   - norma_id: norm-es-1984-17387
   - norma_id: norm-es-l-31-1995
+fundamentos_derecho:
+- norma_id: norm-es-1984-17387
+- norma_id: norm-es-l-31-1995
 ---
-
 # Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres.
 
 ## Preámbulo

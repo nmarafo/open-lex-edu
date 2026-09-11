@@ -64,8 +64,22 @@ relaciones:
   - norma_id: norm-es-l-39-2015
   - norma_id: norm-es-l-40-2015
   - norma_id: norm-and-l17-2007
+fundamentos_derecho:
+- norma_id: norm-and-l12-2007-promocion-igualdad-genero-andalucia
+- norma_id: norm-and-l17-2007
+- norma_id: norm-and-l6-2006-gobierno-comunidad-autonoma-andalucia
+- norma_id: norm-and-l9-2007-administracion-junta-andalucia-laja
+- norma_id: norm-and-d-71-2009
+- norma_id: norm-and-d25-2007-prevencion-riesgos-laborales-salud-trabajo-centros-docentes-andalucia
+- norma_id: norm-and-d328-2010
+- norma_id: norm-and-d19-2007
+- norma_id: norm-and-d-85-1999
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-lo-8-1985
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
 ---
-
 # Decreto 327/2010, de 13 de julio, por el que se aprueba el Reglamento Orgánico de los Institutos de Educación Secundaria.
 
 ## Preámbulo
@@ -99,13 +113,13 @@ como legislativa, que ha hecho necesario abordar la elabora-
 ción de un nuevo marco regulador que responda de manera 
 más ajustada a los requerimientos que nuestra sociedad, y 
 por consiguiente nuestros centros, tienen hoy.
-La Ley Orgánica 2/2006, de 3 de mayo, de Educación, 
+La [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, 
 ha introducido importantes novedades en la organización, 
 funcionamiento y gobierno de los institutos de educación se-
 cundaria, profundizando en los conceptos de participación de 
 la comunidad educativa y de autonomía pedagógica, organiza-
 tiva y de gestión.
-Por otra parte, la Ley 17/2007, de 10 de diciembre, de 
+Por otra parte, la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre, de 
 Educación de Andalucía, reconoce dichos principios al dedicar 
 el Título I a la comunidad educativa: alumnado, profesorado, al 
 que concede el papel relevante que representa en el sistema 
@@ -124,7 +138,7 @@ su liderazgo pedagógico y organizativo. Finalmente, pone énfa-
 sis en la coordinación de las actuaciones de los distintos órga-
 nos y en el trabajo en equipo del profesorado.
 Los cambios mencionados, junto con la necesidad de con-
-cretar y desarrollar los aspectos regulados en la Ley 17/2007, 
+cretar y desarrollar los aspectos regulados en la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), 
 de 10 de diciembre, requieren de la derogación del reglamento 
 de organización y funcionamiento de los institutos de educa-
 ción secundaria actualmente en vigor.
@@ -169,7 +183,7 @@ digital, de manera que el alumnado sea partícipe en la edifica-
 ción de la sociedad del conocimiento.
 Por otra parte, la atribución de mayores competencias a 
 los directores y directoras, en desarrollo de lo establecido en 
-la mencionada Ley 17/2007, de 10 de diciembre, junto con 
+la mencionada [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre, junto con 
 la simplificación administrativa constituyen, indudablemente, 
 un novedoso marco regulador de la organización y funciona-
 miento de los institutos respecto al modelo hoy vigente que, 
@@ -194,7 +208,7 @@ educativos y de convivencia, como forma de asunción de res-
 ponsabilidades compartidas en la tarea de educar a sus hijos 
 e hijas, entre las que cabría señalar la de colaboración en el 
 uso seguro de internet por el alumnado en consonancia con lo 
-regulado en el Decreto 25/2007, de 6 de febrero, por el que 
+regulado en el [Decreto 25/2007](./D25_2007_prevencion_riesgos_laborales_salud_trabajo_centros_docentes_andalucia.md), de 6 de febrero, por el que 
 se establecen medidas para el fomento, la prevención de ries-
 gos y la seguridad en el uso de internet y las tecnologías de la 
 información y la comunicación (TIC) por parte de las personas 
@@ -212,7 +226,7 @@ conformidad en lo establecido en el artículo 45.1.c) de la Ley
 tónoma de Andalucía.
 En su virtud, a propuesta del Consejero de Educación, 
 de conformidad con lo establecido en el artículo 27.9 de la 
-Ley 6/2006, de 24 de octubre, de acuerdo con el Consejo 
+[Ley 6/2006](../01_marco_normativo_general_y_organico/L6_2006_gobierno_comunidad_autonoma_andalucia.md), de 24 de octubre, de acuerdo con el Consejo 
 Consultivo de Andalucía y previa deliberación del Consejo de 
 Gobierno en su reunión del día 13 de julio de 2010, 
 D I S P O N G O
@@ -302,7 +316,7 @@ a) Aprobar y evaluar la programación general de las acti-
 vidades escolares complementarias y extraescolares propias 
 de la sección.
 b) Decidir sobre la admisión del alumnado en la sección 
-con sujeción a lo establecido en la Ley Orgánica 2/2006, de 3 
+con sujeción a lo establecido en la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 
 de mayo, de Educación, y disposiciones que la desarrollen.
 c) Realizar el seguimiento de los compromisos educativos 
 y de convivencia suscritos en la sección, para garantizar su 
@@ -431,11 +445,11 @@ Ciencia de 9 de septiembre de 1997, por la que se regulan de-
 terminados aspectos sobre la organización y el funcionamiento 
 de los institutos de educación secundaria de la Comunidad 
 Autónoma de Andalucía.
-b) El Decreto 85/1999, de 6 de abril, por el que se regu-
+b) El [Decreto 85/1999](../07_convivencia_bienestar_y_protocolos/D85_1999_derechos_deberes_alumnado_andalucia.md), de 6 de abril, por el que se regu-
 lan los derechos y deberes del alumnado y las correspondien-
 tes normas de convivencia en los centros docentes públicos y 
 concertados no universitarios.
-c) Los Títulos II y III del Decreto 19/2007, de 23 de enero, 
+c) Los Títulos II y III del [Decreto 19/2007](../07_convivencia_bienestar_y_protocolos/D19_2007_promocion_cultura_paz_mejora_convivencia_centros_andalucia.md), de 23 de enero, 
 por el que se adoptan medidas para la promoción de la cultura 
 de paz y la mejora de la convivencia en los centros educativos 
 sostenidos con fondos públicos, y la Orden de la Consejería 
@@ -483,7 +497,7 @@ se aprueba mediante el presente Decreto reproducen nor-
 mas dictadas por el Estado al amparo del artículo 149.1.1.ª y 
 30.ª de la Constitución Española y recogidas en la Ley Orgá-
 nica 8/1985, de 3 de julio, reguladora del Derecho a la Edu-
-cación, y en la Ley Orgánica 2/2006, de 3 de mayo, de Edu-
+cación, y en la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Edu-
 cación.
 Disposición final cuarta. Reproducción de la normativa 
 autonómica.
@@ -501,9 +515,9 @@ mediante el presente Decreto, así como el apartado 3 de la
 disposición adicional tercera y el primer párrafo de la disposi-
 ción adicional cuarta del presente Decreto reproducen normas 
 dictadas por la Comunidad Autónoma de Andalucía y recogi-
-das en la Ley 17/2007, de 10 de diciembre, de Educación de 
-Andalucía, en la Ley 9/2007, de 22 de octubre, de la Adminis-
-tración de la Junta de Andalucía, en la Ley 12/2007, de 26 
+das en la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre, de Educación de 
+Andalucía, en la [Ley 9/2007](../01_marco_normativo_general_y_organico/L9_2007_administracion_junta_andalucia_laja.md), de 22 de octubre, de la Adminis-
+tración de la Junta de Andalucía, en la [Ley 12/2007](../01_marco_normativo_general_y_organico/L12_2007_promocion_igualdad_genero_andalucia.md), de 26 
 de noviembre, para la promoción de la igualdad de género en 
 Andalucía, y en la Ley 13/2007, de 26 de noviembre, de pre-
 vención y protección integral contra la violencia de género.
@@ -703,7 +717,7 @@ objeto el centro, así como del Plan de Centro establecido por
 el mismo.
 4. Las asociaciones del alumnado se inscribirán en el 
 Censo de Entidades Colaboradoras de la Enseñanza, a que 
-se refiere el Decreto 71/2009, de 31 de marzo, por el que se 
+se refiere el [Decreto 71/2009](../02_gestion_y_administracion_centros/D71_2009_regula_censo_entidades_colaboradoras_ensenanza_andalucia.md), de 31 de marzo, por el que se 
 regula el Censo de Entidades Colaboradoras de la Enseñanza.
 TÍTULO II
 EL PROFESORADO
@@ -927,7 +941,7 @@ que haya podido ser objeto, así como del Plan de Centro esta-
 blecido por el mismo.
 4. Las asociaciones de madres y padres del alumnado 
 se inscribirán en el Censo de Entidades Colaboradoras de la 
-Enseñanza, a que se refiere el Decreto 71/2009, de 31 de 
+Enseñanza, a que se refiere el [Decreto 71/2009](../02_gestion_y_administracion_centros/D71_2009_regula_censo_entidades_colaboradoras_ensenanza_andalucia.md), de 31 de 
 marzo.
 5. Se facilitará la colaboración de las asociaciones de 
 madres y padres del alumnado con los equipos directivos de 
@@ -1000,7 +1014,7 @@ de lo dispuesto en el presente Reglamento.
 3. Los centros creados con arreglo a lo establecido en 
 el apartado anterior tendrán, a todos los efectos, el carácter 
 de centros públicos, de acuerdo con la disposición adicional 
-segunda de la Ley Orgánica 8/1985, de 3 de julio.
+segunda de la [Ley Orgánica 8/1985](../../../estatal/02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md), de 3 de julio.
 Artículo 19. Modificación de enseñanzas.
 Por Orden de la persona titular de la Consejería compe-
 tente en materia de educación podrán modificarse las ense-
@@ -1025,8 +1039,8 @@ Artículo 21. Disposiciones generales.
 1. Los institutos de educación secundaria contarán con 
 autonomía pedagógica, de organización y de gestión para po-
 der llevar a cabo modelos de funcionamiento propios, en el 
-marco de la Ley Orgánica 2/2006, de 3 de mayo, de Educa-
-ción, de la Ley 17/2007, de 10 de diciembre, en los términos 
+marco de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educa-
+ción, de la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre, en los términos 
 recogidos en este Reglamento y en las normas que lo desa-
 rrollen.
 2. Dichos modelos de funcionamiento propios, que po-
@@ -1090,7 +1104,7 @@ ubicado.
 2. El proyecto educativo definirá los objetivos particulares 
 que el instituto de educación secundaria se propone alcanzar, 
 partiendo de su realidad y tomando como referencia la Ley 
-Orgánica 2/2006, de 3 de mayo, y la Ley 17/2007, de 10 de 
+Orgánica 2/2006, de 3 de mayo, y la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de 
 diciembre, acerca de los principios que orientan cada una de 
 las etapas educativas que se imparten en el centro y las co-
 rrespondientes prescripciones acerca del currículo.
@@ -1265,7 +1279,7 @@ h) El plan de autoprotección del instituto.
 i) Las normas sobre la utilización en el instituto de teléfo-
 nos móviles y otros aparatos electrónicos, así como el proce-
 dimiento para garantizar el acceso seguro a internet del alum-
-nado, de acuerdo con lo dispuesto en el Decreto 25/2007, 
+nado, de acuerdo con lo dispuesto en el [Decreto 25/2007](./D25_2007_prevencion_riesgos_laborales_salud_trabajo_centros_docentes_andalucia.md), 
 de 6 de febrero, por el que se establecen medidas para el 
 fomento, la prevención de riesgos y la seguridad en el uso de 
 internet y las tecnologías de la información y la comunicación 
@@ -1763,7 +1777,7 @@ director o directora en relación con las conductas de los alum-
 nos y alumnas a que se refiere el artículo 37, podrán ser re-
 visadas por el Consejo Escolar a instancia de los padres, ma-
 dres o representantes legales del alumnado, de acuerdo con 
-lo establecido en el artículo 127 de la Ley Orgánica 2/2006, 
+lo establecido en el artículo 127 de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), 
 de 3 de mayo. A tales efectos, el director o directora convo-
 cará una sesión extraordinaria del Consejo Escolar en el plazo 
 máximo de dos días lectivos, contados desde que se presente 
@@ -1870,7 +1884,7 @@ miento de los órganos colegiados de gobierno.
 Para lo no previsto en los artículos 52 y 69, el régimen 
 de funcionamiento de los órganos colegiados de gobierno de 
 los institutos de educación secundaria será el establecido en 
-el Capítulo II del Título IV de la Ley 9/2007, de 22 de octubre, 
+el Capítulo II del Título IV de la [Ley 9/2007](../01_marco_normativo_general_y_organico/L9_2007_administracion_junta_andalucia_laja.md), de 22 de octubre, 
 de la Administración de la Junta de Andalucía, en el Capítulo II 
 del Título II de la Ley 30/1992, de 26 de noviembre, y demás 
 normativa aplicable.
@@ -1932,7 +1946,7 @@ secretaría del Consejo Escolar, con voz y sin voto.
 tores de la comunidad educativa en el Consejo Escolar se rea-
 lizará de forma que permita la representación equilibrada de 
 hombres y mujeres, de conformidad con lo establecido en el 
-artículo 19.2 de la Ley 9/2007, de 22 de octubre.
+artículo 19.2 de la [Ley 9/2007](../01_marco_normativo_general_y_organico/L9_2007_administracion_junta_andalucia_laja.md), de 22 de octubre.
 4. Una vez constituido el Consejo Escolar del instituto, éste 
 designará una persona que impulse medidas educativas que fo-
 menten la igualdad real y efectiva entre hombres y mujeres.
@@ -1948,13 +1962,13 @@ tificación de la cuenta de gestión.
 c) Conocer las candidaturas a la dirección y los proyectos 
 de dirección presentados por las personas candidatas.
 d) Participar en la selección del director o directora del 
-centro en los términos que establece la Ley Orgánica 2/2006, 
+centro en los términos que establece la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), 
 de 3 de mayo. Ser informado del nombramiento y cese de 
 los demás miembros del equipo directivo. En su caso, previo 
 acuerdo de sus miembros, adoptado por mayoría de dos ter- cios, proponer la revocación del nombramiento del director o 
 directora.
 e) Decidir sobre la admisión del alumnado con sujeción 
-a lo establecido en la Ley Orgánica 2/2006, de 3 de mayo, y 
+a lo establecido en la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, y 
 disposiciones que la desarrollen.
 f) Realizar el seguimiento de los compromisos educativos 
 y de convivencia suscritos en el instituto, para garantizar su 
@@ -2422,7 +2436,7 @@ ción, de la innovación y de la investigación pedagógica y en la
 formación del profesorado del centro.
 f) Elegir sus representantes en el Consejo Escolar del cen-
 tro y participar en la selección del director o directora en los 
-términos establecidos en la Ley Orgánica 2/2006, de 3 de 
+términos establecidos en la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de 
 mayo, y demás normativa de aplicación.
 g) Conocer las candidaturas a la dirección y los proyectos 
 de dirección presentados por las personas candidatas.
@@ -2664,7 +2678,7 @@ trativa.
 Artículo 74. Selección, nombramiento y cese de la dirección.
 La selección, nombramiento y cese de la dirección de los 
 institutos de educación secundaria se realizará según lo es-
-tablecido en la Ley Orgánica 2/2006, de 3 de mayo, y en las 
+tablecido en la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, y en las 
 disposiciones que la desarrollen.
 Artículo 75. Competencias de la vicedirección.
 Son competencias de la vicedirección: 
@@ -3284,14 +3298,14 @@ la programación didáctica y proponer las medidas de mejora
 que se deriven del mismo.
 e) Elaborar, realizar y evaluar las pruebas específicas para 
 la obtención del título de graduado en educación secundaria 
-obligatoria a que se refiere el artículo 60.2 de la Ley 17/2007, 
+obligatoria a que se refiere el artículo 60.2 de la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), 
 de 10 de diciembre, de las materias, módulos o ámbitos asig-
 nados al departamento.
 f) Organizar e impartir las materias, módulos o ámbitos 
 asignados al departamento en los cursos destinados a la pre-
 paración de las pruebas de acceso a la formación profesional 
 inicial de grados medio y superior a que se refiere el artículo 
-71.3 de la Ley 17/2007, de 10 de diciembre.
+71.3 de la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre.
 g) Colaborar en la aplicación de las medidas de atención 
 a la diversidad que se desarrollen para el alumnado y elaborar 
 las programaciones didácticas de los módulos voluntarios de 
@@ -3446,7 +3460,7 @@ las actividades de enseñanza y aprendizaje.
 publicará periódicamente las conclusiones de interés general 
 de las evaluaciones de los institutos efectuadas por la Agencia 
 Andaluza de Evaluación Educativa. 
- DECRETO 328/2010, de 13 de julio, por el que se 
+ [DECRETO 328/2010](./D328_2010_reglamento_organico_escuelas_infantiles_colegios_primaria_andalucia.md), de 13 de julio, por el que se 
 aprueba el Reglamento Orgánico de las escuelas infan-
 tiles de segundo grado, de los colegios de educación 
 primaria, de los colegios de educación infantil y prima-
@@ -3483,13 +3497,13 @@ nuestros centros, tienen hoy. Idéntica consideración hay que
 hacer de los centros públicos específicos de educación espe-
 cial a los que también resulta de aplicación el Reglamento que 
 se aprueba por el presente Decreto.
-La Ley Orgánica 2/2006, de 3 de mayo, de Educación, 
+La [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, 
 ha introducido importantes novedades en la organización, fun-
 cionamiento y gobierno de los colegios de educación infantil y 
 primaria, profundizando en los conceptos de participación de 
 la comunidad educativa y de autonomía pedagógica, organiza-
 tiva y de gestión.
-Por otra parte, la Ley 17/2007, de 10 de diciembre, de 
+Por otra parte, la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre, de 
 Educación de Andalucía, reconoce dichos principios al dedicar 
 el título I a la comunidad educativa: alumnado, profesorado, al 
 que concede el papel relevante que representa en el sistema 
@@ -3508,7 +3522,7 @@ su liderazgo pedagógico y organizativo. Finalmente, pone énfa-
 sis en la coordinación de las actuaciones de los distintos órga-
 nos y en el trabajo en equipo del profesorado. 
 Los cambios mencionados, junto con la necesidad de con-
-cretar y desarrollar los aspectos regulados en la Ley 17/2007, 
+cretar y desarrollar los aspectos regulados en la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), 
 de 10 de diciembre, requieren de la derogación del reglamento 
 de organización y funcionamiento de los centros de educación 
 infantil y primaria actualmente en vigor.
@@ -3546,7 +3560,7 @@ manera que el alumnado sea partícipe en la edificación de la
 sociedad del conocimiento.
 Por otra parte, la atribución de mayores competencias a 
 los directores y directoras, en desarrollo de lo establecido en 
-la mencionada Ley 17/2007, de 10 de diciembre, junto con 
+la mencionada [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre, junto con 
 la simplificación administrativa constituyen, indudablemente, 
 un novedoso marco regulador de la organización y funciona-
 miento de los centros docentes respecto al modelo hoy vi-
@@ -3570,6 +3584,6 @@ educativos y de convivencia, como forma de asunción de res-
 ponsabilidades compartidas en la tarea de educar a sus hijos 
 e hijas, entre las que cabría señalar la de colaboración en el 
 uso seguro de internet por el alumnado en consonancia con lo 
-regulado en el Decreto 25/2007, de 6 de febrero, por el que 
+regulado en el [Decreto 25/2007](./D25_2007_prevencion_riesgos_laborales_salud_trabajo_centros_docentes_andalucia.md), de 6 de febrero, por el que 
 se establecen medidas para el fomento, la prevención de ries-
 gos y la seguridad en el uso de internet y las tecnologías de la

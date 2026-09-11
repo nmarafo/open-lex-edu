@@ -1,6 +1,13 @@
 ---
 id: norm-and-r11-1-2024-pruebas-obtencion-titulo-graduado-eso-mayores-andalucia
-titulo: Resolución de 11 de enero de 2024, de Dirección General de Ordenación, Inclusión, Participación y Evaluación Educativa, por la que se convocan, para el año 2024, las pruebas para la obtención del Título de Graduado en Educación Secundaria Obligatoria para personas mayores de dieciocho años y se establecen determinados aspectos de su organización, en virtud de lo establecido en la Orden de 16 de septiembre de 2019, que las regula y por la que se determina proceso específico de obtención de clave iANDE dirigido a las personas interesadas en la inscripción de las pruebas extraordinarias de obtención de título.
+titulo: Resolución de 11 de enero de 2024, de Dirección General de Ordenación, Inclusión,
+  Participación y Evaluación Educativa, por la que se convocan, para el año 2024,
+  las pruebas para la obtención del Título de Graduado en Educación Secundaria Obligatoria
+  para personas mayores de dieciocho años y se establecen determinados aspectos de
+  su organización, en virtud de lo establecido en la Orden de 16 de septiembre de
+  2019, que las regula y por la que se determina proceso específico de obtención de
+  clave iANDE dirigido a las personas interesadas en la inscripción de las pruebas
+  extraordinarias de obtención de título.
 jurisdiccion: Andalucía
 ambito: Autonómico
 organo_emisor: Dirección General de Profesorado y Gestión de Recursos Humanos
@@ -17,9 +24,16 @@ fuente_pdf_oficial: http://www.juntadeandalucia.es/boja/2024/14/BOJA24-014-00008
 clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Educación Secundaria Obligatoria
+fundamentos_derecho:
+- norma_id: norm-and-o-16-9-2019
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-es-l-39-2015
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-rd-217-2022
+- norma_id: norm-es-2010-12201
 ---
-
-# Resolución de 11 de enero de 2024, de Dirección General de Ordenación, Inclusión, Participación y Evaluación Educativa, por la que se convocan, para el año 2024, las pruebas para la obtención del Título de Graduado en Educación Secundaria Obligatoria para personas mayores de dieciocho años y se establecen determinados aspectos de su organización, en virtud de lo establecido en la Orden de 16 de septiembre de 2019, que las regula y por la que se determina proceso específico de obtención de clave iANDE dirigido a las personas interesadas en la inscripción de las pruebas extraordinarias de obtención de título.
+# Resolución de 11 de enero de 2024, de Dirección General de Ordenación, Inclusión, Participación y Evaluación Educativa, por la que se convocan, para el año 2024, las pruebas para la obtención del Título de Graduado en Educación Secundaria Obligatoria para personas mayores de dieciocho años y se establecen determinados aspectos de su organización, en virtud de lo establecido en la [Orden de 16 de septiembre de 2019](./O16_9_2019_pruebas_obtencion_titulo_graduado_eso_mayores_andalucia.md), que las regula y por la que se determina proceso específico de obtención de clave iANDE dirigido a las personas interesadas en la inscripción de las pruebas extraordinarias de obtención de título.
 
 ## Preámbulo
 
@@ -30,11 +44,11 @@ Inclusión, Participación y Evaluación Educativa, por la que se convocan,
 para el año 2024, las pruebas para la obtención del Título de Graduado en 
 Educación Secundaria Obligatoria para personas mayores de dieciocho años 
 y se establecen determinados aspectos de su organización, en virtud de lo 
-establecido en la Orden de 16 de septiembre de 2019, que las regula y por la 
+establecido en la [Orden de 16 de septiembre de 2019](./O16_9_2019_pruebas_obtencion_titulo_graduado_eso_mayores_andalucia.md), que las regula y por la 
 que se determina proceso específico de obtención de clave iANDE dirigido a 
 las personas interesadas en la inscripción de las pruebas extraordinarias de 
 obtención de título.
-La Ley Orgánica 2/2006, de 3 de mayo, de educación, en su redacción dada por la Ley 
+La [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de educación, en su redacción dada por la Ley 
 Orgánica 3/2020, de 29 de diciembre, en el artículo 66.1 establece que la educación de 
 personas adultas tiene la finalidad de ofrecer a todas las personas mayores de dieciocho 
 años la posibilidad de adquirir, actualizar, completar o ampliar sus conocimientos 
@@ -42,7 +56,7 @@ y aptitudes para su desarrollo personal y profesional. Por su parte, el artícul
 determina que corresponde a las administraciones educativas organizar periódicamente 
 pruebas para que las personas mayores de dieciocho años puedan obtener directamente 
 el título de graduado o graduada en Educación Secundaria Obligatoria. 
-Así, el Real Decreto 217/2022, de 29 de marzo, por el que se establece la 
+Así, el [Real Decreto 217/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD217_2022_establece_ordenacion_ensenanzas_minimas_educacion_secundaria.md), de 29 de marzo, por el que se establece la 
 ordenación y las enseñanzas mínimas de la Educación Secundaria Obligatoria, en su 
 disposición adicional tercera, referido a la Educación de Personas Adultas, establece 
 que las administraciones educativas, en el ámbito de sus competencias, organizarán 
@@ -68,7 +82,7 @@ de Andalucía.
 Por consiguiente, los contenidos de las pruebas que se convocan con la presente 
 resolución tendrán como referente curricular el currículo establecido en el citada la Orden 
 de 28 de diciembre de 2017 y la organización de estas pruebas se regulará en todos sus 
-aspectos de convocatoria y organización, por la Orden de 16 de septiembre de 2019, 
+aspectos de convocatoria y organización, por la [Orden de 16 de septiembre de 2019](./O16_9_2019_pruebas_obtencion_titulo_graduado_eso_mayores_andalucia.md), 
 por la que se regulan las pruebas para la obtención del título de Graduado en Educación 
 
 00295487
@@ -97,7 +111,7 @@ su conjunto. De esta forma, la excelencia educativa se vinculará con un conocim
 más competitivo y dinámico, capaz de contribuir a un crecimiento económico sostenido, 
 acompañado de una mejora cuantitativa y cualitativa del empleo y de una mayor cohesión 
 social.
-Así pues, en aplicación de la citada Orden de 16 de septiembre de 2019, esta 
+Así pues, en aplicación de la citada [Orden de 16 de septiembre de 2019](./O16_9_2019_pruebas_obtencion_titulo_graduado_eso_mayores_andalucia.md), esta 
 Dirección General de Ordenación, Inclusión, Participación y Evaluación Educativa
 R E S U E L V E
 Primero. Convocatoria y fechas de realización de las pruebas.
@@ -112,7 +126,7 @@ estará comprendido entre el 1 y el 15 de febrero, ambos incluidos.
 15 de junio, de acuerdo con el procedimiento establecido en el artículo 8.2 de la Orden de 
 16 de septiembre de 2019, estará comprendido entre el 8 y 26 de abril, ambos incluidos. 
 Tercero. Procesos de inscripción.
-1. En aplicación del artículo 7 de la Orden de 16 de septiembre de 2019, la 
+1. En aplicación del artículo 7 de la [Orden de 16 de septiembre de 2019](./O16_9_2019_pruebas_obtencion_titulo_graduado_eso_mayores_andalucia.md), la 
 presentación de solicitudes de inscripción se realizará conforme al modelo establecido 
 en el Anexo I de la citada orden, preferentemente por vía telemática a través del Portal 
 de Educación Permanente de la página web de la Consejería de Desarrollo Educativo 
@@ -125,7 +139,7 @@ portal web, podrá ser presentada, con copia para el interesado, en la Delegaci�
 Territorial con competencia en materia de Educación de la provincia en la que se desee 
 realizar la prueba; a través de envío postal (en cuyo caso será imprescindible que las 
 dos copias estén selladas y fechadas por la oficina de Correos); o en cualquiera de los 
-registros y oficinas a que se refiere la Ley 39/2015, de 1 de octubre, del Procedimiento 
+registros y oficinas a que se refiere la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento 
 Administrativo Común de las Administraciones Públicas.
 
 00295487
@@ -146,7 +160,7 @@ y denegadas. Asimismo, se habilitará consulta personalizada en el Portal de Edu
 Permanente de la página web de la Consejería de Desarrollo Educativo y Formación 
 Profesional. Todo ello siguiendo lo establecido en la Ley 3/2018, de 5 de diciembre, de 
 protección de datos personales y garantía de los derechos digitales.
-2. En aplicación del artículo 9.2 de la Orden de 16 de septiembre de 2019, las personas 
+2. En aplicación del artículo 9.2 de la [Orden de 16 de septiembre de 2019](./O16_9_2019_pruebas_obtencion_titulo_graduado_eso_mayores_andalucia.md), las personas 
 solicitantes tendrán, como plazo de reclamaciones y subsanación de solicitudes, para 
 presentar su instancia ante la persona titular de la correspondiente Delegación Territorial 
 competente en materia de educación, los días 5, 6 y 7 de marzo, para la primera 
@@ -209,7 +223,7 @@ estas actas en sus tablones de anuncios y además se habilitará consulta person
 en el Portal de Educación Permanente de la página web de la Consejería de Desarrollo 
 Educativo y Formación Profesional. Todo ello siguiendo lo establecido en la Ley 3/2018, 
 de 5 de diciembre. 
-2. En aplicación del artículo 17 de la Orden de 16 de septiembre de 2019, las personas 
+2. En aplicación del artículo 17 de la [Orden de 16 de septiembre de 2019](./O16_9_2019_pruebas_obtencion_titulo_graduado_eso_mayores_andalucia.md), las personas 
 interesadas podrán presentar reclamación sobre la calificación obtenida mediante escrito 
 dirigido al presidente o presidenta de la comisión evaluadora los días 15 y 16 abril, para la 
 primera convocatoria, y los días 20 y 21 de junio, para la segunda convocatoria, siguiendo 
@@ -252,7 +266,7 @@ BOJA
 Depósito Legal: SE-410/1979. ISSN: 2253-802X	
 https://www.juntadeandalucia.es/eboja
 General de Educación y Formación Profesional, de conformidad con lo previsto en 
-los artículos 112.1, 121 y 122 de la Ley 39/2015, de 1 de octubre, del Procedimiento 
+los artículos 112.1, 121 y 122 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento 
 Administrativo Común de las Administraciones Públicas, y en el artículo 115.1 de la Ley 
 9/2007, de 22 de octubre, de la Administración de la Junta de Andalucía.
 Sevilla, 11 de enero de 2024.- La Directora General, Almudena García Rosado.
@@ -408,7 +422,7 @@ cohesión del texto, así como la corrección gramatical y ortográfica.
 penalizadas con una décima de punto, pudiendo descontarse hasta un máximo de dos 
 puntos de la puntuación obtenida en los ejercicios que componen cada ámbito.
 C) Calificación de los ámbitos.
-En aplicación del artículo 16.1 de la Orden de 16 de septiembre de 2019, la calificación 
+En aplicación del artículo 16.1 de la [Orden de 16 de septiembre de 2019](./O16_9_2019_pruebas_obtencion_titulo_graduado_eso_mayores_andalucia.md), la calificación 
 será global para cada uno de los ámbitos y se realizará de acuerdo con el siguiente baremo:
 Puntuación
 Calificación 

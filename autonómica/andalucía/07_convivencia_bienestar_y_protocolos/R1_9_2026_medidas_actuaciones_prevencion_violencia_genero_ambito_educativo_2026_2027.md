@@ -35,14 +35,24 @@ relaciones:
   - norm-es-lo-2-2006
   - norm-and-l17-2007
   - norm-es-lo-8-2021
+fundamentos_derecho:
+- norma_id: norm-and-d-194-2026
+- norma_id: norm-and-l17-2007
+- norma_id: norm-and-res-2026-09-01-mas-equidad
+- norma_id: norm-and-res-2026-09-01-bienestar-emocional
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-es-l-40-2015
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-lo-3-2018
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
 ---
-
-# Resolución de 1 de septiembre de 2026 de la Dirección General de Inclusión, Convivencia y Participación Educativa de convocatoria para la realización de medidas y actuaciones para la prevención de la violencia de género en el ámbito educativo durante el curso 2026/2027.
+# [Resolución de 1 de septiembre de 2026](../06_atencion_diversidad_y_orientacion/R1_9_2026_organizacion_funcionamiento_programa_mas_equidad_2026_2027.md) de la Dirección General de Inclusión, Convivencia y Participación Educativa de convocatoria para la realización de medidas y actuaciones para la prevención de la violencia de género en el ámbito educativo durante el curso 2026/2027.
 
 ## Preámbulo
 
 h
-RESOLUCIÓN DE 1 DE SEPTIEMBRE DE 2026 DE LA DIRECCIÓN GENERAL DE INCLUSIÓN, CONVIVENCIA Y 
+[RESOLUCIÓN DE 1 DE SEPTIEMBRE DE 2026](../06_atencion_diversidad_y_orientacion/R1_9_2026_organizacion_funcionamiento_programa_mas_equidad_2026_2027.md) DE LA DIRECCIÓN GENERAL DE INCLUSIÓN, CONVIVENCIA Y 
 PARTICIPACIÓN EDUCATIVA DE CONVOCATORIA PARA LA REALIZACIÓN DE MEDIDAS Y ACTUACIONES PARA 
 LA PREVENCIÓN DE LA VIOLENCIA DE GÉNERO EN EL ÁMBITO EDUCATIVO DURANTE EL CURSO 2026/2027.
 La violencia de género es uno de los problemas más graves y complejos que afronta nuestra sociedad. Es un 
@@ -64,10 +74,10 @@ en su entorno y en su día a día, la que debe implicarse para lograr su erradic
 papel clave e indispensable que desempeñan los centros docentes, por ser contextos privilegiados para 
 fomentar valores igualitarios, libres de prejuicios y de estereotipos sexistas y para proporcionar modelos de 
 relación desde la igualdad, el respeto y el rechazo a cualquier tipo de violencia.
-La Ley Orgánica 2/2006, de 3 de mayo, de Educación, establece en su artículo 1, como uno de los principios de 
+La [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, establece en su artículo 1, como uno de los principios de 
 la educación, “el desarrollo de los valores en la escuela que fomenten la igualdad efectiva entre hombres y 
 mujeres, así como la prevención de la violencia de género”.
-La Ley 17/2007, de 10 de diciembre, de Educación de Andalucía recoge, entre sus principios, la promoción de 
+La [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre, de Educación de Andalucía recoge, entre sus principios, la promoción de 
 la igualdad efectiva entre hombres y mujeres en los ámbitos y prácticas del Sistema Educativo. En su artículo 
 5, dispone entre sus objetivos “promover la adquisición por el alumnado de los valores en los que se sustentan 
 la convivencia democrática, la participación, la no violencia y la igualdad entre hombres y mujeres”.
@@ -98,7 +108,7 @@ Educación de la Junta de Andalucía.
 Esta medida viene a contribuir al desarrollo de los compromisos adquiridos por el gobierno de la Junta de 
 Andalucía dentro del marco del Pacto Social y Económico para el impulso de Andalucía, firmado el pasado 13 
 de marzo de 2023.
-De conformidad con las atribuciones que tiene conferidas, mediante el Decreto 194/2026, de 30 de julio, por el 
+De conformidad con las atribuciones que tiene conferidas, mediante el [Decreto 194/2026](../01_marco_normativo_general_y_organico/D194_2026_estructura_organica_consejeria_educacion_andalucia.md), de 30 de julio, por el 
 que se establece la estructura orgánica de la Consejería de Educación, esta Dirección General de Inclusión, 
 Convivencia y Participación
 
@@ -307,7 +317,7 @@ PÁG. 4/6
 h
 2. La Comisión se regirá por el régimen establecido para el funcionamiento de órganos colegiados en la Ley 
 9/2007, de 22 de octubre, de la Administración de la Junta de Andalucía y la Sección 3ª, Subsección 1ª, del 
-Capítulo II del Título Preliminar de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público y 
+Capítulo II del Título Preliminar de la [Ley 40/2015](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md), de 1 de octubre, de Régimen Jurídico del Sector Público y 
 tendrá las siguientes funciones:
 a)
 Estudiar y analizar las solicitudes presentadas.
@@ -391,7 +401,7 @@ Decimotercero. Protección de datos.
 1. Los datos de carácter personal recogidos en la solicitud quedarán sometidos a la protección establecida por 
 la normativa vigente en materia de protección de datos de carácter personal.
 2. Los datos personales que sean necesarios a efectos de comunicaciones con el objeto de la adecuada 
-participación en las actividades desarrolladas serán tratados de acuerdo con la Ley Orgánica 3/2018, de 5 de 
+participación en las actividades desarrolladas serán tratados de acuerdo con la [Ley Orgánica 3/2018](../../../estatal/02_gestion_y_administracion_centros/LO3_2018_proteccion_datos_personales_garantia_derechos_digitales.md), de 5 de 
 diciembre, de Protección de Datos Personales y garantía de derechos digitales.
 Decimocuarto. Inicio de efectos.
 La presente Resolución surtirá efectos a partir del día siguiente de su publicación, en la página web de la 

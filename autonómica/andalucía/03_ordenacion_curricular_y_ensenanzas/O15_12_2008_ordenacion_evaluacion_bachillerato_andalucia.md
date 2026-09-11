@@ -31,8 +31,14 @@ relaciones:
   - norma_id: norm-and-l17-2007
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-l-39-2015
+fundamentos_derecho:
+- norma_id: norm-and-l6-2006-gobierno-comunidad-autonoma-andalucia
+- norma_id: norm-and-d-85-1999
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
 ---
-
 # Orden de 15 de diciembre de 2008, por la que se establece la ordenación de la evaluación del proceso de aprendizaje del alumnado de bachillerato en la Comunidad Autónoma de Andalucía.
 
 ## Preámbulo
@@ -63,7 +69,7 @@ el que se establece la ordenación y las enseñanzas correspon-
 dientes al Bachillerato en Andalucía. 
 Por todo ello y en su virtud, a propuesta de la Dirección 
 General de Ordenación y Evaluación Educativa, y de conformi-
-dad con lo dispuesto en el artículo 44.2 de la Ley 6/2006, de 
+dad con lo dispuesto en el artículo 44.2 de la [Ley 6/2006](../01_marco_normativo_general_y_organico/L6_2006_gobierno_comunidad_autonoma_andalucia.md), de 
 24 de octubre, del Gobierno de la Comunidad Autónoma de 
 Andalucía, y en el artículo 17.1 del Decreto 416/2008, de 22 
 de julio, por el que se establece la ordenación y las enseñan-
@@ -210,7 +216,7 @@ ceso de evaluación se realizará en la forma en que se deter-
 mine en el proyecto educativo. 
 2. La aplicación del proceso de evaluación continua del 
 alumnado requiere, de acuerdo con lo establecido en el ar-
-tículo 21 del Decreto 85/1999, de 6 de abril, sobre derechos y 
+tículo 21 del [Decreto 85/1999](../07_convivencia_bienestar_y_protocolos/D85_1999_derechos_deberes_alumnado_andalucia.md), de 6 de abril, sobre derechos y 
 deberes del alumnado, su asistencia regular a clase y su parti-
 cipación en las actividades de las diferentes materias.
 Artículo 6. Sesiones de evaluación.
@@ -663,7 +669,7 @@ adopción de medidas que garanticen la seguridad y confiden-
 cialidad de dichos datos, se llevará a cabo según lo dispuesto 
 en la legislación vigente en materia de protección de datos de 
 carácter personal y en la Disposición adicional vigésimo tercera 
-de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación.
 Disposición adicional cuarta. Aplicación de la presente Or-
 den en los centros docentes privados.
 Los centros docentes privados adaptarán la aplicación de 
@@ -688,7 +694,7 @@ tancias se reflejarán también en el correspondiente expediente
 académico. El Libro de Calificaciones y el historial académico 
 serán custodiados, trasladados y entregados conjuntamente.
 Disposición transitoria segunda. Evaluación de las ense-
-ñanzas anteriores a la Ley Orgánica 2/2006, de 3 de mayo, 
+ñanzas anteriores a la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, 
 de Educación. 
 Para el alumnado matriculado en segundo curso de 
 Bachillerato, seguirá en vigor la Orden de 14 de septiembre 
@@ -1842,7 +1848,7 @@ se establecen las normas que regirán la convocatoria
 para solicitar acogerse al régimen de conciertos educa-
 tivos o la renovación de los mismos, a partir del curso 
 académico 2009/10.
-La Ley Orgánica 2/2006, de 3 de mayo, de Educación 
+La [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación 
 establece en el apartado 4 de su artículo 116 que corresponde 
 a las Comunidades Autónomas dictar las normas necesarias 
 para el desarrollo del régimen de conciertos educativos, de 
@@ -1867,7 +1873,7 @@ Al establecer dicho procedimiento, habrá que tener en
 cuenta lo regulado en el Real Decreto 806/2006, de 30 de 
 junio, por el que se establece el calendario de aplicación de 
 la nueva ordenación del sistema educativo, establecida en la 
-Ley Orgánica 2/2006, de 3 de mayo, de Educación, así como 
+[Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, así como 
 la repercusión del mismo en la adecuación de los conciertos 
 educativos a las nuevas enseñanzas previstas en dicha Ley.
 Asimismo, habrá que considerar lo establecido en el Ca-
@@ -1876,7 +1882,7 @@ de Medidas Tributarias, Administrativas y Financieras, para la
 resolución de los conciertos educativos. 
 En su virtud, a propuesta de la Dirección General de Plani-
 ficación y Centros y de conformidad con lo dispuesto en el ar-
-tículo 44.2 de la Ley 6/2006, de 24 de octubre, del Gobierno 
+tículo 44.2 de la [Ley 6/2006](../01_marco_normativo_general_y_organico/L6_2006_gobierno_comunidad_autonoma_andalucia.md), de 24 de octubre, del Gobierno 
 de la Comunidad Autónoma de Andalucía y en el artículo 7 
 del citado Reglamento de Normas Básicas sobre Conciertos 
 Educativos,

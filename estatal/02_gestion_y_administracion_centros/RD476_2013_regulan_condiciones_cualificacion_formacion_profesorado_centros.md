@@ -128,8 +128,15 @@ relaciones:
   - norma_id: norm-es-2010-12201
   - norma_id: norm-es-2007-5478
   - norma_id: norm-es-rd-276-2007
+fundamentos_derecho:
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-2001-7022
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
+- norma_id: norm-es-rd-276-2007
+- norma_id: norm-es-2007-5478
 ---
-
 # Real Decreto 476/2013, de 21 de junio, por el que se regulan las condiciones de cualificación y formación del profesorado de los centros privados de educación secundaria obligatoria y de bachillerato.
 
 ## Preámbulo
@@ -140,7 +147,7 @@ DISPONGO:
 
 #### Artículo 1. Objeto del real decreto.
 
-El presente real decreto tiene por objeto regular las condiciones de cualificación y formación que deben poseer los Maestros de los centros privados de Educación Infantil y de Educación Primaria, para impartir las enseñanzas establecidas en la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+El presente real decreto tiene por objeto regular las condiciones de cualificación y formación que deben poseer los Maestros de los centros privados de Educación Infantil y de Educación Primaria, para impartir las enseñanzas establecidas en la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación.
 
 #### Artículo 2. Educación Infantil.
 
@@ -170,7 +177,7 @@ título de Maestro especialista en Música, Educación Física o Lengua Extranje
 
 2. Los Maestros a los que se refiere el apartado anterior que carezcan de la mención cualificadora, requisitos o especialidad indicada, podrán impartir las enseñanzas de Música, de Educación Física o de Lengua Extranjera en centros docentes privados de Educación Primaria, siempre que estén en posesión de alguno de los siguientes requisitos:
 a) Enseñanzas de Música:
-1.º Título Superior de Música relativo a las enseñanzas artísticas superiores a que se refiere el artículo 54 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación. 2.º Licenciado en Musicología o en Historia y Ciencia de la Música. 3.º Título Superior de Música de la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo, o titulaciones declaradas equivalentes a efectos de docencia. 4.º Título Profesional de Música de la Ley Orgánica 1/1990, de 3 de octubre, o de la Ley Orgánica 2/2006, de 3 de mayo. 5.º Diploma elemental o haber cursado las enseñanzas de Solfeo y Teoría de la Música, Conjunto Coral e Instrumento correspondientes al grado elemental conforme al Decreto 2618/1966, de 10 de septiembre. 6.º Haber superado los cursos de la especialidad de Música, según lo establecido en el artículo 7 l presente real decreto.
+1.º Título Superior de Música relativo a las enseñanzas artísticas superiores a que se refiere el artículo 54 de la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación. 2.º Licenciado en Musicología o en Historia y Ciencia de la Música. 3.º Título Superior de Música de la [Ley Orgánica 1/1990](./LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md), de 3 de octubre, de Ordenación General del Sistema Educativo, o titulaciones declaradas equivalentes a efectos de docencia. 4.º Título Profesional de Música de la [Ley Orgánica 1/1990](./LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md), de 3 de octubre, o de la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo. 5.º Diploma elemental o haber cursado las enseñanzas de Solfeo y Teoría de la Música, Conjunto Coral e Instrumento correspondientes al grado elemental conforme al Decreto 2618/1966, de 10 de septiembre. 6.º Haber superado los cursos de la especialidad de Música, según lo establecido en el artículo 7 l presente real decreto.
 
 7.º Haber superado la fase de oposición de la especialidad de Música según lo establecido en el artículo 8 de este real decreto.
 b) Enseñanzas de Educación Física:
@@ -203,7 +210,7 @@ Este requisito se entenderá cumplido al haber superado los cursos de especialid
 
 #### Artículo 8. Requisito de haber superado la fase de oposición de la especialidad correspondiente.
 
-Dicho requisito se refiere a la superación de la fase de oposición de la especialidad correspondiente, a la que hacen referencia los artículos 18 y siguientes del Reglamento de ingreso, accesos y adquisición de nuevas especialidades en los cuerpos docentes a que se refiere la Ley Orgánica 2/2006, de 3 de mayo, de Educación, aprobado por el Real Decreto 276/2007, de 23 de febrero, y será de aplicación a partir de la fecha de entrada en vigor del presente real decreto.
+Dicho requisito se refiere a la superación de la fase de oposición de la especialidad correspondiente, a la que hacen referencia los artículos 18 y siguientes del Reglamento de ingreso, accesos y adquisición de nuevas especialidades en los cuerpos docentes a que se refiere la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, aprobado por el [Real Decreto 276/2007](../08_personal_docente/RD276_2007_aprueba_reglamento_ingreso_accesos_adquisicion_nuevas.md), de 23 de febrero, y será de aplicación a partir de la fecha de entrada en vigor del presente real decreto.
 
 #### Disposición adicional primera. Prórroga de la actividad docente.
 
@@ -221,7 +228,7 @@ en Educación Primaria. Las Administraciones educativas regularán los requisito
 
 Profesorado de Educación Secundaria. El profesorado que reúna los requisitos para impartir docencia de lenguas extranjeras en la Educación Secundaria Obligatoria o Bachillerato podrá excepcionalmente y por un tiempo limitado, impartir enseñanzas de las lenguas extranjeras respectivas en la etapa de Educación Primaria, por extensión y analogía con lo dispuesto en la disposición adicional
 
-#### Séptima. de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+#### Séptima. de la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación.
 
 A estos efectos, las Administraciones educativas deberán fijar en su ámbito de gestión, el tiempo máximo durante el que este profesorado podrá impartir docencia en Educación Primaria.
 

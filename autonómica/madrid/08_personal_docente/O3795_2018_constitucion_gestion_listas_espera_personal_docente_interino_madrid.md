@@ -28,9 +28,11 @@ tags:
 - listas_espera
 - profesorado_interino
 - madrid
+fundamentos_derecho:
+- norma_id: norm-mad-o2297-2015-constitucion-listas-espera-extraordinarias-interinos-madrid
+- norma_id: norm-es-l-39-2015
 ---
-
-# Orden 3795/2018, de 18 de octubre, de la Consejería de Educación e Investigación, por la que, en cumplimiento de la sentencia número 272, de 23 de abril de 2018, de la Sala de lo Contencioso-Administrativo del Tribunal Superior de Justicia de Madrid, se incluye a doña Esther Castillo de la Llave en la lista de espera constituida por la Orden 2297/2015, de 3 de agosto, de la Consejería de Educación, Juventud y Deporte
+# Orden 3795/2018, de 18 de octubre, de la Consejería de Educación e Investigación, por la que, en cumplimiento de la sentencia número 272, de 23 de abril de 2018, de la Sala de lo Contencioso-Administrativo del Tribunal Superior de Justicia de Madrid, se incluye a doña Esther Castillo de la Llave en la lista de espera constituida por la [Orden 2297/2015](./O2297_2015_constitucion_listas_espera_extraordinarias_interinos_madrid.md), de 3 de agosto, de la Consejería de Educación, Juventud y Deporte
 
 ## Preámbulo
 
@@ -41,7 +43,7 @@ ORDEN 3795/2018, de 18 de octubre, de la Consejería de Educación e Investi-
 gación, por la que, en cumplimiento de la sentencia número 272, de 23 de abril
 de 2018, de la Sala de lo Contencioso-Administrativo del Tribunal Superior de
 Justicia de Madrid, se incluye a doña Esther Castillo de la Llave en la lista de
-espera constituida por la Orden 2297/2015, de 3 de agosto, de la Consejería de
+espera constituida por la [Orden 2297/2015](./O2297_2015_constitucion_listas_espera_extraordinarias_interinos_madrid.md), de 3 de agosto, de la Consejería de
 Educación, Juventud y Deporte.
 Por Orden 1436/2015, de 19 de mayo, de la Consejería de Educación, Juventud y De-
 porte, se convocó para su cobertura interina un puesto de trabajo vacante del Cuerpo de Au-
@@ -50,13 +52,13 @@ futura cobertura interina de puestos de trabajo de idénticas características e
 Consejería. En la citada Orden se establecía que la selección de los aspirantes, tanto para
 cubrir el puesto de trabajo convocado como para integrar la lista de espera, se realizaría
 conforme al baremo incluido en el Anexo II de la misma.
-La convocatoria fue resuelta mediante la Orden 2297/2015, de 3 de agosto, de la Con-
+La convocatoria fue resuelta mediante la [Orden 2297/2015](./O2297_2015_constitucion_listas_espera_extraordinarias_interinos_madrid.md), de 3 de agosto, de la Con-
 sejería de Educación, Juventud y Deporte, constituyéndose la lista de espera que se acom-
 pañó como Anexo II a la misma. En la mencionada lista no figuraba incluida doña Esther
 Castillo de la Llave, al no haberse valorado por el Tribunal Calificador, en el apartado “For-
 mación”, la documentación presentada por la interesada correspondiente a la realización de
 un curso.
-Contra la Orden 2297/2015, de 3 de agosto, la interesada presentó recurso administra-
+Contra la [Orden 2297/2015](./O2297_2015_constitucion_listas_espera_extraordinarias_interinos_madrid.md), de 3 de agosto, la interesada presentó recurso administra-
 tivo, el cual fue desestimado en virtud de Orden del Consejero de Educación, Juventud y
 Deporte, de fecha 29 de septiembre de 2015.
 Habiendo presentado doña Esther Castillo de la Llave recurso contencioso-administra-
@@ -78,14 +80,14 @@ Para dar cumplimiento a la referida sentencia, el Tribunal Permanente de Selecci
 Funcionarios Interinos de la Consejería de Educación e Investigación, en su sesión de 14 de
 septiembre de 2018, ha acordado otorgar 1,50 puntos en el apartado “Formación” a doña
 Esther Castillo de la Llave, así como su inclusión en la lista de espera constituida en virtud
-de la Orden 2297/2015, de 3 de agosto.
+de la [Orden 2297/2015](./O2297_2015_constitucion_listas_espera_extraordinarias_interinos_madrid.md), de 3 de agosto.
 En virtud de lo anteriormente expuesto,
 DISPONGO:
 
 #### Artículo . #### Artículo . Primero
 
 Incluir a doña Esther Castillo de la Llave, con DNI ****4573F, en la lista de espera
-constituida en virtud de la Orden 2297/2015, de 3 de agosto, de la Consejería de Educación,
+constituida en virtud de la [Orden 2297/2015](./O2297_2015_constitucion_listas_espera_extraordinarias_interinos_madrid.md), de 3 de agosto, de la Consejería de Educación,
 Juventud y Deporte, con 1,50 puntos en el apartado de “Formación”, de acuerdo con lo es-
 tablecido por el órgano de selección, resultando una puntuación total de igual valor y obte-
 
@@ -100,7 +102,7 @@ se, con carácter potestativo, recurso de reposición en el plazo de un mes ante
 no que la ha dictado o bien recurso contencioso-administrativo, en el plazo de dos meses, ante
 los Juzgados de lo Contencioso- Administrativo de Madrid, ambos plazos contados a partir
 sin perjuicio de cualquier otro recurso que se estime procedente en derecho, todo ello de con-
-formidad con lo dispuesto en los artículos 123 y 124 de la Ley 39/2015, de 1 de octubre, del
+formidad con lo dispuesto en los artículos 123 y 124 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del
 Procedimiento Administrativo Común de las Administraciones Públicas, y el artículo 46 de
 la Ley 29/1998, de 13 de julio, Reguladora de la Jurisdicción Contencioso-Administrativa
 Madrid, a 18 de octubre de 2018.

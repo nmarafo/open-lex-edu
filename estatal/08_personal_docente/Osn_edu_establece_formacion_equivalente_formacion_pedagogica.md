@@ -210,8 +210,16 @@ relaciones:
   - norma_id: norm-es-2010-12201
   - norma_id: norm-es-2007-5478
   - norma_id: norm-es-rd-276-2007
+fundamentos_derecho:
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2007-19326
+- norma_id: norm-es-2002-4371
+- norma_id: norm-es-2010-12201
+- norma_id: norm-es-rd-276-2007
+- norma_id: norm-es-2007-5478
 ---
-
 # Orden EDU/2645/2011, de 23 de septiembre, por la que se establece la formación equivalente a la formación pedagógica y didáctica exigida para aquellas personas que estando en posesión de una titulación declarada equivalente a efectos de docencia no pueden realizar los estudios de máster.
 
 ## Preámbulo
@@ -230,7 +238,7 @@ Además en la disposición adicional única del Reglamento de ingreso, accesos y
 
 Finalmente en el artículo 9 l [Real.
 
-Decreto 1834/2008](../02_gestion_y_administracion_centros/RD1834_2008_definen_condiciones_formacion_ejercicio_docencia_educacion.md), de 8 de noviembre, por el que se definen las condiciones de formación para el ejercicio de la docencia en la educación secundaria obligatoria, el bachillerato, la formación profesional y las enseñanzas de régimen especial y se establecen las especialidades de los cuerpos docentes de enseñanza secundaria, se especifica que para ejercer la docencia en la educación secundara obligatoria, el bachillerato, la formación profesional y la enseñanza de idiomas, será necesario estar en posesión de un título oficial de Máster que acredite la formación pedagógica y didáctica de acuerdo con lo exigido por los artículos 94, 95 y 97 de la citada Ley Orgánica, y en la disposición adicional primera se establece que la formación pedagógica y didáctica del profesorado que, por razones derivadas de su titulación, no pueda acceder a los estudios de máster a los que se refiere dicho real decreto, se acreditará mediante una formación equivalente a la exigida en el artículo 100 de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, en las condiciones que establezca el Ministerio de Educación. Asimismo en la disposición adicional séptima se establece que los títulos universitarios oficiales de Máster a los que se refiere el artículo 9, acreditan asimismo la formación pedagógica y didáctica que en el artículo 98 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, se exige para ejercer la docencia en las enseñanzas deportivas.
+Decreto 1834/2008](../02_gestion_y_administracion_centros/RD1834_2008_definen_condiciones_formacion_ejercicio_docencia_educacion.md), de 8 de noviembre, por el que se definen las condiciones de formación para el ejercicio de la docencia en la educación secundaria obligatoria, el bachillerato, la formación profesional y las enseñanzas de régimen especial y se establecen las especialidades de los cuerpos docentes de enseñanza secundaria, se especifica que para ejercer la docencia en la educación secundara obligatoria, el bachillerato, la formación profesional y la enseñanza de idiomas, será necesario estar en posesión de un título oficial de Máster que acredite la formación pedagógica y didáctica de acuerdo con lo exigido por los artículos 94, 95 y 97 de la citada Ley Orgánica, y en la disposición adicional primera se establece que la formación pedagógica y didáctica del profesorado que, por razones derivadas de su titulación, no pueda acceder a los estudios de máster a los que se refiere dicho real decreto, se acreditará mediante una formación equivalente a la exigida en el artículo 100 de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, en las condiciones que establezca el Ministerio de Educación. Asimismo en la disposición adicional séptima se establece que los títulos universitarios oficiales de Máster a los que se refiere el artículo 9, acreditan asimismo la formación pedagógica y didáctica que en el artículo 98 de la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, se exige para ejercer la docencia en las enseñanzas deportivas.
 
 Por todo ello, resulta procedente establecer los requisitos a los que deberán adecuarse los estudios conducentes a la obtención de una certificación oficial que acredite poseer la formación pedagógica y didáctica a la que se refiere el artículo 100.2 de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación para aquellas personas que, por razones derivadas de su titulación, no puedan acceder a los estudios de Máster.
 
@@ -248,7 +256,7 @@ Esta orden tiene por objeto establecer la formación equivalente a la formación
 
 3. Las Administraciones educativas determinarán las instituciones educativas que pueden ofertar estos estudios.
 
-4. Al superar dichos estudios la Administración educativa correspondiente emitirá un certificado oficial, con validez en todo el territorio nacional, según las especificaciones indicadas en el Anexo I, en el que conste expresamente la posesión de la formación pedagógica y didáctica equivalente a la exigida en el artículo 100.2 de la Ley Orgánica 2/2006, de 3 de mayo.
+4. Al superar dichos estudios la Administración educativa correspondiente emitirá un certificado oficial, con validez en todo el territorio nacional, según las especificaciones indicadas en el Anexo I, en el que conste expresamente la posesión de la formación pedagógica y didáctica equivalente a la exigida en el artículo 100.2 de la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo.
 
 #### Artículo 3. Objetivos.
 

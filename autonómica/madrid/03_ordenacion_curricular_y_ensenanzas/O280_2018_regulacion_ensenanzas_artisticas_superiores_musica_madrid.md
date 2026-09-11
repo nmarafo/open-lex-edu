@@ -25,8 +25,18 @@ tags:
 - musica
 - conservatorio_superior
 - madrid
+fundamentos_derecho:
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-mad-l12-1999-creacion-consejo-escolar-comunidad-madrid
+- norma_id: norm-mad-l1-1983-gobierno-administracion-comunidad-madrid
+- norma_id: norm-mad-d7-2014-curriculo-ensenanzas-profesionales-artes-plasticas-diseno-madrid
+- norma_id: norm-mad-d8-2014-curriculo-ciclos-artes-plasticas-diseno-madrid
+- norma_id: norm-es-l-39-2015
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-1999-23750
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
 ---
-
 # Regulación enseñanzas– Orden 280/2018, de 2 de febrero, de la Consejería de Educación e Investigación, por la que se regula el proceso de admisión de alumnos en centros públicos para cursar enseñanzas artísticas elementales y profesionales de danza y de música en la Comunidad de Madrid
 
 ## Preámbulo
@@ -38,11 +48,11 @@ ORDEN 280/2018, de 2 de febrero, de la Consejería de Educación e Investiga-
 ción, por la que se regula el proceso de admisión de alumnos en centros públi-
 cos para cursar enseñanzas artísticas elementales y profesionales de danza y de
 música en la Comunidad de Madrid.
-La Ley Orgánica 2/2006, de 3 de mayo, de Educación, modificada por la Ley Orgáni-
+La [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, modificada por la Ley Orgáni-
 ca 8/2013, de 9 de diciembre, para la Mejora de la Calidad Educativa, dedica el capítulo VI,
 del Título I, a las enseñanzas artísticas, entre las que se incluyen las enseñanzas elementa-
 les y profesionales de música y de danza.
-La Ley Orgánica 2/2006, de 3 de mayo, establece en el artículo 48 que las enseñanzas
+La [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, establece en el artículo 48 que las enseñanzas
 elementales de música y de danza tendrán las características y la organización que las Ad-
 ministraciones educativas determinen y, en el artículo 49, que, para acceder a las enseñan-
 zas profesionales de música y de danza, será preciso superar una prueba específica de ac-
@@ -57,34 +67,34 @@ establece para la Comunidad de Madrid el currículo de las enseñanzas profesion
 sica, determina que corresponde a la Consejería competente en materia de Educación regu-
 lar el proceso de admisión y matrícula de los alumnos en los conservatorios de música de
 la Comunidad de Madrid.
-Por su parte, el Decreto 8/2014, de 30 de enero, del Consejo de Gobierno, por el que
+Por su parte, el [Decreto 8/2014](./D8_2014_curriculo_ciclos_artes_plasticas_diseno_madrid.md), de 30 de enero, del Consejo de Gobierno, por el que
 se establece el currículo y la organización de las enseñanzas elementales de danza en la Co-
 munidad de Madrid, dispone que corresponde a la Consejería de Educación determinar el
 proceso de admisión y matrícula de los alumnos en los conservatorios de la Comunidad de
 Madrid.
-Asimismo, el artículo 8 del Decreto 7/2014, de 30 de enero, del Consejo de Gobierno,
+Asimismo, el artículo 8 del [Decreto 7/2014](./D7_2014_curriculo_ensenanzas_profesionales_artes_plasticas_diseno_madrid.md), de 30 de enero, del Consejo de Gobierno,
 por el que se establece el currículo y la organización de las enseñanzas elementales de mú-
 sica en la Comunidad de Madrid, determina que corresponde a la Consejería competente en
 materia de Educación regular el proceso de admisión y matrícula de los alumnos en los con-
 servatorios de la Comunidad de Madrid.
 En el proceso de elaboración de esta orden, se ha dado cumplimiento al trámite de
 audiencia e información pública a través del Portal de Transparencia de la Comunidad de
-Madrid conforme a lo dispuesto en los artículos 133.2 de la Ley 39/2015, de 1 de octubre,
+Madrid conforme a lo dispuesto en los artículos 133.2 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre,
 de procedimiento administrativo común en las administraciones públicas y del artículo 26.6
 de la Ley 50/1997, de 27 de noviembre, del Gobierno, respetando así el principio de trans-
 parencia normativa.
 En el proceso de elaboración de esta orden ha emitido dictamen el Consejo Escolar de
-la Comunidad de Madrid, de acuerdo con el artículo 2.1.b) de la Ley 12/1999, de 29 de
+la Comunidad de Madrid, de acuerdo con el artículo 2.1.b) de la [Ley 12/1999](../01_marco_normativo_general_y_organico/L12_1999_creacion_consejo_escolar_comunidad_madrid.md), de 29 de
 abril, de Creación del Consejo Escolar de la Comunidad de Madrid, modificado por el ar-
 tículo 29 de la Ley 9/2010, de 23 de diciembre.
-Con esta orden, y en virtud de lo dispuesto en el artículo 129.1 de la Ley 39/2015, se
+Con esta orden, y en virtud de lo dispuesto en el artículo 129.1 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), se
 pretende garantizar la seguridad jurídica del proceso de admisión de alumnos en los centros
 públicos que imparten enseñanzas artísticas elementales y profesionales de danza y de mú-
 sica, mejorar las vías de comunicación e información a los interesados y favorecer, en los
 centros públicos que imparten estas enseñanzas, la organización eficaz del proceso de ad-
 misión y el uso eficiente de los recursos de que disponen los centros.
 Por todo ello, en el ejercicio de las competencias atribuidas por el artículo 41.d) de la
-Ley 1/1983, de 13 de diciembre, de Gobierno y Administración de la Comunidad de
+[Ley 1/1983](../01_marco_normativo_general_y_organico/L1_1983_gobierno_administracion_comunidad_madrid.md), de 13 de diciembre, de Gobierno y Administración de la Comunidad de
 
 BOCM
 Madrid, y en virtud del Decreto 127/2017, de 24 de octubre, del Consejo de Gobierno, por
@@ -169,7 +179,7 @@ Los centros concretarán las fechas de realización de los actos anteriormente s
 lados según el calendario de actuaciones que la Dirección General competente en estas en-
 señanzas establezca anualmente.
 4.
-De conformidad con lo dispuesto en la Ley Orgánica 15/1999, de 13 de diciem-
+De conformidad con lo dispuesto en la [Ley Orgánica 15/1999](../../../estatal/02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md), de 13 de diciem-
 bre, de Protección de Datos de Carácter Personal, en todos los listados que se publiquen, se
 identificará a los aspirantes por su NIF o, en caso de no disponer de él al no estar obligado
 por ser menor de 14 años, de su padre/madre o representante legal. El orden de los listados
@@ -187,7 +197,7 @@ pediente y de reingreso son los que acompañan esta orden.
 3.
 La presentación de solicitudes y, en su caso, la documentación que debe acompa-
 ñarlas, se realizará en el centro para el que se solicita la admisión, en los lugares previstos
-en el artículo 16.4 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo
+en el artículo 16.4 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Administrativo
 Común de las Administraciones Públicas, y en el Registro Electrónico de la Consejería de
 Educación e Investigación.
 4.
@@ -204,7 +214,7 @@ que conste en el procedimiento su oposición expresa o la ley especial aplicable
 consentimiento expreso. En el caso de que no prestara este consentimiento para la consul-
 ta y comprobación de sus datos, el interesado estará obligado con carácter general a apor-
 tar copia de los documentos correspondientes, de acuerdo con lo establecido en el 28.3 de
-la Ley 39/2015.
+la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md).
 Igualmente podrán aportarse documentos durante la tramitación del expediente, a tra-
 vés de la opción “Aportación de Documentos”, disponible en el apartado de Gestiones y
 Trámites del portal www.madrid.org.
@@ -306,7 +316,7 @@ caerá en su derecho a la plaza adjudicada.
 1.
 Los participantes en el proceso de admisión, o sus representantes legales, podrán
 reclamar ante el director, bien en el propio centro o en los lugares determinados por el ar-
-tículo 16.4 de la Ley 39/2015, de 1 de octubre, en los plazos previstos en las Instrucciones
+tículo 16.4 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, en los plazos previstos en las Instrucciones
 que la Dirección General competente en estas enseñanzas dicte anualmente para regular el
 procedimiento.
 2.
@@ -324,7 +334,7 @@ tas definitivas de admitidos. Con esta resolución se pondrá fin a la vía admi
 En lo referente a la obtención de los datos personales de los aspirantes y a la seguridad
 y confidencialidad de estos, se estará a lo dispuesto en la legislación vigente en materia de
 protección de datos de carácter personal y, en todo caso, a lo establecido en la disposición
-adicional vigésima tercera de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+adicional vigésima tercera de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación.
 
 #### Disposición ADICIONAL SEGUNDA. Escolarización en centros de educación secundaria de los alumnos que cursan enseñanzas
 
@@ -404,7 +414,7 @@ Solicitud de adaptación para la realización de la prueba (Solo para quienes lo
 
 Fotografía
 
-(*) En aplicación del artículo 28.2 de la Ley 39/2015, de 1 de octubre, de Procedimiento Administrativo Común de las Administraciones Públicas.
+(*) En aplicación del artículo 28.2 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, de Procedimiento Administrativo Común de las Administraciones Públicas.
 La Comunidad de Madrid consultará, por medios electrónicos, los datos de los
 siguientes documentos, excepto que expresamente desautorice la consulta (*)
 No autorizo la consulta y aporto
@@ -426,7 +436,7 @@ o del alumno (si es mayor de edad)
 Los datos personales recogidos serán incorporados y tratados en el fichero REGISTRO MINERO, y podrán ser cedidos de acuerdo a la declaración
 establecida de dicho fichero de datos, además de otras cesiones previstas en la Ley. El responsable del fichero es el órgano que figura en este
 documento, ante él podrá ejercer los derechos de acceso, rectificación, cancelación y oposición, todo lo cual se informa en cumplimiento del artículo
-5 de la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal.
+5 de la [Ley Orgánica 15/1999](../../../estatal/02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md), de 13 de diciembre, de Protección de Datos de Carácter Personal.
 Información Institucional
 Marque el recuadro en el caso de no estar interesado en recibir otra información institucional de la Comunidad de Madrid
  No deseo recibir información institucional de la Comunidad de Madrid
@@ -511,14 +521,14 @@ ARTÍSTICAS ELEMENTALES Y PROFESIONALES DE MÚSICA
 
 BOCM
 Modelo 2452F2
-(*) En aplicación del artículo 28.2 de la Ley 39/2015, de 1 de octubre, de Procedimiento Administrativo Común de las Administraciones Públicas.
+(*) En aplicación del artículo 28.2 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, de Procedimiento Administrativo Común de las Administraciones Públicas.
 En............................................................................., a……..... de…...…..…………..… de…………
 Firma del padre, madre, representante legal del alumno
 o del alumno (si es mayor de edad)
 Los datos personales recogidos serán incorporados y tratados en el fichero REGISTRO MINERO, y podrán ser cedidos de acuerdo a la declaración
 establecida de dicho fichero de datos, además de otras cesiones previstas en la Ley. El responsable del fichero es el órgano que figura en este
 documento, ante él podrá ejercer los derechos de acceso, rectificación, cancelación y oposición, todo lo cual se informa en cumplimiento del artículo
-5 de la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal.
+5 de la [Ley Orgánica 15/1999](../../../estatal/02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md), de 13 de diciembre, de Protección de Datos de Carácter Personal.
 La Comunidad de Madrid consultará, por medios electrónicos, los datos de los
 siguientes documentos, excepto que expresamente desautorice la consulta (*)
 No autorizo la consulta y aporto
@@ -589,7 +599,7 @@ Pasaporte (caso de no presentar NIF/NIE)
 
 Certificación Académica Personal
 
-(*) En aplicación del artículo 28.2 de la Ley 39/2015, de 1 de octubre, de Procedimiento Administrativo Común de las Administraciones Públicas.
+(*) En aplicación del artículo 28.2 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, de Procedimiento Administrativo Común de las Administraciones Públicas.
 La Comunidad de Madrid consultará, por medios electrónicos, los datos de los
 siguientes documentos, excepto que expresamente desautorice la consulta (*)
 No autorizo la consulta y aporto
@@ -610,7 +620,7 @@ o del alumno (si es mayor de edad)
 Los datos personales recogidos serán incorporados y tratados en el fichero REGISTRO MINERO, y podrán ser cedidos de acuerdo a la declaración
 establecida de dicho fichero de datos, además de otras cesiones previstas en la Ley. El responsable del fichero es el órgano que figura en este
 documento, ante él podrá ejercer los derechos de acceso, rectificación, cancelación y oposición, todo lo cual se informa en cumplimiento del artículo
-5 de la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal.
+5 de la [Ley Orgánica 15/1999](../../../estatal/02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md), de 13 de diciembre, de Protección de Datos de Carácter Personal.
 Información Institucional
 Marque el recuadro en el caso de no estar interesado en recibir otra información institucional de la Comunidad de Madrid
  No deseo recibir información institucional de la Comunidad de Madrid

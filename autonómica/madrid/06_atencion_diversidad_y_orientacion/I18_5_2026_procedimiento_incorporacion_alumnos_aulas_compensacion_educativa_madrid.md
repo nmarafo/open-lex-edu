@@ -27,8 +27,17 @@ relaciones:
   - norm-es-lo-2-2006
   - norm-mad-d-65-2022
 fuente_pdf_oficial: https://www.comunidad.madrid/transparencia/sites/default/files/regulation/documents/2026-05-18_instrucciones_ace_2026-2027_vfinal.pdf
+fundamentos_derecho:
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-mad-d248-2023
+- norma_id: norm-mad-d65-2022
+- norma_id: norm-mad-d23-2023
+- norma_id: norm-es-l-39-2015
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-lo-3-2018
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
 ---
-
 # Instrucciones de 18 de mayo de 2026, de la Dirección General de Educación Secundaria, Formación Profesional y Régimen Especial, por las que se regula el procedimiento de incorporación de los alumnos a las Aulas de Compensación Educativa (ACE) de la Comunidad de Madrid para el curso 2026-2027.
 
 ## Preámbulo
@@ -43,7 +52,7 @@ PROCEDIMIENTO DE INCORPORACIÓN DE  LOS ALUMNOS A LAS AULAS DE
 COMPENSACIÓN EDUCATIVA DE LA COMUNIDAD DE MADRID DURANTE EL 
 CURSO 2026-2027. 
  
-La Ley Orgánica 2/2006, de 3 de mayo, de Educación, establece en los capítulos I y II del 
+La [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, establece en los capítulos I y II del 
 Título II, la atención educativa de  los alumn os con necesidad es específicas de apoyo 
 educativo y la  equidad y  compensación de las desigualdades en educaci ón 
 respectivamente. El artículo 71 define los alumnos que requieren una atención educativa 
@@ -59,14 +68,14 @@ inclusiva, en igualdad de condiciones con los demás ”. Igualmente, en el apar
 mismo artículo se recoge que : “Las políticas de compensación reforzarán la acción del 
 sistema educativo de forma que se eviten  desigualdades derivadas de factores sociales, 
 económicos, culturales, geográficos, étnicos o de otra índole”. 
-El Decreto 65/2022, de 20 de julio, del Consejo de Gobierno, por el que se 
+El [Decreto 65/2022](../03_ordenacion_curricular_y_ensenanzas/D65_2022_ordenacion_curriculo_educacion_secundaria_obligatoria_madrid.md), de 20 de julio, del Consejo de Gobierno, por el que se 
 establecen para la Comunidad de Madrid la ordenación y el currículo de la Educación 
 Secundaria Obligatoria, establece en el artículo 35 del capítulo V que: “Los alumnos que 
 se encuentren en situación de vulnerabilidad podrán acceder a una intervención 
 educativa de carácter compensatorio a través de programas específicos en los que 
 dispondrán de las  medidas organizativas, curriculares y de los recursos necesarios para 
 atender sus necesidades, que permitan su progresión dentro del sistema educativo". 
-El Decreto 23/2023, de 22 de marzo, del Consejo de Gobierno, por el que se 
+El [Decreto 23/2023](./D23_2023_atencion_diferencias_individuales_alumnos_madrid.md), de 22 de marzo, del Consejo de Gobierno, por el que se 
 regula la atención a las di ferencias individuales de  los alumn os en la Comunidad de 
 Madrid, dedica el artículo 24 de la sección 6ª del capítulo II del Título I a la atención 
 educativa a los alumnos con necesidad de compensación educativa. En el apartado 1 se 
@@ -90,7 +99,7 @@ E.14 de la Instrucción decimoséptima relativos al proceso de incorporación a 
 compensación e ducativa de los alumn os escolarizados en educación secundaria 
 obligatoria. Igualmente, elimina de los a nexos II I y IV “las aulas de compensación 
 educativa” y los anexos VII, IX, X, y XII.  
-De conformidad con las competencias atribuidas en el Decreto 248/2023, de 11 de 
+De conformidad con las competencias atribuidas en el [Decreto 248/2023](../01_marco_normativo_general_y_organico/D248_2023_estructura_organica_consejeria_educacion_ciencia_universidades_madrid.md), de 11 de 
 octubre, del Consejo de Gobierno, por el que se establece la estructura orgánica de la 
 Consejería de Educación,  Ciencia y Universidades , corresponde a l a Dirección General 
 de Educación Secundaria, Formación Profesional y Régimen Especial  el desarrollo y la 
@@ -410,7 +419,7 @@ Los intervinientes en  el proc eso de incorporación de  los alumn os a las aula
 compensación educativa resp etarán la s prescripciones generales del Reglamento (UE) 
 2016/679 del Parlamento Europeo y del Co nsejo de 27 de ab ril de 2016 relativo a la 
 protección de las personas físicas en lo que respecta al tratamiento de datos personales 
-y a la l ibre circulación de estos datos (en adelante RGPD) y de la Ley Orgánica 3/2018, 
+y a la l ibre circulación de estos datos (en adelante RGPD) y de la [Ley Orgánica 3/2018](../../../estatal/02_gestion_y_administracion_centros/LO3_2018_proteccion_datos_personales_garantia_derechos_digitales.md), 
 de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos 
 digitales en  relación con los datos qu e o btengan con motivo de la elaboración  y 
 tramitación del correspondiente expediente. 
@@ -737,7 +746,7 @@ realizada en interés p úblico o en el ejercicio de po deres p úblicos conferi
 responsable del tratamiento. 
 RGPD 6.1 a) e l interesado dio su consentimiento para el tratamiento de sus datos 
 personales para uno o varios fines específicos. 
-Ley Orgánica 2/2006, de 23 de mayo de Educación. 
+[Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 23 de mayo de Educación. 
 4. ¿Cómo ejercer sus derechos? ¿Cuáles son sus derechos cuando nos 
 facilita sus datos?  
 Puede ejercer, si  lo desea , los dere chos de acces o, rectificación y supresión de 
@@ -747,7 +756,7 @@ ser ob jeto de una  decisión i ndividual basada ún icamente en e l tratamiento
 automatizado, incluida la elaboración de perfiles. 
 Según la L ey 39/2015, el RGPD y la Ley Orgánica  3/2018, puede ejer cer s us 
 derechos por Registro Electrónico o Registro Presencial o en los lugares y formas 
-previstos en el artículo 16.4 de la Ley 39/2015 , prefere ntemente mediante el 
+previstos en el artículo 16.4 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) , prefere ntemente mediante el 
 
  
  
@@ -881,7 +890,7 @@ Contra esta resolución l as personas interesadas podrán interpo ner recu rso d
 alzada en los términos previstos en los artículos 112, 115, 121 y 122 de la Ley 
 39/2015, de 1 de oct ubre, ante la Viceconsejería de Política y Organizació n 
 Educativa a la que está adscrita esta Dirección de Área en cualquiera de los lugares 
-a los qu e s e refiere el artículo 16.4 de la Ley 39/2015, de 1 de octubre.  La 
+a los qu e s e refiere el artículo 16.4 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre.  La 
 resolución del recurso de alza da, que será motivada, pondrá fin a la vía 
 administrativa. 
 

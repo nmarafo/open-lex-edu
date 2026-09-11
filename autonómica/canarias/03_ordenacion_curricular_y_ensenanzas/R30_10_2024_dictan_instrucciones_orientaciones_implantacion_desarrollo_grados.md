@@ -306,8 +306,26 @@ relaciones:
   - norma_id: norm-es-rd-659-2023
   - norma_id: norm-es-2010-12201
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2024-226-3747.pdf
+fundamentos_derecho:
+- norma_id: norm-can-l-6-2014
+- norma_id: norm-can-lo-1-2018
+- norma_id: norm-can-o-2016-09-21-acreditacion-idiomas
+- norma_id: norm-can-res-boc-2024-230-25
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-can-res-134
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-rd-39-1997
+- norma_id: norm-es-lo-3-2022
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2021-979
+- norma_id: norm-es-2020-17274
+- norma_id: norm-es-rd-217-2022
+- norma_id: norm-es-2024-10683
+- norma_id: norm-es-2024-10684
+- norma_id: norm-es-2024-10685
+- norma_id: norm-es-rd-659-2023
+- norma_id: norm-es-2010-12201
 ---
-
 # Resolución de 30 de octubre de 2024, de la Dirección General de Formación Profesional y Enseñanzas de Régimen Especial, por la que se dictan instrucciones y orientaciones para la implantación y desarrollo de los grados de formación D y E, a partir del curso escolar 2024/2025, y se establece la distribución horaria y modular de los currículos, en el ámbito de la Comunidad Autónoma de Canarias.
 
 ## Preámbulo
@@ -333,7 +351,7 @@ real decreto, se completará su implantación, y se extinguirán los currículos
 citado Real Decreto 278/2023 establece:
 "2. En el año académico 2024-2025 se implantarán, con carácter general, las ofertas de Grado E, en los términos establecidos en los artículos 51 y 52 de la Ley Orgánica".
 Sexto.- De acuerdo con lo establecido en el artículo 7.2 del [Real Decreto 659/2023](./R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, por el que se desarrolla la ordenación del Sistema de Formación Profesional:
-"Las administraciones educativas establecerán los currículos correspondientes a los Grados D y E, respetando las atribuciones competenciales establecidas en el artículo 6 de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, y de acuerdo con lo prescrito por la Ley Orgánica 3/2022, de 31 de marzo, de ordenación e integración de la Formación Profesional, esta disposición y el resto de desarrollos normativos del Sistema de Formación Profesional. (...)".
+"Las administraciones educativas establecerán los currículos correspondientes a los Grados D y E, respetando las atribuciones competenciales establecidas en el artículo 6 de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, y de acuerdo con lo prescrito por la [Ley Orgánica 3/2022](../08_personal_docente/R30_6_2023_ordenacion_gestion_determinadas_listas_empleo_tras.md), de 31 de marzo, de ordenación e integración de la Formación Profesional, esta disposición y el resto de desarrollos normativos del Sistema de Formación Profesional. (...)".
 Séptimo.- Los Reales Decretos 497/2024, de 21 de mayo, 498/2024, de 21 de mayo, 499/2024, de 21 de mayo, y 500/2024, de 21 de mayo, establecen los cambios de ordenación necesarios de los cursos de especialización de grado medio y superior, así como de los títulos de Formación Profesional de grado básico, medio y superior, para permitir su oferta en el marco de la nueva estructura establecida por el [Real Decreto 659/2023](./R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, por el que se desarrolla la ordenación del Sistema de Formación Profesional. Por todo lo expuesto, de conformidad con lo establecido en el artículo 20 l [Decreto.
 
 84/2024](../01_marco_normativo_general_y_organico/D84_2024_aprueba_reglamento_organico_formacion_profesional_actividad.md), de 10 de junio, por el que se aprueba el Reglamento Orgánico de la Consejería de Educación, Formación Profesional, Actividad Física y Deportes,
@@ -405,7 +423,7 @@ Decreto 659/2023](./R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual
 9. La convalidación del módulo Inglés profesional en los ciclos formativos de Grados de Formación D (niveles 2 y 3) atenderá a las siguientes consideraciones:
 - Módulo Inglés profesional (código 0156):
 a) Una vez superado este módulo en cualquier Ciclo Formativo de Grado Medio (nivel 2), el módulo no será objeto de convalidación en otro Ciclo Formativo de Grado Medio. Se considerará el módulo como superado, trasladándose la calificación obtenida al nuevo Ciclo de nivel 2. b) En cualquier Ciclo Formativo de Grado Medio (nivel 2), el módulo será objeto de convalidación cuando se tenga superado el módulo profesional Inglés profesional (0179).
-c) El módulo se convalida cuando se aporte certificados de nivel B1 o superior que para el idioma Inglés ha establecido la Orden de 25 de noviembre de 2022, por la que se actualizan los títulos y certificados establecidos en el Anexo I de la Orden de 21 de septiembre de 2016, que regula el reconocimiento de la acreditación de la competencia lingüística conforme al Marco Común Europeo de Referencia para las Lenguas en la Comunidad Autónoma de Canarias.
+c) El módulo se convalida cuando se aporte certificados de nivel B1 o superior que para el idioma Inglés ha establecido la Orden de 25 de noviembre de 2022, por la que se actualizan los títulos y certificados establecidos en el Anexo I de la [Orden de 21 de septiembre de 2016](./O21_9_2016_reconocimiento_acreditacion_competencia_linguistica_mcerl_canarias.md), que regula el reconocimiento de la acreditación de la competencia lingüística conforme al Marco Común Europeo de Referencia para las Lenguas en la Comunidad Autónoma de Canarias.
 d) El módulo será convalidado cuando se aporte título de Grado o equivalente en Filología Inglesa o en Traducción e Interpretación (Inglés).
 e) El módulo será objeto de convalidación cuando se aporte módulos LOGSE de Lengua Extranjera, de acuerdo con lo dispuesto en el Anexo II del [Real Decreto 1085/2020](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1085_2020_establecen_convalidaciones_modulos_profesionales_titulos_formacion.md), de 9 de diciembre, por el que se establecen convalidaciones de módulos profesionales de los títulos
 
@@ -425,7 +443,7 @@ d) El módulo será objeto de convalidación cuando se aporten módulos LOGSE de
 
 #### Séptima. Proyecto intermodular.
 
-1. En los ciclos de grado medio se sustituye el módulo de Integración por el módulo denominado Proyecto intermodular, cuyo currículo básico figura como Anexo II del Real Decreto 499/2024, de 21 de mayo, por el que se modifican determinados reales decretos por los que se establecen títulos de Formación Profesional de grado medio y se fijan sus enseñanzas mínimas.
+1. En los ciclos de grado medio se sustituye el módulo de Integración por el módulo denominado Proyecto intermodular, cuyo currículo básico figura como Anexo II del [Real Decreto 499/2024](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD499_2024_modifican_determinados_reales_decretos_establecen_titulos.md), de 21 de mayo, por el que se modifican determinados reales decretos por los que se establecen títulos de Formación Profesional de grado medio y se fijan sus enseñanzas mínimas.
 
 2. En los ciclos de grado superior se sustituye el módulo de Proyecto, que pasa a denominarse Proyecto intermodular, manteniendo el resto de la denominación, número de código específico y currículo que tuviera en cada uno de los reales decretos afectados. El currículo del módulo de Proyecto intermodular para los ciclos de grados superior, es el contenido en los respectivos reales decretos de cada título, coincidente con el módulo de "Proyecto".
 
@@ -531,7 +549,7 @@ d) El reconocimiento tendrá únicamente validez para la superación total o par
 
 4. En el expediente académico del alumnado se hará constar que ha cursado el ciclo formativo de grado medio y superior en modalidad bilingüe.
 
-5. El profesorado que asuma la docencia de los módulos profesionales en oferta bilingüe deberá contar con alguno de los certificados habilitantes reseñados en la Orden de 25 de noviembre de 2022, por la que se actualizan los títulos y certificados establecidos en el Anexo I de la Orden de 21 de septiembre de 2016, que regula el reconocimiento de la acreditación de la competencia lingüística conforme al Marco Común Europeo de Referencia para las Lenguas en la Comunidad Autónoma de Canarias, que demuestren la competencia lingüística correspondiente al nivel B2 o superior del marco.
+5. El profesorado que asuma la docencia de los módulos profesionales en oferta bilingüe deberá contar con alguno de los certificados habilitantes reseñados en la Orden de 25 de noviembre de 2022, por la que se actualizan los títulos y certificados establecidos en el Anexo I de la [Orden de 21 de septiembre de 2016](./O21_9_2016_reconocimiento_acreditacion_competencia_linguistica_mcerl_canarias.md), que regula el reconocimiento de la acreditación de la competencia lingüística conforme al Marco Común Europeo de Referencia para las Lenguas en la Comunidad Autónoma de Canarias, que demuestren la competencia lingüística correspondiente al nivel B2 o superior del marco.
 
 #### Duodécima. Periodo de formación en empresa u organismo equiparado.
 
@@ -602,7 +620,7 @@ segundo curso permanecerá vigente la ordenación de los ciclos formativos de gr
 3. Quienes en el curso académico 2024-2025 estén repitiendo el primer curso, serán adaptados a la nueva ordenación académica. A estos efectos, si se tuviera superados los módulos de Formación y orientación laboral y/o Empresa e Iniciativa Emprendedora se considerarán superados Itinerario personal para la empleabilidad I y II, respectivamente; de igual forma, si se hubiera obtenido una evaluación positiva en los antiguos módulos de Inglés [código 0156, en ciclos de grado medio; código 0179, en ciclos de grado superior; y Lengua extranjera (Inglés) en ciclos de grado superior], se considerará superado el módulo de Inglés profesional (GM) y (GS) respectivamente. En estos casos, se trasladará la calificación obtenida a los nuevos módulos.
 
 4. Quienes, únicamente durante el curso 2025-2026, se encuentren repitiendo segundo curso y tengan pendiente de superación alguno de los módulos profesionales del sistema que se extingue y que no contaran con la misma codificación en la nueva ordenación, deberán superar las evaluaciones correspondientes a los planes de refuerzo del módulo profesional correspondiente al currículo del sistema a extinguir. Excepcionalmente, podrán cursar los siguientes nuevos módulos profesionales como equivalentes, de acuerdo con la tabla que figura a continuación. En tal caso, deberán estar matriculados en los módulos antiguos y la calificación obtenida se consignará en el expediente académico del alumnado y en los documentos oficiales de evaluación con la denominación y codificación del plan de estudios a extinguir:
-Ordenación de acuerdo con Real Decreto 659/2023, de 18 de julio Ordenación de acuerdo con Real Decreto 1147/2011, de 29 de julio
+Ordenación de acuerdo con [Real Decreto 659/2023](./R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio Ordenación de acuerdo con Real Decreto 1147/2011, de 29 de julio
 
 1079. Itinerario personal para la empleabilidad I Formación y orientación laboral
 
@@ -644,7 +662,7 @@ Las presentes instrucciones tienen por objeto la implantación y desarrollo de l
 
 1. Todos los ciclos formativos de grado básico incluyen en su plan de estudios el módulo profesional de Prevención y salud laboral en el primer curso. El currículo del módulo se recoge en el Decreto 9/2023, de 26 de enero, y es común para todos los ciclos formativos de grado básico, sin perjuicio de la obligatoriedad del profesorado que lo imparta de adaptarlo al sector productivo concreto en el que se incardine la especialidad del ciclo.
 
-2. En cumplimiento de lo establecido en el apartado 3 del artículo 88, del Real Decreto 659/2023, de 18 de julio, antes de iniciar el periodo de formación en empresa u organismo equiparado, el alumnado deberá haber adquirido las competencias y los contenidos relativos a riesgos específicos y las medidas de prevención en las actividades profesionales correspondientes al perfil profesional de cada ciclo formativo de grado básico. Para ello, el profesorado del módulo de Prevención y salud laboral, en colaboración con el resto del equipo docente, deberá programar las actividades de enseñanza y aprendizaje, así como los sistemas de evaluación que garanticen dichas competencias.
+2. En cumplimiento de lo establecido en el apartado 3 del artículo 88, del [Real Decreto 659/2023](./R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, antes de iniciar el periodo de formación en empresa u organismo equiparado, el alumnado deberá haber adquirido las competencias y los contenidos relativos a riesgos específicos y las medidas de prevención en las actividades profesionales correspondientes al perfil profesional de cada ciclo formativo de grado básico. Para ello, el profesorado del módulo de Prevención y salud laboral, en colaboración con el resto del equipo docente, deberá programar las actividades de enseñanza y aprendizaje, así como los sistemas de evaluación que garanticen dichas competencias.
 
 3. La impartición del módulo profesional de Prevención y salud laboral se atribuye al profesorado de la especialidad de Formación y Orientación Laboral.
 
@@ -726,7 +744,7 @@ Cuando el alumnado no promocione deberá matricularse y cursar, nuevamente, todo
 
 #### Undécima. Certificados Profesionales de Grado C.
 
-Una vez establecida la normativa básica que desarrolle los Grados A, B y C del Sistema de Formación Profesional y su relación con los Grados D de las diferentes familias profesionales en el sistema educativo, en aplicación de lo establecido en el Real Decreto 659/2023, la DGFPERE dictará resolución respecto a esta materia que será complementaria a las instrucciones desarrolladas en este anexo.
+Una vez establecida la normativa básica que desarrolle los Grados A, B y C del Sistema de Formación Profesional y su relación con los Grados D de las diferentes familias profesionales en el sistema educativo, en aplicación de lo establecido en el [Real Decreto 659/2023](./R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), la DGFPERE dictará resolución respecto a esta materia que será complementaria a las instrucciones desarrolladas en este anexo.
 
 #### Duodécima. Certificación de la formación de nivel básico en prevención de riesgos laborales.
 
@@ -784,7 +802,7 @@ c) **Evaluación Final Extraordinaria.** Se realizará en junio, en las fechas d
 
 **3.1.** La expresión de la calificación para cada módulo profesional responderá a lo establecido en el artículo 18.8 del [Real Decreto 659/2023](./R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, y será, consecuentemente, numérica entre 1 y 10, sin decimales.
 
-**3.2.** La nota final del curso de especialización será la media aritmética de los módulos expresada con dos decimales, conforme a lo dispuesto en el artículo 124.2 del Real Decreto 659/2023, de 18 de julio.
+**3.2.** La nota final del curso de especialización será la media aritmética de los módulos expresada con dos decimales, conforme a lo dispuesto en el artículo 124.2 del [Real Decreto 659/2023](./R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio.
 
 4. Convocatorias y permanencia.
 

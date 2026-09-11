@@ -1,5 +1,5 @@
 version: '1.0'
-total_normas: 636
+total_normas: 644
 normas:
   norm-and-d154-2022:
     id: norm-and-d154-2022
@@ -58,6 +58,25 @@ normas:
     - junta_de_andalucia
     - andalucia
     path: autonómica/andalucía/01_marco_normativo_general_y_organico/D164_2024_estructura_organica_consejeria_desarrollo_educativo_andalucia.md
+  norm-and-d-194-2026:
+    id: norm-and-d-194-2026
+    codigo_sintetizado: D194_2026 Estructura Organica Consejeria Educacion Andalucia
+    titulo: Decreto 194/2026, de 30 de julio, por el que se establece la estructura
+      orgánica de la Consejería de Educación.
+    jurisdiccion: Andalucía
+    ambito: Autonómico
+    tipo_disposicion: Decreto
+    fecha_publicacion: 2026-07-31
+    estado: Vigente
+    redaccion: pdf_oficial_boja
+    categoria_canonica: 01_marco_normativo_general_y_organico
+    subcategoria: Estructura de la Consejería
+    tags:
+    - estructura-organica
+    - organizacion-administrativa
+    - consejeria-educacion
+    - andalucia
+    path: autonómica/andalucía/01_marco_normativo_general_y_organico/D194_2026_estructura_organica_consejeria_educacion_andalucia.md
   norm-and-d-1-2003:
     id: norm-and-d-1-2003
     codigo_sintetizado: D1_2003 Creacion Instituto Andaluz Cualificaciones Profesionales
@@ -89,8 +108,8 @@ normas:
     fecha_publicacion: '1995-10-26'
     estado: Vigente
     redaccion: original
-    categoria_canonica: ''
-    subcategoria: ''
+    categoria_canonica: 01_marco_normativo_general_y_organico
+    subcategoria: Atención ciudadana y administración
     tags: []
     path: autonómica/andalucía/01_marco_normativo_general_y_organico/D204_1995_medidas_organizativas_servicios_atencion_ciudadanos_andalucia.md
   norm-and-d-276-1998:
@@ -433,8 +452,8 @@ normas:
     fecha_publicacion: '2009-10-05'
     estado: Vigente
     redaccion: original
-    categoria_canonica: ''
-    subcategoria: ''
+    categoria_canonica: 02_gestion_y_administracion_centros
+    subcategoria: Formación Profesional
     tags: []
     path: autonómica/andalucía/02_gestion_y_administracion_centros/D334_2009_regulacion_centros_integrados_formacion_profesional_andalucia.md
   norm-and-d-390-1986:
@@ -614,8 +633,8 @@ normas:
     fecha_publicacion: '2023-05-15'
     estado: Vigente
     redaccion: original
-    categoria_canonica: ''
-    subcategoria: ''
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Educación Infantil
     tags: []
     path: autonómica/andalucía/03_ordenacion_curricular_y_ensenanzas/D100_2023_ordenacion_curriculo_educacion_infantil_andalucia.md
   norm-and-d101-2023-ordenacion-curriculo-educacion-primaria-andalucia:
@@ -630,8 +649,8 @@ normas:
     fecha_publicacion: '2023-05-15'
     estado: Vigente
     redaccion: original
-    categoria_canonica: ''
-    subcategoria: ''
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Educación Primaria
     tags: []
     path: autonómica/andalucía/03_ordenacion_curricular_y_ensenanzas/D101_2023_ordenacion_curriculo_educacion_primaria_andalucia.md
   norm-and-d102-2023-ordenacion-curriculo-educacion-secundaria-obligatoria-andalucia:
@@ -646,8 +665,8 @@ normas:
     fecha_publicacion: '2023-05-15'
     estado: Vigente
     redaccion: original
-    categoria_canonica: ''
-    subcategoria: ''
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Educación Secundaria Obligatoria (ESO)
     tags: []
     path: autonómica/andalucía/03_ordenacion_curricular_y_ensenanzas/D102_2023_ordenacion_curriculo_educacion_secundaria_obligatoria_andalucia.md
   norm-and-d103-2023-ordenacion-curriculo-bachillerato-andalucia:
@@ -661,8 +680,8 @@ normas:
     fecha_publicacion: '2023-05-15'
     estado: Vigente
     redaccion: original
-    categoria_canonica: ''
-    subcategoria: ''
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Bachillerato
     tags: []
     path: autonómica/andalucía/03_ordenacion_curricular_y_ensenanzas/D103_2023_ordenacion_curriculo_bachillerato_andalucia.md
   norm-and-d-117-1985:
@@ -896,8 +915,8 @@ normas:
     fecha_publicacion: '2008-05-02'
     estado: Vigente
     redaccion: original
-    categoria_canonica: ''
-    subcategoria: ''
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Enseñanzas Artísticas
     tags: []
     path: autonómica/andalucía/03_ordenacion_curricular_y_ensenanzas/O17_4_2008_pruebas_acceso_artes_plasticas_diseno_andalucia.md
   norm-and-o-17-9-2010:
@@ -1372,8 +1391,8 @@ normas:
     fecha_publicacion: '2009-07-20'
     estado: Vigente
     redaccion: original
-    categoria_canonica: ''
-    subcategoria: ''
+    categoria_canonica: 04_organizacion_escolar_y_funcionamiento
+    subcategoria: Calendario escolar y jornadas
     tags: []
     path: autonómica/andalucía/04_organizacion_escolar_y_funcionamiento/D301_2009_regulacion_calendario_jornada_escolar_andalucia.md
   norm-and-d327-2010:
@@ -1459,6 +1478,28 @@ normas:
     - danza
     - andalucia
     path: autonómica/andalucía/04_organizacion_escolar_y_funcionamiento/D361_2011_reglamento_organico_conservatorios_musica_danza_andalucia.md
+  norm-and-d-483-2026:
+    id: norm-and-d-483-2026
+    codigo_sintetizado: D483_2026 Medidas Mejora Funcionamiento Sistema Educativo
+      y Actividad Docente Andalucia
+    titulo: Decreto 483/2026, de 31 de agosto, por el que se adoptan medidas para
+      la mejora del funcionamiento del sistema educativo y de la gestión de la actividad
+      docente en la enseñanza no universitaria en Andalucía.
+    jurisdiccion: Andalucía
+    ambito: Autonómico
+    tipo_disposicion: Decreto
+    fecha_publicacion: 2026-08-31
+    estado: Vigente
+    redaccion: pdf_oficial_boja
+    categoria_canonica: 04_organizacion_escolar_y_funcionamiento
+    subcategoria: Organización escolar y funcionamiento
+    tags:
+    - simplificacion-administrativa
+    - actividad-docente
+    - funcionamiento-centros
+    - desburocratizacion
+    - andalucia
+    path: autonómica/andalucía/04_organizacion_escolar_y_funcionamiento/D483_2026_medidas_mejora_funcionamiento_sistema_educativo_actividad_docente_andalucia.md
   norm-and-54-2012:
     id: norm-and-54-2012
     codigo_sintetizado: ''
@@ -1490,8 +1531,8 @@ normas:
     fecha_publicacion: '2020-07-20'
     estado: Vigente
     redaccion: original
-    categoria_canonica: ''
-    subcategoria: ''
+    categoria_canonica: 04_organizacion_escolar_y_funcionamiento
+    subcategoria: Instalaciones y condiciones ambientales
     tags: []
     path: autonómica/andalucía/04_organizacion_escolar_y_funcionamiento/L1_2020_bioclimatizacion_condiciones_ambientales_centros_andalucia.md
   norm-and-l4-1984:
@@ -1557,6 +1598,28 @@ normas:
     - pga
     - andalucia
     path: autonómica/andalucía/04_organizacion_escolar_y_funcionamiento/O20_8_2010_instrucciones_organizacion_funcionamiento_ceip_andalucia.md
+  norm-and-ord-2026-08-31-medidas-organizacion:
+    id: norm-and-ord-2026-08-31-medidas-organizacion
+    codigo_sintetizado: O31_8_2026 Medidas Organizacion Funcionamiento Gestion Sistema
+      Educativo Andalucia
+    titulo: Orden de 31 de agosto de 2026, por la que se establecen medidas para la
+      mejora de la organización, el funcionamiento y la gestión del sistema educativo
+      en las enseñanzas no universitarias de Andalucía.
+    jurisdiccion: Andalucía
+    ambito: Autonómico
+    tipo_disposicion: Orden
+    fecha_publicacion: 2026-08-31
+    estado: Vigente
+    redaccion: pdf_oficial_boja
+    categoria_canonica: 04_organizacion_escolar_y_funcionamiento
+    subcategoria: Organización escolar y funcionamiento
+    tags:
+    - organizacion-escolar
+    - gestion-educativa
+    - teletrabajo-docente
+    - desburocratizacion
+    - andalucia
+    path: autonómica/andalucía/04_organizacion_escolar_y_funcionamiento/O31_8_2026_medidas_organizacion_funcionamiento_gestion_sistema_educativo_andalucia.md
   norm-and-r-1-9-2025:
     id: norm-and-r-1-9-2025
     codigo_sintetizado: R1_9_2025 Instrucciones Inicio Curso Escolar 2025-2026 Andalucía
@@ -1786,8 +1849,8 @@ normas:
     fecha_publicacion: '2017-03-29'
     estado: Vigente
     redaccion: original
-    categoria_canonica: ''
-    subcategoria: ''
+    categoria_canonica: 05_alumnado_y_servicios_escolares
+    subcategoria: Educación Infantil
     tags: []
     path: autonómica/andalucía/05_alumnado_y_servicios_escolares/DL1_2017_escolarizacion_gratuidad_primer_ciclo_educacion_infantil_andalucia.md
   norm-and-dl2-2021-procedimientos-admision-alumnado-centros-docentes-andalucia:
@@ -1805,8 +1868,8 @@ normas:
     fecha_publicacion: '2021-02-05'
     estado: Vigente
     redaccion: original
-    categoria_canonica: ''
-    subcategoria: ''
+    categoria_canonica: 05_alumnado_y_servicios_escolares
+    subcategoria: Admisión y escolarización del alumnado
     tags: []
     path: autonómica/andalucía/05_alumnado_y_servicios_escolares/DL2_2021_procedimientos_admision_alumnado_centros_docentes_andalucia.md
   norm-and-ins-2026-02-23-admision-2026-2027:
@@ -1845,8 +1908,8 @@ normas:
     fecha_publicacion: '2016-06-08'
     estado: Vigente
     redaccion: original
-    categoria_canonica: ''
-    subcategoria: ''
+    categoria_canonica: 05_alumnado_y_servicios_escolares
+    subcategoria: Formación Profesional
     tags: []
     path: autonómica/andalucía/05_alumnado_y_servicios_escolares/O1_6_2016_criterios_procedimiento_admision_formacion_profesional_andalucia.md
   norm-and-o-20-2-2020:
@@ -1886,8 +1949,8 @@ normas:
     fecha_publicacion: '2010-08-12'
     estado: Vigente
     redaccion: original
-    categoria_canonica: ''
-    subcategoria: ''
+    categoria_canonica: 05_alumnado_y_servicios_escolares
+    subcategoria: Comedores y servicios complementarios
     tags: []
     path: autonómica/andalucía/05_alumnado_y_servicios_escolares/O3_8_2010_servicios_complementarios_aula_matinal_comedor_andalucia.md
   norm-and-r-19-1-2026-calendario-admision-alumnado-centros-docentes-andalucia-2026-2027:
@@ -1945,8 +2008,8 @@ normas:
     fecha_publicacion: '2024-01-01'
     estado: Vigente
     redaccion: original
-    categoria_canonica: ''
-    subcategoria: ''
+    categoria_canonica: 06_atencion_diversidad_y_orientacion
+    subcategoria: Atención a la diversidad y NEAE
     tags: []
     path: autonómica/andalucía/06_atencion_diversidad_y_orientacion/D147_2002_atencion_educativa_alumnado_necesidades_educativas_especiales_andalucia.md
   norm-and-d-167-2003:
@@ -2028,8 +2091,8 @@ normas:
     fecha_publicacion: '1999-12-02'
     estado: Vigente
     redaccion: original
-    categoria_canonica: ''
-    subcategoria: ''
+    categoria_canonica: 06_atencion_diversidad_y_orientacion
+    subcategoria: Atención a la diversidad y NEAE
     tags: []
     path: autonómica/andalucía/06_atencion_diversidad_y_orientacion/L9_1999_solidaridad_en_la_educacion_andalucia.md
   norm-and-o15-1-2021-atencion-diversidad-orientacion-educativa-andalucia:
@@ -2046,8 +2109,8 @@ normas:
     fecha_publicacion: '2021-01-18'
     estado: Vigente
     redaccion: original
-    categoria_canonica: ''
-    subcategoria: ''
+    categoria_canonica: 06_atencion_diversidad_y_orientacion
+    subcategoria: Atención a la diversidad y NEAE
     tags: []
     path: autonómica/andalucía/06_atencion_diversidad_y_orientacion/O15_1_2021_atencion_diversidad_orientacion_educativa_andalucia.md
   norm-and-ord-2005-09-19-absentismo:
@@ -2335,8 +2398,8 @@ normas:
     fecha_publicacion: '2011-07-07'
     estado: Vigente
     redaccion: original
-    categoria_canonica: ''
-    subcategoria: ''
+    categoria_canonica: 07_convivencia_bienestar_y_protocolos
+    subcategoria: Convivencia y mediación escolar
     tags: []
     path: autonómica/andalucía/07_convivencia_bienestar_y_protocolos/O20_6_2011_promocion_convivencia_mediacion_escolar_andalucia.md
   norm-and-res-2026-09-01-violencia-genero:
@@ -2999,6 +3062,27 @@ normas:
     - gestion-centros
     - canarias
     path: autonómica/canarias/02_gestion_y_administracion_centros/D112_2011_regulan_centros_integrados_formacion_profesional_canarias.md
+  norm-can-d-132-2026:
+    id: norm-can-d-132-2026
+    codigo_sintetizado: D132_2026 Transformacion IES San Marcos en CIFP
+    titulo: Decreto 132/2026, de 31 de agosto, por el que se transforma el Instituto
+      de Educación Secundaria (IES) 'San Marcos' en un Centro Integrado de Formación
+      Profesional (CIFP).
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Decreto
+    fecha_publicacion: 2026-09-07
+    estado: Vigente
+    redaccion: pdf_oficial_boc
+    categoria_canonica: 02_gestion_y_administracion_centros
+    subcategoria: Organización y tipos de centros
+    tags:
+    - cifp
+    - centros-integrados
+    - formacion-profesional
+    - ies-san-marcos
+    - canarias
+    path: autonómica/canarias/02_gestion_y_administracion_centros/D132_2026_transformacion_ies_san_marcos_en_cifp.md
   norm-can-d-168-2009:
     id: norm-can-d-168-2009
     codigo_sintetizado: D168_2009 Prevencion de Riesgos Laborales en la Administracion
@@ -6099,6 +6183,29 @@ normas:
     - ensenanza-obligatoria
     - canarias
     path: autonómica/canarias/05_alumnado_y_servicios_escolares/O5_11_2012_sistema_prestamo_adquisicion_libros_texto_materiales_didacticos_canarias.md
+  norm-can-res-2026-09-10-comensales-aulas-enclave:
+    id: norm-can-res-2026-09-10-comensales-aulas-enclave
+    codigo_sintetizado: R10_9_2026 Instrucciones Comensales Aulas Enclave CEE Canarias
+    titulo: Resolución 689/2026, de 10 de septiembre de 2026, por la que se dictan
+      instrucciones de admisión del alumnado comensal y criterios de libramiento extraordinario
+      para alumnado de aulas enclave y Centros de Educación Especial (CEE), curso
+      2026-2027.
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Resolución
+    fecha_publicacion: 2026-09-10
+    estado: Vigente
+    redaccion: pdf_oficial
+    categoria_canonica: 05_alumnado_y_servicios_escolares
+    subcategoria: Comedores y desayunos escolares
+    tags:
+    - comedores-escolares
+    - aulas-enclave
+    - educacion-especial
+    - cee
+    - libramiento-extraordinario
+    - canarias
+    path: autonómica/canarias/05_alumnado_y_servicios_escolares/R10_9_2026_instrucciones_comensales_aulas_enclave_cee_canarias.md
   norm-can-res-boc-2026-039-102:
     id: norm-can-res-boc-2026-039-102
     codigo_sintetizado: Resolucion BOC 102
@@ -8634,6 +8741,33 @@ normas:
     - areas_experiencia
     - madrid
     path: autonómica/madrid/03_ordenacion_curricular_y_ensenanzas/D36_2022_ordenacion_curriculo_educacion_infantil_madrid.md
+  norm-mad-d-59-2024:
+    id: norm-mad-d-59-2024
+    codigo_sintetizado: D59_2024 Modifica Decretos Curriculo Primaria Secundaria Bachillerato
+    titulo: Decreto 59/2024, de 12 de junio, del Consejo de Gobierno, por el que se
+      modifica el Decreto 61/2022, de 13 de julio, del Consejo de Gobierno, por el
+      que se establece para la Comunidad de Madrid la ordenación y el currículo de
+      la etapa de Educación Primaria, el Decreto 65/2022, de 20 de julio, del Consejo
+      de Gobierno, por el que se establecen para la Comunidad de Madrid la ordenación
+      y el currículo de la Educación Secundaria Obligatoria, y el Decreto 64/2022,
+      de 20 de julio, del Consejo de Gobierno, por el que se establecen para la Comunidad
+      de Madrid la ordenación y el currículo del Bachillerato.
+    jurisdiccion: Madrid
+    ambito: Autonómico
+    tipo_disposicion: Decreto
+    fecha_publicacion: 2024-06-13
+    estado: Vigente
+    redaccion: pdf_oficial_bocm
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Bilingüismo
+    tags:
+    - bilinguismo
+    - primaria
+    - secundaria
+    - bachillerato
+    - geografia-historia
+    - madrid
+    path: autonómica/madrid/03_ordenacion_curricular_y_ensenanzas/D59_2024_modifica_decretos_ordenacion_curriculo_primaria_secundaria_bachillerato_madrid.md
   norm-mad-d-61-2022:
     id: norm-mad-d-61-2022
     codigo_sintetizado: D61_2022 Ordenacion y Curriculo Educacion Primaria Madrid
@@ -8736,25 +8870,6 @@ normas:
     - curriculo_artes
     - madrid
     path: autonómica/madrid/03_ordenacion_curricular_y_ensenanzas/D7_2014_curriculo_ensenanzas_profesionales_artes_plasticas_diseno_madrid.md
-  norm-mad-d-88-2021:
-    id: norm-mad-d-88-2021
-    codigo_sintetizado: D88_2021 Regulacion Centros Bilingues Secundaria Madrid
-    titulo: Decreto 88/2021, de 30 de junio, por el que se regula el programa bilingüe
-      en Educación Secundaria Obligatoria y Bachillerato.
-    jurisdiccion: Madrid
-    ambito: Autonómico
-    tipo_disposicion: Decreto
-    fecha_publicacion: '2021-07-02'
-    estado: Vigente
-    redaccion: original
-    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
-    subcategoria: Bilingüismo
-    tags:
-    - bilinguismo
-    - secundaria
-    - bachillerato_bilingue
-    - madrid
-    path: autonómica/madrid/03_ordenacion_curricular_y_ensenanzas/D88_2021_regulacion_centros_bilingues_educacion_secundaria_madrid.md
   norm-mad-d8-2014-curriculo-ciclos-artes-plasticas-diseno-madrid:
     id: norm-mad-d8-2014-curriculo-ciclos-artes-plasticas-diseno-madrid
     codigo_sintetizado: D8 2014 Curriculo Ciclos Artes Plasticas Diseno Madrid
@@ -9147,6 +9262,29 @@ normas:
     - curriculo_superior
     - madrid
     path: autonómica/madrid/03_ordenacion_curricular_y_ensenanzas/O2876_2018_curriculo_ensenanzas_artisticas_superiores_diseno_madrid.md
+  norm-mad-ord-3206-2026:
+    id: norm-mad-ord-3206-2026
+    codigo_sintetizado: O28_8_2026 Modificacion Planes Estudios Ensenanzas Artísticas
+      Superiores Madrid
+    titulo: Orden 3206/2026, de 28 de agosto, de la Consejera de Educación, Ciencia
+      y Universidades, por la que se modifica la Orden 175/2013, de 31 de enero, que
+      regula la implantación de los planes de estudios para la Comunidad de Madrid
+      de las Enseñanzas Artísticas Superiores.
+    jurisdiccion: Madrid
+    ambito: Autonómico
+    tipo_disposicion: Orden
+    fecha_publicacion: 2026-09-10
+    estado: Vigente
+    redaccion: pdf_oficial_bocm
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Enseñanzas Artísticas
+    tags:
+    - ensenanzas-artisticas-superiores
+    - musica
+    - conservatorio
+    - planes-de-estudio
+    - madrid
+    path: autonómica/madrid/03_ordenacion_curricular_y_ensenanzas/O28_8_2026_modificacion_planes_estudios_ensenanzas_artisticas_superiores_madrid.md
   norm-mad-o324-2016-curriculo-idiomas-escuelas-oficiales-idiomas-madrid:
     id: norm-mad-o324-2016-curriculo-idiomas-escuelas-oficiales-idiomas-madrid
     codigo_sintetizado: O324 2016 Curriculo Idiomas Escuelas Oficiales Idiomas Madrid
@@ -10087,6 +10225,27 @@ normas:
     - educacion-especial
     - madrid
     path: autonómica/madrid/05_alumnado_y_servicios_escolares/O2808_2023_proceso_admision_alumnado_infantil_primaria_eso_bachillerato_madrid.md
+  norm-mad-ord-3630-2026:
+    id: norm-mad-ord-3630-2026
+    codigo_sintetizado: O2_9_2026 Becas Comedor Escolar Curso 2026-2027 Madrid
+    titulo: Orden 3630/2026, de 2 de septiembre, de la Consejera de Educación, Ciencia
+      y Universidades, por la que se resuelve la concesión de becas para el comedor
+      escolar en centros sostenidos con fondos públicos para el curso 2026-2027.
+    jurisdiccion: Madrid
+    ambito: Autonómico
+    tipo_disposicion: Orden
+    fecha_publicacion: 2026-09-04
+    estado: Vigente
+    redaccion: pdf_oficial_bocm
+    categoria_canonica: 05_alumnado_y_servicios_escolares
+    subcategoria: Comedores y desayunos escolares
+    tags:
+    - becas-comedor
+    - comedor-escolar
+    - servicios-complementarios
+    - ayudas-familias
+    - madrid
+    path: autonómica/madrid/05_alumnado_y_servicios_escolares/O2_9_2026_becas_comedor_escolar_curso_2026_2027_madrid.md
   norm-mad-o3136-2020-funcionamiento-servicio-comedor-escolar-centros-publicos-madrid:
     id: norm-mad-o3136-2020-funcionamiento-servicio-comedor-escolar-centros-publicos-madrid
     codigo_sintetizado: O3136 2020 Funcionamiento Servicio Comedor Escolar Centros
@@ -13065,6 +13224,27 @@ normas:
     - orientacion-educativa
     - personal-no-docente
     path: estatal/03_ordenacion_curricular_y_ensenanzas/RD69_2025_desarrollan_elementos_integrantes_instrumentos_gestion_sistema.md
+  norm-es-rd-722-2026:
+    id: norm-es-rd-722-2026
+    codigo_sintetizado: RD722_2026 Modifica Reglamento Consejo General Formacion Profesional
+    titulo: Real Decreto 722/2026, de 9 de septiembre, por el que se modifica el Real
+      Decreto 1684/1997, de 7 de noviembre, por el que se aprueba el Reglamento de
+      Funcionamiento del Consejo General de Formación Profesional.
+    jurisdiccion: Estatal
+    ambito: Estatal
+    tipo_disposicion: Real Decreto
+    fecha_publicacion: 2026-09-11
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Formación Profesional
+    tags:
+    - formacion-profesional
+    - consejo-general-fp
+    - participacion-educativa
+    - organos-colegiados
+    - estatal
+    path: estatal/03_ordenacion_curricular_y_ensenanzas/RD722_2026_modifica_reglamento_funcionamiento_consejo_general_formacion_profesional.md
   norm-es-2015-9462:
     id: norm-es-2015-9462
     codigo_sintetizado: BOE-A-2015-9462
@@ -14451,6 +14631,12 @@ relaciones_grafo:
   destino: norm-and-d154-2022
   articulos_origen:
   - D. Derogatoria única. Derogación normativa.
+- origen: norm-and-d-194-2026
+  tipo: fundamentado_en
+  destino: norm-es-lo-2-2006
+- origen: norm-and-d-194-2026
+  tipo: fundamentado_en
+  destino: norm-and-l-17-2007
 - origen: norm-and-d-1-2003
   tipo: desarrolla
   destino: norm-es-lo-2-2006
@@ -18641,6 +18827,21 @@ relaciones_grafo:
 - origen: norm-and-361-2011
   tipo: fundamentado_en
   destino: norm-and-l17-2007
+- origen: norm-and-d-483-2026
+  tipo: modifica
+  destino: norm-and-d-301-2009
+- origen: norm-and-d-483-2026
+  tipo: modifica
+  destino: norm-and-d-93-2013
+- origen: norm-and-d-483-2026
+  tipo: modifica
+  destino: norm-and-d-152-2020
+- origen: norm-and-d-483-2026
+  tipo: fundamentado_en
+  destino: norm-es-lo-2-2006
+- origen: norm-and-d-483-2026
+  tipo: fundamentado_en
+  destino: norm-and-l-17-2007
 - origen: norm-and-54-2012
   tipo: desarrolla
   destino: norm-es-lo-2-2006
@@ -18829,6 +19030,15 @@ relaciones_grafo:
 - origen: norm-and-o-20-8-2010
   tipo: fundamentado_en
   destino: norm-es-l-40-2015
+- origen: norm-and-ord-2026-08-31-medidas-organizacion
+  tipo: desarrolla
+  destino: norm-and-d-483-2026
+- origen: norm-and-ord-2026-08-31-medidas-organizacion
+  tipo: fundamentado_en
+  destino: norm-es-lo-2-2006
+- origen: norm-and-ord-2026-08-31-medidas-organizacion
+  tipo: fundamentado_en
+  destino: norm-and-l-17-2007
 - origen: norm-and-r-1-9-2025
   tipo: desarrolla
   destino: norm-es-lo-2-2006
@@ -23454,6 +23664,15 @@ relaciones_grafo:
 - origen: norm-can-d-109-1999
   tipo: articulos
   destino: norm-es-1984-17387
+- origen: norm-can-d-132-2026
+  tipo: fundamentado_en
+  destino: norm-can-l-6-2014
+- origen: norm-can-d-132-2026
+  tipo: fundamentado_en
+  destino: norm-can-d-224-2017
+- origen: norm-can-d-132-2026
+  tipo: fundamentado_en
+  destino: norm-es-lo-3-2022
 - origen: norm-can-d-168-2009
   tipo: desarrolla
   destino: norm-es-l-31-1995
@@ -37469,6 +37688,12 @@ relaciones_grafo:
 - origen: norm-can-o-2-8-2006
   tipo: articulos
   destino: norm-es-rd-443-2001
+- origen: norm-can-res-2026-09-10-comensales-aulas-enclave
+  tipo: fundamentado_en
+  destino: norm-can-l-6-2014
+- origen: norm-can-res-2026-09-10-comensales-aulas-enclave
+  tipo: fundamentado_en
+  destino: norm-can-d-74-2023
 - origen: norm-can-res-boc-2026-039-102
   tipo: desarrolla
   destino: norm-can-l-6-2014
@@ -45333,6 +45558,18 @@ relaciones_grafo:
 - origen: norm-mad-d-36-2022
   tipo: desarrolla
   destino: norm-es-lo-2-2006
+- origen: norm-mad-d-59-2024
+  tipo: modifica
+  destino: norm-mad-d-61-2022
+- origen: norm-mad-d-59-2024
+  tipo: modifica
+  destino: norm-mad-d-65-2022
+- origen: norm-mad-d-59-2024
+  tipo: modifica
+  destino: norm-mad-d-64-2022
+- origen: norm-mad-d-59-2024
+  tipo: fundamentado_en
+  destino: norm-es-lo-2-2006
 - origen: norm-mad-d-61-2022
   tipo: fundamentado_en
   destino: norm-es-lo-2-2006
@@ -46283,22 +46520,6 @@ relaciones_grafo:
   seccion_origen: Sección 2. a
   articulos_origen:
   - D. Final tercera. Entrada en vigor.
-- origen: norm-mad-d-88-2021
-  tipo: fundamentado_en
-  destino: norm-es-l-39-2015
-  articulos_destino:
-  - Art. 49
-  - Art. 123
-  - Art. 124
-- origen: norm-mad-d-88-2021
-  tipo: fundamentado_en
-  destino: norm-mad-d-29-2013
-- origen: norm-mad-d-88-2021
-  tipo: fundamentado_en
-  destino: norm-es-lo-2-2006
-- origen: norm-mad-d-88-2021
-  tipo: desarrolla
-  destino: norm-es-lo-2-2006
 - origen: norm-mad-d-9-2025
   tipo: desarrolla
   destino: norm-mad-d-27-2025
@@ -46686,6 +46907,12 @@ relaciones_grafo:
 - origen: norm-mad-o-2367-2025
   tipo: fundamenta
   destino: norm-mad-r20-1-2026
+- origen: norm-mad-ord-3206-2026
+  tipo: modifica
+  destino: norm-mad-ord-175-2013
+- origen: norm-mad-ord-3206-2026
+  tipo: fundamentado_en
+  destino: norm-es-lo-2-2006
 - origen: norm-mad-o-3814-2023
   tipo: fundamentado_en
   destino: norm-es-l-39-2015
@@ -47582,6 +47809,12 @@ relaciones_grafo:
 - origen: norm-mad-o-2808-2023
   tipo: fundamentado_en
   destino: norm-mad-o-1240-2013
+- origen: norm-mad-ord-3630-2026
+  tipo: fundamentado_en
+  destino: norm-es-lo-2-2006
+- origen: norm-mad-ord-3630-2026
+  tipo: fundamentado_en
+  destino: norm-mad-ord-956-2017
 - origen: norm-mad-o-956-2017
   tipo: fundamentado_en
   destino: norm-es-lo-2-2006
@@ -71479,6 +71712,15 @@ relaciones_grafo:
 - origen: norm-es-2025-2039
   tipo: articulos
   destino: norm-es-2010-12201
+- origen: norm-es-rd-722-2026
+  tipo: modifica
+  destino: norm-es-rd-1684-1997
+- origen: norm-es-rd-722-2026
+  tipo: fundamentado_en
+  destino: norm-es-lo-3-2022
+- origen: norm-es-rd-722-2026
+  tipo: fundamentado_en
+  destino: norm-es-rd-659-2023
 - origen: norm-es-2015-9462
   tipo: modifica
   destino: norm-es-lo-2-2006

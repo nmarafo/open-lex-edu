@@ -26,8 +26,18 @@ tags:
 - prevencion_suicidio
 - protocolo
 - madrid
+fundamentos_derecho:
+- norma_id: norm-can-l-4-2023
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-mad-d248-2023
+- norma_id: norm-mad-l4-2023
+- norma_id: norm-mad-o6-2023
+- norma_id: norm-mad-r4-10-2022-instrucciones-protocolo-actuacion-acoso-escolar-centros-docentes-madrid
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
+- norma_id: norm-es-lo-8-2021
 ---
-
 # Resolución de 26 de noviembre de 2024, de la Viceconsejería de Política y Organización Educativa, por la que se da publicidad a los protocolos de actuación ante cualquier tipo de violencia en los centros educativos
 
 ## Preámbulo
@@ -38,15 +48,15 @@ Consejería de Educación, Ciencia y Universidades
 RESOLUCIÓN de 26 de noviembre de 2024, de la Viceconsejería de Política y
 Organización Educativa, por la que se da publicidad a los protocolos de actua-
 ción ante cualquier tipo de violencia en los centros educativos.
-La Ley Orgánica 2/2006, de 3 de mayo, de Educación, establece en su artículo 124.5
+La [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, establece en su artículo 124.5
 que las Administraciones educativas regularán los protocolos de actuación frente a indicios
 de acoso escolar, ciberacoso, acoso sexual, violencia de género y cualquier otra manifesta-
 ción de violencia.
-En términos similares se pronuncia el artículo 34 de la Ley Orgánica 8/2021, de 4 de
+En términos similares se pronuncia el artículo 34 de la [Ley Orgánica 8/2021](../../../estatal/07_convivencia_bienestar_y_protocolos/LO8_2021_proteccion_integral_infancia_adolescencia_frente_violencia.md), de 4 de
 junio, de protección integral a la infancia y la adolescencia frente a la violencia, señalando
 que dichos protocolos deberán ser aplicados en todos los centros educativos, independien-
 temente de su titularidad y evaluarse periódicamente con el fin de valorar su eficacia.
-En el ámbito normativo de la Comunidad de Madrid, la Ley 4/2023, de 22 de marzo,
+En el ámbito normativo de la Comunidad de Madrid, la [Ley 4/2023](../../canarias/01_marco_normativo_general_y_organico/L4_2023_presidencia_gobierno_canarias.md), de 22 de marzo,
 de Derechos, Garantías y Protección Integral de la Infancia y la Adolescencia de la Comu-
 nidad de Madrid recoge entre sus objetivos la determinación de las actuaciones, medidas y
 procedimientos que han de adoptarse para procurar una protección integral de los derechos
@@ -61,7 +71,7 @@ mismo artículo, las personas que ostenten la dirección o titularidad de los ce
 vos tienen la responsabilidad de que la comunidad educativa esté informada de los proto-
 colos existentes, así como de la ejecución y el seguimiento de las actuaciones previstas en
 los mismos.
-Además, de acuerdo con lo establecido en el artículo 35.4 de la citada Ley 4/2023,
+Además, de acuerdo con lo establecido en el artículo 35.4 de la citada [Ley 4/2023](../../canarias/01_marco_normativo_general_y_organico/L4_2023_presidencia_gobierno_canarias.md),
 de 22 de marzo, los centros deberán disponer de mecanismos de comunicación seguros, efi-
 caces, adaptados y accesibles, que permitan a los niños que fueran víctimas de violencia o
 presenciaran alguna situación de violencia sobre otros, poder comunicarlo personalmente o a
@@ -70,7 +80,7 @@ municación se facilitará al inicio de cada curso escolar y deberá mantenerse 
 accesible, de forma que se asegure que pueda ser consultada libremente en cualquier mo-
 mento. Establece, igualmente, que, tras la comunicación de una situación de violencia, el
 director del centro procederá a la apertura del correspondiente protocolo.
-El artículo 5.m) del Decreto 248/2023, de 11 de octubre, del Consejo de Gobierno, por
+El artículo 5.m) del [Decreto 248/2023](../01_marco_normativo_general_y_organico/D248_2023_estructura_organica_consejeria_educacion_ciencia_universidades_madrid.md), de 11 de octubre, del Consejo de Gobierno, por
 el que se establece la estructura orgánica de la Consejería de Educación, Ciencia y Univer-
 sidades, atribuye a la Viceconsejería de Política y Organización Educativa las competen-
 cias para el desempeño de la función inspectora en materia de educación, en orden a garan-
@@ -84,7 +94,7 @@ ponsable de las funciones de planificación y desarrollo de las medidas dirigida
 la convivencia en los centros docentes, así como de la coordinación de los diferencies servi-
 cios y unidades que intervienen en los conflictos de convivencia escolar y situaciones de aco-
 so escolar, atendiendo a las demandas de orientación e información de la comunidad escolar.
-La Orden 6/2023, de 3 de enero, de la Vicepresidencia, Consejería de Educación y
+La [Orden 6/2023](./O6_2023_creacion_unidad_convivencia_contra_acoso_escolar_madrid.md), de 3 de enero, de la Vicepresidencia, Consejería de Educación y
 Universidades, por la que se establecen la estructura y funciones de la Unidad de conviven-
 cia y contra el acoso escolar, señala en su artículo 13 que la consejería con competencias en
 
@@ -118,7 +128,7 @@ Tercero
 El desarrollo de las actuaciones de los centros educativos ante cualquier tipo de vio-
 lencia se guiará por los protocolos recogidos en el apartado primero de esta resolución.
 Cuarto
-Queda sin efecto la Resolución de 4 de octubre de 2022, de la Viceconsejería de Or-
+Queda sin efecto la [Resolución de 4 de octubre de 2022](./R4_10_2022_instrucciones_protocolo_actuacion_acoso_escolar_centros_docentes_madrid.md), de la Viceconsejería de Or-
 ganización Educativa, por la que se dictan instrucciones a los centros educativos para la
 aplicación de protocolos de actuación ante cualquier tipo de violencia.
 Quinto

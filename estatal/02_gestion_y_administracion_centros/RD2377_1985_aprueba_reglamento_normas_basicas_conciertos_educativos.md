@@ -184,8 +184,9 @@ relaciones:
   - norma_id: norm-es-lo-8-1985
   articulos:
   - norma_id: '27'
+fundamentos_derecho:
+- norma_id: norm-es-lo-8-1985
 ---
-
 # Real Decreto 2377/1985, de 18 de diciembre, por el que se aprueba el Reglamento de Normas Básicas sobre Conciertos Educativos.
 
 ## Preámbulo

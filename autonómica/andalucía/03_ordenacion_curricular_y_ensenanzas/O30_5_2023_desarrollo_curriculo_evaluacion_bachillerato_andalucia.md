@@ -35,13 +35,30 @@ relaciones:
   - norma_id: norm-and-l17-2007
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-l-39-2015
+fundamentos_derecho:
+- norma_id: norm-and-l12-2007-promocion-igualdad-genero-andalucia
+- norma_id: norm-and-l17-2007
+- norma_id: norm-and-l6-2006-gobierno-comunidad-autonoma-andalucia
+- norma_id: norm-and-d103-2023-ordenacion-curriculo-bachillerato-andalucia
+- norma_id: norm-and-o-30-5-2023-eso
+- norma_id: norm-and-o-30-5-2023-infantil
+- norma_id: norm-and-o-30-5-2023-primaria
+- norma_id: norm-and-d301-2009
+- norma_id: norm-and-o15-1-2021-atencion-diversidad-orientacion-educativa-andalucia
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-es-l-39-2015
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-rd-1834-2008
+- norma_id: norm-es-2010-11426
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-rd-243-2022
+- norma_id: norm-es-2010-12201
 ---
-
-# Orden de 30 de mayo de 2023, por la que se desarrolla el currículo correspondiente a la etapa de Bachillerato en la Comunidad Autónoma de Andalucía, se regulan determinados aspectos de la atención a la diversidad y a las diferencias individuales y se establece la ordenación de la evaluación del proceso de aprendizaje del alumnado.
+# [Orden de 30 de mayo de 2023](./O30_5_2023_desarrollo_curriculo_evaluacion_eso_andalucia.md), por la que se desarrolla el currículo correspondiente a la etapa de Bachillerato en la Comunidad Autónoma de Andalucía, se regulan determinados aspectos de la atención a la diversidad y a las diferencias individuales y se establece la ordenación de la evaluación del proceso de aprendizaje del alumnado.
 
 ## Preámbulo
 
-Orden de 30 de mayo de 2023, por la que se desarrolla el currículo 
+[Orden de 30 de mayo de 2023](./O30_5_2023_desarrollo_curriculo_evaluacion_eso_andalucia.md), por la que se desarrolla el currículo 
 correspondiente a la etapa de Bachillerato en la Comunidad Autónoma de 
 Andalucía, se regulan determinados aspectos de la atención a la diversidad y 
 a las diferencias individuales y se establece la ordenación de la evaluación del 
@@ -49,7 +66,7 @@ proceso de aprendizaje del alumnado.
 La Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la Ley Orgánica 
 2/2006, de 3 de mayo, de Educación, ha introducido cambios que afectan a la etapa 
 de Bachillerato. En cumplimiento de estas previsiones legales, el Gobierno ha regulado 
-esta etapa mediante el Real Decreto 243/2022, de 5 de abril, por el que se establecen la 
+esta etapa mediante el [Real Decreto 243/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD243_2022_establecen_ordenacion_ensenanzas_minimas_bachillerato.md), de 5 de abril, por el que se establecen la 
 ordenación y las enseñanzas mínimas del Bachillerato. 
 La Comunidad Autónoma de Andalucía ostenta la competencia compartida para el 
 establecimiento de los planes de estudio, incluida la ordenación curricular, de conformidad 
@@ -58,18 +75,18 @@ perjuicio de lo recogido en el artículo 149.1.30.ª de la Constitución Españo
 cual corresponde al Estado dictar las normas básicas para el desarrollo de su artículo 27, 
 a fin de garantizar el cumplimiento de las obligaciones de los poderes públicos en esta 
 materia.
-En el ejercicio de esta competencia se ha publicado el Decreto 103/2023, de 9 de 
+En el ejercicio de esta competencia se ha publicado el [Decreto 103/2023](./D103_2023_ordenacion_curriculo_bachillerato_andalucia.md), de 9 de 
 mayo, por el que se establece la ordenación y el currículo de la etapa de Bachillerato 
 en la Comunidad Autónoma de Andalucía, de conformidad con lo dispuesto en la Ley 
-Orgánica 2/2006, de 3 de mayo, de Educación, y en el Real Decreto 243/2022, de 5 de 
+Orgánica 2/2006, de 3 de mayo, de Educación, y en el [Real Decreto 243/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD243_2022_establecen_ordenacion_ensenanzas_minimas_bachillerato.md), de 5 de 
 abril, quedando derogado el Decreto 110/2016, de 14 de junio, por el que se establece la 
 ordenación y el currículo del Bachillerato en la Comunidad Autónoma de Andalucía.
-Como desarrollo del Decreto 103/2023, de 9 de mayo, se hace necesario disponer 
+Como desarrollo del [Decreto 103/2023](./D103_2023_ordenacion_curriculo_bachillerato_andalucia.md), de 9 de mayo, se hace necesario disponer 
 de un nuevo marco normativo, mediante la presente Orden, que regule en Andalucía la 
 etapa de Bachillerato en aspectos curriculares y organizativos, así como en lo referente al 
 ámbito de la atención a la diversidad y a las diferencias individuales, a la evaluación, a la 
 promoción y a la titulación. 
-La Ley 17/2007, de 10 de diciembre, de Educación de Andalucía y las orientaciones 
+La [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre, de Educación de Andalucía y las orientaciones 
 de la Unión Europea inciden en la necesidad de la adquisición de las competencias clave 
 por parte de la ciudadanía como condición indispensable para lograr que las personas 
 puedan alcanzar su pleno desarrollo personal, social y profesional. El aprendizaje basado 
@@ -77,7 +94,7 @@ en competencias incluye, además del «saber», el «saber hacer» y el «saber 
 Se trata de formar una ciudadanía competente a través de una educación que tenga en 
 cuenta las competencias clave que demanda la construcción de una sociedad plural, 
 dinámica, emprendedora, democrática y solidaria. Además, la educación debe fomentar 
-una igualdad real entre hombres y mujeres, tal y como se establece en la Ley 12/2007, de 
+una igualdad real entre hombres y mujeres, tal y como se establece en la [Ley 12/2007](../01_marco_normativo_general_y_organico/L12_2007_promocion_igualdad_genero_andalucia.md), de 
 26 de noviembre, para la promoción de la igualdad de género en Andalucía. 
 El currículo de esta etapa en Andalucía ordena, organiza y relaciona los elementos 
 que determinan los procesos de enseñanza y aprendizaje. Este currículo concreta 
@@ -136,7 +153,7 @@ dar continuidad, coherencia y cohesión a la progresión en el desempeño compet
 lo largo del período que conforma la Educación Postobligatoria, ya que marca los niveles 
 de desempeño de las competencias clave al finalizar la misma.
 La presente orden se ha elaborado atendiendo a los principios de buena regulación 
-contenidos en el artículo 129 de la Ley 39/2015, de 1 de octubre, del Procedimiento 
+contenidos en el artículo 129 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento 
 Administrativo Común de las Administraciones Públicas: principios de necesidad, eficacia, 
 proporcionalidad, seguridad jurídica, transparencia y eficiencia, en tanto que persigue un 
 interés general al proporcionar a la ciudadanía un marco normativo de las enseñanzas 
@@ -149,13 +166,13 @@ permitiendo una gestión más eficiente de los recursos públicos, por lo que qu
 justificados los objetivos que persigue la citada Ley. Además, en el procedimiento de 
 elaboración de esta Orden se ha permitido y facilitado la participación y las aportaciones 
 de las personas potenciales destinatarias a través de los procedimientos de audiencia 
-e información pública regulados en el artículo 133 de la citada Ley 39/2015, de 1 de 
+e información pública regulados en el artículo 133 de la citada [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de 
 octubre. Por ello, contiene la regulación imprescindible para atender la necesidad a cubrir 
 con la norma y se dicta en coherencia con el ordenamiento jurídico autonómico.
 En su virtud, a propuesta de la Directora General de Ordenación, Inclusión, 
 Participación y Evaluación Educativa, de conformidad con lo previsto en la disposición 
-final segunda del Decreto 103/2023, de 9 de mayo, y en uso de las atribuciones conferidas 
-por el artículo 44.2 de la Ley 6/2006, de 24 de octubre, del Gobierno de la Comunidad 
+final segunda del [Decreto 103/2023](./D103_2023_ordenacion_curriculo_bachillerato_andalucia.md), de 9 de mayo, y en uso de las atribuciones conferidas 
+por el artículo 44.2 de la [Ley 6/2006](../01_marco_normativo_general_y_organico/L6_2006_gobierno_comunidad_autonoma_andalucia.md), de 24 de octubre, del Gobierno de la Comunidad 
 Autónoma de Andalucía,
 D I S P O N G O
 CAPÍTULO I
@@ -168,15 +185,15 @@ Disposiciones de carácter general
 etapa de Bachillerato en la Comunidad Autónoma de Andalucía, regular determinados 
 aspectos de la atención a la diversidad y a las diferencias individuales y establecer la 
 ordenación de la evaluación del proceso de aprendizaje del alumnado escolarizado 
-en esta etapa, de conformidad con el Decreto 103/2023, de 9 de mayo, por el que se 
+en esta etapa, de conformidad con el [Decreto 103/2023](./D103_2023_ordenacion_curriculo_bachillerato_andalucia.md), de 9 de mayo, por el que se 
 establece la ordenación y el currículo de la etapa de Bachillerato en la Comunidad 
 Autónoma de Andalucía.
 2. Esta Orden se aplicará en todos los centros docentes de la Comunidad Autónoma 
 que impartan estas enseñanzas.
 #### Artículo 2. Elementos y estructura del currículo.
 1. La definición y los elementos del currículo son los establecidos en el artículo 3 del 
-Decreto 103/2023, de 9 de mayo.
-2. El currículo de Bachillerato, incorporando lo dispuesto en el Real Decreto 243/2022, 
+[Decreto 103/2023](./D103_2023_ordenacion_curriculo_bachillerato_andalucia.md), de 9 de mayo.
+2. El currículo de Bachillerato, incorporando lo dispuesto en el [Real Decreto 243/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD243_2022_establecen_ordenacion_ensenanzas_minimas_bachillerato.md), 
 de 5 de abril, por el que se establecen la ordenación y las enseñanzas mínimas del 
 Bachillerato, se fija en los Anexos I, II, III y IV, con el siguiente desglose:
 a) En el Anexo I se establece el horario lectivo para la etapa de Bachillerato.
@@ -198,7 +215,7 @@ específicas, de los criterios de evaluación, de la adecuación de los saberes 
 de su vinculación con dichos criterios de evaluación, así como el establecimiento de 
 situaciones de aprendizaje que integren estos elementos y contribuyan a la adquisición 
 de las competencias, respetando los principios pedagógicos regulados en el artículo 6 
-del Decreto 103/2023, de 9 de mayo.
+del [Decreto 103/2023](./D103_2023_ordenacion_curriculo_bachillerato_andalucia.md), de 9 de mayo.
 #### Artículo 3. Situaciones de aprendizaje.
 1. Las programaciones didácticas contemplarán situaciones de aprendizaje en las 
 que se integren los elementos curriculares de las distintas materias para garantizar 
@@ -206,7 +223,7 @@ que la práctica educativa atienda a la diversidad, a las características perso
 necesidades, a los intereses, a la igualdad efectiva entre hombres y mujeres y al estilo 
 cognitivo del alumnado. 
 2. Para el desarrollo de las situaciones de aprendizaje se tendrá en consideración lo 
-recogido en el artículo 7 del Decreto 103/2023, de 9 de mayo, así como las orientaciones 
+recogido en el artículo 7 del [Decreto 103/2023](./D103_2023_ordenacion_curriculo_bachillerato_andalucia.md), de 9 de mayo, así como las orientaciones 
 del Anexo V.
 #### Artículo 4. Autonomía de los centros docentes. 
 1. Los centros docentes desarrollarán y concretarán, en su caso, el currículo en su 
@@ -219,7 +236,7 @@ educativo las programaciones didácticas de cada una de las materias.
 didáctica concretarán las líneas de actuación en la Programación didáctica, incluyendo las 
 distintas medidas de atención a la diversidad y a las diferencias individuales que deban 
 llevarse a cabo de acuerdo con las necesidades del alumnado y en el marco establecido 
-en el capítulo V del Decreto 103/2023, de 9 de mayo.
+en el capítulo V del [Decreto 103/2023](./D103_2023_ordenacion_curriculo_bachillerato_andalucia.md), de 9 de mayo.
 4. El profesorado concretará para cada curso la Programación didáctica, planificando, 
 de esa forma, su actividad educativa. 
 5. Los centros docentes promoverán compromisos educativos con el alumnado en 
@@ -231,7 +248,7 @@ CAPÍTULO II
 Ordenación de la etapa y oferta educativa
 #### Artículo 5. Ordenación general de Bachillerato.
 1. La organización curricular general de cada uno de los cursos de Bachillerato es la 
-establecida en el Capítulo III del Decreto 103/2023, de 9 de mayo.
+establecida en el Capítulo III del [Decreto 103/2023](./D103_2023_ordenacion_curriculo_bachillerato_andalucia.md), de 9 de mayo.
 2. Las modalidades de Bachillerato son las establecidas en el artículo 9.2 del Decreto 
 103/2023, de 9 de mayo:
 a) Artes, que se organiza en dos vías, la de Artes Plásticas, Imagen y Diseño y la vía 
@@ -243,7 +260,7 @@ d) Humanidades y Ciencias Sociales.
 para su oferta educativa de acuerdo con lo dispuesto en esta Orden y en el marco de la 
 planificación de la Consejería competente en materia de educación.
 #### Artículo 6. Organización curricular del primer curso de Bachillerato. 
-1. De acuerdo con lo dispuesto en el artículo 10 del Decreto 103/2023, de 9 de mayo, 
+1. De acuerdo con lo dispuesto en el artículo 10 del [Decreto 103/2023](./D103_2023_ordenacion_curriculo_bachillerato_andalucia.md), de 9 de mayo, 
 el alumnado de primer curso de Bachillerato debe cursar la totalidad de las materias 
 comunes y tres materias específicas de modalidad para cada una de las modalidades y 
 vías/itinerarios.
@@ -310,7 +327,7 @@ Red de Centros de Bachillerato Internacional. Estas materias serán autorizadas 
 Consejería competente en materia de educación.
 b) Una materia de cualquier otra modalidad o de la misma modalidad de primer curso 
 de las ofertadas en el centro.
-10. De acuerdo con lo establecido en artículo 12 del Decreto 103/2023, de 9 de mayo, 
+10. De acuerdo con lo establecido en artículo 12 del [Decreto 103/2023](./D103_2023_ordenacion_curriculo_bachillerato_andalucia.md), de 9 de mayo, 
 el alumnado podrá cursar enseñanzas de Religión en primer curso de Bachillerato a 
 elección del propio alumno o alumna si es mayor de edad o de los padres, madres, o 
 personas que ejerzan su tutela legal. Asimismo, aquel alumnado que no haya optado por 
@@ -325,7 +342,7 @@ las soliciten no sea inferior a quince. No obstante, estas materias se podrán i
 un número inferior de alumnado cuando esta circunstancia no suponga incremento de la 
 plantilla del profesorado del centro.
 #### Artículo 7. Organización curricular del segundo curso de Bachillerato.
-1. De acuerdo con lo dispuesto en el artículo 11 del Decreto 103/2023, de 9 de mayo, 
+1. De acuerdo con lo dispuesto en el artículo 11 del [Decreto 103/2023](./D103_2023_ordenacion_curriculo_bachillerato_andalucia.md), de 9 de mayo, 
 el alumnado de segundo curso de Bachillerato debe cursar la totalidad de las materias 
 comunes y tres materias específicas de modalidad para cada una de las modalidades y 
 vías/itinerarios.
@@ -399,7 +416,7 @@ Red de Centros de Bachillerato Internacional. Estas materias serán autorizadas 
 Consejería competente en materia de educación.
 b) Una materia de cualquier otra modalidad o de la misma modalidad de segundo 
 curso de las ofertadas en el centro.
-10. De acuerdo con lo establecido en artículo 12 del Decreto 103/2023, de 9 de mayo, 
+10. De acuerdo con lo establecido en artículo 12 del [Decreto 103/2023](./D103_2023_ordenacion_curriculo_bachillerato_andalucia.md), de 9 de mayo, 
 el alumnado podrá cursar enseñanzas de Religión en segundo curso de Bachillerato a 
 elección del propio alumno o alumna si es mayor de edad, o de los padres, madres, o 
 personas que ejerzan su tutela legal. Asimismo, aquel alumnado que no haya optado por 
@@ -473,12 +490,12 @@ cuando proceda, de acuerdo con lo establecido en este artículo, siempre y cuand
 centro se imparta la nueva modalidad o vía solicitada y exista disponibilidad de plazas 
 escolares.
 #### Artículo 10. Continuidad entre materias.
-1. De acuerdo con lo establecido en el artículo 15.2 del Decreto 103/2023, de 9 de 
+1. De acuerdo con lo establecido en el artículo 15.2 del [Decreto 103/2023](./D103_2023_ordenacion_curriculo_bachillerato_andalucia.md), de 9 de 
 mayo, la superación de las materias de segundo curso de Bachillerato que se indican en 
-el Anexo V del Real Decreto 243/2022, de 5 de abril, está condicionada a la superación 
+el Anexo V del [Real Decreto 243/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD243_2022_establecen_ordenacion_ensenanzas_minimas_bachillerato.md), de 5 de abril, está condicionada a la superación 
 de las correspondientes materias de primer curso indicadas en dicho Anexo por implicar 
 continuidad.
-2. De conformidad con el artículo 15.2 del Decreto 103/2023, de 9 de mayo, no 
+2. De conformidad con el artículo 15.2 del [Decreto 103/2023](./D103_2023_ordenacion_curriculo_bachillerato_andalucia.md), de 9 de mayo, no 
 obstante el alumnado podrá matricularse de la materia de segundo curso sin haber 
 cursado la correspondiente materia de primer curso, siempre que el profesorado que 
 la imparta considere que reúne las condiciones necesarias para poder seguir con 
@@ -507,7 +524,7 @@ materias de Bachillerato en función de las necesidades de aprendizaje de su alu
 a la Red de centros de Bachillerato Internacional, los centros que imparten el Programa 
 de doble titulación Bachiller-Baccalauréat o las Aulas de Excelencia Artística podrán 
 flexibilizar el horario de las materias de manera que se impartan los mínimos recogidos 
-en el Real Decreto 243/2022, de 5 de abril, en su Anexo IV, y se cumpla con los requisitos 
+en el [Real Decreto 243/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD243_2022_establecen_ordenacion_ensenanzas_minimas_bachillerato.md), de 5 de abril, en su Anexo IV, y se cumpla con los requisitos 
 mínimos de titulación dispuestos en la normativa en vigor.
 CAPÍTULO III
 Evaluación, promoción y titulación
@@ -530,7 +547,7 @@ indicarán el grado de desarrollo de las mismas.
 4. La evaluación será continua por estar inmersa en el proceso de enseñanza 
 y aprendizaje y por tener en cuenta el progreso del alumnado, con el fin de detectar 
 las dificultades en el momento en que se produzcan, averiguar sus causas y, en 
-consecuencia, de acuerdo con lo dispuesto en el Capítulo V del Decreto 103/2023, de 
+consecuencia, de acuerdo con lo dispuesto en el Capítulo V del [Decreto 103/2023](./D103_2023_ordenacion_curriculo_bachillerato_andalucia.md), de 
 9 de mayo, adoptar las medidas necesarias dirigidas a garantizar la adquisición de las 
 competencias clave que le permita continuar adecuadamente su proceso de aprendizaje.
 5. El carácter formativo de la evaluación propiciará la mejora constante del proceso 
@@ -649,7 +666,7 @@ las medidas de atención a la diversidad y a las diferencias individuales aplica
 1. Al término de cada curso de la etapa, se valorará el progreso del alumnado en las 
 diferentes materias por parte del equipo docente. El profesor o profesora responsable de 
 cada materia decidirá la calificación de la misma, teniendo en cuenta lo establecido en el 
-artículo 30.2 del Real Decreto 243/2022, de 5 de abril.
+artículo 30.2 del [Real Decreto 243/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD243_2022_establecen_ordenacion_ensenanzas_minimas_bachillerato.md), de 5 de abril.
 2. Son sesiones de evaluación ordinaria las reuniones del equipo docente de cada 
 grupo, coordinadas por la persona que ejerza la tutoría y, en su ausencia, por la persona 
 que designe la dirección del centro, donde se decidirá sobre la evaluación final del 
@@ -660,7 +677,7 @@ cualificada de dos tercios de los integrantes del equipo docente. Para el desarr
 estas sesiones, se podrá recabar el asesoramiento del departamento de orientación 
 educativa del centro. Esta sesión tendrá lugar una vez finalizado el período lectivo y antes 
 de que finalice el mes de junio. Para el segundo curso de bachillerato se estará a lo 
-dispuesto en el artículo 7.4 del Decreto 301/2009, de 14 de julio, por el que se regula el 
+dispuesto en el artículo 7.4 del [Decreto 301/2009](../04_organizacion_escolar_y_funcionamiento/D301_2009_regulacion_calendario_jornada_escolar_andalucia.md), de 14 de julio, por el que se regula el 
 calendario y la jornada escolar en los centros docentes, a excepción de los universitarios.
 3. Son sesiones de evaluación extraordinaria las reuniones del equipo docente de 
 cada grupo, coordinadas por la persona que ejerza la tutoría y, en su ausencia, por la 
@@ -709,7 +726,7 @@ y no alcance a obtener una calificación positiva, en el acta de evaluación ext
 se consignará la mayor calificación obtenida, bien sea la de la evaluación ordinaria o la 
 de la extraordinaria. 
 #### Artículo 17. Mención Honorífica por materia y Matrícula de Honor.
-1. De acuerdo con el artículo 30.5 del Real Decreto 243/2022, de 5 de abril, se 
+1. De acuerdo con el artículo 30.5 del [Real Decreto 243/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD243_2022_establecen_ordenacion_ensenanzas_minimas_bachillerato.md), de 5 de abril, se 
 podrá otorgar Mención Honorífica en una materia o Matrícula de Honor al Expediente 
 del alumnado que haya cursado Bachillerato y que haya demostrado un rendimiento 
 académico excelente al final de la etapa.
@@ -741,7 +758,7 @@ normalización e inclusión, y asegurará su no discriminación, así como la ig
 en el acceso y la permanencia en el Sistema Educativo, para lo cual se tendrán en cuenta 
 las medidas de atención a la diversidad y a las diferencias individuales contempladas en 
 esta Orden y en el resto de la normativa que resulte de aplicación.
-2. En función de lo establecido en el artículo 23 del Decreto 103/2023, de 9 de mayo, 
+2. En función de lo establecido en el artículo 23 del [Decreto 103/2023](./D103_2023_ordenacion_curriculo_bachillerato_andalucia.md), de 9 de mayo, 
 se establecerán las medidas más adecuadas, tanto de acceso como de adaptación de 
 las condiciones de realización de las evaluaciones, para que las mismas se apliquen al 
 alumnado con necesidad específica de apoyo educativo conforme a lo recogido en su 
@@ -758,7 +775,7 @@ caso, a la que se refiere la normativa reguladora de la organización y el funci
 de los centros docentes. Asimismo, se atenderá a lo recogido en el artículo 16.2.
 ### Sección 4.ª Promoción del alumnado
 #### Artículo 19. Promoción del alumnado.
-1. Según lo establecido en el artículo 15 del Decreto 103/2023, de 9 de mayo, el 
+1. Según lo establecido en el artículo 15 del [Decreto 103/2023](./D103_2023_ordenacion_curriculo_bachillerato_andalucia.md), de 9 de mayo, el 
 alumnado promocionará de primero a segundo cuando haya superado las materias 
 cursadas o tenga evaluación negativa en dos materias, como máximo. 
 2. Quienes promocionen a segundo curso sin haber superado todas las materias de 
@@ -783,21 +800,21 @@ correspondiente. Una vez superada dicha evaluación, los resultados obtenidos se
 extenderán en la correspondiente acta de evaluación, en el expediente y en el historial 
 académico del alumno o alumna.
 7. Sin superar el periodo máximo de permanencia de cuatro años para cursar 
-Bachillerato en régimen ordinario especificado en el artículo 2.4 del Decreto 103/2023, de 
+Bachillerato en régimen ordinario especificado en el artículo 2.4 del [Decreto 103/2023](./D103_2023_ordenacion_curriculo_bachillerato_andalucia.md), de 
 9 de mayo, el alumnado podrá repetir cada uno de los cursos una sola vez como máximo, 
 si bien excepcionalmente podrá repetir uno de los cursos una segunda vez, previo informe 
 favorable del equipo docente.
 8. El alumnado que al término del segundo curso tuviera evaluación negativa en 
 algunas materias podrá matricularse de ellas sin necesidad de cursar de nuevo las 
 materias superadas u optar por repetir el curso completo.
-9. Tal y como establece el artículo 22.3 del Decreto 103/2023, de 9 de mayo, la 
+9. Tal y como establece el artículo 22.3 del [Decreto 103/2023](./D103_2023_ordenacion_curriculo_bachillerato_andalucia.md), de 9 de mayo, la 
 escolarización del alumnado con altas capacidades intelectuales se flexibilizará de 
 conformidad con la normativa vigente, de forma que pueda anticiparse su incorporación 
 a la etapa o reducirse la duración de la misma, cuando se prevea que dicha medida es la 
 más adecuada para su desarrollo personal y social.
 ### Sección 5.ª Titulación y certificación de los estudios cursados
 #### Artículo 20. Título de Bachiller.
-1. Según lo dispuesto en el artículo 16 del Decreto 103/2023, de 9 de mayo, para 
+1. Según lo dispuesto en el artículo 16 del [Decreto 103/2023](./D103_2023_ordenacion_curriculo_bachillerato_andalucia.md), de 9 de mayo, para 
 obtener el título de Bachiller será necesaria la evaluación positiva en todas las materias 
 de los dos cursos de Bachillerato.
 2. Excepcionalmente, el equipo docente podrá decidir la obtención del título de 
@@ -853,19 +870,19 @@ Bachillerato, y que tenga el título de Técnico o Técnica en Formación Profes
 además las materias comunes del Bachillerato, podrán proponer a dicho alumnado para 
 la obtención del título de Bachiller, por la modalidad General, siempre que reúnan los 
 requisitos necesarios para la titulación en dicha etapa establecidos en el artículo 23.1 
-del Real Decreto 243/2022, de 5 de abril, aun en el caso de no tener autorizada dicha 
+del [Real Decreto 243/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD243_2022_establecen_ordenacion_ensenanzas_minimas_bachillerato.md), de 5 de abril, aun en el caso de no tener autorizada dicha 
 modalidad en el centro.
 7. Los centros docentes de Andalucía en los que exista alumnado matriculado en 
 Bachillerato y que tenga el título de Técnico o Técnica en Artes Plásticas y Diseño y 
 supere además las materias comunes del Bachillerato, podrán proponer a dicho alumnado 
 para la obtención del título de Bachiller, por la modalidad de Artes, siempre que reúnan 
 los requisitos necesarios para la titulación en dicha etapa establecidos en el artículo 23.2 
-del Real Decreto 243/2022, de 5 de abril, aun en el caso de no tener autorizada dicha 
+del [Real Decreto 243/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD243_2022_establecen_ordenacion_ensenanzas_minimas_bachillerato.md), de 5 de abril, aun en el caso de no tener autorizada dicha 
 modalidad en el centro.
 8. Los centros docentes de Andalucía en los que exista alumnado matriculado en 
 Bachillerato podrán proponer a dicho alumnado para la obtención del título de Bachiller, 
 por la modalidad de Artes, siempre que reúnan los requisitos necesarios para la titulación 
-en dicha etapa establecidos en el artículo 23.3 del Real Decreto 243/2022, de 5 de abril, 
+en dicha etapa establecidos en el artículo 23.3 del [Real Decreto 243/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD243_2022_establecen_ordenacion_ensenanzas_minimas_bachillerato.md), de 5 de abril, 
 es decir quienes hayan superado las Enseñanzas Profesionales de Música o de Danza, 
 y superen además las materias comunes, aun en el caso de no tener autorizada dicha 
 modalidad en el centro.
@@ -874,7 +891,7 @@ y finalmente obtenga el título por otra modalidad distinta que el centro no ten
 autorizada, la persona que ejerza la secretaría del centro hará constar tal circunstancia 
 en el expediente y en el historial académico.
 #### Artículo 22. Certificación de los estudios cursados.
-1. De acuerdo con lo establecido con el artículo 16.5 del Decreto 103/2023, de 9 
+1. De acuerdo con lo establecido con el artículo 16.5 del [Decreto 103/2023](./D103_2023_ordenacion_curriculo_bachillerato_andalucia.md), de 9 
 de mayo, los centros docentes que imparten Bachillerato podrán emitir, a petición 
 de las personas interesadas, una certificación de los estudios realizados en la que se 
 especifiquen las materias cursadas y las calificaciones obtenidas.
@@ -885,7 +902,7 @@ como Anexo VIII.
 #### Artículo 23. Documentos oficiales de evaluación.
 1. Los documentos oficiales de evaluación son: Las actas de evaluación, el expediente 
 académico, el historial académico y, en su caso, el informe personal por traslado, de 
-conformidad con el artículo 19 del Decreto 103/2023, de 9 de mayo.
+conformidad con el artículo 19 del [Decreto 103/2023](./D103_2023_ordenacion_curriculo_bachillerato_andalucia.md), de 9 de mayo.
 2. El historial académico y, en su caso, el informe personal por traslado se consideran 
 documentos básicos para garantizar la movilidad del alumnado por todo el territorio nacional.
 3. En los documentos oficiales de evaluación y en lo referente a la obtención, 
@@ -904,7 +921,7 @@ teniendo en cuenta lo dispuesto sobre gestión documental en el Decreto 622/2019
 racionalización organizativa de la Junta de Andalucía. Estos documentos oficiales serán 
 supervisados por la Inspección educativa.
 #### Artículo 24. Actas de evaluación. 
-1. Las actas de evaluación, reguladas en el artículo 30 del Real Decreto 243/2022, de 
+1. Las actas de evaluación, reguladas en el artículo 30 del [Real Decreto 243/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD243_2022_establecen_ordenacion_ensenanzas_minimas_bachillerato.md), de 
 5 de abril, se ajustarán a los modelos que se incluyen como Anexo VII.a, se extenderán 
 para cada uno de los cursos y se cerrarán tras la finalización del período lectivo y después 
 de la convocatoria ordinaria, y tras la convocatoria extraordinaria. 
@@ -917,9 +934,9 @@ calificaciones inferiores a cinco.
 4. En las actas de segundo curso de Bachillerato figurará, además, el alumnado con 
 materias no superadas del curso anterior y se recogerá la propuesta de expedición del 
 título de Bachiller, junto con la nota media de la etapa, tal y como se recoge en el artículo 
-30 del Real Decreto 243/2022, de 5 de abril.
+30 del [Real Decreto 243/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD243_2022_establecen_ordenacion_ensenanzas_minimas_bachillerato.md), de 5 de abril.
 5. Para la aplicación de lo previsto en el apartado quinto de la disposición adicional 
-primera del Real Decreto 243/2022 de 5 de abril, se hará constar, además una nota media 
+primera del [Real Decreto 243/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD243_2022_establecen_ordenacion_ensenanzas_minimas_bachillerato.md) de 5 de abril, se hará constar, además una nota media 
 normalizada, calculada sin tomar en cuenta la calificación de la materia de Religión. 
 Asimismo, se excluirá la calificación de la atención a través de Proyectos transversales 
 de educación en valores, en su caso.
@@ -927,7 +944,7 @@ de educación en valores, en su caso.
 visto bueno de la persona que ejerza la dirección y serán archivadas y custodiadas en la 
 secretaría del centro.
 #### Artículo 25. Expediente académico.
-El expediente académico, regulado en el artículo 31 del Real Decreto 243/2022, de 5 
+El expediente académico, regulado en el artículo 31 del [Real Decreto 243/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD243_2022_establecen_ordenacion_ensenanzas_minimas_bachillerato.md), de 5 
 de abril, se ajustará al modelo que se incluye como Anexo VII.b y recogerá, junto con los 
 datos de identificación del centro, los del alumnado, así como la información relativa a su 
 proceso de evaluación. Se abrirá al comienzo de la etapa o en su caso, en el momento 
@@ -937,7 +954,7 @@ existieran, las medidas de atención a la diversidad y a las diferencias individ
 se hayan adoptado. Igualmente, se hará constar la nota media obtenida en la etapa, así 
 como la media normalizada a la que se refiere el apartado 5 del artículo anterior.
 #### Artículo 26. Historial académico.
-1. El historial académico, regulado en el artículo 32 del Real Decreto 243/2022, de 5 
+1. El historial académico, regulado en el artículo 32 del [Real Decreto 243/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD243_2022_establecen_ordenacion_ensenanzas_minimas_bachillerato.md), de 5 
 de abril, se ajustará al modelo que se incluye como Anexo VII.c y tendrá valor acreditativo 
 de los estudios realizados. Como mínimo recogerá los datos identificativos del alumnado, 
 las materias cursadas en cada uno de los años de escolarización, las medidas de 
@@ -1053,7 +1070,7 @@ que incorporará los informes elaborados en el centro y cuantos datos considere 
 del proceso de evaluación.
 3. En cada Delegación Territorial se constituirán, para cada curso escolar, Comisiones 
 Técnicas Provinciales de Reclamaciones, de conformidad con lo previsto en el artículo 18 
-del Decreto 103/2023, de 9 de mayo. En el plazo de dos días hábiles desde la constitución 
+del [Decreto 103/2023](./D103_2023_ordenacion_curriculo_bachillerato_andalucia.md), de 9 de mayo. En el plazo de dos días hábiles desde la constitución 
 de las Comisiones Técnicas Provinciales de Reclamaciones y, en cualquier caso, antes 
 de que estas inicien sus actuaciones, se publicará la composición de las mismas en los 
 tablones de anuncios de las Delegaciones Territoriales. Para mejorar la difusión de este 
@@ -1061,7 +1078,7 @@ acto deberá recogerse la publicación en los términos del artículo 41.2.a) de
 622/2019, de 27 de diciembre.
 4. Las Comisiones Técnicas Provinciales de Reclamaciones analizarán los expedientes 
 y las alegaciones y emitirán un informe en función de los criterios establecidos en el 
-artículo 18.4 del Decreto 103/2023, de 9 de mayo.
+artículo 18.4 del [Decreto 103/2023](./D103_2023_ordenacion_curriculo_bachillerato_andalucia.md), de 9 de mayo.
 5. Las respectivas Comisiones Técnicas Provinciales de Reclamaciones elaborarán los 
 correspondientes informes que recojan la descripción de los hechos y actuaciones previas 
 que hayan tenido lugar, el análisis realizado conforme a lo establecido en este artículo 
@@ -1089,7 +1106,7 @@ CAPÍTULO IV
 Atención a la diversidad y a las diferencias individuales
 ### Sección 1.ª Disposiciones de carácter general
 #### Artículo 31. Concepto y principios generales de actuación.
-1. Atendiendo al artículo 22.1 del Decreto 103/2023, de 9 de mayo, la atención a 
+1. Atendiendo al artículo 22.1 del [Decreto 103/2023](./D103_2023_ordenacion_curriculo_bachillerato_andalucia.md), de 9 de mayo, la atención a 
 la diversidad y a las diferencias individuales en la etapa de Bachillerato se orientará a 
 garantizar una educación de calidad que asegurará la equidad e inclusión educativa y a 
 atender a la compensación de los efectos que las desigualdades de origen cultural, social 
@@ -1101,7 +1118,7 @@ cuenta sus capacidades de expresión y comprensión y asegurando la motivación 
 compromiso y la cooperación mutua.
 2. Los principios generales de actuación para la atención a la diversidad y a las 
 diferencias individuales son los establecidos con carácter general en el artículo 23 del 
-Decreto 103/2023, de 9 de mayo.
+[Decreto 103/2023](./D103_2023_ordenacion_curriculo_bachillerato_andalucia.md), de 9 de mayo.
 3. Los centros docentes deberán dar prioridad a la organización de las medidas 
 de atención a la diversidad y a las diferencias individuales respecto a otras opciones 
 organizativas para la configuración de las enseñanzas de esta etapa en el ámbito de su 
@@ -1420,7 +1437,7 @@ Los centros docentes autorizados para impartir el Programa del Diploma del
 Bachillerato Internacional podrán flexibilizar sus horarios lectivos en la etapa de 
 Bachillerato, de manera que el alumnado curse el número mínimo de materias 
 contempladas para la obtención del título de Bachiller, con las horas mínimas que se 
-disponen en el Anexo IV del Real Decreto 243/2022, de 5 de abril, y ajusten su oferta 
+disponen en el Anexo IV del [Real Decreto 243/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD243_2022_establecen_ordenacion_ensenanzas_minimas_bachillerato.md), de 5 de abril, y ajusten su oferta 
 formativa a las necesidades de la doble titulación. La distribución horaria mínima de cada 
 materia se acompaña en el Anexo I de esta Orden.
 ### Disposición adicional tercera. Enseñanzas impartidas en el Programa de doble 
@@ -1431,7 +1448,7 @@ de Andalucía dependientes de la Consejería con competencias en materia de educ
 autorizados para impartir dicho programa podrán flexibilizar sus horarios lectivos en la 
 etapa de Bachillerato, de manera que el alumnado curse el número mínimo de materias 
 contempladas para la obtención del título de Bachiller, con las horas mínimas que se 
-disponen en el Anexo IV del Real Decreto 243/2022, de 5 de abril, y ajusten su oferta 
+disponen en el Anexo IV del [Real Decreto 243/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD243_2022_establecen_ordenacion_ensenanzas_minimas_bachillerato.md), de 5 de abril, y ajusten su oferta 
 formativa a las necesidades de la doble titulación. 
 ### Disposición adicional cuarta. Simultaneidad de estudios.
 1. De conformidad con lo dispuesto en la disposición adicional quinta del Real Decreto 
@@ -1444,7 +1461,7 @@ estudios de las Enseñanzas Profesionales de Danza.
 3. El alumnado al que se refieren los anteriores apartados cursará, en caso de que lo 
 solicite, Religión o la debida atención a través de Proyectos transversales de educación 
 en valores en primer y segundo curso de Bachillerato.
-4. De acuerdo con lo establecido en el artículo 17.2 del Decreto 103/2023, de 9 de 
+4. De acuerdo con lo establecido en el artículo 17.2 del [Decreto 103/2023](./D103_2023_ordenacion_curriculo_bachillerato_andalucia.md), de 9 de 
 mayo, este alumnado obtendrá el título de Bachiller por la modalidad de Artes, superando 
 las Enseñanzas Profesionales de Música o de Danza y las materias comunes del 
 Bachillerato.
@@ -1476,7 +1493,7 @@ Los centros privados y los centros privados concertados adecuarán su organizaci
 a las disposiciones de esta Orden relativas a la organización y funcionamiento de los 
 centros docentes, teniendo en cuenta las especialidades de su legislación específica.
 ### Disposición adicional séptima. Asignación de materias optativas propias de la Comunidad.
-De acuerdo con lo establecido en el artículo 5 del Real Decreto 1834/2008, de 
+De acuerdo con lo establecido en el artículo 5 del [Real Decreto 1834/2008](../../../estatal/02_gestion_y_administracion_centros/RD1834_2008_definen_condiciones_formacion_ejercicio_docencia_educacion.md), de 
 8 de noviembre, por el que se definen las condiciones de formación para el ejercicio 
 de la docencia en la educación secundaria obligatoria, el bachillerato, la formación 
 profesional y las enseñanzas de régimen especial y se establecen las especialidades de 
@@ -1539,7 +1556,7 @@ Materia
  1. Tecnología 
  2. Informática 
  Tecnologías de la Información y la Comunicación I y II
-Según lo establecido en el Real Decreto 860/2010, de 2 de julio, por el que se regulan 
+Según lo establecido en el [Real Decreto 860/2010](../../../estatal/02_gestion_y_administracion_centros/RD860_2010_regulan_condiciones_formacion_inicial_profesorado_centros.md), de 2 de julio, por el que se regulan 
 las condiciones de formación inicial del profesorado de los centros privados para ejercer 
 la docencia en las enseñanzas de educación secundaria obligatoria o de bachillerato, lo 
 especificado en la tabla anterior como Especialidades de los cuerpos se entenderá como 
@@ -1570,7 +1587,7 @@ sustituir dicha materia por otra que curse, a elegir de entre las que se oferten
 Disposición transitoria única. Calendario de aplicación.
 La presente orden será de aplicación a partir del curso escolar 2023/2024.
 Disposición derogatoria única. Derogación normativa. 
-1. Queda derogada la Orden de 15 de enero de 2021, por la que se desarrolla el 
+1. Queda derogada la [Orden de 15 de enero de 2021](../06_atencion_diversidad_y_orientacion/O15_1_2021_atencion_diversidad_orientacion_educativa_andalucia.md), por la que se desarrolla el 
 currículo correspondiente a la etapa de Bachillerato en la Comunidad Autónoma de 
 Andalucía, se regulan determinados aspectos de la atención a la diversidad y se establece 
 la ordenación de la evaluación del proceso de aprendizaje del alumnado. 
@@ -1586,7 +1603,7 @@ habrá de publicarse en el Boletín Oficial de la Junta de Andalucía.
 Estado al amparo del artículo 149.1.30.ª de la Constitución Española, recogidas en los 
 artículos: 32.4 de «Principios generales», 34.1, 34.4 y 34.6 de «Organización general del 
 bachillerato», 36.1 y 36.2 de «Evaluación y promoción», 37.1, 37.2, 37.3 y 37.4 de «Título 
-de Bachiller» y 75.2 de «Inclusión educativa, social y laboral», de la Ley Orgánica 2/2006, 
+de Bachiller» y 75.2 de «Inclusión educativa, social y laboral», de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), 
 de 3 de mayo.
 2. El contenido de los artículos 4.1, 4.5, 5.2, 6.3, 6.4, 6.5, 6.6, 6.7, 6.8, 6.9, 6.10, 7.3, 
 7.4, 7.5, 7.6, 7.7, 7.8, 7.9, 7.10, 10.1, 10.2, 10.4, 12.1, 12.2, 12.6, 13.7, 18.1, 18.2, 19.1, 19.8, 
@@ -1606,7 +1623,7 @@ los centros», 27 de «Derecho del alumnado a una evaluación objetiva», 29.1, 
 «Documentos e informes de evaluación», 30.1, 30.2, 30.3, 30.6 de «Actas de evaluación», 
 32.2 de «Historial académico», 33 de «Informe personal por traslado», Disposición adicional 
 primera «Enseñanzas de religión» y Disposición adicional cuarta de «Obtención de nuevas 
-modalidades de Bachillerato», del Real Decreto 243/2022, de 5 de abril.
+modalidades de Bachillerato», del [Real Decreto 243/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD243_2022_establecen_ordenacion_ensenanzas_minimas_bachillerato.md), de 5 de abril.
 ### Disposición final tercera. Entrada en vigor. 
 La presente orden entrará en vigor el día siguiente al de su publicación en el Boletín 
 Oficial de la Junta de Andalucía.

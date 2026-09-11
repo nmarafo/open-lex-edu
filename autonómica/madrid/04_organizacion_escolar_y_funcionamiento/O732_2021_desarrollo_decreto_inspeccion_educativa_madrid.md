@@ -26,19 +26,28 @@ tags:
 - organizacion_inspeccion
 - supervision_docente
 - madrid
+fundamentos_derecho:
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-mad-l12-1999-creacion-consejo-escolar-comunidad-madrid
+- norma_id: norm-mad-l1-1983-gobierno-administracion-comunidad-madrid
+- norma_id: norm-mad-d61-2019-organizacion-estructura-funcionamiento-inspeccion-educativa-madrid
+- norma_id: norm-es-l-39-2015
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-rdl-5-2015
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
 ---
-
-# Orden 732/2021, de 24 de marzo, de la Consejería de Educación y Juventud, por la que se desarrolla el Decreto 61/2019, de 9 de julio, del Consejo de Gobierno, por el que se regula la organización, estructura y funcionamiento de la Inspección Educativa de la Comunidad de Madrid
+# Orden 732/2021, de 24 de marzo, de la Consejería de Educación y Juventud, por la que se desarrolla el [Decreto 61/2019](./D61_2019_organizacion_estructura_funcionamiento_inspeccion_educativa_madrid.md), de 9 de julio, del Consejo de Gobierno, por el que se regula la organización, estructura y funcionamiento de la Inspección Educativa de la Comunidad de Madrid
 
 ## Preámbulo
 
 BOCM-20210407-20
 BOCM
 ORDEN 732/2021, de 24 de marzo, de la Consejería de Educación y Juventud,
-por la que se desarrolla el Decreto 61/2019, de 9 de julio, del Consejo de Go-
+por la que se desarrolla el [Decreto 61/2019](./D61_2019_organizacion_estructura_funcionamiento_inspeccion_educativa_madrid.md), de 9 de julio, del Consejo de Go-
 bierno, por el que se regula la organización, estructura y funcionamiento de la
 Inspección Educativa de la Comunidad de Madrid.
-El Decreto 61/2019, de 9 de julio, del Consejo de Gobierno, por el que se regula la or-
+El [Decreto 61/2019](./D61_2019_organizacion_estructura_funcionamiento_inspeccion_educativa_madrid.md), de 9 de julio, del Consejo de Gobierno, por el que se regula la or-
 ganización, estructura y funcionamiento de la Inspección Educativa en la Comunidad de
 Madrid, dota a la Inspección Educativa de un marco jurídico adecuado aportando claridad
 y seguridad en el desarrollo de sus funciones.
@@ -66,7 +75,7 @@ tema educativo que ayuden a los jóvenes a desarrollar todas sus capacidades y l
 herramientas para ser el futuro de nuestra sociedad. En este sentido, la función evaluadora
 de la Inspección Educativa, con un constante espíritu de mejora de la calidad docente y de
 todo el sistema, juega un papel clave.
-El desarrollo del citado Decreto 61/2019, de 9 de julio, es además un reflejo del compro-
+El desarrollo del citado [Decreto 61/2019](./D61_2019_organizacion_estructura_funcionamiento_inspeccion_educativa_madrid.md), de 9 de julio, es además un reflejo del compro-
 miso que la Comunidad de Madrid tiene con una institución como la Inspección Educativa.
 El capítulo I de la Orden recoge, como disposiciones de carácter general, el objeto y
 su ámbito de aplicación y específica el ejercicio de la función inspectora.
@@ -90,7 +99,7 @@ cos y de conducta que todo inspector respetará.
 BOCM-20210407-20
 BOCM
 El proyecto normativo se ha elaborado atendiendo a los principios de buena regulación
-previstos en el artículo 129 de la Ley 39/2015, de 1 de octubre, del Procedimiento Admi-
+previstos en el artículo 129 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Admi-
 nistrativo Común de las Administraciones Públicas.
 Se atiende a los principios de necesidad y eficacia porque se dota a la Inspección Edu-
 cativa de un marco jurídico estable, imprescindible para su propia organización y el desa-
@@ -104,17 +113,17 @@ ca y no genera nuevas cargas administrativas, sino que, por el contrario, facili
 de las competencias en materia de inspección educativa.
 En el proceso de elaboración de esta Orden se ha dado cumplimiento al trámite de
 audiencia e información pública a través del Portal de Transparencia de la Comunidad de
-Madrid, conforme a lo dispuesto en el artículo 133.2 de la Ley 39/2015, de 1 de octubre, y
+Madrid, conforme a lo dispuesto en el artículo 133.2 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, y
 en el artículo 26.6 de la Ley 50/1997, de 27 de noviembre, de Gobierno, respetando así el
 principio de transparencia normativa. Asimismo, ha emitido dictamen el Consejo Escolar
-de la Comunidad de Madrid, de acuerdo con el artículo 2.1 de la Ley 12/1999, de 29 de
+de la Comunidad de Madrid, de acuerdo con el artículo 2.1 de la [Ley 12/1999](../01_marco_normativo_general_y_organico/L12_1999_creacion_consejo_escolar_comunidad_madrid.md), de 29 de
 abril, de creación del Consejo Escolar de la Comunidad de Madrid y se ha recabado infor-
 me de la Abogacía General.
 En su virtud y de conformidad con las atribuciones conferidas en el artículo 41.d) de
-la Ley 1/1983, de 13 de diciembre, de Gobierno y Administración de la Comunidad de
+la [Ley 1/1983](../01_marco_normativo_general_y_organico/L1_1983_gobierno_administracion_comunidad_madrid.md), de 13 de diciembre, de Gobierno y Administración de la Comunidad de
 Madrid, en relación con el Decreto 288/2019, de 12 noviembre del Consejo de Gobierno,
 por el que se establece la estructura orgánica de la consejería con competencias en materia
-de educación, así como lo establecido en la disposición final primera del Decreto 61/2019,
+de educación, así como lo establecido en la disposición final primera del [Decreto 61/2019](./D61_2019_organizacion_estructura_funcionamiento_inspeccion_educativa_madrid.md),
 de 9 de julio, del Consejo de Gobierno, por el que se regula la organización, estructura y
 funcionamiento de la Inspección Educativa en la Comunidad de Madrid,
 DISPONE
@@ -123,7 +132,7 @@ DISPONE
 
 #### Artículo 1. Objeto
 
-La presente Orden tiene por objeto desarrollar el Decreto 61/2019, de 9 de julio, del
+La presente Orden tiene por objeto desarrollar el [Decreto 61/2019](./D61_2019_organizacion_estructura_funcionamiento_inspeccion_educativa_madrid.md), de 9 de julio, del
 Consejo de Gobierno por el que se regula la organización, estructura y funcionamiento de
 la Inspección Educativa de la Comunidad de Madrid.
 
@@ -403,7 +412,7 @@ BOCM
 Los informes de inspección serán emitidos a través de medios electrónicos.
 2.
 Para ser considerados válidos los informes de inspección, de acuerdo con el artícu-
-lo 26 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las
+lo 26 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Administrativo Común de las
 Administraciones Públicas, deberán:
 a)
 Contener información de cualquier naturaleza en un soporte electrónico, según un
@@ -472,7 +481,7 @@ Inspección Educativa.
 El plazo para la elevación de un informe solicitado por un órgano competente de
 la Administración educativa será con carácter general de diez días, según se establece en el
 
-#### Artículo 80. 2 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común,
+#### Artículo 80. 2 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Administrativo Común,
 
 BOCM-20210407-20
 BOCM
@@ -568,7 +577,7 @@ incumplimiento.
 
 #### Artículo 18. Supervisión de la documentación pedagógica, académica y administrativa
 
-De acuerdo con lo establecido en el artículo 5.1.b) del Decreto 61/2019, de 9 de julio,
+De acuerdo con lo establecido en el artículo 5.1.b) del [Decreto 61/2019](./D61_2019_organizacion_estructura_funcionamiento_inspeccion_educativa_madrid.md), de 9 de julio,
 los inspectores de educación, en el ejercicio de sus funciones, tendrán la atribución de exa-
 minar y comprobar la documentación académica, pedagógica y administrativa de los cen-
 tros docentes tanto públicos como privados.
@@ -576,7 +585,7 @@ tros docentes tanto públicos como privados.
 #### Artículo 19. Convocatoria y participación en reuniones
 
 1.
-Según lo dispuesto en el artículo 5.2 c) del Decreto 61/2019, de 9 de julio, los ins-
+Según lo dispuesto en el artículo 5.2 c) del [Decreto 61/2019](./D61_2019_organizacion_estructura_funcionamiento_inspeccion_educativa_madrid.md), de 9 de julio, los ins-
 pectores de educación, en el ejercicio de sus funciones, tendrán la atribución de convocar
 reuniones con los distintos sectores de la comunidad educativa y participar, si procede, en
 reuniones de los diferentes órganos del centro.
@@ -595,7 +604,7 @@ el ámbito de la convivencia escolar y en situaciones de conflicto.
 #### Artículo 21. Participación en tribunales, comisiones y procedimientos
 
 1.
-De conformidad con lo recogido en el artículo 5.2.f del Decreto 61/2019, de 9 de
+De conformidad con lo recogido en el artículo 5.2.f del [Decreto 61/2019](./D61_2019_organizacion_estructura_funcionamiento_inspeccion_educativa_madrid.md), de 9 de
 julio, los inspectores de educación, en el ejercicio de sus funciones, podrán participar en tri-
 bunales, comisiones y procedimientos, de acuerdo con la normativa vigente y con los prin-
 cipios de especialización, mérito y capacidad.
@@ -607,7 +616,7 @@ tente en materia de inspección educativa, quien resolverá sobre la misma.
 
 #### Artículo 22. Tipos de actuaciones
 
-De acuerdo con el artículo 7.3 del Decreto 61/2019, de 9 de julio, las actuaciones de la
+De acuerdo con el artículo 7.3 del [Decreto 61/2019](./D61_2019_organizacion_estructura_funcionamiento_inspeccion_educativa_madrid.md), de 9 de julio, las actuaciones de la
 Inspección Educativa podrán ser: habituales, habituales de mayor relevancia y de atención
 preferente. Además, la Inspección Educativa también puede desarrollar actuaciones ex-
 traordinarias e incidentales.
@@ -671,7 +680,7 @@ se efectúe en el siguiente curso.
 7.
 Son actuaciones extraordinarias aquellas encargadas exclusivamente por la Sub-
 dirección General de Inspección Educativa, de acuerdo con lo establecido en el artículo 8.g.
-del Decreto 61/2019, de 9 de julio. Cuando una circunstancia excepcional lo requiera, se
+del [Decreto 61/2019](./D61_2019_organizacion_estructura_funcionamiento_inspeccion_educativa_madrid.md), de 9 de julio. Cuando una circunstancia excepcional lo requiera, se
 deberá planificar esta actuación y constituir equipos de inspectores para intervenir en cen-
 tros o servicios determinados, ubicados en distinto ámbito territorial, informando a los ór-
 ganos correspondientes.
@@ -683,7 +692,7 @@ ganos correspondientes.
 1.
 La planificación es uno de los principios de actuación de la Inspección Educativa,
 que se recogen en el artículo 5.4.
-del Decreto 61/2019, de 9 de julio.
+del [Decreto 61/2019](./D61_2019_organizacion_estructura_funcionamiento_inspeccion_educativa_madrid.md), de 9 de julio.
 2.
 Los planes generales de actuación son los instrumentos de planificación para el de-
 sarrollo de las funciones y atribuciones que tiene encomendadas la Inspección Educativa.
@@ -903,7 +912,7 @@ Con carácter general, cada centro, programa o servicio educativo tendrá un ún
 inspector de referencia.
 2.
 La asignación de centros a los inspectores se hará respetando el principio estable-
-cido en el artículo 10.5 del Decreto 61/2019 y teniendo en cuenta criterios como la experien-
+cido en el artículo 10.5 del [Decreto 61/2019](./D61_2019_organizacion_estructura_funcionamiento_inspeccion_educativa_madrid.md) y teniendo en cuenta criterios como la experien-
 cia profesional, la formación y sobre todo la distribución equilibrada de la carga de trabajo.
 3.
 El inspector de referencia será el responsable de la relación directa e intervención
@@ -946,7 +955,7 @@ tuación de la Inspección Educativa.
 
 #### Artículo 37. Perfil profesional del inspector de educación
 
-Según se establece en el artículo 154.2 de la Ley Orgánica 2/2006, de 3 de mayo, de
+Según se establece en el artículo 154.2 de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de
 Educación, el perfil profesional del inspector de educación se entenderá en función de la
 experiencia profesional y de la formación.
 
@@ -956,7 +965,7 @@ experiencia profesional y de la formación.
 En el desarrollo de los planes generales plurianuales de actuación se establecerán
 equipos para cada uno de los ámbitos específicos definidos en el artículo 36 que actuarán
 mientras estén vigentes dichos planes, sin perjuicio de aquellos otros equipos que se puedan
-establecer a través de los planes anuales en aplicación del artículo 7.4 del Decreto 61/2019,
+establecer a través de los planes anuales en aplicación del artículo 7.4 del [Decreto 61/2019](./D61_2019_organizacion_estructura_funcionamiento_inspeccion_educativa_madrid.md),
 de 9 de julio.
 2.
 La Subdirección General de Inspección Educativa coordinará el funcionamiento
@@ -1078,7 +1087,7 @@ planes generales de actuación de la Inspección Educativa que, por su importanc
 necesidad y urgencia, deban llevarse a cabo.
 d)
 La designación del titular de la Subdirección General de Inspección Educativa de
-acuerdo con lo fijado en el artículo 8.2 del Decreto 61/2019, de 9 de julio, y en el
+acuerdo con lo fijado en el artículo 8.2 del [Decreto 61/2019](./D61_2019_organizacion_estructura_funcionamiento_inspeccion_educativa_madrid.md), de 9 de julio, y en el
 
 #### Artículo 42. de la presente Orden.
 
@@ -1086,7 +1095,7 @@ e)
 El nombramiento de los inspectores jefes de los servicios territoriales de Inspec-
 ción Educativa, a propuesta del titular de la Dirección de Área Territorial, oído el
 titular de la Subdirección General de Inspección Educativa, de conformidad con
-lo establecido en el artículo 9.2 del Decreto 61/2019, de 9 de julio y en el artículo
+lo establecido en el artículo 9.2 del [Decreto 61/2019](./D61_2019_organizacion_estructura_funcionamiento_inspeccion_educativa_madrid.md), de 9 de julio y en el artículo
 46 de la presente Orden.
 
 #### Artículo 42. La Subdirección General de Inspección Educativa
@@ -1096,7 +1105,7 @@ La Subdirección General de Inspección Educativa está adscrita jerárquicament
 la Viceconsejería de Organización Educativa o al órgano que en cada momento sea compe-
 tente en materia de inspección educativa y tendrá, además de las funciones recogidas en el
 
-#### Artículo 8. del Decreto 61/2019, las siguientes:
+#### Artículo 8. del [Decreto 61/2019](./D61_2019_organizacion_estructura_funcionamiento_inspeccion_educativa_madrid.md), las siguientes:
 
 a)
 Efectuar el seguimiento y la coordinación de las actuaciones de las Inspecciones
@@ -1124,7 +1133,7 @@ Dictar, en el ámbito de su competencia, cuantas instrucciones complementarias
 sean necesarias para la aplicación de lo dispuesto en esta Orden.
 2.
 El titular de la Subdirección General de la Inspección Educativa, de acuerdo con
-lo establecido en el artículo 8 del Decreto 61/2019, de 9 de julio, será nombrado por la Vi-
+lo establecido en el artículo 8 del [Decreto 61/2019](./D61_2019_organizacion_estructura_funcionamiento_inspeccion_educativa_madrid.md), de 9 de julio, será nombrado por la Vi-
 ceconsejería de Organización Educativa u órgano competente materia de inspección edu-
 cativa de la consejería con competencias en materia de educación, de entre los funcionarios
 de carrera del Cuerpo de Inspectores de Educación o del Cuerpo de Inspectores al Servicio
@@ -1215,7 +1224,7 @@ ponsabilidades y competencias.
 Cuando las necesidades del servicio territorial así lo determinen, podrá haber un
 inspector jefe adjunto. El inspector jefe adjunto será designado, de entre los funcionarios de
 carrera del Cuerpo de Inspectores de Educación o del Cuerpo de Inspectores al Servicio de
-la Inspección Educativa, de acuerdo con lo establecido en el artículo 9 del Decreto 61/2019,
+la Inspección Educativa, de acuerdo con lo establecido en el artículo 9 del [Decreto 61/2019](./D61_2019_organizacion_estructura_funcionamiento_inspeccion_educativa_madrid.md),
 de 9 de julio, por el procedimiento de convocatoria pública y de libre designación. Será
 nombrado por la Viceconsejería de Organización Educativa u órgano competente en mate-
 ria de inspección educativa de la consejería con competencias en materia de educación, a
@@ -1354,7 +1363,7 @@ c)
 En los casos en que las necesidades del servicio así lo aconsejen, los centros de Edu-
 cación Especial, los Equipos de Orientación Educativa y Psicopedagógica, y aque-
 llos centros en los que se impartan únicamente las enseñanzas de personas adultas
-o de régimen especial definidas en el artículo 3.6 de la Ley Orgánica 2/2006, de 3
+o de régimen especial definidas en el artículo 3.6 de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3
 de mayo, de Educación, podrán conformar lotes específicos, aun cuando pertenez-
 can a distritos diferentes.
 d)
@@ -1577,7 +1586,7 @@ vez al mes.
 #### Artículo 53. Formación de los inspectores de educación
 
 1.
-El artículo 12.1 del Decreto 61/2019, de 9 de julio, establece que el perfecciona-
+El artículo 12.1 del [Decreto 61/2019](./D61_2019_organizacion_estructura_funcionamiento_inspeccion_educativa_madrid.md), de 9 de julio, establece que el perfecciona-
 miento y actualización en el ejercicio profesional constituyen un derecho y un deber de los
 inspectores de educación.
 2.
@@ -1653,12 +1662,12 @@ atribuciones y su organización y funcionamiento.
 
 1.
 Como empleados públicos, los inspectores de educación están sometidos a la regu-
-lación de la función pública que se establece en el Real Decreto Legislativo 5/2015, de 30
+lación de la función pública que se establece en el [Real Decreto Legislativo 5/2015](../../../estatal/01_marco_normativo_general_y_organico/RDL5_2015_aprueba_texto_refundido_ley_estatuto_basico.md), de 30
 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Emplea-
 do Público. El Estatuto recoge los deberes básicos de los empleados públicos y los principios
 éticos y de conducta que inspiran el Código de Conducta para la Inspección Educativa.
 2.
-La Inspección Educativa, de acuerdo con el artículo 3 del Decreto 61/2019, de 9
+La Inspección Educativa, de acuerdo con el artículo 3 del [Decreto 61/2019](./D61_2019_organizacion_estructura_funcionamiento_inspeccion_educativa_madrid.md), de 9
 de julio, ejerce las funciones de supervisar, evaluar, participar en el desarrollo de acciones
 para la mejora, velar por el respeto y el cumplimiento de las normas, asesorar, orientar e in-
 formar a los diferentes sectores de la comunidad educativa y emitir informes.

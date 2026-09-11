@@ -459,8 +459,19 @@ relaciones:
   - norma_id: norm-es-lo-8-2021
   - norma_id: norm-es-2007-5478
   - norma_id: norm-es-rd-276-2007
+fundamentos_derecho:
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-es-l-39-2015
+- norma_id: norm-es-l-40-2015
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-rdl-5-2015
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
+- norma_id: norm-es-2007-6115
+- norma_id: norm-es-lo-8-2021
+- norma_id: norm-es-rd-276-2007
+- norma_id: norm-es-2007-5478
 ---
-
 # Real Decreto 68/2026, de 4 de febrero, por el que se regula la inspección educativa.
 
 ## Preámbulo
@@ -471,19 +482,19 @@ La Constitución Española reconoce, en el artículo 27, el derecho fundamental 
 
 La [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, regula en su título VII la inspección del sistema educativo, dedicando, por un lado, el capítulo I a la Alta Inspección educativa y por otro, el capítulo II de este título a la inspección educativa, siendo esta última únicamente el objeto de este real decreto. Asimismo, contempla en su artículo 2.2 que los poderes públicos prestarán una atención prioritaria al conjunto de factores que favorecen la calidad de la enseñanza, entre los que menciona la inspección educativa.
 
-La Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la Ley Orgánica 2/2006, de 3 de mayo, de Educación, introduce algunos cambios en el articulado dedicado a la inspección y añade el artículo 153 bis,.
+La Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, introduce algunos cambios en el articulado dedicado a la inspección y añade el artículo 153 bis,.
 
 que especifica los principios de actuación de la inspección educativa.
 
-El Real Decreto 2193/1995, de 28 de diciembre, por el que se establecen las normas básicas para el acceso y la provisión de puestos de trabajo en el Cuerpo de Inspectores de Educación y la integración en el mismo de los actuales Inspectores, vigente en parte en la actualidad, ha sido ampliamente modificado para adaptarse a distintas regulaciones normativas. En particular, fue modificado por el Real Decreto 334/2004, de 27 de febrero, por el que se aprueba el Reglamento de ingreso, accesos y adquisición de nuevas especialidades en los cuerpos docentes que imparten las enseñanzas escolares del sistema educativo y en el Cuerpo de Inspectores de Educación. Posteriormente, el [Real Decreto 276/2007](../08_personal_docente/RD592_2007_eci_aprueba_temario_ha_regir_procedimiento.md), de 23 de febrero, por el que se aprueba el Reglamento de ingreso, accesos y adquisición de nuevas especialidades en los cuerpos docentes a que se refiere la Ley Orgánica 2/2006, de 3 de mayo, de Educación, y se regula el régimen transitorio de ingreso a que se refiere la disposición transitoria decimoséptima de la citada ley, derogó el citado Real Decreto 334/2004, de 27 de febrero.
+El Real Decreto 2193/1995, de 28 de diciembre, por el que se establecen las normas básicas para el acceso y la provisión de puestos de trabajo en el Cuerpo de Inspectores de Educación y la integración en el mismo de los actuales Inspectores, vigente en parte en la actualidad, ha sido ampliamente modificado para adaptarse a distintas regulaciones normativas. En particular, fue modificado por el Real Decreto 334/2004, de 27 de febrero, por el que se aprueba el Reglamento de ingreso, accesos y adquisición de nuevas especialidades en los cuerpos docentes que imparten las enseñanzas escolares del sistema educativo y en el Cuerpo de Inspectores de Educación. Posteriormente, el [Real Decreto 276/2007](../08_personal_docente/RD592_2007_eci_aprueba_temario_ha_regir_procedimiento.md), de 23 de febrero, por el que se aprueba el Reglamento de ingreso, accesos y adquisición de nuevas especialidades en los cuerpos docentes a que se refiere la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, y se regula el régimen transitorio de ingreso a que se refiere la disposición transitoria decimoséptima de la citada ley, derogó el citado Real Decreto 334/2004, de 27 de febrero.
 
 Resulta necesario establecer un marco normativo básico en materia de inspección educativa que se adapte a las modificaciones legales que se han producido desde la aprobación del Real Decreto 2193/1995, de 28 de diciembre, que se adecue a las necesidades actuales del Cuerpo de Inspectores de Educación y que unifique los aspectos básicos de su regulación.
 
 Este real decreto consta de cuarenta y un artículos distribuidos en cinco capítulos, una disposición adicional, una disposición transitoria, una disposición derogatoria, tres disposiciones finales y dos anexos. El capítulo I establece la naturaleza docente del Cuerpo de Inspectores de Educación, el debido reconocimiento que comportará la pertenencia a él por parte de las administraciones educativas de las que depende y los principios, fines, funciones y atribuciones de la inspección educativa. El capítulo II regula el acceso al Cuerpo de Inspectores de Educación y la provisión de puestos de forma temporal. El capítulo III versa sobre la formación de los inspectores y las inspectoras. El capítulo IV, sobre desarrollo profesional, incluye aspectos como la carrera profesional en la inspección educativa, su cualificación y la movilidad. Finalmente, el capítulo V trata la evaluación de la inspección educativa.
 
-El real decreto se adecua a los principios de buena regulación previstos en el artículo 129 de la [Ley 39/2015](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, de necesidad, eficacia, proporcionalidad, seguridad jurídica, transparencia y eficiencia. Se adecua a los principios de necesidad y de eficacia en tanto que persigue un interés general de mejorar y actualizar la regulación de la inspección educativa. Cumple con el principio de eficiencia, pues no impone nuevas cargas administrativas a la ciudadanía, generando un marco normativo estable que permite un conocimiento claro del mismo a toda la comunidad educativa. De acuerdo con el principio de proporcionalidad, contiene el desarrollo normativo imprescindible, no existiendo ninguna alternativa regulatoria menos restrictiva de derechos. Conforme al principio de seguridad jurídica, resulta coherente con el ordenamiento jurídico, generando un marco normativo estable y congruente, al adaptar la regulación reglamentaria de la materia a la Ley Orgánica 2/2006, de 3 de mayo, modificada por la Ley Orgánica 3/2020, de 29 de diciembre. Cumple también con el principio de transparencia, puesto que durante el procedimiento de elaboración de la norma han podido participar con sus observaciones los potenciales destinatarios a través de los trámites de consulta pública y de audiencia e información pública, y el proyecto y su memoria son accesibles a toda la ciudadanía.
+El real decreto se adecua a los principios de buena regulación previstos en el artículo 129 de la [Ley 39/2015](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, de necesidad, eficacia, proporcionalidad, seguridad jurídica, transparencia y eficiencia. Se adecua a los principios de necesidad y de eficacia en tanto que persigue un interés general de mejorar y actualizar la regulación de la inspección educativa. Cumple con el principio de eficiencia, pues no impone nuevas cargas administrativas a la ciudadanía, generando un marco normativo estable que permite un conocimiento claro del mismo a toda la comunidad educativa. De acuerdo con el principio de proporcionalidad, contiene el desarrollo normativo imprescindible, no existiendo ninguna alternativa regulatoria menos restrictiva de derechos. Conforme al principio de seguridad jurídica, resulta coherente con el ordenamiento jurídico, generando un marco normativo estable y congruente, al adaptar la regulación reglamentaria de la materia a la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, modificada por la Ley Orgánica 3/2020, de 29 de diciembre. Cumple también con el principio de transparencia, puesto que durante el procedimiento de elaboración de la norma han podido participar con sus observaciones los potenciales destinatarios a través de los trámites de consulta pública y de audiencia e información pública, y el proyecto y su memoria son accesibles a toda la ciudadanía.
 
-El presente real decreto se dicta en uso de las competencias que atribuye al Estado el artículo 149.1, 18.ª y 30.ª, de la Constitución Española, y en virtud de la habilitación que confiere al Gobierno la disposición adicional sexta de la Ley Orgánica 2/2006, de 3 de mayo, para el desarrollo reglamentario de las bases del régimen estatutario de la función pública docente en aquellos aspectos básicos que sean necesarios para garantizar el marco común básico de la función pública docente.
+El presente real decreto se dicta en uso de las competencias que atribuye al Estado el artículo 149.1, 18.ª y 30.ª, de la Constitución Española, y en virtud de la habilitación que confiere al Gobierno la disposición adicional sexta de la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, para el desarrollo reglamentario de las bases del régimen estatutario de la función pública docente en aquellos aspectos básicos que sean necesarios para garantizar el marco común básico de la función pública docente.
 
 En el proceso de elaboración de este real decreto han sido consultadas las comunidades autónomas, y ha emitido dictamen el Consejo Escolar del Estado.
 
@@ -497,13 +508,13 @@ En su virtud, a propuesta de la Ministra de Educación, Formación Profesional y
 
 #### Artículo 2. Naturaleza del Cuerpo de Inspectores de Educación y régimen jurídico aplicable.
 
-El Cuerpo de Inspectores de Educación es un cuerpo docente que se rige por lo dispuesto en la Ley Orgánica 2/2006, de 3 de mayo, de Educación, por lo establecido en el presente real decreto, por las normas que constituyen las bases del régimen estatutario de la función pública docente, y por lo regulado por las administraciones educativas en el ámbito de sus competencias.
+El Cuerpo de Inspectores de Educación es un cuerpo docente que se rige por lo dispuesto en la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, por lo establecido en el presente real decreto, por las normas que constituyen las bases del régimen estatutario de la función pública docente, y por lo regulado por las administraciones educativas en el ámbito de sus competencias.
 
 #### Artículo 3. Ejercicio de la inspección educativa.
 
 1. La inspección educativa será ejercida por las administraciones educativas a través de personal funcionario público del Cuerpo de Inspectores de Educación.
 
-2. Atendiendo a las especiales atribuciones y responsabilidades que comporta el ejercicio de la función inspectora educativa, así como a las peculiaridades y superiores exigencias propias de su sistema de acceso en relación con los cuerpos docentes no universitarios, contempladas en el capítulo II del título VII y las disposiciones adicionales décima y duodécima de la Ley Orgánica 2/2006, de 3 de mayo, y en el presente real decreto, la pertenencia al Cuerpo de Inspectores de Educación comportará el debido reconocimiento por parte de las administraciones educativas de las que depende y la percepción de los complementos retributivos acordes a dicha consideración.
+2. Atendiendo a las especiales atribuciones y responsabilidades que comporta el ejercicio de la función inspectora educativa, así como a las peculiaridades y superiores exigencias propias de su sistema de acceso en relación con los cuerpos docentes no universitarios, contempladas en el capítulo II del título VII y las disposiciones adicionales décima y duodécima de la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, y en el presente real decreto, la pertenencia al Cuerpo de Inspectores de Educación comportará el debido reconocimiento por parte de las administraciones educativas de las que depende y la percepción de los complementos retributivos acordes a dicha consideración.
 
 #### Artículo 4. Principios de actuación de la inspección educativa.
 
@@ -519,7 +530,7 @@ c) Imparcialidad y eficiencia en la consecución de los objetivos fijados.
 
 d) Transparencia en cuanto a los fines de sus actuaciones, los instrumentos y las técnicas utilizados, salvo en lo que se refiere a la debida confidencialidad en el tratamiento de datos personales.
 
-En todo caso, la inspección educativa deberá tener en cuenta los principios que inspiran el sistema educativo español, establecidos en el artículo 1 de la Ley Orgánica 2/2006, de 3 de mayo, para garantizar el interés superior del menor.
+En todo caso, la inspección educativa deberá tener en cuenta los principios que inspiran el sistema educativo español, establecidos en el artículo 1 de la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, para garantizar el interés superior del menor.
 
 #### Artículo 5. Fines de la inspección educativa.
 
@@ -533,13 +544,13 @@ c) Garantizar los derechos y la observancia de los deberes de cuantos participan
 
 d) Mejorar el sistema educativo y la calidad y equidad de la enseñanza.
 
-En todo caso, la inspección educativa se orientará a la consecución de los fines del sistema educativo español establecidos en el artículo 2 de la Ley Orgánica 2/2006, de 3 de mayo.
+En todo caso, la inspección educativa se orientará a la consecución de los fines del sistema educativo español establecidos en el artículo 2 de la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo.
 
 #### Artículo 6. Funciones de la inspección educativa.
 
 Las funciones de la inspección educativa son las siguientes:
 
-a) Supervisar, evaluar y controlar, desde el punto de vista pedagógico y organizativo, el funcionamiento de los centros educativos, así como los proyectos y programas que desarrollen, con respeto al marco de autonomía que ampara la Ley Orgánica 2/2006, de 3 de mayo.
+a) Supervisar, evaluar y controlar, desde el punto de vista pedagógico y organizativo, el funcionamiento de los centros educativos, así como los proyectos y programas que desarrollen, con respeto al marco de autonomía que ampara la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo.
 
 b) Supervisar la práctica docente, la función directiva y colaborar en su mejora continua.
 
@@ -581,7 +592,7 @@ g) Cualesquiera otras que le sean atribuidas por las administraciones educativas
 
 1. En su condición de autoridad pública los inspectores y las inspectoras de educación gozarán, en el ejercicio de sus funciones, de la protección reconocida a tal condición por el ordenamiento jurídico.
 
-2. Las administraciones educativas, en el ámbito de sus competencias, adoptarán las medidas oportunas para garantizar los derechos reconocidos en el artículo 14.f) del texto refundido de la Ley del Estatuto Básico del Empleado Público, aprobado por el Real Decreto Legislativo 5/2015, de 30 de octubre.
+2. Las administraciones educativas, en el ámbito de sus competencias, adoptarán las medidas oportunas para garantizar los derechos reconocidos en el artículo 14.f) del texto refundido de la Ley del Estatuto Básico del Empleado Público, aprobado por el [Real Decreto Legislativo 5/2015](../01_marco_normativo_general_y_organico/RDL5_2015_aprueba_texto_refundido_ley_estatuto_basico.md), de 30 de octubre.
 
 3. En el ejercicio de sus funciones, los inspectores y las inspectoras de educación podrán requerir la cooperación de las personas responsables de los centros y servicios educativos, públicos y privados, así como del personal funcionario de las administraciones educativas y de otras administraciones. Asimismo, podrán solicitar entrevistas y requerir información relacionada con los procedimientos en los que intervengan por razón de sus funciones.
 
@@ -613,7 +624,7 @@ Las administraciones educativas regularán la estructura y el funcionamiento de 
 
 a) Tener la nacionalidad española o estar en alguna de las situaciones previstas en el artículo 57 l.
 
-texto refundido de la Ley del Estatuto Básico del Empleado Público, aprobado por el Real Decreto Legislativo 5/2015, de 30 de octubre, o ser nacional de algún Estado al que sea de aplicación la Directiva 2004/38/CE, del Parlamento Europeo, sobre libre circulación de trabajadores y el Real Decreto 240/2007, de 16 de febrero, sobre entrada, libre circulación y residencia en España de ciudadanos de los Estados miembros de la Unión Europea y de otros Estados parte en el Acuerdo sobre el Espacio Económico Europeo.
+texto refundido de la Ley del Estatuto Básico del Empleado Público, aprobado por el [Real Decreto Legislativo 5/2015](../01_marco_normativo_general_y_organico/RDL5_2015_aprueba_texto_refundido_ley_estatuto_basico.md), de 30 de octubre, o ser nacional de algún Estado al que sea de aplicación la Directiva 2004/38/CE, del Parlamento Europeo, sobre libre circulación de trabajadores y el Real Decreto 240/2007, de 16 de febrero, sobre entrada, libre circulación y residencia en España de ciudadanos de los Estados miembros de la Unión Europea y de otros Estados parte en el Acuerdo sobre el Espacio Económico Europeo.
 
 b) No haber alcanzado la edad establecida, con carácter general, para la jubilación.
 
@@ -635,7 +646,7 @@ g) Acreditar, en su caso, el conocimiento de la lengua cooficial de la Comunidad
 
 a) Pertenecer a alguno de los cuerpos que integran la función pública docente, como personal funcionario de carrera, con al menos una antigüedad de ocho años.
 
-b) Acreditar una experiencia docente de ocho años como personal funcionario de carrera. Se entiende por experiencia docente la desempeñada por el personal docente, en situación administrativa de servicio activo, en el ejercicio de cualquiera de las funciones previstas en el artículo 91 de la Ley Orgánica 2/2006, de 3 de mayo, así como en la realización de funciones propias del personal docente con dispensa de asistencia al puesto de trabajo por representación sindical, en la participación en actividades docentes desarrolladas en servicios y programas educativos y de formación profesional, en la prestación de servicios en puestos de las administraciones educativas reservados para poder ser ocupados por personal docente y en el ejercicio como inspector o inspectora accidental en los términos previstos en el artículo 25 del presente real decreto, sin perjuicio del desempeño de cualquier otro servicio docente, establecido por las administraciones educativas en el ámbito de sus competencias.
+b) Acreditar una experiencia docente de ocho años como personal funcionario de carrera. Se entiende por experiencia docente la desempeñada por el personal docente, en situación administrativa de servicio activo, en el ejercicio de cualquiera de las funciones previstas en el artículo 91 de la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, así como en la realización de funciones propias del personal docente con dispensa de asistencia al puesto de trabajo por representación sindical, en la participación en actividades docentes desarrolladas en servicios y programas educativos y de formación profesional, en la prestación de servicios en puestos de las administraciones educativas reservados para poder ser ocupados por personal docente y en el ejercicio como inspector o inspectora accidental en los términos previstos en el artículo 25 del presente real decreto, sin perjuicio del desempeño de cualquier otro servicio docente, establecido por las administraciones educativas en el ámbito de sus competencias.
 
 c) Estar en posesión del título de Doctorado, Máster Universitario, Licenciatura, Ingeniería, Arquitectura o título equivalente al nivel 3 (Máster) del MECES o al nivel 7 del Marco Europeo de Cualificaciones (EQF) o superior.
 
@@ -647,7 +658,7 @@ d) Dado que la labor desempeñada por los inspectores y las inspectoras de educa
 
 1. El sistema de selección debe permitir evaluar la cualificación de las personas aspirantes para el ejercicio de la función inspectora que van a desarrollar, así como los conocimientos y técnicas específicas para el desempeño de esta.
 
-2. El sistema de acceso al Cuerpo de Inspectores de Educación será el de concurso-oposición. Asimismo, existirá una fase de prácticas que formará parte del proceso selectivo. Las administraciones educativas convocarán el concurso-oposición teniendo en cuenta lo establecido en la disposición adicional duodécima apartado 4 de la Ley Orgánica 2/2006, de 3 de mayo.
+2. El sistema de acceso al Cuerpo de Inspectores de Educación será el de concurso-oposición. Asimismo, existirá una fase de prácticas que formará parte del proceso selectivo. Las administraciones educativas convocarán el concurso-oposición teniendo en cuenta lo establecido en la disposición adicional duodécima apartado 4 de la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo.
 
 3. El procedimiento se realizará mediante convocatoria pública y se garantizarán, en todo caso, los principios de igualdad, mérito, capacidad y publicidad.
 
@@ -671,7 +682,7 @@ b) **Parte B.** Incluirá temas de carácter específico que se referirán a las
 
 #### Artículo 16. Convocatorias para el acceso al Cuerpo de Inspectores de Educación.
 
-2. Las bases de las convocatorias vincularán a la administración, a los órganos de selección y a quienes participen en ellas. Las convocatorias o sus bases, una vez publicadas, solamente podrán ser modificadas con sujeción estricta a las normas de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas. No obstante, cuando se produzca únicamente un incremento en el número de plazas vacantes convocadas, no será preceptiva la apertura de un nuevo plazo de presentación de solicitudes.
+2. Las bases de las convocatorias vincularán a la administración, a los órganos de selección y a quienes participen en ellas. Las convocatorias o sus bases, una vez publicadas, solamente podrán ser modificadas con sujeción estricta a las normas de la [Ley 39/2015](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas. No obstante, cuando se produzca únicamente un incremento en el número de plazas vacantes convocadas, no será preceptiva la apertura de un nuevo plazo de presentación de solicitudes.
 
 #### Artículo 17. Contenido de las convocatorias.
 
@@ -689,7 +700,7 @@ e) Indicación expresa de que quien supere las fases de oposición y concurso pa
 
 f) Indicación expresa de la fecha de efecto del nombramiento como personal funcionario de carrera del Cuerpo de Inspectores de Educación de quienes superen todas las fases de los procedimientos selectivos.
 
-g) Determinación de la forma en que haya de realizarse la publicación de las restantes actuaciones del procedimiento selectivo, de acuerdo con lo previsto en el artículo 45 de Ley 39/2015, de 1 de octubre.
+g) Determinación de la forma en que haya de realizarse la publicación de las restantes actuaciones del procedimiento selectivo, de acuerdo con lo previsto en el artículo 45 de [Ley 39/2015](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre.
 
 2. Igualmente, las convocatorias podrán determinar los siguientes extremos:
 
@@ -729,7 +740,7 @@ presente real decreto.
 
 8. Cuando concurra alguna de las circunstancias previstas en el artículo 23 de la [Ley 40/2015](../01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md), de 1 de octubre, de Régimen Jurídico del Sector Público, o si hubiesen realizado tareas de preparación de aspirantes a pruebas selectivas para el mismo cuerpo en los cinco años anteriores, los miembros de los órganos de selección deberán abstenerse de intervenir, notificándolo, con la debida justificación documental, a la autoridad convocante, quien resolverá lo que proceda.
 
-9. Podrá promoverse la recusación de los miembros de los órganos de selección en los casos y forma previstos en el artículo 24 de la Ley 40/2015, de 1 de octubre.
+9. Podrá promoverse la recusación de los miembros de los órganos de selección en los casos y forma previstos en el artículo 24 de la [Ley 40/2015](../01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md), de 1 de octubre.
 
 #### Artículo 20. Funciones de los órganos de selección.
 
@@ -783,7 +794,7 @@ De acuerdo con lo que establezcan las administraciones educativas, en la prueba 
 
 #### Artículo 22. Fase de concurso.
 
-En la fase de concurso se valorarán la trayectoria profesional de las personas candidatas y sus méritos específicos como docentes, el desempeño de cargos directivos y de coordinación didáctica con evaluación positiva, la pertenencia a alguno de los cuerpos de catedráticos a los que se refiere la Ley Orgánica 2/2006, de 3 de mayo, el ejercicio, en su caso, de la función inspectora, así como la preparación científica y didáctica y otros méritos.
+En la fase de concurso se valorarán la trayectoria profesional de las personas candidatas y sus méritos específicos como docentes, el desempeño de cargos directivos y de coordinación didáctica con evaluación positiva, la pertenencia a alguno de los cuerpos de catedráticos a los que se refiere la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, el ejercicio, en su caso, de la función inspectora, así como la preparación científica y didáctica y otros méritos.
 
 En todo caso, los baremos de las convocatorias deberán respetar las especificaciones básicas que se recogen en el anexo I.
 
@@ -851,13 +862,13 @@ a) La duración será superior a seis meses e inferior o igual a un año de ejer
 
 5. El Ministerio competente en materia educativa promoverá también la formación permanente de los inspectores y las inspectoras de educación mediante la organización de jornadas, congresos o cursos.
 
-6. Las administraciones educativas, en el ámbito de sus competencias, regularán los permisos y licencias necesarios para que los inspectores y las inspectoras de educación puedan actualizar y perfeccionar su cualificación profesional, al menos en las mismas condiciones establecidas para el resto de los cuerpos docentes que imparten enseñanzas reguladas en la Ley Orgánica 2/2006, de 3 de mayo.
+6. Las administraciones educativas, en el ámbito de sus competencias, regularán los permisos y licencias necesarios para que los inspectores y las inspectoras de educación puedan actualizar y perfeccionar su cualificación profesional, al menos en las mismas condiciones establecidas para el resto de los cuerpos docentes que imparten enseñanzas reguladas en la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo.
 
 #### Artículo 27. Planes y actividades de formación.
 
 1. Los planes de formación diseñados por las administraciones educativas podrán incluir actividades formativas voluntarias u obligatorias, en las que se garantizará la accesibilidad universal, en la modalidad de cursos, seminarios, grupos de trabajo, jornadas, intercambios con profesionales de la inspección educativa en el ámbito nacional e internacional, así como cualquier otro tipo de propuesta de formación, tanto individual como colectiva, que sean clave para el ejercicio de sus funciones y atribuciones. La formación que se contemple como obligatoria se considerará parte de la jornada laboral, computándose a todos los efectos como tal.
 
-2. Las administraciones educativas promoverán que la formación tenga un planteamiento práctico, contextualizado y enfocado a la educación inclusiva, basado en las destrezas profesionales inherentes para el buen desempeño de las funciones y atribuciones propias de la inspección educativa y orientado a la adquisición y mejora de estas, teniendo en cuenta las competencias establecidas en el anexo II. Los planes de formación podrán estar orientados a fomentar la investigación y la innovación así como a plantear itinerarios formativos referidos a la supervisión de enseñanzas que requieran un alto grado de especialización. Los planes de formación deberán incluir contenidos relacionados con la prevención, detección y atención integral frente a la violencia contra la infancia y la adolescencia, en línea con lo previsto en la Ley Orgánica 8/2021, de 4 de junio, de protección integral a la infancia y a la adolescencia frente a la violencia.
+2. Las administraciones educativas promoverán que la formación tenga un planteamiento práctico, contextualizado y enfocado a la educación inclusiva, basado en las destrezas profesionales inherentes para el buen desempeño de las funciones y atribuciones propias de la inspección educativa y orientado a la adquisición y mejora de estas, teniendo en cuenta las competencias establecidas en el anexo II. Los planes de formación podrán estar orientados a fomentar la investigación y la innovación así como a plantear itinerarios formativos referidos a la supervisión de enseñanzas que requieran un alto grado de especialización. Los planes de formación deberán incluir contenidos relacionados con la prevención, detección y atención integral frente a la violencia contra la infancia y la adolescencia, en línea con lo previsto en la [Ley Orgánica 8/2021](../07_convivencia_bienestar_y_protocolos/LO8_2021_proteccion_integral_infancia_adolescencia_frente_violencia.md), de 4 de junio, de protección integral a la infancia y a la adolescencia frente a la violencia.
 
 3. Las administraciones educativas impulsarán y facilitarán la participación y la asistencia de los inspectores y las inspectoras a congresos, jornadas u otras actividades directamente relacionadas con el ejercicio de sus funciones.
 
@@ -909,7 +920,7 @@ Los inspectores y las inspectoras de educación, como personal funcionario de un
 
 #### Artículo 35. Movilidad por causa violencia de género o violencia sexual De conformidad con lo dispuesto en el artículo 82 l.
 
-Texto refundido de la Ley del Estatuto Básico del Empleado Público aprobado por Real Decreto Legislativo 5/2015, de 30 de octubre, la funcionaria del Cuerpo de Inspectores de Educación víctima de violencia de género o violencia sexual tendrá derecho al traslado a un puesto de trabajo de su propio cuerpo, escala o categoría profesional, de análogas características, sin necesidad de que sea vacante de necesaria cobertura, siempre que sea necesario para hacer efectiva su protección.
+Texto refundido de la Ley del Estatuto Básico del Empleado Público aprobado por [Real Decreto Legislativo 5/2015](../01_marco_normativo_general_y_organico/RDL5_2015_aprueba_texto_refundido_ley_estatuto_basico.md), de 30 de octubre, la funcionaria del Cuerpo de Inspectores de Educación víctima de violencia de género o violencia sexual tendrá derecho al traslado a un puesto de trabajo de su propio cuerpo, escala o categoría profesional, de análogas características, sin necesidad de que sea vacante de necesaria cobertura, siempre que sea necesario para hacer efectiva su protección.
 
 El cambio de puesto de trabajo se concederá por el tiempo necesario para hacer efectiva la protección.
 
@@ -923,7 +934,7 @@ El Ministerio competente en materia educativa promoverá la participación de lo
 
 La presencia de las inspectoras e inspectores de educación en los centros del sistema educativo y en los servicios educativos es prioritaria. No obstante, en el marco de lo establecido en el artículo 47 bis l.
 
-texto refundido de la Ley del Estatuto Básico del Empleado Público, aprobado por el Real Decreto Legislativo 5/2015, de 30 de octubre, las administraciones educativas regularán la forma en que los inspectores y las inspectoras de educación puedan ejercer la modalidad de prestación de servicios a distancia en las tareas cuyo contenido competencial no requiera su presencia física, siempre que las necesidades del servicio lo permitan, fuera de las dependencias de la administración correspondiente mediante el uso de tecnologías de la información y comunicación, garantizando la accesibilidad.
+texto refundido de la Ley del Estatuto Básico del Empleado Público, aprobado por el [Real Decreto Legislativo 5/2015](../01_marco_normativo_general_y_organico/RDL5_2015_aprueba_texto_refundido_ley_estatuto_basico.md), de 30 de octubre, las administraciones educativas regularán la forma en que los inspectores y las inspectoras de educación puedan ejercer la modalidad de prestación de servicios a distancia en las tareas cuyo contenido competencial no requiera su presencia física, siempre que las necesidades del servicio lo permitan, fuera de las dependencias de la administración correspondiente mediante el uso de tecnologías de la información y comunicación, garantizando la accesibilidad.
 
 #### Artículo 38. Participación.
 
@@ -933,7 +944,7 @@ Las administraciones educativas, en el ámbito de sus competencias, promoverán 
 
 #### Artículo 39. Evaluación de la inspección educativa.
 
-1. La inspección educativa estará sometida a la evaluación de su desempeño profesional a través de los medios que garanticen la publicidad, la transparencia, el mérito y la igualdad. Su evaluación se realizará de acuerdo con lo previsto con carácter general en el título VI de la Ley Orgánica 2/2006, de 3 de mayo, para la evaluación del sistema educativo.
+1. La inspección educativa estará sometida a la evaluación de su desempeño profesional a través de los medios que garanticen la publicidad, la transparencia, el mérito y la igualdad. Su evaluación se realizará de acuerdo con lo previsto con carácter general en el título VI de la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, para la evaluación del sistema educativo.
 
 2. Las administraciones educativas determinarán las unidades competentes y regularán los procedimientos para llevar a cabo la evaluación de la inspección educativa.
 
@@ -965,7 +976,7 @@ presente real decreto, serán de aplicación la Orden EDU/3429/2009, de 11 de di
 
 1. Queda derogado el Real Decreto 2193/1995, de 28 de diciembre, por el que se establecen las normas básicas para el acceso y la provisión de puestos de trabajo en el Cuerpo de Inspectores de Educación.
 
-2. Queda derogado el capítulo III del título IV y el anexo III del Reglamento de ingreso, accesos y adquisición de nuevas especialidades en los cuerpos de funcionarios docentes a los que se refiere la Ley Orgánica 2/2006, de 3 de mayo, de Educación, aprobado por el Real Decreto 276/2007, de 23 de febrero.
+2. Queda derogado el capítulo III del título IV y el anexo III del Reglamento de ingreso, accesos y adquisición de nuevas especialidades en los cuerpos de funcionarios docentes a los que se refiere la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, aprobado por el [Real Decreto 276/2007](../08_personal_docente/RD276_2007_aprueba_reglamento_ingreso_accesos_adquisicion_nuevas.md), de 23 de febrero.
 
 3. Quedan derogadas todas las disposiciones de igual o inferior rango que se opongan a lo establecido en esta norma.
 

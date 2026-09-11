@@ -136,8 +136,19 @@ relaciones:
   - norma_id: norm-es-rdl-2-2015
   - norma_id: norm-can-d-212-1991
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-046-751.pdf
+fundamentos_derecho:
+- norma_id: norm-can-d-212-1991
+- norma_id: norm-can-d-84-2024
+- norma_id: norm-can-l-14-1990
+- norma_id: norm-can-l-2-1987
+- norma_id: norm-can-d-109-1999
+- norma_id: norm-can-d-81-2010
+- norma_id: norm-can-o-2013-10-09
+- norma_id: norm-es-l-39-2015
+- norma_id: norm-es-l-40-2015
+- norma_id: norm-es-rdl-5-2015
+- norma_id: norm-es-rdl-2-2015
 ---
-
 # Resolución de 24 de febrero de 2026, por la que se dictan instrucciones sobre la regulación del periodo vacacional, régimen de permisos y licencias del personal docente no universitario al servicio de la Administración Educativa Canaria y se delegan competencias en las Direcciones Territoriales y direcciones de los centros educativos. (BOC N.º 046. Lunes 9 de marzo de 2026).
 
 ## Preámbulo
@@ -159,7 +170,7 @@ Quinto.- Por otro lado, el artículo 6 l [Decreto.
 
 106/2009](../04_organizacion_escolar_y_funcionamiento/D106_2009_regula_funcion_directiva_centros_docentes_publicos.md), de 28 de julio, por el que se regula la función directiva en los centros docentes públicos no universitarios dependientes de la Comunidad Autónoma de Canarias, atribuye a las direcciones de los centros la competencia de ejercer la jefatura de todo el personal adscrito al centro docente público, bajo la supervisión de la Consejería competente en materia educativa.
 Sexto.- Igualmente, el [Decreto 109/1999](../02_gestion_y_administracion_centros/D109_1999_regula_regimen_creacion_funcionamiento_colectivos_escuelas.md), de 25 de mayo, que regula el régimen de creación y funcionamiento de los Colectivos de Escuelas Rurales, atribuye a la persona coordinadora del Colectivo de Escuelas Rurales el ejercicio de la jefatura del profesorado itinerante (artículo 9.d).
-Séptimo.- El Real Decreto-ley 9/2025, de 29 de julio, por el que se amplía el permiso de nacimiento y cuidado, mediante la modificación del texto refundido de la Ley del Estatuto de los Trabajadores, aprobado por el [Real Decreto Legislativo 2/2015](../../../estatal/09_personal_laboral_y_no_docente/RDL2_2015_aprueba_texto_refundido_ley_estatuto_trabajadores.md), de 23 de octubre, el texto refundido de la Ley del Estatuto Básico del Empleado Público, aprobado por el Real Decreto Legislativo 5/2015, de 30 de octubre, y el texto refundido de la Ley General de la Seguridad Social, aprobado por el Real Decreto Legislativo 8/2015, de 30 de octubre, para completar la transposición de la Directiva (UE) 2019/1158 del Parlamento Europeo y del Consejo, de 20 de junio de 2019, relativa a la conciliación de la vida familiar y la vida profesional de los progenitores y los cuidadores, y por la que se deroga la Directiva 2010/18/UE del Consejo.
+Séptimo.- El Real Decreto-ley 9/2025, de 29 de julio, por el que se amplía el permiso de nacimiento y cuidado, mediante la modificación del texto refundido de la Ley del Estatuto de los Trabajadores, aprobado por el [Real Decreto Legislativo 2/2015](../../../estatal/09_personal_laboral_y_no_docente/RDL2_2015_aprueba_texto_refundido_ley_estatuto_trabajadores.md), de 23 de octubre, el texto refundido de la Ley del Estatuto Básico del Empleado Público, aprobado por el [Real Decreto Legislativo 5/2015](../../../estatal/01_marco_normativo_general_y_organico/RDL5_2015_aprueba_texto_refundido_ley_estatuto_basico.md), de 30 de octubre, y el texto refundido de la Ley General de la Seguridad Social, aprobado por el Real Decreto Legislativo 8/2015, de 30 de octubre, para completar la transposición de la Directiva (UE) 2019/1158 del Parlamento Europeo y del Consejo, de 20 de junio de 2019, relativa a la conciliación de la vida familiar y la vida profesional de los progenitores y los cuidadores, y por la que se deroga la Directiva 2010/18/UE del Consejo.
 Octavo.- Por su parte, el artículo 9 de la [Ley 40/2015](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md), de 1 de octubre, de Régimen Jurídico del Sector Público, establece que los órganos de las diferentes Administraciones Públicas podrán delegar el ejercicio de las competencias que tengan atribuidas en otros órganos de la misma Administración, aun cuando no sean jerárquicamente dependientes,
 
 siendo preceptivo que el acto de delegación y, en su caso, su revocación, se publiquen en el Boletín Oficial correspondiente, y debiendo hacerse constar en las resoluciones administrativas que se adopten por delegación, tal circunstancia de manera expresa. En la misma línea, y en el ámbito autonómico, la [Ley 14/1990](../01_marco_normativo_general_y_organico/L14_1990_regimen_juridico_administraciones_publicas_canarias.md), de 26 de julio, de Régimen Jurídico de las Administraciones Públicas de Canarias, dispone en su artículo 31.3 que el ejercicio de las competencias propias podrá ser delegado en el órgano que, por la aplicación del principio de eficacia, sea más idóneo para ello, debiendo publicarse el acto de delegación en el Boletín Oficial de Canarias para surtir efectos. El [Decreto 84/2024](../01_marco_normativo_general_y_organico/D84_2024_aprueba_reglamento_organico_formacion_profesional_actividad.md), de 10 de junio, por el que se aprueba el Reglamento Orgánico de la Consejería de Educación, Formación Profesional, Actividad Física y Deportes, dispone en su artículo 16.1 que la Dirección General de Personal y Formación del Profesorado ejercerá, en su ámbito funcional, las competencias previstas en el artículo 19 l [Decreto.

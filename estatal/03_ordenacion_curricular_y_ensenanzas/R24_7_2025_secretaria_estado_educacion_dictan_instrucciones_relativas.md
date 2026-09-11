@@ -48,8 +48,10 @@ relaciones:
   - norma_id: '22'
   - norma_id: norm-es-rd-1834-2008
   - norma_id: norm-es-2010-4130
+fundamentos_derecho:
+- norma_id: norm-es-rd-1834-2008
+- norma_id: norm-es-2010-4130
 ---
-
 # Resolución de 24 de julio de 2025, de la Secretaría de Estado de Educación, por la que se dictan instrucciones relativas al programa de doble titulación Bachiller-Baccalauréat correspondientes al curso 2025-2026. ## Preámbulo
 
 El [Real Decreto 102/2010](RD102_2010_regula_ordenacion_ensenanzas_acogidas_acuerdo_entre.md), de 5 de febrero, por el que se regula la ordenación de las enseñanzas acogidas al acuerdo entre el Gobierno de España y el Gobierno de Francia relativo a la doble titulación de Bachiller y de Baccalauréat en centros docentes españoles, establece las enseñanzas conducentes a la obtención de la doble titulación de Bachiller, del sistema educativo español, y de Baccalauréat, del sistema educativo francés, impartidas en centros docentes españoles, en virtud del Acuerdo Marco firmado con fecha 16 de mayo de 2005 entre el Gobierno del Reino de España y el Gobierno de la República Francesa, relativo a programas educativos, lingüísticos y culturales en centros escolares de los dos Estados, desarrollado por el Acuerdo de doble titulación firmado en París el 10 de enero de 2008 entre el Gobierno del Reino de España y el Gobierno de la República Francesa.
@@ -118,7 +120,7 @@ CGPE = Calificación global de la prueba externa.
 
 La nota obtenida de dicha ponderación se expresará en forma numérica de 0 a 10 puntos, con dos decimales, redondeada a la centésima más próxima y, en caso de equidistancia, a la superior.
 
-#### Cuarto. Composición de la Comisión Técnica para el curso 2025-2026. 1. La Comisión Técnica del programa Bachibac, prevista en el artículo 9.2 del Real Decreto 102/2010, de 5 de febrero, por el que se regula la ordenación de las enseñanzas acogidas al acuerdo entre el Gobierno de España y el Gobierno de Francia relativo a la doble titulación de Bachiller y de Baccalauréat en centros docentes españoles, y definida en sus funciones de acuerdo con el artículo 4.2 de la Orden EDU/2157/2010, de 30 de julio, será la encargada de preparar, previo acuerdo con la parte francesa, todo lo relativo a la prueba externa.
+#### Cuarto. Composición de la Comisión Técnica para el curso 2025-2026. 1. La Comisión Técnica del programa Bachibac, prevista en el artículo 9.2 del [Real Decreto 102/2010](./RD102_2010_regula_ordenacion_ensenanzas_acogidas_acuerdo_entre.md), de 5 de febrero, por el que se regula la ordenación de las enseñanzas acogidas al acuerdo entre el Gobierno de España y el Gobierno de Francia relativo a la doble titulación de Bachiller y de Baccalauréat en centros docentes españoles, y definida en sus funciones de acuerdo con el artículo 4.2 de la Orden EDU/2157/2010, de 30 de julio, será la encargada de preparar, previo acuerdo con la parte francesa, todo lo relativo a la prueba externa.
 
 2. La Comisión Técnica estará compuesta por tres representantes del Ministerio de Educación, Formación Profesional y Deportes, y tres representantes de las comunidades autónomas en las que se imparte el programa. La representación del Ministerio recaerá en las personas titulares de las Subdirecciones Generales de Ordenación Académica, de Inspección de Educación, y de Cooperación Territorial e Innovación Educativa. Los tres representantes de las comunidades autónomas rotarán, con carácter bienal, garantizando que haya siempre representación de, al menos, una comunidad con experiencia en la realización de la prueba externa. Para el curso 2025-2026, dicha representación recaerá en la Comunidad Autónoma de Cantabria, la Comunidad Autónoma de Canarias y la Comunidad Foral de Navarra.
 
@@ -166,7 +168,7 @@ Descanso: 11:30-12:00.
 
 7. El Ministerio de Educación, Formación Profesional y Deportes se encargará de tramitar con la administración francesa la expedición del Diploma de Baccalauréat del alumnado que reúna las condiciones para ello, en las fechas que se determinen en función de la celebración de las evaluaciones finales ordinarias y extraordinarias establecidas por las distintas administraciones educativas.
 
-8. De acuerdo con lo establecido en el artículo 10 de la Orden EDU/2157/2010, de 30 de julio, las administraciones educativas asegurarán que tanto en el expediente académico como en el historial académico de Bachillerato del alumnado se recoja, mediante diligencia, según el modelo incluido en el anexo II de la citada orden, que el alumno o alumna ha superado las enseñanzas del currículo mixto y que ha alcanzado en la lengua francesa el nivel B2 del Marco Común Europeo de Referencia para las Lenguas. Asimismo, en las actas de evaluación de Bachillerato se hará constar, en su caso, la referencia expresa al Real Decreto 102/2010, de 5 de febrero, que regula las enseñanzas del currículo integrado.
+8. De acuerdo con lo establecido en el artículo 10 de la Orden EDU/2157/2010, de 30 de julio, las administraciones educativas asegurarán que tanto en el expediente académico como en el historial académico de Bachillerato del alumnado se recoja, mediante diligencia, según el modelo incluido en el anexo II de la citada orden, que el alumno o alumna ha superado las enseñanzas del currículo mixto y que ha alcanzado en la lengua francesa el nivel B2 del Marco Común Europeo de Referencia para las Lenguas. Asimismo, en las actas de evaluación de Bachillerato se hará constar, en su caso, la referencia expresa al [Real Decreto 102/2010](./RD102_2010_regula_ordenacion_ensenanzas_acogidas_acuerdo_entre.md), de 5 de febrero, que regula las enseñanzas del currículo integrado.
 
 #### Noveno. Tema de estudio de Lengua y Literatura Francesas para las pruebas de Baccalauréat.
 

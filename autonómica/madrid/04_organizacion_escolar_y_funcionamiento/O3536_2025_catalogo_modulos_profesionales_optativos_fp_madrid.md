@@ -37,8 +37,23 @@ relaciones:
   - norma_id: norm-mad-d-29-2013
   desarrolla:
   - norma_id: norm-es-lo-2-2006
+fundamentos_derecho:
+- norma_id: norm-can-res-boc-2024-230-25
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-can-res-134
+- norma_id: norm-mad-d248-2023
+- norma_id: norm-mad-d-52-2021
+- norma_id: norm-mad-l1-1983-gobierno-administracion-comunidad-madrid
+- norma_id: norm-mad-d-27-2025
+- norma_id: norm-es-l-39-2015
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-lo-3-2022
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-rd-659-2023
+- norma_id: norm-es-2010-12201
+- norma_id: norm-es-rd-276-2007
+- norma_id: norm-es-2007-5478
 ---
-
 # Orden 3536/2025, de 12 de agosto, por la que se establece el catálogo de módulos profesionales optativos en los ciclos formativos de Grado Medio y de Grado Superior de Formación Profesional en la Comunidad de Madrid
 
 ## Preámbulo
@@ -51,7 +66,7 @@ Universidades, por la que se aprueba el catálogo de módulos profesionales de l
 parte de optatividad en los ciclos formativos de grado medio y grado superior de
 formación profesional en la Comunidad de Madrid y se establece el proce-
 dimiento de incorporación de módulos profesionales optativos a este catálogo.
-La Ley Orgánica 3/2022, de 31 de marzo, de ordenación e integración de la Formación
+La [Ley Orgánica 3/2022](../../canarias/08_personal_docente/R30_6_2023_ordenacion_gestion_determinadas_listas_empleo_tras.md), de 31 de marzo, de ordenación e integración de la Formación
 Profesional, tiene por objeto la constitución y ordenación de un sistema único e integrado de
 formación profesional. A tal fin, redefine las ofertas de formación profesional, entre las que
 se encuentran las enseñanzas de formación profesional del sistema educativo, y crea una ti-
@@ -67,7 +82,7 @@ Dicha ley orgánica establece que serán las administraciones competentes las qu
 terminen, en su caso, módulos profesionales optativos que profundicen en mayor grado en
 el desarrollo de las competencias transversales o que aporten los complementos de forma-
 ción general para facilitar el seguimiento del itinerario formativo individual.
-El Real Decreto 659/2023, de 18 de julio, por el que se desarrolla la ordenación del
+El [Real Decreto 659/2023](../../canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, por el que se desarrolla la ordenación del
 Sistema de Formación Profesional, dedica el capítulo IV de su Título II a la ordenación y
 organización curricular de los grados D y en su artículo 96.1.b) establece que la parte de op-
 tatividad estará integrada por, al menos, un módulo optativo durante la formación con du-
@@ -78,7 +93,7 @@ llo de las competencias transversales o aporten complementos de formación gener
 facilitar la progresión del itinerario formativo individual. Asimismo, los centros del Siste-
 ma de Formación Profesional podrán hacer propuestas de módulos optativos en el marco de
 lo dispuesto por la Administración educativa competente.
-El Decreto 27/2025, de 21 de mayo, del Consejo de Gobierno, por el que se regula la
+El [Decreto 27/2025](../03_ordenacion_curricular_y_ensenanzas/D27_2025_ordenacion_organizacion_sistema_formacion_profesional_madrid.md), de 21 de mayo, del Consejo de Gobierno, por el que se regula la
 ordenación y organización del Sistema de Formación Profesional de la Comunidad de
 Madrid, recoge en su artículo 12 que el titular de la consejería competente en materia de
 Educación establecerá las condiciones en las que los centros podrán organizar la oferta de
@@ -105,8 +120,8 @@ dulos profesionales optativos, todo el material desarrollado a lo largo de los a
 establecer los mecanismos para su ampliación, mediante las propuestas que los centros ha-
 gan llegar a la consejería con competencias en materia de Educación.
 Esta orden cumple con los principios de buena regulación recogidos en los artículos 129
-de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Admi-
-nistraciones Públicas, y 2 del Decreto 52/2021, de 24 de marzo, del Consejo de Gobierno,
+de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Administrativo Común de las Admi-
+nistraciones Públicas, y 2 del [Decreto 52/2021](../01_marco_normativo_general_y_organico/D52_2021_procedimiento_elaboracion_disposiciones_normativas_madrid.md), de 24 de marzo, del Consejo de Gobierno,
 por el que se regula y simplifica el procedimiento de elaboración de las disposiciones nor-
 mativas de carácter general en la Comunidad de Madrid.
 Esta norma cumple con los principios de necesidad y eficacia, puesto que persigue un
@@ -118,7 +133,7 @@ danos y así ofrecer mayores oportunidades de inserción laboral.
 Asimismo, se dicta conforme al principio de proporcionalidad, puesto que recoge todos
 los aspectos imprescindibles para el adecuado desarrollo de las enseñanzas de formación
 profesional que componen la oferta formativa, y no se extralimita en sus disposiciones res-
-pecto a lo establecido en la normativa básica de aplicación, así como en el Decreto 27/2025,
+pecto a lo establecido en la normativa básica de aplicación, así como en el [Decreto 27/2025](../03_ordenacion_curricular_y_ensenanzas/D27_2025_ordenacion_organizacion_sistema_formacion_profesional_madrid.md),
 de 21 de mayo.
 También cumple con el principio de transparencia, conforme a lo establecido en el
 
@@ -139,9 +154,9 @@ Técnica de la Consejería de Educación, Ciencia y Universidades. Asimismo, se 
 dictamen por el Consejo Escolar de la Comunidad de Madrid e informe por la Abogacía Ge-
 neral de la Comunidad de Madrid.
 El titular de la Consejería de Educación, Ciencia y Universidades es competente para
-dictar esta orden, de acuerdo con lo establecido en el artículo 41.d) de la Ley 1/1983, de 13
+dictar esta orden, de acuerdo con lo establecido en el artículo 41.d) de la [Ley 1/1983](../01_marco_normativo_general_y_organico/L1_1983_gobierno_administracion_comunidad_madrid.md), de 13
 de diciembre, de Gobierno y Administración de la Comunidad de Madrid, y en el artículo 12
-del Decreto 27/2025, de 21 de mayo, en relación con el Decreto 248/2023, de 11 de octu-
+del [Decreto 27/2025](../03_ordenacion_curricular_y_ensenanzas/D27_2025_ordenacion_organizacion_sistema_formacion_profesional_madrid.md), de 21 de mayo, en relación con el [Decreto 248/2023](../01_marco_normativo_general_y_organico/D248_2023_estructura_organica_consejeria_educacion_ciencia_universidades_madrid.md), de 11 de octu-
 bre, del Consejo de Gobierno, por el que se establece la estructura orgánica de la Conseje-
 ría de Educación, Ciencia y Universidades.
 En su virtud, a propuesta de la Dirección General de Educación Secundaria, Forma-
@@ -203,9 +218,9 @@ el anexo I.
 En los centros docentes de titularidad privada o de titularidad pública de otras ad-
 ministraciones distintas de las educativas, las titulaciones requeridas y los requisitos nece-
 sarios para impartir docencia en los módulos optativos serán los mismos que los exigidos
-para las especialidades de los cuerpos docentes a que se refiere el Real Decreto 276/2007,
+para las especialidades de los cuerpos docentes a que se refiere el [Real Decreto 276/2007](../../../estatal/08_personal_docente/RD276_2007_aprueba_reglamento_ingreso_accesos_adquisicion_nuevas.md),
 de 23 de febrero, por el que se aprueba el Reglamento de ingreso, accesos y adquisición
-de nuevas especialidades en los cuerpos docentes a que se refiere la Ley Orgánica 2/2006,
+de nuevas especialidades en los cuerpos docentes a que se refiere la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md),
 de 3 de mayo, de Educación, y se regula el régimen transitorio de ingreso a que se refiere
 la disposición transitoria decimoséptima de la citada ley, según la atribución docente que
 se establece para los módulos profesionales en el anexo III de los correspondientes reales
@@ -291,7 +306,7 @@ centro solicitante. Las resoluciones a las que se refiere el apartado anterior s
 tes del treinta de junio. En caso de silencio administrativo, este tendrá sentido desestimatorio.
 Contra esta resolución, se podrá interponer recurso de alzada en el plazo de un mes
 ante el órgano jerárquicamente superior, en los términos previstos en los artículos 115, 121
-y 122 de la Ley 39/2015, de 1 de octubre.
+y 122 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre.
 
 #### Disposición ADICIONAL ÚNICA. Cese de proyectos de autonomía de centros autorizados
 

@@ -36,8 +36,21 @@ relaciones:
   - norma_id: norm-mad-d-29-2013
   desarrolla:
   - norma_id: norm-es-lo-2-2006
+fundamentos_derecho:
+- norma_id: norm-can-res-boc-2024-230-25
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-can-res-134
+- norma_id: norm-mad-d248-2023
+- norma_id: norm-mad-d-52-2021
+- norma_id: norm-mad-l1-1983-gobierno-administracion-comunidad-madrid
+- norma_id: norm-mad-d-27-2025
+- norma_id: norm-es-l-39-2015
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-lo-3-2022
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-rd-659-2023
+- norma_id: norm-es-2010-12201
 ---
-
 # Orden 3537/2025, de 12 de agosto, de la Consejería de Educación, Ciencia y Universidades, por la que se regulan los currículos de los módulos profesionales transversales en Formación Profesional en la Comunidad de Madrid
 
 ## Preámbulo
@@ -49,7 +62,7 @@ ORDEN 3537/2025, de 12 de agosto, de la Consejería de Educación, Ciencia y
 Universidades, por la que se desarrolla el currículo de los módulos profesiona-
 les de carácter transversal incluidos en los planes de estudios de los ciclos for-
 mativos de formación profesional en la Comunidad de Madrid.
-La Ley Orgánica 3/2022, de 31 de marzo, de ordenación e integración de la Formación
+La [Ley Orgánica 3/2022](../../canarias/08_personal_docente/R30_6_2023_ordenacion_gestion_determinadas_listas_empleo_tras.md), de 31 de marzo, de ordenación e integración de la Formación
 Profesional, tiene por objeto la constitución y ordenación de un sistema único e integrado
 de formación profesional. A tal fin, redefine las ofertas de formación profesional, entre las
 que se encuentran las enseñanzas de formación profesional del sistema educativo y crea una
@@ -58,14 +71,14 @@ can como ofertas de grado D. En su artículo 40 establece la organización modul
 cluye módulos profesionales no asociados a estándares de competencia profesional, sino a
 la orientación laboral, al emprendimiento, y a competencias transversales y para la madu-
 rez socioprofesional.
-El Real Decreto 659/2023, de 18 de julio, por el que se desarrolla la ordenación del
+El [Real Decreto 659/2023](../../canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, por el que se desarrolla la ordenación del
 Sistema de Formación Profesional, dispone en su artículo 7.2 que serán las administracio-
 nes educativas las que, respetando lo previsto en dicha norma y en el resto de desarrollos
 normativos del Sistema de Formación Profesional, así como las atribuciones competencia-
-les establecidas en el artículo 6 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, y
-de acuerdo con lo prescrito por la Ley Orgánica 3/2022, de 31 de marzo, establezcan los cu-
+les establecidas en el artículo 6 de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, y
+de acuerdo con lo prescrito por la [Ley Orgánica 3/2022](../../canarias/08_personal_docente/R30_6_2023_ordenacion_gestion_determinadas_listas_empleo_tras.md), de 31 de marzo, establezcan los cu-
 rrículos correspondientes a los grados D.
-El Decreto 27/2025, de 21 de mayo, del Consejo de Gobierno, por el que se regula la
+El [Decreto 27/2025](../03_ordenacion_curricular_y_ensenanzas/D27_2025_ordenacion_organizacion_sistema_formacion_profesional_madrid.md), de 21 de mayo, del Consejo de Gobierno, por el que se regula la
 ordenación y organización del Sistema de Formación Profesional de la Comunidad de
 Madrid, establece en su artículo 9 la organización de los ciclos formativos de grado básico,
 que incluye el módulo de Itinerario personal para la empleabilidad en el ámbito profesio-
@@ -80,9 +93,9 @@ sarrollará por orden del titular de la consejería con competencias en materia 
 e incluirá, al menos, los referentes de la formación, los resultados de aprendizaje, los crite-
 rios de evaluación y los contenidos necesarios para la adquisición de los resultados de
 aprendizaje.
-En el marco de lo dispuesto en el artículo 129 de la Ley 39/2015, de 1 de octubre, del
+En el marco de lo dispuesto en el artículo 129 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del
 Procedimiento Administrativo Común de las Administraciones Públicas, y de conformidad
-con el artículo 2 del Decreto 52/2021, de 24 de marzo, del Consejo de Gobierno, por el que
+con el artículo 2 del [Decreto 52/2021](../01_marco_normativo_general_y_organico/D52_2021_procedimiento_elaboracion_disposiciones_normativas_madrid.md), de 24 de marzo, del Consejo de Gobierno, por el que
 se regula y simplifica el procedimiento de elaboración de las disposiciones normativas de
 carácter general en la Comunidad de Madrid, esta disposición normativa se ajusta a las exi-
 gencias de los principios de buena regulación.
@@ -116,9 +129,9 @@ ral Técnica de la Consejería de Educación, Ciencia y Universidades. Asimismo,
 tido dictamen por el Consejo Escolar de la Comunidad de Madrid e informe por la Aboga-
 cía General de la Comunidad de Madrid.
 El titular de la Consejería de Educación, Ciencia y Universidades es competente para dic-
-tar esta Orden, de acuerdo con lo establecido en el artículo 41.d) de la Ley 1/1983, de 13 de di-
+tar esta Orden, de acuerdo con lo establecido en el artículo 41.d) de la [Ley 1/1983](../01_marco_normativo_general_y_organico/L1_1983_gobierno_administracion_comunidad_madrid.md), de 13 de di-
 ciembre, de Gobierno y Administración de la Comunidad de Madrid y en el artículo 5.4 del
-Decreto 27/2025, de 21 de mayo, en relación con el Decreto 248/2023, de 11 de octubre,
+[Decreto 27/2025](../03_ordenacion_curricular_y_ensenanzas/D27_2025_ordenacion_organizacion_sistema_formacion_profesional_madrid.md), de 21 de mayo, en relación con el [Decreto 248/2023](../01_marco_normativo_general_y_organico/D248_2023_estructura_organica_consejeria_educacion_ciencia_universidades_madrid.md), de 11 de octubre,
 del Consejo de Gobierno, por el que se establece la estructura orgánica de la Consejería de
 Educación, Ciencia y Universidades.
 En su virtud, a propuesta de la Dirección General de Educación Secundaria, Forma-
@@ -160,7 +173,7 @@ Los aspectos relativos a la finalidad y al currículo básico de los módulos pr
 les de carácter transversal son los que se definen en los artículos 98 al 101 y en los
 
 BOCM
-anexos III al X del Real Decreto 659/2023, de 18 de julio, por el que se desarrolla la orde-
+anexos III al X del [Real Decreto 659/2023](../../canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, por el que se desarrolla la orde-
 nación del Sistema de Formación Profesional.
 
 #### Artículo 4. Currículo

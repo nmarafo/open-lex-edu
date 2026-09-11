@@ -269,8 +269,24 @@ relaciones:
   - norma_id: norm-es-2026-2622
     articulos_destino:
     - Art. 25
+fundamentos_derecho:
+- norma_id: norm-can-d-84-2024
+- norma_id: norm-can-l-14-1990
+- norma_id: norm-can-l-2-1987
+- norma_id: norm-can-l-6-2014
+- norma_id: norm-can-d-52-2009
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-can-d-2026-88-oep-docente-2026
+- norma_id: norm-es-l-39-2015
+- norma_id: norm-es-l-40-2015
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-rdl-5-2015
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2026-2622
+- norma_id: norm-es-2010-12201
+- norma_id: norm-es-2007-6115
+- norma_id: norm-es-lo-8-2021
 ---
-
 # Orden de 27 de mayo de 2026, por la que se convoca procedimiento selectivo para acceder al Cuerpo de Inspectores de Educación en el ámbito de la Comunidad Autónoma de Canarias.
 
 ## Preámbulo
@@ -291,7 +307,7 @@ legalidad para la mejor garantía de los derechos y la correcta observancia de l
 de los participantes en los procesos educativos, así como la evaluación, asesoramiento y 
 supervisión del desarrollo de dichos procesos.
 Según el Reglamento de Ordenación de la Inspección de Educación de la Comunidad 
-Autónoma de Canarias, aprobado por Decreto 52/2009, de 12  de mayo, la inspección 
+Autónoma de Canarias, aprobado por [Decreto 52/2009](../04_organizacion_escolar_y_funcionamiento/D52_2009_aprueba_reglamento_ordenacion_inspeccion_educacion_comunidad.md), de 12  de mayo, la inspección 
 educativa será ejercida en el ámbito de gestión de la Administración educativa de la 
 Comunidad Autónoma de Canarias a través de funcionarios públicos del Cuerpo de 
 Inspectores de Educación.
@@ -307,34 +323,34 @@ plazas para el Cuerpo de Inspectores de Educación en un total de 4.
 Tercero.- Decreto 193/2025, de 23 de diciembre, por el que se aprueba la Oferta de 
 Empleo Público de personal docente no universitario para el año 2025, fija el número de 
 plazas para el Cuerpo de Inspectores de Educación en un total de 1.
-Cuarto.- Decreto 88/2026, de 18 de mayo, por el que se aprueba la Oferta de Empleo 
+Cuarto.- [Decreto 88/2026](./D88_2026_aprueba_oferta_empleo_publico_personal_docente_no_universitario_2026.md), de 18 de mayo, por el que se aprueba la Oferta de Empleo 
 Público de personal docente no universitario para el año 2026, fija el número de plazas para 
 el Cuerpo de Inspectores de Educación en un total de 11.
 
 Viernes 29 de mayo de 2026
 A los anteriores antecedentes les son de aplicación los siguientes
 FUNDAMENTOS DE DERECHO
-Primero.- La Ley 6/2014, de 25 de julio, Canaria de Educación no Universitaria, y en 
+Primero.- La [Ley 6/2014](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md), de 25 de julio, Canaria de Educación no Universitaria, y en 
 particular su artículo 63.1, que establece que: “[…] la selección y provisión del personal 
 funcionario para el ingreso en los distintos cuerpos docentes se llevará a cabo en la forma 
 establecida por la normativa básica del Estado, en la presente ley y en las normas que se 
 dicten en desarrollo de las mismas”.
 Segundo.- El texto refundido de la Ley del Estatuto Básico del Empleado Público 
-aprobado por Real Decreto Legislativo 5/2015, establece en su artículo 62.1: “La condición 
+aprobado por [Real Decreto Legislativo 5/2015](../../../estatal/01_marco_normativo_general_y_organico/RDL5_2015_aprueba_texto_refundido_ley_estatuto_basico.md), establece en su artículo 62.1: “La condición 
 de funcionario de carrera se adquiere por el cumplimiento sucesivo de los siguientes 
 requisitos: a) Superación del proceso selectivo, b) Nombramiento por el órgano o autoridad 
 competente, que será publicado en el Diario Oficial correspondiente, c) Acto de acatamiento 
 de la Constitución y, en su caso, del Estatuto de Autonomía correspondiente y del resto del 
 Ordenamiento Jurídico, d) Toma de posesión dentro del plazo que se establezca”.
 Tercero.- La disposición adicional décima, apartado quinto, y disposición adicional 
-duodécima, apartado cuarto, de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, 
+duodécima, apartado cuarto, de la [Ley Orgánica 2/2006](../05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, 
 modificada por la Ley Orgánica 3/2020, de 29 de diciembre, establece los requisitos para el 
 acceso al Cuerpo de Inspectores de Educación.
-Cuarto.- El Capítulo II del Real Decreto 68/2026, de 4 de febrero, por el que se regula 
+Cuarto.- El Capítulo II del [Real Decreto 68/2026](../../../estatal/04_organizacion_escolar_y_funcionamiento/RD68_2026_regula_inspeccion_educativa.md), de 4 de febrero, por el que se regula 
 la inspección educativa, que regula el acceso al Cuerpo de Inspectores de Educación y 
 provisión de puestos de forma temporal.
 Quinto.- Artículo 17, párrafo segundo, del Reglamento de Ordenación de la Inspección 
-de Educación de la Comunidad Autónoma de Canarias, aprobado por el Decreto 52/2009, 
+de Educación de la Comunidad Autónoma de Canarias, aprobado por el [Decreto 52/2009](../04_organizacion_escolar_y_funcionamiento/D52_2009_aprueba_reglamento_ordenacion_inspeccion_educacion_comunidad.md), 
 de 12 de mayo, que establece que: “En el marco de la normativa básica vigente y mediante 
 convocatoria pública de la Consejería competente en materia de educación se establecerán 
 las bases, el número de plazas convocadas, las fechas de realización de las pruebas y la 
@@ -347,10 +363,10 @@ Inspectores de Educación en la disposición adicional duodécima, apartado 4, d
 Orgánica 2/2006, de 3 de mayo, de Educación, y en la reglamentación estatal reguladora de 
 la función pública docente. La provisión de estos puestos se hará de conformidad con los 
 principios de igualdad, mérito, capacidad y publicidad.
-Séptimo.- La Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo de las 
-Administraciones Públicas, y la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del 
+Séptimo.- La [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Administrativo de las 
+Administraciones Públicas, y la [Ley 40/2015](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md), de 1 de octubre, de Régimen Jurídico del 
 Sector Público.
-Octavo.- La Ley 2/1987, de 30 de marzo, de la Función Pública Canaria, en cuanto le 
+Octavo.- La [Ley 2/1987](../01_marco_normativo_general_y_organico/L2_1987_funcion_publica_canaria.md), de 30 de marzo, de la Función Pública Canaria, en cuanto le 
 sea de aplicación.
 
 Viernes 29 de mayo de 2026
@@ -360,7 +376,7 @@ Décimo.- Asimismo, y por razones de interés público vinculadas a la necesidad
 garantizar la adecuada planificación, gestión y ejecución del procedimiento selectivo, así 
 como su resolución en un plazo compatible con el inicio y normal desarrollo del próximo 
 curso escolar, procede acordar la aplicación de la tramitación de urgencia al presente 
-procedimiento, al amparo de lo dispuesto en el artículo 33.1 de la Ley 39/2015, de 1 de 
+procedimiento, al amparo de lo dispuesto en el artículo 33.1 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de 
 octubre. Esta medida se justifica, en particular, en la necesidad de que las catorce personas 
 funcionarias que resulten seleccionadas puedan incorporarse al Cuerpo de Inspección 
 de Educación con la antelación suficiente para asumir, desde el inicio del curso escolar, 
@@ -370,10 +386,10 @@ centros docentes. En consecuencia, el plazo ordinario de diez días hábiles par
 reclamaciones y, en su caso, subsanar defectos respecto de la lista provisional de personas 
 admitidas y excluidas se reduce a cinco días hábiles.
 Conforme a los anteriores fundamentos de derecho y en virtud de las competencias 
-atribuidas en el artículo 29.1.m) de la Ley 14/1990, de 26 de julio, de Régimen Jurídico de 
+atribuidas en el artículo 29.1.m) de la [Ley 14/1990](../01_marco_normativo_general_y_organico/L14_1990_regimen_juridico_administraciones_publicas_canarias.md), de 26 de julio, de Régimen Jurídico de 
 las Administraciones Públicas de Canarias, y el artículo 6.i) del Reglamento Orgánico de 
 la Consejería de Educación, Formación Profesional, Actividad Física y Deportes, aprobado 
-por Decreto 84/2024, de 10 de junio,
+por [Decreto 84/2024](../01_marco_normativo_general_y_organico/D84_2024_reglamento_organico_consejeria_educacion_canarias.md), de 10 de junio,
 R E S U E LV O:
 Primero.- Convocar procedimiento selectivo de acceso al Cuerpo de Inspectores de 
 Educación en el ámbito de la Comunidad Autónoma de Canarias, para la cobertura de 
@@ -384,7 +400,7 @@ Decreto 199/2024, de 9 de diciembre, correspondiente a la Oferta de Empleo Púb
 para el año 2024.
 Decreto 193/2025, de 23 de diciembre, correspondiente a la Oferta de Empleo Público 
 para el año 2025.
-Decreto 88/2026, de 18 de mayo, correspondiente a la Oferta de Empleo Público para 
+[Decreto 88/2026](./D88_2026_aprueba_oferta_empleo_publico_personal_docente_no_universitario_2026.md), de 18 de mayo, correspondiente a la Oferta de Empleo Público para 
 el año 2026.
 La distribución de las plazas convocadas es la siguiente: 4 plazas correspondientes a la 
 oferta de 2023, 4 plazas correspondientes a la oferta de 2024, 1 plaza correspondiente a la 
@@ -396,13 +412,13 @@ de selección, contenidos en los anexos de esta Orden.
 
 Viernes 29 de mayo de 2026
 Tercero.- Declarar la aplicación de la tramitación de urgencia al presente procedimiento, 
-de conformidad con lo dispuesto en el artículo 33.1 de la Ley 39/2015, de 1 de octubre, por 
+de conformidad con lo dispuesto en el artículo 33.1 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, por 
 razones de interés público vinculadas a la necesidad de garantizar la adecuada planificación, 
 gestión y resolución del proceso selectivo en plazo compatible con el inicio y normal 
 desarrollo del curso escolar, así como la cobertura efectiva de las plazas convocadas.
 Cuarto.- Ordenar la publicación de la presente Orden y de sus anexos en el Boletín 
 Oficial de Canarias y su correspondiente anuncio en el Boletín Oficial del Estado, conforme 
-a lo previsto en el artículo 16.1 del Real Decreto 68/2026, de 4 de febrero, por el que se 
+a lo previsto en el artículo 16.1 del [Real Decreto 68/2026](../../../estatal/04_organizacion_escolar_y_funcionamiento/RD68_2026_regula_inspeccion_educativa.md), de 4 de febrero, por el que se 
 regula la Inspección Educativa.
 Contra la presente Orden, que pone fin a la vía administrativa, los interesados podrán 
 interponer, en el plazo de un mes, recurso potestativo de reposición ante el Consejero 
@@ -491,7 +507,7 @@ disposiciones que, en su caso, las modifiquen, desarrollen, sustituyan o derogue
 2.1. Requisitos generales:
 a) Tener la nacionalidad española o estar en alguna de las situaciones previstas en el 
 artículo 57 del texto refundido de la Ley del Estatuto Básico del Empleado Público, aprobado 
-por el Real Decreto Legislativo 5/2015, de 30 de octubre, o ser nacional de algún Estado al que 
+por el [Real Decreto Legislativo 5/2015](../../../estatal/01_marco_normativo_general_y_organico/RDL5_2015_aprueba_texto_refundido_ley_estatuto_basico.md), de 30 de octubre, o ser nacional de algún Estado al que 
 sea de aplicación la Directiva 2004/38/CE, del Parlamento Europeo, sobre libre circulación 
 de trabajadores, y el Real Decreto 240/2007, de 16 de febrero, sobre entrada, libre circulación 
 y residencia en España de ciudadanos de los Estados miembros de la Unión Europea y de 
@@ -516,13 +532,13 @@ personal funcionario de carrera, con al menos una antigüedad de ocho años.
 b) Acreditar una experiencia docente de ocho años como personal funcionario de carrera. 
 Se entiende por experiencia docente la desempeñada por el personal docente, en situación 
 administrativa de servicio activo, en el ejercicio de cualquiera de las funciones previstas 
-en el artículo 91 de la Ley Orgánica 2/2006, de 3 de mayo, así como en la realización de 
+en el artículo 91 de la [Ley Orgánica 2/2006](../05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, así como en la realización de 
 funciones propias del personal docente con dispensa de asistencia al puesto de trabajo 
 por representación sindical, en la participación en actividades docentes desarrolladas en 
 servicios y programas educativos y de formación profesional, en la prestación de servicios 
 en puestos de las administraciones educativas reservados para poder ser ocupados por 
 personal docente y en el ejercicio como Inspector o Inspectora accidental en los términos 
-previstos en el artículo 25 del Real Decreto 68/2026, de 4 de febrero, sin perjuicio del 
+previstos en el artículo 25 del [Real Decreto 68/2026](../../../estatal/04_organizacion_escolar_y_funcionamiento/RD68_2026_regula_inspeccion_educativa.md), de 4 de febrero, sin perjuicio del 
 desempeño de cualquier otro servicio docente, establecido por las administraciones 
 educativas en el ámbito de sus competencias.
 
@@ -533,7 +549,7 @@ Marco Europeo de Cualificaciones (EQF) o superior.
 d) Dado que la labor desempeñada por los inspectores y las inspectoras de educación 
 puede conllevar contacto con personas menores de edad, se deberá aportar la certificación 
 negativa del Registro Central de Delincuentes Sexuales y de Trata de Seres Humanos, 
-según lo establecido en los artículos 32 y 57 de la Ley Orgánica 8/2021, de 4 de junio, de 
+según lo establecido en los artículos 32 y 57 de la [Ley Orgánica 8/2021](../../../estatal/07_convivencia_bienestar_y_protocolos/LO8_2021_proteccion_integral_infancia_adolescencia_frente_violencia.md), de 4 de junio, de 
 protección integral a la infancia y la adolescencia frente a la violencia.
 2.3. Requisitos específicos para participar en el procedimiento de acceso por concurso 
 de méritos.
@@ -765,7 +781,7 @@ durante el embarazo o maternidad, así como aislamiento determinado por los serv
 públicos de salud correspondientes.
 5.2. Abstención y recusación.
 Se abstendrán de actuar aquellos miembros que incurran en alguna de las siguientes 
-situaciones previstas en el artículo 23 de la Ley 40/2015, de 1 de octubre, y especialmente 
+situaciones previstas en el artículo 23 de la [Ley 40/2015](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md), de 1 de octubre, y especialmente 
 aquellos miembros que, en los cinco años anteriores a la publicación de la presente Orden, 
 hubiesen realizado tareas de preparación de aspirantes a ingreso en el mismo Cuerpo a que 
 corresponde el Tribunal del que forman parte, debiendo justificarlo a su Presidencia con 
@@ -792,7 +808,7 @@ Viernes 29 de mayo de 2026
 5.3. Responsabilidad y principios que deben regir la actuación del órgano de selección.
 El órgano de selección resolverá todas las dudas que pudieran surgir en la aplicación de 
 estas normas, debiendo ajustarse su actuación a lo dispuesto en el Capítulo II, Sección 3, 
-del Título Preliminar de la Ley 40/2015, de 1 de octubre, a estas bases, así como a las 
+del Título Preliminar de la [Ley 40/2015](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md), de 1 de octubre, a estas bases, así como a las 
 instrucciones que eventualmente sean dictadas por la Dirección General de Personal y 
 Formación del Profesorado para un mejor desarrollo del procedimiento selectivo.
 En el ejercicio de sus funciones, actuará con plena independencia, autonomía funcional, 
@@ -820,7 +836,7 @@ General de Personal y Formación del Profesorado, mediante sorteo público, de e
 funcionarios en activo del Cuerpo de Inspectores de Educación de esta Consejería.
 En la designación de los miembros del Tribunal deberá respetarse el principio de 
 presencia equilibrada de mujeres y hombres, en los términos previstos en el artículo 19.2 
-del Real Decreto 68/2026, de 4 de febrero, y en la Ley Orgánica 3/2007, de 22 de marzo, 
+del [Real Decreto 68/2026](../../../estatal/04_organizacion_escolar_y_funcionamiento/RD68_2026_regula_inspeccion_educativa.md), de 4 de febrero, y en la [Ley Orgánica 3/2007](../../../estatal/07_convivencia_bienestar_y_protocolos/LO3_2007_igualdad_efectiva_mujeres_hombres.md), de 22 de marzo, 
 salvo por razones fundadas y objetivas, debidamente motivadas.
 5.4.1. Incorporación de asesores especialistas y ayudantes.
 El Tribunal podrá proponer la incorporación a sus trabajos de asesores especialistas 
@@ -980,7 +996,7 @@ b) Fase de concurso.
 En esta fase se valorarán la trayectoria profesional de las personas candidatas y sus 
 méritos específicos como docentes, el desempeño de cargos directivos y de coordinación 
 didáctica con evaluación positiva, la pertenencia a alguno de los cuerpos de catedráticos 
-a los que se refiere la Ley Orgánica 2/2006, de 3 de mayo, el ejercicio, en su caso, de la 
+a los que se refiere la [Ley Orgánica 2/2006](../05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, el ejercicio, en su caso, de la 
 función inspectora, así como la preparación científica y didáctica y otros méritos conforme 
 al baremo y las especificaciones que figuran en el Anexo II.
 c) Fase de prácticas.
@@ -996,7 +1012,7 @@ El procedimiento constará de una fase de concurso de méritos que se ajustará 
 dispuesto en la base 9 de esta convocatoria.
 8. Fase de oposición.
 8.1. Desarrollo de esta fase.
-De acuerdo con el artículo 21 del Real Decreto 68/2026, de 4 de febrero, la fase de 
+De acuerdo con el artículo 21 del [Real Decreto 68/2026](../../../estatal/04_organizacion_escolar_y_funcionamiento/RD68_2026_regula_inspeccion_educativa.md), de 4 de febrero, la fase de 
 oposición consistirá en la realización de tres pruebas que tendrán carácter eliminatorio.
 El Tribunal hará pública, al finalizar cada prueba, la lista de aquellas personas aspirantes 
 que la hubieran realizado con sus calificaciones correspondientes y la lista de aquellos que 
@@ -1207,7 +1223,7 @@ carácter informativo, en la web de la Consejería de Educación, Formación Pro
 Actividad Física y Deportes.
 Contra esta Resolución los interesados podrán interponer recurso de alzada ante la 
 Directora General de Personal y Formación del Profesorado, en el plazo de un mes, según 
-lo previsto en los artículos 121 y 122 de la Ley 39/2015, de 1 de octubre, del Procedimiento 
+lo previsto en los artículos 121 y 122 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento 
 Administrativo Común de las Administraciones Públicas.
 En ningún caso el Tribunal podrá declarar que ha superado el procedimiento selectivo 
 un número de funcionarios aspirantes superior al de las plazas asignadas a la modalidad 
@@ -1377,7 +1393,7 @@ septiembre de 2026.
 15. Lista de reserva para el nombramiento de Inspectores e Inspectoras 
 accidentales, de conformidad con la disposición adicional única del Reglamento de 
 Ordenación de la Inspección de Educación de la Comunidad Autónoma de Canarias, 
-aprobado por el Decreto 52/2009, de 12 de mayo.
+aprobado por el [Decreto 52/2009](../04_organizacion_escolar_y_funcionamiento/D52_2009_aprueba_reglamento_ordenacion_inspeccion_educacion_comunidad.md), de 12 de mayo.
 15.1. Conformación de la lista de reserva.
 La lista provisional para la cobertura de vacantes y para las sustituciones, que será 
 única, estará integrada por quienes hayan participado en este procedimiento, teniendo en 
@@ -2251,12 +2267,12 @@ que resulte de esta operación (12 meses o 365 días). Cuando del cómputo del t
 desarrollado resulte un resto inferior a un mes, este se despreciará, no valorándose.
 Segunda.- A los efectos del subapartado 1.1.1 serán computados los servicios que se 
 hubieran prestado en situación de servicios especiales, expresamente declarados como 
-tales en los apartados previstos en el artículo 87 del Real Decreto Legislativo 5/2015, de 
+tales en los apartados previstos en el artículo 87 del [Real Decreto Legislativo 5/2015](../../../estatal/01_marco_normativo_general_y_organico/RDL5_2015_aprueba_texto_refundido_ley_estatuto_basico.md), de 
 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico 
 del Empleado Público, así como las situaciones de idéntica naturaleza establecida por 
 disposiciones anteriores a la citada. Igualmente, serán computados, a estos efectos, los dos 
 primeros años de excedencia por cuidado de familiares declarada de acuerdo con el artículo 
-89.4 del Real Decreto Legislativo 5/2015. No podrán acumularse las puntuaciones cuando 
+89.4 del [Real Decreto Legislativo 5/2015](../../../estatal/01_marco_normativo_general_y_organico/RDL5_2015_aprueba_texto_refundido_ley_estatuto_basico.md). No podrán acumularse las puntuaciones cuando 
 los servicios se hayan prestado simultáneamente en más de un centro docente.
 NOTAS ACLARATORIAS REFERENTES AL APARTADO II “EJERCICIO COMO 
 INSPECTOR ACCIDENTAL”.
@@ -2268,7 +2284,7 @@ siempre que el trabajo se haya desarrollado durante un mínimo de 6 meses.
 NOTAS ACLARATORIAS REFERENTES AL APARTADO III “EJERCICIO DE 
 CARGOS DIRECTIVOS Y DE COORDINACIÓN DIDÁCTICA”.
 Primera.- Se entiende por centros públicos los centros a los que se refiere el Capítulo II 
-del Título IV de la Ley Orgánica 2/2006, de 3 de mayo de Educación, en su redacción 
+del Título IV de la [Ley Orgánica 2/2006](../05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo de Educación, en su redacción 
 actual, integrados en la red pública de centros creados y sostenidos por las Administraciones 
 Educativas, entre las que se encuentran incluidas las Escuelas Oficiales de Idiomas 
 dependientes de estas Administraciones.

@@ -25,15 +25,22 @@ tags:
 - agrupacion_percusion
 - actividades_complementarias
 - comunidad_de_madrid
+fundamentos_derecho:
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-mad-d-52-2021
+- norma_id: norm-mad-l1-1983-gobierno-administracion-comunidad-madrid
+- norma_id: norm-es-l-39-2015
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
 ---
-
 # Decreto 95/2025, de 23 de diciembre, del Consejo de Gobierno, por el que se crea el Programa Educativo de Actividades Artísticas de la Comunidad de Madrid
 
 ## Preámbulo
 
 
 
-El artículo 5 bis de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, señala: “La
+El artículo 5 bis de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, señala: “La
 educación no formal en el marco de una cultura del aprendizaje a lo largo de la vida, com-
 prenderá todas aquellas actividades, medios y ámbitos de educación que se desarrollan fue-
 ra de la educación formal y que se dirigen a personas de cualquier edad, con especial inte-
@@ -67,8 +74,8 @@ y encauzar las capacidades innatas de los ciudadanos de la región hacia una fut
 ción en agrupaciones artísticas de carácter aficionado o hacia el acceso a las enseñanzas ar-
 tísticas regladas y no regladas que se ofertan en el ámbito de la Comunidad de Madrid.
 El contenido de este decreto se adecua a los principios de buena regulación estableci-
-dos en el artículo 129 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo
-Común de las Administraciones Públicas, y en el artículo 2 del Decreto 52/2021, de 24 de
+dos en el artículo 129 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Administrativo
+Común de las Administraciones Públicas, y en el artículo 2 del [Decreto 52/2021](../01_marco_normativo_general_y_organico/D52_2021_procedimiento_elaboracion_disposiciones_normativas_madrid.md), de 24 de
 marzo, del Consejo de Gobierno, por el que se regula y simplifica el procedimiento de ela-
 boración de las disposiciones normativas de carácter general en la Comunidad de Madrid.
 Conforme a los principios de necesidad y eficacia, esta norma responde al interés ge-
@@ -87,7 +94,7 @@ tes de audiencia e información pública, de conformidad con lo dispuesto en los
 VIERNES 26 DE DICIEMBRE DE 2025
 BOCM
 los 60.2 de la Ley 10/2019, de 10 de abril, de Transparencia y de Participación de la Comu-
-nidad de Madrid, y 4.2.d) y 9 del Decreto 52/2021, de 24 de marzo, y, una vez aprobado el
+nidad de Madrid, y 4.2.d) y 9 del [Decreto 52/2021](../01_marco_normativo_general_y_organico/D52_2021_procedimiento_elaboracion_disposiciones_normativas_madrid.md), de 24 de marzo, y, una vez aprobado el
 decreto, se publica en el Portal de Transparencia.
 Este texto se adecua al principio de eficiencia, ya que el diseño del Programa Educa-
 tivo propuesto persigue alcanzar un mayor aprovechamiento de la gestión de los recursos
@@ -109,7 +116,7 @@ lizar el desarrollo legislativo y ejecución de la enseñanza en toda su extensi
 grados, modalidades y especialidades, sin perjuicio de las competencias que en materia
 educativa corresponden al Estado.
 El Consejo de Gobierno es competente para dictar este decreto, de acuerdo con lo es-
-tablecido en los artículos 18 y 21.g) de la Ley 1/1983, de 13 de diciembre, del Gobierno y
+tablecido en los artículos 18 y 21.g) de la [Ley 1/1983](../01_marco_normativo_general_y_organico/L1_1983_gobierno_administracion_comunidad_madrid.md), de 13 de diciembre, del Gobierno y
 Administración de la Comunidad de Madrid.
 En su virtud, a propuesta del Consejero de Educación, Ciencia y Universidades, oída
 la Comisión Jurídica Asesora, el Consejo de Gobierno, previa deliberación en su reunión

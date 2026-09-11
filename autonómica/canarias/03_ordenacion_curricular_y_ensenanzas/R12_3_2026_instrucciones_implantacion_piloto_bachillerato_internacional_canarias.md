@@ -90,8 +90,19 @@ relaciones:
   - norma_id: norm-es-2021-20113
   - norma_id: norm-es-2010-12201
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-060-1011.pdf
+fundamentos_derecho:
+- norma_id: norm-can-d-84-2024
+- norma_id: norm-can-l-6-2014
+- norma_id: norm-can-d-30-2023
+- norma_id: norm-can-o-2016-09-21-acreditacion-idiomas
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-can-d-25-2018
+- norma_id: norm-es-l-39-2015
+- norma_id: norm-es-l-40-2015
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
 ---
-
 # Resolución de la Dirección General de Ordenación de las Enseñanzas, Inclusión e Innovación, por la que se dictan instrucciones para regular la implantación, con carácter de experiencia piloto, del Programa del Diploma del Bachillerato Internacional en centros educativos públicos de la Comunidad Autónoma de Canarias, durante el curso 2026-2027. Presentación de solicitudes de participación del alumnado por vía telemática: del 20 de abril al 11 de mayo (BOC nº 60, de 27 de marzo).
 
 ## Preámbulo
@@ -115,7 +126,7 @@ Segundo.- La [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_
 Tercero.- La [Ley 6/2014](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md), de 25 de julio, Canaria de Educación, establece en su artículo 1 como objetivo hacer efectivo el derecho a una educación de calidad, inclusiva. e integradora, garantizando la equidad y la excelencia. En consecuencia, el impulso de programas educativos de referencia internacional se alinea con dichos fines, en tanto amplían oportunidades formativas en la red pública en condiciones de igualdad.
 Cuarto.- Asimismo, el artículo 3 de la citada Ley, relativo a los principios rectores del sistema educativo canario, recoge, entre otros, la garantía de la equidad y la excelencia, la igualdad de oportunidades y la eficacia de los centros para atender a las necesidades del alumnado y alcanzar los mejores resultados de aprendizaje, fundamentando la adopción de medidas que refuercen la calidad y el rendimiento del sistema mediante procedimientos objetivos, transparentes y coordinados con el régimen ordinario.
 Quinto.- Igualmente, el artículo 5 de la [Ley 6/2014](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md), en su letra d), establece como finalidad impulsar la convergencia del sistema educativo canario con los mejores sistemas educativos estatales y europeos, superando debilidades y potenciando fortalezas. En este marco, el pilotaje del Programa del Diploma del Bachillerato Internacional se configura como una actuación alineada con la convergencia y la mejora continua del sistema educativo canario.
-Sexto.- El Decreto 30/2023, de 16 de marzo, por el que se establece la ordenación y el currículo de la Educación Secundaria Obligatoria y del Bachillerato en la Comunidad Autónoma de Canarias, regula el marco autonómico de la etapa de Bachillerato. En consecuencia, el pilotaje del Programa del Diploma se encuadra en dicha etapa y debe respetar la ordenación vigente en lo que resulte aplicable, articulándose de manera coherente con ella.
+Sexto.- El [Decreto 30/2023](./D30_2023_establece_ordenacion_curriculo_educacion_secundaria_obligatoria_bachillerato_canarias.md), de 16 de marzo, por el que se establece la ordenación y el currículo de la Educación Secundaria Obligatoria y del Bachillerato en la Comunidad Autónoma de Canarias, regula el marco autonómico de la etapa de Bachillerato. En consecuencia, el pilotaje del Programa del Diploma se encuadra en dicha etapa y debe respetar la ordenación vigente en lo que resulte aplicable, articulándose de manera coherente con ella.
 Séptimo.- En particular, el artículo 37 l.
 
 citado Decreto dispone que la Consejería competente en materia de educación ampliará, de manera progresiva, la oferta de plazas en las diferentes modalidades y vías del Bachillerato, ofreciendo cobertura normativa para promover, de forma gradual y planificada, nuevas opciones formativas en Bachillerato, como el pilotaje del Programa del Diploma, en el marco de la red pública.

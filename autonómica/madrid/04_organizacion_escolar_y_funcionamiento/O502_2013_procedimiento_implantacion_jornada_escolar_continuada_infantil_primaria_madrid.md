@@ -30,8 +30,11 @@ tags:
 relaciones:
   desarrolla:
   - norma_id: norm-mad-d94-2025
+fundamentos_derecho:
+- norma_id: norm-mad-l12-1999-creacion-consejo-escolar-comunidad-madrid
+- norma_id: norm-mad-l1-1983-gobierno-administracion-comunidad-madrid
+- norma_id: norm-mad-o11994-2012-regulacion-jornada-escolar-centros-infantil-primaria-madrid
 ---
-
 ## Preámbulo
 
 I. COMUNIDAD DE MADRID
@@ -41,7 +44,7 @@ Consejería de Educación, Juventud y Deporte
 guir para solicitar el cambio de jornada escolar en los centros públicos que im-
 parten segundo ciclo de Educación Infantil y Educación Primaria en la Comu-
 nidad de Madrid.
-La Orden 11994/2012, de 21 de diciembre, de la Consejería de Educación, Juventud y
+La [Orden 11994/2012](../02_gestion_y_administracion_centros/O11994_2012_regulacion_jornada_escolar_centros_infantil_primaria_madrid.md), de 21 de diciembre, de la Consejería de Educación, Juventud y
 Deporte, por la que se regula la jornada escolar en los centros docentes que imparten segun-
 do ciclo de Educación Infantil y Educación Primaria en la Comunidad de Madrid, dispone
 en su artículo 6 que dicha Consejería establecerá el procedimiento a seguir por parte de los
@@ -52,11 +55,11 @@ los aspectos antedichos, de acuerdo con el Decreto 126/2012, de 25 de octubre, d
 jo de Gobierno, por el que se establece la estructura orgánica de la Consejería de Educa-
 ción, Juventud y Deporte.
 En el proceso de elaboración de esta Orden, ha emitido dictamen el Consejo Escolar
-de la Comunidad de Madrid, de acuerdo con el artículo 2.1.b) de la Ley 12/1999, de 29 de
+de la Comunidad de Madrid, de acuerdo con el artículo 2.1.b) de la [Ley 12/1999](../01_marco_normativo_general_y_organico/L12_1999_creacion_consejo_escolar_comunidad_madrid.md), de 29 de
 abril, de creación del Consejo Escolar de la Comunidad de Madrid, modificado por el ar-
 tículo 29 de la Ley 9/2010, de 23 de diciembre.
 En su virtud, de conformidad con el Decreto 126/2012, de 25 de octubre, y el artícu-
-lo 41.d) de la Ley 1/1983, de 13 de diciembre, del Gobierno y la Administración de la Co-
+lo 41.d) de la [Ley 1/1983](../01_marco_normativo_general_y_organico/L1_1983_gobierno_administracion_comunidad_madrid.md), de 13 de diciembre, del Gobierno y la Administración de la Co-
 munidad de Madrid.
 DISPONGO
 #### Artículo 1
@@ -164,7 +167,7 @@ e) Acta de escrutinio de la votación efectuada por las familias del centro.
 f) Acta de la sesión del Consejo Escolar en la que se aprobó definitivamente la pro-
 puesta de jornada escolar.
 g) Propuesta de jornada para el curso siguiente, con su distribución horaria, cuyo mo-
-delo se ajustará en su contenido y diseño al Anexo I de la Orden 11994/2012, de 21
+delo se ajustará en su contenido y diseño al Anexo I de la [Orden 11994/2012](../02_gestion_y_administracion_centros/O11994_2012_regulacion_jornada_escolar_centros_infantil_primaria_madrid.md), de 21
 de diciembre, de la Consejería de Educación, Juventud y Deporte, por la que se re-
 gula la jornada escolar en los centros docentes que imparten segundo ciclo de Edu-
 cación Infantil y Educación Primaria en la Comunidad de Madrid.

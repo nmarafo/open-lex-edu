@@ -28,13 +28,25 @@ tags:
 - artes_plasticas_y_diseno
 - ensenanzas_deportivas
 - comunidad_de_madrid
+fundamentos_derecho:
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-mad-l1-1983-gobierno-administracion-comunidad-madrid
+- norma_id: norm-mad-d-63-2019
+- norma_id: norm-es-l-39-2015
+- norma_id: norm-es-l-40-2015
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-2001-7022
+- norma_id: norm-es-lo-3-2018
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2007-19326
+- norma_id: norm-es-2010-12201
+- norma_id: norm-es-2007-10487
 ---
-
 # Decreto 187/2021, de 21 de julio, del Consejo de Gobierno, por el que se regulan las pruebas de acceso a ciclos formativos de formación profesional y a las enseñanzas profesionales de artes plásticas y diseño y la prueba sustitutiva de los requisitos académicos para el acceso a las enseñanzas deportivas de régimen especial y a las formaciones deportivas en período transitorio en la Comunidad de Madrid
 
 ## Preámbulo
 
-El artículo 3 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, establece que el
+El artículo 3 de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, establece que el
 sistema educativo se organiza en etapas, ciclos, grados, cursos y niveles de enseñanza de
 forma que asegure la transición entre los mismos y, en su caso, dentro de cada uno de ellos.
 Para garantizar dicha transición entre etapas de las diferentes enseñanzas la legislación pre-
@@ -43,7 +55,7 @@ el acceso universal y permanente a la educación, facilitando una oferta de apre
 xibles que permitan adquirir las competencias básicas y, en su caso, las correspondientes ti-
 tulaciones, a aquellos jóvenes y adultos que abandonaron el sistema educativo sin ninguna
 titulación.
-En este sentido, la Ley Orgánica 2/2006, de 3 de mayo, contempla la posibilidad de ac-
+En este sentido, la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, contempla la posibilidad de ac-
 ceder a las enseñanzas de formación profesional, a las enseñanzas profesionales de artes
 plásticas y diseño y a las enseñanzas deportivas de régimen especial, tanto de grado medio
 como de grado superior, mediante la superación de una prueba de acceso a aquellas perso-
@@ -61,11 +73,11 @@ de las pruebas de acceso y los referentes de formación necesarios para unificar
 gencia en el ámbito nacional, en cuyo territorio tendrá validez una prueba de acceso supera-
 da en el ámbito de cualquier Administración educativa. Así se recoge el artículo 21 del Real
 Decreto 1147/2011, de 29 de julio, por el que se establece la ordenación general de la forma-
-ción profesional del sistema educativo, en el artículo 32 del Real Decreto 1363/2007, de 24
+ción profesional del sistema educativo, en el artículo 32 del [Real Decreto 1363/2007](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1363_2007_establece_ordenacion_general_ensenanzas_deportivas_regimen.md), de 24
 de octubre, por el que se establece la ordenación general de las enseñanzas deportivas de ré-
-gimen especial, y en el artículo 17 del Real Decreto 596/2007, de 4 de mayo, por el que se
+gimen especial, y en el artículo 17 del [Real Decreto 596/2007](../../../estatal/05_alumnado_y_servicios_escolares/RD596_2007_establece_ordenacion_general_ensenanzas_profesionales_artes.md), de 4 de mayo, por el que se
 establece la ordenación general de las enseñanzas profesionales de artes plásticas y diseño.
-El artículo 41 de la Ley Orgánica 2/2006, de 3 de mayo, contempla la posibilidad de ac-
+El artículo 41 de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, contempla la posibilidad de ac-
 ceder a las enseñanzas de formación profesional, tanto de grado medio como de grado supe-
 rior, mediante la superación de una prueba de acceso. Dicha prueba deberá acreditar los co-
 nocimientos y habilidades suficientes para cursar con aprovechamiento los ciclos formativos
@@ -73,7 +85,7 @@ de grado medio y superior de acuerdo con los criterios que establezca el Gobiern
 ba tiene su desarrollo en los artículos del 15 al 21 del Real Decreto 1147/2011, de 29 de ju-
 lio, regulando, entre otros; el marco estructural, condiciones de inscripción y efectos.
 En la Comunidad de Madrid, el marco normativo para el acceso a las enseñanzas de
-formación profesional viene dado por el Decreto 63/2019, de 16 de julio, del Consejo de
+formación profesional viene dado por el [Decreto 63/2019](./D63_2019_ordenacion_organizacion_formacion_profesional_madrid.md), de 16 de julio, del Consejo de
 Gobierno, por el que se regula la ordenación y organización de la formación profesional en
 la Comunidad de Madrid, que en su artículo 34 fija la finalidad de las pruebas de acceso en
 relación a que los alumnos acrediten los conocimientos y habilidades para cursar con apro-
@@ -97,33 +109,33 @@ nos puedan optar entre realizar un ejercicio de Matemáticas o de Historia de Es
 algunos casos, para adecuar los contenidos de la prueba a la especificidad de determinados
 ciclos formativos. La parte específica consta de dos ejercicios que se agrupan en tres opcio-
 nes diferentes por su vinculación a determinadas familias profesionales o ciclos formativos.
-Por otra parte, el artículo 52 de la Ley Orgánica 2/2006, de 3 de mayo, también permi-
+Por otra parte, el artículo 52 de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, también permi-
 te acceder a los ciclos formativos de grado medio y superior de enseñanzas profesionales
 de artes plásticas y diseño a aquellos aspirantes que, careciendo de los requisitos académi-
 cos establecidos, superen una prueba de acceso. El mismo artículo prevé, además, que tan-
 to los interesados que posean requisitos académicos de acceso a estas enseñanzas como los
 que carezcan de ellos deban superar una prueba específica que permita demostrar las apti-
 tudes necesarias para cursar con aprovechamiento las mismas. Esta prueba tiene su desa-
-rrollo en el Real Decreto 596/2007, de 4 de mayo, en la que se fijan dos partes para la prue-
+rrollo en el [Real Decreto 596/2007](../../../estatal/05_alumnado_y_servicios_escolares/RD596_2007_establece_ordenacion_general_ensenanzas_profesionales_artes.md), de 4 de mayo, en la que se fijan dos partes para la prue-
 ba de acceso; una parte general para aquellos alumnos que no cumplan requisitos
 académicos y que versará sobre competencias de la Educación Secundaria Obligatoria o, en
 su caso, de Bachillerato, según se trate de acreditar los requisitos para acceder a ciclos for-
 mativos de grado medio o grado superior respectivamente, y una parte específica que debe-
 rán hacer todos aquellos que quieran acceder para demostrar las aptitudes y conocimientos
 artísticos y seguir con aprovechamiento los ciclos formativos de artes plásticas y diseño co-
-rrespondientes. Asimismo, el artículo 14.4 del Real Decreto 596/2007, de 4 de mayo, esta-
+rrespondientes. Asimismo, el artículo 14.4 del [Real Decreto 596/2007](../../../estatal/05_alumnado_y_servicios_escolares/RD596_2007_establece_ordenacion_general_ensenanzas_profesionales_artes.md), de 4 de mayo, esta-
 blece que corresponderá a las Administraciones educativas regular estas pruebas.
 En la Comunidad de Madrid, estas pruebas de acceso a los ciclos formativos de grado
 medio y de grado superior de artes plásticas y diseño se regulan por la Orden 1669/2009,
 de 16 de abril, de la Consejería de Educación, por la que se regula para la Comunidad de
 Madrid el acceso a los ciclos formativos de grado medio y de grado superior de las ense-
 ñanzas profesionales de artes plásticas y diseño, norma que se deroga con el presente de-
-creto, y que recoge lo que establece el Real Decreto 596/2007, de 4 de mayo.
-El artículo 64 de la Ley Orgánica 2/2006, de 3 de mayo, dispone que podrán acceder a
+creto, y que recoge lo que establece el [Real Decreto 596/2007](../../../estatal/05_alumnado_y_servicios_escolares/RD596_2007_establece_ordenacion_general_ensenanzas_profesionales_artes.md), de 4 de mayo.
+El artículo 64 de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, dispone que podrán acceder a
 los grados medio y superior de enseñanzas deportivas aquellos aspirantes que, careciendo de
 los títulos o certificados indicados en el apartado 2 del mismo artículo, superen una prueba de
 acceso regulada por las Administraciones educativas, de acuerdo con los criterios que esta-
-blezca el Gobierno. Esta prueba tiene su desarrollo en el Real Decreto 1363/2007, de 24 de
+blezca el Gobierno. Esta prueba tiene su desarrollo en el [Real Decreto 1363/2007](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1363_2007_establece_ordenacion_general_ensenanzas_deportivas_regimen.md), de 24 de
 octubre, y su marco se fija en el artículo 31 para quienes no cumplan el requisito académico
 y demuestren sus conocimientos referentes a la Educación Secundaria Obligatoria o, en su
 caso, al Bachillerato y puedan seguir con aprovechamiento las enseñanzas deportivas. Ade-
@@ -151,9 +163,9 @@ rán, al menos, una convocatoria anual.
 Por otro lado, resulta necesaria una revisión de las disposiciones que regulan en la Co-
 munidad de Madrid los procedimientos para realizar las pruebas de acceso debido a la evo-
 lución normativa que ha introducido modificaciones; en los procedimientos administrativos
-y funcionamiento de los órganos colegiados, que deben adecuarse a la Ley 39/2015, de 1 de
+y funcionamiento de los órganos colegiados, que deben adecuarse a la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de
 octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, y a la
-Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, así como en la in-
+[Ley 40/2015](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md), de 1 de octubre, de Régimen Jurídico del Sector Público, así como en la in-
 corporación de medidas para la adaptación de las pruebas a aquellas personas que presen-
 tan alguna dificultad para el acceso a la realización de estas pruebas y en el hecho de que
 ya no se exija a las personas con el título de Técnico en formación profesional la supera-
@@ -173,21 +185,21 @@ común de las mismas para acceder a cualquiera de las tres enseñanzas.
 Este decreto se dicta para regular, en la Comunidad de Madrid, las pruebas que permi-
 ten acceder a ciclos formativos de grado medio y superior de formación profesional y de ar-
 tes plásticas y diseño conforme a lo dispuesto en el Real Decreto 1147/2011, de 29 de julio
-y en el Real Decreto 596/2007, de 4 de mayo.
+y en el [Real Decreto 596/2007](../../../estatal/05_alumnado_y_servicios_escolares/RD596_2007_establece_ordenacion_general_ensenanzas_profesionales_artes.md), de 4 de mayo.
 Asimismo, la presente norma regula la prueba sustitutiva de los requisitos académicos
 para el acceso a grado medio y superior de enseñanzas deportivas y a las formaciones de-
-portivas en período transitorio de nivel I y III, según dispone el Real Decreto 1363/2007,
+portivas en período transitorio de nivel I y III, según dispone el [Real Decreto 1363/2007](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1363_2007_establece_ordenacion_general_ensenanzas_deportivas_regimen.md),
 de 24 de octubre. No obstante, cualquier persona interesada en acceder a las mismas debe-
 rá realizar además una prueba específica de acceso prevista en la normativa correspondien-
 te, la cual no es objeto de regulación en la presente norma.
 El presente decreto cumple con los principios de buena regulación que recoge el ar-
-tículo 129 de la Ley 39/2015, de 1 de octubre, y se ajusta a las exigencias del principio de ne-
+tículo 129 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, y se ajusta a las exigencias del principio de ne-
 cesidad y eficacia, puesto que regula los procedimientos que permitan llevar a cabo las prue-
 bas de acceso a estas enseñanzas. El presente decreto se dicta conforme al principio de
 proporcionalidad puesto que recoge todos los aspectos imprescindibles para el adecuado de-
 sarrollo de las pruebas de acceso referidas y no se extralimita en sus disposiciones respecto a
-lo establecido en el Real Decreto 1147/2011, de 29 de julio, en el Real Decreto 596/2007, de 4
-de mayo, en el Real Decreto 1363/2007, de 24 de octubre, y en el Decreto 63/2019, de 16 de
+lo establecido en el Real Decreto 1147/2011, de 29 de julio, en el [Real Decreto 596/2007](../../../estatal/05_alumnado_y_servicios_escolares/RD596_2007_establece_ordenacion_general_ensenanzas_profesionales_artes.md), de 4
+de mayo, en el [Real Decreto 1363/2007](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1363_2007_establece_ordenacion_general_ensenanzas_deportivas_regimen.md), de 24 de octubre, y en el [Decreto 63/2019](./D63_2019_ordenacion_organizacion_formacion_profesional_madrid.md), de 16 de
 julio. El cumplimiento de estos principios contribuye a lograr un ordenamiento autonómi-
 co sólido y coherente en materia de ordenación académica que garantiza el principio de se-
 guridad jurídica. Asimismo, se cumple con el principio de eficiencia, por un lado, al evitar
@@ -210,7 +222,7 @@ Abogacía General de la Comunidad de Madrid.
 MARTES 27 DE JULIO DE 2021
 BOCM
 El Consejo de Gobierno de la Comunidad de Madrid es competente para dictar el pre-
-sente decreto, de acuerdo con lo establecido en el artículo 21.g) de la Ley 1/1983, de 13 de
+sente decreto, de acuerdo con lo establecido en el artículo 21.g) de la [Ley 1/1983](../01_marco_normativo_general_y_organico/L1_1983_gobierno_administracion_comunidad_madrid.md), de 13 de
 diciembre, de Gobierno y Administración de la Comunidad de Madrid.
 En virtud de lo anterior, a propuesta del consejero de Educación, Universidades, Cien-
 cia y Portavoz del Gobierno, de acuerdo con la Comisión Jurídica Asesora de la Comuni-
@@ -253,10 +265,10 @@ La prueba común de acceso a ciclos formativos de grado medio se organizará en
 dos vías, de tal forma que se entenderá que dicha prueba corresponderá:
 1.o Por la vía de enseñanzas de formación profesional, a la prueba de acceso a los
 ciclos formativos de grado medio de formación profesional a la que alude el
-#### artículo 41.2 c) de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, el ar-
+#### artículo 41.2 c) de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, el ar-
 tículo 15 del Real Decreto 1147/2011, de 29 de julio, por el que se establece
 la ordenación general de la formación profesional del sistema educativo y el
-#### artículo 34 del Decreto 63/2019, de 16 de julio, del Consejo de Gobierno, por
+#### artículo 34 del [Decreto 63/2019](./D63_2019_ordenacion_organizacion_formacion_profesional_madrid.md), de 16 de julio, del Consejo de Gobierno, por
 el que se regula la ordenación y la organización de la formación profesional
 en la Comunidad de Madrid.
 Asimismo, en virtud de lo determinado en el artículo 31.2 del Real Decre-
@@ -266,9 +278,9 @@ prueba de acceso a la formación profesional de grado medio podrá sustituir a
 la prueba de acceso al mismo grado de las enseñanzas deportivas, en esta vía
 se entenderá incluida la prueba sustitutiva de los requisitos académicos para
 el acceso a las enseñanzas deportivas de grado medio a las que alude el artícu-
-lo 64.2 de la Ley Orgánica 2/2006, de 3 de mayo, y a las formaciones depor-
+lo 64.2 de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, y a las formaciones depor-
 tivas en período transitorio de nivel I según la disposición transitoria primera
-del Real Decreto 1363/2007, de 24 de octubre.
+del [Real Decreto 1363/2007](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1363_2007_establece_ordenacion_general_ensenanzas_deportivas_regimen.md), de 24 de octubre.
 
 MARTES 27 DE JULIO DE 2021
 BOCM
@@ -278,47 +290,47 @@ profesionales de artes plásticas y diseño, para quienes no reúnen los requisi
 tos académicos para el acceso, a la que alude el artículo 16.3.a) del Real De-
 creto 596/2007, de 4 de mayo, por el que se establece la ordenación general
 de las enseñanzas profesionales de artes plásticas y diseño, en virtud de lo es-
-tablecido en el artículo 52.3 de la Ley Orgánica 2/2006, de 3 de mayo.
+tablecido en el artículo 52.3 de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo.
 b)
 La prueba común de acceso a ciclos formativos de grado superior se organizará en
 tres vías, de tal forma que se entenderá que dicha prueba corresponderá:
 1.o Por la vía de enseñanzas de formación profesional, a la parte común de la prueba
 de acceso a los ciclos formativos de grado superior de formación profesional a
 la que aluden los artículos 18 y 20 del Real Decreto 1147/2011, de 29 de julio,
-en virtud de lo establecido en el artículo 41.3.d) de la Ley Orgánica 2/2006,
-de 3 de mayo, así como el artículo 34 del Decreto 63/2019, de 16 de julio.
+en virtud de lo establecido en el artículo 41.3.d) de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md),
+de 3 de mayo, así como el artículo 34 del [Decreto 63/2019](./D63_2019_ordenacion_organizacion_formacion_profesional_madrid.md), de 16 de julio.
 2.o Por la vía de enseñanzas de artes plásticas y diseño, a la parte general de la
 prueba de acceso a los ciclos formativos de grado superior de las enseñanzas
 profesionales de artes plásticas y diseño a que se refiere el artículo 16.3.a) del
-Real Decreto 596/2007, de 4 de mayo, para quienes no reúnan los requisitos
+[Real Decreto 596/2007](../../../estatal/05_alumnado_y_servicios_escolares/RD596_2007_establece_ordenacion_general_ensenanzas_profesionales_artes.md), de 4 de mayo, para quienes no reúnan los requisitos
 académicos para el acceso a los mismos, en virtud de lo establecido en el ar-
-tículo 52.3 de la Ley Orgánica 2/2006, de 3 de mayo.
+tículo 52.3 de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo.
 3.o Por la vía de enseñanzas deportivas, a la prueba sustitutiva de los requisitos
 académicos para el acceso a las enseñanzas deportivas de grado superior a que
-se refiere el artículo 64.2 de la Ley Orgánica 2/2006, de 3 de mayo, y de las
+se refiere el artículo 64.2 de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, y de las
 formaciones deportivas en período transitorio de nivel III en virtud de la dis-
-posición transitoria primera del Real Decreto 1363/2007, de 24 de octubre.
+posición transitoria primera del [Real Decreto 1363/2007](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1363_2007_establece_ordenacion_general_ensenanzas_deportivas_regimen.md), de 24 de octubre.
 c)
 La parte específica de la prueba de acceso a ciclos formativos de grado superior de
 formación profesional alude a la prueba prevista en el artículo 20.2 del Real Decre-
 to 1147/2011, de 29 de julio, en virtud de lo dispuesto en el artículo 41.3 d) de la Ley
-Orgánica 2/2006, de 3 de mayo, así como el artículo 34 del Decreto 63/2019, de 16
+Orgánica 2/2006, de 3 de mayo, así como el artículo 34 del [Decreto 63/2019](./D63_2019_ordenacion_organizacion_formacion_profesional_madrid.md), de 16
 de julio.
 d)
 La prueba o parte específica de la prueba de acceso a ciclos formativos de grado
 medio de artes plásticas y diseño alude a la prueba específica prevista en el artícu-
-lo 14.3 del Real Decreto 596/2007, de 4 de mayo, para quienes reúnen los requi-
+lo 14.3 del [Real Decreto 596/2007](../../../estatal/05_alumnado_y_servicios_escolares/RD596_2007_establece_ordenacion_general_ensenanzas_profesionales_artes.md), de 4 de mayo, para quienes reúnen los requi-
 sitos académicos y a la parte específica de la prueba de acceso prevista en el ar-
-tículo 16.3.b) del Real Decreto 596/2007, de 4 de mayo, para quienes no reúnen
+tículo 16.3.b) del [Real Decreto 596/2007](../../../estatal/05_alumnado_y_servicios_escolares/RD596_2007_establece_ordenacion_general_ensenanzas_profesionales_artes.md), de 4 de mayo, para quienes no reúnen
 los requisitos académicos, en virtud de lo dispuesto en el artículo 52.1 de la Ley
 Orgánica 2/2006, de 3 de mayo. Tanto la prueba específica como la parte especí-
 fica de la prueba de acceso coinciden en contenidos y estructura.
 e)
 La prueba o parte específica de la prueba de acceso a ciclos formativos de grado
 superior de artes plásticas y diseño alude a la prueba específica prevista en el ar-
-tículo 14.3 del Real Decreto 596/2007, de 4 de mayo para quienes reúnen los re-
+tículo 14.3 del [Real Decreto 596/2007](../../../estatal/05_alumnado_y_servicios_escolares/RD596_2007_establece_ordenacion_general_ensenanzas_profesionales_artes.md), de 4 de mayo para quienes reúnen los re-
 quisitos académicos y a la parte específica de la prueba de acceso prevista en el
-#### artículo 16.3.b) del Real Decreto 596/2007, de 4 de mayo, para quienes no reúnen
+#### artículo 16.3.b) del [Real Decreto 596/2007](../../../estatal/05_alumnado_y_servicios_escolares/RD596_2007_establece_ordenacion_general_ensenanzas_profesionales_artes.md), de 4 de mayo, para quienes no reúnen
 los requisitos académicos, en virtud de lo dispuesto en el artículo 52.1 de la Ley
 Orgánica 2/2006, de 3 de mayo. Tanto la prueba específica como la parte especí-
 fica de la prueba de acceso coinciden en contenidos y estructura.
@@ -453,7 +465,7 @@ se requiera en cada caso.
 La presentación de solicitudes podrá efectuarse:
 a)
 Preferentemente, de forma telemática, mediante tramitación electrónica, en los re-
-gistros electrónicos previstos en el artículo 16.4.a) de la Ley 39/2015, de 1 de oc-
+gistros electrónicos previstos en el artículo 16.4.a) de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de oc-
 tubre, del Procedimiento Administrativo Común de las Administraciones Públi-
 cas, para cuya presentación se deberá disponer de uno de los certificados
 electrónicos reconocidos o cualificados de firma electrónica, que sean operativos
@@ -464,7 +476,7 @@ condiciones que se establezcan específicamente para cada tipo de firma.
 b)
 De forma presencial, en la secretaría de los centros públicos que indique la convocato-
 ria o en cualquiera de los lugares previstos en el artículo 16.4 apartados b), c) y d) de
-la Ley 39/2015, de 1 de octubre.
+la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre.
 Si la solicitud se presenta en la secretaría del centro público indicado en la convocato-
 ria, esta entregará al solicitante una copia fechada y sellada de la solicitud presentada.
 Si la solicitud se presenta en una oficina de Correos, deberá llevarse en sobre
@@ -518,7 +530,7 @@ que la persona interesada se oponga de forma expresa a la consulta de los datos 
 en dicha documentación o, excepcionalmente, no fuera posible recabar la misma electróni-
 camente a través de las redes corporativas o de consulta a las plataformas de intermediación
 de datos u otros sistemas electrónicos habilitados al efecto, de acuerdo con lo establecido
-en el artículo 28.3 de la Ley 39/2015, de 1 de octubre.
+en el artículo 28.3 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre.
 10.
 La persona interesada podrá desistir de su solicitud de inscripción a las pruebas
 reguladas en el presente decreto mediante escrito dirigido a la dirección del centro donde
@@ -532,7 +544,7 @@ tor de las solicitudes comprobará que cada participante reúne los requisitos n
 para concurrir a las pruebas y notificará la admisión o, en su caso, la exclusión provisio-
 nal con indicación de la causa o causas de la misma, sin perjuicio de los requerimientos
 previos de subsanación y mejora que pudieran efectuarse, de conformidad con el artícu-
-lo 68 de la Ley 39/2015, de 1 de octubre.
+lo 68 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre.
 2.
 Efectuada la notificación a la que se refiere el apartado anterior, las personas in-
 teresadas podrán presentar alegaciones por escrito ante la dirección del centro receptor de
@@ -549,9 +561,9 @@ resadas podrán interponer recurso de alzada en los términos que describe los a
 
 MARTES 27 DE JULIO DE 2021
 BOCM
-y 122 de la Ley 39/2015, de 1 de octubre, ante el titular de la dirección de área territorial a
+y 122 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, ante el titular de la dirección de área territorial a
 la que este adscrito el centro receptor de las solicitudes en cualquiera de los lugares a los
-que se refiere el artículo 16.4 de la Ley 39/2015, de 1 de octubre. La resolución del recur-
+que se refiere el artículo 16.4 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre. La resolución del recur-
 so de alzada, que será motivada, pondrá fin a la vía administrativa.
 #### Artículo 9
 Efectos y validez de la superación de las pruebas comunes de acceso
@@ -774,7 +786,7 @@ En todos los casos se nombrarán miembros suplentes de las comisiones de evaluac
 Funciones de las comisiones de evaluación
 1.
 Las comisiones de evaluación funcionarán como órganos colegiados y actuarán
-conforme a lo establecido en la sección 3ª del capítulo II de la Ley 40/2015, de 1 de octu-
+conforme a lo establecido en la sección 3ª del capítulo II de la [Ley 40/2015](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md), de 1 de octu-
 bre, de Régimen Jurídico del Sector Público, sin perjuicio de las peculiaridades organizati-
 vas que se determinan en el presente decreto.
 2.
@@ -871,7 +883,7 @@ menos, a un año a jornada completa.
 3.o Quienes acrediten la superación de un curso de formación modular dirigido a
 personas adultas con experiencia laboral, que no reúnan las condiciones para
 el acceso a los ciclos formativos de grado medio de formación profesional, a
-los que se refiere el artículo 19.2 del Decreto 63/2019, de 16 de julio, del Con-
+los que se refiere el artículo 19.2 del [Decreto 63/2019](./D63_2019_ordenacion_organizacion_formacion_profesional_madrid.md), de 16 de julio, del Con-
 sejo de Gobierno, por el que se regula la ordenación y organización de la for-
 mación profesional en la Comunidad de Madrid.
 4.o Quienes acrediten la superación de las materias Matemáticas orientadas a las
@@ -1128,7 +1140,7 @@ peración una puntuación igual o superior a cinco.
 4.
 La superación de esta prueba por la vía de enseñanzas de artes plásticas y diseño
 tendrá validez en todo el territorio nacional, de conformidad con lo establecido en el artícu-
-lo 17.3 del Real Decreto 596/2007, de 4 de mayo.
+lo 17.3 del [Real Decreto 596/2007](../../../estatal/05_alumnado_y_servicios_escolares/RD596_2007_establece_ordenacion_general_ensenanzas_profesionales_artes.md), de 4 de mayo.
 5.
 La calificación obtenida en esta prueba, por la vía de enseñanzas deportivas, será
 tenida en cuenta para el cálculo de la calificación final de la prueba sustitutiva de los requi-
@@ -1146,7 +1158,7 @@ nivel III, siendo preciso para su superación una puntuación igual o superior a
 6.
 La superación de esta prueba por la vía de enseñanzas deportivas, en los términos
 recogidos en el apartado anterior, tendrá validez en todo el territorio nacional, de conformi-
-dad con lo establecido en el artículo 32.1 del Real Decreto 1363/2007, de 24 de octubre.
+dad con lo establecido en el artículo 32.1 del [Real Decreto 1363/2007](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1363_2007_establece_ordenacion_general_ensenanzas_deportivas_regimen.md), de 24 de octubre.
 #### Artículo 26
 Acreditación
 El secretario del centro donde se haya realizado la prueba común de acceso a ciclos
@@ -1240,7 +1252,7 @@ e)
 Quienes acrediten la superación de un curso de formación modular dirigido a per-
 sonas adultas con experiencia laboral, que no reúnan las condiciones para el acce-
 so a los ciclos formativos de grado superior de formación profesional a los que se
-refiere el artículo 19.2 del Decreto 63/2019, de 16 de julio, que incluya una cuali-
+refiere el artículo 19.2 del [Decreto 63/2019](./D63_2019_ordenacion_organizacion_formacion_profesional_madrid.md), de 16 de julio, que incluya una cuali-
 ficación profesional de nivel 2 o superior perteneciente a alguna de las familias
 profesionales vinculadas con la opción elegida según el anexo VIII.
 
@@ -1609,7 +1621,7 @@ La superación de la prueba de acceso a las enseñanzas profesionales de artes p
 ticas y diseño de grado medio y de grado superior tendrá validez en todo el territorio nacio-
 nal y dará derecho a matricularse conforme a la normativa vigente en el ciclo formativo co-
 rrespondiente, sin perjuicio de la disponibilidad de plazas en los diferentes centros, de
-conformidad con el artículo 17.3 del Real Decreto 596/2007, de 4 de mayo.
+conformidad con el artículo 17.3 del [Real Decreto 596/2007](../../../estatal/05_alumnado_y_servicios_escolares/RD596_2007_establece_ordenacion_general_ensenanzas_profesionales_artes.md), de 4 de mayo.
 ### Capítulo VII
 Reclamaciones y recursos contra las calificaciones finales de la pruebas, a las
 notas finales de las mismas y a las resoluciones de exención
@@ -1641,12 +1653,12 @@ consignación de las oportunas diligencias de las modificaciones que procedan.
 4.
 En caso de disconformidad con las calificaciones obtenidas, la persona interesada
 podrá interponer recurso de alzada en los términos previstos en los artículos 112, 115, 121
-y 122 de la Ley 39/2015, de 1 de octubre, en el plazo de un mes desde la notificación de las
+y 122 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, en el plazo de un mes desde la notificación de las
 calificaciones obtenidas, ante la dirección de área territorial correspondiente o en cualquie-
 
 MARTES 27 DE JULIO DE 2021
 BOCM
-ra de los lugares a los que se refiere el artículo 16.4 de la citada Ley 39/2015, de 1 de octu-
+ra de los lugares a los que se refiere el artículo 16.4 de la citada [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octu-
 bre. La dirección de área territorial correspondiente emitirá resolución motivada que pon-
 drá fin a la vía administrativa, para lo que podrá requerir informe al Servicio de Inspección
 Educativa.
@@ -1679,7 +1691,7 @@ En caso de disconformidad con la resolución de exención emitida por el directo
 centro, el interesado podrá interponer recurso de alzada ante el titular de la dirección de área
 territorial correspondiente, en el plazo de un mes a contar a partir la notificación de la reso-
 lución de exención o, en su caso, de la resolución a su reclamación, en cualquiera de los lu-
-gares a los que se refiere el artículo 16.4 de la Ley 39/2015, de 1 de octubre , en los térmi-
+gares a los que se refiere el artículo 16.4 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre , en los térmi-
 nos previstos en los artículos 112, 115, 121 y 122 de la citada ley. La resolución del recurso
 de alzada, que será motivada, pondrá fin a la vía administrativa.
 #### Artículo 49
@@ -1688,7 +1700,7 @@ por experiencia profesional
 1.
 Quienes estuvieran en desacuerdo con las resoluciones de exención por experiencia
 profesional, dispondrá de tres días hábiles, contados a partir de su notificación, para presen-
-tar, en cualquiera de los lugares a los que se refiere el artículo 16.4 de la Ley 39/2015, de 1 de
+tar, en cualquiera de los lugares a los que se refiere el artículo 16.4 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de
 octubre, una reclamación mediante escrito dirigido al presidente de la comisión de exención
 por experiencia profesional en la dirección general competente en materia de Ordenación
 Académica de formación profesional, especificando claramente los motivos de la misma.
@@ -1704,7 +1716,7 @@ por experiencia profesional, la persona interesada podrá interponer recurso de 
 la dirección general con competencia en materia de Ordenación Académica de formación
 profesional, en el plazo de un mes a partir la notificación de la resolución de exención o, en
 su caso, de la resolución a su reclamación, en cualquiera de los lugares a los que se refiere
-el artículo 16.4 de la Ley 39/2015, de 1 de octubre, en los términos previstos en los artícu-
+el artículo 16.4 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, en los términos previstos en los artícu-
 
 MARTES 27 DE JULIO DE 2021
 BOCM
@@ -1715,7 +1727,7 @@ Medidas para la adaptación de las pruebas
 #### Artículo 51
 Solicitud para la adaptación de las pruebas
 1.
-De conformidad con lo dispuesto en el artículo 74.5 de la Ley Orgánica 2/2006,
+De conformidad con lo dispuesto en el artículo 74.5 de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md),
 de 3 de mayo, se adoptarán las medidas oportunas para la adaptación en la realización de
 las pruebas para quienes acrediten debidamente alguna discapacidad o necesidad educativa
 específica que les impida realizarlas de modo ordinario, según el procedimiento y condicio-
@@ -1815,7 +1827,7 @@ adoptadas en los términos que se establezca en cada convocatoria.
 Contra la resolución adoptada por el director del centro, la persona interesada po-
 drá interponer, en el plazo de un mes a partir de su notificación, recurso de alzada ante la
 dirección de área territorial correspondiente en cualquiera de los lugares a los que se refie-
-re el artículo 16.4 de la Ley 39/2015, de 1 de octubre, en los términos previstos en los ar-
+re el artículo 16.4 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, en los términos previstos en los ar-
 tículos 112, 115, 121 y 122 de la citada ley, que emitirá resolución motivada y pondrá fin a
 la vía administrativa. En caso de silencio administrativo, este tendrá efecto desestimatorio.
 7.
@@ -1823,7 +1835,7 @@ Contra la resolución adoptada por la dirección general competente en materia d
 Ordenación Académica de formación profesional y enseñanzas de régimen especial, la per-
 sona interesada podrá interponer, en el plazo de un mes a partir de su notificación, recurso
 de alzada ante la viceconsejería correspondiente en cualquiera de los lugares a los que se re-
-fiere el artículo 16.4 de la Ley 39/2015, de 1 de octubre, en los términos previstos en los ar-
+fiere el artículo 16.4 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, en los términos previstos en los ar-
 tículos 112, 115, 121 y 122 de la citada ley, que emitirá resolución motivada y pondrá fin a
 la vía administrativa. En caso de silencio administrativo, este tendrá efecto desestimatorio.
 #### DISPOSICIÓN ADICIONAL PRIMERA
@@ -1865,7 +1877,7 @@ los aspirantes, se estará a lo dispuesto en el Reglamento (UE) 2016/679 del Par
 Europeo y el Consejo de 27 de abril de 2016, relativo a la protección de las personas físi-
 cas en lo que respecta al tratamiento de datos personales y a la libre circulación de estos da-
 tos y por el que se deroga la Directiva 95/46/CE (Reglamento general de protección de da-
-tos) y en la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y
+tos) y en la [Ley Orgánica 3/2018](../../../estatal/02_gestion_y_administracion_centros/LO3_2018_proteccion_datos_personales_garantia_derechos_digitales.md), de 5 de diciembre, de Protección de Datos Personales y
 garantía de los derechos digitales, así como en la normativa de desarrollo, cuyo detalle po-
 drá consultarse en el Registro de Actividades de Tratamiento de la consejería competente
 en materia de Educación de la Comunidad de Madrid.
@@ -2862,7 +2874,7 @@ FINAL(3)
 De acuerdo con el Real Decreto 1147/2011, de 29 de julio, por el que se establece la ordenación general de la Formación Profesional del 
 sistema educativo, la superación de esta prueba, que tiene validez en todo el territorio nacional, permite el acceso para cursar cualquier 
 ciclo formativo de formación profesional de grado medio incluido en el catálogo vigente de títulos de formación profesional. 
-Asimismo, de conformidad con lo establecido en el artículo 31.2 del Real Decreto 1363/2007, de 24 de octubre, por el que se establece la 
+Asimismo, de conformidad con lo establecido en el artículo 31.2 del [Real Decreto 1363/2007](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1363_2007_establece_ordenacion_general_ensenanzas_deportivas_regimen.md), de 24 de octubre, por el que se establece la 
 ordenación general de las enseñanzas deportivas de régimen especial, la superación de esta prueba sustituye a la prueba sustitutiva de 
 los requisitos académicos para el acceso a los ciclos de enseñanzas deportivas de grado medio a las que alude el artículo 64.2 de la Ley 
 Orgánica 2/2006, de 3 de mayo, de Educación, y al nivel I de las formaciones deportivas en periodo transitorio según la disposición 
@@ -2910,12 +2922,12 @@ Parte III
 Científico Tecnológica 
 CALIFICACIÓN 
 FINAL(3) 
-De acuerdo con el artículo 16 del Real Decreto 596/2007, de 4 de mayo, por el que se establece la ordenación general de las 
-enseñanzas profesionales de artes plásticas y diseño y conforme al artículo 52.3 de la Ley Orgánica 2/2006, de 3 de mayo, de 
+De acuerdo con el artículo 16 del [Real Decreto 596/2007](../../../estatal/05_alumnado_y_servicios_escolares/RD596_2007_establece_ordenacion_general_ensenanzas_profesionales_artes.md), de 4 de mayo, por el que se establece la ordenación general de las 
+enseñanzas profesionales de artes plásticas y diseño y conforme al artículo 52.3 de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de 
 Educación, la superación de esta prueba, que tiene validez en todo el territorio nacional, exime del requisito académico de acceso al 
 grado medio de las enseñanzas profesionales de artes plásticas y diseño, para lo cual deberán superar exclusivamente la prueba 
-específica que permita acreditar las aptitudes necesarias en cada caso a la que se refiere el artículo 14 del Real Decreto 596/2007, de 4 
-de mayo y el artículo 52.1 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación. 
+específica que permita acreditar las aptitudes necesarias en cada caso a la que se refiere el artículo 14 del [Real Decreto 596/2007](../../../estatal/05_alumnado_y_servicios_escolares/RD596_2007_establece_ordenacion_general_ensenanzas_profesionales_artes.md), de 4 
+de mayo y el artículo 52.1 de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación. 
 La superación de esta prueba no dará derecho en ningún caso a la expedición del título de Graduado en Educación Secundaria 
 Obligatoria. 
 En …………………………………..……, a …….. de …………………………. de ……………. 
@@ -4044,12 +4056,12 @@ Parte III:
 CALIFICACIÓN 
 FINAL
 (4) 
-De acuerdo con el artículo 16 Real Decreto 596/2007, de 4 de mayo, por el que se establece la ordenación general de las enseñanzas 
-profesionales de artes plásticas y diseño y conforme al artículo 52.3 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, la 
+De acuerdo con el artículo 16 [Real Decreto 596/2007](../../../estatal/05_alumnado_y_servicios_escolares/RD596_2007_establece_ordenacion_general_ensenanzas_profesionales_artes.md), de 4 de mayo, por el que se establece la ordenación general de las enseñanzas 
+profesionales de artes plásticas y diseño y conforme al artículo 52.3 de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, la 
 superación de esta prueba, que tiene validez en todo el territorio nacional, exime del requisito académico de acceso al grado superior de 
 las enseñanzas profesionales de artes plásticas y diseño, para lo cual deberán superar exclusivamente la prueba específica que permita 
-acreditar las aptitudes necesarias en cada caso a la que se refiere el artículo 14 del Real Decreto 596/2007, de 4 de mayo, y el artículo 
-52.2 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación. 
+acreditar las aptitudes necesarias en cada caso a la que se refiere el artículo 14 del [Real Decreto 596/2007](../../../estatal/05_alumnado_y_servicios_escolares/RD596_2007_establece_ordenacion_general_ensenanzas_profesionales_artes.md), de 4 de mayo, y el artículo 
+52.2 de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación. 
 La superación de esta prueba no dará derecho en ningún caso a la expedición del título de Bachiller. 
 En ………………………….., a ……… de …………………………. de …………… 
 Vº Bº                                                                                                     
@@ -4130,7 +4142,7 @@ CALIFICACIÓN FINAL
 ciclos formativos de grado 
 superior por la vía de 
 enseñanzas deportivas) 
-De conformidad con lo establecido en el artículo 31.1 del Real Decreto 1363/2007, de 24 de octubre, por el que se establece la 
+De conformidad con lo establecido en el artículo 31.1 del [Real Decreto 1363/2007](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1363_2007_establece_ordenacion_general_ensenanzas_deportivas_regimen.md), de 24 de octubre, por el que se establece la 
 ordenación general de las enseñanzas deportivas de régimen especial, la superación de esta prueba, que tendrá validez en todo el 
 territorio nacional, permite el acceso a los ciclos de enseñanzas deportivas de grado superior, a las que alude el artículo 64.2 de la Ley 
 Orgánica 2/2006, de 3 de mayo, de Educación, y al nivel III de las formaciones deportivas en periodo transitorio según la disposición 
@@ -5374,9 +5386,9 @@ OPCIÓN DE LA PRUEBA DE
 ACCESO A CICLOS FORMATIVOS 
 DE GRADO SUPERIOR 
 FAMILIAS PROFESIONALES 
-Ley Orgánica 2/2006, de 3 de mayo, de Educación. 
+[Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación. 
 (LOE) 
-Ley Orgánica 1/1990, de 
+[Ley Orgánica 1/1990](../../../estatal/02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md), de 
 3 de octubre, de 
 Ordenación General del 
 Sistema Educativo. 
@@ -5865,7 +5877,7 @@ CALIFICACIONES OBTENIDAS(4)
 (5)……………………. 
 CALIFICACIÓN 
 FINAL(6) 
-De acuerdo con el artículo 17 del Real Decreto 596/2007, de 4 de mayo, por el que se establece la ordenación general de las 
+De acuerdo con el artículo 17 del [Real Decreto 596/2007](../../../estatal/05_alumnado_y_servicios_escolares/RD596_2007_establece_ordenacion_general_ensenanzas_profesionales_artes.md), de 4 de mayo, por el que se establece la ordenación general de las 
 enseñanzas profesionales de artes plásticas y diseño, la superación de las pruebas de acceso a las enseñanzas de grado medio y grado 
 superior, que tendrán validez en todo el territorio nacional, dará derecho a matricularse conforme a la normativa vigente en el ciclo 
 formativo correspondiente, sin perjuicio de la disponibilidad de plazas en los diferentes centros. 

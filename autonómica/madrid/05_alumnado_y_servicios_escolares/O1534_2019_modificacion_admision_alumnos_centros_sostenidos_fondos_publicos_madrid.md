@@ -27,9 +27,18 @@ tags:
 - centros_sostenidos
 - escolarizacion
 - madrid
+fundamentos_derecho:
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-mad-l12-1999-creacion-consejo-escolar-comunidad-madrid
+- norma_id: norm-mad-d11-2019
+- norma_id: norm-mad-d-29-2013
+- norma_id: norm-mad-o1240-2013
+- norma_id: norm-es-l-39-2015
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
 ---
-
-# Orden 1534/2019, de 17 de mayo, del Consejero de Educación e Investigación, por la que se modifica la Orden 1240/2013, de 17 de abril, que establece el procedimiento para la admisión de alumnos en centros docentes sostenidos con fondos públicos de segundo ciclo de Educación Infantil, Educación Primaria, Educación Especial, Educación Secundaria Obligatoria y Bachillerato en la Comunidad de Madrid
+# Orden 1534/2019, de 17 de mayo, del Consejero de Educación e Investigación, por la que se modifica la [Orden 1240/2013](./O1240_2013_procedimiento_admision_alumnado_centros_sostenidos_fondos_publicos_madrid.md), de 17 de abril, que establece el procedimiento para la admisión de alumnos en centros docentes sostenidos con fondos públicos de segundo ciclo de Educación Infantil, Educación Primaria, Educación Especial, Educación Secundaria Obligatoria y Bachillerato en la Comunidad de Madrid
 
 ## Preámbulo
 
@@ -37,34 +46,34 @@ BOCM
 Consejería de Educación e Investigación
 18
 ORDEN 1534/2019, de 17 de mayo, del Consejero de Educación e Investigación,
-por la que se modifica la Orden 1240/2013, de 17 de abril, que establece el pro-
+por la que se modifica la [Orden 1240/2013](./O1240_2013_procedimiento_admision_alumnado_centros_sostenidos_fondos_publicos_madrid.md), de 17 de abril, que establece el pro-
 cedimiento para la admisión de alumnos en centros docentes sostenidos con fon-
 dos públicos de segundo ciclo de Educación Infantil, Educación Primaria, Edu-
 cación Especial, Educación Secundaria Obligatoria y Bachillerato en la
 Comunidad de Madrid.
-El Decreto 29/2013, de 11 de abril, del Consejo de Gobierno, de libertad de elección
+El [Decreto 29/2013](./D29_2013_libertad_eleccion_centro_escolar_madrid.md), de 11 de abril, del Consejo de Gobierno, de libertad de elección
 de centro escolar en la Comunidad de Madrid, que establece el marco general para la admi-
 sión de alumnos en centros docentes sostenidos con fondos públicos de segundo ciclo de
 Educación Infantil, Educación Primaria, Educación Secundaria Obligatoria, Bachillerato y
-Educación Especial, ha sido modificado mediante el Decreto 11/2019, de 5 de marzo, del
+Educación Especial, ha sido modificado mediante el [Decreto 11/2019](./D11_2019_modificacion_decreto_libertad_eleccion_centro_escolar_madrid.md), de 5 de marzo, del
 Consejo de Gobierno.
-Ello hace necesario modificar la Orden 1240/2013, de 17 de abril, de la Consejería de
+Ello hace necesario modificar la [Orden 1240/2013](./O1240_2013_procedimiento_admision_alumnado_centros_sostenidos_fondos_publicos_madrid.md), de 17 de abril, de la Consejería de
 Educación por la que se establece el procedimiento para la admisión de alumnos en centros
 docentes sostenidos con fondos públicos de segundo ciclo de Educación Infantil, Educa-
 ción Primaria, Educación Especial, Educación Secundaria Obligatoria y Bachillerato en la
-Comunidad de Madrid. La modificación de la Orden 1240/2013, de 17 de abril, también
+Comunidad de Madrid. La modificación de la [Orden 1240/2013](./O1240_2013_procedimiento_admision_alumnado_centros_sostenidos_fondos_publicos_madrid.md), de 17 de abril, también
 permitirá actualizar la organización de las adscripciones entre centros educativos y aplicar
 las mejoras procedimentales en el proceso de admisión de alumnos en centros sostenidos
-con fondos públicos derivadas de la Ley 39/2015, de 1 de octubre, del Procedimiento Admi-
+con fondos públicos derivadas de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Admi-
 nistrativo Común de las Administraciones Públicas, especialmente en lo que se refiere a la
 simplificación y reducción de la información y documentación que debe ser aportada por
 las familias al solicitar plaza escolar.
 La presente norma se adecua a los principios de buena regulación de acuerdo con lo
-previsto en el artículo 129 de la Ley 39/2015, de 1 de octubre, respondiendo a los princi-
+previsto en el artículo 129 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, respondiendo a los princi-
 pios de necesidad y eficacia, proporcionalidad, seguridad jurídica, transparencia y eficien-
 cia. En este sentido, para facilitar el agrupamiento de hermanos en un mismo centro, medi-
 da que contribuye a facilitar la conciliación de la vida laboral y familiar, es necesario
-modificar el baremo de admisión recogido en la Orden 1240/2013, de 17 de abril. Igual-
+modificar el baremo de admisión recogido en la [Orden 1240/2013](./O1240_2013_procedimiento_admision_alumnado_centros_sostenidos_fondos_publicos_madrid.md), de 17 de abril. Igual-
 mente se ha estimado necesario actualizar y modificar algunos aspectos concretos del pro-
 ceso de admisión de alumnos en centros sostenidos con fondos públicos, tales como la ads-
 cripción entre centros públicos o el desarrollo del sorteo público que permita resolver casos
@@ -73,24 +82,24 @@ aplicación de los principios de proporcionalidad, seguridad jurídica y transpa
 munidad de Madrid ha optado por realizar una modificación parcial de la normativa vigen-
 te.
 Para elaborar esta Orden ha emitido dictamen el Consejo Escolar de la Comunidad de
-Madrid, de acuerdo con lo establecido en el artículo 2.1.b) de la Ley 12/1999, de 29 de abril,
+Madrid, de acuerdo con lo establecido en el artículo 2.1.b) de la [Ley 12/1999](../01_marco_normativo_general_y_organico/L12_1999_creacion_consejo_escolar_comunidad_madrid.md), de 29 de abril,
 de Creación del Consejo Escolar de la Comunidad de Madrid, modificada por el artículo 29
 de la Ley 9/2010, de 23 de diciembre, de Medidas Fiscales, Administrativas y Racionaliza-
 ción del Sector Público.
 En virtud de lo anterior, y en uso de las competencias atribuidas por el Decreto 127/2017,
 de 24 de octubre, del Consejo de Gobierno, por el que se establece la estructura orgánica de
-la Consejería de Educación e Investigación, y por el Decreto 29/2013, de 11 de abril.
+la Consejería de Educación e Investigación, y por el [Decreto 29/2013](./D29_2013_libertad_eleccion_centro_escolar_madrid.md), de 11 de abril.
 
 BOCM
 DISPONGO:
 
 #### Artículo . #### Artículo . #### Artículo único
 
-Modificación de la Orden 1240/2013, de 17 de abril, por la que se establece el
+Modificación de la [Orden 1240/2013](./O1240_2013_procedimiento_admision_alumnado_centros_sostenidos_fondos_publicos_madrid.md), de 17 de abril, por la que se establece el
 procedimiento para la admisión de alumnos en centros docentes sostenidos con fondos
 públicos de segundo ciclo de Educación Infantil, Educación Primaria, Educación
 Especial, Educación Secundaria Obligatoria y Bachillerato en la Comunidad de Madrid
-La Orden 1240/2013, de 17 de abril, se modifica en los siguientes términos:
+La [Orden 1240/2013](./O1240_2013_procedimiento_admision_alumnado_centros_sostenidos_fondos_publicos_madrid.md), de 17 de abril, se modifica en los siguientes términos:
 Uno.
 Se modifican los apartados 3.5 y 3.6 del artículo 3, que pasan a tener el siguien-
 te tenor literal:
@@ -154,7 +163,7 @@ de que la familia de acogida tenga ya escolarizado algún hijo en el mismo centr
 BOCM
 escolar solicitado para el alumno acogido, con el fin de facilitar su escolarización
 se le asignará a este la puntuación que le corresponda por el presente apartado.
-En cumplimiento de lo establecido en la Ley Orgánica 2/2006, de 3 de mayo, de
+En cumplimiento de lo establecido en la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de
 Educación, los centros públicos adscritos a efectos de escolarización serán consi-
 derados como centro único a efectos de baremación para el proceso de admisión.
 b)

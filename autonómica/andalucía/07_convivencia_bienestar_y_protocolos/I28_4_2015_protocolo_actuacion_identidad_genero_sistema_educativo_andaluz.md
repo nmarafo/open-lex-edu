@@ -30,8 +30,10 @@ relaciones:
   - norm-and-l-2-2014
   - norm-es-lo-2-2006
   - norm-and-o-20-6-2011
+fundamentos_derecho:
+- norma_id: norm-and-l2-2014-no-discriminacion-identidad-genero-transexuales-andalucia
+- norma_id: norm-and-o20-6-2011-promocion-convivencia-mediacion-escolar-andalucia
 ---
-
 # Protocolo de actuación sobre identidad de género en el sistema educativo andaluz.
 
 ## Protocolo y Directrices
@@ -76,7 +78,7 @@ Dirección General de Participación y Equidad
 
 Principios generales de actuación
 Con el fin de proteger el ejercicio de los derechos de identidad de género del alumnado en el ámbito 
-del sistema educativo andaluz, y de acuerdo con la Ley 2/2014, de 8 de julio, integral para la no 
+del sistema educativo andaluz, y de acuerdo con la [Ley 2/2014](./L2_2014_no_discriminacion_identidad_genero_transexuales_andalucia.md), de 8 de julio, integral para la no 
 discriminación por motivos de identidad de género y reconocimiento de los derechos de las personas 
 transexuales de Andalucía, los centros docentes tendrán en cuenta los siguientes principios generales 
 de actuación:
@@ -155,11 +157,11 @@ que se siente identificado el alumno o la alumna, de acuerdo con lo establecido 
 CONSEJERÍA DE EDUCACIÓN, CULTURA Y DEPORTE
 Dirección General de Participación y Equidad
 
-artículo 15.2.b) de la Ley 2/2014, de 8 de julio. Todo ello sin perjuicio de que en el expediente oficial 
+artículo 15.2.b) de la [Ley 2/2014](./L2_2014_no_discriminacion_identidad_genero_transexuales_andalucia.md), de 8 de julio. Todo ello sin perjuicio de que en el expediente oficial 
 del alumno o la alumna, y hasta que legalmente proceda, se mantengan los datos de identidad 
 registrales a efectos oficiales.
 3. Garantizar, en todo caso, la libertad en el uso de la vestimenta con la que el alumno o la alumna se 
-sientan identificados, de acuerdo con lo establecido en el artículo 15.2.a) de la Ley 2/2014, de 8 de 
+sientan identificados, de acuerdo con lo establecido en el artículo 15.2.a) de la [Ley 2/2014](./L2_2014_no_discriminacion_identidad_genero_transexuales_andalucia.md), de 8 de 
 julio. Si en el centro existe la obligatoriedad de vestir un uniforme diferenciado por sexos, se reconocerá 
 el derecho del alumno o la alumna a vestir con ropas o uniforme acordes a la identidad de género 
 manifestada.
@@ -197,7 +199,7 @@ acoso escolar, violencia de género o maltrato infantil por identidad de género
 1. Establecer las medidas necesarias, recogidas en el plan de convivencia del centro, para prevenir e 
 intervenir ante las conductas de discriminación, exclusión, agresión, hostigamiento o de posible acoso 
 escolar, violencia de género o maltrato infantil que pudieran producirse, activando en su caso los 
-protocolos contemplados en la orden de 20 de junio de 2011, por la que se adoptan medidas para la 
+protocolos contemplados en la [orden de 20 de junio de 2011](./O20_6_2011_promocion_convivencia_mediacion_escolar_andalucia.md), por la que se adoptan medidas para la 
 promoción de la convivencia en los centros docentes sostenidos con fondos públicos y se regula el 
 derecho de las familias a participar en el proceso educativo de sus hijos e hijas, todo ello sin perjuicio 
 de las medidas correctoras que procedan ante conductas que atenten contra la dignidad personal de 
@@ -220,7 +222,7 @@ Andalucía.
 género o maltrato infantil por identidad de género, la dirección del centro docente remitirá el informe 
 correspondiente al Servicio Provincial de Inspección de Educación, sin perjuicio de la comunicación 
 inmediata del caso que proceda, tal como se establece en los protocolos correspondientes 
-contemplados en la Orden de 20 de junio de 2011.
+contemplados en la [Orden de 20 de junio de 2011](./O20_6_2011_promocion_convivencia_mediacion_escolar_andalucia.md).
 Coordinación entre Administraciones e Instituciones.
 La Consejería competente en materia de educación promoverá y establecerá procedimientos de 
 coordinación de actuaciones y recursos con otras Administraciones y, específicamente, con la 

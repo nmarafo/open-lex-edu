@@ -1,6 +1,9 @@
 ---
 id: norm-and-r10-6-2026-adjudicacion-destinos-provisionales-personal-docente-andalucia
-titulo: Resolución de 10 de junio de 2026, de la Dirección General del Profesorado y Gestión de Recursos Humanos, por la que se efectúa convocatoria para la adjudicación de destinos provisionales en los Conservatorios Superiores de Música y Danza para el curso académico 2026/2027.
+titulo: Resolución de 10 de junio de 2026, de la Dirección General del Profesorado
+  y Gestión de Recursos Humanos, por la que se efectúa convocatoria para la adjudicación
+  de destinos provisionales en los Conservatorios Superiores de Música y Danza para
+  el curso académico 2026/2027.
 jurisdiccion: Andalucía
 ambito: Autonómico
 organo_emisor: Dirección General de Profesorado y Gestión de Recursos Humanos
@@ -17,8 +20,17 @@ fuente_pdf_oficial: http://www.juntadeandalucia.es/boja/2026/115/BOJA26-115-0001
 clasificacion:
   categoria_canonica: 08_personal_docente
   subcategoria: Provisión de puestos y traslados
+fundamentos_derecho:
+- norma_id: norm-and-l17-2007
+- norma_id: norm-and-l9-2007-administracion-junta-andalucia-laja
+- norma_id: norm-and-o-20-2-2020
+- norma_id: norm-and-d302-2010-ordenacion-funcion-publica-docente-seleccion-provision-andalucia
+- norma_id: norm-and-o-10-6-2020
+- norma_id: norm-es-l-39-2015
+- norma_id: norm-es-1995-8730
+- norma_id: norm-es-rdl-5-2015
+- norma_id: norm-es-lo-1-2004
 ---
-
 # Resolución de 10 de junio de 2026, de la Dirección General del Profesorado y Gestión de Recursos Humanos, por la que se efectúa convocatoria para la adjudicación de destinos provisionales en los Conservatorios Superiores de Música y Danza para el curso académico 2026/2027.
 
 ## Preámbulo
@@ -29,9 +41,9 @@ Resolución de 10 de junio de 2026, de la Dirección General del Profesorado
 y Gestión de Recursos Humanos, por la que se efectúa convocatoria para la 
 adjudicación de destinos provisionales en los Conservatorios Superiores de 
 Música y Danza para el curso académico 2026/2027.
-El Decreto 302/2010, de 1 de junio, ordena la función pública docente y regula la 
+El [Decreto 302/2010](./D302_2010_ordenacion_funcion_publica_docente_seleccion_provision_andalucia.md), de 1 de junio, ordena la función pública docente y regula la 
 selección del profesorado y la provisión de los puestos de trabajo docentes. Igualmente, 
-la Orden de 10 de junio de 2020, regula, en desarrollo de aquel, los procedimientos de 
+la [Orden de 10 de junio de 2020](./O10_6_2020_bolsas_trabajo_profesorado_interino_andalucia.md), regula, en desarrollo de aquel, los procedimientos de 
 provisión, con carácter provisional, de puestos de trabajo docentes, la movilidad por razón 
 de violencia de género y víctimas del terrorismo, las bolsas de trabajo docentes, así como 
 las bases aplicables al personal integrante de las mismas.
@@ -56,7 +68,7 @@ de la Comunidad Autónoma de Andalucía establezca la planificación escolar par
 curso académico 2026/2027.
 Por otra parte, se hace necesario contemplar en esta resolución lo establecido para el 
 personal funcionario interino y aspirante a interinidad en el artículo 36 de la citada orden.
-De acuerdo con las facultades conferidas por la Orden de 10 de junio de 2020, por la 
+De acuerdo con las facultades conferidas por la [Orden de 10 de junio de 2020](./O10_6_2020_bolsas_trabajo_profesorado_interino_andalucia.md), por la 
 que se regulan los procedimientos de provisión, con carácter provisional, de puestos de 
 trabajo docentes, la movilidad por razón de violencia de género y víctimas de terrorismo, 
 las bolsas de trabajo docentes, así como las bases aplicables al personal integrante de 
@@ -140,7 +152,7 @@ Depósito Legal: SE-410/1979. ISSN: 2253-802X
 https://www.juntadeandalucia.es/eboja
 Segunda. Solicitudes, forma de presentación y plazo.
 1. Solicitudes.
-De acuerdo con lo establecido en el artículo 6 de la Orden de 10 de junio de 2020, 
+De acuerdo con lo establecido en el artículo 6 de la [Orden de 10 de junio de 2020](./O10_6_2020_bolsas_trabajo_profesorado_interino_andalucia.md), 
 quienes participen en esta convocatoria cumplimentarán la solicitud telemáticamente 
 mediante un formulario que se facilitará a través del portal electrónico de la Consejería de 
 Desarrollo Educativo y Formación Profesional. Dicho formulario, para cuyo acceso será 
@@ -248,7 +260,7 @@ solicitud.
 2.2. La prioridad en la adjudicación de destino vendrá dada según el orden en que va 
 relacionado el personal participante en la base primera, por el orden de las peticiones y 
 de acuerdo con los criterios establecidos para cada colectivo.
-2.3. No obstante, conforme al artículo 13.5 de la Orden de 10 de junio de 2020, en los 
+2.3. No obstante, conforme al artículo 13.5 de la [Orden de 10 de junio de 2020](./O10_6_2020_bolsas_trabajo_profesorado_interino_andalucia.md), en los 
 supuestos de comisiones de servicio por razones de salud del profesorado que afecten 
 muy gravemente al desempeño del puesto de destino, el orden de adjudicación de 
 destinos será prioritario respecto del resto de participantes por comisiones de servicio. 
@@ -308,7 +320,7 @@ d) Mayor puntuación obtenida en el procedimiento selectivo a través del que se
 ingresó o accedió al Cuerpo de Catedráticos de Música y Artes Escénicas.
 2.2. El personal que haya ingresado en los cuerpos docentes mediante el turno de 
 reserva de discapacidad, en virtud de lo establecido en la disposición adicional primera 
-de la Orden de 10 de junio de 2020, podrá solicitar, a través del apartado correspondiente 
+de la [Orden de 10 de junio de 2020](./O10_6_2020_bolsas_trabajo_profesorado_interino_andalucia.md), podrá solicitar, a través del apartado correspondiente 
 del formulario de solicitud, la alteración del orden de prelación de su colectivo para su 
 toma en consideración en la adjudicación de destinos, según lo dispuesto en el artículo 9 
 del Real Decreto 2271/2004, de 3 de diciembre, por el que se regula el acceso al empleo 
@@ -346,9 +358,9 @@ el ejercicio de la dirección en su centro de destino definitivo.
 1. Petición de destino.
 1.1. El personal funcionario de carrera que se acoja a la opción de cambio de su 
 centro de destino al finalizar el mandato en el ejercicio de la dirección en dicho centro, en 
-cumplimiento de lo establecido en el artículo 134.6 de la Ley 17/2007, de 10 de diciembre, 
+cumplimiento de lo establecido en el artículo 134.6 de la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre, 
 de Educación de Andalucía, podrá participar en este procedimiento de acuerdo con 
-lo previsto en el artículo 11 de la Orden de 10 de junio de 2020, para lo que deberá 
+lo previsto en el artículo 11 de la [Orden de 10 de junio de 2020](./O10_6_2020_bolsas_trabajo_profesorado_interino_andalucia.md), para lo que deberá 
 solicitar puestos de trabajo en cualquier Conservatorio Superior de Música o Danza, por 
 la especialidad del puesto de destino o por la especialidad por la que accedió al mismo. 
 Asimismo, podrá solicitar puestos específicos de los establecidos en el apartado 2 de 
@@ -371,7 +383,7 @@ de destinos provisionales queda limitada a los dos cursos académicos siguientes
 finalización del mandato.
 2.3. El personal que haya ingresado en los cuerpos docentes mediante el turno de 
 reserva de discapacidad, en virtud de lo establecido en la disposición adicional primera 
-de la Orden de 10 de junio de 2020, podrá solicitar, a través del apartado correspondiente 
+de la [Orden de 10 de junio de 2020](./O10_6_2020_bolsas_trabajo_profesorado_interino_andalucia.md), podrá solicitar, a través del apartado correspondiente 
 del formulario de solicitud, la alteración del orden de prelación de su colectivo para su 
 toma en consideración en la adjudicación de destinos, según lo dispuesto en el artículo 9 
 del Real Decreto 2271/2004, de 3 de diciembre, por el que se regula el acceso al empleo 
@@ -431,7 +443,7 @@ de servicio por los supuestos de conciliación de la vida familiar, personal y l
 razones de ocupación de un cargo electivo recogidos en el artículo 3 de la Orden de 
 26 de febrero de 2008 por la que se regulan las comisiones de servicio del personal 
 funcionario docente dependiente del ámbito de gestión de la Consejería de Desarrollo 
-Educativo y Formación Profesional, modificada por la Orden de 20 de febrero de 2020, 
+Educativo y Formación Profesional, modificada por la [Orden de 20 de febrero de 2020](../05_alumnado_y_servicios_escolares/O20_2_2020_procedimiento_admision_alumnado_centros_docentes_andalucia.md), 
 podrá incluir puestos de trabajo en cualquier Conservatorio Superior de Música o Danza 
 por la especialidad del puesto de destino definitivo o por la especialidad por la que 
 accedió al mismo, con el requisito de que el centro solicitado se refiera a un municipio 
@@ -465,7 +477,7 @@ colectivo en el procedimiento regulado por la presente resolución y su concesi�
 supeditada a la existencia de vacantes tras la adjudicación de destinos provisionales, 
 de conformidad con lo establecido en el artículo 4.3 de la Orden de 26 de febrero de 
 2008, por la que se regulan las comisiones de servicio del personal funcionario docente, 
-modificada por la Orden de 20 de febrero de 2020. Se exceptúa de lo dispuesto en el 
+modificada por la [Orden de 20 de febrero de 2020](../05_alumnado_y_servicios_escolares/O20_2_2020_procedimiento_admision_alumnado_centros_docentes_andalucia.md). Se exceptúa de lo dispuesto en el 
 párrafo anterior a aquellas personas que hayan obtenido una comisión de servicios tras 
 participar en el procedimiento convocado por Resolución de 14 de mayo de 2026, de la 
 Dirección General del Profesorado y Gestión de Recursos Humanos, por la que se abre 
@@ -510,7 +522,7 @@ c) Mayor puntuación obtenida en el procedimiento selectivo a través del que se
 ingresó o accedió el Cuerpo de Catedráticos de Música y Artes Escénicas.
 3.2. El personal que haya ingresado en los cuerpos docentes mediante el turno de 
 reserva de discapacidad, en virtud de lo establecido en la disposición adicional primera 
-de la Orden de 10 de junio de 2020, podrá solicitar, a través del apartado correspondiente 
+de la [Orden de 10 de junio de 2020](./O10_6_2020_bolsas_trabajo_profesorado_interino_andalucia.md), podrá solicitar, a través del apartado correspondiente 
 del formulario de solicitud, la alteración del orden de prelación de su colectivo para su 
 toma en consideración en la adjudicación de destinos, según lo dispuesto en el artículo 9 
 del Real Decreto 2271/2004, de 3 de diciembre, por el que se regula el acceso al empleo 
@@ -602,7 +614,7 @@ Artes Escénicas.
 ingresó o accedió al Cuerpo de Catedráticos de Música y Artes Escénicas.
 2.2. El personal que haya ingresado en los cuerpos docentes mediante el turno de 
 reserva de discapacidad, en virtud de lo establecido en la disposición adicional primera 
-de la Orden de 10 de junio de 2020, podrá solicitar, a través del apartado correspondiente 
+de la [Orden de 10 de junio de 2020](./O10_6_2020_bolsas_trabajo_profesorado_interino_andalucia.md), podrá solicitar, a través del apartado correspondiente 
 del formulario de solicitud, la alteración del orden de prelación de su colectivo para su 
 toma en consideración en la adjudicación de destinos, según lo dispuesto en el artículo 9 
 del Real Decreto 2271/2004, de 3 de diciembre, por el que se regula el acceso al empleo 
@@ -645,14 +657,14 @@ Superiores de Música o Danza. De no hacerlo así, será destinado de oficio a c
 Conservatorio Superior de Música o Danza de la Comunidad Autónoma de Andalucía, 
 según corresponda a su especialidad.
 3. Criterios para la adjudicación de destinos.
-3.1. En virtud de lo establecido en el artículo 8.5 de la Orden de 10 de junio de 2020, se 
+3.1. En virtud de lo establecido en el artículo 8.5 de la [Orden de 10 de junio de 2020](./O10_6_2020_bolsas_trabajo_profesorado_interino_andalucia.md), se 
 adjudicará destino en función de las peticiones presentadas, por el orden en que figure en 
 la relación del personal seleccionado en los correspondientes procedimientos selectivos, 
 por la especialidad de ingreso, conforme establece el apartado 2 del artículo 14 de la 
 citada orden.
 3.2. El personal que haya ingresado en los cuerpos docentes mediante el turno de 
 reserva de discapacidad, en virtud de lo establecido en la disposición adicional primera 
-de la Orden de 10 de junio de 2020, podrá solicitar, a través del apartado correspondiente 
+de la [Orden de 10 de junio de 2020](./O10_6_2020_bolsas_trabajo_profesorado_interino_andalucia.md), podrá solicitar, a través del apartado correspondiente 
 del formulario de solicitud, la alteración del orden de prelación de su colectivo para su 
 toma en consideración en la adjudicación de destinos, según lo dispuesto en el artículo 9 
 del Real Decreto 2271/2004, de 3 de diciembre, por el que se regula el acceso al empleo 
@@ -699,7 +711,7 @@ Por lo que respecta al personal al que se refiere el apartado 1.2 de esta base, 
 ordenará tras el colectivo recogido en el párrafo j) del apartado 1 de la base primera.
 3.2. El personal que haya ingresado en los cuerpos docentes mediante el turno de 
 reserva de discapacidad, en virtud de lo establecido en la disposición adicional primera 
-de la Orden de 10 de junio de 2020, podrá solicitar, a través del apartado correspondiente 
+de la [Orden de 10 de junio de 2020](./O10_6_2020_bolsas_trabajo_profesorado_interino_andalucia.md), podrá solicitar, a través del apartado correspondiente 
 del formulario de solicitud, la alteración del orden de prelación de su colectivo para su 
 toma en consideración en la adjudicación de destinos, según lo dispuesto en el artículo 
 9 del Real Decreto 2271/2004, de 3 de diciembre, por el que se regula el acceso al 
@@ -714,7 +726,7 @@ del resto de participantes de su colectivo, cuando aquellos sean favorables.
 Décima. Personal funcionario interino integrante de las bolsas de trabajo del Cuerpo 
 de Catedráticos de Música y Artes Escénicas.
 1. Ámbito personal.
-De conformidad con el artículo 36 de la Orden de 10 de junio de 2020, se entiende por 
+De conformidad con el artículo 36 de la [Orden de 10 de junio de 2020](./O10_6_2020_bolsas_trabajo_profesorado_interino_andalucia.md), se entiende por 
 personal funcionario interino el integrante de las bolsas de trabajo de los distintos cuerpos 
 y especialidades docentes con tiempo de servicios en centros públicos reconocido por 
 la Administración educativa andaluza. Para el presente procedimiento, debe entenderse 
@@ -735,9 +747,9 @@ orden alfabético.
 De no obtener destino, el personal participante en este procedimiento permanecerá 
 en la bolsa o bolsas a las que pertenezca para la obtención de vacantes sobrevenidas 
 o sustituciones en los procedimientos de adjudicación regulados en el artículo 58 de la 
-Orden de 10 de junio de 2020.
+[Orden de 10 de junio de 2020](./O10_6_2020_bolsas_trabajo_profesorado_interino_andalucia.md).
 No obstante, de conformidad con lo establecido en el apartado 2 del artículo 48 de 
-la Orden de 10 de junio de 2020, quien desee pasar a la situación de inactivo de forma 
+la [Orden de 10 de junio de 2020](./O10_6_2020_bolsas_trabajo_profesorado_interino_andalucia.md), quien desee pasar a la situación de inactivo de forma 
 voluntaria en la bolsa o bolsas, durante el curso 2026/2027, deberá cumplimentar, una 
 vez acceda al formulario, el apartado 4 del Anexo II de esta resolución.
 
@@ -815,7 +827,7 @@ pasará a ocupar el lugar que le corresponda en la bolsa de trabajo.
 2.5. El personal funcionario interino que no participe en el presente procedimiento, 
 debiendo hacerlo por no haber solicitado pasar a la situación de inactivo, pasará de 
 oficio a dicha situación durante el curso académico 2026/2027, sin menoscabo de lo 
-relacionado en el artículo 15.5 de la Orden de 10 de junio de 2020.
+relacionado en el artículo 15.5 de la [Orden de 10 de junio de 2020](./O10_6_2020_bolsas_trabajo_profesorado_interino_andalucia.md).
 3. Opción por una bolsa.
 De conformidad con lo establecido en el artículo 49 de la Orden de 10 de junio de 
 2020, el personal funcionario interino podrá utilizar el apartado correspondiente del 
@@ -832,7 +844,7 @@ vacantes o sustituciones.
 Decimoprimera. Personal aspirante a interinidad integrante de las bolsas de trabajo 
 del Cuerpo de Catedráticos de Música y Artes Escénicas.
 1. Ámbito personal.
-De conformidad con el artículo 36 de la Orden de 10 de junio de 2020, se entiende 
+De conformidad con el artículo 36 de la [Orden de 10 de junio de 2020](./O10_6_2020_bolsas_trabajo_profesorado_interino_andalucia.md), se entiende 
 por personal aspirante a interinidad el integrante de las bolsas de trabajo sin tiempo de 
 servicio reconocido por la Administración educativa andaluza.
 2. Participación.
@@ -886,11 +898,11 @@ de junio de 20­20, por lo que podrá solicitar la eliminación de las provincia
 No obstante lo anterior, deberá cumplimentar en el Anexo III aquellos Conservatorios 
 Superiores de Música o Danza a los que desee optar. Dicho personal solo vendrá 
 obligado a participar en los procedimientos de adjudicación de vacantes sobrevenidas 
-o sustituciones regulados en el artículo 58 de la Orden de 10 de junio de 2020, cuando 
+o sustituciones regulados en el artículo 58 de la [Orden de 10 de junio de 2020](./O10_6_2020_bolsas_trabajo_profesorado_interino_andalucia.md), cuando 
 se oferten plazas en los Conservatorios Superiores de Música o Danza que hubiera 
 consignado en el referido Anexo III.
 3. Criterios para la adjudicación de destino.
-De conformidad con lo establecido en el artículo 8.6 de la Orden de 10 de junio de 2020, 
+De conformidad con lo establecido en el artículo 8.6 de la [Orden de 10 de junio de 2020](./O10_6_2020_bolsas_trabajo_profesorado_interino_andalucia.md), 
 la prioridad en la adjudicación de destinos vendrá dada por el orden en que figure en la 
 correspondiente bolsa de trabajo, a continuación siempre del personal funcionario interino.
 Decimosegunda. Puestos objeto de adjudicación.
@@ -955,7 +967,7 @@ base primera, será declarado de oficio en situación de excedencia voluntaria p
 particular por un período de un curso escolar, de conformidad con lo establecido en el 
 artículo 149 de la Ley 5/2023, de 7 de junio, de la Función Pública de Andalucía, desde el 
 1 de septiembre de 2026.
-Dicha situación, según lo establecido en el artículo 19 del Real Decreto 365/1995, 
+Dicha situación, según lo establecido en el artículo 19 del [Real Decreto 365/1995](../../../estatal/01_marco_normativo_general_y_organico/RD365_1995_aprueba_reglamento_situaciones_administrativas_funcionarios_civiles.md), 
 de 10 de marzo, por el que se aprueba el Reglamento de Situaciones Administrativas de 
 los Funcionarios de la Administración General del Estado, no produce, en ningún caso, 
 reserva del puesto de trabajo.
@@ -970,7 +982,7 @@ interino o, en su caso, aspirante a interinidad adjudicatario de un destino a tr
 procedimiento podrá solicitar la no incorporación al puesto adjudicado, en el plazo de 
 tres días hábiles, computables desde el siguiente al de la publicación de la resolución 
 definitiva, siempre que se den las circunstancias a que se refiere el artículo 51 de la 
-referida Orden de 10 de junio de 2020.
+referida [Orden de 10 de junio de 2020](./O10_6_2020_bolsas_trabajo_profesorado_interino_andalucia.md).
 2. Para solicitar la no incorporación, el personal solicitante deberá cumplimentar el 
 formulario asociado a tal efecto a la resolución definitiva del presente procedimiento, que 
 será facilitado a través de la página electrónica de la Consejería de Desarrollo Educativo 
@@ -1065,7 +1077,7 @@ el curso académico 2026/2027, mantendrá la opción de ser adjudicatario de un 
 en aquel. 
 Decimonovena. Provisión de los puestos de trabajo docentes de las víctimas de 
 violencia de género así como de las víctimas del terrorismo.
-1. El artículo 21 de la Ley Orgánica 1/2004, de 28 de diciembre, de Medidas de 
+1. El artículo 21 de la [Ley Orgánica 1/2004](../../../estatal/07_convivencia_bienestar_y_protocolos/LO1_2004_medidas_proteccion_integral_contra_violencia_genero.md), de 28 de diciembre, de Medidas de 
 Protección Integral contra la Violencia de Género, establece los derechos laborales de 
 las mujeres víctimas de violencia de género, con el objetivo de evitar que abandonen 
 el mercado laboral a causa de la violencia que sufren. Se les reconocen derechos 
@@ -1099,9 +1111,9 @@ destinos adjudicados no serán públicos ni podrán ser revelados como una forma
 de obtención de los mismos, salvaguardando en todas las actuaciones del procedimiento 
 su intimidad, en especial sus datos personales, los de sus descendientes o los de 
 cualquier persona que esté bajo su guarda o custodia, de conformidad con lo establecido 
-en el artículo 29 del Decreto 302/2010, de 1 de junio, en consonancia con el artículo 82.2 
+en el artículo 29 del [Decreto 302/2010](./D302_2010_ordenacion_funcion_publica_docente_seleccion_provision_andalucia.md), de 1 de junio, en consonancia con el artículo 82.2 
 del texto refundido de la Ley del Estatuto Básico del Empleado Público, aprobado por el 
-Real Decreto Legislativo 5/2015, de 30 de octubre.
+[Real Decreto Legislativo 5/2015](../../../estatal/01_marco_normativo_general_y_organico/RDL5_2015_aprueba_texto_refundido_ley_estatuto_basico.md), de 30 de octubre.
 
 00339222
  Número 115 - Miércoles, 17 de junio de 2026
@@ -1114,7 +1126,7 @@ https://www.juntadeandalucia.es/eboja
 Vigésima. Declaración de urgencia.
 Debido a la necesidad perentoria de que estén cubiertos al inicio del curso académico 
 2026/2027 los puestos objeto de esta convocatoria, y en virtud de lo establecido en el 
-artículo 33 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común 
+artículo 33 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Administrativo Común 
 de las Administraciones Públicas, este procedimiento se tramitará con carácter de 
 urgencia.
 Recursos procedentes.
@@ -1122,9 +1134,9 @@ Contra la presente resolución, que pone fin a la vía administrativa, podrá in
 potestativamente, recurso de reposición, ante la persona titular de la Dirección General 
 del Profesorado y Gestión de Recursos Humanos, en el plazo de un mes a contar desde 
 el día siguiente al de su publicación en el Boletín Oficial de la Junta de Andalucía, de 
-conformidad con los artículos 112.1, 123 y 124 de la Ley 39/2015, de 1 de octubre, 
+conformidad con los artículos 112.1, 123 y 124 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, 
 del Procedimiento Administrativo Común de las Administraciones Públicas, y en el 
-artículo 115.2 de la Ley 9/2007, de 22 de octubre, de la Administración de la Junta de 
+artículo 115.2 de la [Ley 9/2007](../01_marco_normativo_general_y_organico/L9_2007_administracion_junta_andalucia_laja.md), de 22 de octubre, de la Administración de la Junta de 
 Andalucía, o alternativa y directamente, en el plazo de dos meses a contar desde el 
 día siguiente al de su publicación, recurso contencioso-administrativo ante el órgano 
 jurisdiccional competente, conforme a lo establecido en los artículos 8.2.a), 14 y 46.1 de 

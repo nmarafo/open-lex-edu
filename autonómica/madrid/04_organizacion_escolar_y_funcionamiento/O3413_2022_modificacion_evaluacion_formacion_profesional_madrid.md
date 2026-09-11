@@ -48,9 +48,21 @@ relaciones:
   - norma_id: norm-es-l-39-2015
   - norma_id: norm-es-l-40-2015
   - norma_id: norm-mad-d-29-2013
+fundamentos_derecho:
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-can-res-134
+- norma_id: norm-mad-d-52-2021
+- norma_id: norm-mad-l12-1999-creacion-consejo-escolar-comunidad-madrid
+- norma_id: norm-mad-l1-1983-gobierno-administracion-comunidad-madrid
+- norma_id: norm-mad-d-63-2019
+- norma_id: norm-mad-o893-2022
+- norma_id: norm-es-l-39-2015
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-lo-3-2022
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
 ---
-
-# Orden 3413/2022, de 15 de noviembre, de la Consejería de Educación, Universidades, Ciencia y Portavocía, por la que se modifica la Orden 893/2022 de evaluación y matrícula en Formación Profesional
+# Orden 3413/2022, de 15 de noviembre, de la Consejería de Educación, Universidades, Ciencia y Portavocía, por la que se modifica la [Orden 893/2022](./O893_2022_procedimientos_evaluacion_matricula_formacion_profesional_madrid.md) de evaluación y matrícula en Formación Profesional
 
 ## Preámbulo
 
@@ -58,12 +70,12 @@ BOCM
 Vicepresidencia, Consejería de Educación y Universidades
 12
 ORDEN 3413/2022, de 15 de noviembre, de la Vicepresidencia, Consejería de
-Educación y Universidades, por la que se modifica la Orden 893/2022, de 21 de
+Educación y Universidades, por la que se modifica la [Orden 893/2022](./O893_2022_procedimientos_evaluacion_matricula_formacion_profesional_madrid.md), de 21 de
 abril, de la Consejería de Educación, Universidades, Ciencia y Portavocía, por
 la que se regulan los procedimientos relacionados con la organización, la ma-
 trícula, la evaluación y acreditación académica de las enseñanzas de formación
 profesional del sistema educativo en la Comunidad de Madrid.
-La Ley Orgánica 2/2006, de 3 de mayo, de Educación, dedica el capítulo V de su títu-
+La [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, dedica el capítulo V de su títu-
 lo I a las enseñanzas de formación profesional del sistema educativo. En su artículo 39 re-
 coge los principios generales y establece que la formación profesional en el sistema educa-
 tivo comprende los ciclos formativos de grado básico, de grado medio y de grado superior,
@@ -73,7 +85,7 @@ campos profesionales y el Gobierno podrá aprobar la inclusión en la formación
 del sistema educativo de otros programas formativos. Asimismo, en su artículo 42 estable-
 ce que corresponde a las Administraciones educativas, en el ámbito de sus competencias,
 programar la oferta de las enseñanzas de formación profesional.
-La Ley Orgánica 3/2022, de 31 de marzo, de Ordenación e Integración de la Forma-
+La [Ley Orgánica 3/2022](../../canarias/08_personal_docente/R30_6_2023_ordenacion_gestion_determinadas_listas_empleo_tras.md), de 31 de marzo, de Ordenación e Integración de la Forma-
 ción Profesional, tiene por objeto la constitución y ordenación de un sistema único e inte-
 grado de formación profesional, y como finalidad, la regulación de un régimen de forma-
 ción y acompañamiento profesionales que, sirviendo al fortalecimiento, la competitividad
@@ -81,7 +93,7 @@ y la sostenibilidad de la economía española, sea capaz de responder con flexib
 intereses, las expectativas y las aspiraciones de cualificación profesional de las personas a
 lo largo de su vida y a las competencias demandadas por las nuevas necesidades productivas
 y sectoriales, tanto para el aumento de la productividad como para la generación de empleo.
-En el ámbito de la Comunidad de Madrid se promulgó el Decreto 63/2019, de 16 de
+En el ámbito de la Comunidad de Madrid se promulgó el [Decreto 63/2019](../03_ordenacion_curricular_y_ensenanzas/D63_2019_ordenacion_organizacion_formacion_profesional_madrid.md), de 16 de
 julio, del Consejo de Gobierno, por el que se regula la ordenación y organización de la for-
 mación profesional en la Comunidad de Madrid, que ha establecido los principios rectores
 en la organización y ordenación de la oferta de enseñanzas de formación profesional en
@@ -90,7 +102,7 @@ to determina las características generales de oferta en los diferentes regímen
 des en los que pueden impartirse las enseñanzas de formación profesional del sistema edu-
 cativo, así como, entre otros ámbitos, determinados aspectos sobre las condiciones para la
 matriculación, la evaluación y la atención a la diversidad.
-La Orden 893/2022, de 21 de abril, de la Consejería de Educación, Universidades,
+La [Orden 893/2022](./O893_2022_procedimientos_evaluacion_matricula_formacion_profesional_madrid.md), de 21 de abril, de la Consejería de Educación, Universidades,
 Ciencia y Portavocía, por la que se regulan los procedimientos relacionados con la organi-
 zación, la matrícula, la evaluación y acreditación académica de las enseñanzas de forma-
 ción profesional del sistema educativo en la Comunidad de Madrid, en desarrollo del De-
@@ -114,8 +126,8 @@ BOCM
 nización de los ciclos formativos impartidos en cualquiera de los regímenes y modalidades
 de formación profesional.
 La presente Orden cumple con los principios de buena regulación que recoge el artícu-
-lo 129 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las
-Administraciones Públicas, y el artículo 2 del Decreto 52/2021, de 24 de marzo, del Con-
+lo 129 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Administrativo Común de las
+Administraciones Públicas, y el artículo 2 del [Decreto 52/2021](../01_marco_normativo_general_y_organico/D52_2021_procedimiento_elaboracion_disposiciones_normativas_madrid.md), de 24 de marzo, del Con-
 sejo de Gobierno, por el que se regula y simplifica el procedimiento de elaboración de las
 disposiciones normativas de carácter general en la Comunidad de Madrid. Se ajusta a las
 exigencias de los principios de necesidad y eficacia, puesto que mejora los procedimientos
@@ -123,7 +135,7 @@ de matrícula y evaluación, así como los relacionados con el desarrollo del m�
 nal de Formación en Centros de Trabajo. Asimismo, se dicta conforme al principio de propor-
 cionalidad, puesto que aporta mayor coherencia en el desarrollo de las enseñanzas de forma-
 ción profesional que componen la oferta formativa, y no se extralimita en sus disposiciones
-respecto a lo establecido en la normativa básica de aplicación y en el Decreto 63/2019, de 16
+respecto a lo establecido en la normativa básica de aplicación y en el [Decreto 63/2019](../03_ordenacion_curricular_y_ensenanzas/D63_2019_ordenacion_organizacion_formacion_profesional_madrid.md), de 16
 de julio. El cumplimiento de estos principios contribuye a lograr un ordenamiento autonó-
 mico sólido y coherente en materia de ordenación académica, que garantiza el principio de
 seguridad jurídica. Asimismo, se cumple con el principio de eficiencia evitando cargas ad-
@@ -135,25 +147,25 @@ mediante la publicación de la Orden y de los documentos de su proceso de elabor
 el portal de transparencia de la Comunidad de Madrid.
 Por lo que respecta a la tramitación, en la elaboración de la presente disposición nor-
 mativa ha emitido dictamen el Consejo Escolar de la Comunidad de Madrid, de acuerdo con
-lo establecido en el artículo 2.1 de la Ley 12/1999, de 29 de abril, de creación del Consejo
+lo establecido en el artículo 2.1 de la [Ley 12/1999](../01_marco_normativo_general_y_organico/L12_1999_creacion_consejo_escolar_comunidad_madrid.md), de 29 de abril, de creación del Consejo
 Escolar de la Comunidad de Madrid, y se han recabado los informes en materia de impac-
 to por razón de género, por razón de orientación sexual e identidad y expresión de género,
 y de impacto en materia de familia, infancia y adolescencia, así como el de la Abogacía Ge-
 neral, de conformidad con lo dispuesto en el artículo 4.1.a) de la Ley 3/1999, de 30 de mar-
 zo, de Ordenación de los Servicios Jurídicos de la Comunidad de Madrid.
 Por todo ello, en el ejercicio de las competencias atribuidas en el artículo 41.d) de la
-Ley 1/1983, de 13 de diciembre, de Gobierno y Administración de la Comunidad de
+[Ley 1/1983](../01_marco_normativo_general_y_organico/L1_1983_gobierno_administracion_comunidad_madrid.md), de 13 de diciembre, de Gobierno y Administración de la Comunidad de
 Madrid, y de conformidad con lo establecido en el Decreto 236/2021, de 17 de noviembre,
 del Consejo de Gobierno, por el que se establece la estructura orgánica de la Consejería de
 Educación, Universidades, Ciencia y Portavocía, en relación con el Decreto 38/2022, de 15
 de junio, del Consejo de Gobierno, por el que se crea la Vicepresidencia, Consejería de
-Educación y Universidades, así como en la disposición final primera del Decreto 63/2019,
+Educación y Universidades, así como en la disposición final primera del [Decreto 63/2019](../03_ordenacion_curricular_y_ensenanzas/D63_2019_ordenacion_organizacion_formacion_profesional_madrid.md),
 de 16 de julio,
 DISPONGO:
 
 #### Artículo . #### Artículo . #### Artículo único
 
-Modificación de la Orden 893/2022, de 21 de abril, de la Consejería de Educación,
+Modificación de la [Orden 893/2022](./O893_2022_procedimientos_evaluacion_matricula_formacion_profesional_madrid.md), de 21 de abril, de la Consejería de Educación,
 Universidades, Ciencia y Portavocía, por la que se regulan los procedimientos
 relacionados con la organización, la matrícula, la evaluación
 y acreditación académica de las enseñanzas de formación profesional
@@ -347,7 +359,7 @@ cido para la Comunidad de Madrid”.
 
 Los centros docentes que imparten enseñanzas de formación profesional a distancia
 podrán modificar el calendario de actividades de evaluación para el curso 2022-2023, al que
-se refiere el artículo 30.5 de la Orden 893/2022, de 21 de abril, para adaptarlo, en su caso,
+se refiere el artículo 30.5 de la [Orden 893/2022](./O893_2022_procedimientos_evaluacion_matricula_formacion_profesional_madrid.md), de 21 de abril, para adaptarlo, en su caso,
 a la presente Orden. El nuevo calendario deberá ser comunicado a la Dirección de Área Te-
 rritorial correspondiente en el plazo de un mes a partir del día siguiente a la publicación de
 esta Orden.

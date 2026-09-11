@@ -353,13 +353,14 @@ relaciones:
   articulos:
   - norma_id: '1'
   - norma_id: '2.1'
+fundamentos_derecho:
+- norma_id: norm-can-lo-1-2018
 ---
-
 # Resolución de 7 de noviembre de 2018, del Ayuntamiento de Zaragoza, referente a la convocatoria para proveer varias plazas.
 
 ## Preámbulo
 
-BOE-A-2018-15138 Ley Orgánica 1/2018, de 5 de noviembre, de reforma del Estatuto de Autonomía de Canarias.
+BOE-A-2018-15138 [Ley Orgánica 1/2018](../../autonómica/canarias/01_marco_normativo_general_y_organico/LO1_2018_reforma_estatuto_autonomia_canarias.md), de 5 de noviembre, de reforma del Estatuto de Autonomía de Canarias.
 
 ## Agencia Estatal Boletín Oficial del Estado
 
@@ -397,7 +398,7 @@ La consolidación consiste en integrar en un solo texto, sin valor oficial, las 
 
 Ayuda
 
-### Ley Orgánica 1/2018, de 5 de noviembre, de reforma del Estatuto de Autonomía de Canarias.
+### [Ley Orgánica 1/2018](../../autonómica/canarias/01_marco_normativo_general_y_organico/LO1_2018_reforma_estatuto_autonomia_canarias.md), de 5 de noviembre, de reforma del Estatuto de Autonomía de Canarias.
 
 Publicado en:
 «BOE» núm. 268, de 06/11/2018. Entrada en vigor:

@@ -75,8 +75,9 @@ relaciones:
   articulos:
   - norma_id: '1'
   - norma_id: '6'
+fundamentos_derecho:
+- norma_id: norm-es-lo-8-1985
 ---
-
 # Real Decreto 806/1993, de 28 de mayo, sobre régimen de Centros docentes extranjeros en España.
 
 ## Preámbulo

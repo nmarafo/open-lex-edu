@@ -187,8 +187,24 @@ relaciones:
   - norma_id: norm-es-rd-659-2023
   - norma_id: norm-es-2010-12201
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2024-251-4224.pdf
+fundamentos_derecho:
+- norma_id: norm-can-d-84-2024
+- norma_id: norm-can-l-6-2014
+- norma_id: norm-can-res-boc-2024-230-25
+- norma_id: norm-can-d-81-2010
+- norma_id: norm-can-o-2013-10-09
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-can-res-134
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-rd-132-2010
+- norma_id: norm-es-lo-3-2022
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2024-10683
+- norma_id: norm-es-2024-10684
+- norma_id: norm-es-2024-10685
+- norma_id: norm-es-rd-659-2023
+- norma_id: norm-es-2010-12201
 ---
-
 # Resolución de 10 de diciembre de 2024, de la Dirección General de Formación Profesional y Enseñanzas de Régimen Especial,-por la que se dictan instrucciones y orientaciones para la implantación y desarrollo de la oferta en las modalidades semipresencial y virtual de certificados profesionales de Grado C, ciclos formativos de Grado D y cursos especialización de Grado E a partir del curso 2024/2025 en el ámbito de la Comunidad Autónoma de Canarias (BOC nº 251, de 18 de diciembre).
 
 ## Preámbulo
@@ -207,7 +223,7 @@ Segundo.- La LOOIFP indica que las enseñanzas de formación profesional pertene
 Tercero.- La [Ley 6/2014](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md), de 25 de julio, Canaria de Educación no Universitaria, en su exposición de motivos, hace referencia al aprendizaje a lo largo de la vida, considerando la educación como un "factor decisivo para alcanzar una sociedad más culta, más justa, más crítica y solidaria, una sociedad con más oportunidades para que cada persona pueda desarrollar plenamente sus capacidades". Entre sus principios, el artículo 5.2.j) de la Ley señala que se deben "Adaptar todas las enseñanzas profesionales, incluyendo la educación de personas adultas y las enseñanzas de régimen especial, a las necesidades propias del desarrollo inteligente, sostenible e integrador, que permita a Canarias aprovechar sus fortalezas en una economía globalizada". Asimismo, en el artículo 40.1 se señala que "El Gobierno, para facilitar el derecho universal a la educación, debe desarrollar una oferta adecuada de educación no presencial, ya sea en la modalidad semipresencial o a distancia" y en al artículo 40.2 que "se pueden impartir en la modalidad de educación no presencial (...) la formación profesional, la formación para el empleo y la formación permanente".
 
 Cuarto.- El [Real Decreto 659/2023](R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, por el que se desarrolla la ordenación del Sistema de Formación Profesional, regula en su artículo 25 las condiciones y requisitos básicos para el desarrollo de todas las modalidades de la formación profesional, haciendo énfasis en las modalidades semipresencial y virtual, mientras que en su artículo 26 hace hincapié que las modalidades semipresencial y virtual deben permitir combinar la formación con la actividad laboral u otras responsabilidades, así como con aquellas situaciones personales que dificulten la formación en régimen presencial. La organización y metodología de estas modalidades deben permitir a las personas que opten por ellas un proceso de aprendizaje, de seguimiento y de tutorización sistemático y personalizado, basados en los principios de accesibilidad del Diseño Universal para el Aprendizaje (DUA).
-Quinto.- El Real Decreto 658/2024, de 9 de julio, por el que se modifican el Real Decreto 132/2010, de 12 de febrero, por el que se establecen los requisitos mínimos de los centros que impartan las enseñanzas del segundo ciclo de la educación infantil, la educación primaria y la educación secundaria, y el [Real Decreto 659/2023](./R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, por el que se desarrolla la ordenación del Sistema de Formación Profesional, que modifica el apartado 13 del artículo 18 l [Real.
+Quinto.- El Real Decreto 658/2024, de 9 de julio, por el que se modifican el [Real Decreto 132/2010](../../../estatal/02_gestion_y_administracion_centros/RD132_2010_establecen_requisitos_minimos_centros_impartan_ensenanzas.md), de 12 de febrero, por el que se establecen los requisitos mínimos de los centros que impartan las enseñanzas del segundo ciclo de la educación infantil, la educación primaria y la educación secundaria, y el [Real Decreto 659/2023](./R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, por el que se desarrolla la ordenación del Sistema de Formación Profesional, que modifica el apartado 13 del artículo 18 l [Real.
 
 Decreto 659/2023](./R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md) respecto al número de convocatorias objeto de evaluación de cada módulo profesional en función de la oferta formativa que se trate.
 Sexto.- Respecto a la formación en empresas u organismos equiparados en las ofertas de ciclos formativos de Grado D y E, los siguientes Reales Decretos que complementan al [Real Decreto 659/2023](./R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md):
@@ -389,7 +405,7 @@ Decreto 659/2023](./R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual
 
 10. La exención del periodo de formación en empresa u organismo equiparado se realizará según lo establecido en los artículos 131 y 161 del [Real Decreto 659/2023](./R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, o la normativa específica que se establezca por parte de la DGFPERE.
 
-11. El alumnado podrá realizar la formación en empresa en un máximo de dos ocasiones, tanto en modalidad semipresencial como en virtual, según lo previsto en el Real Decreto 659/2023, de 18 de julio.
+11. El alumnado podrá realizar la formación en empresa en un máximo de dos ocasiones, tanto en modalidad semipresencial como en virtual, según lo previsto en el [Real Decreto 659/2023](./R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio.
 
 #### Novena. Evaluación.
 
@@ -403,7 +419,7 @@ A) Características generales.
 
 4. El profesorado reflejará los resultados obtenidos por el alumnado en los distintos instrumentos de evaluación aplicados, de acuerdo con el artículo 19 l.
 
-Real Decreto 659/2023, de 18 de julio. En el caso de que personas expertas hayan impartido uno o varios módulos profesionales, bajo la supervisión del responsable de la modalidad de la oferta formativa, firmarán conjuntamente los documentos de evaluación y, en particular, las actas de evaluación. La enseñanza semipresencial y virtual tendrá en los Grados D, al menos, el mismo número de sesiones de evaluación que la enseñanza presencial. En dichas sesiones se evaluarán y calificarán los módulos que en dicho momento se estén impartiendo, los finalizados reflejarán en los documentos de evaluación la calificación correspondiente y los no finalizados se consignarán como "No evaluado" (N.E.).
+[Real Decreto 659/2023](./R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio. En el caso de que personas expertas hayan impartido uno o varios módulos profesionales, bajo la supervisión del responsable de la modalidad de la oferta formativa, firmarán conjuntamente los documentos de evaluación y, en particular, las actas de evaluación. La enseñanza semipresencial y virtual tendrá en los Grados D, al menos, el mismo número de sesiones de evaluación que la enseñanza presencial. En dichas sesiones se evaluarán y calificarán los módulos que en dicho momento se estén impartiendo, los finalizados reflejarán en los documentos de evaluación la calificación correspondiente y los no finalizados se consignarán como "No evaluado" (N.E.).
 
 5. El alumnado incorporado una vez iniciado el curso, con posterioridad a la realización de actividades de evaluación, o con módulos ya finalizados, tendrá acceso a todo el material didáctico, debiendo realizar las actividades evaluables pendientes con carácter previo a la prueba de evaluación final.
 
@@ -422,7 +438,7 @@ B) Evaluación de la formación en empresa u organismo equiparado.
 
 1. La evaluación de la formación en empresa u organismo equiparado en modalidad semipresencial y virtual se regirá por lo dispuesto en el artículo 163 l.
 
-Real Decreto 659/2023, de 18 de julio, así como por la Resolución de la DGFPERE por la que se dictan instrucciones para la formación en empresa u organismo equiparado. En ningún caso se considerará que un módulo está superado hasta que no se haya finalizado y superado la formación en la empresa u organismo equiparado en los Grados C, D y E que así lo tuvieran contemplado en sus currículos.
+[Real Decreto 659/2023](./R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, así como por la Resolución de la DGFPERE por la que se dictan instrucciones para la formación en empresa u organismo equiparado. En ningún caso se considerará que un módulo está superado hasta que no se haya finalizado y superado la formación en la empresa u organismo equiparado en los Grados C, D y E que así lo tuvieran contemplado en sus currículos.
 
 2. La formación en empresa u organismo equiparado será evaluada en términos de superado o no superado, aplicando los mismos criterios que para la formación en empresa u organismo equiparado en la modalidad presencial. Para ello se tendrán en cuenta los resultados de aprendizaje y criterios de evaluación recogidos en el plan formativo individual coordinado entre el equipo educativo y el tutor o tutora de empresa.
 
@@ -514,7 +530,7 @@ D) Titulación y certificación:
 a) **Curso 2024-2025.** Se implementa la nueva distribución horaria del primer curso de los Grados D y de los nuevos Cursos de Especialización de los Grados E establecida por la nueva ordenación académica LOOIFP. En este curso escolar se mantiene la distribución horaria y las instrucciones que para la oferta de Formación Profesional semipresencial estableció la Resolución de 23 de septiembre de 2020 para el segundo y tercer cursos, dejando de impartirse el primer curso, salvo aquellos módulos que el alumnado que ha promocionado al segundo curso tiene que recuperar. Quienes en el curso 2024-2025 deban repetir el primer curso serán adaptados a la nueva ordenación académica. Las personas que al finalizar el curso escolar 2023-2024 no hayan superado ningún módulo profesional en el anterior régimen de enseñanza, deberán matricularse obligatoriamente en la nueva ordenación académica. Por otro lado, si tuvieran superados módulos del sistema que se extingue, dichos módulos se considerarán superados, en su caso, en el nuevo plan de estudios. De igual forma, si tuvieran superados los módulos de FOL y/o Empresa e iniciativa emprendedora, se considerarán superados los módulos de Itinerario personal para la empleabilidad I e Itinerario personal para la empleabilidad II, respectivamente; asimismo, de igual forma, si se hubiera obtenido una evaluación positiva en los antiguos módulos de Inglés (código 0156) para ciclos de grado medio, Inglés (código
 0179) y Lengua Extranjera (Inglés) para ciclos de grado superior, se considerará superado el módulo de Inglés Profesional (GM y GS, respectivamente). En todo caso, se le aplicarán las convalidaciones para los módulos superados que han sido establecidas en el artículo 15 l.
 
-Real Decreto que establece el título correspondiente y se fijan los aspectos básicos del currículo, dado en su redacción actual, y en el Real Decreto 659/2023, de 18 de julio.
+Real Decreto que establece el título correspondiente y se fijan los aspectos básicos del currículo, dado en su redacción actual, y en el [Real Decreto 659/2023](./R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio.
 b) **Curso 2025-2026.** Se implementa la nueva distribución horaria del segundo curso de los Grados D establecida por la nueva ordenación académica LOOIFP, completando su implantación. En este curso escolar se mantiene la distribución horaria y las instrucciones que para la oferta de Formación Profesional semipresencial estableció la Resolución de 23 de septiembre de 2020 para el tercer curso, dejando de impartirse los segundos cursos, tanto en los ciclos formativos estructurados en dos cursos como en tres, salvo aquellos módulos que el alumnado que ha promocionado al tercer curso tiene que recuperar, o en el caso de los ciclos formativos estructurados en dos cursos, los módulos que tenga pendientes y/o la Formación en Centros de Trabajo para poder acceder a la titulación.
 c) **Curso 2026-2027.** En este curso escolar se deja de impartir la organización del sistema anterior, quedando sin efecto la Resolución de 23 de septiembre de 2020, por la que se dictan instrucciones para la organización y funcionamiento de la oferta de Formación Profesional semipresencial en la Comunidad Autónoma de Canarias, a partir del curso 2020-2021, salvo aquellos módulos que el alumnado tenga pendientes y/o la Formación en
 

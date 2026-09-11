@@ -27,8 +27,17 @@ relaciones:
   - norm-can-l-6-2014
   - norm-es-lo-2-2006
 fuente_pdf_oficial: https://www.gobiernodecanarias.org/cmsgob1/export/sites/educacion/web/_galerias/descargas/normativa-internas/resolucion_absentismo_abandono_escolar_temprano_19.pdf
+fundamentos_derecho:
+- norma_id: norm-can-d-135-2016
+- norma_id: norm-can-l-1-1997
+- norma_id: norm-can-l-6-2014
+- norma_id: norm-can-d-81-2010
+- norma_id: norm-can-o-2013-10-09
+- norma_id: norm-can-d-174-2018-absentismo
+- norma_id: norm-es-l-40-2015
+- norma_id: norm-es-1985-5392
+- norma_id: norm-es-lo-3-2018
 ---
-
 # Resolución n.º 2/2019, de 23 de enero, del Viceconsejero de Educación y Universidades, por la que se dictan instrucciones sobre prevención, intervención y seguimiento del absentismo escolar y del abandono escolar temprano en los centros educativos de la Comunidad Autónoma de Canarias.
 
 ## Preámbulo
@@ -38,7 +47,7 @@ QUE  SE  DICTAN  INSTRUCCIONES  SOBRE  PREVENCIÓN,  INTERVENCIÓN  Y
 SEGUIMIENTO  DEL  ABSENTISMO  ESCOLAR  Y  DEL  ABANDONO  ESCOLAR 
 TEMPRANO EN LOS CENTROS EDUCATIVOS DE LA COMUNIDAD AUTÓNOMA DE 
 CANARIAS.
-Primero.-  Habiéndose producido la entrada en vigor del  Decreto 174/2018, de 3 de diciembre, de  
+Primero.-  Habiéndose producido la entrada en vigor del  [Decreto 174/2018](./D174_2018_reglamento_prevencion_intervencion_seguimiento_absentismo_abandono_escolar_canarias.md), de 3 de diciembre, de  
 aprobación del Reglamento por el que  se regula la prevención, la intervención y el seguimiento del  
 absentismo escolar y del abandono escolar temprano en el ámbito de la Comunidad Autónoma de  
 Canarias (BOC nº242 de 14 de diciembre) – en adelante, DPISAE-, se aprecia por parte de este centro  
@@ -53,7 +62,7 @@ Educación (BOE nº106, de 4 de mayo), determina, en su apartado primero, que la
 educativas  podrán  establecer  procedimientos  e  instrumentos  para  favorecer  y  estimular  la  gestión 
 conjunta con las Administraciones locales y la colaboración entre centros educativos y Administraciones 
 públicas. 
-Tercero  .  - Por otra parte, el artículo 25.2.n) de la Ley 7/1985, de 2 de abril, Reguladora de las Bases de 
+Tercero  .  - Por otra parte, el artículo 25.2.n) de la [Ley 7/1985](../../../estatal/02_gestion_y_administracion_centros/L7_1985_reguladora_bases_regimen_local.md), de 2 de abril, Reguladora de las Bases de 
 Régimen Local (BOE nº80, de 3 de abril), atribuye a los municipios, como competencias propias, en los 
 términos de la legislación del Estado y de las Comunidades Autónomas, entre otras, las de “participar 
 en la vigilancia del cumplimiento de la escolaridad obligatoria”.
@@ -61,7 +70,7 @@ Asimismo, la  Ley 7/2015, de 1 de abril, de los municipios de Canarias  (BOC nº
 establece en su artículo 11 que, sin perjuicio de lo previsto en la legislación básica, los municipios  
 canarios asumirán, en todo caso, las competencias que les asignen como propias las leyes sectoriales de 
 la Comunidad Autónoma de Canarias en materia de educación, entre otras.
-Cuarto  .-   De acuerdo con lo anterior, debe tenerse en consideración la  Ley 6/2014, de 25 de julio,  
+Cuarto  .-   De acuerdo con lo anterior, debe tenerse en consideración la  [Ley 6/2014](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md), de 25 de julio,  
 Canaria de Educación no Universitaria (BOC nº152, de 7 de agosto), que en su artículo 46.4 contempla 
 que  la  consejería  competente  en  materia  de  educación  y  los  centros  docentes  adoptarán  medidas 
 específicas para incentivar la puntualidad, prevenir y reducir el absentismo escolar y el abandono escolar 
@@ -77,8 +86,8 @@ QUE  SE  DICTAN  INSTRUCCIONES  SOBRE  PREVENCIÓN,  INTERVENCIÓN  Y
 SEGUIMIENTO  DEL  ABSENTISMO  ESCOLAR  Y  DEL  ABANDONO  ESCOLAR 
 TEMPRANO EN LOS CENTROS EDUCATIVOS DE LA COMUNIDAD AUTÓNOMA DE 
 CANARIAS.
-Quinto  .-   En coherencia con ello, el artículo 47 de la Orden de 9 de octubre de 2013, por la que se  
-desarrolla el Decreto 81/2010, de 8 de julio, por el que se aprueba el Reglamento Orgánico de los  
+Quinto  .-   En coherencia con ello, el artículo 47 de la [Orden de 9 de octubre de 2013](../04_organizacion_escolar_y_funcionamiento/O9_10_2013_desarrolla_decreto_aprueba_reglamento_organico_centros.md), por la que se  
+desarrolla el [Decreto 81/2010](../04_organizacion_escolar_y_funcionamiento/D81_2010_aprueba_reglamento_organico_centros_docentes_publicos.md), de 8 de julio, por el que se aprueba el Reglamento Orgánico de los  
 centros docentes públicos no universitarios de la Comunidad Autónoma de Canarias, en lo referente a 
 su organización y funcionamiento  (BOC nº200, de 16 de octubre), regula el procedimiento de control  
 de asistencia del alumnado.
@@ -96,18 +105,18 @@ conformidad  con  el  marco  jurídico  general  conformado  por  el  Reglamento
 Parlamento Europeo y del Consejo, de 27 de abril de 2016, relativo a la protección de las personas  
 físicas en lo que respecta al tratamiento de datos personales y a la libre circulación de estos datos y  
 por el que se deroga la Directiva 95/46/CE  (DOUE nº119, de 4 de mayo) -Reglamento general de  
-protección de datos (RGPD)- y la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos  
+protección de datos (RGPD)- y la [Ley Orgánica 3/2018](../../../estatal/02_gestion_y_administracion_centros/LO3_2018_proteccion_datos_personales_garantia_derechos_digitales.md), de 5 de diciembre, de Protección de Datos  
 Personales y garantía de los derechos digitales  (BOE nº294, de 6 de diciembre),  la  Orden de la  
 Excma. Sra. Consejera de Educación y Universidades nº185, de 28 de mayo de 2018, por la que se  
 registran  determinadas  actividades  de  tratamiento  de  datos  personales  gestionadas  por  este 
 Departamento  (http://www.gobiernodecanarias.org/cpj/dgmcs/temas/proteccion/tratamientos/ceu/ceu/gestion-
 alumnado-y-profesorado-centros-no-universitarios/) recoge, entre otras actividades, el tratamiento de los datos 
 referidos a faltas del alumnado.
-Por lo expuesto, en ejercicio de la facultad atribuida por el artículo 6 de la Ley 40/2015, de 1 de octubre, 
+Por lo expuesto, en ejercicio de la facultad atribuida por el artículo 6 de la [Ley 40/2015](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md), de 1 de octubre, 
 de Régimen Jurídico del Sector Público  (BOE nº236, de 2 octubre),  y el artículo 4 del  Decreto 
 212/1991, de 11 de septiembre, de organización de los Departamentos de la Administración Autonómica 
 de Canarias (BOC nº122, de 16 de septiembre), y teniendo en cuenta, por un lado el artículo 2.2 del  
-Decreto 135/2016, de 10 de octubre, por el que se aprueba el Reglamento Orgánico de la Consejería de 
+[Decreto 135/2016](../01_marco_normativo_general_y_organico/D135_2016_reglamento_organico_consejeria_educacion_universidades_cultura.md), de 10 de octubre, por el que se aprueba el Reglamento Orgánico de la Consejería de 
 DAVID PEREZ-DIONIS CHINEA - VICECONSEJERO EDUCACIÓN Y UNIVERSIDADES Fecha: 23/01/2019 - 09:59:33
 autenticidad de esta copia, mediante el número de documento electrónico siguiente:
  
@@ -275,7 +284,7 @@ CANARIAS.
 En caso de que la práctica de la notificación a las familias sea infructuosa o, materializada la misma, no 
 se aprecie manifestación alguna por parte de aquellas, se actuará de acuerdo a lo establecido en el  
 protocolo de actuación que se apruebe en el marco de colaboración con otras administraciones públicas y 
-entidades, previsto en la citada Ley Canaria de Educación no Universitaria y en la Ley 1/1997, de 7 de  
+entidades, previsto en la citada Ley Canaria de Educación no Universitaria y en la [Ley 1/1997](../01_marco_normativo_general_y_organico/L1_1997_atencion_integral_menores.md), de 7 de  
 febrero, de Atención Integral a los Menores (BOC nº176, de 17 de febrero).
 Asimismo, el artículo 14 del DPISAE determina que las personas responsables de los centros escolares 
 deberán controlar el absentismo escolar, estando obligadas a colaborar con los servicios municipales u  

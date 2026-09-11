@@ -32,8 +32,15 @@ relaciones:
   - norm-es-lo-8-2021
   - norm-es-lo-2-2006
   - norm-and-l17-2007
+fundamentos_derecho:
+- norma_id: norm-and-l17-2007
+- norma_id: norm-and-o20-6-2011-promocion-convivencia-mediacion-escolar-andalucia
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
+- norma_id: norm-es-lo-8-2021
 ---
-
 # Instrucciones de 1 de julio de 2022, de la Dirección General de Atención a la Diversidad, Participación y Convivencia Escolar, relativa a la coordinación de bienestar y protección de la infancia y adolescencia en los centros docentes públicos de Andalucía.
 
 ## Preámbulo
@@ -48,11 +55,11 @@ INSTRUCCIONES DE 1 DE JULIO DE 2022, DE LA DIRECCIÓN GENERAL DE ATENCIÓN A LA
 DIVERSIDAD, PARTICIPACIÓN Y CONVIVENCIA ESCOLAR RELATIVA A LA COORDINACIÓN DE
 BIENESTAR Y PROTECCIÓN DE LA INFANCIA Y ADOLESCENCIA EN LOS CENTROS DOCENTES
 PÚBLICOS DE ANDALUCÍA.
-La ley Orgánica 2/2006, de 3 de mayo, de Educación, en la redacción dada por la Ley Orgánica 3/2020, de 29
+La [ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, en la redacción dada por la Ley Orgánica 3/2020, de 29
 de diciembre, establece en su artículo 124.5 que las Administraciones educativas regularán los requisitos y
 las funciones que debe desempeñar el coordinador o coordinadora de bienestar y protección, que debe
 designarse en todos los centros educativos independientemente de su titularidad.
-La Ley Orgánica 8/2021, de 4 de junio, de protección integral a la infancia y la adolescencia frente a la
+La [Ley Orgánica 8/2021](../../../estatal/07_convivencia_bienestar_y_protocolos/LO8_2021_proteccion_integral_infancia_adolescencia_frente_violencia.md), de 4 de junio, de protección integral a la infancia y la adolescencia frente a la
 violencia, establece las funciones encomendadas a la figura del coordinador o coordinadora de bienestar y
 protección en los centros educativos, señalando que las Administraciones educativas competentes
 determinarán los requisitos y funciones que debe desempeñar el coordinador o coordinadora de bienestar y
@@ -71,7 +78,7 @@ estructuras de organización encaminadas a asegurar el cuidado de la convivencia
 valores de una ciudadanía democrática y la implicación de las familias y el entorno en la vida del centro, así
 como la resolución pacífica de conflictos, el recurso de la mediación y la adecuada aplicación de los
 protocolos en materia de prevención y  protección ante cualquier forma de violencia.
-La Orden de 20 de junio de 2011, por la que se adoptan medidas para la promoción de la convivencia en los
+La [Orden de 20 de junio de 2011](./O20_6_2011_promocion_convivencia_mediacion_escolar_andalucia.md), por la que se adoptan medidas para la promoción de la convivencia en los
 centros docentes sostenidos con fondos públicos y se regula el derecho de las familias a participar en el
 proceso educativo de sus hijos e hijas, establece que la dirección de los centros docentes podrá designar a un
 profesor o profesora como responsable de la coordinación del Plan de convivencia, pudiendo disponer, de
@@ -81,7 +88,7 @@ normativa vigente sobre horario del profesorado. Esta figura que actualmente pue
 través del Sistema de Información Séneca, de acuerdo con sus necesidades organizativas y de gestión, y que
 cuenta con el correspondiente reconocimiento a efectos de procedimientos de provisión de vacantes y de
 reconocimiento de sexenios, sería plenamente asimilable a la de coordinación de bienestar y protección, que
-según el citado artículo 124.5 de la Ley Orgánica 2/2006, de 3 de mayo, debe designarse en todos los centros
+según el citado artículo 124.5 de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, debe designarse en todos los centros
 educativos independientemente de su titularidad.
 FIRMADO POR
 ALMUDENA GARCIA ROSADO
@@ -103,19 +110,19 @@ Estas Instrucciones tienen por objeto concretar las actuaciones a desarrollar pa
 protección de la infancia y la adolescencia en los centros docentes públicos de la Junta de Andalucía. 
 SEGUNDA. Impulso y seguimiento de medidas que fomenten la protección de las personas menores de
 edad frente a cualquier forma de violencia.
-Conforme a lo establecido en el artículo 31 de Ley Orgánica 8/2021, de 4 de junio, de protección integral a la
+Conforme a lo establecido en el artículo 31 de [Ley Orgánica 8/2021](../../../estatal/07_convivencia_bienestar_y_protocolos/LO8_2021_proteccion_integral_infancia_adolescencia_frente_violencia.md), de 4 de junio, de protección integral a la
 infancia y la adolescencia frente a la violencia, el Claustro de profesorado y el Consejo Escolar asumirán entre
 sus competencias el impulso de la adopción y seguimiento de medidas educativas que fomenten el
 reconocimiento y protección de los derechos de las personas menores de edad ante cualquier forma de
 violencia. 
 TERCERA. Seguridad en la contratación de personal.
-Conforme a lo establecido en el artículo 32 de la citada Ley Orgánica 8/2021, de 4 de junio, las personas que
+Conforme a lo establecido en el artículo 32 de la citada [Ley Orgánica 8/2021](../../../estatal/07_convivencia_bienestar_y_protocolos/LO8_2021_proteccion_integral_infancia_adolescencia_frente_violencia.md), de 4 de junio, las personas que
 ostenten la dirección de los centros educativos supervisarán la seguridad en la contratación de personal y
 controlarán la aportación de los certificados obligatorios del Registro Central de delincuentes sexuales y trata
 de seres humanos, tanto del personal auxiliar, contrato de servicio, u otros profesionales que trabajen o
 colaboren habitualmente en el centro escolar de forma retribuida o no.
 CUARTA. Coordinación de bienestar y protección de la infancia y adolescencia.
-Conforme a lo establecido en el artículo 35 de la Ley Orgánica 8/2021, de 4 de junio, los centros docentes
+Conforme a lo establecido en el artículo 35 de la [Ley Orgánica 8/2021](../../../estatal/07_convivencia_bienestar_y_protocolos/LO8_2021_proteccion_integral_infancia_adolescencia_frente_violencia.md), de 4 de junio, los centros docentes
 donde cursen estudios personas menores de edad deberán contar con un coordinador o coordinadora de
 bienestar y protección del alumnado. Las funciones de coordinación de bienestar y protección del alumnado
 se podrán asumir por el personal que ostente la coordinación del Plan de convivencia que los centros
@@ -165,7 +172,7 @@ Plan de convivencia del centro de modo que se reflejen en el Proyecto educativo 
 coordinación del Claustro de profesorado del centro deberá ser aprobada anualmente por parte del Consejo
 Escolar.
 SÉPTIMA.  Centros privados.
-De acuerdo con lo establecido en el artículo 35 de la Ley Orgánica 8/2021, de 4 de junio, de protección
+De acuerdo con lo establecido en el artículo 35 de la [Ley Orgánica 8/2021](../../../estatal/07_convivencia_bienestar_y_protocolos/LO8_2021_proteccion_integral_infancia_adolescencia_frente_violencia.md), de 4 de junio, de protección
 integral a la infancia y la adolescencia frente a la violencia, los centros docentes privados deberán contar,
 asimismo, con una figura que asuma las funciones de coordinación de bienestar y protección de la infancia y
 la adolescencia, pudiendo asignar estas funciones a personal ya existente en el centro escolar o a nuevo

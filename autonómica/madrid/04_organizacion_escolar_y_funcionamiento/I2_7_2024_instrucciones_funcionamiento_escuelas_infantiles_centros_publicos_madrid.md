@@ -28,8 +28,9 @@ relaciones:
   - norm-es-lo-2-2006
   - norm-mad-d-36-2022
 fuente_pdf_oficial: https://www.comunidad.madrid/docs/assets/2024/07/02/instrucciones_funcionamiento_escuelas_infantiles_a_partir_del_curso_2024-2025.pdf
+fundamentos_derecho:
+- norma_id: norm-mad-o123-2015
 ---
-
 # Instrucciones de 2 de julio de 2024, de la Dirección General de Educación Infantil, Primaria y Especial, sobre el funcionamiento de las escuelas infantiles de la red de centros públicos de la Comunidad de Madrid a partir del curso escolar 2024-2025.
 
 ## Preámbulo
@@ -80,7 +81,7 @@ y entregarla personalmente en el centro solicitado.
  
 2.1. HORARIO. 
  
-El Artículo 22 de la ORDEN 123/2015 (BOCM 11/02/15), indica que las escuelas infantiles y los 
+El Artículo 22 de la [ORDEN 123/2015](../05_alumnado_y_servicios_escolares/O123_2015_admision_alumnos_primer_ciclo_educacion_infantil_madrid.md) (BOCM 11/02/15), indica que las escuelas infantiles y los 
 centros privados de primer ciclo de Educación Infantil sostenidos con fondos públicos podrán 
 estar abiertos al menos desde las 7:30 horas y hasta las 17:30 horas. 
  

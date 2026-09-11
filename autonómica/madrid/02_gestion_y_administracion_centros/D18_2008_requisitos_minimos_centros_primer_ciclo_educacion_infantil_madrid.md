@@ -26,8 +26,14 @@ tags:
 - instalaciones
 - ratios
 - madrid
+fundamentos_derecho:
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-mad-l1-1983-gobierno-administracion-comunidad-madrid
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
+- norma_id: norm-es-2012-9282
 ---
-
 # Decreto 18/2008, de 6 de marzo, del Consejo de Gobierno, por el que se establecen los requisitos mínimos de los centros que imparten primer ciclo de Educación Infantil en el ámbito de la Comunidad de Madrid
 
 ## Preámbulo
@@ -40,7 +46,7 @@ requisitos mínimos de los centros que imparten primer ciclo de Educación Infan
  
  
  
-La Ley Orgánica 2/2006, de 3 de mayo, de Educación, establece la Educación Infantil 
+La [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, establece la Educación Infantil 
 como la primera etapa del sistema educativo, distinguiendo dos ciclos, el primero hasta los tres 
 años de edad y el segundo desde los tres a los seis años de edad. 
  
@@ -59,7 +65,7 @@ edad. En virtud de lo establecido en el referido artículo 14.7 procede que la C
 Madrid, en su ámbito territorial, regule las titulaciones que deben poseer dichos profesionales. 
  
 El Real Decreto 806/2006, de 30 de junio, por el que se establece el calendario de 
-aplicación de la nueva ordenación del sistema educativo, establecido en la Ley Orgánica 2/2006, 
+aplicación de la nueva ordenación del sistema educativo, establecido en la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), 
 de 3 de mayo, de Educación, regula en su artículo 4 que antes de la fecha de implantación del 
 primer ciclo de la Educación Infantil y, en todo caso, antes del 31 de diciembre del año 2007, se 
 establecerán los requisitos que deben cumplir los centros que imparten el primer ciclo de 
@@ -71,7 +77,7 @@ en el artículo 29 del Estatuto de Autonomía, y en su ámbito territorial, dete
 que deben cumplir los centros educativos que imparten el primer ciclo de Educación Infantil y 
 defina las titulaciones que deben poseer los correspondientes profesionales. 
  
-De conformidad con lo dispuesto en el artículo 21 de la Ley 1/1983, de 13 de diciembre, 
+De conformidad con lo dispuesto en el artículo 21 de la [Ley 1/1983](../01_marco_normativo_general_y_organico/L1_1983_gobierno_administracion_comunidad_madrid.md), de 13 de diciembre, 
 de Gobierno y Administración de la Comunidad de Madrid, a propuesta de la Consejera de 
 Educación, tras el preceptivo informe del Consejo Escolar de la Comunidad de Madrid, de 
 acuerdo con el Consejo de Estado y previa deliberación del Consejo de Gobierno, en su reunión 
@@ -296,7 +302,7 @@ a) Técnicos Superiores en Educación Infantil, o Técnico Especialista Educador
 Infantil (módulo de nivel III), o Técnico Especialista en Jardines de Infancia, o 
  
 2. 
-Véase el artículo 16 de la Ley 4/2012, de 4 de julio, de modificación de la Ley de Presupuestos 
+Véase el artículo 16 de la [Ley 4/2012](../../../estatal/08_personal_docente/L4_2012_medidas_administrativas_fiscales.md), de 4 de julio, de modificación de la Ley de Presupuestos 
 Generales de la Comunidad de Madrid para el año 2012, y de medidas urgentes de racionalización del 
 gasto público e impulso y agilización de la actividad económica (BOCM 9 de julio de 2012) 
 
@@ -377,7 +383,7 @@ del Real Decreto 806/2006, de 30 de junio, por el que se establece el calendario
  Decreto 18/2008, de 6 de marzo 
  
 6 
-la nueva ordenación del sistema educativo, establecido por la Ley Orgánica 2/2006, de 3 de 
+la nueva ordenación del sistema educativo, establecido por la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de 
 mayo, de Educación. 
  
 

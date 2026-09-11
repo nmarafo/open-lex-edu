@@ -29,8 +29,19 @@ relaciones:
   - norma_id: norm-es-lo-2-2006
   fundamentado_en:
   - norma_id: norm-and-l17-2007
+fundamentos_derecho:
+- norma_id: norm-and-l12-2007-promocion-igualdad-genero-andalucia
+- norma_id: norm-and-l17-2007
+- norma_id: norm-and-l6-2006-gobierno-comunidad-autonoma-andalucia
+- norma_id: norm-and-l9-2007-administracion-junta-andalucia-laja
+- norma_id: norm-and-d-71-2009
+- norma_id: norm-and-d25-2007-prevencion-riesgos-laborales-salud-trabajo-centros-docentes-andalucia
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-lo-8-1985
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
 ---
-
 # Decreto 361/2011, de 7 de diciembre, por el que se aprueba el Reglamento Orgánico de los Conservatorios Elementales y de los Conservatorios Profesionales de Música.
 
 ## Preámbulo
@@ -155,12 +166,12 @@ la Constitución, a tenor del cual corresponde al Estado dictar
 las normas básicas para el desarrollo del artículo 27 del texto 
 constitucional, a fin de garantizar el cumplimiento de las obli-
 gaciones de los poderes públicos en esta materia.
-La Ley Orgánica 2/2006, de 3 de mayo, de Educación, ha 
+La [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, ha 
 introducido importantes novedades en la organización, funcio-
 namiento y gobierno de los centros educativos, profundizando 
 en los conceptos de participación de la comunidad educativa y 
 de autonomía pedagógica, organizativa y de gestión.
-Por otra parte, la Ley 17/2007, de 10 de diciembre, de 
+Por otra parte, la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre, de 
 Educación de Andalucía, reconoce dichos principios al dedicar 
 el Título I a la comunidad educativa: alumnado, profesorado, al 
 que concede el papel relevante que representa en el sistema 
@@ -178,7 +189,7 @@ mismo, en la ley se refuerza la función directiva, potenciando
 su liderazgo pedagógico y organizativo. Finalmente, pone énfa-
 sis en la coordinación de las actuaciones de los distintos órga-
 nos y en el trabajo en equipo del profesorado. 
-Asimismo, la citada Ley 17/2007, de 10 de diciembre, es-
+Asimismo, la citada [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre, es-
 tablece en su artículo 82.1 que las enseñanzas elementales de 
 música se podrán impartir en los conservatorios elementales 
 y profesionales de música, mientras que en el artículo 85 dis-
@@ -197,7 +208,7 @@ manera más ajustada a los requerimientos que nuestra socie-
 dad y, por consiguiente nuestros centros, tienen hoy.
 Los cambios mencionados en las leyes anteriores, junto 
 con la necesidad de concretar y desarrollar los aspectos re-
-gulados en la Ley 17/2007, de 10 de diciembre, requieren de 
+gulados en la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre, requieren de 
 la derogación del reglamento orgánico de los conservatorios 
 profesionales de música actualmente en vigor.
 Aspecto significativo del Reglamento que se aprueba por 
@@ -229,7 +240,7 @@ yen elementos que se encuentran presentes en el Reglamento
 que se aprueba por el presente decreto.
 Por otra parte, la atribución de mayores competencias a 
 los directores y directoras, en desarrollo de lo establecido en 
-la mencionada Ley 17/2007, de 10 de diciembre, junto con 
+la mencionada [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre, junto con 
 la simplificación administrativa constituyen, indudablemente, 
 un novedoso marco regulador de la organización y funciona-
 miento de los conservatorios elementales y los conservatorios 
@@ -296,7 +307,7 @@ educativos y de convivencia, como forma de asunción de res-
 ponsabilidades compartidas en la tarea de educar a sus hijos 
 e hijas, entre las que cabría señalar la de colaboración en el 
 uso seguro de internet por el alumnado en consonancia con lo 
-regulado en el Decreto 25/2007, de 6 de febrero, por el que 
+regulado en el [Decreto 25/2007](./D25_2007_prevencion_riesgos_laborales_salud_trabajo_centros_docentes_andalucia.md), de 6 de febrero, por el que 
 se establecen medidas para el fomento, la prevención de ries-
 gos y la seguridad en el uso de internet y las tecnologías de la 
 información y la comunicación (TIC) por parte de las personas 
@@ -314,7 +325,7 @@ conformidad en lo establecido en el artículo 45.1.c) de la Ley
 tónoma de Andalucía.
 En su virtud, a propuesta del Consejero de Educación, de 
 conformidad con lo establecido en los artículos 27.9 y 44.1 de 
-la Ley 6/2006, de 24 de octubre, de acuerdo con el Consejo 
+la [Ley 6/2006](../01_marco_normativo_general_y_organico/L6_2006_gobierno_comunidad_autonoma_andalucia.md), de 24 de octubre, de acuerdo con el Consejo 
 Consultivo de Andalucía y previa deliberación del Consejo de 
 Gobierno en su reunión del día 7 de diciembre de 2011, 
 D I S P O N G O
@@ -385,12 +396,12 @@ párrafos c) y j), 62.1, 64.1 letras a), b), d), e), g), h), i), j), k), l),
 n) y s), 71.1 y 84.2 del Reglamento Orgánico que se aprueba 
 mediante el presente decreto reproducen normas dictadas por 
 el Estado al amparo del artículo 149.1.1.ª y 30.ª de la Consti-
-tución Española y recogidas en la Ley Orgánica 8/1985, de 
+tución Española y recogidas en la [Ley Orgánica 8/1985](../../../estatal/02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md), de 
 3 de julio, reguladora del Derecho a la Educación, en la Ley 
 Orgánica 2/2006, de 3 de mayo, de Educación, y en el Real 
 Decreto 303/2010, de 15 de marzo, por el que se establecen 
 los requisitos mínimos de los centros que imparten enseñan-
-zas artísticas reguladas en la Ley Orgánica 2/2006, de 3 de 
+zas artísticas reguladas en la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de 
 mayo, de Educación.
 Disposición final segunda. Reproducción de la normativa 
 autonómica.
@@ -401,10 +412,10 @@ j), k), l), m) y q), 25.1, 25.2 letras a), b), c), d) e i), 26.1, 26.3,
 tras f), m) y q), 64.3, 65.2, 65.3, 71.2, 75.1, 75.3, 79.2, 84.3 
 y 86.3 del Reglamento Orgánico que se aprueba mediante el 
 presente decreto reproducen normas dictadas por la Comuni-
-dad Autónoma de Andalucía y recogidas en la Ley 17/2007, 
+dad Autónoma de Andalucía y recogidas en la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), 
 de 10 de diciembre, de Educación de Andalucía, en la Ley 
 9/2007, de 22 de octubre, de la Administración de la Junta 
-de Andalucía, en la Ley 12/2007, de 26 de noviembre, para 
+de Andalucía, en la [Ley 12/2007](../01_marco_normativo_general_y_organico/L12_2007_promocion_igualdad_genero_andalucia.md), de 26 de noviembre, para 
 
 1
 1
@@ -690,7 +701,7 @@ ser objeto el conservatorio, así como del Plan de Centro esta-
 blecido por el mismo.
 4. Las asociaciones del alumnado se inscribirán en el 
 Censo de Entidades Colaboradoras de la Enseñanza, a que 
-se refiere el Decreto 71/2009, de 31 de marzo, por el que se 
+se refiere el [Decreto 71/2009](../02_gestion_y_administracion_centros/D71_2009_regula_censo_entidades_colaboradoras_ensenanza_andalucia.md), de 31 de marzo, por el que se 
 regula el Censo de Entidades Colaboradoras de la Enseñanza.
 TÍTULO II
 EL PROFESORADO
@@ -993,7 +1004,7 @@ de las que haya podido ser objeto, así como del Plan de Cen-
 tro establecido por el mismo.
 4. Las asociaciones de madres y padres del alumnado 
 se inscribirán en el Censo de Entidades Colaboradoras de la 
-Enseñanza, a que se refiere el Decreto 71/2009, de 31 de 
+Enseñanza, a que se refiere el [Decreto 71/2009](../02_gestion_y_administracion_centros/D71_2009_regula_censo_entidades_colaboradoras_ensenanza_andalucia.md), de 31 de 
 marzo.
 5. Se facilitará la colaboración de las asociaciones de ma-
 dres y padres del alumnado con los equipos directivos de los 
@@ -1063,7 +1074,7 @@ marco de lo dispuesto en el presente Reglamento.
 3. Los conservatorios creados con arreglo a lo estable-
 cido en el apartado anterior tendrán, a todos los efectos, el 
 carácter de centros públicos, de acuerdo con la disposición 
-adicional segunda de la Ley Orgánica 8/1985, de 3 de julio.
+adicional segunda de la [Ley Orgánica 8/1985](../../../estatal/02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md), de 3 de julio.
 Artículo 19. Modificación de enseñanzas.
 Por Orden de la persona titular de la Consejería compe-
 tente en materia de educación podrán modificarse las ense-
@@ -1130,7 +1141,7 @@ Artículo 21. Disposiciones generales.
 profesionales de música contarán con autonomía pedagógica, 
 de organización y de gestión para poder llevar a cabo modelos 
 de funcionamiento propios, en el marco de la Ley Orgánica 
-2/2006, de 3 de mayo, de Educación, de la Ley 17/2007, de 
+2/2006, de 3 de mayo, de Educación, de la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 
 10 de diciembre, en los términos recogidos en este Regla-
 mento y en las normas que lo desarrollen.
 2. Los modelos de funcionamiento propios, que podrán 
@@ -1190,8 +1201,8 @@ ral, hacen del conservatorio un elemento dinamizador de la
 zona donde está ubicado.
 2. El proyecto educativo definirá los objetivos particulares 
 que el conservatorio se propone alcanzar, partiendo de su rea-
-lidad y tomando como referencia la Ley Orgánica 2/2006, de 
-3 de mayo, y la Ley 17/2007, de 10 de diciembre, acerca de 
+lidad y tomando como referencia la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 
+3 de mayo, y la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre, acerca de 
 los principios que orientan cada una de las enseñanzas que se 
 imparten en el conservatorio y las correspondientes prescrip-
 ciones acerca del currículo.
@@ -1341,7 +1352,7 @@ f) El plan de autoprotección del conservatorio.
 g) Las normas sobre la utilización en el conservatorio de 
 teléfonos móviles y otros aparatos electrónicos, así como el 
 procedimiento para garantizar el acceso seguro a Internet del 
-alumnado, de acuerdo con lo dispuesto en el Decreto 25/2007, 
+alumnado, de acuerdo con lo dispuesto en el [Decreto 25/2007](./D25_2007_prevencion_riesgos_laborales_salud_trabajo_centros_docentes_andalucia.md), 
 de 6 de febrero, por el que se establecen medidas para el fo-
 mento, la prevención de riesgos y la seguridad en el uso de 
 Internet y las tecnologías de la información y la comunicación 
@@ -1938,7 +1949,7 @@ director o directora en relación con las conductas de los alum-
 nos y alumnas a que se refiere el artículo 36, podrán ser re-
 visadas por el Consejo Escolar a instancia de los padres, ma-
 dres o representantes legales del alumnado, de acuerdo con 
-lo establecido en el artículo 127 de la Ley Orgánica 2/2006, 
+lo establecido en el artículo 127 de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), 
 de 3 de mayo. A tales efectos, el director o directora convo-
 cará una sesión extraordinaria del Consejo Escolar en el plazo 
 máximo de dos días lectivos, contados desde que se presente 
@@ -2006,7 +2017,7 @@ Para lo no previsto en los artículos 45 y 61, el régimen de
 funcionamiento de los órganos colegiados de gobierno de los 
 conservatorios elementales y los conservatorios profesionales 
 de música será el establecido en el Capítulo II del Título IV 
-de la Ley 9/2007, de 22 de octubre, de la Administración de 
+de la [Ley 9/2007](../01_marco_normativo_general_y_organico/L9_2007_administracion_junta_andalucia_laja.md), de 22 de octubre, de la Administración de 
 la Junta de Andalucía, en el Capítulo II del Título II de la Ley 
 30/1992, de 26 de noviembre, y demás normativa aplicable.
 Sección 1.ª El Consejo Escolar
@@ -2063,7 +2074,7 @@ cerá la secretaría del Consejo Escolar, con voz y sin voto.
 tores de la comunidad educativa en el Consejo Escolar se rea-
 lizará de forma que permita la representación equilibrada de 
 hombres y mujeres, de conformidad con lo establecido en el 
-artículo 19.2 de la Ley 9/2007, de 22 de octubre.
+artículo 19.2 de la [Ley 9/2007](../01_marco_normativo_general_y_organico/L9_2007_administracion_junta_andalucia_laja.md), de 22 de octubre.
 6. Una vez constituido el Consejo Escolar del conservato-
 rio, este designará una persona que impulse medidas educa-
 tivas que fomenten la igualdad real y efectiva entre hombres 
@@ -2088,7 +2099,7 @@ previo acuerdo de sus miembros, adoptado por mayoría de
 dos tercios, proponer la revocación del nombramiento del di-
 rector o directora.
 e) Decidir sobre la admisión del alumnado con sujeción 
-a lo establecido en la Ley Orgánica 2/2006, de 3 de mayo, y 
+a lo establecido en la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, y 
 disposiciones que la desarrollen.
 f) Realizar el seguimiento de los compromisos educativos 
 y de convivencia suscritos en el conservatorio, para garantizar 
@@ -2631,7 +2642,7 @@ ción, de la innovación y de la investigación pedagógica y en la
 formación del profesorado del conservatorio.
 f) Elegir sus representantes en el Consejo Escolar del con-
 servatorio y participar en la selección del director o directora 
-en los términos establecidos en la Ley Orgánica 2/2006, de 3 
+en los términos establecidos en la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 
 de mayo, y demás normativa de aplicación.
 g) Conocer las candidaturas a la dirección y los proyectos 
 de dirección presentados por las personas candidatas.
@@ -2940,7 +2951,7 @@ Artículo 66. Selección, nombramiento y cese de la per-
 sona titular de la dirección. 
 La selección, nombramiento y cese de la persona titular 
 de la dirección de los conservatorios se realizará según lo es-
-tablecido en la Ley Orgánica 2/2006, de 3 de mayo, y en las 
+tablecido en la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, y en las 
 disposiciones que la desarrollen.
 Artículo 67. Competencias de la vicedirección. 
 Son competencias de la vicedirección:

@@ -34,8 +34,15 @@ relaciones:
   - norma_id: norm-and-l17-2007
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-l-39-2015
+fundamentos_derecho:
+- norma_id: norm-and-l17-2007
+- norma_id: norm-and-l6-2006-gobierno-comunidad-autonoma-andalucia
+- norma_id: norm-and-d302-2010-ordenacion-funcion-publica-docente-seleccion-provision-andalucia
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
 ---
-
 # Orden de 24 de mayo de 2011, por la que se regulan los procedimientos de provisión, con carácter provisional, de puestos de trabajo docentes así como la colocación del personal funcionario de carrera en puestos con perfil bilingüe y las bolsas de trabajo de los distintos cuerpos docentes.
 
 ## Preámbulo
@@ -44,13 +51,13 @@ ORDEN de 24 de mayo de 2011, por la que se
 regulan los procedimientos de provisión, con carácter 
 provisional, de puestos de trabajo docentes así como la 
 movilidad por razón de violencia de género.
-El Decreto 302/2010, de 1 de junio, por el que se ordena 
+El [Decreto 302/2010](./D302_2010_ordenacion_funcion_publica_docente_seleccion_provision_andalucia.md), de 1 de junio, por el que se ordena 
 la función pública docente y se regula la selección del profeso-
 rado y la provisión de los puestos de trabajo docentes, esta-
 blece en los capítulos IV y V los procedimientos de provisión de 
 puestos de trabajo docentes con carácter provisional, el ámbito 
 personal de los mismos y la adjudicación de los destinos.
-El artículo 28 del citado Decreto 302/2010 autoriza expre-
+El artículo 28 del citado [Decreto 302/2010](./D302_2010_ordenacion_funcion_publica_docente_seleccion_provision_andalucia.md) autoriza expre-
 samente a la Consejería competente en materia de educación 
 a realizar convocatorias para la cobertura, con carácter provi-
 sional, de puestos vacantes de la plantilla de funcionamiento 
@@ -69,7 +76,7 @@ Todo ello ha de articularse de forma que el servicio edu-
 cativo se preste con la mayor eficacia, de acuerdo con las ne-
 cesidades que para los distintos centros docentes públicos de 
 Andalucía establezca la oportuna planificación escolar.
-Finalmente, el artículo 29 del referido Decreto 302/2010, 
+Finalmente, el artículo 29 del referido [Decreto 302/2010](./D302_2010_ordenacion_funcion_publica_docente_seleccion_provision_andalucia.md), 
 de 1 de junio, regula la movilidad por razón de violencia de gé-
 nero, por lo que resulta oportuno establecer el procedimiento 
 que haya de seguirse para hacer efectiva la protección y el 
@@ -78,9 +85,9 @@ timas de violencia de género que se vean obligadas a abando-
 nar el puesto donde venían prestando servicio.
  En su virtud, a propuesta de la Dirección General compe-
 tente en materia de profesorado y de acuerdo con facultades 
-conferidas por el artículo 44.2 de la Ley 6/2006, de 24 de 
+conferidas por el artículo 44.2 de la [Ley 6/2006](../01_marco_normativo_general_y_organico/L6_2006_gobierno_comunidad_autonoma_andalucia.md), de 24 de 
 octubre, del Gobierno de la Comunidad Autónoma de Andalu-
-cía, y la disposición final segunda del Decreto 302/2010, de 
+cía, y la disposición final segunda del [Decreto 302/2010](./D302_2010_ordenacion_funcion_publica_docente_seleccion_provision_andalucia.md), de 
 1 de junio,
 D I S P O N G O
 CAPÍTULO I
@@ -97,7 +104,7 @@ violencia de género.
 1. La presente Orden será de aplicación al personal fun-
 cionario de carrera, en prácticas e interino de los cuerpos do-
 centes a que se refiere la disposición adicional séptima de la 
-Ley Orgánica 2/2006, de 3 de mayo, de Educación, pertene-
+[Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, pertene-
 ciente al ámbito de gestión de la Consejería competente en 
 materia de educación.
 2. Asimismo, será de aplicación al personal funcionario 
@@ -108,7 +115,7 @@ dalucía.
 #### Artículo 3. Principios generales aplicables a los procedi-
 mientos de provisión.
 De conformidad con lo establecido en el artículo 28.1 del 
-Decreto 302/2010, de 1 de junio, por el que se ordena la fun-
+[Decreto 302/2010](./D302_2010_ordenacion_funcion_publica_docente_seleccion_provision_andalucia.md), de 1 de junio, por el que se ordena la fun-
 ción pública docente y se regula la selección del profesorado 
 y la provisión de los puestos de trabajo docentes, las convo-
 catorias para la provisión de puestos de trabajo docentes con 
@@ -120,7 +127,7 @@ CON CARÁCTER PROVISIONAL
 #### Artículo 4. Convocatorias, puestos objeto de provisión y 
 órgano competente.
 1. De conformidad con lo establecido en artículo 28.2, en 
-concordancia con los artículos 33 y 36, del Decreto 302/2010, 
+concordancia con los artículos 33 y 36, del [Decreto 302/2010](./D302_2010_ordenacion_funcion_publica_docente_seleccion_provision_andalucia.md), 
 de 1 de junio, la Consejería competente en materia de educa-
 ción realizará cada curso académico una convocatoria para la 
 cobertura, con carácter provisional, de puestos vacantes de 
@@ -140,7 +147,7 @@ capítulo, se efectuarán por resolución de la Dirección General
 competente en materia de profesorado y se publicarán en el 
 #### Artículo 5. Participantes.
 1. De conformidad con lo establecido en el artículo 33 
-del Decreto 302/2010, de 1 de junio, deberá participar en el 
+del [Decreto 302/2010](./D302_2010_ordenacion_funcion_publica_docente_seleccion_provision_andalucia.md), de 1 de junio, deberá participar en el 
 procedimiento regulado en este capítulo el siguiente personal 
 funcionario docente: 
 a) Personal funcionario de carrera titular de un puesto de 
@@ -171,7 +178,7 @@ tos específicos a los que se refiere el artículo 24.c) del Decreto
 las convocatorias.
 #### Artículo 6. Solicitudes, formas de presentación y plazos.
 1. En aplicación de lo establecido en la disposición adicio-
-nal quinta del Decreto 302/2010, de 1 de junio, quienes parti-
+nal quinta del [Decreto 302/2010](./D302_2010_ordenacion_funcion_publica_docente_seleccion_provision_andalucia.md), de 1 de junio, quienes parti-
 cipen en este tipo de convocatoria cumplimentarán la solicitud 
 mediante un formulario asociado a la misma que se facilitará 
 a través del portal web de la Consejería competente en mate-
@@ -193,7 +200,7 @@ b) Asimismo, las solicitudes podrán teletramitarse, me-
 diante el correspondiente certificado digital o mediante la 
 identificación electrónica que la Administración educativa es-
 tablezca, al amparo de lo previsto en la citada disposición adi-
-cional quinta del Decreto 302/2010, de 1 de junio.
+cional quinta del [Decreto 302/2010](./D302_2010_ordenacion_funcion_publica_docente_seleccion_provision_andalucia.md), de 1 de junio.
 3. Para cada convocatoria y, en su caso, para cada colectivo 
 de personal funcionario docente a que se refiere el artículo 5,
  se establecerá un plazo de presentación de solicitudes de al 
@@ -218,7 +225,7 @@ o los datos no figuren en las casillas correspondientes, se con-
 siderarán no incluidos en la petición.
 #### Artículo 8. Criterios de adjudicación de destinos. 
 1. De conformidad con lo establecido en el artículo 36.1 
-del Decreto 302/2010, de 1 de junio, la adjudicación de des-
+del [Decreto 302/2010](./D302_2010_ordenacion_funcion_publica_docente_seleccion_provision_andalucia.md), de 1 de junio, la adjudicación de des-
 tinos se llevará a cabo de acuerdo con el siguiente orden de 
 preferencia:
 a) Personal funcionario de carrera titular de un puesto de 
@@ -286,7 +293,7 @@ catedráticos.
 servicio a que se refiere el párrafo g) del apartado 1, la prioridad 
 en la adjudicación de destinos se establece en el artículo 13.
 No obstante, de acuerdo con lo dispuesto en el artícu-
-lo 36.5 del Decreto 302/2010, de 1 junio, la adjudicación de 
+lo 36.5 del [Decreto 302/2010](./D302_2010_ordenacion_funcion_publica_docente_seleccion_provision_andalucia.md), de 1 junio, la adjudicación de 
 destinos al profesorado al que se haya concedido comisión de 
 servicio por razones de salud propia catalogadas como muy 
 graves se realizará inmediatamente después del colectivo a 
@@ -389,7 +396,7 @@ ejercicio de la dirección.
 El personal funcionario de carrera que se acoja a la op-
 ción de cambio de centro al finalizar el mandato en el ejer-
 cicio de la dirección, en cumplimiento de lo establecido en 
-el artículo 134.6 de la Ley 17/2007, de 10 de diciembre, de 
+el artículo 134.6 de la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre, de 
 Educación de Andalucía, podrá participar en el procedimiento 
 de provisión de puestos, con carácter provisional, para lo que 
 deberá solicitar puestos de trabajo asociados al cuerpo de per-
@@ -460,7 +467,7 @@ dido comisión de servicio, por la especialidad o especialidades
 de que sea titular o, en el caso del cuerpo de maestros, para 
 las que esté habilitado. 
 3. De conformidad con lo establecido en el artículo 36.4 
-del Decreto 302/2010, de 1 de junio, se adjudicará destino, 
+del [Decreto 302/2010](./D302_2010_ordenacion_funcion_publica_docente_seleccion_provision_andalucia.md), de 1 de junio, se adjudicará destino, 
 con ocasión de vacante, en primer lugar al personal funciona-
 rio del ámbito de gestión de la Administración educativa anda-
 luza que haya obtenido comisión de servicio por los siguientes 
@@ -521,7 +528,7 @@ tos específicos, siempre que cumpla los requisitos que para su
 desempeño se establezcan en las convocatorias.
 No obstante, el personal funcionario interino mayor de 
 55 años a que se refiere la disposición transitoria primera del 
-Decreto 302/2010, de 1 de junio, deberá consignar todas las 
+[Decreto 302/2010](./D302_2010_ordenacion_funcion_publica_docente_seleccion_provision_andalucia.md), de 1 de junio, deberá consignar todas las 
 provincias de la Comunidad Autónoma, si desea hacer efectiva 
 la estabilidad laboral garantizada en la mencionada disposición 
 transitoria. De no consignar las ocho provincias, la adjudicación 
@@ -584,7 +591,7 @@ la Ley 30/1992, de 26 de noviembre y, a efectos meramente
 informativos, en el portal web de dicha Consejería. 
 #### Artículo 17. Efectos de la provisión de puestos docentes.
 1. De conformidad con lo establecido en el artículo 28.4 
-del Decreto 302/2010, de 1 de junio, los destinos adjudicados 
+del [Decreto 302/2010](./D302_2010_ordenacion_funcion_publica_docente_seleccion_provision_andalucia.md), de 1 de junio, los destinos adjudicados 
 serán irrenunciables, salvo en los casos expresamente con-
 templados por la normativa especifica que corresponda. 
 2. El personal al que se adjudique un puesto de destino 
@@ -637,7 +644,7 @@ CON CARÁCTER PROVISIONAL
 #### Artículo 19. Órganos competentes, forma y publicidad de 
 las convocatorias.
 1. De conformidad con lo establecido en el artículo 28.3 
-del Decreto 302/2010, de 1 de junio, la Consejería compe-
+del [Decreto 302/2010](./D302_2010_ordenacion_funcion_publica_docente_seleccion_provision_andalucia.md), de 1 de junio, la Consejería compe-
 tente en materia de educación realizará periódicamente con-
 vocatorias públicas para la cobertura, con carácter provisional, 
 de puestos específicos que, figurando en la plantilla de funcio-
@@ -720,7 +727,7 @@ de, al menos, diez días.
 #### Artículo 23. Lugar de presentación de las solicitudes y 
 tramitación telemática.
 1. En aplicación de lo establecido en la disposición adi-
-cional quinta del Decreto 302/2010, de 1 de junio, quienes 
+cional quinta del [Decreto 302/2010](./D302_2010_ordenacion_funcion_publica_docente_seleccion_provision_andalucia.md), de 1 de junio, quienes 
 participen en estas convocatorias deberán cumplimentar la 
 solicitud correspondiente, en la forma que establezcan las 
 mismas.
@@ -830,7 +837,7 @@ PROVISIONAL
 #### Artículo 27. Puestos de profesorado especialista y régi-
 men de contratación.
 1. De conformidad con lo dispuesto en el artículo 24.b) 
-del Decreto 302/2010, de 1 de junio, son puestos de profeso-
+del [Decreto 302/2010](./D302_2010_ordenacion_funcion_publica_docente_seleccion_provision_andalucia.md), de 1 de junio, son puestos de profeso-
 rado especialista aquellos a los que, por las características de 
 los mismos, es necesario incorporar a profesionales cualifica-
 dos que ejerzan su actividad en el ámbito laboral, artístico o 
@@ -838,7 +845,7 @@ deportivo, para impartir determinadas materias o módulos de
 las enseñanzas de formación profesional y de las enseñanzas 
 artísticas y deportivas.
 2. De conformidad con lo establecido en el artículo 28.3 
-del Decreto 302/2010, de 1 de junio, se podrán convocar con-
+del [Decreto 302/2010](./D302_2010_ordenacion_funcion_publica_docente_seleccion_provision_andalucia.md), de 1 de junio, se podrán convocar con-
 cursos específicos para la cobertura, con carácter provisional, 
 de puestos de profesorado especialista que, figurando en las 
 correspondientes plantillas de funcionamiento de los centros 
@@ -849,7 +856,7 @@ tes. En dichos concursos se indicarán los requisitos de espe-
 cialización o capacitación profesional que se precisen para el 
 desempeño del puesto.
 3. De conformidad con lo establecido en el artículo 3 del 
-Decreto 302/2010, de 1 de junio, el profesorado especialista 
+[Decreto 302/2010](./D302_2010_ordenacion_funcion_publica_docente_seleccion_provision_andalucia.md), de 1 de junio, el profesorado especialista 
 realizará funciones docentes en régimen de contratación labo-
 ral y se regirá por la legislación laboral, por lo establecido en el 
 convenio colectivo que le resulte de aplicación, en su caso, y 
@@ -869,7 +876,7 @@ ciales así como, a efectos meramente informativos, en las co-
 rrespondientes páginas web.
 3. En el supuesto de exención del cumplimiento del re-
 quisito de titulación establecido con carácter general a que se 
-refiere el artículo 28.5 del Decreto 302/2010, de 1 de junio, 
+refiere el artículo 28.5 del [Decreto 302/2010](./D302_2010_ordenacion_funcion_publica_docente_seleccion_provision_andalucia.md), de 1 de junio, 
 la correspondiente Delegación Provincial lo hará constar en la 
 convocatoria, previa autorización de la Dirección General com-
 petente en materia de profesorado.
@@ -936,7 +943,7 @@ CAPÍTULO V
 MOVILIDAD POR RAZÓN DE VIOLENCIA DE GÉNERO
 #### Artículo 32. Movilidad y protección de la intimidad.
 1. De conformidad con lo dispuesto en el artículo 29.1 
-del Decreto 302/2010, de 1 de junio, las funcionarias víctimas 
+del [Decreto 302/2010](./D302_2010_ordenacion_funcion_publica_docente_seleccion_provision_andalucia.md), de 1 de junio, las funcionarias víctimas 
 de violencia de género que, para hacer efectiva su protección 
 y el derecho a la asistencia social integral, se vean obligadas 
 a abandonar el puesto donde venían prestando sus servicios, 

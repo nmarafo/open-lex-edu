@@ -1,6 +1,15 @@
 ---
 id: norm-and-r17-1-2025-pruebas-obtencion-titulo-bachiller-mayores-andalucia
-titulo: Resolución de 17 de enero de 2025, de la Dirección General de Formación Profesional y Educación Permanente, por la que se convocan para el año 2025 las pruebas para la obtención del título de Bachiller para personas mayores de veinte años y se establecen determinados aspectos de su organización, en virtud de lo establecido en las Instrucciones de 12 de diciembre de 2024, de la Dirección General de Formación Profesional y Educación Permanente, por la que se regulan las pruebas para la obtención del título de Bachiller para personas mayores de veinte años en la Comunidad Autónoma de Andalucía y por la que se determina proceso específico de obtención de clave iANDE dirigido a las personas interesadas en la inscripción de las pruebas extraordinarias de obtención de título.
+titulo: Resolución de 17 de enero de 2025, de la Dirección General de Formación Profesional
+  y Educación Permanente, por la que se convocan para el año 2025 las pruebas para
+  la obtención del título de Bachiller para personas mayores de veinte años y se establecen
+  determinados aspectos de su organización, en virtud de lo establecido en las Instrucciones
+  de 12 de diciembre de 2024, de la Dirección General de Formación Profesional y Educación
+  Permanente, por la que se regulan las pruebas para la obtención del título de Bachiller
+  para personas mayores de veinte años en la Comunidad Autónoma de Andalucía y por
+  la que se determina proceso específico de obtención de clave iANDE dirigido a las
+  personas interesadas en la inscripción de las pruebas extraordinarias de obtención
+  de título.
 jurisdiccion: Andalucía
 ambito: Autonómico
 organo_emisor: Dirección General de Profesorado y Gestión de Recursos Humanos
@@ -17,8 +26,20 @@ fuente_pdf_oficial: http://www.juntadeandalucia.es/boja/2025/15/BOJA25-015-00015
 clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Bachillerato
+fundamentos_derecho:
+- norma_id: norm-and-d-164-2024
+- norma_id: norm-and-d103-2023-ordenacion-curriculo-bachillerato-andalucia
+- norma_id: norm-and-o-30-5-2023-bachillerato
+- norma_id: norm-and-o-30-5-2023-eso
+- norma_id: norm-and-o-30-5-2023-infantil
+- norma_id: norm-and-o-30-5-2023-primaria
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-es-l-39-2015
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-rd-243-2022
+- norma_id: norm-es-2010-12201
 ---
-
 # Resolución de 17 de enero de 2025, de la Dirección General de Formación Profesional y Educación Permanente, por la que se convocan para el año 2025 las pruebas para la obtención del título de Bachiller para personas mayores de veinte años y se establecen determinados aspectos de su organización, en virtud de lo establecido en las Instrucciones de 12 de diciembre de 2024, de la Dirección General de Formación Profesional y Educación Permanente, por la que se regulan las pruebas para la obtención del título de Bachiller para personas mayores de veinte años en la Comunidad Autónoma de Andalucía y por la que se determina proceso específico de obtención de clave iANDE dirigido a las personas interesadas en la inscripción de las pruebas extraordinarias de obtención de título.
 
 ## Preámbulo
@@ -36,7 +57,7 @@ personas mayores de veinte años en la Comunidad Autónoma de Andalucía y
 por la que se determina proceso específico de obtención de clave iANDE dirigido 
 a las personas interesadas en la inscripción de las pruebas extraordinarias de 
 obtención de título.
-La Ley Orgánica 2/2006, de 3 de mayo, de educación, en su redacción dada por la Ley 
+La [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de educación, en su redacción dada por la Ley 
 Orgánica 3/2020, de 29 de diciembre, en el artículo 66.1 establece que la educación de 
 personas adultas tiene la finalidad de ofrecer a todas las personas mayores de dieciocho 
 años la posibilidad de adquirir, actualizar, completar o ampliar sus conocimientos 
@@ -44,9 +65,9 @@ y aptitudes para su desarrollo personal y profesional. Por su parte, el artícul
 determina que corresponde a las administraciones educativas organizar periódicamente 
 pruebas para que las personas mayores de veinte años puedan obtener directamente el 
 título de Bachiller. 
-En este sentido, la disposición adicional tercera del Real Decreto 243/2022, de 5 de 
+En este sentido, la disposición adicional tercera del [Real Decreto 243/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD243_2022_establecen_ordenacion_ensenanzas_minimas_bachillerato.md), de 5 de 
 abril, por el que se establecen la ordenación y las enseñanzas mínimas del Bachillerato 
-y la disposición adicional primera del Decreto 103/2023, de 9 de mayo, por el que se 
+y la disposición adicional primera del [Decreto 103/2023](./D103_2023_ordenacion_curriculo_bachillerato_andalucia.md), de 9 de mayo, por el que se 
 establece la ordenación y el currículo de la etapa de Bachillerato en la Comunidad 
 Autónoma de Andalucía, determinan que corresponde a las Administraciones educativas 
 organizar periódicamente pruebas para que las personas mayores de veinte años 
@@ -54,7 +75,7 @@ puedan obtener directamente el título de Bachiller, siempre que demuestren habe
 alcanzado los objetivos de la etapa de Bachillerato y el adecuado grado de adquisición 
 de las competencias establecidos en las citadas normas, y que estas se organizarán 
 de manera diferenciada según las modalidades del Bachillerato. En desarrollo del citado 
-Decreto 103/2023, de 5 de abril, se aprobó la Orden de 30 de mayo de 2023, por la que 
+[Decreto 103/2023](./D103_2023_ordenacion_curriculo_bachillerato_andalucia.md), de 5 de abril, se aprobó la [Orden de 30 de mayo de 2023](./O30_5_2023_desarrollo_curriculo_evaluacion_bachillerato_andalucia.md), por la que 
 se desarrolla el currículo correspondiente a la etapa de Bachillerato en la Comunidad 
 Autónoma de Andalucía, se regulan determinados aspectos de la atención a la diversidad 
 y a las diferencias individuales y se establece la ordenación de la evaluación del proceso 
@@ -88,7 +109,7 @@ de las pruebas, el Anexo IV con indicaciones de puntuación, calificación, recu
 estructura de las pruebas por materias, y un Anexo V con los protocolos de actuación en 
 las jornadas de realización de las pruebas.
 Así pues, en virtud de las competencias atribuidas a la Dirección General de 
-Formación Profesional y Educación Permanente por el Decreto 164/2024, de 26 de 
+Formación Profesional y Educación Permanente por el [Decreto 164/2024](../01_marco_normativo_general_y_organico/D164_2024_estructura_organica_consejeria_desarrollo_educativo_andalucia.md), de 26 de 
 agosto, por el que se establece la estructura orgánica de la Consejería de Desarrollo 
 Educativo y Formación Profesional, esta Dirección General de Formación Profesional y 
 Educación Permanente
@@ -137,7 +158,7 @@ BOJA
 Depósito Legal: SE-410/1979. ISSN: 2253-802X	
 https://www.juntadeandalucia.es/eboja
 el centro elegido como primera opción o en cualquiera de los registros y oficinas a que 
-hace referencia el artículo 16.4 de la Ley 39/2015, de 1 de octubre, del Procedimiento 
+hace referencia el artículo 16.4 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento 
 Administrativo Común de las Administraciones Públicas.
 4. Las personas interesadas marcarán, por orden de preferencia, hasta un máximo 
 de tres centros de la misma provincia de entre los autorizados para realizar la modalidad 
@@ -158,7 +179,7 @@ podrán obtener el título de Bachiller en la modalidad Artes.
 6. De acuerdo con lo establecido en la Instrucción Segunda y Quinta de las 
 Instrucciones de 12 de diciembre de 2024 aquellas personas interesadas que se 
 encuentren en posesión del título de Bachiller conforme a la Ley Orgánica 3/2020, 
-de 29 de diciembre, por la que se modifica la Ley Orgánica 2/2006, de 3 de mayo, 
+de 29 de diciembre, por la que se modifica la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, 
 de Educación, podrán obtener cualquiera de las otras modalidades inscribiéndose y 
 superando exclusivamente las pruebas correspondientes a las materias especificas de 
 modalidad de primero y segundo de la correspondiente modalidad.
@@ -294,7 +315,7 @@ Contra la presente resolución, que no agota la vía administrativa, cabe interp
 el plazo de un mes contado a partir del día siguiente al de su publicación en el Boletín 
 Oficial de la Junta de Andalucía, recurso de alzada ante la persona titular de la Secretaría 
 General de Educación y Formación Profesional, de conformidad con lo previsto en 
-los artículos 112.1, 121 y 122 de la Ley 39/2015, de 1 de octubre, del Procedimiento 
+los artículos 112.1, 121 y 122 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento 
 Administrativo Común de las Administraciones Públicas, y en el artículo 115.1 de la Ley 
 9/2007, de 22 de octubre, de la Administración de la Junta de Andalucía. 
 Sevilla, 17 de enero de 2025.- La Directora General, Inmaculada Troncoso García.

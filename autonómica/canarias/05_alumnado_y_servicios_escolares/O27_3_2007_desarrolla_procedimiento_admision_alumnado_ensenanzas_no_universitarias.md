@@ -39,8 +39,13 @@ relaciones:
     capitulo_origen: Capítulo III. PROCEDIMIENTO DE MATRICULACIÓN
     articulos_origen:
     - Art. 16
+fundamentos_derecho:
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-mad-l1-1983-gobierno-administracion-comunidad-madrid
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
 ---
-
 # Orden de 27 de marzo de 2007, por la que se desarrolla el procedimiento de admisión del alumnado en las enseñanzas no universitarias en los centros docentes públicos y privados concertados de la Comunidad Autónoma de Canarias.
 
 ## Preámbulo
@@ -147,7 +152,7 @@ alumnado.
 
 En su virtud, de acuerdo con las competencias atri-
 
-buidas en el artículo 32 de la Ley 1/1983, de 14 de
+buidas en el artículo 32 de la [Ley 1/1983](../../madrid/01_marco_normativo_general_y_organico/L1_1983_gobierno_administracion_comunidad_madrid.md), de 14 de
 
 abril, del Gobierno y de la Administración Pública
 
@@ -1309,7 +1314,7 @@ CIAL se asignará cuando el alumno se matricule
 
 por primera vez en alguna de las enseñanzas no uni-
 
-versitarias establecidas en la Ley Orgánica 2/2006,
+versitarias establecidas en la [Ley Orgánica 2/2006](./O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md),
 
 de 3 de mayo, de Educación. El CIAL deberá con-
 

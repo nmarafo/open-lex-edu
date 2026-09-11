@@ -42,8 +42,9 @@ relaciones:
   - norma_id: norm-and-l17-2007
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-l-39-2015
+fundamentos_derecho:
+- norma_id: norm-and-l17-2007
 ---
-
 # Decreto 2/1995, de 10 de enero, por el que se establece la ordenación de la Educación Secundaria Obligatoria para personas adultas.
 
 ## Preámbulo

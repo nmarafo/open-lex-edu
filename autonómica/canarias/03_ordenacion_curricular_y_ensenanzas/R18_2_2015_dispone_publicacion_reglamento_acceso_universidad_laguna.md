@@ -94,8 +94,15 @@ relaciones:
   - norma_id: norm-es-2010-12201
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2015-040-837.pdf
 fuente_juriscan: http://www.gobcan.es/juriscan/ficha.jsp?id=72176
+fundamentos_derecho:
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-2001-7022
+- norma_id: norm-es-2016-3229
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2014-6008
+- norma_id: norm-es-2010-12201
 ---
-
 # Resolución de 18 de febrero de 2015, por la que se dispone la publicación del Reglamento de acceso a la Universidad de La Laguna para mayores de 25, 40 y 45 años.
 
 ## Preámbulo
@@ -190,7 +197,7 @@ d) Las demás que se le atribuyen en el presente Reglamento.
 
 #### Artículo 11. Requisitos.
 
-1. Las personas mayores de 25 años de edad podrán acceder a las enseñanzas oficiales de grado mediante la superación de una prueba de acceso (PAM-25). Podrán concurrir a la prueba quienes tengan cumplidos los 25 años en el año natural en que esta se celebre y no posean titulación académica que les permita acceder a la universidad por otras vías de acceso. Se incluye en este apartado a aquellos titulados en bachilleratos anteriores al regulado en la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo, siempre que no tengan superadas pruebas de acceso a la universidad ni reúnan los requisitos para ello.
+1. Las personas mayores de 25 años de edad podrán acceder a las enseñanzas oficiales de grado mediante la superación de una prueba de acceso (PAM-25). Podrán concurrir a la prueba quienes tengan cumplidos los 25 años en el año natural en que esta se celebre y no posean titulación académica que les permita acceder a la universidad por otras vías de acceso. Se incluye en este apartado a aquellos titulados en bachilleratos anteriores al regulado en la [Ley Orgánica 1/1990](../../../estatal/02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md), de 3 de octubre, de Ordenación General del Sistema Educativo, siempre que no tengan superadas pruebas de acceso a la universidad ni reúnan los requisitos para ello.
 
 2. Las personas mayores de 25 años que superen la prueba de acceso (PAM-25) podrán ingresar en la universidad tras la obtención de plaza en el proceso de admisión conforme al cupo que les corresponda.
 
@@ -356,7 +363,7 @@ La credencial o credenciales obtenidas por los aspirantes tendrán carácter ind
 
 #### Primera. La superación de las pruebas de acceso reguladas en este Reglamento no equivale, a ningún efecto, a la posesión de titulación académica alguna. Todo ello sin perjuicio de la equivalencia con el Bachillerato, a efectos de empleo público y privado, que determina
 
-la Orden EDU/1603/2009, de 10 de junio, por la que se establecen equivalencias con los títulos de Graduado en Educación Secundaria Obligatoria y de Bachiller regulados en la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+la Orden EDU/1603/2009, de 10 de junio, por la que se establecen equivalencias con los títulos de Graduado en Educación Secundaria Obligatoria y de Bachiller regulados en la [Ley Orgánica 2/2006](../05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación.
 
 #### Segunda. Se faculta al Vicerrectorado competente para dictar, en el ámbito de competencias de la Universidad de La Laguna y sin perjuicio de las atribuidas a otras administraciones educativas, cuantas disposiciones sean necesarias para la ejecución y desarrollo de lo establecido en el presente Reglamento.
 

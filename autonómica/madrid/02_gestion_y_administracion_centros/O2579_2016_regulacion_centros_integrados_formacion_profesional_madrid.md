@@ -27,8 +27,16 @@ tags:
 - formacion_profesional
 - organizacion_centros
 - madrid
+fundamentos_derecho:
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-mad-l12-1999-creacion-consejo-escolar-comunidad-madrid
+- norma_id: norm-mad-l1-1983-gobierno-administracion-comunidad-madrid
+- norma_id: norm-mad-d7-2014-curriculo-ensenanzas-profesionales-artes-plasticas-diseno-madrid
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-2016-3229
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
 ---
-
 # Regulación enseñanzas– Orden 2579/2016, de 17 de agosto, de la Consejería de Educación, Juventud y Deporte, por la que se regulan las enseñanzas y la organización y el funcionamiento de los Centros Integrados de Enseñanzas Artísticas de Música y de Educación Primaria, Educación Secundaria Obligatoria y Bachillerato en la Comunidad de Madrid
 
 ## Preámbulo
@@ -41,7 +49,7 @@ y Deporte, por la que se regulan las enseñanzas y la organización y el funcion
 miento de los Centros Integrados de Enseñanzas Artísticas de Música y de Edu-
 cación Primaria, Educación Secundaria Obligatoria y Bachillerato en la Comu-
 nidad de Madrid.
-La Ley Orgánica 2/2006, de 3 de mayo, de Educación (LOE), establece como finali-
+La [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación (LOE), establece como finali-
 dad de las enseñanzas artísticas proporcionar al alumnado una formación artística de cali-
 dad y garantizar la cualificación de futuros profesionales de la Música, la Danza, el Arte
 Dramático, las Artes Plásticas y el Diseño. Entre las enseñanzas artísticas se cuentan las en-
@@ -49,7 +57,7 @@ señanzas elementales y las profesionales de Música. Las enseñanzas elementale
 ca tendrán las características y la organización que las Administraciones educativas deter-
 minen; por su parte, las enseñanzas profesionales de Música se organizarán en un grado de
 seis cursos de duración.
-La citada Ley Orgánica 2/2006 establece, en su artículo 47, que las Administraciones
+La citada [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md) establece, en su artículo 47, que las Administraciones
 educativas podrán adoptar las oportunas medidas de organización y de ordenación acadé-
 mica, que incluirán entre otras, las convalidaciones y la creación de centros integrados, con
 el objeto de facilitar al alumnado la posibilidad de cursar simultáneamente las enseñanzas
@@ -78,7 +86,7 @@ por la que se regulan las enseñanzas, la organización y el funcionamiento de l
 tegrados de Enseñanzas Artísticas de Música y de Educación Primaria y Educación Secun-
 daria, tanto de los ya existentes como de los que a partir de este momento se hayan de crear
 en la Comunidad de Madrid.
-La promulgación de la Ley Orgánica 8/2013, de 9 de diciembre, para la Mejora de la
+La promulgación de la [Ley Orgánica 8/2013](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md), de 9 de diciembre, para la Mejora de la
 Calidad Educativa (LOMCE), así como la de su desarrollo reglamentario, ha modificado la
 ordenación de las enseñanzas, principalmente de la Educación Primaria, la Educación Se-
 cundaria Obligatoria y el Bachillerato.
@@ -86,7 +94,7 @@ Se hace necesario, pues, publicar una nueva norma reguladora de los centros inte
 dos que recoja las modificaciones que han sufrido esas etapas, así como que actualice el res-
 to de los aspectos referidos a aquellos centros.
 La Consejería de Educación, Juventud y Deporte es competente para ello, de acuerdo
-con el artículo 41.d) de la Ley 1/1983, de 13 de diciembre, de Gobierno y Administración
+con el artículo 41.d) de la [Ley 1/1983](../01_marco_normativo_general_y_organico/L1_1983_gobierno_administracion_comunidad_madrid.md), de 13 de diciembre, de Gobierno y Administración
 
 BOCM
 de la Comunidad de Madrid, y el Decreto 198/2015, de 4 de agosto, del Consejo de Gobier-
@@ -100,11 +108,11 @@ para la Comunidad de Madrid el currículo de la Educación Secundaria Obligatori
 #### Disposición adicional séptima. del Decreto 52/2015, de 21 de mayo, del Consejo de Gobier-
 
 no, por el que se establece para la Comunidad de Madrid el currículo del Bachillerato; y en
-el Decreto 7/2014, de 30 de enero, del Consejo de Gobierno, por el que se establece el
+el [Decreto 7/2014](../03_ordenacion_curricular_y_ensenanzas/D7_2014_curriculo_ensenanzas_profesionales_artes_plasticas_diseno_madrid.md), de 30 de enero, del Consejo de Gobierno, por el que se establece el
 currículo y la organización de las enseñanzas elementales de Música en la Comunidad de
 Madrid.
 En el proceso de elaboración de esta orden ha emitido dictamen el Consejo Escolar de
-la Comunidad de Madrid, de acuerdo con el artículo 2.1 de la Ley 12/1999, de 29 de abril,
+la Comunidad de Madrid, de acuerdo con el artículo 2.1 de la [Ley 12/1999](../01_marco_normativo_general_y_organico/L12_1999_creacion_consejo_escolar_comunidad_madrid.md), de 29 de abril,
 de creación del Consejo Escolar de la Comunidad de Madrid.
 En su virtud, de conformidad con las atribuciones que me confiere el ordenamiento
 vigente,
@@ -189,7 +197,7 @@ de la Educación Primaria
 1.
 El currículo y horario que se impartirá en las enseñanzas elementales de Música
 en 2016-2017 y para cuarto curso será el regulado mediante la Orden de 28 de agosto de 1992.
-En el resto de los cursos y años académicos será el regulado por el Decreto 7/2014, de 30 de
+En el resto de los cursos y años académicos será el regulado por el [Decreto 7/2014](../03_ordenacion_curricular_y_ensenanzas/D7_2014_curriculo_ensenanzas_profesionales_artes_plasticas_diseno_madrid.md), de 30 de
 enero, o, en su caso, el autorizado al centro como proyecto propio.
 2.
 En la Educación Primaria el horario que han de cursar los alumnos en los centros
@@ -715,7 +723,7 @@ Música como en la Educación Primaria, en la Educación Secundaria Obligatoria 
 chillerato.
 3.
 Son competencias del Consejo Escolar y del Claustro las establecidas para dichos
-órganos en la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+órganos en la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación.
 
 #### Artículo 27. Órganos de coordinación docente
 
@@ -748,15 +756,15 @@ en la normativa vigente de la Comunidad de Madrid reguladora de la materia.
 #### Disposición TRANSITORIA PRIMERA. Transición entre planes de estudio
 
 La transición del plan de estudios de las enseñanzas elementales de Música regulado
-por la Orden de 28 de agosto de 1992, al regulado por el Decreto 7/2014, de 30 de enero,
+por la Orden de 28 de agosto de 1992, al regulado por el [Decreto 7/2014](../03_ordenacion_curricular_y_ensenanzas/D7_2014_curriculo_ensenanzas_profesionales_artes_plasticas_diseno_madrid.md), de 30 de enero,
 se regirá por las disposiciones adicional primera y transitoria única de dicho decreto.
 
 #### Disposición TRANSITORIA SEGUNDA. Incorporación de alumnos procedentes del sistema educativo derivado
 
-de la Ley Orgánica 2/2006, de 3 de mayo, de Educación o anteriores
+de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación o anteriores
 La incorporación en los centros integrados a las enseñanzas de Educación Secundaria
 Obligatoria y de Bachillerato de alumnos procedentes del sistema educativo derivado de la
-Ley Orgánica 2/2006, de 3 de mayo, de Educación, o anteriores, se efectuará conforme a la
+[Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, o anteriores, se efectuará conforme a la
 normativa en vigor reguladora de dichas etapas.
 
 BOCM
@@ -864,7 +872,7 @@ Total de horas semanales
 22
 
 +Los horarios correspondientes a las enseñanzas elementales de Música se atendrán a lo regulado en la Orden de 28 de agosto de 1992, de aplicación en 2016-2017
-para cuarto curso; y el Decreto 7/2014, de 30 de enero, o, en su caso, el autorizado al centro como proyecto propio, de aplicación en el resto de los cursos y años
+para cuarto curso; y el [Decreto 7/2014](../03_ordenacion_curricular_y_ensenanzas/D7_2014_curriculo_ensenanzas_profesionales_artes_plasticas_diseno_madrid.md), de 30 de enero, o, en su caso, el autorizado al centro como proyecto propio, de aplicación en el resto de los cursos y años
 académicos.
 
 ## Anexo II. HORARIO DEL PRIMER CICLO DE EDUCACIÓN SECUNDARIA OBLIGATORIA EN LOS CENTROS INTEGRADOS

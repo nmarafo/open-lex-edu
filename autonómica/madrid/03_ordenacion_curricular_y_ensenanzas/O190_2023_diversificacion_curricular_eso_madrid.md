@@ -1,10 +1,14 @@
 ---
 id: norm-mad-o190-2023
 codigo_sintetizado: O190_2023 Diversificacion Curricular ESO Madrid
-titulo: Orden 190/2023, de 30 de enero, de la Vicepresidencia, Consejería de Educación y Universidades, por la que se desarrolla la organización y el currículo del programa de diversificación curricular de la Educación Secundaria Obligatoria en la Comunidad de Madrid.
+titulo: Orden 190/2023, de 30 de enero, de la Vicepresidencia, Consejería de Educación
+  y Universidades, por la que se desarrolla la organización y el currículo del programa
+  de diversificación curricular de la Educación Secundaria Obligatoria en la Comunidad
+  de Madrid.
 jurisdiccion: Madrid
 ambito: Autonómico
-organo_emisor: Consejería de Educación, Ciencia y Universidades de la Comunidad de Madrid
+organo_emisor: Consejería de Educación, Ciencia y Universidades de la Comunidad de
+  Madrid
 tipo_disposicion: Orden
 numero_disposicion: 190/2023
 fecha_disposicion: '2023-01-30'
@@ -35,13 +39,22 @@ relaciones:
   - norma_id: norm-es-rd-217-2022
   - norma_id: norm-mad-d65-2022
   - norma_id: norm-es-l-39-2015
+fundamentos_derecho:
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-mad-d-52-2021
+- norma_id: norm-mad-l12-1999-creacion-consejo-escolar-comunidad-madrid
+- norma_id: norm-mad-d65-2022
+- norma_id: norm-es-l-39-2015
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-rd-217-2022
+- norma_id: norm-es-2010-12201
 ---
-
 # Orden 190/2023, de 30 de enero, de la Vicepresidencia, Consejería de Educación y Universidades, por la que se desarrolla la organización y el currículo del programa de diversificación curricular de la Educación Secundaria Obligatoria en la Comunidad de Madrid.
 
 ## Preámbulo
 
-La Ley Orgánica 2/2006, de 3 de mayo, de Educación, establece en su artículo 27, de-
+La [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, establece en su artículo 27, de-
 dicado a los programas de diversificación curricular, que el Gobierno y las Administracio-
 nes educativas definirán la modificación y adaptación del currículo desde el tercer curso de
 la Educación Secundaria Obligatoria para el alumnado que lo requiera tras la oportuna eva-
@@ -49,10 +62,10 @@ luación, de modo que los objetivos y las competencias de la Educación Secundar
 toria se alcanzarán con una metodología específica a través de una organización del currícu-
 lo en ámbitos de conocimiento, actividades prácticas y, en su caso, de materias, diferente a
 la establecida con carácter general.
-El Real Decreto 217/2022, de 29 de marzo, por el que se establece la ordenación y las
+El [Real Decreto 217/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD217_2022_establece_ordenacion_ensenanzas_minimas_educacion_secundaria.md), de 29 de marzo, por el que se establece la ordenación y las
 enseñanzas mínimas de la Educación Secundaria Obligatoria, en cumplimiento de ese man-
 dato, ha concretado, en su artículo 24, las condiciones básicas de los programas de diversi-
-ficación curricular. Así, el Decreto 65/2022, de 20 de julio, del Consejo de Gobierno, por
+ficación curricular. Así, el [Decreto 65/2022](./D65_2022_ordenacion_curriculo_educacion_secundaria_obligatoria_madrid.md), de 20 de julio, del Consejo de Gobierno, por
 el que se establecen para la Comunidad de Madrid la ordenación y el currículo de la Edu-
 cación Secundaria Obligatoria, atribuye al titular de la Vicepresidencia, Consejería de Edu-
 cación y Universidades, en su artículo 36.6, el establecimiento de la organización y del
@@ -73,8 +86,8 @@ centros educativos, la acción tutorial, la evaluación y titulación del alumna
 dos aspectos organizativos como el número de alumnos por grupo o el profesorado que ha
 de impartir los ámbitos del programa.
 La presente orden cumple con los principios de buena regulación que recoge el artícu-
-lo 129 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las
-Administraciones Públicas, y el artículo 2 del Decreto 52/2021, de 24 de marzo, del Con-
+lo 129 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Administrativo Común de las
+Administraciones Públicas, y el artículo 2 del [Decreto 52/2021](../01_marco_normativo_general_y_organico/D52_2021_procedimiento_elaboracion_disposiciones_normativas_madrid.md), de 24 de marzo, del Con-
 sejo de Gobierno, por el que se regula y simplifica el procedimiento de elaboración de las
 disposiciones normativas de carácter general en la Comunidad de Madrid. Así, se ajusta a
 las exigencias de los principios de necesidad y eficacia, puesto que regula los procedimien-
@@ -85,7 +98,7 @@ más adecuada de atender al desarrollo de lo dispuesto en los artículos 36 y 37
 to 65/2022, de 20 de julio. Asimismo, se dicta conforme al principio de proporcionalidad,
 puesto que recoge todos los aspectos imprescindibles para el adecuado desarrollo de estos
 programas, y no se extralimita en sus disposiciones respecto a lo establecido en la norma-
-tiva básica de aplicación y en el Decreto 65/2022, de 20 de julio. El cumplimiento de estos
+tiva básica de aplicación y en el [Decreto 65/2022](./D65_2022_ordenacion_curriculo_educacion_secundaria_obligatoria_madrid.md), de 20 de julio. El cumplimiento de estos
 principios contribuye a lograr un ordenamiento autonómico sólido y coherente en materia
 de ordenación académica, que garantiza el principio de seguridad jurídica. Asimismo, se
 
@@ -93,12 +106,12 @@ cumple con el principio de eficiencia al evitar cargas administrativas innecesar
 sorias y facilitar la racionalización de los recursos públicos.
 También se cumple el principio de transparencia, conforme a lo establecido en la
 Ley 10/2019, de 10 de abril, de Transparencia y de Participación de la Comunidad de
-Madrid, y lo dispuesto en el artículo 9 del Decreto 52/2021, de 24 de marzo, mediante la
+Madrid, y lo dispuesto en el artículo 9 del [Decreto 52/2021](../01_marco_normativo_general_y_organico/D52_2021_procedimiento_elaboracion_disposiciones_normativas_madrid.md), de 24 de marzo, mediante la
 realización de los trámites de audiencia e información públicas, así como mediante la pu-
 blicación de la orden en el portal de transparencia de la Comunidad de Madrid.
 Por lo que respecta a la tramitación, en la elaboración de la presente disposición nor-
 mativa ha emitido dictamen el Consejo Escolar de la Comunidad de Madrid, de acuerdo
-con lo establecido en el artículo 2.1 de la Ley 12/1999, de 29 de abril, de creación del
+con lo establecido en el artículo 2.1 de la [Ley 12/1999](../01_marco_normativo_general_y_organico/L12_1999_creacion_consejo_escolar_comunidad_madrid.md), de 29 de abril, de creación del
 Consejo Escolar de la Comunidad de Madrid, y se han recabado los informes en materia
 de impacto por razón de género, por razón de orientación sexual e identidad y expresión
 de género, y de impacto en materia de familia, infancia y adolescencia, así como el infor-
@@ -111,13 +124,13 @@ viembre, del Consejo de Gobierno, por el que se establece la estructura orgánic
 sejería de Educación, Universidades, Ciencia y Portavocía de la Comunidad de Madrid, en
 relación con el Decreto 38/2022, de 15 de junio, del Consejo de Gobierno, por el que se crea
 la Vicepresidencia, Consejería de Educación y Universidades, así como las atribuidas en el
-artículo 36.6 y la disposición final primera del Decreto 65/2022, de 20 de julio,
+artículo 36.6 y la disposición final primera del [Decreto 65/2022](./D65_2022_ordenacion_curriculo_educacion_secundaria_obligatoria_madrid.md), de 20 de julio,
 DISPONE
 ### Artículo 1
 Objeto de la norma y ámbito de aplicación
 1. El objeto de esta orden es desarrollar la organización y el currículo del programa
 de diversificación curricular en la Educación Secundaria Obligatoria previsto en el artícu-
-lo 36 del Decreto 65/2022, de 20 de julio, del Consejo de Gobierno, por el que se estable-
+lo 36 del [Decreto 65/2022](./D65_2022_ordenacion_curriculo_educacion_secundaria_obligatoria_madrid.md), de 20 de julio, del Consejo de Gobierno, por el que se estable-
 cen para la Comunidad de Madrid la ordenación y el currículo de la Educación Secundaria
 Obligatoria.
 2. La presente orden será de aplicación en los centros docentes públicos y en los cen-
@@ -374,7 +387,7 @@ te, hayan adquirido las competencias clave y hayan alcanzado los objetivos de la
 obtendrán el título de Graduado en Educación Secundaria Obligatoria si superan todos los
 ámbitos y materias de la etapa.
 3. Las decisiones del equipo docente se adoptarán de conformidad con lo dispuesto
-en el artículo 21.4 del Decreto 65/2022, de 20 de julio. Para orientar esta toma de decisio-
+en el artículo 21.4 del [Decreto 65/2022](./D65_2022_ordenacion_curriculo_educacion_secundaria_obligatoria_madrid.md), de 20 de julio. Para orientar esta toma de decisio-
 nes, el equipo docente podrá considerar que el alumno ha adquirido las competencias cla-
 ve y ha alcanzado los objetivos de la etapa cuando la nota media del programa de diversi-
 ficación curricular sea igual o superior a cinco, siempre que se hayan superado los ámbitos.
@@ -383,10 +396,10 @@ los diferentes ámbitos y materias cursados en el programa de diversificación c
 4. Independientemente de la nota media del programa de diversificación curricular a
 la que se refiere el apartado anterior, en el historial académico del alumno que finalice la
 Educación Secundaria Obligatoria se consignará la nota media de la etapa, de conformidad
-con lo establecido en el artículo 27.4 del Decreto 65/2022, de 20 de julio.
+con lo establecido en el artículo 27.4 del [Decreto 65/2022](./D65_2022_ordenacion_curriculo_educacion_secundaria_obligatoria_madrid.md), de 20 de julio.
 5. Los alumnos que al concluir su escolarización no hayan sido propuestos para la
 obtención del título de Graduado en Educación Secundaria Obligatoria recibirán la certifi-
-cación oficial a la que se refiere el artículo 23.5 del Decreto 65/2022, de 20 de julio, en la
+cación oficial a la que se refiere el artículo 23.5 del [Decreto 65/2022](./D65_2022_ordenacion_curriculo_educacion_secundaria_obligatoria_madrid.md), de 20 de julio, en la
 que constará el número de años cursados y el nivel de adquisición de las competencias cla-
 ve establecidas en el perfil de salida. Asimismo, estos alumnos podrán obtener el título de
 Graduado en Educación Secundaria Obligatoria en los términos y condiciones establecidos
@@ -417,7 +430,7 @@ Juventud y Deporte, por la que se regulan para la Comunidad de Madrid los Progra
 Mejora del Aprendizaje y del Rendimiento en la Educación Secundaria Obligatoria.
 ### DISPOSICIÓN FINAL PRIMERA
 Calendario de implantación
-De conformidad con la disposición final primera del Decreto 65/2022, de 20 de julio,
+De conformidad con la disposición final primera del [Decreto 65/2022](./D65_2022_ordenacion_curriculo_educacion_secundaria_obligatoria_madrid.md), de 20 de julio,
 el primer curso del programa de diversificación curricular se implanta para el alumnado del
 tercer curso de la Educación Secundaria Obligatoria en el curso escolar 2022-2023, y el se-
 gundo curso del programa de diversificación curricular se implantará para el alumnado del
@@ -580,7 +593,7 @@ sicos otorga al alumnado un mejor entendimiento de la realidad, lo que favorece 
 cipación activa en el entorno educativo y profesional como ciudadanos implicados y com-
 prometidos con la sociedad.
 Esta competencia específica se conecta con los siguientes descriptores recogidos en el
-anexo I del Real Decreto 217/2022, de 29 de marzo: CCL1, STEM1, STEM2, STEM4,
+anexo I del [Real Decreto 217/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD217_2022_establece_ordenacion_ensenanzas_minimas_educacion_secundaria.md), de 29 de marzo: CCL1, STEM1, STEM2, STEM4,
 CD1, CPSAA4, CC3.
 2. Interpretar y modelizar en términos científicos problemas y situaciones de la vida
 cotidiana, aplicando diferentes estrategias, formas de razonamiento, herramientas matemá-
@@ -608,7 +621,7 @@ tos básicos, lo que repercute en un mayor nivel de compromiso, el incremento de
 sidad y la valoración positiva del proceso de aprendizaje, favoreciendo su integración e ini-
 ciación profesional.
 Esta competencia específica se conecta con los siguientes descriptores recogidos en el
-anexo I del Real Decreto 217/2022, de 29 de marzo: CCL2, STEM1, STEM2, CD1, CD2,
+anexo I del [Real Decreto 217/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD217_2022_establece_ordenacion_ensenanzas_minimas_educacion_secundaria.md), de 29 de marzo: CCL2, STEM1, STEM2, CD1, CD2,
 CPSAA4, CE1.
 3. Utilizar los métodos científicos realizando indagaciones y participando activa-
 mente en proyectos individuales o en equipo, destinados a desarrollar los razonamientos
@@ -628,7 +641,7 @@ de la labor científica. Por este motivo es importante que el alumnado desarroll
 petencia específica a través de la práctica para que sea capaz de conservar las actitudes
 aprendidas tanto en sus futuros estudios como en el ejercicio de su profesión.
 Esta competencia específica se conecta con los siguientes descriptores recogidos en el
-anexo I del Real Decreto 217/2022, de 29 de marzo: STEM1, STEM2, STEM3, CD1, CD3,
+anexo I del [Real Decreto 217/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD217_2022_establece_ordenacion_ensenanzas_minimas_educacion_secundaria.md), de 29 de marzo: STEM1, STEM2, STEM3, CD1, CD3,
 CPSAA4, CPSAA5, CE1.
 4. Analizar los efectos de determinadas acciones cotidianas sobre la salud, el medio
 natural y social, basándose en fundamentos científicos, para valorar la importancia de los
@@ -649,7 +662,7 @@ bientales negativas anteriormente descritas. Por ello, es imprescindible para el
 rrollo del alumnado como ciudadano que este conozca y aplique los fundamentos científi-
 cos que justifican un estilo de vida saludable y sostenible.
 Esta competencia específica se conecta con los siguientes descriptores recogidos en el
-anexo I del Real Decreto 217/2022, de 29 de marzo: STEM5, CD4, CPSAA2, CC4.
+anexo I del [Real Decreto 217/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD217_2022_establece_ordenacion_ensenanzas_minimas_educacion_secundaria.md), de 29 de marzo: STEM5, CD4, CPSAA2, CC4.
 5. Interpretar y transmitir de un modo adecuado información y datos científicos, con-
 trastando previamente su veracidad, utilizando correctamente el lenguaje verbal y el voca-
 bulario científico y matemático necesario, con la finalidad de adquirir y afianzar conoci-
@@ -669,7 +682,7 @@ transmisión a partir de una observación o un estudio, empleando con correcció
 formatos, y teniendo en cuenta ciertas normas específicas de comunicación en las discipli-
 nas científicas.
 Esta competencia específica se conecta con los siguientes descriptores del recogidos
-en el anexo I del Real Decreto 217/2022, de 29 de marzo: CCL1, CCL2, CCL3, STEM4,
+en el anexo I del [Real Decreto 217/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD217_2022_establece_ordenacion_ensenanzas_minimas_educacion_secundaria.md), de 29 de marzo: CCL1, CCL2, CCL3, STEM4,
 CD1, CPSAA4, CC4, CCEC3.
 6. Identificar las ciencias y las matemáticas implicadas en contextos diversos, inte-
 rrelacionando conceptos y procedimientos para aplicarlos correctamente en situaciones de
@@ -689,7 +702,7 @@ a los saberes conceptuales, sino ampliarse a los procedimientos y actitudes cien
 forma que puedan ser transferidos y aplicados a otros contextos de la vida real y a la reso-
 lución de problemas del entorno personal, social y, en un futuro, profesional.
 Esta competencia específica se conecta con los siguientes descriptores recogidos en el
-anexo I del Real Decreto 217/2022, de 29 de marzo: STEM1, STEM2, STEM5, CD5,
+anexo I del [Real Decreto 217/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD217_2022_establece_ordenacion_ensenanzas_minimas_educacion_secundaria.md), de 29 de marzo: STEM1, STEM2, STEM5, CD5,
 CPSAA5, CC4, CE1, CCEC2.
 7. Analizar, tras la resolución de un problema, las soluciones obtenidas usando dife-
 rentes técnicas y herramientas, evaluando críticamente su validez y significado, a fin de ve-
@@ -708,7 +721,7 @@ aprendizaje autorregulado, el uso eficaz de herramientas digitales como calculad
 jas de cálculo, la verbalización o explicación del proceso y la selección entre diferentes mé-
 todos de comprobación de soluciones.
 Esta competencia específica se conecta con los siguientes descriptores recogidos en el
-anexo I del Real Decreto 217/2022, de 29 de marzo: STEM1, STEM2, CD2, CPSAA4,
+anexo I del [Real Decreto 217/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD217_2022_establece_ordenacion_ensenanzas_minimas_educacion_secundaria.md), de 29 de marzo: STEM1, STEM2, CD2, CPSAA4,
 CC3, CE3.
 8. Desarrollar destrezas sociales para trabajar de forma colaborativa en equipos di-
 versos con roles asignados que permitan potenciar el crecimiento entre iguales, valorando
@@ -731,7 +744,7 @@ nas, valorando la importancia de romper los roles preestablecidos.
 Por este motivo, aprender a trabajar en equipo es imprescindible para el desarrollo pro-
 fesional y social pleno del alumnado como miembro activo de nuestra sociedad.
 Esta competencia específica se conecta con los siguientes descriptores recogidos en el
-anexo I del Real Decreto 217/2022, de 29 de marzo: CCL5, CP3, STEM2, STEM4, CD3,
+anexo I del [Real Decreto 217/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD217_2022_establece_ordenacion_ensenanzas_minimas_educacion_secundaria.md), de 29 de marzo: CCL5, CP3, STEM2, STEM4, CD3,
 CPSAA1, CPSAA3, CC1, CC2, CE2.
 Primer curso del Programa de Diversificación Curricular
 Criterios de evaluación
@@ -1483,7 +1496,7 @@ valorarse desde sus diferentes escalas y en relación a sus consecuencias, toman
 cia de los conflictos que en algunos casos han contribuido a ocasionar y reconociendo el su-
 frimiento de las víctimas de la violencia y del terrorismo.
 Esta competencia específica se conecta con los siguientes descriptores recogidos en el
-anexo I del Real Decreto 217/2022, de 29 de marzo: CCL5, CP3, CC1, CC2, CC3, CCEC1,
+anexo I del [Real Decreto 217/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD217_2022_establece_ordenacion_ensenanzas_minimas_educacion_secundaria.md), de 29 de marzo: CCL5, CP3, CC1, CC2, CC3, CCEC1,
 CCEC3.
 2. Reflexionar de forma guiada sobre sobre la estructura de la lengua y sus usos, uti-
 lizando la terminología adecuada, para desarrollar la conciencia lingüística, aumentar el re-
@@ -1502,7 +1515,7 @@ gua materna o en otras lenguas. El objetivo es que los alumnos puedan pensar y h
 bre la lengua de manera que ese conocimiento revierta en una mejora de sus producciones
 propias y en una mejor comprensión e interpretación crítica de las producciones ajenas.
 Esta competencia específica se conecta con los siguientes descriptores recogidos en el
-anexo I del Real Decreto 217/2022, de 29 de marzo: STEM2, CCL2, CPSAA5.
+anexo I del [Real Decreto 217/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD217_2022_establece_ordenacion_ensenanzas_minimas_educacion_secundaria.md), de 29 de marzo: STEM2, CCL2, CPSAA5.
 3. Buscar, seleccionar y organizar información procedente de dos o más fuentes, in-
 cluidas las históricas y geográficas, sobre temas relevantes del presente y del pasado, para
 transformarla en conocimiento y comunicarla desde un punto de vista crítico, personal y
@@ -1519,7 +1532,7 @@ tivos determinados y sobre una diversidad de temas cercanos a su experiencia e i
 to profesional como personal, desarrollando hábitos de uso seguro de las nuevas tecnolo-
 gías y de un manejo cada vez más profundo y complejo de la información.
 Esta competencia específica se conecta con los siguientes descriptores recogidos en el
-anexo I del Real Decreto 217/2022, de 29 de marzo: CCL2, CCL3, CD1, CD3, CD4,
+anexo I del [Real Decreto 217/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD217_2022_establece_ordenacion_ensenanzas_minimas_educacion_secundaria.md), de 29 de marzo: CCL2, CCL3, CD1, CD3, CD4,
 CPSAA4, CPSAA5, STEM4.
 4. Comprender, interpretar y producir textos orales, escritos y multimodales en len-
 gua castellana, con coherencia, cohesión y registro adecuados, observando la corrección
@@ -1546,7 +1559,7 @@ como en las tareas propuestas. De esta manera, el alumnado podrá adquirir una v
 estrategias de comprensión, producción e interacción oral y escrita que le sirva para adap-
 tarse a múltiples situaciones y necesidades personales y sociales.
 Esta competencia específica se conecta con los siguientes descriptores recogidos en el
-anexo I del Real Decreto 217/2022, de 29 de marzo: CCL1, CCL2, CPSAA1, CPSAA4,
+anexo I del [Real Decreto 217/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD217_2022_establece_ordenacion_ensenanzas_minimas_educacion_secundaria.md), de 29 de marzo: CCL1, CCL2, CPSAA1, CPSAA4,
 CPSAA5, CC3.
 5. Leer, interpretar y analizar, de manera guiada, obras o fragmentos literarios del
 patrimonio nacional y universal, movilizando los conocimientos literarios y culturales, para
@@ -1570,7 +1583,7 @@ lectura, desarrollando las habilidades de interpretación que le permitan dotar 
 a la obra y relacionarla con otras, así como establecer vínculos entre la obra leída y otras
 formas de expresión artística.
 Esta competencia específica se conecta con los siguientes descriptores recogidos en el
-anexo I del Real Decreto 217/2022, de 29 de marzo: CCL1, CCL2, CCL4, CPSAA1,
+anexo I del [Real Decreto 217/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD217_2022_establece_ordenacion_ensenanzas_minimas_educacion_secundaria.md), de 29 de marzo: CCL1, CCL2, CCL4, CPSAA1,
 CPSAA3, CPSAA5, CCEC1, CCEC2, CCEC3, CCEC4.
 6. Conocer los principales problemas geográficos, históricos y sociales a los que se
 han enfrentado distintas sociedades a lo largo del tiempo, identificando las causas y conse-
@@ -1617,7 +1630,7 @@ bienestar colectivo depende también de nuestras aportaciones individuales. Por 
 desarrollo de esta competencia ha de generar la necesidad de elaborar productos capaces de
 reflejar ideas y pensamientos respetuosos con las posturas de los demás.
 Esta competencia específica se conecta con los siguientes descriptores recogidos en el
-anexo I del Real Decreto 217/2022, de 29 de marzo: CCL1, CCL2, CCL3, CCL5, STEM3,
+anexo I del [Real Decreto 217/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD217_2022_establece_ordenacion_ensenanzas_minimas_educacion_secundaria.md), de 29 de marzo: CCL1, CCL2, CCL3, CCL5, STEM3,
 STEM5, CD2, CPSAA3, CC1, CC2, CC3, CC4, CE1, CCEC1, CCEC3.
 7. Señalar los elementos del paisaje, identificando las causas de las transformacio-
 nes, para promover su conservación, mejora y uso sostenible.
@@ -1639,7 +1652,7 @@ promover posturas activas y de participación con respecto a la mejora, en gener
 torno, tanto a escala local como global, y en favor de un reparto justo, equitativo y solida-
 rio de los recursos en un sentido global.
 Esta competencia específica se conecta con los siguientes descriptores recogidos en el
-anexo I del Real Decreto 217/2022, de 29 de marzo: CPSAA2, CC1, CC2, CC3, CC4, CE1.
+anexo I del [Real Decreto 217/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD217_2022_establece_ordenacion_ensenanzas_minimas_educacion_secundaria.md), de 29 de marzo: CPSAA2, CC1, CC2, CC3, CC4, CE1.
 8. Conocer las bases de los sistemas democráticos y los principios constitucionales
 que rigen la vida en comunidad, asumiendo los deberes y derechos propios de nuestro mar-
 co de convivencia, para promover la participación ciudadana.
@@ -1664,7 +1677,7 @@ vigilancia ante cualquier amenaza o cuestionamiento que no se enmarque en el con
 los procedimientos democráticos que ella misma incluye para su reforma, además de instar
 al ejercicio de la mediación en pos de una gestión pacífica de los conflictos.
 Esta competencia específica se conecta con los siguientes descriptores recogidos en el
-anexo I del Real Decreto 217/2022, de 29 de marzo: CCL5, CC1, CC2, CC3.
+anexo I del [Real Decreto 217/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD217_2022_establece_ordenacion_ensenanzas_minimas_educacion_secundaria.md), de 29 de marzo: CCL5, CC1, CC2, CC3.
 9. Tomar conciencia del ciclo vital, las formas de vida y las relaciones intergenera-
 cionales y de dependencia en la sociedad actual y su evolución a lo largo del tiempo, para
 promover alternativas saludables, sostenibles y respetuosas con la dignidad humana y el
@@ -1690,7 +1703,7 @@ necesidad. Orientar el esparcimiento hacia actividades enriquecedoras, contribuy
 uso adecuado y ético de la tecnología, así como promover el compromiso activo y el volun-
 tariado, son tareas imprescindibles en la formación de un alumnado crítico y responsable.
 Esta competencia específica se conecta con los siguientes descriptores recogidos en el
-anexo I del Real Decreto 217/2022, de 29 de marzo: STEM5, CD4, CPSAA2, CC1, CC2, CC3.
+anexo I del [Real Decreto 217/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD217_2022_establece_ordenacion_ensenanzas_minimas_educacion_secundaria.md), de 29 de marzo: STEM5, CD4, CPSAA2, CC1, CC2, CC3.
 10. Conocer la importancia de la seguridad ciudadana en el panorama nacional e in-
 ternacional, reconociendo la contribución del Estado y otras entidades sociales a la paz, a
 la cooperación internacional y al desarrollo sostenible, para promover la consecución de un
@@ -1715,7 +1728,7 @@ gro de la sostenibilidad, lo que supone promover el interés del alumnado por la
 internacional y por los problemas existentes en el mundo en el que vivimos.
 
 Esta competencia específica se conecta con los siguientes descriptores recogidos en el
-anexo I del Real Decreto 217/2022, de 29 de marzo: CC1, CC2, CC3, CC4, CE1, CCEC1.
+anexo I del [Real Decreto 217/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD217_2022_establece_ordenacion_ensenanzas_minimas_educacion_secundaria.md), de 29 de marzo: CC1, CC2, CC3, CC4, CE1, CCEC1.
 Primer curso del Programa de Diversificación Curricular
 Criterios de evaluación
 Competencia específica 1.

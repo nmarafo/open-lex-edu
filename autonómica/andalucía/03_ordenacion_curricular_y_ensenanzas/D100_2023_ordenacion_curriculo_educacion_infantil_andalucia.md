@@ -16,8 +16,22 @@ estado: Vigente
 redaccion: original
 fuente_oficial: http://www.juntadeandalucia.es/boja/2023/90/1
 fuente_pdf_oficial: http://www.juntadeandalucia.es/boja/pdf/2023/90/1
+clasificacion:
+  categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+  subcategoria: Educación Infantil
+fundamentos_derecho:
+- norma_id: norm-and-l12-2007-promocion-igualdad-genero-andalucia
+- norma_id: norm-and-l17-2007
+- norma_id: norm-and-l6-2006-gobierno-comunidad-autonoma-andalucia
+- norma_id: norm-and-d285-2010-regulacion-sistema-informacion-seneca-andalucia
+- norma_id: norm-and-d328-2010
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-es-l-39-2015
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-rd-95-2022
+- norma_id: norm-es-2010-12201
 ---
-
 # Decreto 100/2023, de 9 de mayo, por el que se establece la ordenación y el currículo de la etapa de Educación Infantil en la Comunidad Autónoma de Andalucía.
 
 ## Preámbulo
@@ -65,7 +79,7 @@ en el uso de su autonomía, tal y como se recoge en la citada ley.
 La Ley Orgánica 3/2020, de 29 de diciembre, por tanto, ha venido a establecer un 
 nuevo marco legislativo para la regulación de las enseñanzas, por lo que se considera 
 necesario regular en un nuevo decreto la ordenación y el currículo de la etapa de 
-Educación Infantil, de acuerdo con el referido marco y el Real Decreto 95/2022, de 1 de 
+Educación Infantil, de acuerdo con el referido marco y el [Real Decreto 95/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD95_2022_establece_ordenacion_ensenanzas_minimas_educacion_infantil.md), de 1 de 
 febrero, por el que se establece la ordenación y las enseñanzas mínimas de la Educación 
 Infantil.
 
@@ -125,7 +139,7 @@ que atienden.
 El currículo andaluz de la etapa ha de tomar como eje estratégico y vertebrador del 
 proceso de enseñanza y aprendizaje el desarrollo de las capacidades del alumnado y la 
 integración de las competencias clave en el currículo educativo y en las prácticas docentes. 
-La Ley 17/2007, de 10 de diciembre, de Educación de Andalucía y las orientaciones de 
+La [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre, de Educación de Andalucía y las orientaciones de 
 la Unión Europea inciden en la necesidad de la adquisición de las competencias clave 
 por parte de la ciudadanía como condición indispensable para lograr que las personas 
 puedan alcanzar su pleno desarrollo personal, social y profesional. El aprendizaje basado 
@@ -142,7 +156,7 @@ Se trata de formar una ciudadanía competente a través de una educación que te
 cuenta las competencias clave que demanda la construcción de una sociedad igualitaria, 
 plural, dinámica y emprendedora, democrática y solidaria. 
 El presente decreto se ha elaborado atendiendo a los principios de buena regulación 
-contenidos en el artículo 129 de la Ley 39/2015, de 1 de octubre, del Procedimiento 
+contenidos en el artículo 129 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento 
 Administrativo Común de las Administraciones Públicas: principios de necesidad, 
 eficacia, proporcionalidad, seguridad jurídica, transparencia y eficiencia, en tanto que 
 persigue un interés general al proporcionar a la ciudadanía un marco normativo de las 
@@ -155,14 +169,14 @@ ordenamiento jurídico y permitiendo una gestión más eficiente de los recursos
 por lo que quedan justificados los objetivos que persigue la citada ley. Además, en el 
 procedimiento de elaboración de este decreto se ha permitido y facilitado la participación y 
 las aportaciones de las personas potenciales destinatarias a través de los procedimientos 
-de audiencia e información pública regulados en el artículo 133 de la citada Ley 39/2015, 
+de audiencia e información pública regulados en el artículo 133 de la citada [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), 
 de 1 de octubre. Asimismo, se ha tenido en cuenta en la elaboración de esta norma lo 
 dispuesto en el artículo 7.2 del Decreto 622/2019, de 27 de diciembre, de administración 
 electrónica, simplificación de procedimientos y racionalización organizativa de la Junta 
 de Andalucía. Por ello, contiene la regulación imprescindible para atender la necesidad 
 a cubrir con la norma y se dicta en coherencia con el ordenamiento jurídico autonómico.
 En su virtud, a propuesta de la Consejera de Desarrollo Educativo y Formación 
-Profesional, conforme a los artículos 21.3 y 27.8 de la Ley 6/2006, de 24 de octubre, 
+Profesional, conforme a los artículos 21.3 y 27.8 de la [Ley 6/2006](../01_marco_normativo_general_y_organico/L6_2006_gobierno_comunidad_autonoma_andalucia.md), de 24 de octubre, 
 del Gobierno de la Comunidad Autónoma de Andalucía, de acuerdo con el Consejo 
 Consultivo de Andalucía y previa deliberación del Consejo de Gobierno, en su reunión del 
 día 9 de mayo de 2023,
@@ -203,7 +217,7 @@ https://www.juntadeandalucia.es/eboja
 ### Artículo 3. Definiciones.
 
 1. A efectos de los elementos que articulan el currículo y teniendo en cuenta lo 
-establecido en el artículo 2 del Real Decreto 95/2022, de 1 de febrero, por el que se 
+establecido en el artículo 2 del [Real Decreto 95/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD95_2022_establece_ordenacion_ensenanzas_minimas_educacion_infantil.md), de 1 de febrero, por el que se 
 establece la ordenación y las enseñanzas mínimas de la Educación Infantil, se entenderá 
 por:
 a) Objetivos: logros que se espera que el alumnado haya alcanzado al finalizar la 
@@ -241,7 +255,7 @@ Los principios generales de la etapa son:
 a) Voluntariedad. La etapa de Educación Infantil tiene carácter voluntario.
 b) Gratuidad. El segundo ciclo de esta etapa educativa será gratuito. En el primer 
 ciclo se tenderá a la progresiva extensión de su gratuidad en el marco del Sistema 
-Educativo Público de Andalucía, según lo establecido en el artículo 3 de la Ley 17/2007, 
+Educativo Público de Andalucía, según lo establecido en el artículo 3 de la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), 
 de 10 de diciembre, de Educación de Andalucía, priorizando el acceso del alumnado en 
 situación de riesgo de pobreza y exclusión social, así como la situación de baja tasa de 
 escolarización.
@@ -304,7 +318,7 @@ hombres y mujeres, favoreciendo el logro de una sociedad libre e igualitaria.
 
 ### Artículo 6. Principios pedagógicos.
 
-Sin perjuicio de lo establecido en el artículo 6 del Real Decreto 95/2022, de 1 de 
+Sin perjuicio de lo establecido en el artículo 6 del [Real Decreto 95/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD95_2022_establece_ordenacion_ensenanzas_minimas_educacion_infantil.md), de 1 de 
 febrero, el currículo de la etapa de Educación Infantil responderá a los siguientes 
 principios:
 a) La práctica educativa en esta etapa estará orientada a asentar progresivamente las 
@@ -344,7 +358,7 @@ desarrollo de todos los lenguajes y modos de percepción específicos de estas e
 para desarrollar el conjunto de sus potencialidades.
 f) Los centros podrán fomentar una primera aproximación a la lengua extranjera en 
 los aprendizajes del segundo ciclo de la etapa, especialmente en el último año. 
-g) Atendiendo a lo recogido en el Capítulo I del Título II de la Ley 12/2007, de 26 de 
+g) Atendiendo a lo recogido en el Capítulo I del Título II de la [Ley 12/2007](../01_marco_normativo_general_y_organico/L12_2007_promocion_igualdad_genero_andalucia.md), de 26 de 
 noviembre, para la promoción de la igualdad de género en Andalucía, se favorecerá la 
 resolución pacífica de conflictos y modelos de convivencia basados en la diversidad, la 
 tolerancia y el respeto a la igualdad de derechos y oportunidades de mujeres y hombres.
@@ -426,7 +440,7 @@ educación como centros bilingües, se iniciará el uso de las lenguas extranjer
 términos que determine por Orden la Consejería competente en materia de educación.
 3. Los centros docentes que impartan una parte de las áreas del currículo en 
 lenguas extranjeras aplicarán, en todo caso, los criterios para la admisión del alumnado 
-establecidos en la Ley Orgánica 2/2006, de 3 de mayo, de Educación y en la normativa 
+establecidos en la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación y en la normativa 
 específica de aplicación en Andalucía. Entre tales criterios no se incluirán requisitos 
 lingüísticos.
 
@@ -436,7 +450,7 @@ Evaluación
 
 ### Artículo 11. Evaluación.
 
-1. Teniendo en cuenta lo establecido en el artículo 12.1 del Real Decreto 95/2022, 
+1. Teniendo en cuenta lo establecido en el artículo 12.1 del [Real Decreto 95/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD95_2022_establece_ordenacion_ensenanzas_minimas_educacion_infantil.md), 
 de 1 de febrero, la evaluación en Educación Infantil será global, continua y formativa. La 
 observación directa y sistemática constituirá la técnica principal del proceso de evaluación 
 y tendrá en cuenta el grado de desarrollo de las competencias clave y su progreso en el 
@@ -493,8 +507,8 @@ protección de datos de carácter personal y en materia de documentos y archivos
 los mismos de unos centros a otros y a la seguridad y confidencialidad de estos, se estará 
 a lo dispuesto en la legislación vigente en materia de protección de datos de carácter 
 personal y, en todo caso, a lo establecido en la disposición adicional vigesimotercera de 
-la Ley Orgánica 2/2006, de 3 de mayo.
-3. De conformidad con lo establecido en el artículo 13.1 del Decreto 285/2010, de 
+la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo.
+3. De conformidad con lo establecido en el artículo 13.1 del [Decreto 285/2010](../02_gestion_y_administracion_centros/D285_2010_regulacion_sistema_informacion_seneca_andalucia.md), de 
 11 de mayo, por el que se regula el Sistema de Información Séneca y se establece su 
 utilización para la gestión del Sistema Educativo Andaluz, los centros docentes sostenidos 
 con fondos públicos cumplimentarán electrónicamente los documentos de evaluación a 
@@ -614,7 +628,7 @@ a) Desarrollar las actividades previstas en el plan de acción tutorial.
 b) Realizar la atención educativa y asistencial del alumnado a su cargo. Esta función 
 será ejercida por el personal educador que posea una titulación distinta a la de Grado de 
 maestro de Educación Infantil o equivalente, sin perjuicio de lo dispuesto en el artículo 
-92.1 de la Ley Orgánica 2/2006, de 3 de mayo.
+92.1 de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo.
 c) Organizar las actividades del aula.
 d) Coordinar sus acciones con las de los demás tutores y tutoras del ciclo, ofreciendo 
 un marco educativo coherente para el alumnado.
@@ -645,7 +659,7 @@ ejercida por un maestro o maestra que realizará las funciones reguladas en el a
 1 del presente artículo y en el artículo 90 del Reglamento Orgánico de las escuelas 
 infantiles de segundo grado, de los colegios de educación primaria, de los colegios de 
 educación infantil y primaria, y de los centros públicos específicos de educación especial, 
-aprobado por Decreto 328/2010, de 13 de julio.
+aprobado por [Decreto 328/2010](../04_organizacion_escolar_y_funcionamiento/D328_2010_reglamento_organico_escuelas_infantiles_colegios_primaria_andalucia.md), de 13 de julio.
 3. El plan de acción tutorial en esta etapa educativa recogerá los mecanismos de 
 colaboración con las familias en los procesos educativos de sus hijos e hijas, así como 
 los mecanismos de colaboración con atención temprana.
@@ -664,7 +678,7 @@ las enseñanzas contempladas en el presente Decreto, a las que se desprendan de 
 procesos de autoevaluación de los centros o sean demandadas por estos, así como a las 
 de la población que acogen.
 2. Las actividades de formación permanente del profesorado se desarrollarán dentro 
-del marco regulado en el artículo 19 de la Ley 17/2007, de 10 de diciembre y en el Decreto 
+del marco regulado en el artículo 19 de la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre y en el Decreto 
 93/2013, de 27 de agosto, por el que se regula la formación inicial y permanente del 
 profesorado en la Comunidad Autónoma de Andalucía, así como el Sistema Andaluz de 
 Formación Permanente del Profesorado y normas que lo desarrollen.
@@ -717,7 +731,7 @@ reproduce, total o parcialmente, normas dictadas por el Estado al amparo del art
 149.1.30.ª de la Constitución Española, recogidas en los artículos 12 de los «Principios 
 generales», 13 de los «Objetivos», 14 de la «Ordenación y principios pedagógicos», 15 
 de la «Oferta de plazas y gratuidad», así como de la «Disposición adicional segunda. 
-Enseñanza de la Religión», de la Ley Orgánica 2/2006, de 3 de mayo.
+Enseñanza de la Religión», de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo.
 2. El contenido de los artículos 2, 4.a, 4.b, 4.c, 5, 6.a, 6.b, 6.c, 6.e, 6.f, 8.1, 8.2, 8.3, 
 9.1., 9.2, 10.3, 11.3, 12, reproduce, total o parcialmente, normas dictadas por el Estado al 
 amparo del artículo 149.1. 30.ª de la Constitución Española, recogidas en los artículos 3 
@@ -726,7 +740,7 @@ de los «Principios generales», 6 de los «Principios pedagógicos», 7 de los 
 de las «Áreas», 12 de la «Evaluación», 13 de la «Atención a las diferencias individuales», 
 14 de la «Autonomía de los centros», así como de la «Disposición adicional primera. 
 Enseñanzas de religión» y de la «Disposición adicional segunda. Enseñanzas del sistema 
-educativo español impartidas en lenguas extranjeras», del Real Decreto 95/2022, de 1 de 
+educativo español impartidas en lenguas extranjeras», del [Real Decreto 95/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD95_2022_establece_ordenacion_ensenanzas_minimas_educacion_infantil.md), de 1 de 
 febrero.
 
 ### Disposición final segunda. Desarrollo y ejecución.

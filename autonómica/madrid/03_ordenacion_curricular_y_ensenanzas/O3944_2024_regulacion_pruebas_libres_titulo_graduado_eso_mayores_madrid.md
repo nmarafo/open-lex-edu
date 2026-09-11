@@ -27,8 +27,20 @@ tags:
 - educacion_personas_adultas
 - titulacion
 - madrid
+fundamentos_derecho:
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-mad-d248-2023
+- norma_id: norm-mad-d-52-2021
+- norma_id: norm-mad-l1-1983-gobierno-administracion-comunidad-madrid
+- norma_id: norm-mad-d65-2022
+- norma_id: norm-es-l-39-2015
+- norma_id: norm-es-l-40-2015
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-lo-3-2018
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-rd-217-2022
+- norma_id: norm-es-2010-12201
 ---
-
 # Orden 3944/2024, de 8 de septiembre, de la Consejería de Educación, Ciencia y Universidades, por la que se regulan las pruebas libres para la obtención del título de Graduado en Educación Secundaria Obligatoria para personas mayores de dieciocho años en la Comunidad de Madrid
 
 ## Preámbulo
@@ -39,7 +51,7 @@ ORDEN 3944/2024, de 8 de septiembre, de la Consejería de Educación, Ciencia
 y Universidades, por la que se regulan las pruebas para la obtención del título
 de Graduado en Educación Secundaria Obligatoria destinadas a personas ma-
 yores de dieciocho años en la Comunidad de Madrid.
-El artículo 68.2 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, establece que
+El artículo 68.2 de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, establece que
 corresponde a las administraciones educativas, en el ámbito de sus competencias, organizar pe-
 riódicamente pruebas para que las personas mayores de dieciocho años puedan obtener direc-
 tamente el título de Graduado en Educación Secundaria Obligatoria (en adelante, ESO). Ade-
@@ -48,7 +60,7 @@ asegurar la igualdad de oportunidades, la no discriminación por razón de nacim
 gen racial o étnico, discapacidad, edad, enfermedad, religión o creencias, orientación sexual o
 identidad de género o cualquier otra condición o circunstancia personal o social y la accesibi-
 lidad universal de las personas con discapacidad que se presenten a dichas pruebas.
-Como desarrollo reglamentario de esta norma se publicó el Real Decreto 217/2022,
+Como desarrollo reglamentario de esta norma se publicó el [Real Decreto 217/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD217_2022_establece_ordenacion_ensenanzas_minimas_educacion_secundaria.md),
 de 29 de marzo, por el que se establece la ordenación y las enseñanzas mínimas de la Edu-
 cación Secundaria Obligatoria, que en los apartados octavo y noveno de su disposición adi-
 cional tercera determina que las administraciones educativas, en el ámbito de sus compe-
@@ -62,7 +74,7 @@ toria académica previa. Asimismo, establece que corresponderá a las administra
 cativas garantizar que estas pruebas cuenten con las medidas de accesibilidad universal y
 las adaptaciones que precisen todos los alumnos con necesidades educativas especiales.
 Para su concreción en el ámbito territorial de la Comunidad de Madrid, se publicó el
-Decreto 65/2022, de 20 de julio, del Consejo de Gobierno, por el que se establecen para la
+[Decreto 65/2022](./D65_2022_ordenacion_curriculo_educacion_secundaria_obligatoria_madrid.md), de 20 de julio, del Consejo de Gobierno, por el que se establecen para la
 Comunidad de Madrid la ordenación y el currículo de la Educación Secundaria Obligatoria,
 que, en el apartado octavo de su disposición adicional tercera recoge que la consejería com-
 petente en materia de Educación organizará periódicamente pruebas para que las personas
@@ -101,8 +113,8 @@ de reclamación a los resultados obtenidos. Por último, el sexto capítulo reco
 tación académica en la que se ordena el registro y certificación de los resultados obtenidos
 por quienes participan en las pruebas.
 Esta orden cumple con los principios de buena regulación que recoge el artículo 129 de
-la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Adminis-
-traciones Públicas, y el artículo 2 del Decreto 52/2021, de 24 de marzo, del Consejo de Go-
+la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Administrativo Común de las Adminis-
+traciones Públicas, y el artículo 2 del [Decreto 52/2021](../01_marco_normativo_general_y_organico/D52_2021_procedimiento_elaboracion_disposiciones_normativas_madrid.md), de 24 de marzo, del Consejo de Go-
 bierno, por el que se regula y simplifica el procedimiento de elaboración de las disposicio-
 nes normativas de carácter general de la Comunidad de Madrid.
 Así, la presente disposición normativa se ajusta a las exigencias de los principios de
@@ -117,7 +129,7 @@ tonómico sólido y coherente en materia de ordenación académica que garantiza
 pios de seguridad jurídica, en tanto que regula las condiciones que deben cumplirse en una
 de las posibles vías de obtención del título de Graduado en ESO.
 En aplicación del principio de transparencia, se han celebrado los trámites de audiencia
-e información pública, de conformidad con los artículos 9 del Decreto 52/2021, de 24 de
+e información pública, de conformidad con los artículos 9 del [Decreto 52/2021](../01_marco_normativo_general_y_organico/D52_2021_procedimiento_elaboracion_disposiciones_normativas_madrid.md), de 24 de
 marzo, y 60.2 de la Ley 10/2019, de 10 de abril, de Transparencia y de Participación de la
 Comunidad de Madrid, y, una vez aprobada, la norma será objeto de publicación en el Por-
 tal de Transparencia de la Comunidad de Madrid.
@@ -131,11 +143,11 @@ General Técnica de la Consejería de Educación, Ciencia y Universidades. Asimi
 emitido el dictamen por el Consejo Escolar de la Comunidad de Madrid e informe por la
 Abogacía General de la Comunidad de Madrid.
 El titular de la Consejería de Educación, Ciencia y Universidades es competente para
-dictar esta orden, de acuerdo con lo establecido en el artículo 41.d) de la Ley 1/1983, de 13
+dictar esta orden, de acuerdo con lo establecido en el artículo 41.d) de la [Ley 1/1983](../01_marco_normativo_general_y_organico/L1_1983_gobierno_administracion_comunidad_madrid.md), de 13
 de diciembre, de Gobierno y Administración de la Comunidad de Madrid, y en la disposi-
-ción final segunda del Decreto 65/2022, de 20 de julio.
+ción final segunda del [Decreto 65/2022](./D65_2022_ordenacion_curriculo_educacion_secundaria_obligatoria_madrid.md), de 20 de julio.
 En su virtud, a propuesta de la Dirección General de Educación Secundaria, Formación
-Profesional y Régimen Especial, de conformidad con lo dispuesto en el Decreto 248/2023,
+Profesional y Régimen Especial, de conformidad con lo dispuesto en el [Decreto 248/2023](../01_marco_normativo_general_y_organico/D248_2023_estructura_organica_consejeria_educacion_ciencia_universidades_madrid.md),
 de 11 de octubre, del Consejo de Gobierno, por el que se establece la estructura orgánica de
 la Consejería de Educación, Ciencia y Universidades,
 DISPONGO:
@@ -218,7 +230,7 @@ Preferentemente, de forma telemática. La presentación de la solicitud de forma
 mática se realizará a través de la secretaría virtual del Sistema Integral de Gestión
 Educativa de la Comunidad de Madrid (RAÍCES) cuyo acceso se detallará en la
 convocatoria, sin perjuicio de los restantes registros electrónicos de cualesquiera de
-los sujetos a los que se refiere el artículo 2.1 de la Ley 39/2015, de 1 de octubre, del
+los sujetos a los que se refiere el artículo 2.1 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del
 Procedimiento Administrativo Común de las Administraciones Públicas. El acceso
 a esta secretaría virtual podrá hacerse con uno de los certificados electrónicos reco-
 
@@ -241,7 +253,7 @@ ción del expediente a través de la secretaría virtual.
 b)
 De forma presencial, en la secretaría de los centros públicos que indique la convo-
 catoria o en cualquiera de los lugares previstos en el artículo 16.4 apartados b), c)
-y d) de la Ley 39/2015, de 1 de octubre. Si la solicitud se presenta en la secretaría
+y d) de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre. Si la solicitud se presenta en la secretaría
 de uno de los centros públicos indicados en la convocatoria, esta entregará al so-
 licitante una copia fechada y sellada de la solicitud presentada. Si la solicitud se
 presenta en una oficina de Correos, deberá llevarse en sobre abierto para que la
@@ -304,7 +316,7 @@ Una vez finalizado el plazo de inscripción, el director de cada centro receptor
 las solicitudes comprobará que cada solicitante reúne los requisitos necesarios para concu-
 rrir a las pruebas y notificará la admisión o, en su caso, la exclusión provisional con indi-
 cación de la causa o causas de la misma, conforme al calendario establecido en la convoca-
-toria. De conformidad con el artículo 68 de la Ley 39/2015, de 1 de octubre, podrá
+toria. De conformidad con el artículo 68 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, podrá
 requerirse la subsanación y mejora de la solicitud que deberá atenderse en un plazo de diez
 días hábiles, en caso contrario se considerará al interesado desistido de su solicitud.
 2.
@@ -324,9 +336,9 @@ caso de los admitidos, el centro examinador asignado para concurrir a las prueba
 5.
 Contra las resoluciones definitivas de exclusión en la participación en las pruebas,
 las personas interesadas podrán interponer recurso de alzada en los términos previstos en los
-artículos 112, 115, 121 y 122 de la Ley 39/2015, de 1 de octubre, ante el titular de la direc-
+artículos 112, 115, 121 y 122 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, ante el titular de la direc-
 ción del área territorial a la que esté adscrito el centro receptor de las solicitudes en cualquie-
-ra de los lugares a los que se refiere el artículo 16.4 de la Ley 39/2015, de 1 de octubre. La
+ra de los lugares a los que se refiere el artículo 16.4 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre. La
 resolución del recurso de alzada, que será motivada, pondrá fin a la vía administrativa.
 
 ### Capítulo III. Estructura y elaboración de las pruebas
@@ -384,7 +396,7 @@ ver los participantes, así como los criterios de calificación en cada caso. Pr
 cumento en el que detallarán los elementos curriculares que se pretenden evaluar, con es-
 pecial atención a la demostración del nivel de adquisición de las competencias clave por
 parte de los alumnos, tomando como referente el perfil de salida establecido en el anexo I del
-Real Decreto 217/2022, de 29 de marzo, por el que se establece la ordenación y las ense-
+[Real Decreto 217/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD217_2022_establece_ordenacion_ensenanzas_minimas_educacion_secundaria.md), de 29 de marzo, por el que se establece la ordenación y las ense-
 ñanzas mínimas de la Educación Secundaria Obligatoria.
 3.
 Los elaboradores entregarán el material y documentación a la dirección general
@@ -490,7 +502,7 @@ En todos los casos se nombrarán miembros suplentes de las comisiones de evaluac
 
 1.
 Las comisiones de evaluación funcionarán como órganos colegiados y actuarán
-conforme a lo establecido en la sección 3.a del capítulo II de la Ley 40/2015, de 1 de octu-
+conforme a lo establecido en la sección 3.a del capítulo II de la [Ley 40/2015](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md), de 1 de octu-
 bre, de Régimen Jurídico del Sector Público, sin perjuicio de las peculiaridades organizati-
 vas que se determinan en esta orden.
 2.
@@ -578,7 +590,7 @@ para la celebración de las pruebas.
 
 #### Artículo 19. Solicitud para la adaptación de las pruebas
 
-De conformidad con lo dispuesto en los artículos 68.2 y 74.5 de la Ley Orgánica 2/2006,
+De conformidad con lo dispuesto en los artículos 68.2 y 74.5 de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md),
 de 3 de mayo, de Educación, se adoptarán las medidas oportunas para adaptar las condicio-
 nes de realización de las pruebas para quienes acrediten debidamente alguna discapacidad
 o necesidad específica de apoyo educativo que les impida realizarlas de modo ordinario, se-
@@ -669,7 +681,7 @@ no corresponda con las necesidades acreditadas.
 Contra la resolución desestimatoria adoptada por el director del centro, la perso-
 na interesada podrá interponer, en el plazo de un mes a partir de su notificación, recurso de
 alzada ante la dirección de área territorial correspondiente en cualquiera de los lugares a los
-que se refiere el artículo 16.4 de la Ley 39/2015, de 1 de octubre, en los términos previstos
+que se refiere el artículo 16.4 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, en los términos previstos
 en los artículos 112, 115, 121 y 122 de la citada ley, que emitirá resolución motivada y pon-
 drá fin a la vía administrativa. En caso de silencio administrativo, este tendrá efecto deses-
 timatorio.
@@ -688,7 +700,7 @@ deban adoptarse. En caso de silencio administrativo, este se considerará desest
 Contra la resolución desestimatoria adoptada por la dirección general competente
 en materia de ordenación académica de ESO, la persona interesada podrá interponer, en el
 plazo de un mes a partir de su notificación, recurso de alzada ante la Viceconsejería corres-
-pondiente por cualquiera de los medios a los que se refiere el artículo 16.4 de la Ley 39/2015,
+pondiente por cualquiera de los medios a los que se refiere el artículo 16.4 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md),
 de 1 de octubre, en los términos previstos en los artículos 112, 115, 121 y 122 de la citada
 ley, que emitirá resolución motivada y pondrá fin a la vía administrativa. En caso de silen-
 cio administrativo, este tendrá efecto desestimatorio.
@@ -715,7 +727,7 @@ cedido al mismo y los motivos que no lo han permitido.
 Contra las resoluciones que desestimen la solicitud de traslados de calificación,
 las personas interesadas podrán interponer, en el plazo de un mes a partir de su notificación,
 recurso de alzada ante la dirección de área territorial correspondiente por cualquiera de los
-medios a los que se refiere el artículo 16.4 de la Ley 39/2015, de 1 de octubre, en los térmi-
+medios a los que se refiere el artículo 16.4 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, en los térmi-
 nos previstos en los artículos 112, 115, 121 y 122 de la citada ley, que emitirá resolución
 motivada y pondrá fin a la vía administrativa. En caso de silencio administrativo, este ten-
 drá efecto desestimatorio.
@@ -756,9 +768,9 @@ la admisión y exclusión definitiva en las pruebas.
 3.
 Contra las resoluciones a las que se refiere el apartado anterior que desestimen las
 exenciones solicitadas, las personas interesadas podrán interponer recurso de alzada en los tér-
-minos previstos en los artículos 112, 115, 121 y 122 de la Ley 39/2015, de 1 de octubre, ante
+minos previstos en los artículos 112, 115, 121 y 122 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, ante
 el titular de la dirección del área territorial a la que esté adscrito el centro examinador en cual-
-quiera de los lugares a los que se refiere el artículo 16.4 de la Ley 39/2015, de 1 de octubre. La
+quiera de los lugares a los que se refiere el artículo 16.4 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre. La
 resolución del recurso de alzada, que será motivada, pondrá fin a la vía administrativa.
 
 #### Artículo 24. Calificación de las pruebas
@@ -844,9 +856,9 @@ diligencias que procedan.
 4.
 En caso de disconformidad con las calificaciones obtenidas, la persona interesada
 podrá interponer recurso de alzada en los términos previstos en los artículos 112, 115, 121
-y 122 de la Ley 39/2015, de 1 de octubre, en el plazo de un mes desde la notificación de las
+y 122 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, en el plazo de un mes desde la notificación de las
 calificaciones obtenidas, ante la dirección de área territorial correspondiente o en cualquie-
-ra de los lugares a los que se refiere el artículo 16.4 de la citada Ley 39/2015, de 1 de octu-
+ra de los lugares a los que se refiere el artículo 16.4 de la citada [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octu-
 bre. La dirección de área territorial correspondiente emitirá resolución motivada que pon-
 drá fin a la vía administrativa, para lo que podrá requerir informe al servicio de inspección
 educativa.
@@ -894,7 +906,7 @@ custodia de los documentos académicos, así como del cumplimiento de los requis
 blecidos en el Reglamento (UE) 2016/679 del Parlamento Europeo y el Consejo de 27 de
 abril de 2016, relativo a la protección de las personas físicas en lo que respecta al tratamien-
 to de datos personales y a la libre circulación de estos datos y por el que se deroga la Direc-
-tiva 95/46/UE y en la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Per-
+tiva 95/46/UE y en la [Ley Orgánica 3/2018](../../../estatal/02_gestion_y_administracion_centros/LO3_2018_proteccion_datos_personales_garantia_derechos_digitales.md), de 5 de diciembre, de Protección de Datos Per-
 sonales y garantía de los derechos digitales.
 5.
 La dirección general competente en materia de ordenación académica de la ESO esta-
@@ -1003,7 +1015,7 @@ En lo referente a la obtención, seguridad y confidencialidad de los datos perso
 los aspirantes, se estará a lo dispuesto en el Reglamento (UE) 2016/679 del Parlamento
 Europeo y el Consejo de 27 de abril de 2016, relativo a la protección de las personas físicas
 en lo que respecta al tratamiento de datos personales y a la libre circulación de estos datos y
-por el que se deroga la Directiva 95/46/UE, y en lo establecido en la Ley Orgánica 3/2018,
+por el que se deroga la Directiva 95/46/UE, y en lo establecido en la [Ley Orgánica 3/2018](../../../estatal/02_gestion_y_administracion_centros/LO3_2018_proteccion_datos_personales_garantia_derechos_digitales.md),
 de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales,
 así como en la normativa de desarrollo, cuyo detalle podrá consultarse en el Registro de Ac-
 tividades de Tratamiento de la consejería competente en materia de Educación de la Comu-

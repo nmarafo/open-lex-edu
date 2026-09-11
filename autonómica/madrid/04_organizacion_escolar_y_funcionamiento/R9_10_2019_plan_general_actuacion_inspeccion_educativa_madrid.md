@@ -24,8 +24,14 @@ tags:
 - plan_general
 - supervision_docente
 - madrid
+fundamentos_derecho:
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-mad-o2414-2019-organizacion-funcionamiento-evaluacion-ensenanzas-idiomas-eoi-madrid
+- norma_id: norm-mad-d61-2019-organizacion-estructura-funcionamiento-inspeccion-educativa-madrid
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
 ---
-
 # Resolución de 9 de octubre de 2019, de la Viceconsejería de Organización Educativa, por la que se aprueba el Plan General de Actuación de la Inspección Educativa para el curso 2019-2020
 
 ## Preámbulo
@@ -46,20 +52,20 @@ estructura básica de la Consejería de Educación y Juventud y los órganos sup
 rectivos que se adscriben a la misma. La Viceconsejería de Organización Educativa forma
 parte de la estructura básica de la Consejería de Educación y Juventud, bajo la superior di-
 rección del titular del departamento.
-La Disposición Final Primera del Decreto 61/2019, de 9 de julio, del Consejo de Go-
+La Disposición Final Primera del [Decreto 61/2019](./D61_2019_organizacion_estructura_funcionamiento_inspeccion_educativa_madrid.md), de 9 de julio, del Consejo de Go-
 bierno, por el que se regula la organización, estructura y funcionamiento de la Inspección
 Educativa en la Comunidad de Madrid, que regula la habilitación para el desarrollo y eje-
 cución del citado decreto, establece que se autoriza al titular de la Viceconsejería compe-
 tente en materia de Inspección Educativa para aprobar las instrucciones que sean precisas
 para la aplicación del presente decreto.
-El citado Decreto 61/2019, de 9 de julio, establece que la Inspección Educativa actua-
+El citado [Decreto 61/2019](./D61_2019_organizacion_estructura_funcionamiento_inspeccion_educativa_madrid.md), de 9 de julio, establece que la Inspección Educativa actua-
 rá conforme a los planes generales plurianuales de actuación y que los planes generales plu-
 rianuales de actuación se concretarán antes del inicio de cada curso escolar en planes anua-
 les de actuación.
-El Decreto 61/2019, de 9 de julio, fija que los planes generales plurianuales y los pla-
+El [Decreto 61/2019](./D61_2019_organizacion_estructura_funcionamiento_inspeccion_educativa_madrid.md), de 9 de julio, fija que los planes generales plurianuales y los pla-
 nes anuales de actuación serán aprobados por el órgano administrativo que en cada momen-
 to ostente la competencia en materia de Inspección Educativa.
-El Decreto 61/2019, de 9 de julio, asimismo especifica que los planes generales plu-
+El [Decreto 61/2019](./D61_2019_organizacion_estructura_funcionamiento_inspeccion_educativa_madrid.md), de 9 de julio, asimismo especifica que los planes generales plu-
 rianuales y los planes anuales de actuación serán concretados por los servicios territoriales
 de Inspección Educativa de las direcciones de Área Territorial en los planes territoriales que
 serán aprobados por los respectivos directores de Área Territorial.
@@ -69,7 +75,7 @@ Comunidad de Madrid, define el Plan General de Actuación como el instrumento de
 ficación básico de la Inspección Educativa para cada año académico. Asimismo, confiere a
 dicho Plan la función de servir como instrumento para el seguimiento y la coordinación de
 las Inspecciones Educativas Territoriales y establece, a tal objeto, los mecanismos precisos.
-Aunque el artículo 7 del Decreto 61/2019, de 9 de julio, dispone que la Inspección
+Aunque el artículo 7 del [Decreto 61/2019](./D61_2019_organizacion_estructura_funcionamiento_inspeccion_educativa_madrid.md), de 9 de julio, dispone que la Inspección
 Educativa actuará conforme a los planes generales plurianuales de actuación, la Subdirec-
 ción General de Inspección, debido a la reciente publicación del citado Decreto, y a la difi-
 cultad de plantear unos objetivos a medio y largo plazo, a fijar unas líneas prioritarias de
@@ -87,7 +93,7 @@ BOCM-20191018-20
 BOCM
 Las actuaciones propuestas habrán de desarrollarse bajo la coordinación de la Subdi-
 rección General de Inspección Educativa de esta Viceconsejería, según se dispone en el ar-
-tículo 8 del Decreto 61/2019, antes citado.
+tículo 8 del [Decreto 61/2019](./D61_2019_organizacion_estructura_funcionamiento_inspeccion_educativa_madrid.md), antes citado.
 Así, a propuesta de la Subdirección General de Inspección Educativa, he resuelto apro-
 bar el Plan General de Actuación de la Inspección para el curso escolar 2019-2020 que se
 acompaña como Anexo I a esta Resolución.
@@ -144,10 +150,10 @@ territoriales.
 1.
 Legislación aplicable
 1.1.
-Ley Orgánica 2/2006, de 3 de mayo, de Educación, modificada por la Ley Orgá-
+[Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, modificada por la Ley Orgá-
 nica 8/2013, de 9 de diciembre, para la mejora de la calidad educativa.
 1.2.
-Decreto 61/2019, de 9 de julio, del Consejo de Gobierno, por el que se regula la
+[Decreto 61/2019](./D61_2019_organizacion_estructura_funcionamiento_inspeccion_educativa_madrid.md), de 9 de julio, del Consejo de Gobierno, por el que se regula la
 organización, estructura y funcionamiento de la Inspección Educativa en la Comunidad de
 Madrid.
 1.3.
@@ -248,7 +254,7 @@ El PGA y los PTA deben ser considerados como instrumentos de planificación y de
 seguimiento y coordinación de las actuaciones de las Inspección Educativa.
 6.1.
 Subdirección General de Inspección Educativa.
-El artículo 8.1 del Decreto 61/2019 que regula las funciones de la Subdirección Gene-
+El artículo 8.1 del [Decreto 61/2019](./D61_2019_organizacion_estructura_funcionamiento_inspeccion_educativa_madrid.md) que regula las funciones de la Subdirección Gene-
 ral de Inspección Educativa, establece que esta Subdirección General debe proponer los pla-
 nes generales de actuación de la Inspección, realizar el seguimiento de la ejecución de di-
 chos planes y elevar a la Viceconsejería de Organización Educativa las memorias, así como
@@ -284,7 +290,7 @@ colaboración con las unidades de la Consejería de Educación y Juventud que le
 mendadas en relación con sus competencias y funciones.
 6.2.
 Servicios territoriales de Inspección Educativa.
-Los servicios territoriales, según el artículo 7.6 del Decreto 61/2019, concretarán el
+Los servicios territoriales, según el artículo 7.6 del [Decreto 61/2019](./D61_2019_organizacion_estructura_funcionamiento_inspeccion_educativa_madrid.md), concretarán el
 PGA, en planes territoriales, que deberán ser aprobados por el respectivo director de Área
 Territorial y remitidos con anterioridad al 31 de octubre de 2019 a la Subdirección General
 de Inspección Educativa.
@@ -980,7 +986,7 @@ los inspectores de los Servicios Territoriales que tengan asignados centros de E
 Infantil y Primaria o centros de Educación Secundaria Obligatoria, coordinados por la
 Subdirección General de Inspección Educativa.
 7.3.3.
-Supervisión de la aplicación de la Orden 2414/2019, de 1 de agosto, del Con-
+Supervisión de la aplicación de la [Orden 2414/2019](../03_ordenacion_curricular_y_ensenanzas/O2414_2019_organizacion_funcionamiento_evaluacion_ensenanzas_idiomas_eoi_madrid.md), de 1 de agosto, del Con-
 sejero de Educación e Investigación, por la que se regula la evaluación y certificación de
 los niveles básico, intermedio y avanzado de las enseñanzas de idiomas de régimen espe-
 cial en la Comunidad de Madrid.
@@ -1466,7 +1472,7 @@ del PGA y de los PTA.
 10.
 Otros aspectos relativos a la organización y funcionamiento
 de los servicios territoriales
-Además de lo establecido en el Decreto 61/2019, de 9 de julio, del Consejo de Gobier-
+Además de lo establecido en el [Decreto 61/2019](./D61_2019_organizacion_estructura_funcionamiento_inspeccion_educativa_madrid.md), de 9 de julio, del Consejo de Gobier-
 no, por el que se regula la organización, estructura y funcionamiento de la Inspección Educa-
 tiva en la Comunidad de Madrid y en las instrucciones recogidas en la Resolución de 20 de
 abril de 2007, se tendrán en cuenta las siguientes normas de organización y funcionamiento:

@@ -55,8 +55,14 @@ relaciones:
   - norma_id: norm-es-l-39-2015
     articulos_destino:
     - Art. 45
+fundamentos_derecho:
+- norma_id: norm-can-d-84-2024
+- norma_id: norm-can-l-14-1990
+- norma_id: norm-can-l-4-2023
+- norma_id: norm-can-d-109-1999
+- norma_id: norm-mad-l4-2023
+- norma_id: norm-es-l-39-2015
 ---
-
 # Orden de 6 de agosto de 2026, por la que se actualiza la configuración de los Colectivos de Escuelas Rurales del ámbito de la Comunidad Autónoma de Canarias, para el curso escolar 2026-2027.
 
 ## Preámbulo
@@ -76,17 +82,17 @@ En este sentido, la última configuración vino dada por la Orden n.º 925, de 2
 de 2025, por la que se actualiza la configuración de los Colectivos de Escuelas Rurales del 
 ámbito de la Comunidad Autónoma de Canarias, para el curso escolar 2025-2026.
 FUNDAMENTO DE DERECHO
-Único.- El Decreto 109/1999, de 25 de mayo, por el que se regula el régimen de 
+Único.- El [Decreto 109/1999](./D109_1999_regula_regimen_creacion_funcionamiento_colectivos_escuelas.md), de 25 de mayo, por el que se regula el régimen de 
 creación y funcionamiento de los Colectivos de Escuelas Rurales, establece en su artículo 2 
 que el ámbito territorial de cada uno de los Colectivos se determinará mediante Orden 
 del Consejero competente en materia educativa, en la que, partiendo de la configuración 
 ya existente, figurarán los centros rurales que los integran, así como su denominación 
 específica y domicilio.
-En virtud de las competencias atribuidas en el artículo 58.2 de la Ley 4/2023, de 23 
-de marzo, de la Presidencia y del Gobierno de Canarias, el artículo 29 de la Ley 14/1990, 
+En virtud de las competencias atribuidas en el artículo 58.2 de la [Ley 4/2023](../01_marco_normativo_general_y_organico/L4_2023_presidencia_gobierno_canarias.md), de 23 
+de marzo, de la Presidencia y del Gobierno de Canarias, el artículo 29 de la [Ley 14/1990](../01_marco_normativo_general_y_organico/L14_1990_regimen_juridico_administraciones_publicas_canarias.md), 
 de 26 de julio, de Régimen Jurídico de las Administraciones Públicas de Canarias, y el 
 artículo 6 del Reglamento Orgánico de la Consejería de Educación, Formación Profesional, 
-Actividad Física y Deportes, aprobado por Decreto 84/2024, de 10 de junio,
+Actividad Física y Deportes, aprobado por [Decreto 84/2024](../01_marco_normativo_general_y_organico/D84_2024_reglamento_organico_consejeria_educacion_canarias.md), de 10 de junio,
 R E S U E LV O:
 Primero.- Actualizar la configuración de los Colectivos de Escuelas Rurales (CER) del 
 ámbito de la Comunidad Autónoma de Canarias, para el curso escolar 2026-2027, según se 
@@ -102,7 +108,7 @@ Miércoles 19 de agosto de 2026
 Cuarto.- Publicar en el Boletín Oficial de Canarias la presente Orden de
 
 acuerdo con 
-lo establecido en el artículo 45.1 de la Ley 39/2015, de 1 de octubre, del Procedimiento 
+lo establecido en el artículo 45.1 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento 
 Administrativo Común de las Administraciones Públicas.
 Contra el presente acto, que pone fin a la vía administrativa, cabe interponer recurso 
 potestativo de reposición ante el Consejero de Educación, Formación Profesional, 

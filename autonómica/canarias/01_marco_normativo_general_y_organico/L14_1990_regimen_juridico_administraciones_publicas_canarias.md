@@ -349,8 +349,9 @@ relaciones:
   articulos:
   - norma_id: '136'
   - norma_id: norm-es-1985-5392
+fundamentos_derecho:
+- norma_id: norm-es-1985-5392
 ---
-
 # Ley 14/1990, de 26 de julio, de Régimen Jurídico de las Administraciones Públicas de Canarias.
 
 ## Preámbulo
@@ -398,7 +399,7 @@ c) Las Mancomunidades de municipios.
 
 2. Tendrán igual consideración las administraciones institucionales creadas de acuerdo con la Ley.
 
-3. El instrumento por el que se constituyan las Administraciones Públicas a que hace referencia el apartado 1 de este artículo, podrá atribuir a las mismas todas o alguna de las potestades contenidas en los apartados e), f), g) y h) del número 1 del artículo 4 de la Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local.
+3. El instrumento por el que se constituyan las Administraciones Públicas a que hace referencia el apartado 1 de este artículo, podrá atribuir a las mismas todas o alguna de las potestades contenidas en los apartados e), f), g) y h) del número 1 del artículo 4 de la [Ley 7/1985](../../../estatal/02_gestion_y_administracion_centros/L7_1985_reguladora_bases_regimen_local.md), de 2 de abril, reguladora de las Bases del Régimen Local.
 
 ## Capítulo II. Sistema de competencias.
 
@@ -414,17 +415,17 @@ b) Que la naturaleza de la actividad o el servicio prestado impongan su organiza
 
 2. No serán delegables en los Cabildos funciones normativas, de planificación y coordinación en relación con competencias de carácter regional.
 
-3. El Gobierno de Canarias podrá acordar que el ejercicio de determinadas competencias de la Administración Pública de la Comunidad Autónoma se delegue en las entidades municipales de su territorio en los casos y en las formas previstas en el artículo 27 de la Ley 7/1985, de 2 de abril.
+3. El Gobierno de Canarias podrá acordar que el ejercicio de determinadas competencias de la Administración Pública de la Comunidad Autónoma se delegue en las entidades municipales de su territorio en los casos y en las formas previstas en el artículo 27 de la [Ley 7/1985](../../../estatal/02_gestion_y_administracion_centros/L7_1985_reguladora_bases_regimen_local.md), de 2 de abril.
 
 #### Artículo 11. Para la efectividad de la autonomía de todos los entes locales canarios, la Comunidad Autónoma de Canarias, al ejercer sus potestades legislativas en las materias de su competencia, deberá:
 a) Respetar y, en su caso, ampliar las competencias directamente atribuidas a los entes locales por la legislación sectorial que tenga carácter básico.
-b) Atribuir a los Cabildos Insulares, como propias, las competencias que procedan conforme a lo establecido en el artículo 22.3 del Estatuto de Autonomía de Canarias, en la Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local y en esta Ley.
+b) Atribuir a los Cabildos Insulares, como propias, las competencias que procedan conforme a lo establecido en el artículo 22.3 del Estatuto de Autonomía de Canarias, en la [Ley 7/1985](../../../estatal/02_gestion_y_administracion_centros/L7_1985_reguladora_bases_regimen_local.md), de 2 de abril, reguladora de las Bases del Régimen Local y en esta Ley.
 
 #### Artículo 12. 1. La Comunidad Autónoma de Canarias, al regular los diversos sectores de la acción pública que sean de su competencia legislativa, transferirá a los Cabildos Insulares la titularidad y el ejercicio de las funciones administrativas autonómicas que respondan preponderantemente a un interés insular. Las competencias transferidas se integrarán entre las propias de la autonomía local de los Cabildos Insulares.
 
 2. La Comunidad Autónoma garantizará la suficiencia financiera de los Cabildos Insulares para el ejercicio de las competencias transferidas.
 
-#### Artículo 13. Los Cabildos Insulares podrán delegar sus competencias propias en las entidades locales municipales de su territorio de conformidad con lo establecido en el artículo 27 de la Ley 7/1985, de 2 de abril.
+#### Artículo 13. Los Cabildos Insulares podrán delegar sus competencias propias en las entidades locales municipales de su territorio de conformidad con lo establecido en el artículo 27 de la [Ley 7/1985](../../../estatal/02_gestion_y_administracion_centros/L7_1985_reguladora_bases_regimen_local.md), de 2 de abril.
 
 ### Capítulo III
 
@@ -517,7 +518,7 @@ f) Armonización o conjunción de criterios en la política de inversiones públ
 
 3. La Administración de la Comunidad Autónoma, a través de los Servicios Jurídicos del Gobierno de Canarias, podrá impugnar los actos y acuerdos de las entidades locales ante la Jurisdicción Contencioso-Administrativa en los términos previstos en los artículos 65 y 66 de la Ley reguladora de las Bases del Régimen Local.
 
-#### Artículo 24. El abono de los gastos ocasionados a la Administración Autonómica de Canarias como consecuencia de las medidas adoptadas en uso de la potestad de sustitución de las Corporaciones locales conferida por el artículo 60 de la Ley 7/1985, de 2 de abril, se exigirán de la entidad local deudora como ingresos de derecho público.
+#### Artículo 24. El abono de los gastos ocasionados a la Administración Autonómica de Canarias como consecuencia de las medidas adoptadas en uso de la potestad de sustitución de las Corporaciones locales conferida por el artículo 60 de la [Ley 7/1985](../../../estatal/02_gestion_y_administracion_centros/L7_1985_reguladora_bases_regimen_local.md), de 2 de abril, se exigirán de la entidad local deudora como ingresos de derecho público.
 
 #### Artículo 25. La facultad atribuida al Gobierno de Canarias por el artículo 61 de la Ley reguladora de las Bases del Régimen Local se ejercerá a propuesta del Consejero competente en la materia de Régimen Local, previo informe del Consejo Consultivo de Canarias y dando cuenta al Parlamento de Canarias.
 
@@ -604,7 +605,7 @@ DE LA PROHIBICION DE FEDERACIONES O MANCOMUNIDADES DE CABILDOS INSULARES
 
 #### Artículo 35. 1. Los Cabildos Insulares no podrán mancomunarse o federarse, ni siquiera para la prestación conjunta de servicios propios o transferidos, sin perjuicio de lo dispuesto en el número 2 del artículo 41 l.
 
-la Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local.
+la [Ley 7/1985](../../../estatal/02_gestion_y_administracion_centros/L7_1985_reguladora_bases_regimen_local.md), de 2 de abril, reguladora de las Bases del Régimen Local.
 
 2. Los actos contrarios a lo establecido en el apartado anterior serán nulos de pleno derecho.
 
@@ -654,7 +655,7 @@ d) Establecer en sus respectivas sedes una oficina de información general al p�
 
 ## Capítulo IV. Competencias y funciones.
 
-### Sección I. COMPETENCIAS PROPIAS artículo 41 Los Cabildos Insulares, como Corporaciones Locales Territoriales, tienen atribuido el gobierno, la administración y representación de cada isla y gozan de plena autonomía para el ejercicio de sus competencias propias. Artículo 42.- Son competencias propias de los Cabildos, además de las reconocidas en el artículo 5 de la Ley 11 de julio de 1912, de Régimen del Archipiélago Canario, las que se les atribuyan con tal carácter, de acuerdo con lo dispuesto en la Ley 7/1985, reguladora de las Bases del Régimen Local, y en las leyes reguladoras de los distintos sectores de la actuación pública. Idéntico carácter tendrán las competencias transferidas a los Cabildos por Leyes del Parlamento de Canarias.
+### Sección I. COMPETENCIAS PROPIAS artículo 41 Los Cabildos Insulares, como Corporaciones Locales Territoriales, tienen atribuido el gobierno, la administración y representación de cada isla y gozan de plena autonomía para el ejercicio de sus competencias propias. Artículo 42.- Son competencias propias de los Cabildos, además de las reconocidas en el artículo 5 de la Ley 11 de julio de 1912, de Régimen del Archipiélago Canario, las que se les atribuyan con tal carácter, de acuerdo con lo dispuesto en la [Ley 7/1985](../../../estatal/02_gestion_y_administracion_centros/L7_1985_reguladora_bases_regimen_local.md), reguladora de las Bases del Régimen Local, y en las leyes reguladoras de los distintos sectores de la actuación pública. Idéntico carácter tendrán las competencias transferidas a los Cabildos por Leyes del Parlamento de Canarias.
 
 #### Artículo 43. 1. En particular corresponde a los Cabildos Insulares las siguientes competencias:
 
@@ -680,7 +681,7 @@ e) El fomento y administración de los intereses peculiares de la isla.
 
 2. No obstante, el ejercicio efectivo de las mismas se podrá asumir paulatinamente por los diferentes Cabildos Insulares de forma que en todo caso quede garantizado el mantenimiento, como mínimo, en las funciones y servicios, del nivel de eficacia anterior a la transferencia. Tal asunción paulatina no podrá superar el plazo de un año.
 
-3. La reiterada negativa de un Cabildo Insular a asumir el ejercicio efectivo de competencias transferidas determinará la adopción de las medidas previstas en el artículo 60 de la Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local.
+3. La reiterada negativa de un Cabildo Insular a asumir el ejercicio efectivo de competencias transferidas determinará la adopción de las medidas previstas en el artículo 60 de la [Ley 7/1985](../../../estatal/02_gestion_y_administracion_centros/L7_1985_reguladora_bases_regimen_local.md), de 2 de abril, reguladora de las Bases del Régimen Local.
 
 #### Artículo 48. 1. La configuración definitiva de las Haciendas Territoriales Canarias se adaptará a las previsiones de los artículos 142 de la Constitución Española y 22.3 del Estatuto de Autonomía de Canarias.
 
@@ -891,7 +892,7 @@ La toma de posesión, que en todo caso se realizará ante el Pleno, irá precedi
 
 #### Artículo 90. La Comisión Especial de Cuentas tiene por objeto supervisar todas las cuentas municipales, emitiendo informes preceptivos sobre las mismas.
 
-### Sección X. DE LAS ENTIDADES TERRITORIALES INFRAMUNICIPALES artículo 91- Sin perjuicio de las competencias del municipio reconocidas en el artículo 25 de la Ley 7/1985, reguladora de las Bases del Régimen Local, se podrán constituir entidades inframunicipales para la administración descentralizada de los núcleos de población separados o con características peculiares. Para la constitución de estos entes descentralizados se atenderá a las condiciones que permitan un satisfactorio funcionamiento de los mismos y a la voluntad mayoritaria de los habitantes de los núcleos urbanos afectados. Artículo 92.- El Ayuntamiento se ajustará para la constitución de estas entidades a las previsiones del artículo 45 de la Ley reguladora de las Bases del Régimen Local y a la legislación en materia de elecciones locales, en cuanto a la elección de Alcalde Pedáneo y de los Vocales de la Junta Vecinal u órgano colegiado.
+### Sección X. DE LAS ENTIDADES TERRITORIALES INFRAMUNICIPALES artículo 91- Sin perjuicio de las competencias del municipio reconocidas en el artículo 25 de la [Ley 7/1985](../../../estatal/02_gestion_y_administracion_centros/L7_1985_reguladora_bases_regimen_local.md), reguladora de las Bases del Régimen Local, se podrán constituir entidades inframunicipales para la administración descentralizada de los núcleos de población separados o con características peculiares. Para la constitución de estos entes descentralizados se atenderá a las condiciones que permitan un satisfactorio funcionamiento de los mismos y a la voluntad mayoritaria de los habitantes de los núcleos urbanos afectados. Artículo 92.- El Ayuntamiento se ajustará para la constitución de estas entidades a las previsiones del artículo 45 de la Ley reguladora de las Bases del Régimen Local y a la legislación en materia de elecciones locales, en cuanto a la elección de Alcalde Pedáneo y de los Vocales de la Junta Vecinal u órgano colegiado.
 
 #### Artículo 93. Además de las competencias legalmente atribuidas a estas entidades inframunicipales, el Ayuntamiento podrá descentralizar en su favor todas aquellas atribuciones que permitan una gestión más eficaz y cercana a los administrados.
 

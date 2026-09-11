@@ -25,8 +25,18 @@ tags:
 - seleccion_docentes
 - listas_interinos
 - madrid
+fundamentos_derecho:
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-mad-l12-1999-creacion-consejo-escolar-comunidad-madrid
+- norma_id: norm-mad-l1-1983-gobierno-administracion-comunidad-madrid
+- norma_id: norm-mad-l2-2010
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
+- norma_id: norm-es-2012-5337
+- norma_id: norm-es-rd-276-2007
+- norma_id: norm-es-2007-5478
 ---
-
 # Decreto 42/2013, de 9 de mayo, del Consejo de Gobierno, por el que se regula el procedimiento de selección de funcionarios interinos docentes de ámbito no universitario en la Comunidad de Madrid
 
 ## Preámbulo
@@ -46,13 +56,13 @@ una serie de iniciativas en las que ha prestado atención preferente a la óptim
 didáctica de los maestros y profesores, así como a su adecuada implicación en el logro de
 la excelencia educativa.
 De este modo, con el objetivo de mantener y promover la excelencia y la calidad en la
-educación se han adoptado medidas, como la aprobación de la Ley 2/2010, de 15 de junio,
+educación se han adoptado medidas, como la aprobación de la [Ley 2/2010](../01_marco_normativo_general_y_organico/L2_2010_autoridad_profesor_comunidad_madrid.md), de 15 de junio,
 de Autoridad del Profesor, que vienen a reconocer y a respaldar la importante labor que de-
 sempeñan los maestros y profesores en el ejercicio de sus funciones y responsabilidades.
 Entre estas iniciativas ha ocupado también un lugar destacado la modificación, dentro
 de los límites impuestos por la normativa estatal vigente, de los baremos aplicados en los pro-
 cedimientos de acceso a la función pública docente. En efecto, una vez transcurrido el plazo
-transitorio de implantación de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, deben
+transitorio de implantación de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, deben
 tenerse en cuenta otros criterios en el acceso a la función pública docente distintos de la expe-
 riencia, sin perjuicio de que esta se siga valorando como un mérito más.
 Establecidos estos cambios en el acceso a los Cuerpos de Funcionarios Docentes No
@@ -79,13 +89,13 @@ sindicales con representación en la Mesa, se dicta este Decreto al amparo de la
 cias que tiene la Comunidad de Madrid para regular el especial régimen jurídico del personal
 docente que contempla el artículo 2.3 de la Ley 7/2007, de 12 de abril, del Estatuto Básico del
 Empleado Público, así como en ejercicio de la potestad reglamentaria establecida en el ar-
-tículo 21.g) de la Ley 1/1983, de 13 de diciembre, de Gobierno y Administración de la Co-
+tículo 21.g) de la [Ley 1/1983](../01_marco_normativo_general_y_organico/L1_1983_gobierno_administracion_comunidad_madrid.md), de 13 de diciembre, de Gobierno y Administración de la Co-
 munidad de Madrid, así como en el artículo 7 y la disposición final primera de la Ley 1/1986,
 de 10 de abril, de la Función Pública de la Comunidad de Madrid.
 En el proceso de elaboración de este Decreto se ha consultado con las organizaciones
 sindicales representadas en la Mesa Sectorial.
 Igualmente, en el proceso de elaboración del presente Decreto ha emitido dictamen el Con-
-sejo Escolar de la Comunidad de Madrid, de acuerdo con el artículo 2.1.b) de la Ley 12/1999,
+sejo Escolar de la Comunidad de Madrid, de acuerdo con el artículo 2.1.b) de la [Ley 12/1999](../01_marco_normativo_general_y_organico/L12_1999_creacion_consejo_escolar_comunidad_madrid.md),
 
 BOCM
 de 29 de abril, de Creación del Consejo Escolar de la Comunidad de Madrid, modificada por
@@ -189,9 +199,9 @@ de no presentarse la puntuación en estos apartados será de 0 puntos.
 2.
 El baremo a utilizar para la valoración de los méritos enunciados en el apartado an-
 terior, así como su acreditación, se establecerá en las respectivas convocatorias de los proce-
-sos selectivos realizados de conformidad con lo establecido en el Real Decreto 276/2007,
+sos selectivos realizados de conformidad con lo establecido en el [Real Decreto 276/2007](../../../estatal/08_personal_docente/RD276_2007_aprueba_reglamento_ingreso_accesos_adquisicion_nuevas.md),
 de 23 de febrero, por el que se aprueba el Reglamento de Ingreso, Accesos y Nuevas Espe-
-cialidades en los Cuerpos Docentes a que se refiere la Ley Orgánica 2/2006, de 3 de mayo,
+cialidades en los Cuerpos Docentes a que se refiere la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo,
 de Educación, y se regula el régimen transitorio de ingreso a que se refiere la disposición
 transitoria decimoséptima de la citada Ley, dentro de los límites de puntuación señalados
 en el presente Decreto.
@@ -242,7 +252,7 @@ de los aspirantes de la lista inicial.
 1.
 La Consejería competente en materia de educación podrá acordar la formación de
 listas específicas de aspirantes para ocupar puestos que requieran, además de los requisitos
-para el ingreso en la función pública docente establecidos en el Real Decreto 276/2007, de 23
+para el ingreso en la función pública docente establecidos en el [Real Decreto 276/2007](../../../estatal/08_personal_docente/RD276_2007_aprueba_reglamento_ingreso_accesos_adquisicion_nuevas.md), de 23
 de febrero, la posesión de requisitos adicionales, necesarios para su cobertura.
 Estas listas estarán formadas, siguiendo el orden de prelación establecido a continua-
 ción, por:
@@ -307,7 +317,7 @@ a funcionarios docentes de carrera y por el tiempo estrictamente necesario. En t
 nombramiento de funcionarios interinos solo podrá realizarse para cubrir plazas docentes que
 sean de cobertura imprescindible para atender las necesidades educativas de los centros do-
 centes públicos de la Comunidad de Madrid que estén dotadas presupuestariamente, y siem-
-pre que, en su caso, concurran los requisitos establecidos por el Real Decreto-Ley 14/2012,
+pre que, en su caso, concurran los requisitos establecidos por el Real Decreto-[Ley 14/2012](../../../estatal/08_personal_docente/RD14_2012_real_decreto_ley_medidas_urgentes_racionalizacion.md),
 de 20 de abril, de Medidas Urgentes de Racionalización del Gasto Público en el Ámbito
 Educativo.
 2.

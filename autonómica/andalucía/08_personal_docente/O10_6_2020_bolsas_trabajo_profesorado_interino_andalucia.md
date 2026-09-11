@@ -24,8 +24,23 @@ tags:
 - provision_puestos
 - andalucia
 relaciones: {}
+fundamentos_derecho:
+- norma_id: norm-and-l17-2007
+- norma_id: norm-and-l6-2006-gobierno-comunidad-autonoma-andalucia
+- norma_id: norm-and-l9-2007-administracion-junta-andalucia-laja
+- norma_id: norm-and-d302-2010-ordenacion-funcion-publica-docente-seleccion-provision-andalucia
+- norma_id: norm-and-o-24-5-2011
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-es-1984-17387
+- norma_id: norm-es-l-39-2015
+- norma_id: norm-es-l-40-2015
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-rdl-5-2015
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
+- norma_id: norm-es-rd-276-2007
+- norma_id: norm-es-2007-5478
 ---
-
 # Orden de 10 de junio de 2020, por la que se regulan los procedimientos de provisión, con carácter provisional, de puestos de trabajo docentes, la movilidad por razón de violencia de género y víctimas de terrorismo, las bolsas de trabajo docentes, así como las bases aplicables al personal integrante de las mismas.
 
 ## Preámbulo
@@ -45,26 +60,26 @@ tenor del cual corresponde al Estado dictar las normas básicas de desarrollo de
 del texto constitucional, a fin de garantizar el cumplimiento de las obligaciones de los
 poderes públicos en esta materia.
 El artículo 2.3 del texto refundido de la Ley del Estatuto Básico del Empleado Público,
-aprobado por el Real Decreto Legislativo 5/2015, de 30 de octubre, establece que el
+aprobado por el [Real Decreto Legislativo 5/2015](../../../estatal/01_marco_normativo_general_y_organico/RDL5_2015_aprueba_texto_refundido_ley_estatuto_basico.md), de 30 de octubre, establece que el
 personal docente se regirá por la legislación específica dictada por el Estado y por las
 Comunidades Autónomas en el ámbito de sus respectivas competencias y por lo previsto
 en dicho Estatuto, excepto el capítulo II del título III, salvo el artículo 20, y los artículos
 22.3, 24 y 84.
-Es por ello que la Ley 17/2007, de 10 de diciembre, de Educación de Andalucía, en
+Es por ello que la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre, de Educación de Andalucía, en
 su artículo 13, establece cómo se ordena la función pública docente, de acuerdo con lo
-regulado en la Ley Orgánica 2/2006, de 3 de mayo, de Educación, siendo el artículo 15
+regulado en la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, siendo el artículo 15
 de esta misma ley el que determina la forma en la que se llevará a cabo la selección del
 personal funcionario para el ingreso en los distintos cuerpos docentes.
 De igual modo, el apartado 2 de la disposición adicional sexta de la Ley Orgánica
 2/2006, de 3 de mayo, de Educación, dispone que las Comunidades Autónomas ordenarán
 su función pública docente en el marco de sus competencias, respetando en todo caso
 las normas básicas dictadas por el Estado.
-El Decreto 302/2010, de 1 de junio, por el que se ordena la función pública docente y
+El [Decreto 302/2010](./D302_2010_ordenacion_funcion_publica_docente_seleccion_provision_andalucia.md), de 1 de junio, por el que se ordena la función pública docente y
 se regula la selección del profesorado y la provisión de los puestos de trabajo docentes,
 establece en los capítulos IV y V los procedimientos de provisión de puestos de trabajo
 docentes con carácter provisional, el ámbito personal de los mismos y la adjudicación de
 destinos.
-En el artículo 28 del Decreto 302/2010, de 1 de junio, se autoriza expresamente a
+En el artículo 28 del [Decreto 302/2010](./D302_2010_ordenacion_funcion_publica_docente_seleccion_provision_andalucia.md), de 1 de junio, se autoriza expresamente a
 la Consejería competente en materia de educación, a realizar convocatorias para la
 cobertura, con carácter provisional, de puestos vacantes de la plantilla de funcionamiento
 por profesorado funcionario de carrera o por personal funcionario interino, con objeto de
@@ -75,7 +90,7 @@ en su sección 2.ª del capítulo II, las bolsas de trabajo que se constituyan p
 las especialidades de los cuerpos docentes, así como el acceso ordinario y extraordinario
 a las mismas y la permanencia y ordenación en ellas de forma que se garantice la
 prestación del servicio educativo.
-Finalmente, el artículo 29 del referido Decreto 302/2010, de 1 de junio, regula
+Finalmente, el artículo 29 del referido [Decreto 302/2010](./D302_2010_ordenacion_funcion_publica_docente_seleccion_provision_andalucia.md), de 1 de junio, regula
 la movilidad por razón de violencia de género, por lo que resulta oportuno establecer
 00173482
 
@@ -93,12 +108,12 @@ traslado a otro puesto de trabajo propio de su cuerpo, escala o categoría profe
 análogas características, dentro de la comunidad autónoma, sin necesidad de que sea
 vacante de necesaria cobertura.
 Con el propósito de homogeneizar el proceso de provisión con carácter provisional
-de los puestos de trabajo docentes, y desarrollando, en parte, el Decreto 302/2010,
-de 1 de junio, se aprobó la Orden de 24 de mayo de 2011, por la que se regulan los
+de los puestos de trabajo docentes, y desarrollando, en parte, el [Decreto 302/2010](./D302_2010_ordenacion_funcion_publica_docente_seleccion_provision_andalucia.md),
+de 1 de junio, se aprobó la [Orden de 24 de mayo de 2011](./O24_5_2011_procedimientos_provision_puestos_trabajo_docentes_andalucia.md), por la que se regulan los
 procedimientos de provisión, con carácter provisional, de puestos de trabajo docentes así
 como la movilidad por razón de violencia de género.
 I I
-Es en el artículo 23 del reiterado Decreto 302/2010, de 1 de junio, donde se dispone
+Es en el artículo 23 del reiterado [Decreto 302/2010](./D302_2010_ordenacion_funcion_publica_docente_seleccion_provision_andalucia.md), de 1 de junio, donde se dispone
 que, por orden de la persona titular de la Consejería competente en materia de educación,
 se establecerán las bases aplicables al profesorado interino que conforma las bolsas de
 trabajo de las distintas especialidades de los cuerpos docentes, indicando a continuación
@@ -106,7 +121,7 @@ que en dicha regulación figurarán, entre otros extremos, el carácter de la oc
 puestos docentes, en vacante o sustitución; el nombramiento, toma de posesión, registro
 y cese; las causas que pueden impedir la incorporación a la actividad docente, así como
 los motivos de exclusión de las bolsas.
-Igualmente y en desarrollo del Decreto 302/2010, de 1 de junio, se aprobó la Orden
+Igualmente y en desarrollo del [Decreto 302/2010](./D302_2010_ordenacion_funcion_publica_docente_seleccion_provision_andalucia.md), de 1 de junio, se aprobó la Orden
 de 18 de junio de 2018, por la que se regularon las bolsas de trabajo docentes y se
 establecieron las bases aplicables al personal integrante de las mismas.
 Dicha regulación incluyó un nuevo sistema de llamamiento para la provisión de
@@ -121,17 +136,17 @@ En este mismo sentido, y en relación con la selección del profesorado funciona
 interino, se introdujo convocatoria extraordinaria restringida, recogida en el apartado seis
 del artículo único del Decreto 109/2016, de 14 de junio, así como la permanencia en las
 bolsas a que se refiere el Decreto 84/2018, de 2 de mayo, por los que se modificó el
-Decreto 302/2010, de 1 de junio.
+[Decreto 302/2010](./D302_2010_ordenacion_funcion_publica_docente_seleccion_provision_andalucia.md), de 1 de junio.
 De acuerdo con la experiencia significativa del proceso de selección del personal
 funcionario interino de la Orden de 18 de junio de 2018, para su acceso en bolsa, se
 han detectado carencias en el procedimiento que han sido subsanadas para mejorar el
 referido acceso de dicho personal a las bolsas de trabajo.
 Se ha de destacar la anulación, en todos su términos, de la disposición adicional
-tercera, de la Orden de 24 de mayo de 2011, en virtud de la aplicación de las Sentencias
+tercera, de la [Orden de 24 de mayo de 2011](./O24_5_2011_procedimientos_provision_puestos_trabajo_docentes_andalucia.md), en virtud de la aplicación de las Sentencias
 del Tribunal Superior de Justicia de Andalucía, con fechas de 20 de septiembre de 2018,
 de 10 de diciembre de 2018 y de 6 de junio de 2018, por considerarla disconforme con
 el ordenamiento jurídico, dejando sin efecto el apartado diecisiete del artículo único de la
-Orden de 18 de junio de 2016, por la que se modifica la Orden de 24 de mayo de 2011.
+Orden de 18 de junio de 2016, por la que se modifica la [Orden de 24 de mayo de 2011](./O24_5_2011_procedimientos_provision_puestos_trabajo_docentes_andalucia.md).
 00173482
 
 Número 116 - Jueves, 18 de junio de 2020
@@ -145,7 +160,7 @@ con las necesidades que para los distintos centros docentes públicos de Andaluc
 establezca la correspondiente planificación escolar.
 Asimismo, con el fin de mejorar la tramitación de los procedimientos administrativos,
 profundizando en la agilización de los mismos a través del uso de los medios electrónicos,
-y en aplicación de lo establecido en el artículo 14.3 de la Ley 39/2015, de 1 de octubre,
+y en aplicación de lo establecido en el artículo 14.3 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre,
 del Procedimiento Administrativo Común de las Administraciones Públicas, para los
 procedimientos a que se refiere esta orden, se establece la obligación de participar en
 los mismos de forma telemática, pues en razón de su titulación y capacidad técnica, las
@@ -165,7 +180,7 @@ en el capítulo IV del título III del texto refundido de la Ley del Estatuto B�
 Público, con quien posteriormente se ha procedido a la preceptiva negociación en el seno
 de la Mesa Sectorial de Negociación.
 La presente orden cumple con los principios de buena regulación a los que se
-refiere el artículo 129 de la Ley 39/2015, de 1 de octubre. Esto es, necesidad y eficacia,
+refiere el artículo 129 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre. Esto es, necesidad y eficacia,
 estando la iniciativa normativa justificada por una razón de interés general, basarse en
 una identificación clara de los fines perseguidos y ser el instrumento más adecuado para
 garantizar su consecución; proporcionalidad, conteniendo la regulación imprescindible
@@ -185,8 +200,8 @@ no precisando de ningún otro desarrollo normativo en este aspecto y evitando as
 posterior regulación accesoria en este sentido.
 En su virtud, a propuesta de la Dirección General del Profesorado y Gestión de
 Recursos Humanos, en ejercicio de la habilitación contenida en la disposición final
-segunda del Decreto 302/2010, de 1 de junio, y conforme a las competencias que me
-atribuye el artículo 44.2 de la Ley 6/2006, de 24 de octubre, del Gobierno de la Comunidad
+segunda del [Decreto 302/2010](./D302_2010_ordenacion_funcion_publica_docente_seleccion_provision_andalucia.md), de 1 de junio, y conforme a las competencias que me
+atribuye el artículo 44.2 de la [Ley 6/2006](../01_marco_normativo_general_y_organico/L6_2006_gobierno_comunidad_autonoma_andalucia.md), de 24 de octubre, del Gobierno de la Comunidad
 Autónoma de Andalucía,
 00173482
 
@@ -210,7 +225,7 @@ como las bases aplicables al personal funcionario docente interino.
 
 1. La presente orden será de aplicación al personal funcionario de carrera, en prácticas
 e interino o aspirante a interinidad de los cuerpos docentes a que se refiere la disposición
-adicional séptima de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, perteneciente
+adicional séptima de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, perteneciente
 al ámbito de gestión de la Consejería competente en materia de educación.
 2. Asimismo, será de aplicación al personal funcionario de carrera de los referidos
 cuerpos docentes dependiente de otras Administraciones educativas al que se haya
@@ -219,11 +234,11 @@ concedido una comisión de servicio en la Comunidad Autónoma de Andalucía.
 #### Artículo 3. Principios generales aplicables a los procedimientos de provisión y
 
 regulación de bolsas de trabajo.
-De conformidad con lo establecido en el artículo 28.1 del Decreto 302/2010, de 1 de
+De conformidad con lo establecido en el artículo 28.1 del [Decreto 302/2010](./D302_2010_ordenacion_funcion_publica_docente_seleccion_provision_andalucia.md), de 1 de
 junio, los concursos específicos para la provisión de puestos de trabajo docentes con
 carácter provisional se realizarán conforme a los principios de igualdad, mérito, capacidad
 y publicidad.
-Igualmente y conforme a lo establecido en el artículo 17 del Decreto 302/2010, de
+Igualmente y conforme a lo establecido en el artículo 17 del [Decreto 302/2010](./D302_2010_ordenacion_funcion_publica_docente_seleccion_provision_andalucia.md), de
 1 de junio, el acceso al desempeño de funciones docentes como personal funcionario
 interino se regirá por los citados principios de igualdad, mérito, capacidad y publicidad.
 
@@ -234,7 +249,7 @@ interino se regirá por los citados principios de igualdad, mérito, capacidad y
 #### Artículo 4. Convocatorias, puestos objeto de provisión y órgano competente.
 
 1. De conformidad con lo establecido en el artículo 28.2, en concordancia con los
-artículos 33 y 36, del Decreto 302/2010, de 1 de junio, la Consejería competente en materia
+artículos 33 y 36, del [Decreto 302/2010](./D302_2010_ordenacion_funcion_publica_docente_seleccion_provision_andalucia.md), de 1 de junio, la Consejería competente en materia
 de educación realizará cada curso académico una convocatoria para la cobertura, con
 carácter provisional, de puestos vacantes de la plantilla de funcionamiento por personal
 funcionario de carrera, en prácticas, interino o, en su caso, aspirante a interinidad, al
@@ -254,7 +269,7 @@ La Dirección General competente en materia de plantillas docentes aprobará la
 relación de vacantes iniciales y la publicará en la página electrónica de la Consejería
 competente en materia de educación, previamente a las correspondientes resoluciones
 definitivas de adjudicación.
-3. Asimismo, de conformidad con el artículo 25.2 del Decreto 302/2010, de 1 de junio,
+3. Asimismo, de conformidad con el artículo 25.2 del [Decreto 302/2010](./D302_2010_ordenacion_funcion_publica_docente_seleccion_provision_andalucia.md), de 1 de junio,
 la Dirección General competente en materia de plantillas docentes publicará en el Boletín
 Oficial de la Junta de Andalucía, al inicio de cada curso académico, la resolución que
 apruebe la plantilla de funcionamiento de los centros, zonas y servicios educativos.
@@ -265,7 +280,7 @@ Andalucía.
 
 #### Artículo 5. Participantes.
 
-1. De conformidad con lo establecido en el artículo 33.1 del Decreto 302/2010, de
+1. De conformidad con lo establecido en el artículo 33.1 del [Decreto 302/2010](./D302_2010_ordenacion_funcion_publica_docente_seleccion_provision_andalucia.md), de
 1 de junio, deberá participar en el procedimiento regulado en este capítulo el siguiente
 personal funcionario docente:
 a) Personal funcionario de carrera titular de un puesto de trabajo suprimido o
@@ -284,11 +299,11 @@ las bolsas de trabajo de los distintos cuerpos y especialidades docentes.
 a ninguno de los colectivos a que se refiere el apartado anterior y acreditando, en su caso,
 el requisito específico exigido para su desempeño, solicite, con carácter provisional, puestos
 de carácter bilingüe u otros puestos específicos a los que se refiere el artículo 24.1.c) del
-Decreto 302/2010, de 1 de junio, de acuerdo con lo que establezcan las convocatorias.
+[Decreto 302/2010](./D302_2010_ordenacion_funcion_publica_docente_seleccion_provision_andalucia.md), de 1 de junio, de acuerdo con lo que establezcan las convocatorias.
 
 #### Artículo 6. Solicitudes, forma de presentación y plazos.
 
-1. En aplicación de lo establecido en el artículo 14.2.e) de la Ley 39/2015, de 1 de
+1. En aplicación de lo establecido en el artículo 14.2.e) de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de
 octubre, las personas participantes en este tipo de convocatorias formalizarán las
 correspondientes solicitudes y, en su caso, la presentación de alegaciones, a través de
 los medios electrónicos establecidos para este procedimiento.
@@ -296,7 +311,7 @@ los medios electrónicos establecidos para este procedimiento.
 través de sistemas de firma electrónica cualificada y avanzada basados en certificados
 electrónicos cualificados de firma electrónica, expedidos por prestadores incluidos en la
 «Lista de confianza de prestadores de servicios de certificación», de conformidad con lo
-previsto en el artículo 10.2.b) de la Ley 39/2015, de 1 de octubre.
+previsto en el artículo 10.2.b) de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre.
 Asimismo, las solicitudes a las que se refiere el apartado anterior podrán presentarse
 por cualquier otro sistema que la Administración educativa considere válido en los términos
 y condiciones que se establezcan en las correspondientes convocatorias, siempre que
@@ -338,7 +353,7 @@ considerarán no incluidos en la petición.
 
 #### Artículo 8. Criterios de adjudicación de destinos.
 
-1. De conformidad con lo establecido en el artículo 36.1 del Decreto 302/2010, de 1
+1. De conformidad con lo establecido en el artículo 36.1 del [Decreto 302/2010](./D302_2010_ordenacion_funcion_publica_docente_seleccion_provision_andalucia.md), de 1
 de junio, la adjudicación de destinos se llevará a cabo de acuerdo con el siguiente orden
 de preferencia:
 a) Personal funcionario de carrera titular de un puesto de trabajo suprimido.
@@ -404,7 +419,7 @@ selectivo.
 se refiere el párrafo j) del apartado 1, la prioridad en la adjudicación de destinos vendrá
 dada por el orden en que figure en la correspondiente bolsa de trabajo. La obtención de
 un destino provisional por parte del personal funcionario interino mayor de cincuenta y
-cinco años, a que se refiere la disposición transitoria primera del Decreto 302/2010, de 1
+cinco años, a que se refiere la disposición transitoria primera del [Decreto 302/2010](./D302_2010_ordenacion_funcion_publica_docente_seleccion_provision_andalucia.md), de 1
 de junio, se llevará a cabo en concurrencia con otro personal interino que, no siendo
 beneficiario de la garantía de estabilidad laboral recogida en dicha disposición, tenga, sin
 embargo, mayor derecho en aplicación de los criterios de adjudicación de destinos.
@@ -447,7 +462,7 @@ provisional, un puesto de trabajo en la misma localidad donde se ubica el centro
 educativo de procedencia o, en su caso, en la misma zona educativa. De no ser ello
 posible, se le adjudicará, de oficio, un puesto provisional en otra localidad cercana hasta
 un límite máximo de cincuenta kilómetros, todo ello de conformidad con el artículo 36.3
-del Decreto 302/2010, de 1 de junio.
+del [Decreto 302/2010](./D302_2010_ordenacion_funcion_publica_docente_seleccion_provision_andalucia.md), de 1 de junio.
 4. Tendrá prioridad el personal de la localidad de destino sobre el procedente de
 otras localidades. La obtención de una localidad por derecho preferente no supone la
 obtención de un puesto concreto, de existir varios, pues la adjudicación se llevará a
@@ -466,7 +481,7 @@ de centro al finalizar el mandato en el ejercicio de la dirección en su centro 
 definitivo.
 El personal funcionario de carrera que se acoja a la opción de cambio de centro al
 finalizar el mandato en el ejercicio de la dirección en su centro de destino definitivo, en
-cumplimiento de lo establecido en el artículo 134.6 de la Ley 17/2007, de 10 de diciembre,
+cumplimiento de lo establecido en el artículo 134.6 de la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre,
 de Educación de Andalucía, podrá participar en el procedimiento de provisión de puestos,
 con carácter provisional, para lo que deberá solicitar puestos de trabajo en cualquier
 centro o localidad, por la especialidad del puesto de destino.
@@ -530,7 +545,7 @@ De no incluir ninguna especialidad o indicar otra distinta a la que corresponda 
 función del supuesto por el que participe, la Administración consignará de oficio la relativa
 a dicho supuesto.
 2. No obstante lo establecido en el apartado anterior, de conformidad con lo
-establecido en el artículo 33.4 del Decreto 302/2010, de 1 de junio, el personal
+establecido en el artículo 33.4 del [Decreto 302/2010](./D302_2010_ordenacion_funcion_publica_docente_seleccion_provision_andalucia.md), de 1 de junio, el personal
 funcionario de carrera beneficiario de una comisión de servicio por razones de salud del
 profesorado, que afecten muy gravemente al desempeño del puesto de destino, podrá
 solicitar puestos de trabajo en cualquier centro, zona, servicio educativo o localidad, por
@@ -576,7 +591,7 @@ beneficiario de una comisión de servicio por los supuestos a), b), c) ,d) y g) 
 de la vida familiar, personal y laboral o por razón de ocupación de un cargo electivo en
 las corporaciones locales, podrá incluir puestos de trabajo en cualquier localidad, centro,
 zona o servicio educativo, por la especialidad de ingreso al cuerpo.
-5. En aplicación de lo establecido en el artículo 36.4 del Decreto 302/2010, de 1
+5. En aplicación de lo establecido en el artículo 36.4 del [Decreto 302/2010](./D302_2010_ordenacion_funcion_publica_docente_seleccion_provision_andalucia.md), de 1
 de junio, el personal funcionario de carrera del ámbito de gestión de la Administración
 Educativa andaluza que haya obtenido comisión de servicio por razones de salud del
 profesorado que afecten muy gravemente al desempeño del puesto de destino gozará de
@@ -616,9 +631,9 @@ orden de preferencia establecido en el artículo 8.1.
 #### Artículo 14. Personal funcionario en prácticas.
 
 1. El personal que sea nombrado funcionario en prácticas, conforme el artículo 15
-de la Ley 17/2007, de 10 de diciembre, de Educación de Andalucía y el apartado 1 de la
+de la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre, de Educación de Andalucía y el apartado 1 de la
 
-#### Disposición adicional duodécima. de la Ley Orgánica 2/2006, de 3 de mayo de Educación,
+#### Disposición adicional duodécima. de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo de Educación,
 
 deberá solicitar, en la oportuna convocatoria de los procedimientos selectivos, puestos de
 trabajo, solo por la especialidad de ingreso o, en su caso, de acceso, en cualquier centro,
@@ -639,7 +654,7 @@ referirán, preferentemente, a los de la especialidad de ingreso o, en su caso, 
 1. El personal funcionario interino integrante de las bolsas de trabajo de los distintos
 cuerpos y especialidades docentes deberá participar en las convocatorias anuales para la
 provisión de puestos, con carácter provisional, cuyo procedimiento regula este capítulo.
-Asimismo, de conformidad con lo establecido en el artículo 28.2 del Decreto 302/2010,
+Asimismo, de conformidad con lo establecido en el artículo 28.2 del [Decreto 302/2010](./D302_2010_ordenacion_funcion_publica_docente_seleccion_provision_andalucia.md),
 de 1 de junio, podrá participar el personal aspirante a interinidad integrante de las bolsas
 de trabajo de los cuerpos y especialidades que, para cada convocatoria, establezca la
 resolución correspondiente. Dicha participación será siempre voluntaria.
@@ -653,7 +668,7 @@ bolsas de trabajo figure el personal funcionario interino o, en su caso, aspiran
 interinidad, así como a puestos de carácter bilingüe u otros puestos específicos, siempre
 que cumpla los requisitos que para su desempeño se establezcan en las convocatorias.
 No obstante, el personal funcionario interino mayor de cincuenta y cinco años a que
-se refiere la disposición transitoria primera del Decreto 302/2010, de 1 de junio, deberá
+se refiere la disposición transitoria primera del [Decreto 302/2010](./D302_2010_ordenacion_funcion_publica_docente_seleccion_provision_andalucia.md), de 1 de junio, deberá
 consignar todas las provincias de la Comunidad Autónoma de Andalucía, si desea hacer
 efectiva la estabilidad laboral garantizada en la mencionada disposición transitoria. De
 no consignar las ocho provincias para vacantes, la adjudicación se referirá solo a las
@@ -698,7 +713,7 @@ aunque hubiera solicitado pasar a situación de activo en los plazos establecido
 1. Mediante Resolución de la Dirección General competente en materia de recursos
 humanos, se harán públicos los listados provisionales, en los destinos que corresponda,
 concediéndose un plazo para alegaciones de diez días hábiles, contados a partir del día
-siguiente a la publicación, de conformidad al artículo 82.2 de la Ley 39/2015, de 1 de
+siguiente a la publicación, de conformidad al artículo 82.2 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de
 octubre.
 2. Transcurridos los plazos señalados y resueltas, en su caso, las alegaciones
 presentadas, el órgano convocante elevará a definitivos los listados provisionales, con las
@@ -713,7 +728,7 @@ la notificación al personal interesado.
 
 #### Artículo 17. Efectos de la provisión de puestos docentes.
 
-1. De conformidad con lo establecido en el artículo 28.4 del Decreto 302/2010, de 1
+1. De conformidad con lo establecido en el artículo 28.4 del [Decreto 302/2010](./D302_2010_ordenacion_funcion_publica_docente_seleccion_provision_andalucia.md), de 1
 de junio, los destinos adjudicados serán irrenunciables, salvo en los casos expresamente
 contemplados por la normativa especifica que corresponda.
 00173482
@@ -751,7 +766,7 @@ interesadas puedan consultar el lugar que ocupan en las referidas bolsas de trab
 
 #### Artículo 19. Órganos competentes, forma y publicidad de las convocatorias.
 
-1. De conformidad con lo establecido en el artículo 28.3 del Decreto 302/2010, de 1
+1. De conformidad con lo establecido en el artículo 28.3 del [Decreto 302/2010](./D302_2010_ordenacion_funcion_publica_docente_seleccion_provision_andalucia.md), de 1
 de junio, la Consejería competente en materia de educación podrá realizar convocatorias
 públicas para la cobertura, con carácter provisional, de puestos específicos que, figurando
 en la plantilla de funcionamiento de los centros docentes, zonas y servicios educativos se
@@ -773,7 +788,7 @@ interesadas puedan consultar el lugar que ocupan en los listados.
 6. La Dirección General competente en materia de profesorado podrá ofertar puestos
 específicos mediante el procedimiento de provisión de puestos de trabajo con carácter
 provisional al que se refiere el capítulo I, de conformidad con lo establecido en el artículo
-28.3 del Decreto 302/2010, de 1 de junio.
+28.3 del [Decreto 302/2010](./D302_2010_ordenacion_funcion_publica_docente_seleccion_provision_andalucia.md), de 1 de junio.
 00173482
 
 Número 116 - Jueves, 18 de junio de 2020
@@ -796,7 +811,7 @@ convenios suscritos por la Consejería competente en materia de educación.
 3. La Dirección General competente en materia de profesorado podrá autorizar la
 convocatoria de puestos específicos no relacionados en los apartados anteriores, si
 no se hubieran cubierto en las convocatorias a que se refiere el capítulo I, todo ello de
-conformidad con lo establecido en el artículo 28.3 del Decreto 302/2010, de 1 de junio.
+conformidad con lo establecido en el artículo 28.3 del [Decreto 302/2010](./D302_2010_ordenacion_funcion_publica_docente_seleccion_provision_andalucia.md), de 1 de junio.
 
 #### Artículo 21. Participantes y prioridad.
 
@@ -847,8 +862,8 @@ BOJA
 mediante la aplicación del baremo que figura como Anexo I, cuya valoración realizará
 una comisión designada al efecto por la persona titular de la correspondiente Delegación
 Territorial de la Consejería competente en materia de educación, conforme a lo establecido
-en la sección 3.ª del capítulo II del título preliminar de la Ley 40/2015, de 1 de octubre, así
-como a lo establecido en la sección 1.ª del capítulo II del título IV de la Ley 9/2007, de 22
+en la sección 3.ª del capítulo II del título preliminar de la [Ley 40/2015](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md), de 1 de octubre, así
+como a lo establecido en la sección 1.ª del capítulo II del título IV de la [Ley 9/2007](../01_marco_normativo_general_y_organico/L9_2007_administracion_junta_andalucia_laja.md), de 22
 de octubre, de la Administración de la Junta de Andalucía.
 2. Dicha comisión estará formada por la persona titular de la Jefatura de Servicio
 de Recursos Humanos, o persona en quien delegue, que actuará como titular de la
@@ -888,7 +903,7 @@ competente en materia de función pública.
 finalizado el trabajo de la comisión, publicarán los listados provisionales en los tablones de
 anuncios de las Delegaciones Territoriales y en las páginas electrónicas de las mismas,
 concediéndose un plazo para alegaciones de diez días hábiles, de conformidad al artículo
-82.2 de la Ley 39/2015, de 1 de octubre, a contar desde el día siguiente al de su publicación.
+82.2 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, a contar desde el día siguiente al de su publicación.
 6. Transcurridos los plazos señalados y resueltas, en su caso, las alegaciones
 presentadas, mediante resolución de las personas titulares de las Delegaciones
 Territoriales se elevarán a definitivos los listados provisionales, con las modificaciones
@@ -970,19 +985,19 @@ provisional
 
 #### Artículo 26. Puestos de profesorado especialista y régimen de contratación.
 
-1. De conformidad con lo dispuesto en el artículo 24.1.b) del Decreto 302/2010, de 1
+1. De conformidad con lo dispuesto en el artículo 24.1.b) del [Decreto 302/2010](./D302_2010_ordenacion_funcion_publica_docente_seleccion_provision_andalucia.md), de 1
 de junio, son puestos de profesorado especialista aquellos puestos de las plantillas de
 funcionamiento a los que, por las características de los mismos y de forma excepcional,
 es necesario incorporar a profesionales cualificados que ejerzan su actividad en el
 ámbito laboral, artístico o deportivo, para impartir determinadas materias o módulos de
 las enseñanzas de formación profesional y de las enseñanzas artísticas y deportivas.
-2. De conformidad con lo establecido en el artículo 28.3 del Decreto 302/2010, de 1
+2. De conformidad con lo establecido en el artículo 28.3 del [Decreto 302/2010](./D302_2010_ordenacion_funcion_publica_docente_seleccion_provision_andalucia.md), de 1
 de junio, se podrán convocar concursos específicos para la cobertura, con carácter
 provisional, de puestos de profesorado especialista que, figurando en las correspondientes
 plantillas de funcionamiento de los centros docentes, zonas o servicios educativos, se
 encuentren vacantes. En dichos concursos se indicarán los requisitos de especialización
 o capacitación profesional que se precisen para el desempeño del puesto.
-3. De conformidad con lo establecido en el artículo 3 del Decreto 302/2010, de 1 de
+3. De conformidad con lo establecido en el artículo 3 del [Decreto 302/2010](./D302_2010_ordenacion_funcion_publica_docente_seleccion_provision_andalucia.md), de 1 de
 junio, el profesorado especialista realizará funciones docentes en régimen de contratación
 laboral y se regirá por la legislación laboral, por lo establecido en el convenio colectivo
 que le resulte de aplicación, en su caso, y por los preceptos de la normativa a que se
@@ -999,7 +1014,7 @@ profesorado, a efectos meramente informativos.
 las respectivas Delegaciones Territoriales, así como en las correspondientes páginas
 electrónicas.
 3. En el supuesto de exención del cumplimiento del requisito de titulación establecido
-con carácter general a que se refiere el artículo 28.5 del Decreto 302/2010, de 1 de
+con carácter general a que se refiere el artículo 28.5 del [Decreto 302/2010](./D302_2010_ordenacion_funcion_publica_docente_seleccion_provision_andalucia.md), de 1 de
 junio, la correspondiente Delegación Territorial lo hará constar en la convocatoria, previa
 autorización de la Dirección General competente en materia de profesorado.
 
@@ -1024,8 +1039,8 @@ BOJA
 mediante la aplicación del baremo que figura como Anexo II, cuya valoración realizará
 una comisión designada al efecto por la persona titular de la correspondiente Delegación
 Territorial de la Consejería competente en materia de educación, conforme a lo establecido
-en la sección 3.ª del capítulo II del título preliminar de la Ley 40/2015, de 1 de octubre, así
-como a lo establecido en la sección 1.ª del capítulo II del título IV de la Ley 9/2007, de 22
+en la sección 3.ª del capítulo II del título preliminar de la [Ley 40/2015](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md), de 1 de octubre, así
+como a lo establecido en la sección 1.ª del capítulo II del título IV de la [Ley 9/2007](../01_marco_normativo_general_y_organico/L9_2007_administracion_junta_andalucia_laja.md), de 22
 de octubre.
 2. La Comisión estará formada por la persona titular de la Jefatura de Servicio
 de Recursos Humanos, o persona en quien delegue, que actuará como titular de la
@@ -1052,7 +1067,7 @@ Consejería competente en materia de función pública.
 educación, finalizado el trabajo de la comisión, publicarán los listados provisionales en los
 tablones de anuncios de las Delegaciones Territoriales y en las páginas electrónicas de las
 mismas, concediéndose un plazo para alegaciones de diez días hábiles, de conformidad
-al artículo 82.2 de la Ley 39/2015, de 1 de octubre, a contar desde el día siguiente al de
+al artículo 82.2 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, a contar desde el día siguiente al de
 su publicación.
 6. Transcurridos los plazos señalados y resueltas, en su caso, las alegaciones
 presentadas, mediante resolución de las personas titulares de las Delegaciones
@@ -1088,7 +1103,7 @@ o de acceso a las bolsas de trabajo docentes.
 
 #### Artículo 31. Movilidad y protección de la intimidad.
 
-1. De conformidad con lo dispuesto en el artículo 29.1 del Decreto 302/2010, de 1
+1. De conformidad con lo dispuesto en el artículo 29.1 del [Decreto 302/2010](./D302_2010_ordenacion_funcion_publica_docente_seleccion_provision_andalucia.md), de 1
 de junio, las funcionarias víctimas de violencia de género que, para hacer efectiva su
 protección y el derecho a la asistencia social integral, se vean obligadas a abandonar el
 puesto donde venían prestando sus servicios, tendrán derecho al traslado a otro puesto
@@ -1113,14 +1128,14 @@ se encuentra sometida, en los términos previstos reglamentariamente.
 comunicarle las vacantes ubicadas en la misma localidad o en las localidades que la
 persona interesada expresamente solicite, siendo considerado, de igual modo, como
 traslado forzoso.
-4. De conformidad con lo dispuesto en el artículo 29.3 del Decreto 302/2010, de 1
+4. De conformidad con lo dispuesto en el artículo 29.3 del [Decreto 302/2010](./D302_2010_ordenacion_funcion_publica_docente_seleccion_provision_andalucia.md), de 1
 de junio, en el procedimiento regulado en el presente capítulo se protegerá la intimidad
 de las víctimas de violencia de género en especial sus datos personales, los de sus
 descendientes y los de cualquier persona que esté bajo su guarda o custodia. En
 consecuencia y en relación con las víctimas de violencia de género, los datos de las
 mujeres participantes en el mismo serán especialmente protegidos y los destinos
 adjudicados no se harán públicos.
-Igualmente, y de acuerdo con el artículo 82.2 del Real Decreto Legislativo 5/2015,
+Igualmente, y de acuerdo con el artículo 82.2 del [Real Decreto Legislativo 5/2015](../../../estatal/01_marco_normativo_general_y_organico/RDL5_2015_aprueba_texto_refundido_ley_estatuto_basico.md),
 de 30 de octubre, en las actuaciones y procedimientos relacionados con la violencia
 terrorista se protegerá la intimidad de las víctimas, en especial, sus datos personales,
 los de sus descendientes y los de cualquier persona que esté bajo su guarda o custodia.
@@ -1144,7 +1159,7 @@ el puesto donde venían prestando sus servicios, deberán presentar solicitud di
 la persona titular de la Dirección General competente en materia de profesorado, en el
 registro general de la Consejería competente en materia de educación o en los de las
 Delegaciones Territoriales de la misma, sin perjuicio de lo establecido en el artículo 16 de
-la Ley 39/2015, de 1 de octubre.
+la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre.
 En la referida solicitud se deberá indicar los datos profesionales (cuerpo, centro de
 destino y especialidad), así como la provincia, zona o localidad donde desea obtener
 destino.
@@ -1166,7 +1181,7 @@ en los términos del artículo 5 de la Ley 29/2011, de 22 de septiembre, deberá
 solicitud dirigida a la persona titular de la Dirección General competente en materia de
 profesorado, en el registro general de la Consejería competente en materia de educación
 o en los de las Delegaciones Territoriales de la misma, sin perjuicio de lo establecido en
-el artículo 16 de la Ley 39/2015, de 1 de octubre.
+el artículo 16 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre.
 En la referida solicitud se deberá indicar los datos profesionales (cuerpo, centro de
 destino y especialidad) así como la provincia, zona o localidad donde desea obtener
 destino.
@@ -1216,7 +1231,7 @@ participen en concursos de traslados para la obtención de un destino definitivo
 
 #### Artículo 35. Creación de bolsas de trabajo.
 
-De conformidad con lo establecido en el artículo 18 del Decreto 302/2010, de 1 de
+De conformidad con lo establecido en el artículo 18 del [Decreto 302/2010](./D302_2010_ordenacion_funcion_publica_docente_seleccion_provision_andalucia.md), de 1 de
 junio, la Consejería competente en materia de educación creará bolsas de trabajo, por
 cada una de las especialidades de los cuerpos docentes, así como para las que se exija
 uno o varios requisitos específicos, de los establecidos en el artículo 24.1.c) del Decreto
@@ -1253,7 +1268,7 @@ BOJA
 
 #### Artículo 38. Acceso ordinario a las bolsas de trabajo docentes.
 
-1. De conformidad con lo establecido en el artículo 19 del Decreto 302/2010, de 1 de
+1. De conformidad con lo establecido en el artículo 19 del [Decreto 302/2010](./D302_2010_ordenacion_funcion_publica_docente_seleccion_provision_andalucia.md), de 1 de
 junio, accederá a las bolsas de trabajo docentes el personal que haya superado una o
 varias pruebas de los procedimientos selectivos establecidos en la última convocatoria
 realizada en la Comunidad Autónoma de Andalucía, sin haber sido seleccionado.
@@ -1273,7 +1288,7 @@ requisitos.
 
 #### Artículo 39. Convocatorias para el acceso extraordinario a las bolsas.
 
-1. De conformidad con lo establecido en el artículo 22.1 del Decreto 302/2010, de 1 de
+1. De conformidad con lo establecido en el artículo 22.1 del [Decreto 302/2010](./D302_2010_ordenacion_funcion_publica_docente_seleccion_provision_andalucia.md), de 1 de
 junio, cuando se prevea que las bolsas de trabajo de los distintos cuerpos y especialidades
 no cuentan con personal suficiente para la atención del servicio educativo, la Dirección
 General competente en materia de recursos humanos podrá efectuar convocatorias para
@@ -1353,7 +1368,7 @@ certificación negativa de condenas penales expedida por las autoridades de su p
 origen o de donde sean nacionales respecto de los delitos relacionados en el artículo 3.1
 del Real Decreto 1110/2015, de 11 de diciembre, por el que se regula el Registro Central
 de Delincuentes Sexuales. Dicha documentación solo tendrá validez si se acompaña de
-su traducción oficial al castellano, de acuerdo con el artículo 15 de la Ley 39/2015, de 1
+su traducción oficial al castellano, de acuerdo con el artículo 15 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1
 de octubre.
 2. En todo caso, se añadirá a estos requisitos, en la correspondiente convocatoria,
 cualquier otro que la normativa vigente determine para el acceso a la función pública.
@@ -1386,7 +1401,7 @@ enseñanza secundaria, de profesores técnicos de formación profesional, de pro
 de escuelas oficiales de idiomas y de otros cuerpos para los que legalmente se exija,
 se requerirá estar en posesión del certificado de aptitud pedagógica, del título de
 especialización didáctica o del título oficial de máster que acredite la formación pedagógica
-y didáctica a que se refiere el artículo 100.2 de la Ley Orgánica 2/2006, de 3 de mayo, o,
+y didáctica a que se refiere el artículo 100.2 de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, o,
 en su defecto, tener experiencia docente durante dos cursos académicos completos,
 o 12 meses continuos o discontinuos, con anterioridad al 31 de agosto de 2009, en
 centros públicos o privados de enseñanza reglada debidamente autorizados, del nivel
@@ -1400,7 +1415,7 @@ menos, 180 créditos de estas titulaciones.
 
 #### Artículo 42. Solicitudes y forma de presentación.
 
-1. En aplicación de lo establecido en el artículo 14.3 de la Ley 39/2015, de 1 de octubre,
+1. En aplicación de lo establecido en el artículo 14.3 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre,
 las personas participantes en las convocatorias de acceso extraordinario a las bolsas de
 trabajo formalizarán las correspondientes solicitudes y, en su caso, la presentación de
 alegaciones, a través de los medios electrónicos establecidos para este procedimiento.
@@ -1428,7 +1443,7 @@ realizará una Comisión formada por personal funcionario de carrera, en situaci
 activo, de los cuerpos docentes o de los cuerpos de la Administración de la Junta de
 Andalucía, designada al efecto por la persona titular de la Dirección General competente
 en materia de recursos humanos, con un número mínimo de cinco miembros, conforme a
-lo establecido en la sección 3.ª del capítulo II del título preliminar de la Ley 40/2015, de 1
+lo establecido en la sección 3.ª del capítulo II del título preliminar de la [Ley 40/2015](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md), de 1
 de octubre, así como a lo establecido en la sección 1.ª del capítulo II del título IV de la Ley
 9/2007, de 22 de octubre.
 2. Cada una de las organizaciones sindicales que ostente representación en el
@@ -1442,7 +1457,7 @@ sin voz ni voto.
 humanos, se harán públicas las listas provisionales del personal admitido y excluido, por
 cuerpos y especialidades, concediéndose un plazo para alegaciones de diez días hábiles,
 contados a partir del día siguiente a la publicación, de conformidad al artículo 82.2 de la
-Ley 39/2015, de 1 de octubre.
+[Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre.
 2. Transcurridos los plazos señalados y resueltas, en su caso, las alegaciones
 presentadas, el órgano convocante elevará a definitivas las listas provisionales, con las
 modificaciones que, en su caso, procedan.
@@ -1460,7 +1475,7 @@ personal interesado.
 #### Artículo 45. Acceso a las bolsas por convocatorias extraordinarias restringidas.
 
 Sin perjuicio de lo establecido en los artículos anteriores de este capítulo, y de
-conformidad con lo establecido en el artículo 22 del Decreto 302/2010, de 1 de junio,
+conformidad con lo establecido en el artículo 22 del [Decreto 302/2010](./D302_2010_ordenacion_funcion_publica_docente_seleccion_provision_andalucia.md), de 1 de junio,
 la Consejería competente en materia de educación podrá efectuar, en situaciones en
 que se precise la cobertura urgente de puestos docentes, convocatorias extraordinarias
 restringidas de acceso a las bolsas de trabajo, dirigidas a personal que ya se halle incluido
@@ -1472,7 +1487,7 @@ no supondrá pérdida de los derechos que se tuvieran en las de origen.
 
 #### Artículo 46. Ordenación de las bolsas de trabajo.
 
-1. De conformidad con lo establecido en los artículos 21 y 22 del Decreto 302/2010,
+1. De conformidad con lo establecido en los artículos 21 y 22 del [Decreto 302/2010](./D302_2010_ordenacion_funcion_publica_docente_seleccion_provision_andalucia.md),
 de 1 de junio, la ordenación del personal integrante de las bolsas de trabajo se llevará a
 cabo de la siguiente forma:
 00173482
@@ -1524,7 +1539,7 @@ la persona con discapacidad que corresponda por su orden, tras cada nueve person
 integrantes de dicha bolsa, sin que ello pueda conllevar alteración del orden establecido
 en el apartado 1 del presente artículo. El hecho de que en cada tramo figure por su propio
 orden una persona con discapacidad no alterará lo establecido anteriormente.
-8. De conformidad con lo establecido en el artículo 21 del Decreto 302/2010, de 1 de
+8. De conformidad con lo establecido en el artículo 21 del [Decreto 302/2010](./D302_2010_ordenacion_funcion_publica_docente_seleccion_provision_andalucia.md), de 1 de
 junio, el reconocimiento de los servicios prestados en cualquier Administración educativa
 tendrá lugar, una vez que la persona interesada, siguiendo el orden con que figure en las
 bolsas, haya comenzado a prestarlos en la Administración educativa andaluza. Para ello,
@@ -1563,7 +1578,7 @@ función pública para el orden de actuación en los procedimientos selectivos.
 
 #### Artículo 47. Permanencia en las bolsas de trabajo.
 
-De conformidad con lo establecido en el artículo 20 del Decreto 302/2010, de 1 de
+De conformidad con lo establecido en el artículo 20 del [Decreto 302/2010](./D302_2010_ordenacion_funcion_publica_docente_seleccion_provision_andalucia.md), de 1 de
 junio, el personal funcionario interino integrante de una bolsa de trabajo permanecerá en
 la misma, ordenado por el tiempo de servicio reconocido en dicha bolsa, mientras no se
 dé alguna de las circunstancias que motivan la exclusión de la misma.
@@ -1817,7 +1832,7 @@ procedimiento.
 
 El personal funcionario interino integrante de las bolsas de trabajo de las distintas
 especialidades de los cuerpos docentes se regirá por las normas y disposiciones incluidas
-en el artículo 2 del Decreto 302/2010, de 1 de junio, que le resulten de aplicación.
+en el artículo 2 del [Decreto 302/2010](./D302_2010_ordenacion_funcion_publica_docente_seleccion_provision_andalucia.md), de 1 de junio, que le resulten de aplicación.
 
 #### Artículo 55. Derechos y deberes.
 
@@ -1924,7 +1939,7 @@ no se presente la documentación a que se refiere el apartado 4 o cuando del an�
 la misma se constate que no se cumplen los requisitos para el desempeño de la plaza, sin
 perjuicio de las consecuencias que ello pudiera conllevar.
 8. Al procedimiento a que se refiere este artículo le será de aplicación lo establecido
-para la notificación en el artículo 45.1.b) de la Ley 39/2015, de 1 de octubre. No obstante,
+para la notificación en el artículo 45.1.b) de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre. No obstante,
 de conformidad con el artículo 41.6 de la referida ley, la Administración podrá enviar
 un aviso al dispositivo electrónico o a la dirección de correo electrónico de la persona
 interesada que esta haya comunicado, informándole de la puesta a disposición de una
@@ -2002,7 +2017,7 @@ cómputo de la prórroga de nombramiento correspondiente al período no lectivo 
 
 #### Artículo 62. Irrenunciabilidad de los puestos adjudicados u ofertados.
 
-1. De conformidad con lo establecido en el artículo 28.4 del Decreto 302/2010, de
+1. De conformidad con lo establecido en el artículo 28.4 del [Decreto 302/2010](./D302_2010_ordenacion_funcion_publica_docente_seleccion_provision_andalucia.md), de
 1 de junio, los destinos adjudicados en la forma prevista en los artículos 57 y 58 serán
 irrenunciables, salvo en los supuestos que se determinan en el artículo 51.
 2. La no incorporación en la fecha prevista al puesto adjudicado supondrá la exclusión
@@ -2076,7 +2091,7 @@ correspondientes para la asistencia a las sesiones del Pleno de la Corporación 
 Comisiones y para la atención a las Delegaciones de que forme parte o que desempeñe
 la persona interesada, de conformidad con lo establecido en el articulo 75.6 de la Ley
 7/1985, de 2 de abril, reguladora de las Bases de Régimen Local, en relación con los
-artículos 37.3 del Estatuto de los Trabajadores y 30.2 de la Ley 30/1984, de medidas para
+artículos 37.3 del Estatuto de los Trabajadores y 30.2 de la [Ley 30/1984](../../../estatal/01_marco_normativo_general_y_organico/L30_1984_medidas_reforma_funcion_publica.md), de medidas para
 la reforma de la Función Pública, así como en la circular sobre permisos y licencias que
 esté vigente.
 
@@ -2094,7 +2109,7 @@ la vista de los informes facultativos de las asesorías médicas, y adjudicará 
 su caso, de forma prioritaria respecto del resto de participantes de su colectivo, cuando
 aquellos sean favorables.
 2. Asimismo, en aplicación de lo establecido en la referida disposición adicional
-séptima del Decreto 302/2010, de 1 de junio, el personal funcionario interino o, en su
+séptima del [Decreto 302/2010](./D302_2010_ordenacion_funcion_publica_docente_seleccion_provision_andalucia.md), de 1 de junio, el personal funcionario interino o, en su
 caso, aspirante a interinidad, que acredite una discapacidad igual o superior al 33% y
 participe en las convocatorias de adjudicación de destinos provisionales, estará exento
 de cumplir lo establecido en el artículo 15.2. Asimismo, respecto de los procedimientos a
@@ -2123,7 +2138,7 @@ idiomas.
 #### Disposición adicional tercera. Garantías en el uso de los medios electrónicos por los
 
 administrados.
-Conforme lo dispuesto en el artículo 12 de de la Ley 39/2015, de 1 de octubre, cuando
+Conforme lo dispuesto en el artículo 12 de de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, cuando
 las personas interesadas deban relacionarse con la Administración, a través de medios
 electrónicos, que reglamentariamente se haya establecido, las Administraciones Públicas
 deberán garantizar el acceso a los mismos y pondrán a la disposición de estos todos los
@@ -2178,7 +2193,7 @@ con un registro previo como usuario.
 #### Disposición derogatoria. Derogación normativa.
 
 Quedan derogadas cuantas disposiciones se opongan a lo establecido en la presente
-orden y, en particular, la Orden de 24 de mayo de 2011, por la que se regulan los
+orden y, en particular, la [Orden de 24 de mayo de 2011](./O24_5_2011_procedimientos_provision_puestos_trabajo_docentes_andalucia.md), por la que se regulan los
 procedimientos de provisión, con carácter provisional, de puestos de trabajo docentes así
 como la movilidad por razón de violencia de género, y la Orden de 18 de junio de 2018,
 por la que se regulan las bolsas de trabajo docentes y se establecen las bases aplicables
@@ -5850,7 +5865,7 @@ TITULACIONES PARA EL DESEMPEÑO DE PUESTOS EN RÉGIMEN DE INTERINIDAD EN LAS
 ESPECIALIDADES DEL CUERPO DE CATEDRÁTICOS DE MÚSICA Y ARTES ESCÉNICAS. (Código
 593)
 Estar en posesión de la documentación que acredite la formación y capacidad de tutela en las investigaciones
-propias de las enseñanzas artísticas a que se refiere el artículo 17 del Real Decreto 276/2007, que vendrá
+propias de las enseñanzas artísticas a que se refiere el artículo 17 del [Real Decreto 276/2007](../../../estatal/08_personal_docente/RD276_2007_aprueba_reglamento_ingreso_accesos_adquisicion_nuevas.md), que vendrá
 dada por el cumplimiento de alguna de las siguientes condiciones:
 • Estar en posesión del Título de Doctor.
 • Estar en posesión del reconocimiento de suficiencia investigadora o del certificado- diploma acreditativo de
@@ -7118,7 +7133,7 @@ Diplomatura* o Graduado o Graduada en Fisioterapia.
 Diplomatura* o Graduado o Graduada en Enfermería.
 - Y, además, acreditación de haber finalizado Estudios Oficiales de Danza
 con un nivel mínimo de grado medio o equivalente.
-*Debe cumplir con el requisito de acceso al cuerpo 593, regulado en el Real Decreto 276/2007.
+*Debe cumplir con el requisito de acceso al cuerpo 593, regulado en el [Real Decreto 276/2007](../../../estatal/08_personal_docente/RD276_2007_aprueba_reglamento_ingreso_accesos_adquisicion_nuevas.md).
 108
 COMPOSICIÓN
 COREOGRÁFICA

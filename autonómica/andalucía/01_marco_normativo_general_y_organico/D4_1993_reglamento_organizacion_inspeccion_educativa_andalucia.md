@@ -33,8 +33,9 @@ relaciones:
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-l-39-2015
   - norma_id: norm-es-l-40-2015
+fundamentos_derecho:
+- norma_id: norm-and-l17-2007
 ---
-
 # Decreto 4/1993, de 26 de enero, por el que se aprueba el Reglamento de Organización y Funcionamiento de la Inspección Educativa de Andalucía.
 
 ## Preámbulo

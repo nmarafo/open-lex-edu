@@ -38,8 +38,9 @@ relaciones:
   articulos:
   - norma_id: '1'
   - norma_id: norm-es-1999-23750
+fundamentos_derecho:
+- norma_id: norm-es-1999-23750
 ---
-
 # Real Decreto 209/2003, de 21 de febrero, por el que se regulan los registros y las notificaciones telemáticas, así como la utilización de medios telemáticos para la sustitución de la aportación de certificados por los ciudadanos.
 
 ## Preámbulo

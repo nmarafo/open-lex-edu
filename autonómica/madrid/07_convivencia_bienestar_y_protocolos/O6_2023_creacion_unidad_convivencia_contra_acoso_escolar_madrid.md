@@ -24,8 +24,20 @@ tags:
 - acoso_escolar
 - unidad_convivencia
 - madrid
+fundamentos_derecho:
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-mad-d-52-2021
+- norma_id: norm-mad-l12-1999-creacion-consejo-escolar-comunidad-madrid
+- norma_id: norm-mad-l1-1983-gobierno-administracion-comunidad-madrid
+- norma_id: norm-mad-l2-2010
+- norma_id: norm-mad-d61-2019-organizacion-estructura-funcionamiento-inspeccion-educativa-madrid
+- norma_id: norm-mad-d32-2019
+- norma_id: norm-es-l-39-2015
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
+- norma_id: norm-es-lo-8-2021
 ---
-
 # Orden 6/2023, de 3 de enero, de la Vicepresidencia, Consejería de Educación y Universidades, por la que se crea la Unidad de Convivencia y contra el Acoso Escolar de la Comunidad de Madrid
 
 ## Preámbulo
@@ -36,7 +48,7 @@ Vicepresidencia, Consejería de Educación y Universidades
 ORDEN 6/2023, de 3 de enero, de la Vicepresidencia, Consejería de Educación
 y Universidades, por la que se establecen la estructura y funciones de la unidad
 de convivencia y contra el acoso escolar.
-La Ley Orgánica 2/2006, de 3 de mayo, de Educación, considera como principio del
+La [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, considera como principio del
 sistema educativo español, en su artículo 1.k, “La educación para la convivencia, el respe-
 to, la prevención de conflictos y la resolución pacífica de los mismos, así como para la no
 violencia en todos los ámbitos de la vida personal, familiar y social, y en especial en el del
@@ -46,7 +58,7 @@ Por su parte, el artículo 2.c incluye entre los fines que el sistema educativo 
 conseguir “la educación en el ejercicio de la tolerancia y de la libertad dentro de los princi-
 pios democráticos de convivencia, así como en la prevención de conflictos y la resolución
 pacífica de los mismos”.
-En este sentido, el artículo 124 de la Ley Orgánica 2/2006, de 3 de mayo, de Educa-
+En este sentido, el artículo 124 de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educa-
 ción, determina la obligatoriedad de que los centros educativos elaboren un plan de convi-
 vencia. Asimismo, establece que las normas de convivencia y conducta serán de obligado
 cumplimiento y deberán concretar los derechos y deberes de los alumnos y alumnas, y las
@@ -56,25 +68,25 @@ Por otro lado, entre las funciones de la Inspección Educativa, el artículo 151
 Orgánica 2/2006, de 3 de mayo, de Educación, incluye la de asesorar, orientar e informar a
 los distintos sectores de la comunidad educativa en el ejercicio de sus derechos y en el cum-
 plimiento de sus obligaciones.
-La Ley 2/2010, de 15 de junio, de Autoridad del Profesor, establece la necesidad de
+La [Ley 2/2010](../01_marco_normativo_general_y_organico/L2_2010_autoridad_profesor_comunidad_madrid.md), de 15 de junio, de Autoridad del Profesor, establece la necesidad de
 que los centros educativos cuenten para su buen funcionamiento con normas de conviven-
 cia, y que los profesores dispongan de medios para velar su cumplimiento, así como para
 proteger a las víctimas de la violencia escolar. Además, señala que los docentes gozarán de
 la colaboración de los padres o representantes legales para el cumplimiento de las normas
 de convivencia.
-Asimismo, la Ley Orgánica 8/2021, de 4 de junio, de protección integral a la infancia
+Asimismo, la [Ley Orgánica 8/2021](../../../estatal/07_convivencia_bienestar_y_protocolos/LO8_2021_proteccion_integral_infancia_adolescencia_frente_violencia.md), de 4 de junio, de protección integral a la infancia
 y la adolescencia frente a la violencia, establece en su artículo 34, la necesidad de contar
 con protocolos de actuación ante cualquier tipo de violencia, que deberán ser aplicados en
 todos los centros educativos. Además, en el artículo 35 señala la obligatoriedad de que los
 centros educativos dispongan de un coordinador de bienestar y protección del alumnado.
-El artículo 29.2 del Decreto 32/2019, del Consejo de Gobierno, por el que se estable-
+El artículo 29.2 del [Decreto 32/2019](./D32_2019_marco_regulador_convivencia_centros_docentes_madrid.md), del Consejo de Gobierno, por el que se estable-
 ce el marco regulador de la convivencia en los centros docentes de la Comunidad de
 Madrid, estableció las funciones específicas de la Unidad de convivencia y contra el acoso
 escolar.
 Dicho Decreto, en su Disposición Final primera, autoriza al titular de la Consejería
 competente en materia de educación para adoptar las disposiciones necesarias para el desa-
 rrollo del mismo.
-Asimismo, la disposición final primera del Decreto 61/2019, de 9 de julio, por el que
+Asimismo, la disposición final primera del [Decreto 61/2019](../04_organizacion_escolar_y_funcionamiento/D61_2019_organizacion_estructura_funcionamiento_inspeccion_educativa_madrid.md), de 9 de julio, por el que
 se regula la organización, estructura y funcionamiento de la inspección educativa en la Co-
 munidad de Madrid, autoriza al titular de la Consejería competente en materia de educación
 para dictar cuantas disposiciones sean necesarias para el desarrollo de dicho decreto.
@@ -109,8 +121,8 @@ que afectan a la convivencia en los centros educativos mediante este nuevo enfoq
 disciplinar y especializado con que se trata de dotar a esta Unidad de convivencia y contra
 el acoso escolar.
 La presente norma se ha elaborado atendiendo a los principios de buena regulación
-previstos en el artículo 129 de la Ley 39/2015, de 1 de octubre, del Procedimiento Admi-
-nistrativo Común de las Administraciones Públicas y del artículo 2 del Decreto 52/2021,
+previstos en el artículo 129 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Admi-
+nistrativo Común de las Administraciones Públicas y del artículo 2 del [Decreto 52/2021](../01_marco_normativo_general_y_organico/D52_2021_procedimiento_elaboracion_disposiciones_normativas_madrid.md),
 de 24 de marzo, del Consejo de Gobierno, por el que se regula y simplifica el procedimien-
 to de elaboración de las disposiciones normativas de carácter general en la Comunidad de
 Madrid.
@@ -128,14 +140,14 @@ lita el ejercicio de las competencias en materia de fomento y asesoramiento para
 vencia en los centros educativos de la Comunidad de Madrid.
 En el proceso de elaboración de esta Orden se ha dado cumplimiento al trámite de
 audiencia e información pública a través del Portal de Transparencia de la Comunidad de
-Madrid, conforme a lo dispuesto en el artículo 133.2 de la citada Ley 39/2015, de 1 de oc-
-tubre, y en el artículo 9 del citado Decreto 52/2021, de 24 de marzo, respetando así el prin-
+Madrid, conforme a lo dispuesto en el artículo 133.2 de la citada [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de oc-
+tubre, y en el artículo 9 del citado [Decreto 52/2021](../01_marco_normativo_general_y_organico/D52_2021_procedimiento_elaboracion_disposiciones_normativas_madrid.md), de 24 de marzo, respetando así el prin-
 cipio de transparencia normativa. Asimismo, ha emitido dictamen el Consejo Escolar de la
-Comunidad de Madrid, de acuerdo con el artículo 2.1 de la Ley 12/1999, de 29 de abril, de
+Comunidad de Madrid, de acuerdo con el artículo 2.1 de la [Ley 12/1999](../01_marco_normativo_general_y_organico/L12_1999_creacion_consejo_escolar_comunidad_madrid.md), de 29 de abril, de
 creación del Consejo Escolar de la Comunidad de Madrid y se ha recabado informe de la
 Abogacía General de la Comunidad de Madrid.
 En su virtud y de conformidad con las atribuciones conferidas por la normativa aludida
-y el artículo 41.d) de la Ley 1/1983, de 13 de diciembre, de Gobierno y Administración de la
+y el artículo 41.d) de la [Ley 1/1983](../01_marco_normativo_general_y_organico/L1_1983_gobierno_administracion_comunidad_madrid.md), de 13 de diciembre, de Gobierno y Administración de la
 Comunidad de Madrid, en relación con el Decreto 236/2021, de 17 de noviembre, del Conse-
 jo de Gobierno, por el que se establece la estructura orgánica de la Consejería de Educación,
 

@@ -33,8 +33,15 @@ relaciones:
   - norm-es-lo-8-2021
   - norm-and-l17-2007
   - norm-and-d-19-2007
+fundamentos_derecho:
+- norma_id: norm-and-d154-2022
+- norma_id: norm-and-l17-2007
+- norma_id: norm-and-l9-2007-administracion-junta-andalucia-laja
+- norma_id: norm-and-d327-2010
+- norma_id: norm-and-d328-2010
+- norma_id: norm-and-d19-2007
+- norma_id: norm-es-l-40-2015
 ---
-
 # Instrucción de 4 de diciembre de 2023, de la Viceconsejería de Desarrollo Educativo y Formación Profesional, sobre determinados aspectos para la regulación del uso de los teléfonos móviles en los centros educativos dependientes de la Consejería de Desarrollo Educativo y Formación Profesional.
 
 ## Protocolo y Directrices
@@ -61,14 +68,14 @@ para alcanzar los objetivos que el centro se haya propuesto y permitan mantener 
 confianza y colaboración entre todos los sectores de la comunidad educativa. 
  
  
-A tal efecto, el artículo 26.2 i) del Decreto 327/2010, de 13 de julio, por el que se aprueba el 
+A tal efecto, el artículo 26.2 i) del [Decreto 327/2010](../04_organizacion_escolar_y_funcionamiento/D327_2010_reglamento_organico_institutos_educacion_secundaria_andalucia.md), de 13 de julio, por el que se aprueba el 
 Reglamento Orgánico de los Institutos de Educación Secundaria, concreta que el reglamento de 
 organización y funcionamiento, teniendo en cuenta las características propias de cada centro, contemplará: 
 “Las normas sobre la utilización en el instituto de teléfonos móviles y otros aparatos electrónicos, así como el 
 procedimiento para garantizar el acceso seguro a internet del alumnado.” 
  
  
-Esta previsión se recoge igualmente en el Decreto 328/2010, de 13 de julio, por el que se aprueba el 
+Esta previsión se recoge igualmente en el [Decreto 328/2010](../04_organizacion_escolar_y_funcionamiento/D328_2010_reglamento_organico_escuelas_infantiles_colegios_primaria_andalucia.md), de 13 de julio, por el que se aprueba el 
 Reglamento Orgánico de las escuelas infantiles de segundo grado, de los colegios de educación primaria, de 
 los colegios de educación infantil y primaria, y de los centros públicos específicos de educación especial, a 
 través del artículo 24.2 h)  
@@ -116,21 +123,21 @@ situaciones de riesgo de aparición de ciberacoso, es aconsejable potenciar e in
 mecanismos preventivos y proactivos. 
  
  
-Conforme a lo dispuesto en el artículo 6 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del 
+Conforme a lo dispuesto en el artículo 6 de la [Ley 40/2015](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md), de 1 de octubre, de Régimen Jurídico del 
 Sector Público, los órganos administrativos podrán dirigir las actividades de sus órganos jerárquicamente 
-dependientes mediante instrucciones y órdenes de servicio. De igual forma, la Ley 9/2007, de 22 de octubre, 
+dependientes mediante instrucciones y órdenes de servicio. De igual forma, la [Ley 9/2007](../01_marco_normativo_general_y_organico/L9_2007_administracion_junta_andalucia_laja.md), de 22 de octubre, 
 de la Administración de la Junta de Andalucía dispone que los órganos superiores y directivos tienen el 
 deber de impulsar y dirigir la actividad administrativa mediante circulares, instrucciones y órdenes de 
 servicio.  
  
  
 Por todo ello, la Viceconsejería de Desarrollo Educativo y Formación Profesional, en virtud de las 
-competencias que le otorga el artículo 4 del Decreto 154/2022, de 9 de agosto, por el que se establece la 
+competencias que le otorga el artículo 4 del [Decreto 154/2022](../01_marco_normativo_general_y_organico/D154_2022_estructura_organica_consejeria_desarrollo_educativo_andalucia.md), de 9 de agosto, por el que se establece la 
 estructura orgánica de la Consejería de Desarrollo Educativo y Formación Profesional, PROCEDE A DICTAR 
 las presentes instrucciones a los efectos de recordar a los órganos y unidades  determinadas disposiciones 
 relacionadas con el uso de los teléfonos móviles en los centros docentes, estableciendo su interpretación a 
 fin de que sean objeto de una aplicación homogénea en Andalucía, tal y como  señala el artículo 98.2 de la 
-Ley 9/2007, de 22 de octubre. 
+[Ley 9/2007](../01_marco_normativo_general_y_organico/L9_2007_administracion_junta_andalucia_laja.md), de 22 de octubre. 
  
  
 Primero.-Limitar el uso de teléfonos móviles durante la jornada escolar, entendida ésta como el 

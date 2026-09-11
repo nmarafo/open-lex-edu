@@ -17,8 +17,9 @@ fuente_pdf_oficial: http://www.juntadeandalucia.es/boja/2007/215/d1.pdf
 clasificacion:
   categoria_canonica: 01_marco_normativo_general_y_organico
   subcategoria: Marco normativo general
+fundamentos_derecho:
+- norma_id: norm-and-l6-2006-gobierno-comunidad-autonoma-andalucia
 ---
-
 # Ley 9/2007, de 22 de octubre, de la Administración de la Junta de Andalucía.
 
 ## Preámbulo
@@ -45,7 +46,7 @@ gunos aspectos del régimen jurídico de la Administración an-
 daluza. Pero el tiempo transcurrido ha puesto de manifiesto la 
 necesidad de reformar la citada Ley, optando en esta ocasión 
 por la regulación separada del Gobierno y la Administración de 
-la Junta de Andalucía. Aprobada la Ley 6/2006, de 24 de oc-
+la Junta de Andalucía. Aprobada la [Ley 6/2006](./L6_2006_gobierno_comunidad_autonoma_andalucia.md), de 24 de oc-
 tubre, del Gobierno de la Comunidad Autónoma de Andalucía, 
 se aborda ahora la adaptación de la organización y régimen de 
 la Administración a las exigencias sociales, a fin de procurar 

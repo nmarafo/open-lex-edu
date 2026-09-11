@@ -31,8 +31,15 @@ relaciones:
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-l-39-2015
   - norma_id: norm-mad-d-29-2013
+fundamentos_derecho:
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-mad-l12-1999-creacion-consejo-escolar-comunidad-madrid
+- norma_id: norm-mad-l1-1983-gobierno-administracion-comunidad-madrid
+- norma_id: norm-mad-d-29-2013
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
 ---
-
 # Orden 1240/2013, de 17 de abril, de la Consejería de Educación, Juventud y Deporte, por la que se establece el procedimiento para la admisión de alumnos en centros docentes sostenidos con fondos públicos de la Comunidad de Madrid
 
 ## Preámbulo
@@ -45,7 +52,7 @@ porte, por la se establece el procedimiento para la admisión de alumnos en cent
 docentes sostenidos con fondos públicos de segundo ciclo de Educación Infantil,
 Educación Primaria, Educación Especial, Educación Secundaria Obligatoria y
 Bachillerato en la Comunidad de Madrid.
-El Decreto 29/2013, de 11 de abril, del Consejo de Gobierno, de libertad de elección
+El [Decreto 29/2013](./D29_2013_libertad_eleccion_centro_escolar_madrid.md), de 11 de abril, del Consejo de Gobierno, de libertad de elección
 de centro escolar en la Comunidad de Madrid, establece, en su disposición final primera, la
 habilitación al titular de la Consejería competente en materia de educación para dictar las
 disposiciones necesarias para el desarrollo y ejecución del citado Decreto. La presente Or-
@@ -57,10 +64,10 @@ atribuciones de acuerdo con las competencias que le atribuye el Decreto 126/2012
 octubre, del Consejo de Gobierno, por el que se establece la estructura orgánica de la Con-
 sejería de Educación, Juventud y Deporte.
 En el proceso de elaboración de esta Orden, ha emitido dictamen el Consejo Escolar
-de la Comunidad de Madrid, de acuerdo con el artículo 2.1.b) de la Ley 12/1999, de 29 de
+de la Comunidad de Madrid, de acuerdo con el artículo 2.1.b) de la [Ley 12/1999](../01_marco_normativo_general_y_organico/L12_1999_creacion_consejo_escolar_comunidad_madrid.md), de 29 de
 abril, de creación del Consejo Escolar de la Comunidad de Madrid, modificado por el ar-
 tículo 29 de la Ley 9/2010, de 23 de diciembre. Asimismo, se ha tenido en cuenta el artícu-
-lo 41.d) de la Ley 1/1983, de 13 de diciembre, del Gobierno y la Administración de la Co-
+lo 41.d) de la [Ley 1/1983](../01_marco_normativo_general_y_organico/L1_1983_gobierno_administracion_comunidad_madrid.md), de 13 de diciembre, del Gobierno y la Administración de la Co-
 munidad de Madrid.
 En su virtud, de conformidad con las atribuciones que me confiere el ordenamiento
 vigente,
@@ -198,7 +205,7 @@ Cuando el número de solicitantes para ocupar un puesto escolar en centros soste
 nidos con fondos públicos sea superior al de vacantes existentes, las solicitudes de admi-
 sión se atenderán o resolverán por los centros educativos mediante la aplicación de los cri-
 terios de admisión y los criterios de desempate que aparecen recogidos en los Anexos I y II
-del Decreto 29/2013, de 11 de abril, del Consejo de Gobierno, de libertad de elección de
+del [Decreto 29/2013](./D29_2013_libertad_eleccion_centro_escolar_madrid.md), de 11 de abril, del Consejo de Gobierno, de libertad de elección de
 centro escolar en la Comunidad de Madrid.
 2.
 Para cursar las enseñanzas correspondientes a la modalidad de Artes de Bachille-
@@ -392,7 +399,7 @@ ficas de aprendizaje o historia escolar así lo requieran. En caso de que la fam
 de acogida tenga ya escolarizado algún hijo en el mismo centro escolar solicitado
 para el alumno acogido, se le asignará a este la puntuación que le corresponda por
 el presente apartado, con el fin de facilitar su escolarización.
-En cumplimiento de lo establecido en la Ley Orgánica 2/2006, de 3 de mayo, de
+En cumplimiento de lo establecido en la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de
 Educación, los centros públicos adscritos a efectos de escolarización serán consi-
 derados como centro único a efectos de baremación para el proceso de admisión.
 b)
@@ -575,7 +582,7 @@ concluido el proceso ordinario.
 2.
 Cuando concurra alguno de los supuestos y situaciones para participar en el pro-
 ceso extraordinario de admisión que aparecen recogidos en el artículo 12, apartados 2 y 3,
-del Decreto 29/2013, de 11 de abril, del Consejo de Gobierno, de libertad de elección de
+del [Decreto 29/2013](./D29_2013_libertad_eleccion_centro_escolar_madrid.md), de 11 de abril, del Consejo de Gobierno, de libertad de elección de
 centro escolar en la Comunidad de Madrid, las familias podrán participar en el mismo.
 
 http://www.bocm.es

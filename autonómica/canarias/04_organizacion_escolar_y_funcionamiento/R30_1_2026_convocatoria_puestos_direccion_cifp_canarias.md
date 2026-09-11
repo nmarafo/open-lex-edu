@@ -130,14 +130,24 @@ relaciones:
   - norma_id: norm-es-lo-8-2021
   - norma_id: norm-can-d-212-1991
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-029-465.pdf
+fundamentos_derecho:
+- norma_id: norm-can-d-212-1991
+- norma_id: norm-can-d-84-2024
+- norma_id: norm-can-d-112-2011
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-es-l-39-2015
+- norma_id: norm-es-l-40-2015
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
+- norma_id: norm-es-lo-8-2021
 ---
-
 # Resolución de 30 de enero de2026, de la Dirección General de Personal y Formación del Profesorado, por la que se convoca, por el sistema de libre designación, la provisión de puestos de dirección de centros públicos integrados de formación profesional de la Comunidad Autónoma de Canarias para el periodo de mandato 2026-2030 (BOC n.º 29, de 12 de febrero).
 
 ## Preámbulo
 
 Oposiciones y concursos Consejería de Educación, Formación Profesional, Actividad Física y Deportes de enero de 2026, por la que se convoca, por el sistema de libre designación, la provisión de puestos de dirección de centros públicos integrados de formación profesional de la Comunidad Autónoma de Canarias para el periodo de mandato 2026-2030. Constituyéndose la dirección de los centros educativos como factor clave para la calidad del sistema educativo, es preciso seleccionar directores y directoras responsables de la gestión de los mismos, tanto en el aspecto organizativo y administrativo como desde la asunción del liderazgo y dinamización pedagógica, estableciéndose a tal fin un procedimiento de selección por libre designación que posibilite la elección del personal funcionario docente más cualificado para asumir este compromiso, conforme a los principios de mérito, capacidad y publicidad. ANTECEDENTE DE HECHO Único.- Habiéndose determinado las vacantes a proveer en los centros integrados de formación profesional para el periodo de mandato 2026-2030, una vez consideradas las direcciones de centros ocupadas con nombramiento extraordinario y constando una única solicitud de no renovación, quedan determinadas las vacantes definitivas a ofertar. Al anterior antecedente le resultan de aplicación los siguientes FUNDAMENTOS DE DERECHO
-Primero.- El Decreto 112/2011, de 11 de mayo, por el que se regulan los Centros integrados de formación profesional en la Comunidad Autónoma de Canarias, dedica la
+Primero.- El [Decreto 112/2011](../02_gestion_y_administracion_centros/D112_2011_regulan_centros_integrados_formacion_profesional_canarias.md), de 11 de mayo, por el que se regulan los Centros integrados de formación profesional en la Comunidad Autónoma de Canarias, dedica la
 
 #### Sección primera. de su capítulo cuarto a la regulación de los órganos de gobierno de estos
 
@@ -230,7 +240,7 @@ b) Tener una antigüedad de, al menos, cinco años como funcionario o funcionari
 c) Haber ejercido con anterioridad algún cargo directivo, al menos durante dos años, en centros públicos docentes donde se haya impartido Formación Profesional.
 d) Estar habilitado o acreditado como director o directora de centros públicos docentes:
 Las personas seleccionadas deberán acreditar, antes de que se produzca el nombramiento, estar en posesión de la certificación acreditativa de haber superado el curso de formación sobre el desarrollo de la función directiva, conforme a lo establecido en el Real Decreto 894/2014, de 17 de octubre, así como de los correspondientes cursos de actualización de competencias directivas, en su caso. De no poseerse la citada acreditación, las personas que resulten admitidas en el presente procedimiento deberán cursar la actividad formativa señalada en el párrafo anterior. A tal fin, el Servicio de Perfeccionamiento de la Dirección General de Personal y Formación del Profesorado promoverá convocatoria de formación para que quienes resulten seleccionados dispongan de la misma con anterioridad a que se produzca el nombramiento.
-e) Acreditar no haber sido condenado por sentencia firme por algún delito contra la libertad e indemnidad sexual, conforme a lo dispuesto en el artículo 57.1 de la Ley Orgánica 8/2021, de 4 de junio, de protección integral a la infancia y la adolescencia frente a la violencia, mediante la aportación de una certificación negativa del Registro Central de Delincuentes Sexuales o una autorización que permita la comprobación automática de la inexistencia de antecedentes en el citado registro.
+e) Acreditar no haber sido condenado por sentencia firme por algún delito contra la libertad e indemnidad sexual, conforme a lo dispuesto en el artículo 57.1 de la [Ley Orgánica 8/2021](../../../estatal/07_convivencia_bienestar_y_protocolos/LO8_2021_proteccion_integral_infancia_adolescencia_frente_violencia.md), de 4 de junio, de protección integral a la infancia y la adolescencia frente a la violencia, mediante la aportación de una certificación negativa del Registro Central de Delincuentes Sexuales o una autorización que permita la comprobación automática de la inexistencia de antecedentes en el citado registro.
 f) No haber sido cesado en el cargo de dirección por incumplimiento grave de las funciones en los últimos cuatro años.
 g) No tener nombramiento como director o directora que se extienda a fecha posterior a la prevista para la toma de posesión en la presente convocatoria.
 

@@ -25,8 +25,10 @@ relaciones:
   - norm-es-lo-2-2006
   - norm-mad-d-36-2022
 fuente_pdf_oficial: https://www.comunidad.madrid/transparencia/sites/default/files/regulation/documents/protocolo_atencion_temprana_diciembre_2025-bvcm050528.pdf
+fundamentos_derecho:
+- norma_id: norm-mad-d23-2023
+- norma_id: norm-mad-d-46-2015
 ---
-
 # Protocolo marco de coordinación de Atención Temprana de la Comunidad de Madrid (diciembre de 2025).
 
 ## Cuerpo Dispositivo
@@ -154,7 +156,7 @@ El carácter multidisciplinar que requiere la atención temprana hace preciso qu
 aborden las necesidades del menor, desde el punto de vista sanitario, educativo y social, 
 para contribuir a facilitar su integración y mejorar su calidad de vida. 
  
-El Decreto 46/2015, de 7 de mayo, del Consejo de Gobierno, por el que se regula la 
+El [Decreto 46/2015](./D46_2015_coordinacion_prestacion_atencion_temprana_comunidad_madrid.md), de 7 de mayo, del Consejo de Gobierno, por el que se regula la 
 coordinación en la prestación de la atención temprana en la Comunidad de Madrid y se 
 establece el procedimiento para d eterminar la necesidad de atención temprana, nació 
 con el objetivo de regular la actuación integral en atención temprana de cada uno de los 
@@ -170,7 +172,7 @@ de la organización y coordinación de la actuación integral de la atención te
 Comunidad Madrid, a través del trabajo desarrollado por el Pleno y la Comisión Técnica 
 de CRECOVI. 
  
-Para llevar a cabo  esta coordinación, el Decreto 46/2015, de 7 de mayo, prevé en su 
+Para llevar a cabo  esta coordinación, el [Decreto 46/2015](./D46_2015_coordinacion_prestacion_atencion_temprana_comunidad_madrid.md), de 7 de mayo, prevé en su 
 artículo 8.2  la necesidad de aprobar un  protocolo de coordinación de atención 
 temprana, que favorezca el intercambio de información y la derivación dentro del 
 sistema. Dicho Protocolo fue elaborado por la Comisión Técnica de Atención Temprana 
@@ -211,7 +213,7 @@ Normativa de referencia:
  
 • Decreto 76/2025, de 1 de octubre de atención temprana en la Comunidad de 
 Madrid (BOCM de 13 de octubre de 2025). 
-• Decreto 23/2023, de 22 de marzo, del Consejo de Gobierno, por el que se regula 
+• [Decreto 23/2023](./D23_2023_atencion_diferencias_individuales_alumnos_madrid.md), de 22 de marzo, del Consejo de Gobierno, por el que se regula 
 la atención educativa a las diferencias individuales del alumnado en la 
 Comunidad de Madrid (BOCM de 24 de marzo de 2023). 
 • Ley 12/2001, de 21 de diciembre, de Ordenación Sanitaria de la Comunidad de 
@@ -2865,7 +2867,7 @@ Anexos
  
 ANEXO IV. RECURSOS  PARA LOS MENORES  DE 0 A 6 AÑOS CON NECESIDADES  
 EDUCATIVAS  ESPECIALES  
-El Decreto 23/2023, de 22 de marzo, del Consejo de Gobierno, por el que se regula la atención educativa a 
+El [Decreto 23/2023](./D23_2023_atencion_diferencias_individuales_alumnos_madrid.md), de 22 de marzo, del Consejo de Gobierno, por el que se regula la atención educativa a 
 las diferencias individuales del alumnado en la Comunidad de Madrid, regula las medidas educativa s y los 
 recursos puestos a disposición de la atención a las necesidades educativas especiales (NEE) de los alumnos.  
  
@@ -3726,7 +3728,7 @@ responsabilidad de la tutoría de los alumnos, la dirección y la orientación d
 aprendizaje y el apoyo en su proceso educativo, y deb e realizarse lo más temprano 
 posible. Una vez identificadas las barreras para el aprendizaje y la participación, el 
 profesorado atenderá las diferencias individuales del alumnado, mediante la aplicación 
-de medidas educativas ordinarias. (Decreto 23/2023, d e 22 de marzo, del Consejo de 
+de medidas educativas ordinarias. ([Decreto 23/2023](./D23_2023_atencion_diferencias_individuales_alumnos_madrid.md), d e 22 de marzo, del Consejo de 
 Gobierno, por el que se regula la atención educativa a las diferencias individuales del 
 alumnado en la Comunidad de Madrid). 
 En la identificación de las barreras para el aprendizaje y la participación, los servicios y 

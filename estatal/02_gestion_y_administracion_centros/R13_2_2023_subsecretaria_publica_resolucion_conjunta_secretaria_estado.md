@@ -118,8 +118,15 @@ relaciones:
   - norma_id: norm-es-2016-3229
   - norma_id: norm-es-2021-20113
   - norma_id: norm-es-2010-12201
+fundamentos_derecho:
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-2016-3229
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-4130
+- norma_id: norm-es-2014-6008
+- norma_id: norm-es-2010-12201
 ---
-
 # Resolución de 13 de febrero de 2023, de la Subsecretaría, por la que se publica la Resolución de 8 de febrero de 2023, conjunta de la Secretaría de Estado de Educación y la Secretaría General de Universidades, por la que se establecen las adaptaciones de la evaluación de Bachillerato para el acceso a la Universidad a las necesidades y situación de los centros españoles situados en el exterior del territorio nacional, los programas educativos en el exterior, los programas internacionales, el alumnado procedente de sistemas educativos extranjeros y las enseñanzas a distancia, en el curso 2022-2023. ## Preámbulo
 
 El Secretario de Estado de Educación y el Secretario General de Universidades han suscrito, con fecha 8 de febrero de 2023, una Resolución conjunta por la que se establecen las adaptaciones de la evaluación de Bachillerato para el acceso a la Universidad a las necesidades y situación de los centros españoles situados en el exterior del territorio nacional, los programas educativos en el exterior, los programas internacionales, el alumnado procedente de sistemas educativos extranjeros y las enseñanzas a distancia, en el curso 2022-2023. Madrid, 13 de febrero de 2023.–El Subsecretario de la Presidencia, Relaciones con las Cortes y Memoria Democrática, Alberto Herrera Rodríguez.
@@ -136,9 +143,9 @@ la realización de una evaluación individualizada al finalizar la etapa de Bach
 
 En su desarrollo, se dictó el Real Decreto 310/2016, de 29 de julio, por el que se regulan las evaluaciones finales de Educación Secundaria Obligatoria y de Bachillerato, en el que se establece que, mediante orden ministerial, el Ministerio de Educación, Cultura y Deporte determinaría las características, el diseño y el contenido de las pruebas de la citada evaluación, así como los procedimientos de revisión de las calificaciones obtenidas.
 
-Posteriormente, el Real Decreto-ley 5/2016, de 9 de diciembre, de medidas urgentes para la ampliación del calendario de implantación de la Ley Orgánica 8/2013, de 9 de diciembre, para la mejora de la calidad educativa, en su artículo 1, modificó la disposición final quinta de esta ley orgánica, disponiendo en la nueva redacción de su apartado 3 que, hasta la entrada en vigor de la normativa resultante del Pacto de Estado Social y Político por la Educación, la evaluación de Bachillerato regulada por el artículo 36 bis de la Ley Orgánica 2/2006, de 3 de mayo, no será necesaria para obtener el título de Bachiller y se realizará exclusivamente para el alumnado que quiera acceder a las enseñanzas universitarias oficiales de Grado.
+Posteriormente, el Real Decreto-ley 5/2016, de 9 de diciembre, de medidas urgentes para la ampliación del calendario de implantación de la [Ley Orgánica 8/2013](../03_ordenacion_curricular_y_ensenanzas/LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md), de 9 de diciembre, para la mejora de la calidad educativa, en su artículo 1, modificó la disposición final quinta de esta ley orgánica, disponiendo en la nueva redacción de su apartado 3 que, hasta la entrada en vigor de la normativa resultante del Pacto de Estado Social y Político por la Educación, la evaluación de Bachillerato regulada por el artículo 36 bis de la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, no será necesaria para obtener el título de Bachiller y se realizará exclusivamente para el alumnado que quiera acceder a las enseñanzas universitarias oficiales de Grado.
 
-La Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la Ley Orgánica 2/2006, de 3 de mayo, de Educación, ha introducido un renovado ordenamiento legal, modificando un buen número de artículos del texto anterior. Entre otros muchos aspectos, la nueva redacción elimina la evaluación final de Bachillerato y, en el artículo 38, establece, con respecto al acceso a los estudios universitarios, la necesidad de superar una prueba de acceso que será tenida en cuenta junto con las calificaciones obtenidas en Bachillerato y cuyas características básicas serán establecidas por el Gobierno, previa consulta a las Comunidades Autónomas, en el seno de la Conferencia Sectorial de Educación y de la Conferencia General de Política Universitaria, con informe previo del Consejo de Universidades y del Consejo Escolar del Estado.
+La Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, ha introducido un renovado ordenamiento legal, modificando un buen número de artículos del texto anterior. Entre otros muchos aspectos, la nueva redacción elimina la evaluación final de Bachillerato y, en el artículo 38, establece, con respecto al acceso a los estudios universitarios, la necesidad de superar una prueba de acceso que será tenida en cuenta junto con las calificaciones obtenidas en Bachillerato y cuyas características básicas serán establecidas por el Gobierno, previa consulta a las Comunidades Autónomas, en el seno de la Conferencia Sectorial de Educación y de la Conferencia General de Política Universitaria, con informe previo del Consejo de Universidades y del Consejo Escolar del Estado.
 
 Sin perjuicio de lo anterior, la disposición final quinta, apartado 7, de la Ley Orgánica 3/2020, de 29 de diciembre, que fija el calendario de implantación de la nueva ordenación, señala que las modificaciones introducidas en el artículo 38 se.
 
@@ -196,11 +203,11 @@ Decreto 412/2014](../03_ordenacion_curricular_y_ensenanzas/RD412_2014_establece_
 
 3. A los efectos de admisión a las enseñanzas universitarias oficiales de Grado y de conformidad con la disposición adicional tercera del Real Decreto 310/2016, de 29 de julio, los estudiantes que se encuentren en posesión del Diploma de Bachillerato Internacional y los procedentes de los sistemas educativos de la Unión Europea y de otros países con convenio de reciprocidad en la materia, podrán examinarse de materias de la evaluación de Bachillerato atendiendo a la regulación específica de las universidades para la admisión de este tipo de alumnado.
 
-4. Asimismo, las universidades podrán acordar con la UNED la gestión de sus procedimientos de admisión, que se realizarán de acuerdo con los criterios de valoración establecidos en el Real Decreto 412/2014, de 6 de junio.
+4. Asimismo, las universidades podrán acordar con la UNED la gestión de sus procedimientos de admisión, que se realizarán de acuerdo con los criterios de valoración establecidos en el [Real Decreto 412/2014](../03_ordenacion_curricular_y_ensenanzas/RD412_2014_establece_normativa_basica_procedimientos_admision_ensenanzas.md), de 6 de junio.
 
 5. De conformidad con el artículo 10 l.
 
-Real Decreto 412/2014, de 6 de junio, las universidades podrán utilizar como criterio de valoración para la admisión la conversión a escala española que realice la UNED de las calificaciones de aquellas materias equivalentes a las del Bachillerato español obtenidas en los sistemas educativos de procedencia o en las pruebas externas realizadas en dichos sistemas.
+[Real Decreto 412/2014](../03_ordenacion_curricular_y_ensenanzas/RD412_2014_establece_normativa_basica_procedimientos_admision_ensenanzas.md), de 6 de junio, las universidades podrán utilizar como criterio de valoración para la admisión la conversión a escala española que realice la UNED de las calificaciones de aquellas materias equivalentes a las del Bachillerato español obtenidas en los sistemas educativos de procedencia o en las pruebas externas realizadas en dichos sistemas.
 
 6. Las pruebas de admisión organizadas por la UNED, se celebrarán en los centros de examen de la UNED, de acuerdo con los criterios que esta determine. Asimismo, siempre que el número de estudiantes así lo justifique, la UNED podrá organizar las pruebas en las embajadas u oficinas diplomáticas de España en el extranjero, previo acuerdo con la embajada o representación diplomática de España en dicho país.
 
@@ -208,7 +215,7 @@ Real Decreto 412/2014, de 6 de junio, las universidades podrán utilizar como cr
 
 1. A los efectos de admisión a las enseñanzas universitarias oficiales de Grado y de conformidad con la disposición adicional tercera del Real Decreto 310/2016, de 29 de julio, los estudiantes procedentes de países de fuera de la Unión Europea que no tengan convenio de reciprocidad en materia de admisión a las universidades, podrán examinarse de materias de la evaluación de Bachillerato atendiendo a la regulación específica de las universidades para la admisión de este tipo de alumnado.
 
-2. Asimismo, las universidades podrán acordar con la UNED la gestión de sus procedimientos de admisión, que se realizarán de acuerdo con los criterios de valoración establecidos en el Real Decreto 412/2014, de 6 de junio.
+2. Asimismo, las universidades podrán acordar con la UNED la gestión de sus procedimientos de admisión, que se realizarán de acuerdo con los criterios de valoración establecidos en el [Real Decreto 412/2014](../03_ordenacion_curricular_y_ensenanzas/RD412_2014_establece_normativa_basica_procedimientos_admision_ensenanzas.md), de 6 de junio.
 
 3. Las pruebas de admisión organizadas por la UNED, se celebrarán en los centros de examen de la UNED, de acuerdo con los criterios que esta determine. Asimismo, siempre que el número de estudiantes así lo justifique, la UNED podrá organizar las pruebas en las embajadas u oficinas diplomáticas de España en el extranjero, previo acuerdo con la embajada o representación diplomática de España en dicho país.
 

@@ -32,8 +32,21 @@ relaciones:
   - norm-and-d-21-2020
   - norm-and-o-20-2-2020
   - norm-es-lo-2-2006
+fundamentos_derecho:
+- norma_id: norm-and-l17-2007
+- norma_id: norm-and-o17-4-2008-pruebas-acceso-artes-plasticas-diseno-andalucia
+- norma_id: norm-and-disp-4605
+- norma_id: norm-and-d-21-2020
+- norma_id: norm-and-o-20-2-2020
+- norma_id: norm-and-r27-1-2026-ratios-procedimiento-admision-alumnado-infantil-andalucia-2026-2027
+- norma_id: norm-and-d147-2002-atencion-educativa-alumnado-necesidades-educativas-especiales-andalucia
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-rd-2377-1985
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
+- norma_id: norm-es-2007-10487
 ---
-
 # Instrucciones de 23 de febrero de 2026, de la Viceconsejería, sobre los procedimientos de admisión y matriculación del alumnado en los centros docentes sostenidos con fondos públicos para el curso escolar 2026/27.
 
 ## Preámbulo
@@ -89,12 +102,12 @@ PÁG. 1/32
   
 Segunda. Plazas escolares en centros docentes públicos. 
 La determinación de plazas escolares en los centros docentes públicos habrá de atenerse a la 
-programación de la red de centros a la que se refiere el artículo 4 del Decreto 21/2020, de 17 de febrero, 
+programación de la red de centros a la que se refiere el artículo 4 del [Decreto 21/2020](./D21_2020_criterios_admision_alumnado_centros_docentes_andalucia.md), de 17 de febrero, 
 por el que se regulan los criterios y el procedimiento de admisión del alumnado en los centros docentes 
 públicos y privados concertados para cursar las enseñanzas de segundo ciclo de educación infantil, 
 educación primaria, educación especial, educación secundaria obligatoria y bachillerato.
 Asimismo, la oferta de plazas escolares vacantes se realizará de conformidad con lo establecido 
-en el artículo 4 de la Orden de 20 de febrero de 2020, por la que se desarrolla el procedimiento de 
+en el artículo 4 de la [Orden de 20 de febrero de 2020](./O20_2_2020_procedimiento_admision_alumnado_centros_docentes_andalucia.md), por la que se desarrolla el procedimiento de 
 admisión del alumnado en los centros docentes públicos y privados concertados para cursar las 
 enseñanzas de segundo ciclo de educación infantil, educación primaria, educación especial, educación 
 secundaria obligatoria y bachillerato.
@@ -104,9 +117,9 @@ docentes públicos y privados concertados para cursar las enseñanzas de segundo
 Infantil, Educación Primaria, Educación Especial, Educación Secundaria Obligatoria y Bachillerato, 
 establece en su apartado 2 que la Dirección General competente en materia de planificación educativa 
 fijará mediante resolución anual, previa al inicio del procedimiento ordinario de admisión, dentro de los 
-límites establecidos en el artículo 5.1 del Decreto 21/2020, de 17 de febrero, el número de alumnos y 
+límites establecidos en el artículo 5.1 del [Decreto 21/2020](./D21_2020_criterios_admision_alumnado_centros_docentes_andalucia.md), de 17 de febrero, el número de alumnos y 
 alumnas por unidad escolar que se utilizará en el proceso de admisión para cada curso escolar. 
-En este sentido, mediante Resolución de 27 de enero de 2026, se resuelve que la ratio por 
+En este sentido, mediante [Resolución de 27 de enero de 2026](./R27_1_2026_ratios_procedimiento_admision_alumnado_infantil_andalucia_2026_2027.md), se resuelve que la ratio por 
 unidad en el procedimento de admisión del primer curso del segundo ciclo de Educación Infantil será 
 de 22 alumnos o alumnas por grupo, aplicable a partir del curso escolar 2026/2027. 
 Por razones de organización y de conformidad con lo que establece el artículo 18.3 del Decreto 
@@ -120,7 +133,7 @@ En el caso de atender en una misma unidad alumnado de diferentes cursos académi
 mismo ciclo o etapa educativa, que incluya el primer curso del segundo ciclo de educación infantil, el 
 número máximo de alumnos y alumnas por unidad será de 13. En el supuesto de unidades que incluyan 
 cursos académicos de ciclos o etapas distintas, dicho número se reducirá a 11, de conformidad con la 
-Resolución de 27 de enero de 2026, de la Dirección General de Planificación, Centros y Enseñanza 
+[Resolución de 27 de enero de 2026](./R27_1_2026_ratios_procedimiento_admision_alumnado_infantil_andalucia_2026_2027.md), de la Dirección General de Planificación, Centros y Enseñanza 
 Concertada, por la que se establece la ratio por unidad en el procedimiento de admisión del primer 
 curso del segundo ciclo de educación infantil (tres años) en los centros educativos sostenidos con 
 fondos públicos en el curso escolar 2026/2027.
@@ -159,7 +172,7 @@ residencia escolar o escuela-hogar.
 antes de proceder al aumento del número de unidades y de recursos para la integración autorizados en 
 un centro docente, deberán realizarse las actuaciones necesarias para ajustar los recursos disponibles 
 en la localidad o ámbito territorial a la demanda existente considerando lo establecido en los apartados 
-3 y 4 del artículo 33 del Decreto 21/2020, de 17 de febrero.
+3 y 4 del artículo 33 del [Decreto 21/2020](./D21_2020_criterios_admision_alumnado_centros_docentes_andalucia.md), de 17 de febrero.
 4. En relación con las enseñanzas de bachillerato, cuando la demanda para el primer curso no 
 alcance los diez alumnos y/o alumnas, la persona titular de la Delegación Territorial competente en 
 materia de educación comunicará a la dirección del centro docente público la retirada de la referida 
@@ -193,14 +206,14 @@ Cuarta. Plazas escolares en centros docentes privados concertados.
 1. La determinación de plazas escolares en los centros docentes privados concertados habrá de 
 atenerse a lo establecido en su régimen de autorización y al número de unidades concertadas previstas, 
 de acuerdo con la programación llevada a cabo y de conformidad con lo establecido en el artículo 4 del 
-Decreto 21/2020, de 17 de febrero.
+[Decreto 21/2020](./D21_2020_criterios_admision_alumnado_centros_docentes_andalucia.md), de 17 de febrero.
 2. Sin perjuicio de la resolución de la convocatoria de conciertos educativos para el curso 
 escolar 2026/27, la Dirección General competente en materia de planificación comunicará a las 
 Delegaciones Territoriales competentes en materia de educación, antes del comienzo del proceso de 
 admisión del alumnado, el número de unidades por curso a ofertar en dicho proceso para el segundo 
 ciclo de educación infantil, educación primaria, educación especial, educación secundaria obligatoria y 
 bachillerato. Sobre este número de unidades se establecerá el de plazas escolares vacantes de 
-conformidad con lo establecido en el artículo 4 de la Orden de 20 de febrero de 2020.
+conformidad con lo establecido en el artículo 4 de la [Orden de 20 de febrero de 2020](./O20_2_2020_procedimiento_admision_alumnado_centros_docentes_andalucia.md).
 3. Las Delegaciones Territoriales competentes en materia de educación comunicarán a la 
 Dirección General competente en materia de planificación, una vez finalizado el plazo de presentación 
 de solicitudes, en qué centros docentes privados concertados el alumnado estimado para los grupos de 
@@ -210,7 +223,7 @@ autorización de la Dirección General competente en materia de planificación q
 plantear otras alternativas para la adecuada escolarización en esta etapa educativa del alumnado 
 afectado.
 4. En todo caso, de acuerdo con lo dispuesto en el artículo 16 del Reglamento de Normas 
-Básicas sobre Conciertos Educativos, aprobado por el Real Decreto 2377/1985, de 18 de diciembre, los 
+Básicas sobre Conciertos Educativos, aprobado por el [Real Decreto 2377/1985](../../../estatal/02_gestion_y_administracion_centros/RD2377_1985_aprueba_reglamento_normas_basicas_conciertos_educativos.md), de 18 de diciembre, los 
 centros docentes privados concertados deberán tener una relación media de alumnos y alumnas por 
 unidad escolar no inferior a la determinada por las Delegaciones Territoriales competentes en materia 
 de educación, teniendo en cuenta la existente en los centros docentes públicos del municipio o, en su 
@@ -230,20 +243,20 @@ VERIFICACIÓN
 PÁG. 4/32
 
   
-hermanos y hermanas, en el marco de lo establecido en el artículo 11.2 del Decreto 21/2020, de 17 de 
+hermanos y hermanas, en el marco de lo establecido en el artículo 11.2 del [Decreto 21/2020](./D21_2020_criterios_admision_alumnado_centros_docentes_andalucia.md), de 17 de 
 febrero.
 2. Las Delegaciones Territoriales competentes en materia de educación o, en su caso, las 
 comisiones territoriales de garantías de admisión podrán autorizar la matriculación de hermanos y 
-hermanas en un mismo centro, en las condiciones establecidas en el artículo 51.5 del Decreto 21/2020, 
+hermanas en un mismo centro, en las condiciones establecidas en el artículo 51.5 del [Decreto 21/2020](./D21_2020_criterios_admision_alumnado_centros_docentes_andalucia.md), 
 de 17 de febrero, previa ponderación de las circunstancias que concurran en cada caso, siempre que no 
 se conculquen derechos de terceras personas participantes en el procedimiento de admisión y 
 respetando las ratios máximas establecidas para cada enseñanza en los apartados 1 y 2 del artículo 5 
-del Decreto 21/2020, de 17 de febrero.
-El incremento de plazas previsto en el artículo 5.2 del Decreto 21/2020 tiene carácter 
+del [Decreto 21/2020](./D21_2020_criterios_admision_alumnado_centros_docentes_andalucia.md), de 17 de febrero.
+El incremento de plazas previsto en el artículo 5.2 del [Decreto 21/2020](./D21_2020_criterios_admision_alumnado_centros_docentes_andalucia.md) tiene carácter 
 excepcional y no se aplicará de forma automática en los procedimientos extraordinarios de admisión, 
 cuya oferta de plazas se determinará conforme a la ratio establecida para cada enseñanza y, en el caso 
 de primer curso del segundo ciclo de educación infantil (tres años), conforme a la ratio ajustada por la 
-citada resolución de 27 de enero de 2026.
+citada [resolución de 27 de enero de 2026](./R27_1_2026_ratios_procedimiento_admision_alumnado_infantil_andalucia_2026_2027.md).
 La admisión posterior de alumnado en los supuestos previstos en el artículo 51.5 del Decreto 
 21/2020 se podrá realizar hasta un 10% adicional sobre la ratio utilizada en el procedimiento de 
 admisión.
@@ -252,13 +265,13 @@ Sexta. Información del alumnado matriculado.
 que le sea de aplicación.
 2. En el caso de los colegios públicos rurales, la persona que ejerce la dirección del centro 
 docente registrará la matrícula del alumnado en las unidades autorizadas en cada una de las sedes.
-3. De acuerdo con  el artículo 27.6 de la citada Orden de 20 de febrero de 2020, una vez 
+3. De acuerdo con  el artículo 27.6 de la citada [Orden de 20 de febrero de 2020](./O20_2_2020_procedimiento_admision_alumnado_centros_docentes_andalucia.md), una vez 
 finalizado cada uno de los períodos de matriculación del alumnado en el plazo de dos días hábiles, la 
 dirección del centro docente público o la persona representante de la titularidad del centro docente 
 privado concertado firmará la correspondiente certificación de número de matrículas.
 Séptima. Plazas escolares vacantes tras la matriculación del alumnado.
-1. Conforme a lo establecido en los artículos 50.1 del Decreto 21/2020, de 17 de febrero, y 28.1 
-de la Orden de 20 de febrero de 2020, las plazas escolares que resulten vacantes una vez finalizado el 
+1. Conforme a lo establecido en los artículos 50.1 del [Decreto 21/2020](./D21_2020_criterios_admision_alumnado_centros_docentes_andalucia.md), de 17 de febrero, y 28.1 
+de la [Orden de 20 de febrero de 2020](./O20_2_2020_procedimiento_admision_alumnado_centros_docentes_andalucia.md), las plazas escolares que resulten vacantes una vez finalizado el 
 plazo de matriculación del alumnado serán publicadas en el tablón de anuncios del centro. En dicha 
 publicación, que servirá de notificación a las personas interesadas, se hará constar que en la 
 adjudicación de dichas plazas tienen prioridad los alumnos y alumnas que resultaron no admitidos en 
@@ -284,7 +297,7 @@ figuran en la resolución de admisión, disponiendo esta de un plazo de dos día
 formalización de la matrícula.
 3. Una vez agotada la lista de solicitantes no admitidos o, en su defecto, después del inicio 
 efectivo de las clases, las nuevas vacantes que pudieran resultar podrán ser adjudicadas en el 
-procedimiento extraordinario al que se refiere el artículo 51 del Decreto 21/2020, de 17 de febrero. El 
+procedimiento extraordinario al que se refiere el artículo 51 del [Decreto 21/2020](./D21_2020_criterios_admision_alumnado_centros_docentes_andalucia.md), de 17 de febrero. El 
 centro podrá matricular a este alumnado, previa grabación de la correspondiente solicitud para el 
 citado procedimiento en Séneca y únicamente en el caso de que esté habilitada la opción de “Admitida 
 por el centro” o previa resolución de Admisión firmada por el Delegado o Delegada Territorial. En el caso 
@@ -339,7 +352,7 @@ correspondan a cada centro docente.
 infantil, educación primaria, educación secundaria obligatoria o en bachillerato, en el caso de optar por 
 no cursar enseñanzas de religión, recibirán la atención establecida en la normativa de aplicación.
 Novena. Admisión del alumnado de residencias escolares y de escuelas hogar.
-En virtud de lo establecido en la disposición adicional segunda del Decreto 21/2020, de 17 de 
+En virtud de lo establecido en la disposición adicional segunda del [Decreto 21/2020](./D21_2020_criterios_admision_alumnado_centros_docentes_andalucia.md), de 17 de 
 febrero, las Delegaciones Territoriales competentes en materia de educación en coordinación con las 
 personas que ejercen la dirección de las residencias escolares y escuelas hogar, reducirán del total de 
 plazas escolares vacantes en los centros docentes públicos o privados concertados en cuyas áreas de 
@@ -347,7 +360,7 @@ influencia quede comprendido el domicilio de dichas residencias o escuelas hogar
 suficiente para garantizar la escolarización en los mismos del alumnado residente.
 Décima. Puntuación por haber estado matriculado en el primer ciclo de la educación infantil.
 A los efectos de obtener en el procedimiento ordinario de admisión la puntuación recogida en 
-el artículo 27 del Decreto 21/2020, de 17 de febrero, por haber estado matriculado en el primer ciclo de 
+el artículo 27 del [Decreto 21/2020](./D21_2020_criterios_admision_alumnado_centros_docentes_andalucia.md), de 17 de febrero, por haber estado matriculado en el primer ciclo de 
 la educación infantil, en un centro autorizado para ello, desde el inicio del curso escolar anterior a aquel 
 para el que se solicita la admisión, se considerarán todas aquellas certificaciones cuya fecha de 
 matriculación no sea posterior al 15 de septiembre del curso que corresponda.
@@ -376,8 +389,8 @@ II. ESCOLARIZACIÓN DEL ALUMNADO CON NECESIDADES EDUCATIVAS ESPECIALES.
 Decimosegunda. Escolarización del alumnado con necesidades educativas especiales en centros 
 docentes públicos y privados concertados.
 1. La escolarización del alumnado que presente necesidades educativas especiales, en los 
-términos establecidos en el artículo 73 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, y el 
-artículo 113.2 de la Ley 17/2007, de 10 de diciembre, de Educación de Andalucía, se resolverá, de 
+términos establecidos en el artículo 73 de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, y el 
+artículo 113.2 de la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre, de Educación de Andalucía, se resolverá, de 
 acuerdo con lo establecido en la normativa vigente que le sea de aplicación, en función de las plazas 
 escolares vacantes, de las características de cada alumno o alumna, de la especialización de los centros 
 docentes y del tipo de recursos con que cuenten.
@@ -397,7 +410,7 @@ f)
 Unidades que escolarizan alumnado de diferentes discapacidades: 5 
 g)
 Programas de Transición a la Vida Adulta y Laboral: 8
-3. De acuerdo con lo recogido en el artículo 15 del Decreto 147/2002, de 14 de mayo, por el que 
+3. De acuerdo con lo recogido en el artículo 15 del [Decreto 147/2002](../06_atencion_diversidad_y_orientacion/D147_2002_atencion_educativa_alumnado_necesidades_educativas_especiales_andalucia.md), de 14 de mayo, por el que 
 se establece la ordenación de la atención educativa a los alumnos y alumnas con necesidades 
 educativas especiales asociadas a sus capacidades personales, las modalidades de escolarización para 
 este alumnado serán las siguientes:
@@ -441,11 +454,11 @@ promocione desde la educación primaria, el Equipo de Orientación Educativa pro
 del dictamen sobre la modalidad de escolarización adoptada y elaborará otro actualizado, teniendo en 
 cuenta el resultado de la evaluación continua, la revisión conjunta de cada caso por dicho Equipo y el 
 informe del profesorado que lo ha atendido en el último curso.
-7. De acuerdo con el Decreto 147/2002, de 14 de mayo, el alumnado con necesidades 
-educativas especiales, a que se refiere el artículo 73 de la Ley Orgánica 2/2006, de 3 de mayo, y el 
-artículo 113.2 de la Ley 17/2007, de 10 de diciembre, podrá escolarizarse en los centros docentes de 
+7. De acuerdo con el [Decreto 147/2002](../06_atencion_diversidad_y_orientacion/D147_2002_atencion_educativa_alumnado_necesidades_educativas_especiales_andalucia.md), de 14 de mayo, el alumnado con necesidades 
+educativas especiales, a que se refiere el artículo 73 de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, y el 
+artículo 113.2 de la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre, podrá escolarizarse en los centros docentes de 
 educación primaria hasta los catorce años de edad.
-8. De acuerdo con el artículo 74.1 de la Ley Orgánica 2/2006, de 3 de mayo, la escolarización del 
+8. De acuerdo con el artículo 74.1 de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, la escolarización del 
 alumnado con necesidades educativas especiales en los centros docentes específicos de educación 
 especial y cursando la enseñanza básica en la modalidad de aula específica de educación especial en 
 los centros docentes ordinarios, podrá extenderse hasta los veintiún años. A tales efectos se entenderá 
@@ -487,7 +500,7 @@ alumnado con trastornos del espectro autista, podrán especializar determinadas 
 educación especial en centros docentes de educación primaria o de educación secundaria.
 2. En el procedimiento extraordinario de admisión, las Delegaciones Territoriales competentes 
 en materia de educación llevarán a cabo la escolarización del alumnado con necesidades educativas 
-especiales de conformidad con lo que se establece en el artículo 51 del Decreto 21/2020, de 17 de 
+especiales de conformidad con lo que se establece en el artículo 51 del [Decreto 21/2020](./D21_2020_criterios_admision_alumnado_centros_docentes_andalucia.md), de 17 de 
 febrero. Este proceso requerirá de la coordinación entre los servicios competentes en materia de 
 escolarización, de ordenación educativa y, en su caso, del servicio de inspección educativa, siendo 
 fundamental la realización del dictamen de escolarización con anterioridad a su matrícula en el centro, 
@@ -507,10 +520,10 @@ III. ESCOLARIZACIÓN DEL ALUMNADO EN CENTROS DOCENTES BILINGÜES O PLURILINGÜES
 Decimoquinta. Alumnado de centros bilingües y plurilingües.
 1. El alumnado que inicie enseñanzas bilingües en un centro bilingüe cuyas líneas sean todas 
 bilingües, permanecerá con carácter general en el programa hasta la finalización de la etapa, siempre 
-que no se produzca un cambio de centro, de acuerdo con la Orden de 28 de junio de 2011, por la que se 
+que no se produzca un cambio de centro, de acuerdo con la [Orden de 28 de junio de 2011](../03_ordenacion_curricular_y_ensenanzas/O28_6_2011_regulacion_ensenanza_bilingue_andalucia.md), por la que se 
 regula la enseñanza bilingüe en los centros docentes de la Comunidad Autónoma de Andalucía.
 2. Cuando el centro docente no sea completamente bilingüe, la admisión en el programa 
-bilingüe se regirá por la disposición transitoria primera de la citada Orden de 28 de junio de 2011.
+bilingüe se regirá por la disposición transitoria primera de la citada [Orden de 28 de junio de 2011](../03_ordenacion_curricular_y_ensenanzas/O28_6_2011_regulacion_ensenanza_bilingue_andalucia.md).
 CONSEJERÍA DE DESARROLLO EDUCATIVO Y
 FORMACIÓN PROFESIONAL
 Viceconsejería
@@ -524,12 +537,12 @@ PÁG. 10/32
 
   
  
-3. De conformidad con lo establecido en el artículo 6.3 del Decreto 21/2020, de 17 de febrero, en 
+3. De conformidad con lo establecido en el artículo 6.3 del [Decreto 21/2020](./D21_2020_criterios_admision_alumnado_centros_docentes_andalucia.md), de 17 de febrero, en 
 el procedimiento de admisión tendrá prioridad el alumnado matriculado en centros adscritos. 
 4. En caso de que un alumno o alumna matriculado en un centro docente público cursando 
-enseñanzas bilingües en los términos establecidos en la citada Orden de 28 de junio de 2011, solicite 
+enseñanzas bilingües en los términos establecidos en la citada [Orden de 28 de junio de 2011](../03_ordenacion_curricular_y_ensenanzas/O28_6_2011_regulacion_ensenanza_bilingue_andalucia.md), solicite 
 plaza escolar en enseñanza bilingüe en el procedimiento extraordinario de admisión regulado en el 
-artículo 51 del Decreto 21/2020, de 17 de febrero, dirigirá preferentemente su solicitud a la 
+artículo 51 del [Decreto 21/2020](./D21_2020_criterios_admision_alumnado_centros_docentes_andalucia.md), de 17 de febrero, dirigirá preferentemente su solicitud a la 
 correspondiente Delegación Territorial competente en materia de educación. Al alumno o alumna se le 
 ofertarán las plazas escolares que queden vacantes en los centros docentes públicos autorizados como 
 bilingües más próximos al domicilio alegado en la solicitud.
@@ -537,7 +550,7 @@ Decimosexta. Acceso del alumnado al Programa de doble titulación Bachiller – 
 (Bachibac).
 Con la finalidad de garantizar el desarrollo del Programa de doble titulación Bachiller –
 Baccalauréat (Bachibac), y de conformidad con lo establecido en el apartado 3 de la disposición 
-adicional primera de la Orden de 28 de junio de 2011, se tendrá en cuenta lo siguiente:
+adicional primera de la [Orden de 28 de junio de 2011](../03_ordenacion_curricular_y_ensenanzas/O28_6_2011_regulacion_ensenanza_bilingue_andalucia.md), se tendrá en cuenta lo siguiente:
 1. La solicitud de admisión en el primer curso del Programa de doble titulación Bachiller – 
 Baccalauréat, para el alumnado solicitante no matriculado en cuarto curso de educación secundaria 
 obligatoria en el instituto de educación secundaria autorizado para dicho Programa, se adjuntará al 
@@ -1434,7 +1447,7 @@ Vigesimonovena.
  
  
 1. Las pruebas de acceso a los ciclos formativos de grados medio y superior de artes plásticas y 
-diseño se llevarán a cabo de conformidad con lo establecido en la Orden de 17 de abril de 2008, por la 
+diseño se llevarán a cabo de conformidad con lo establecido en la [Orden de 17 de abril de 2008](../03_ordenacion_curricular_y_ensenanzas/O17_4_2008_pruebas_acceso_artes_plasticas_diseno_andalucia.md), por la 
 que se regulan la convocatoria, estructura y organización de las pruebas de acceso a ciclos formativos 
 de las enseñanzas profesionales de Artes Plásticas y Diseño, y se realizarán entre el 25 de junio y el 2 de 
 julio de 2026.
@@ -1452,7 +1465,7 @@ alumnado en las enseñanzas profesionales de artes plásticas y diseño y al cal
 sistema de información Séneca, que se establecerá por la Dirección General competente en materia de 
 ordenación a tal efecto.
 4. Los requisitos de acceso a las enseñanzas profesionales de artes plásticas y diseño son los 
-establecidos en el artículo 14 y la disposición adicional cuarta del Real Decreto 596/2007 de acuerdo con 
+establecidos en el artículo 14 y la disposición adicional cuarta del [Real Decreto 596/2007](../../../estatal/05_alumnado_y_servicios_escolares/RD596_2007_establece_ordenacion_general_ensenanzas_profesionales_artes.md) de acuerdo con 
 la redacción dada por el Real Decreto 628/2022, de 26 de julio, por el que se modifican varios reales 
 decretos para la aplicación de la Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la Ley 
 Orgánica 2/2006, de 3 de mayo, de Educación, a las enseñanzas artísticas y las enseñanzas deportivas, y 
@@ -1536,7 +1549,7 @@ Parlamento Europeo y del Consejo de 27 de abril de 2016, relativo a la protecci�
 en lo que respecta al tratamiento de datos personales y a la libre circulación de estos datos y por el que 
 se deroga la Directiva 95/46/CE (Reglamento General de Protección de Datos), en la Ley Orgánica 
 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, y en 
-la disposición adicional vigesimotercera de la Ley Orgánica 2/2006, de 3 de mayo.
+la disposición adicional vigesimotercera de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo.
 Trigesimoséptima. Interpretación.
 Se autoriza a los órganos directivos dependientes de esta Consejería a interpretar el contenido 
 de las presentes instrucciones en el ámbito de sus respectivas competencias.
@@ -1567,5 +1580,5 @@ PÁG. 32/32
 
 ### Estructura y Concordancias Granulares
 - **Fundamentado en**: [**Decreto 21/2020 Criterios y Procedimiento Admisión Alumnado Andalucía**](D21_2020_criterios_admision_alumnado_centros_docentes_andalucia.md)
-- **Fundamentado en**: [**Orden de 20 de febrero de 2020 Procedimiento Admisión Alumnado Andalucía**](O20_2_2020_procedimiento_admision_alumnado_centros_docentes_andalucia.md)
+- **Fundamentado en**: [**[Orden de 20 de febrero de 2020](./O20_2_2020_procedimiento_admision_alumnado_centros_docentes_andalucia.md) Procedimiento Admisión Alumnado Andalucía**](O20_2_2020_procedimiento_admision_alumnado_centros_docentes_andalucia.md)
 - **Fundamentado en**: [**LO2_2006 Ley Orgánica de Educación**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)

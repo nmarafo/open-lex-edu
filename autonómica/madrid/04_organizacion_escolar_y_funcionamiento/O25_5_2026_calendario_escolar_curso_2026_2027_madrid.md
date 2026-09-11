@@ -1,10 +1,13 @@
 ---
 id: norm-mad-o-25-5-2026
 codigo_sintetizado: O25_5_2026 Calendario Escolar Curso 2026-2027 Madrid
-titulo: Orden de 25 de mayo de 2026, de la Consejería de Educación, Ciencia y Universidades, por la que se establece el calendario escolar para el curso 2026/2027 en los centros docentes no universitarios de la Comunidad de Madrid.
+titulo: Orden de 25 de mayo de 2026, de la Consejería de Educación, Ciencia y Universidades,
+  por la que se establece el calendario escolar para el curso 2026/2027 en los centros
+  docentes no universitarios de la Comunidad de Madrid.
 jurisdiccion: Madrid
 ambito: Autonómico
-organo_emisor: Consejería de Educación, Ciencia y Universidades de la Comunidad de Madrid
+organo_emisor: Consejería de Educación, Ciencia y Universidades de la Comunidad de
+  Madrid
 tipo_disposicion: Orden
 numero_disposicion: 25/05/2026
 fecha_disposicion: '2026-05-25'
@@ -34,8 +37,9 @@ relaciones:
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-l-39-2015
   - norma_id: norm-es-l-40-2015
+fundamentos_derecho:
+- norma_id: norm-mad-d65-2022
 ---
-
 # Orden de 25 de mayo de 2026, por la que se establece el calendario escolar para el curso 2026/2027 en los centros docentes no universitarios de la Comunidad de Madrid.
 
 ## Preámbulo

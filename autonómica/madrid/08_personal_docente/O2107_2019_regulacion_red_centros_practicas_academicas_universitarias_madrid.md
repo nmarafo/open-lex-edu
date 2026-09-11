@@ -27,8 +27,17 @@ tags:
 - tutores_practicas
 - formacion_inicial
 - madrid
+fundamentos_derecho:
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-es-2015-8470
+- norma_id: norm-es-l-39-2015
+- norma_id: norm-es-l-40-2015
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-rd-1834-2008
+- norma_id: norm-es-2016-3229
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
 ---
-
 # Orden 2107/2019, de 4 de julio, de la Consejería de Educación e Investigación, por la que se establece el procedimiento para la realización del Prácticum del Máster en Profesorado de Educación Secundaria Obligatoria y Bachillerato, Formación Profesional y Enseñanzas de Idiomas y de la Formación equivalente durante el curso 2019-2020 en centros de la Comunidad de Madrid
 
 ## Preámbulo
@@ -41,12 +50,12 @@ por la que se establece el procedimiento para la realización del Prácticum del
 Máster en Profesorado de Educación Secundaria Obligatoria y Bachillerato,
 Formación Profesional y Enseñanzas de Idiomas y de la Formación equivalente
 durante el curso 2019-2020 en centros de la Comunidad de Madrid.
-La Ley Orgánica 2/2006, de 3 de mayo, establece en los artículos 94, 95 y 97 que para
+La [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, establece en los artículos 94, 95 y 97 que para
 impartir enseñanza en los niveles de Educación Secundaria Obligatoria, Bachillerato, For-
 mación Profesional y Enseñanza de Idiomas será necesario estar en posesión de la forma-
 ción pedagógica y didáctica de nivel de Postgrado, de acuerdo con lo dispuesto en el artícu-
 lo 100 de la citada Ley.
-El Real Decreto 1834/2008, de 8 de noviembre, modificado por el Real Decre-
+El [Real Decreto 1834/2008](../../../estatal/02_gestion_y_administracion_centros/RD1834_2008_definen_condiciones_formacion_ejercicio_docencia_educacion.md), de 8 de noviembre, modificado por el Real Decre-
 to 1146/2011, de 29 de julio, por el que se definen las condiciones de formación para el ejer-
 cicio de la docencia en la Educación Secundaria Obligatoria, el Bachillerato, la Formación
 Profesional y las Enseñanzas de Régimen Especial y se establecen las especialidades de los
@@ -60,15 +69,15 @@ nisterial ECI/3858/2007, de 27 de diciembre, modificada por la Orden EDU/3498/20
 de 16 de diciembre, ha determinado los requisitos para la verificación de los títulos univer-
 sitarios oficiales que habilitan para el ejercicio de las profesiones de Profesor de Educación
 Secundaria Obligatoria y Bachillerato, Formación Profesional y Enseñanza de Idiomas.
-Asimismo, la disposición adicional primera del Real Decreto 1834/2008, de 8 de no-
+Asimismo, la disposición adicional primera del [Real Decreto 1834/2008](../../../estatal/02_gestion_y_administracion_centros/RD1834_2008_definen_condiciones_formacion_ejercicio_docencia_educacion.md), de 8 de no-
 viembre, preceptúa que la formación pedagógica y didáctica del profesorado que no puede
 acceder a los estudios de Máster por razones derivadas de su titulación, se acreditará me-
-diante una formación equivalente a la exigida en el artículo 100 de la Ley Orgánica 2/2006,
+diante una formación equivalente a la exigida en el artículo 100 de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md),
 de 3 de mayo. En este sentido, la Orden EDU/2645/2011, de 23 de septiembre, modificada
 por la Orden ECD/1058/2013, establece la Formación equivalente a la formación pedagó-
 gica y didáctica exigible para aquellas personas que, estando en posesión de una titulación
 declarada equivalente a efectos de docencia, no pueden realizar los estudios de máster, con-
-forme a lo establecido en el artículo 100 de la Ley Orgánica 2/2006, de 3 de mayo.
+forme a lo establecido en el artículo 100 de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo.
 Tanto para el Máster en Formación de Profesorado como para la Formación equiva-
 lente se establece una fase de Prácticum obligatoria que se realizará en colaboración con las
 instituciones educativas establecidas mediante convenios entre las Universidades y las Ad-
@@ -84,7 +93,7 @@ tica docente directa y en la orientación psicopedagógica, permitiéndoles adem
 aspectos pedagógicos, organizativos y de funcionamiento de los centros, con el apoyo y bajo
 la tutela de Profesores en ejercicio que reúnen las características y preparación adecuadas.
 Por otro lado, en la medida que el Prácticum lo realizan los estudiantes universitarios
-en centros educativos no universitarios, debe considerase lo dispuesto en Ley 26/2015, de 28
+en centros educativos no universitarios, debe considerase lo dispuesto en [Ley 26/2015](../../../estatal/01_marco_normativo_general_y_organico/L26_2015_modificacion_sistema_proteccion_infancia_adolescencia.md), de 28
 de julio, de modificación del sistema de protección a la infancia y a la adolescencia respec-
 to al acceso y ejercicio de las profesiones, oficios y actividades que impliquen contacto ha-
 
@@ -129,8 +138,8 @@ Centros de prácticas
 Podrán ser centros de prácticas del alumnado del Máster en Profesorado de Edu-
 cación Secundaria Obligatoria y Bachillerato, Formación Profesional y Enseñanzas de Idio-
 mas los centros educativos de la Comunidad de Madrid en los que se impartan todas o al-
-guna de dichas enseñanzas en los términos establecidos en la Ley Orgánica 2/2006, de 3 de
-mayo, de Educación, modificada por la Ley Orgánica 8/2013, de 9 de diciembre, para la
+guna de dichas enseñanzas en los términos establecidos en la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de
+mayo, de Educación, modificada por la [Ley Orgánica 8/2013](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md), de 9 de diciembre, para la
 mejora de la calidad educativa. Los alumnos de la Formación equivalente al Máster reali-
 zarán las prácticas en los centros educativos de la Comunidad de Madrid que impartan en-
 señanzas de Formación Profesional.
@@ -304,9 +313,9 @@ La Comisión de Seguimiento se reunirá cuantas veces se estime conveniente y, a
 menos, preceptivamente, antes del comienzo y a la finalización del Prácticum.
 5.
 Sin perjuicio de las peculiaridades contenidas en la presente orden, el funciona-
-miento de la Comisión de Seguimiento se ajustará a lo dispuesto en la ley 39/2015, de 1 de
+miento de la Comisión de Seguimiento se ajustará a lo dispuesto en la [ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de
 octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, y a la
-Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público.
+[Ley 40/2015](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md), de 1 de octubre, de Régimen Jurídico del Sector Público.
 Séptimo
 Comisión Rectora
 1.
@@ -338,9 +347,9 @@ para la designación de centros de prácticas a que se refiere el apartado terce
 esta orden.
 5.
 Sin perjuicio de las peculiaridades contenidas en la presente orden, el funcionamien-
-to de la Comisión Rectora se ajustará a lo dispuesto en la Ley 39/2015, de 1 de oc-
+to de la Comisión Rectora se ajustará a lo dispuesto en la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de oc-
 tubre, del Procedimiento Administrativo Común de las Administraciones Públicas,
-y a la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público.
+y a la [Ley 40/2015](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md), de 1 de octubre, de Régimen Jurídico del Sector Público.
 Octavo
 Desarrollo del Prácticum
 1.
@@ -357,7 +366,7 @@ sión Rectora, que en ningún caso afectará al normal funcionamiento de los mis
 4.
 Durante el período de prácticas, la universidad garantizará la cobertura de la res-
 ponsabilidad civil que pueda derivarse de las actuaciones de los estudiantes en prácticas, así
-como el cumplimiento de la Ley 26/2015, de 28 de julio, de modificación del sistema de
+como el cumplimiento de la [Ley 26/2015](../../../estatal/01_marco_normativo_general_y_organico/L26_2015_modificacion_sistema_proteccion_infancia_adolescencia.md), de 28 de julio, de modificación del sistema de
 protección a la infancia y a la adolescencia respecto al acceso y ejercicio de las profesiones,
 oficios y actividades que impliquen contacto habitual con menores.
 5.

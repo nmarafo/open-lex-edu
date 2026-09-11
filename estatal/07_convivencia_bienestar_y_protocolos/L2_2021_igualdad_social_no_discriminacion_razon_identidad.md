@@ -111,9 +111,19 @@ relaciones:
   - norma_id: norm-es-lo-1-1996
   - norma_id: norm-es-lo-3-2018
   - norma_id: norm-es-2010-4518
+fundamentos_derecho:
+- norma_id: norm-and-dl2-2021-procedimientos-admision-alumnado-centros-docentes-andalucia
+- norma_id: norm-can-l-1-1997
+- norma_id: norm-can-lo-1-2018
+- norma_id: norm-can-l-16-2003
+- norma_id: norm-es-l-39-2015
+- norma_id: norm-es-l-40-2015
+- norma_id: norm-es-lo-1-1996
+- norma_id: norm-es-2015-8222
+- norma_id: norm-es-lo-3-2018
+- norma_id: norm-es-2010-4518
 ---
-
-# Ley 2/2021, de 7 de junio, de igualdad social y no discriminación por razón de identidad de género, expresión de género y características sexuales.
+# [Ley 2/2021](../../autonómica/andalucía/05_alumnado_y_servicios_escolares/DL2_2021_procedimientos_admision_alumnado_centros_docentes_andalucia.md), de 7 de junio, de igualdad social y no discriminación por razón de identidad de género, expresión de género y características sexuales.
 
 ## Preámbulo
 
@@ -121,7 +131,7 @@ relaciones:
 
 El concepto de género en el ordenamiento jurídico canario, tal y como recoge la vigente [Ley 1/2010](L1_2010_canaria_igualdad_entre_mujeres_hombres.md), de 26 de febrero, Canaria de Igualdad entre Mujeres y Hombres, es una construcción social y cultural marcada por las desigualdades y que viene determinada por una concepción tradicional en el contexto jurídico occidental de la división de las personas en dos categorías diferentes en base a las características genitales de nacimiento; de esta forma, las personas nacidas con genitalidad de hembra han pasado a ser socializadas como mujeres, del mismo modo que las personas nacidas con genitalidad de macho han pasado a ser socializadas como hombres. A partir de ahí, esta diferenciación binaria entre dos sexos ha servido como piedra angular de un sistema relacional jerarquizado y basado en la supremacía de los hombres con respecto a las mujeres que obvia el hecho de que la naturaleza humana no solo va más allá de la mera apreciación visual de los órganos genitales externos en el momento del nacimiento, sino que, como estableció el Tribunal Europeo de Derechos Humanos, tras una decisión adoptada por unanimidad en dos importantes sentencias de 2002, no es un concepto puramente biológico, sino, sobre todo, psicosocial.
 
-Como la propia Ley 1/2010 reconoce, el género presenta variaciones de concepción en diferentes culturas y en diferentes momentos históricos dentro de una misma cultura, y, así, es una realidad multifacética que incluye la vivencia interna e individual del género tal como cada persona la siente –identidad de género–, así como la forma en la que cada persona comunica o expresa ante los demás su identidad de género –expresión de género–, con independencia de sus características sexuales, tanto las presentes en el momento del nacimiento, y no siempre visibles a simple vista, como las resultantes de un complejo proceso de desarrollo sexual a varios niveles –cromosómico, gonadal, hormonal, genital y cerebral–, que la ciencia, primero, y la legislación, después, han ido incorporando en un proceso cada vez más rápido respecto a centurias y décadas pasadas.
+Como la propia [Ley 1/2010](./L1_2010_canaria_igualdad_entre_mujeres_hombres.md) reconoce, el género presenta variaciones de concepción en diferentes culturas y en diferentes momentos históricos dentro de una misma cultura, y, así, es una realidad multifacética que incluye la vivencia interna e individual del género tal como cada persona la siente –identidad de género–, así como la forma en la que cada persona comunica o expresa ante los demás su identidad de género –expresión de género–, con independencia de sus características sexuales, tanto las presentes en el momento del nacimiento, y no siempre visibles a simple vista, como las resultantes de un complejo proceso de desarrollo sexual a varios niveles –cromosómico, gonadal, hormonal, genital y cerebral–, que la ciencia, primero, y la legislación, después, han ido incorporando en un proceso cada vez más rápido respecto a centurias y décadas pasadas.
 
 En efecto, la realidad de que la experiencia de género interna e individual de cada persona puede o no corresponderse con el sexo asignado al nacer –identidad sexual–, al igual que el sentido personal del cuerpo y otras expresiones de género, ha chocado tradicionalmente con diversos grados de rechazo y represión de cualquier atisbo de diversidad en las expresiones de identidad de género, estigmatizándolas, sucesivamente, desde las etiquetas del pecado, del crimen y de la enfermedad mental y el trastorno.
 
@@ -163,7 +173,7 @@ Se entiende que para conseguir, como se pretende, que el estatuto jurídico de l
 
 **IV**
 
-La presente ley se dicta al amparo de distintos títulos competenciales contemplados en el nuevo Estatuto de Autonomía de Canarias vigente tras la reforma efectuada en virtud de la Ley Orgánica 1/2018, de 5 de noviembre, y constituye un ejemplo de norma legislativa trasversal, ya que abarca diversos títulos competenciales asumidos por Canarias. Así, y en primer lugar, se sustenta en un bloque de competencias exclusivas, tales como cultura y patrimonio cultural (artículos 136 y 137 EAC); deportes y actividades de ocio (artículo 138 EAC); organización, funcionamiento interno, evaluación, inspección y control de los centros, servicios y establecimientos sanitarios y en la atención sociosanitaria, incluida la inmigración (artículos 141 y 144 EAC); servicios sociales (artículo 142 EAC); políticas de género (artículo 145 EAC); juventud (artículo 146 EAC); protección de menores y promoción de las familias (artículo 147 EAC); y, finalmente, policía autonómica, protección civil y sistema penitenciario.
+La presente ley se dicta al amparo de distintos títulos competenciales contemplados en el nuevo Estatuto de Autonomía de Canarias vigente tras la reforma efectuada en virtud de la [Ley Orgánica 1/2018](../../autonómica/canarias/01_marco_normativo_general_y_organico/LO1_2018_reforma_estatuto_autonomia_canarias.md), de 5 de noviembre, y constituye un ejemplo de norma legislativa trasversal, ya que abarca diversos títulos competenciales asumidos por Canarias. Así, y en primer lugar, se sustenta en un bloque de competencias exclusivas, tales como cultura y patrimonio cultural (artículos 136 y 137 EAC); deportes y actividades de ocio (artículo 138 EAC); organización, funcionamiento interno, evaluación, inspección y control de los centros, servicios y establecimientos sanitarios y en la atención sociosanitaria, incluida la inmigración (artículos 141 y 144 EAC); servicios sociales (artículo 142 EAC); políticas de género (artículo 145 EAC); juventud (artículo 146 EAC); protección de menores y promoción de las familias (artículo 147 EAC); y, finalmente, policía autonómica, protección civil y sistema penitenciario.
 
 En segundo lugar, en relación con las competencias de desarrollo legislativo y ejecución en materia de educación (artículo 133 EAC) y de enseñanza universitaria (artículo 134 EAC); e, igualmente, en materia de medios de comunicación social y audiovisual (artículo 164 EAC) y de cooperación internacional al desarrollo (artículos 195.2 y 198.3).
 
@@ -399,7 +409,7 @@ Dicho comité podrá elevar conclusiones o propuestas de mejora y adaptación a 
 
 2. La Comunidad Autónoma de Canarias garantizará, mediante la oportuna regulación, la efectividad de esos derechos en relación con los datos suministrados para el tratamiento a recibir por parte de las administraciones públicas canarias.
 
-3. La Comunidad Autónoma de Canarias facilitará a las personas trans e intersexuales el asesoramiento necesario para realizar los cambios oportunos en ficheros de organismos privados o de carácter estatal, de acuerdo con lo recogido en la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y Garantía de los Derechos Digitales, o normativa que la sustituya.
+3. La Comunidad Autónoma de Canarias facilitará a las personas trans e intersexuales el asesoramiento necesario para realizar los cambios oportunos en ficheros de organismos privados o de carácter estatal, de acuerdo con lo recogido en la [Ley Orgánica 3/2018](../02_gestion_y_administracion_centros/LO3_2018_proteccion_datos_personales_garantia_derechos_digitales.md), de 5 de diciembre, de Protección de Datos Personales y Garantía de los Derechos Digitales, o normativa que la sustituya.
 
 ## Capítulo II. Medidas generales relativas a la identidad y expresión de género, así como las características sexuales.
 
@@ -435,7 +445,7 @@ En el ámbito de la Administración pública de Canarias se impartirá la formac
 
 #### Artículo 13. Evaluación de impacto normativo sobre la identidad y expresión de género o las características sexuales.
 
-Las normas y resoluciones de la Comunidad Autónoma de Canarias incorporarán al informe de evaluación del impacto de género previsto en el artículo 6 de la Ley 1/2010, de 26 de febrero, canaria de igualdad entre mujeres y hombres, la evaluación del impacto sobre identidad y expresión de género y de diversidad sexual en el desarrollo de sus competencias para garantizar la integración del principio de igualdad y no discriminación por razón de identidad y expresión de género o de características sexuales.
+Las normas y resoluciones de la Comunidad Autónoma de Canarias incorporarán al informe de evaluación del impacto de género previsto en el artículo 6 de la [Ley 1/2010](./L1_2010_canaria_igualdad_entre_mujeres_hombres.md), de 26 de febrero, canaria de igualdad entre mujeres y hombres, la evaluación del impacto sobre identidad y expresión de género y de diversidad sexual en el desarrollo de sus competencias para garantizar la integración del principio de igualdad y no discriminación por razón de identidad y expresión de género o de características sexuales.
 
 #### Artículo 14. Medidas frente al daño moral por discriminación y resarcimiento.
 
@@ -697,11 +707,11 @@ a) La persona menor de edad recibirá información adaptada a su edad, madurez o
 
 b) La persona menor de edad tiene derecho a expresar su opinión siempre que tenga la madurez suficiente para estar en condiciones de formarse un juicio propio y, en todo caso, siempre que tenga doce años cumplidos.
 
-c) Sin perjuicio de lo dispuesto en el apartado anterior, cuando la persona menor de edad no sea capaz intelectual ni emocionalmente de comprender el alcance del tratamiento, podrá prestar el consentimiento su representante legal después de haber escuchado la opinión de la persona menor, conforme a lo dispuesto en el artículo 9 de la Ley Orgánica 1/1996, de 15 de enero, de Protección Jurídica del Menor, de Modificación parcial del Código Civil y de la Ley de Enjuiciamiento Civil, o normativa que en el futuro la sustituya.
+c) Sin perjuicio de lo dispuesto en el apartado anterior, cuando la persona menor de edad no sea capaz intelectual ni emocionalmente de comprender el alcance del tratamiento, podrá prestar el consentimiento su representante legal después de haber escuchado la opinión de la persona menor, conforme a lo dispuesto en el artículo 9 de la [Ley Orgánica 1/1996](../01_marco_normativo_general_y_organico/LO1_1996_proteccion_juridica_menor_modificacion_parcial_codigo.md), de 15 de enero, de Protección Jurídica del Menor, de Modificación parcial del Código Civil y de la Ley de Enjuiciamiento Civil, o normativa que en el futuro la sustituya.
 
 d) Cuando se trate de persona menor de edad no incapaz ni incapacitada, pero emancipada o con dieciséis años cumplidos, no cabe prestar el consentimiento por representación. Sin embargo, en caso de actuación de grave riesgo para la vida de la persona menor de edad, según el criterio del equipo profesional, el consentimiento lo prestará su representante legal, una vez oída y tenida en cuenta la opinión de la misma.
 
-e) La negativa de quien represente legalmente a la persona menor de edad a autorizar procedimientos con objeto de establecer preventivamente un tratamiento de inhibición del desarrollo hormonal podrá ser recurrida ante la autoridad judicial cuando conste que puede causar un grave perjuicio o sufrimiento a esta última/a la segunda. En todo caso, se atenderá al criterio del interés superior de la persona menor frente a cualquier otro interés legítimo, de conformidad con lo previsto en la Ley Orgánica 1/1996, de 15 de enero, de Protección Jurídica del Menor, de Modificación parcial del Código Civil y de la Ley de Enjuiciamiento Civil o normativa que en el futuro la sustituya, y, en particular, en sus artículos 2 y 11.2, letra i).
+e) La negativa de quien represente legalmente a la persona menor de edad a autorizar procedimientos con objeto de establecer preventivamente un tratamiento de inhibición del desarrollo hormonal podrá ser recurrida ante la autoridad judicial cuando conste que puede causar un grave perjuicio o sufrimiento a esta última/a la segunda. En todo caso, se atenderá al criterio del interés superior de la persona menor frente a cualquier otro interés legítimo, de conformidad con lo previsto en la [Ley Orgánica 1/1996](../01_marco_normativo_general_y_organico/LO1_1996_proteccion_juridica_menor_modificacion_parcial_codigo.md), de 15 de enero, de Protección Jurídica del Menor, de Modificación parcial del Código Civil y de la Ley de Enjuiciamiento Civil o normativa que en el futuro la sustituya, y, en particular, en sus artículos 2 y 11.2, letra i).
 
 f) Con carácter previo al recurso ante la autoridad judicial, desde el Servicio Canario de la Salud se informará a las personas tutoras y representantes legales y a la persona menor de edad de la posibilidad de recurrir a la mediación familiar. Si las partes optaran por la mediación familiar, el sistema sanitario público de Canarias será el responsable de abonar las compensaciones económicas u honorarios y gastos ocasionados a quien conduzca la mediación familiar.
 
@@ -731,7 +741,7 @@ e) Se establecerá un protocolo específico de actuación en materia de intersex
 
 4. En materia de consentimiento de la persona menor de edad intersexual se seguirán las reglas establecidas en el apartado 3 del artículo 26 de la presente ley.
 
-5. Resultará de aplicación a la atención sanitaria de las personas intersexuales menores de edad en la Comunidad Autónoma de Canarias la Ley 1/1997, de 7 de febrero, de atención integral a menores, en lo que no se oponga a este artículo y al resto de la presente ley o normativa que en el futuro la sustituya.
+5. Resultará de aplicación a la atención sanitaria de las personas intersexuales menores de edad en la Comunidad Autónoma de Canarias la [Ley 1/1997](../../autonómica/canarias/01_marco_normativo_general_y_organico/L1_1997_atencion_integral_menores.md), de 7 de febrero, de atención integral a menores, en lo que no se oponga a este artículo y al resto de la presente ley o normativa que en el futuro la sustituya.
 
 6. El personal sanitario debe brindar toda la información necesaria a las personas que ostentan la tutela y a quienes representen legalmente a las personas intersexuales, sin que esta información sea parcializada, sesgada o pretenda influir en la formación de criterios contrarios a los que salvaguardan la autonomía, la integridad física y mental y la libre determinación.
 
@@ -777,7 +787,7 @@ c) Promoverá la realización de estudios, investigación y desarrollo de polít
 
 2. La recogida de los datos anteriores con fines estadísticos se ajustará a los principios de secreto, transparencia, especialidad y proporcionalidad. El secreto estadístico obliga a la Comunidad Autónoma de Canarias a no difundir, en ningún caso, los datos personales de las personas trans e intersexuales, cualquiera que sea su origen.
 
-3. Para la elaboración de las estadísticas previstas en el apartado primero de este artículo se creará un fichero automatizado, del que será titular el Servicio Canario de la Salud, en los términos previstos en la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y Garantía de los Derechos Digitales, o normativa que en el futuro la sustituya.
+3. Para la elaboración de las estadísticas previstas en el apartado primero de este artículo se creará un fichero automatizado, del que será titular el Servicio Canario de la Salud, en los términos previstos en la [Ley Orgánica 3/2018](../02_gestion_y_administracion_centros/LO3_2018_proteccion_datos_personales_garantia_derechos_digitales.md), de 5 de diciembre, de Protección de Datos Personales y Garantía de los Derechos Digitales, o normativa que en el futuro la sustituya.
 
 #### Artículo 32. Garantías del personal sanitario.
 
@@ -855,7 +865,7 @@ h) El acceso y uso de instalaciones correspondientes a la identidad y expresión
 
 La adopción de estas medidas en ningún caso estará condicionada a la previa exhibición de informe médico, psicológico, psiquiátrico alguno, ni de cualquier otra índole, así como tampoco a la autorización previa de las personas que ostenten la patria potestad o sean sus representantes legales.
 
-i) En el caso de que alguna de las partes de quienes representen legalmente a la persona menor no emancipada se oponga a la adopción de las medidas anteriores, la dirección del centro pondrá en conocimiento del servicio social de base correspondiente la no coincidencia en el planteamiento de abordaje del caso de la persona menor trans o intersexual, haciendo prevalecer en cualquier caso su interés superior de aquella frente a cualquier otro interés legítimo, de conformidad con lo previsto en la Ley Orgánica 1/1996, de 15 de enero, de Protección Jurídica del menor, de Modificación parcial del Código Civil y de la Ley de Enjuiciamiento Civil y, en particular, de sus artículos 2 y 11.2, letra i).
+i) En el caso de que alguna de las partes de quienes representen legalmente a la persona menor no emancipada se oponga a la adopción de las medidas anteriores, la dirección del centro pondrá en conocimiento del servicio social de base correspondiente la no coincidencia en el planteamiento de abordaje del caso de la persona menor trans o intersexual, haciendo prevalecer en cualquier caso su interés superior de aquella frente a cualquier otro interés legítimo, de conformidad con lo previsto en la [Ley Orgánica 1/1996](../01_marco_normativo_general_y_organico/LO1_1996_proteccion_juridica_menor_modificacion_parcial_codigo.md), de 15 de enero, de Protección Jurídica del menor, de Modificación parcial del Código Civil y de la Ley de Enjuiciamiento Civil y, en particular, de sus artículos 2 y 11.2, letra i).
 
 2. El protocolo incorporará la necesaria coordinación entre las áreas de educación, sanidad y acción social, en orden a una rápida detección y actuación ante situaciones discriminatorias y atentatorias contra la diversidad. A tal efecto, contemplará medidas de protección frente al acoso escolar y a cualquier actuación contraria al derecho de igualdad y no discriminación en beneficio del alumnado, familias, personal docente y de servicios y demás personas que presten servicios en el centro educativo.
 
@@ -1361,7 +1371,7 @@ c) Al Consejo de Gobierno de Canarias para la imposición de sanciones por infra
 
 #### Artículo 65. Ejercicio de la potestad sancionadora.
 
-La potestad sancionadora en el ámbito de lo dispuesto por la presente ley se ejercerá de conformidad con lo dispuesto en la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, y en la [Ley 40/2015](../01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md), de 1 de octubre, de Régimen Jurídico del Sector Público.
+La potestad sancionadora en el ámbito de lo dispuesto por la presente ley se ejercerá de conformidad con lo dispuesto en la [Ley 39/2015](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, y en la [Ley 40/2015](../01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md), de 1 de octubre, de Régimen Jurídico del Sector Público.
 
 #### Disposición derogatoria única. Derogaciones normativas.
 

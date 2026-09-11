@@ -121,8 +121,12 @@ relaciones:
     articulos_destino:
     - Art. 86
   - norma_id: norm-es-l-39-2015
+fundamentos_derecho:
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
 ---
-
 # Decreto 29/2013, de 11 de abril, del Consejo de Gobierno, de libertad de elección de centro escolar en la Comunidad de Madrid.
 
 ## Preámbulo
@@ -148,7 +152,7 @@ La libertad de elección de un centro escolar sostenido con fondos públicos pod
 
 #### Artículo 4. Programación anual de la oferta educativa.
 
-1. Corresponde a la Consejería competente en materia de Educación garantizar la efectividad del derecho a la libre elección de centro educativo, mediante la programación anual de la oferta educativa de manera que se asegure la existencia de una oferta suficiente y plural de plazas escolares en centros sostenidos con fondos públicos. 2. Para ello, la Consejería competente en materia de Educación tendrá en cuenta las preferencias por los proyectos educativos expresadas por las familias en anteriores procesos de admisión, sin perjuicio de los criterios establecidos en la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+1. Corresponde a la Consejería competente en materia de Educación garantizar la efectividad del derecho a la libre elección de centro educativo, mediante la programación anual de la oferta educativa de manera que se asegure la existencia de una oferta suficiente y plural de plazas escolares en centros sostenidos con fondos públicos. 2. Para ello, la Consejería competente en materia de Educación tendrá en cuenta las preferencias por los proyectos educativos expresadas por las familias en anteriores procesos de admisión, sin perjuicio de los criterios establecidos en la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación.
 
 #### Artículo 5. Oferta de plazas escolares.
 
@@ -194,7 +198,7 @@ Educación Especial requerirá resolución de la Consejería competente en mater
 
 #### Artículo 13. Servicios de Apoyo a la Escolarización.
 
-1. La Consejería competente en materia de Educación determinará el número y la composición de los Servicios de Apoyo a la Escolarización, que estarán organizados de conformidad con lo establecido en el artículo 86.2 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación. 2. Los Servicios de Apoyo a la Escolarización tendrán las siguientes funciones:
+1. La Consejería competente en materia de Educación determinará el número y la composición de los Servicios de Apoyo a la Escolarización, que estarán organizados de conformidad con lo establecido en el artículo 86.2 de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación. 2. Los Servicios de Apoyo a la Escolarización tendrán las siguientes funciones:
 a) Informar a las familias y a los alumnos sobre los centros públicos y concertados, los servicios y enseñanzas que ofrecen y las plazas disponibles en los mismos. b) Garantizar la escolarización de los alumnos que no hayan obtenido plaza en ninguno de los centros solicitados. A tal efecto, informarán a los padres, los tutores o, en su caso, los alumnos acerca de los centros docentes con plazas vacantes, para que opten por alguna de ellas, salvaguardando, en todo caso, el ejercicio efectivo del derecho a la libre elección de centro por parte de las familias. c) Supervisión del proceso de admisión de alumnos, el cumplimiento de las normas que lo regulan y propuesta a la Administración educativa de las medidas que estimen adecuadas. d) Cualesquiera otras que determine la Consejería competente en materia de Educación.
 
 ### Capítulo V. Garantías de la libertad de elección de centro.

@@ -29,8 +29,12 @@ relaciones:
   - norma_id: norm-es-lo-2-2006
   fundamentado_en:
   - norma_id: norm-and-l17-2007
+fundamentos_derecho:
+- norma_id: norm-and-l12-2007-promocion-igualdad-genero-andalucia
+- norma_id: norm-and-l6-2006-gobierno-comunidad-autonoma-andalucia
+- norma_id: norm-and-d-55-2012
+- norma_id: norm-es-2007-19326
 ---
-
 # Orden de 26 de agosto de 2013, por la que se establece la ordenación de la evaluación del proceso de aprendizaje del alumnado de las enseñanzas deportivas de régimen especial en Andalucía.
 
 ## Preámbulo
@@ -42,7 +46,7 @@ los planes de estudio, incluida la ordenación curricular, de conformidad con lo
 Estatuto de Autonomía para Andalucía, sin perjuicio de lo recogido en el artículo 149.1.30.ª de la Constitución 
 Española, a tenor del cual corresponde al Estado dictar las normas básicas para el desarrollo del artículo 27 de 
 la misma, a fin de garantizar el cumplimiento de las obligaciones de los poderes públicos en esta materia.
-En el ejercicio de esta competencia, el Decreto 55/2012, de 6 de marzo, por el que se establece la 
+En el ejercicio de esta competencia, el [Decreto 55/2012](./D55_2012_ordenacion_ensenanzas_deportivas_regimen_especial_andalucia.md), de 6 de marzo, por el que se establece la 
 ordenación general de las enseñanzas deportivas de régimen especial en Andalucía, ha establecido la ordenación 
 general de las citadas enseñanzas en esta Comunidad Autónoma. En su artículo 21.1 dispone que por Orden 
 de la Consejería competente en materia de educación se establecerá la ordenación de la evaluación de las 
@@ -50,15 +54,15 @@ enseñanzas deportivas de régimen especial.
 El citado Decreto, en su disposición final tercera, habilita a la persona titular de la Consejería de 
 Educación para dictar cuantas disposiciones resulten necesarias para su desarrollo y ejecución.
 La presente Orden regula todo lo concerniente a la evaluación, promoción y titulación del alumnado de 
-las enseñanzas deportivas de régimen especial, de conformidad con lo dispuesto en el citado Decreto 55/2012, 
-de 6 de marzo, que recoge los preceptos generales fijados por el Real Decreto 1363/2007, de 24 de octubre, por 
+las enseñanzas deportivas de régimen especial, de conformidad con lo dispuesto en el citado [Decreto 55/2012](./D55_2012_ordenacion_ensenanzas_deportivas_regimen_especial_andalucia.md), 
+de 6 de marzo, que recoge los preceptos generales fijados por el [Real Decreto 1363/2007](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1363_2007_establece_ordenacion_general_ensenanzas_deportivas_regimen.md), de 24 de octubre, por 
 el que se establece la ordenación general de las enseñanzas deportivas de régimen especial. En su regulación 
 se han tenido en cuenta los elementos de los documentos de evaluación y los requisitos formales derivados del 
 proceso de evaluación que son precisos para garantizar la movilidad del alumnado.
 También se han regulado las exenciones del módulo de formación práctica en los ciclos de enseñanza 
 deportiva mediante su tratamiento en un capítulo específico.
 En su virtud, a propuesta de la Directora General de Ordenación y Evaluación Educativa, y en ejercicio de 
-la potestad que me confiere el artículo 44.2 de la Ley 6/2006, de 24 de octubre, del Gobierno de la Comunidad 
+la potestad que me confiere el artículo 44.2 de la [Ley 6/2006](../01_marco_normativo_general_y_organico/L6_2006_gobierno_comunidad_autonoma_andalucia.md), de 24 de octubre, del Gobierno de la Comunidad 
 Autónoma de Andalucía,
 D I S P O N G O
 CAPÍTULO I
@@ -69,7 +73,7 @@ del alumnado de las enseñanzas deportivas de régimen especial en Andalucía.
 2. Será de aplicación en los centros docentes de la Comunidad Autónoma de Andalucía que impartan 
 estas enseñanzas.
 Artículo 2. Normas generales de la ordenación de la evaluación.
-1. De conformidad con lo dispuesto en el artículo 21 del Decreto 55/2012, de 6 de marzo, por el que se 
+1. De conformidad con lo dispuesto en el artículo 21 del [Decreto 55/2012](./D55_2012_ordenacion_ensenanzas_deportivas_regimen_especial_andalucia.md), de 6 de marzo, por el que se 
 establece la ordenación general de las enseñanzas deportivas de régimen especial en Andalucía, la evaluación 
 en estas enseñanzas será continua y diferenciada, teniendo en cuenta el progreso y la madurez académica del 
 alumnado en relación con los objetivos generales y las competencias profesionales propias del ciclo.
@@ -101,7 +105,7 @@ especial, y que ayuden al profesorado a valorar el grado de adquisición de los 
 enseñanzas y faciliten la toma de decisión más adecuada en cada momento del proceso evaluador.
 2. A tales efectos, deberá entenderse por criterios de evaluación comunes, el conjunto de acuerdos 
 incluidos en el proyecto educativo que concretan y adaptan al contexto del centro docente los aspectos y los 
-criterios generales de evaluación recogidos en el Decreto 55/2012, de 6 de marzo, en la presente Orden y 
+criterios generales de evaluación recogidos en el [Decreto 55/2012](./D55_2012_ordenacion_ensenanzas_deportivas_regimen_especial_andalucia.md), de 6 de marzo, en la presente Orden y 
 demás normativa que resulte de aplicación. En todo caso, se tendrán en cuenta los objetivos y criterios de 
 evaluación establecidos para los respectivos ciclos de enseñanza deportiva.
 3. El alumnado tiene derecho a ser evaluado conforme a criterios de plena objetividad, así como a 
@@ -114,14 +118,14 @@ evaluación de los aprendizajes, la promoción del alumnado y la obtención de l
 CAPÍTULO II
 Evaluación y titulación
 Artículo 4. Órganos de evaluación.
-1. De conformidad con lo dispuesto en el artículo 21.3 del Decreto 55/2012, de 6 de marzo, la evaluación 
+1. De conformidad con lo dispuesto en el artículo 21.3 del [Decreto 55/2012](./D55_2012_ordenacion_ensenanzas_deportivas_regimen_especial_andalucia.md), de 6 de marzo, la evaluación 
 se realizará por el profesorado, teniendo en cuenta los resultados de aprendizaje, los criterios de evaluación y las 
 orientaciones pedagógicas establecidas en los módulos de enseñanza deportiva. El equipo docente, coordinado 
 por quien ejerza la tutoría, actuará de manera colegiada a lo largo del proceso de evaluación y en la adopción 
 de las decisiones resultantes del mismo, para lo cual se tomará en consideración la valoración realizada por el 
 profesorado de cada módulo en cuanto a su superación. La toma de decisiones en el proceso de evaluación se 
 realizará en la forma que se determine en el proyecto educativo.
-2. De conformidad con lo dispuesto en el artículo 21.4 del Decreto 55/2012, de 6 de marzo, en la 
+2. De conformidad con lo dispuesto en el artículo 21.4 del [Decreto 55/2012](./D55_2012_ordenacion_ensenanzas_deportivas_regimen_especial_andalucia.md), de 6 de marzo, en la 
 evaluación del módulo de formación práctica, la persona responsable de la formación del alumno o la alumna, 
 designada por el correspondiente centro profesional o deportivo (empresas, clubes deportivos u otras entidades 
 que incluyan también en su objeto o fines el desarrollo de actividades deportivas), colaborará con el tutor o 
@@ -147,7 +151,7 @@ Boletín Oficial de la Junta de Andalucía
 Artículo 6. Calificaciones.
 Los resultados de la evaluación de cada módulo de enseñanza deportiva, así como las calificaciones de 
 cada uno de los ciclos de enseñanza deportiva, se establecerán conforme a lo dispuesto en el artículo 22 del 
-Decreto 55/2012, de 6 de marzo.
+[Decreto 55/2012](./D55_2012_ordenacion_ensenanzas_deportivas_regimen_especial_andalucia.md), de 6 de marzo.
 Artículo 7. Evaluación final.
 1. Al término de cada curso se valorará el progreso global del alumnado en los diferentes módulos del 
 ciclo de enseñanza deportiva, en el marco del proceso de evaluación continua llevado a cabo.
@@ -187,11 +191,11 @@ cada módulo.
 organización de, al menos, una prueba presencial, sin perjuicio de los procesos de evaluación continua que se 
 puedan desarrollar a distancia.
 Artículo 10. Promoción del alumnado.
-De conformidad con lo establecido en el artículo 22.2 del Decreto 55/2012, de 6 de marzo, el alumnado 
+De conformidad con lo establecido en el artículo 22.2 del [Decreto 55/2012](./D55_2012_ordenacion_ensenanzas_deportivas_regimen_especial_andalucia.md), de 6 de marzo, el alumnado 
 promocionará de curso cuando haya obtenido evaluación positiva en todos los módulos de enseñanza deportiva 
 que lo componen.
 Artículo 11. Titulación.
-De conformidad con lo establecido en el artículo 26 del Decreto 55/2012, de 6 de marzo, los alumnos 
+De conformidad con lo establecido en el artículo 26 del [Decreto 55/2012](./D55_2012_ordenacion_ensenanzas_deportivas_regimen_especial_andalucia.md), de 6 de marzo, los alumnos 
 y alumnas que superen el grado medio o el grado superior de las enseñanzas deportivas de régimen especial 
 recibirán, respectivamente, el título de Técnico o Técnico Superior en la especialidad o modalidad deportiva 
 correspondiente.
@@ -203,7 +207,7 @@ Núm. 184  página 13
 CAPÍTULO III
 CONVOCATORIAS
 Artículo 12. Límites de convocatorias.
-1. De conformidad con lo establecido en el artículo 23 del Decreto 55/2012, de 6 de marzo, el número 
+1. De conformidad con lo establecido en el artículo 23 del [Decreto 55/2012](./D55_2012_ordenacion_ensenanzas_deportivas_regimen_especial_andalucia.md), de 6 de marzo, el número 
 máximo de convocatorias para la superación de cada módulo será de cuatro. 
 2. Para la superación del módulo de formación práctica y para el proyecto final, el alumnado dispondrá 
 de un máximo de dos convocatorias. 
@@ -353,7 +357,7 @@ estará compuesta por un miembro de la inspección de educación, a quien corres
 Comisión, y por tres vocalías conformadas por profesores o profesoras con la atribución docente en los módulos 
 de enseñanza deportiva correspondientes, actuando de secretario o secretaria la vocalía de menor edad. Todos 
 ellos serán designados por la persona titular de la Delegación Territorial, que, en la medida de lo posible, deberá 
-observar en dicha designación lo preceptuado en el artículo 11.2 de la Ley 12/2007, de 26 de noviembre, para la 
+observar en dicha designación lo preceptuado en el artículo 11.2 de la [Ley 12/2007](../01_marco_normativo_general_y_organico/L12_2007_promocion_igualdad_genero_andalucia.md), de 26 de noviembre, para la 
 promoción de igualdad de género en Andalucía, en cuanto a representación equilibrada de mujeres y hombres. 
 Corresponde a la misma analizar el expediente y las alegaciones que contenga, a la vista de la programación 
 didáctica del departamento respectivo, contenida en el proyecto educativo del centro, y efectuar una valoración 
@@ -461,7 +465,7 @@ EXENCIONES DEL MÓDULO DE FORMACIÓN PRÁCTICA EN LOS CICLOS DE ENSEÑANZAS DEPO
 Artículo 25. Exención del módulo de formación práctica.
 1. El módulo de formación práctica será susceptible de exención por su correspondencia con la 
 experiencia como técnico, docente o guía dentro del ámbito deportivo o laboral de conformidad con el artícu- 
-lo 39 del Real Decreto 1363/2007, de 24 de octubre, y del artículo 10.7 del Decreto 55/2012, de 6 de marzo.
+lo 39 del [Real Decreto 1363/2007](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1363_2007_establece_ordenacion_general_ensenanzas_deportivas_regimen.md), de 24 de octubre, y del artículo 10.7 del [Decreto 55/2012](./D55_2012_ordenacion_ensenanzas_deportivas_regimen_especial_andalucia.md), de 6 de marzo.
 2. La exención podrá ser total o parcial, dependiendo de la correspondencia que haya entre la experiencia 
 acreditada y los resultados de aprendizaje del módulo de formación práctica.
 3. Se debe acreditar, tanto para la exención total como para la parcial, una experiencia dentro del ámbito 

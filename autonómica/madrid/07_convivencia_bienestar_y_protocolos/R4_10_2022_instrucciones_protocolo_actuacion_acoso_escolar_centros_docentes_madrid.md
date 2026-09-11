@@ -25,8 +25,17 @@ tags:
 - protocolo_acoso
 - convivencia
 - madrid
+fundamentos_derecho:
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-mad-d61-2019-organizacion-estructura-funcionamiento-inspeccion-educativa-madrid
+- norma_id: norm-mad-o732-2021-desarrollo-decreto-inspeccion-educativa-madrid
+- norma_id: norm-mad-d32-2019
+- norma_id: norm-es-lo-1-1996
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
+- norma_id: norm-es-lo-8-2021
 ---
-
 # Resolución de 4 de octubre de 2022, de la Viceconsejería de Organización Educativa, por la que se dictan instrucciones a los centros educativos para la aplicación de protocolos de actuación ante cualquier tipo de violencia
 
 ## Preámbulo
@@ -37,7 +46,7 @@ Vicepresidencia, Consejería de Educación y Universidades
 RESOLUCIÓN de 4 de octubre de 2022, de la Viceconsejería de Organización
 Educativa, por la que se dictan instrucciones a los centros educativos para la
 aplicación de protocolos de actuación ante cualquier tipo de violencia.
-La Ley Orgánica 2/2006, de 3 de mayo, de Educación, considera como principio del
+La [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, considera como principio del
 sistema educativo español, en su artículo 1.k), “la educación para la prevención de conflic-
 tos y la resolución pacífica de los mismos, así como para la no violencia en todos los ám-
 bitos de la vida personal, familiar y social, y en especial en el del acoso escolar”.
@@ -45,7 +54,7 @@ Por su parte, el artículo 2.c) incluye entre los fines que el sistema educativo
 conseguir “la educación en el ejercicio de la tolerancia y de la libertad dentro de los princi-
 pios democráticos de convivencia, así como en la prevención de conflictos y la resolución
 pacífica de los mismos”.
-La Ley Orgánica 8/2021, de 4 de junio, de protección integral a la infancia y la ado-
+La [Ley Orgánica 8/2021](../../../estatal/07_convivencia_bienestar_y_protocolos/LO8_2021_proteccion_integral_infancia_adolescencia_frente_violencia.md), de 4 de junio, de protección integral a la infancia y la ado-
 lescencia frente a la violencia, establece en su artículo 34, la necesidad de contar con pro-
 tocolos de actuación ante cualquier tipo de violencia, que deberán ser aplicados en todos los
 centros educativos. En concreto señala que las administraciones educativas regularán los
@@ -58,13 +67,13 @@ lorar su eficacia. Indica también que deberán iniciarse cuando el personal doc
 dor de los centros educativos, padres o madres del alumnado o cualquier miembro de la co-
 munidad educativa, detecten indicios de violencia o por la mera comunicación de los
 hechos por parte de los niños o adolescentes.
-En la Comunidad de Madrid, el Decreto 32/2019, de 9 de abril, del Consejo de Gobier-
+En la Comunidad de Madrid, el [Decreto 32/2019](./D32_2019_marco_regulador_convivencia_centros_docentes_madrid.md), de 9 de abril, del Consejo de Gobier-
 no, por el que se establece el marco regulador de la convivencia en los centros docentes de
 la Comunidad de Madrid, modificado por el Decreto 60/2020, de 29 de julio, asigna fun-
 ciones específicas para la Inspección Educativa en el ámbito de la convivencia y regula las
 atribuciones de la Unidad de convivencia y contra el acoso escolar.
-Igualmente, la Orden 732/2021, de 24 de marzo, de la Consejería de Educación y Ju-
-ventud, por la que se desarrolla el Decreto 61/2019, de 9 de julio, del Consejo de Gobier-
+Igualmente, la [Orden 732/2021](../04_organizacion_escolar_y_funcionamiento/O732_2021_desarrollo_decreto_inspeccion_educativa_madrid.md), de 24 de marzo, de la Consejería de Educación y Ju-
+ventud, por la que se desarrolla el [Decreto 61/2019](../04_organizacion_escolar_y_funcionamiento/D61_2019_organizacion_estructura_funcionamiento_inspeccion_educativa_madrid.md), de 9 de julio, del Consejo de Gobier-
 no, por el que se regula la organización, estructura y funcionamiento de la Inspección Edu-
 cativa de la Comunidad de Madrid, estableció en su artículo 42.5 que la Subdirección
 General de Inspección Educativa contará con la Unidad de Convivencia y Lucha Contra el
@@ -83,8 +92,8 @@ Por Resolución de 10 de mayo de 2016, de la Viceconsejería de Organización Ed
 tiva, se dictaron instrucciones a la Subdirección General de Inspección Educativa para el
 asesoramiento en materia de prevención e intervención en situaciones de acoso escolar y ci-
 beracoso.
-La Disposición Final Primera de la Orden 732/2021, de 24 de marzo, de la Consejería
-de Educación y Juventud, por la que se desarrolla el Decreto 61/2019, de 9 de julio, del
+La Disposición Final Primera de la [Orden 732/2021](../04_organizacion_escolar_y_funcionamiento/O732_2021_desarrollo_decreto_inspeccion_educativa_madrid.md), de 24 de marzo, de la Consejería
+de Educación y Juventud, por la que se desarrolla el [Decreto 61/2019](../04_organizacion_escolar_y_funcionamiento/D61_2019_organizacion_estructura_funcionamiento_inspeccion_educativa_madrid.md), de 9 de julio, del
 Consejo de Gobierno, por el que se regula la organización, estructura y funcionamiento de
 
 BOCM
@@ -132,7 +141,7 @@ riódicamente.
 Sexto
 Protocolo contra el acoso escolar
 El acoso físico o moral a los compañeros es calificado como falta muy grave en el ar-
-tículo 35.b del Decreto 32/2019, de 9 de abril, por el que se establece el marco regulador de
+tículo 35.b del [Decreto 32/2019](./D32_2019_marco_regulador_convivencia_centros_docentes_madrid.md), de 9 de abril, por el que se establece el marco regulador de
 la convivencia en los centros docentes de la Comunidad de Madrid, por lo que, si habién-
 
 BOCM
@@ -160,7 +169,7 @@ nes que se lleven a cabo. Tras la realización de las indagaciones oportunas, el
 contendrá una síntesis de las investigaciones y observaciones efectuadas, se devolverá fir-
 mado al director. Los datos de dicho anexo se incorporarán como antecedentes o diligencias
 previas en caso de instruirse un expediente disciplinario por la falta muy grave de acoso fí-
-sico o moral a un compañero, previsto en el Decreto 32/2019. Ninguno de los profesores que,
+sico o moral a un compañero, previsto en el [Decreto 32/2019](./D32_2019_marco_regulador_convivencia_centros_docentes_madrid.md). Ninguno de los profesores que,
 en su caso, hayan reunido la información, podrán ser designados como instructor del expe-
 diente.
 Todas las actuaciones relativas a esta toma de información deben llevarse a cabo con
@@ -186,7 +195,7 @@ a la documentación del caso.
 
 ## Anexo IV. b) y se inicia procedimiento disciplinario especial, de acuerdo con el
 
-Decreto 32/2019.
+[Decreto 32/2019](./D32_2019_marco_regulador_convivencia_centros_docentes_madrid.md).
 El Anexo IV.b) se diseñará a partir de las indicaciones y pro-
 puestas establecidas en el Anexo IV.a), que incluirá las medidas urgentes y/o cau-
 telares, en su caso, en función de la gravedad de la situación, destinadas a garan-
@@ -218,10 +227,10 @@ El centro realizará un seguimiento y evaluación del Plan de intervención
 mediante el Anexo IV.c). Los responsables de las actuaciones, evaluarán su cumplimiento,
 su impacto y acordarán su continuidad.
 Sexto 6.
-De acuerdo con lo establecido en los arts. 13 y 17 de la Ley Orgánica 1/1996,
+De acuerdo con lo establecido en los arts. 13 y 17 de la [Ley Orgánica 1/1996](../../../estatal/01_marco_normativo_general_y_organico/LO1_1996_proteccion_juridica_menor_modificacion_parcial_codigo.md),
 de 15 de enero, de Protección Jurídica del Menor, en los arts. 47 y 49 de la Ley 6/1995, de
 28 de marzo, de Garantías de los Derechos de la Infancia y la Adolescencia de la Comuni-
-dad de Madrid y en el Decreto 32/2019, de 9 de abril, el director del centro debe proceder a
+dad de Madrid y en el [Decreto 32/2019](./D32_2019_marco_regulador_convivencia_centros_docentes_madrid.md), de 9 de abril, el director del centro debe proceder a
 dar traslado de la situación de acoso escolar a la Fiscalía de Menores (Anexo V). Esta comu-
 nicación se llevará a cabo con la mayor diligencia, dando cuenta de los datos de los alumnos
 implicados, las medidas disciplinarias impuestas y las medidas educativas adoptadas. En el
@@ -371,12 +380,12 @@ Noveno 6.
 Mediante el Anexo VII, en su caso, se completará el modelo de notifica-
 ción sobre propuesta de colaboración con servicios externos especializados.
 Décimo
-En aplicación de la Ley Orgánica 8/2021, de 4 de junio, la Subdirección General de
+En aplicación de la [Ley Orgánica 8/2021](../../../estatal/07_convivencia_bienestar_y_protocolos/LO8_2021_proteccion_integral_infancia_adolescencia_frente_violencia.md), de 4 de junio, la Subdirección General de
 Inspección Educativa hará públicos a través de su página web otros protocolos de actua-
 ción, así como las instrucciones para su puesta en práctica.
 Undécimo
 La presente resolución se dicta en virtud de la citada Disposición Final Primera de la
-Orden 732/2021, de 24 de marzo, que habilita al titular de la Viceconsejería de Organiza-
+[Orden 732/2021](../04_organizacion_escolar_y_funcionamiento/O732_2021_desarrollo_decreto_inspeccion_educativa_madrid.md), de 24 de marzo, que habilita al titular de la Viceconsejería de Organiza-
 ción Educativa, para dictar las instrucciones necesarias para su aplicación y cumplimiento,
 y será de aplicación a partir del curso 2022-23.
 Madrid, a 4 de octubre de 2022.—El Viceconsejero de Organización Educativa, Ma-

@@ -37,8 +37,25 @@ relaciones:
   - norma_id: norm-mad-d-29-2013
   desarrolla:
   - norma_id: norm-es-lo-2-2006
+fundamentos_derecho:
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-can-res-134
+- norma_id: norm-mad-d-52-2021
+- norma_id: norm-mad-d65-2022
+- norma_id: norm-mad-o457-2023
+- norma_id: norm-mad-d-29-2013
+- norma_id: norm-mad-d23-2023
+- norma_id: norm-mad-d32-2019
+- norma_id: norm-es-l-39-2015
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-lo-3-2018
+- norma_id: norm-es-lo-8-1985
+- norma_id: norm-es-lo-3-2022
+- norma_id: norm-es-2016-3229
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-rd-217-2022
+- norma_id: norm-es-2010-12201
 ---
-
 # Orden 1712/2023, de 19 de mayo, de organización, funcionamiento y evaluación en Educación Secundaria Obligatoria en Madrid
 
 ## Preámbulo
@@ -49,16 +66,16 @@ Vicepresidencia, Consejería de Educación y Universidades
 ORDEN 1712/2023, de 19 de mayo, de la Vicepresidencia, Consejería de Educa-
 ción y Universidades, por la que se regulan determinados aspectos de organiza-
 ción, funcionamiento y evaluación en la Educación Secundaria Obligatoria.
-La Ley Orgánica 2/2006, de 3 de mayo, de Educación, establece el marco normativo en
+La [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, establece el marco normativo en
 el que se sustenta la organización y la evaluación de la Educación Secundaria Obligatoria.Como
 desarrollo de las modificaciones establecidas por la Ley Orgánica 3/2020, de 29 de diciembre,
-por la que se modifica la Ley Orgánica 2/2006, de 3 de mayo, de Educación, se promulgó el Real
+por la que se modifica la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, se promulgó el Real
 Decreto 217/2022, de 29 de marzo, por el que se establece la ordenación y las enseñanzas mí-
 nimas de la Educación Secundaria Obligatoria, en el que se concreta el marco legislativo bá-
 sico relativo, entre otros aspectos, a la evaluación y organización de la Educación Secundaria
 Obligatoria, así como a la atención a las diferencias individuales del alumnado.
 Para su concreción en el ámbito territorial de la Comunidad de Madrid, se publicó el
-Decreto 65/2022, de 20 de julio, del Consejo de Gobierno, por el que se establecen para la
+[Decreto 65/2022](./D65_2022_ordenacion_curriculo_educacion_secundaria_obligatoria_madrid.md), de 20 de julio, del Consejo de Gobierno, por el que se establecen para la
 Comunidad de Madrid la ordenación y el currículo de la Educación Secundaria Obligato-
 ria, que dedica su capítulo cuarto a la evaluación, incluyendo los aspectos relacionados con
 el derecho a la evaluación objetiva, la participación y el derecho a la información de los pa-
@@ -66,9 +83,9 @@ dres, las condiciones en las que el alumnado promocionará y obtendrá el títul
 do en Educación Secundaria Obligatoria y los procesos de evaluación que se llevarán a cabo
 en los centros para valorar e informar sobre el desarrollo de los procesos de enseñanza y
 aprendizaje, con una sección dedicada a los documentos de evaluación.
-Por otro lado, el Decreto 23/2023, de 22 de marzo, del Consejo de Gobierno, por el que
+Por otro lado, el [Decreto 23/2023](../06_atencion_diversidad_y_orientacion/D23_2023_atencion_diferencias_individuales_alumnos_madrid.md), de 22 de marzo, del Consejo de Gobierno, por el que
 se regula la atención educativa a las diferencias individuales del alumnado en la Comuni-
-dad de Madrid, y el capítulo quinto del Decreto 65/2022, de 20 de julio, establecen el mar-
+dad de Madrid, y el capítulo quinto del [Decreto 65/2022](./D65_2022_ordenacion_curriculo_educacion_secundaria_obligatoria_madrid.md), de 20 de julio, establecen el mar-
 co legislativo necesario para garantizar el desarrollo reglamentario por parte de la conseje-
 ría competente en materia de Educación en la adopción de las medidas de atención a las
 diferencias individuales de los alumnos.
@@ -77,7 +94,7 @@ ción, funcionamiento y evaluación que se establecen en esta orden se asienta e
 chos y deberes de los distintos miembros de la comunidad educativa recogidos en el Decre-
 to 32/2019, de 9 de abril, del Consejo de Gobierno, por el que se establece el marco
 regulador de la convivencia en los centros docentes de la Comunidad de Madrid.
-El Decreto 65/2022, de 20 de julio, tal y como se ha expuesto anteriormente, estable-
+El [Decreto 65/2022](./D65_2022_ordenacion_curriculo_educacion_secundaria_obligatoria_madrid.md), de 20 de julio, tal y como se ha expuesto anteriormente, estable-
 ce el marco legal para la ordenación académica de la Educación Secundaria Obligatoria en
 la Comunidad de Madrid. No obstante, resulta necesario el desarrollo reglamentario de su
 contenido para poder hacer efectiva su aplicación en los centros docentes. De hecho, en pre-
@@ -116,8 +133,8 @@ tro docente se realicen en las mejores condiciones para el alumno. Por último, 
 lo quinto de esta orden se recogen las posibles convalidaciones y exenciones reconocidas en
 la normativa básica y se concreta el procedimiento para hacerlas efectivas.
 La presente orden cumple con los principios de buena regulación que recoge el artícu-
-lo 129 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las
-Administraciones Públicas, y el artículo 2 del Decreto 52/2021, de 24 de marzo, del Con-
+lo 129 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Administrativo Común de las
+Administraciones Públicas, y el artículo 2 del [Decreto 52/2021](../01_marco_normativo_general_y_organico/D52_2021_procedimiento_elaboracion_disposiciones_normativas_madrid.md), de 24 de marzo, del Con-
 sejo de Gobierno, por el que se regula y simplifica el procedimiento de elaboración de las
 disposiciones normativas de carácter general en la Comunidad de Madrid. Así, la presente
 
@@ -141,7 +158,7 @@ También cumple el principio de transparencia, conforme a lo establecido en la L
 de 10 de abril, de Transparencia y de Participación de la Comunidad de Madrid, mediante la
 realización del trámite de audiencia e información públicas y por medio de la publicación de
 la orden y de los documentos de su proceso de elaboración en el portal de transparencia de la
-Comunidad de Madrid, según lo dispuesto en el artículo 9 del Decreto 52/2021, de 24 de marzo.
+Comunidad de Madrid, según lo dispuesto en el artículo 9 del [Decreto 52/2021](../01_marco_normativo_general_y_organico/D52_2021_procedimiento_elaboracion_disposiciones_normativas_madrid.md), de 24 de marzo.
 En el proceso de elaboración de esta orden, se ha emitido dictamen por el Consejo
 Escolar de la Comunidad de Madrid. Por otro lado, la presente orden cuenta con el informe
 de la Abogacía General de la Comunidad de Madrid.
@@ -152,7 +169,7 @@ sejería de Educación, Universidades, Ciencia y Portavocía de la Comunidad de 
 relación con el Decreto 38/2022, de 15 de junio, del Consejo de Gobierno, por el que se crea
 la Vicepresidencia, Consejería de Educación y Universidades, así como las atribuidas en la
 
-#### Disposición final segunda. del Decreto 65/2022, de 20 de julio, el Vicepresidente, Conseje-
+#### Disposición final segunda. del [Decreto 65/2022](./D65_2022_ordenacion_curriculo_educacion_secundaria_obligatoria_madrid.md), de 20 de julio, el Vicepresidente, Conseje-
 
 ro de Educación y Universidades,
 
@@ -180,7 +197,7 @@ centes privados de la Comunidad de Madrid que, debidamente autorizados, impartan
 
 1.
 Los alumnos cursarán las materias que para cada uno de los tres primeros cursos
-de la etapa se determinan en el artículo 6 del Decreto 65/2022, de 20 de julio, del Consejo
+de la etapa se determinan en el artículo 6 del [Decreto 65/2022](./D65_2022_ordenacion_curriculo_educacion_secundaria_obligatoria_madrid.md), de 20 de julio, del Consejo
 de Gobierno, por el que se establecen para la Comunidad de Madrid la ordenación y el
 currículo de la Educación Secundaria Obligatoria.
 2.
@@ -192,14 +209,14 @@ Los centros garantizarán la libre elección de la materia optativa por parte de
 alumnos. Para facilitar esta elección, los centros deberán orientar al alumnado en función
 de sus expectativas y necesidades educativas sobre aquellas materias optativas que, forman-
 do parte de la oferta formativa del centro, se ajusten mejor a sus intereses, sin perjuicio de
-lo dispuesto en el artículo 9.4 del Decreto 65/2022, de 20 de julio, en relación con la con-
+lo dispuesto en el artículo 9.4 del [Decreto 65/2022](./D65_2022_ordenacion_curriculo_educacion_secundaria_obligatoria_madrid.md), de 20 de julio, en relación con la con-
 formación de los grupos de materia optativa y en el artículo 9.5 del citado decreto sobre la
 materia optativa Segunda Lengua Extranjera.
 4.
 Los centros podrán impartir en el primer y segundo curso de la etapa materias in-
 tegradas en ámbitos, de acuerdo con las condiciones establecidas en el artículo 7 del Decre-
 to 65/2022, de 20 de julio, y conforme al procedimiento establecido en el artículo 5 de la
-Orden 457/2023, de 17 de febrero, de la Vicepresidencia, Consejería de Educación y Uni-
+[Orden 457/2023](./O457_2023_autonomia_pedagogica_organizativa_bachillerato_madrid.md), de 17 de febrero, de la Vicepresidencia, Consejería de Educación y Uni-
 versidades, por la que se concreta el procedimiento para el ejercicio de la autonomía de los
 centros docentes que impartan la Educación Secundaria Obligatoria y el Bachillerato en la
 Comunidad de Madrid.
@@ -220,7 +237,7 @@ tanto para los estudios postobligatorios como para la incorporación a la vida l
 
 BOCM
 alumnos cursarán las materias que para el cuarto curso de esta etapa educativa se determi-
-nan en el artículo 8 del Decreto 65/2022, de 20 de julio.
+nan en el artículo 8 del [Decreto 65/2022](./D65_2022_ordenacion_curriculo_educacion_secundaria_obligatoria_madrid.md), de 20 de julio.
 2.
 Los centros ofertarán todas las materias establecidas en el artículo 8.2 del Decre-
 to 65/2022, de 20 de julio, organizadas según las opciones establecidas en el artículo 8.3 del
@@ -235,7 +252,7 @@ materias fijas a las que se refiere el artículo 8.3 del citado decreto.
 3.
 En el caso de que un alumno desee formalizar matrícula en la materia de opción
 Segunda Lengua Extranjera sin haberla cursado el curso anterior, se atenderá a lo estable-
-cido en el artículo 8.4 del Decreto 65/2022, de 20 de julio.
+cido en el artículo 8.4 del [Decreto 65/2022](./D65_2022_ordenacion_curriculo_educacion_secundaria_obligatoria_madrid.md), de 20 de julio.
 
 #### Artículo 4. Tutoría y orientación
 
@@ -319,10 +336,10 @@ la Educación Secundaria Obligatoria será requisito haber sido admitido en el c
 2.
 La formalización de matrícula en un centro docente que, debidamente autorizado,
 imparta la Educación Secundaria Obligatoria otorgará al alumno los derechos reconocidos
-en el artículo 4 del Decreto 32/2019, de 9 de abril. Asimismo, el alumno y sus padres o tu-
+en el artículo 4 del [Decreto 32/2019](../07_convivencia_bienestar_y_protocolos/D32_2019_marco_regulador_convivencia_centros_docentes_madrid.md), de 9 de abril. Asimismo, el alumno y sus padres o tu-
 tores legales asumirán los principios, valores, objetivos y fines recogidos en el proyecto
 educativo del centro, que deberá hacerse público, y atenderán los deberes que les confiere,
-en cada caso, el Decreto 32/2019, de 9 de abril.
+en cada caso, el [Decreto 32/2019](../07_convivencia_bienestar_y_protocolos/D32_2019_marco_regulador_convivencia_centros_docentes_madrid.md), de 9 de abril.
 3.
 Ningún alumno podrá estar matriculado de forma simultánea en más de un centro
 docente para cursar la Educación Secundaria Obligatoria. Los traslados y cambios de cen-
@@ -334,7 +351,7 @@ del grupo de referencia
 1.
 Los grupos de referencia tendrán una ratio máxima de treinta alumnos, sin perjui-
 cio de los supuestos de incremento de ratio que pudieran producirse en aplicación de lo dis-
-puesto en el artículo 87.2 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+puesto en el artículo 87.2 de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación.
 2.
 En los centros sostenidos con fondos públicos, los grupos de materias de opción
 del cuarto curso de la Educación Secundaria Obligatoria se conformarán con un mínimo de
@@ -361,9 +378,9 @@ BOCM
 
 1.
 La atención a las diferencias individuales del alumnado se ajustará al marco legal
-establecido en el Decreto 23/2023, de 22 de marzo, del Consejo de Gobierno, por el que se
+establecido en el [Decreto 23/2023](../06_atencion_diversidad_y_orientacion/D23_2023_atencion_diferencias_individuales_alumnos_madrid.md), de 22 de marzo, del Consejo de Gobierno, por el que se
 regula la atención educativa a las diferencias individuales del alumnado en la Comunidad
-de Madrid. De conformidad con el artículo 30 del Decreto 65/2022, de 20 de julio, los cen-
+de Madrid. De conformidad con el artículo 30 del [Decreto 65/2022](./D65_2022_ordenacion_curriculo_educacion_secundaria_obligatoria_madrid.md), de 20 de julio, los cen-
 tros adoptarán las medidas necesarias para responder a las necesidades educativas concre-
 tas de sus alumnos; dichas medidas formarán parte de su proyecto educativo y se concreta-
 rán cada año en la programación general anual.
@@ -422,7 +439,7 @@ c)
 La integración de materias en ámbitos en el primer y segundo curso de la Educación
 Secundaria Obligatoria, que se organizarán de conformidad con lo dispuesto en el
 
-#### Artículo 7. del Decreto 65/2022, de 20 de julio, y con la finalidad establecida en el ar-
+#### Artículo 7. del [Decreto 65/2022](./D65_2022_ordenacion_curriculo_educacion_secundaria_obligatoria_madrid.md), de 20 de julio, y con la finalidad establecida en el ar-
 
 tículo 2.4 de la presente orden.
 
@@ -450,7 +467,7 @@ a otros profesionales que intervengan en el proceso educativo del alumno.
 
 1.
 El alumnado con necesidades educativas especiales se definen en el artículo 10 del
-Decreto 23/2023, de 22 de marzo, y requiere determinados apoyos y atenciones educativas es-
+[Decreto 23/2023](../06_atencion_diversidad_y_orientacion/D23_2023_atencion_diferencias_individuales_alumnos_madrid.md), de 22 de marzo, y requiere determinados apoyos y atenciones educativas es-
 pecíficas para la consecución de los objetivos de aprendizaje adecuados a su desarrollo.
 2.
 Las necesidades educativas de estos alumnos se identificarán y determinarán median-
@@ -632,7 +649,7 @@ consignará en los documentos de evaluación.
 #### Artículo 13. Alumnos con integración tardía en el sistema educativo
 
 1.
-De conformidad con el artículo 33 del Decreto 65/2022, de 20 de julio, la escola-
+De conformidad con el artículo 33 del [Decreto 65/2022](./D65_2022_ordenacion_curriculo_educacion_secundaria_obligatoria_madrid.md), de 20 de julio, la escola-
 rización de los alumnos que se incorporan tardíamente al sistema educativo español se rea-
 lizará atendiendo a sus circunstancias, edad e historial académico.
 2.
@@ -672,7 +689,7 @@ la toma de decisiones por el equipo docente. Sin perjuicio de la implantación d
 didas ordinarias procedan, si el alumno alcanza el nivel de competencia curricular adecua-
 do, se podrá incorporar al curso que le corresponda por edad.
 6.
-De conformidad con el artículo 44.3 la Ley Orgánica 3/2022, de 31 de marzo, de
+De conformidad con el artículo 44.3 la [Ley Orgánica 3/2022](../../canarias/08_personal_docente/R30_6_2023_ordenacion_gestion_determinadas_listas_empleo_tras.md), de 31 de marzo, de
 ordenación e integración de la formación profesional, excepcionalmente, no regirán los re-
 quisitos de acceso vinculados a la escolarización para jóvenes entre quince y dieciocho años
 que no hayan estado escolarizados en el sistema educativo español y cuyo itinerario educa-
@@ -844,7 +861,7 @@ los centros para el registro de las medidas adoptadas.
 
 derivadas de factores sociales o culturales
 1.
-De conformidad con el artículo 35 del Decreto 65/2022, de 20 de julio, con el fin
+De conformidad con el artículo 35 del [Decreto 65/2022](./D65_2022_ordenacion_curriculo_educacion_secundaria_obligatoria_madrid.md), de 20 de julio, con el fin
 de hacer efectivo el principio de equidad, los alumnos que afronten barreras que limiten su
 aprendizaje y participación derivados, especialmente, de factores sociales, culturales o ét-
 nicos, podrán acceder a una intervención educativa de carácter compensatorio a través de
@@ -930,7 +947,7 @@ tivo, con los apoyos que cada uno precise.
 3.
 La evaluación continua del alumnado requiere su asistencia regular a las clases y a
 las actividades programadas para las distintas materias que constituyen el plan de estudios. De
-conformidad con el artículo 36.2 del Decreto 32/2019, de 9 de abril, los procedimientos ex-
+conformidad con el artículo 36.2 del [Decreto 32/2019](../07_convivencia_bienestar_y_protocolos/D32_2019_marco_regulador_convivencia_centros_docentes_madrid.md), de 9 de abril, los procedimientos ex-
 traordinarios de evaluación para los alumnos que superen el máximo de faltas de asistencia fi-
 jado en el plan de convivencia para la pérdida del derecho a la evaluación continua se concre-
 tarán para cada materia o ámbito en la correspondiente programación didáctica.
@@ -954,7 +971,7 @@ El carácter integrador de la evaluación no impedirá que el profesorado realic
 manera diferenciada la evaluación de cada materia o ámbito, teniendo en cuenta sus com-
 petencias específicas y criterios de evaluación.
 8.
-La evaluación de los ámbitos definidos en el artículo 7 del Decreto 65/2022, de 20 de
+La evaluación de los ámbitos definidos en el artículo 7 del [Decreto 65/2022](./D65_2022_ordenacion_curriculo_educacion_secundaria_obligatoria_madrid.md), de 20 de
 julio, se realizará también de forma integrada tomando como referentes para la misma las com-
 petencias específicas y criterios de evaluación de las materias que agrupa cada ámbito.
 
@@ -969,7 +986,7 @@ cada alumno, los miembros del equipo docente que impartan docencia al mismo.
 2.
 Los criterios de actuación para orientar la toma de decisiones de los equipos do-
 centes en los procesos de evaluación se incluirán en el proyecto educativo de centro, de
-acuerdo con lo regulado en el Decreto 65/2022, de 20 julio, y en esta orden.
+acuerdo con lo regulado en el [Decreto 65/2022](./D65_2022_ordenacion_curriculo_educacion_secundaria_obligatoria_madrid.md), de 20 julio, y en esta orden.
 3.
 Todas las decisiones del equipo docente, salvo las referentes a la promoción y a la
 titulación del alumno, serán adoptadas por consenso y, si ello no fuera posible, se adopta-
@@ -1505,23 +1522,23 @@ apartados anteriores.
 Obtendrán el título de Graduado en Educación Secundaria Obligatoria los alumnos
 que, al finalizar cuarto de la Educación Secundaria Obligatoria y a juicio del equipo docen-
 te, hayan adquirido las competencias clave establecidas en el perfil de salida y alcanzado los
-objetivos de etapa, sin perjuicio de lo dispuesto en el artículo 31.3 del Decreto 65/2022,
+objetivos de etapa, sin perjuicio de lo dispuesto en el artículo 31.3 del [Decreto 65/2022](./D65_2022_ordenacion_curriculo_educacion_secundaria_obligatoria_madrid.md),
 de 20 de julio.
 2.
 Las decisiones sobre la obtención del título serán adoptadas de forma colegiada por
 el equipo docente del alumno en los términos y condiciones establecidos en el artículo 21.4 del
-Decreto 65/2022, de 20 de julio, y de conformidad con los criterios de actuación recogidos
+[Decreto 65/2022](./D65_2022_ordenacion_curriculo_educacion_secundaria_obligatoria_madrid.md), de 20 de julio, y de conformidad con los criterios de actuación recogidos
 en el proyecto educativo de centro. En todo caso, titularán aquellos alumnos que hayan su-
 perado todas las materias y ámbitos cursados, dado que este hecho implica que el alumno
 ha adquirido el conjunto de los descriptores del perfil de salida recogidos en el anexo I del
-Real Decreto 217/2022, de 29 de marzo, por el que se establece la ordenación y las ense-
+[Real Decreto 217/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD217_2022_establece_ordenacion_ensenanzas_minimas_educacion_secundaria.md), de 29 de marzo, por el que se establece la ordenación y las ense-
 ñanzas mínimas de la Educación Secundaria Obligatoria, así como que ha alcanzado los ob-
 jetivos de etapa.
 3.
 Para facilitar la toma de decisiones por parte de los equipos docentes acerca de la
 titulación, estos podrán considerar que los alumnos han adquirido las competencias estable-
 cidas y alcanzado los objetivos de etapa y, consecuentemente, podrán titular, cuando el con-
-junto de la carga lectiva semanal recogida en el anexo I del Decreto 65/2022, de 20 de ju-
+junto de la carga lectiva semanal recogida en el anexo I del [Decreto 65/2022](./D65_2022_ordenacion_curriculo_educacion_secundaria_obligatoria_madrid.md), de 20 de ju-
 lio, de las materias no superadas por el alumno en la Educación Secundaria Obligatoria sea
 inferior a doce horas y el alumno haya obtenido una nota media de la etapa, igual o supe-
 rior a cinco.
@@ -1545,7 +1562,7 @@ tras superar el límite de edad establecido
 1.
 Quienes, una vez finalizado el proceso de evaluación de cuarto curso de Educación
 Secundaria Obligatoria, no hayan obtenido el título y hayan superado el límite de edad esta-
-blecido en artículo 3.1 del Decreto 65/2022, de 20 de julio, podrán obtenerlo en los dos cur-
+blecido en artículo 3.1 del [Decreto 65/2022](./D65_2022_ordenacion_curriculo_educacion_secundaria_obligatoria_madrid.md), de 20 de julio, podrán obtenerlo en los dos cur-
 sos siguientes mediante la realización de pruebas o actividades personalizadas extraordinarias
 de las materias o ámbitos que no hayan superado, de acuerdo con el currículo cursado.
 Estos alumnos realizarán las pruebas y actividades de evaluación en el último centro
@@ -1823,7 +1840,7 @@ Educación Secundaria Obligatoria en el ámbito territorial de la Comunidad de M
 #### Artículo 42. Traslado de centro docente una vez iniciado el curso escolar y antes de su finalización
 
 1.
-Cuando por alguno de los motivos recogidos en el artículo 12 del Decreto 29/2013,
+Cuando por alguno de los motivos recogidos en el artículo 12 del [Decreto 29/2013](../05_alumnado_y_servicios_escolares/D29_2013_libertad_eleccion_centro_escolar_madrid.md),
 de 11 de abril, del Consejo de Gobierno, de libertad de elección de centro escolar en la Co-
 munidad de Madrid, un alumno deba trasladarse de centro docente a lo largo del curso esco-
 lar, los padres o tutores legales deberán solicitar en el centro de origen el informe para el
@@ -1908,7 +1925,7 @@ oficial a la que se refiere el artículo 40.
 3.
 Los padres o tutores legales tendrán derecho de acceso a la información sobre la
 concreción del currículo desarrollada por el centro a través del proyecto educativo del mis-
-mo que, de conformidad con lo dispuesto en el artículo 121.3 de la Ley Orgánica 2/2006,
+mo que, de conformidad con lo dispuesto en el artículo 121.3 de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md),
 de 3 de mayo, deberá hacerse público con objeto de facilitar su conocimiento por el conjun-
 to de la comunidad educativa.
 
@@ -2116,7 +2133,7 @@ La materia de Música del cuarto curso de la Educación Secundaria Obligatoria s
 podrá convalidar con la asignatura de Música de segundo curso de las enseñanzas profesio-
 nales de Danza.
 5.
-La materia optativa a la que se refiere el artículo 9 del Decreto 65/2022, de 20 de
+La materia optativa a la que se refiere el artículo 9 del [Decreto 65/2022](./D65_2022_ordenacion_curriculo_educacion_secundaria_obligatoria_madrid.md), de 20 de
 julio, podrá ser convalidada por una o más asignaturas de las enseñanzas profesionales de Mú-
 sica o de Danza que tengan en conjunto una carga horaria no inferior a una hora y media se-
 manal y no hayan sido utilizadas para convalidar otra materia, a elección del alumno.
@@ -2229,26 +2246,26 @@ ni se tendrá en cuenta a efectos del cálculo de la calificación final de la e
 #### Disposición ADICIONAL PRIMERA. Expediente académico e historial académico de la Educación Secundaria Obligatoria
 
 de los alumnos que cursen parte de esta etapa educativa en el marco del sistema
-derivado de la Ley Orgánica 8/2013, de 9 de diciembre, y otra parte en el marco
+derivado de la [Ley Orgánica 8/2013](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md), de 9 de diciembre, y otra parte en el marco
 del sistema derivado de la Ley Orgánica 3/2020, de 29 de diciembre
 1.
 El expediente académico del alumnado que haya cursado enseñanzas de Educación
-Secundaria Obligatoria derivadas de la Ley Orgánica 8/2013, de 9 de diciembre, para la me-
+Secundaria Obligatoria derivadas de la [Ley Orgánica 8/2013](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md), de 9 de diciembre, para la me-
 jora de la calidad educativa, y se incorpore al sistema educativo derivado de la Ley Orgá-
 nica 3/2020, de 29 de diciembre, será un expediente académico mixto que recogerá, al menos,
-conforme al artículo 26 del Decreto 65/2022, de 20 de julio, las calificaciones y los resulta-
+conforme al artículo 26 del [Decreto 65/2022](./D65_2022_ordenacion_curriculo_educacion_secundaria_obligatoria_madrid.md), de 20 de julio, las calificaciones y los resulta-
 dos de la evaluación de todas las materias o ámbitos cursados por el alumno conforme a la
 ordenación establecida en ambas leyes orgánicas, en función del momento en el que se cur-
 saron las enseñanzas, las decisiones de promoción, permanencia o titulación, las medidas de
 apoyo educativo, las adaptaciones curriculares que se hayan adoptado para el mismo y, en
 su caso, la fecha de entrega de la certificación de haber concluido la escolarización obliga-
-toria a la que se refiere el artículo 23.5 del citado Decreto 65/2022, de 20 de julio.
+toria a la que se refiere el artículo 23.5 del citado [Decreto 65/2022](./D65_2022_ordenacion_curriculo_educacion_secundaria_obligatoria_madrid.md), de 20 de julio.
 2.
 El historial académico del alumnado que haya cursado enseñanzas de Educación
-Secundaria Obligatoria derivadas de la Ley Orgánica 8/2013, de 9 de diciembre, para la me-
+Secundaria Obligatoria derivadas de la [Ley Orgánica 8/2013](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md), de 9 de diciembre, para la me-
 jora de la calidad educativa, y se incorpore al sistema educativo derivado de la Ley Orgá-
 nica 3/2020, de 29 de diciembre, será un historial académico mixto que recogerá, confor-
-me al artículo 27 del Decreto 65/2022, de 20 de julio, los datos identificativos del alumno,
+me al artículo 27 del [Decreto 65/2022](./D65_2022_ordenacion_curriculo_educacion_secundaria_obligatoria_madrid.md), de 20 de julio, los datos identificativos del alumno,
 las materias o ámbitos cursados conforme a la ordenación establecida en ambas leyes orgá-
 nicas, en función del momento en el que se cursaron las enseñanzas en cada uno de los años
 de escolarización en la Educación Secundaria Obligatoria, las medidas curriculares y orga-
@@ -2257,7 +2274,7 @@ nencia o titulación, la información relativa a los cambios de centro y las fec
 han producido los diferentes hitos. Deberá incluir, asimismo, la indicación de las materias
 que se han cursado con adaptaciones curriculares significativas.
 3.
-Sin perjuicio de lo dispuesto en el artículo 27.4, del Decreto 65/2022, de 20 de julio,
+Sin perjuicio de lo dispuesto en el artículo 27.4, del [Decreto 65/2022](./D65_2022_ordenacion_curriculo_educacion_secundaria_obligatoria_madrid.md), de 20 de julio,
 el historial académico del alumno que finalice la Educación Secundaria Obligatoria incluirá
 la nota media de la etapa que se obtendrá del cálculo de la media aritmética de las calificacio-
 nes numéricas obtenidas en cada una de las materias cursadas por el alumno conforme a la or-
@@ -2273,7 +2290,7 @@ En lo referente a la obtención de los datos personales del alumnado, a la cesi�
 mismos de unos centros a otros y a la seguridad y confidencialidad de estos, se estará a lo
 dispuesto en el Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo, de 27
 de abril de 2016, relativo a la protección de las personas físicas en lo que respecta al trata-
-miento de datos personales y en lo establecido en la Ley Orgánica 3/2018, de 5 de diciem-
+miento de datos personales y en lo establecido en la [Ley Orgánica 3/2018](../../../estatal/02_gestion_y_administracion_centros/LO3_2018_proteccion_datos_personales_garantia_derechos_digitales.md), de 5 de diciem-
 bre, de Protección de Datos Personales y garantía de los derechos digitales.
 
 #### Disposición ADICIONAL TERCERA. Libros de texto y materiales curriculares
@@ -2281,7 +2298,7 @@ bre, de Protección de Datos Personales y garantía de los derechos digitales.
 1.
 Los libros de texto y demás materiales curriculares que hayan de utilizarse en cada
 curso de esta etapa deberán atenerse a lo que establece la disposición adicional cuarta de la Ley
-Orgánica 2/2006, de 3 de mayo, de Educación y al currículo establecido en el Decreto 65/2022,
+Orgánica 2/2006, de 3 de mayo, de Educación y al currículo establecido en el [Decreto 65/2022](./D65_2022_ordenacion_curriculo_educacion_secundaria_obligatoria_madrid.md),
 de 20 de julio.
 2.
 Los Servicios de Inspección Educativa supervisarán los libros de texto y demás
@@ -2303,7 +2320,7 @@ efectuará en el expediente académico del alumno y en el apartado de observacio
 torial académico de la Educación Secundaria Obligatoria.
 2.
 Sin perjuicio de que los centros docentes bilingües, en virtud de la disposición adi-
-cional segunda del Decreto 65/2022, de 20 de julio, se regirán por su normativa específica, la
+cional segunda del [Decreto 65/2022](./D65_2022_ordenacion_curriculo_educacion_secundaria_obligatoria_madrid.md), de 20 de julio, se regirán por su normativa específica, la
 consignación de que un alumno ha cursado en un centro bilingüe el programa bilingüe o la
 sección bilingüe en alguna de las lenguas extranjeras autorizadas para ello en la Educación
 Secundaria Obligatoria se efectuará en el expediente académico del alumno y en el apartado
@@ -2347,16 +2364,16 @@ cedentes académicos los resultados de la evaluación expresados de forma cualit
 Los centros privados adecuarán a su organización y sus normas de funcionamiento las
 referencias a los órganos de gobierno y coordinación docente recogidas en esta orden. En
 su caso, podrán ejercer en aquellos aspectos en que sea de aplicación la autonomía recogi-
-da en el artículo veinticinco de la Ley Orgánica 8/1985, de 3 de julio, reguladora del Dere-
+da en el artículo veinticinco de la [Ley Orgánica 8/1985](../../../estatal/02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md), de 3 de julio, reguladora del Dere-
 cho a la Educación.
 
-#### Disposición ADICIONAL SÉPTIMA. Alumnado que haya cursado enseñanzas derivadas de la Ley Orgánica 8/2013,
+#### Disposición ADICIONAL SÉPTIMA. Alumnado que haya cursado enseñanzas derivadas de la [Ley Orgánica 8/2013](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md),
 
 de 9 de diciembre, y finalice la Educación Secundaria Obligatoria con
 las enseñanzas derivadas de la Ley Orgánica 3/2020, de 29 de diciembre
 1.
 Los alumnos con materias pendientes de superar de cursos anteriores que hayan
-sido cursadas conforme a la Ley Orgánica 8/2013, de 29 de diciembre, serán evaluados de
+sido cursadas conforme a la [Ley Orgánica 8/2013](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md), de 29 de diciembre, serán evaluados de
 las mismas, si continúan formando parte de la organización del curso correspondiente a la
 ordenación derivada de la Ley Orgánica 3/2020, de 29 de diciembre, o bien, si las materias
 están incluidas en el anexo I del Real Decreto 205/2023, de 28 de marzo, por el que se es-

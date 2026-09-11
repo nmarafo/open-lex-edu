@@ -31,8 +31,9 @@ relaciones:
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-l-39-2015
   - norma_id: norm-es-l-40-2015
+fundamentos_derecho:
+- norma_id: norm-and-l17-2007
 ---
-
 # Resolución de 1 de septiembre de 2025, de la Dirección General de Ordenación, por la que se dictan instrucciones para el curso 2025/2026.
 
 ## Preámbulo

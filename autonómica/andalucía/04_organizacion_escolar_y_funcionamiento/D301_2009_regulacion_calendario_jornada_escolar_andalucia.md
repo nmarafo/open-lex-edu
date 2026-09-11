@@ -15,8 +15,18 @@ estado: Vigente
 redaccion: original
 fuente_oficial: https://www.juntadeandalucia.es/boja/2009/139/1
 fuente_pdf_oficial: https://www.juntadeandalucia.es/boja/2009/139/1/pdf
+clasificacion:
+  categoria_canonica: 04_organizacion_escolar_y_funcionamiento
+  subcategoria: Calendario escolar y jornadas
+fundamentos_derecho:
+- norma_id: norm-and-l17-2007
+- norma_id: norm-and-l6-2006-gobierno-comunidad-autonoma-andalucia
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-lo-8-1985
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
 ---
-
 # Decreto 301/2009, de 14 de julio, por el que se regula el calendario y la jornada escolar en los centros docentes, a excepción de los universitarios
 
 ## Preámbulo
@@ -47,15 +57,15 @@ más
 
 La Comunidad Autónoma de Andalucía ostenta la competencia compartida para establecer la ordenación del sector educativo y de la actividad docente de conformidad con lo dispuesto en el artículo 52.2 del Estatuto de Autonomía para Andalucía, sin perjuicio de lo recogido en el artículo 149.1.30.ª de la Constitución, a tenor del cual corresponde al Estado dictar las normas básicas para el desarrollo del artículo 27 de la norma fundamental, a fin de garantizar el cumplimiento de las obligaciones de los poderes públicos en esta materia.
 
-La disposición adicional quinta de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, establece que el calendario escolar, que fijarán anualmente las administraciones educativas, comprenderá un mínimo de 175 días lectivos para las enseñanzas obligatorias. Por su parte, el artículo 125.1 y 2 de la Ley 17/2007, de 10 de diciembre, de Educación de Andalucía, establece que los centros docentes contarán con autonomía pedagógica, de organización y de gestión para poder llevar a cabo modelos de funcionamiento propios, en el marco de la legislación vigente, y que dichos modelos podrán contemplar planes de trabajo, formas de organización, agrupamientos del alumnado, ampliación del horario escolar o proyectos de innovación e investigación, de acuerdo con lo que establezca al respecto la Consejería competente en materia de educación.
+La disposición adicional quinta de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, establece que el calendario escolar, que fijarán anualmente las administraciones educativas, comprenderá un mínimo de 175 días lectivos para las enseñanzas obligatorias. Por su parte, el artículo 125.1 y 2 de la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre, de Educación de Andalucía, establece que los centros docentes contarán con autonomía pedagógica, de organización y de gestión para poder llevar a cabo modelos de funcionamiento propios, en el marco de la legislación vigente, y que dichos modelos podrán contemplar planes de trabajo, formas de organización, agrupamientos del alumnado, ampliación del horario escolar o proyectos de innovación e investigación, de acuerdo con lo que establezca al respecto la Consejería competente en materia de educación.
 
 Tras la experiencia acumulada desde la aprobación de la última normativa respecto al calendario y la jornada escolar, el presente Decreto contempla el adelanto del comienzo del curso, con objeto de que las Delegaciones Provinciales de la Consejería competente en materia de educación y los propios centros docentes, en uso de su autonomía pedagógica y organizativa, dispongan de mayor margen para conjugar el tiempo dedicado al horario lectivo y al de ocio, necesario e indispensable, igualmente, para la mejora del rendimiento académico y de la madurez personal del alumnado.
 
 El presente Decreto atribuye a las Delegaciones Provinciales de la Consejería competente en materia de educación la competencia para la elaboración y aprobación del calendario escolar para los centros docentes públicos y privados y establece el régimen ordinario de clase para las distintas enseñanzas que conforman el sistema educativo. Asimismo, regula la jornada escolar de los centros docentes sostenidos con fondos públicos de la Comunidad Autónoma de Andalucía, considerando la especificidad y las características de cada uno de los niveles educativos.
 
-En la tramitación de la presente norma se han cumplimentado los trámites de audiencia e información pública, de conformidad con lo establecido en el artículo 45.1.c) de la Ley 6/2006, de 24 de octubre, del Gobierno de la Comunidad Autónoma de Andalucía, y ha emitido informe el Consejo Escolar de Andalucía.
+En la tramitación de la presente norma se han cumplimentado los trámites de audiencia e información pública, de conformidad con lo establecido en el artículo 45.1.c) de la [Ley 6/2006](../01_marco_normativo_general_y_organico/L6_2006_gobierno_comunidad_autonoma_andalucia.md), de 24 de octubre, del Gobierno de la Comunidad Autónoma de Andalucía, y ha emitido informe el Consejo Escolar de Andalucía.
 
-En su virtud, a propuesta de la Consejera de Educación de conformidad con lo establecido en el artículo 27.9 de la Ley 6/2006, de 24 de octubre, de acuerdo con el Consejo Consultivo de Andalucía y previa deliberación del Consejo de Gobierno, en su reunión del día 14 de julio de 2009,
+En su virtud, a propuesta de la Consejera de Educación de conformidad con lo establecido en el artículo 27.9 de la [Ley 6/2006](../01_marco_normativo_general_y_organico/L6_2006_gobierno_comunidad_autonoma_andalucia.md), de 24 de octubre, de acuerdo con el Consejo Consultivo de Andalucía y previa deliberación del Consejo de Gobierno, en su reunión del día 14 de julio de 2009,
 
 DISPONGO
 
@@ -91,7 +101,7 @@ i) Régimen ordinario de clase, el período de tiempo de un curso académico ded
 
 Artículo 3. Ámbito de aplicación.
 
-1. Lo regulado en el presente Decreto sobre calendario escolar será de aplicación a todos los centros docentes públicos y privados que impartan el currículo correspondiente a las enseñanzas que contempla la Ley 17/2007, de 10 de diciembre, de Educación de Andalucía.
+1. Lo regulado en el presente Decreto sobre calendario escolar será de aplicación a todos los centros docentes públicos y privados que impartan el currículo correspondiente a las enseñanzas que contempla la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre, de Educación de Andalucía.
 
 2. Las previsiones relativas a la jornada escolar serán de aplicación a los centros docentes públicos y privados concertados de la Comunidad Autónoma de Andalucía.
 
@@ -213,7 +223,7 @@ Jornada escolar de los centros docentes sostenidos con fondos públicos
 
 Artículo 12. Criterios generales.
 
-1. De conformidad con lo establecido en el artículo 125 de la Ley 17/2007, de 10 de diciembre, los centros docentes contarán con autonomía pedagógica, de organización y de gestión para poder llevar a cabo modelos de funcionamiento propios que podrán contemplar la ampliación del horario escolar.
+1. De conformidad con lo establecido en el artículo 125 de la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre, los centros docentes contarán con autonomía pedagógica, de organización y de gestión para poder llevar a cabo modelos de funcionamiento propios que podrán contemplar la ampliación del horario escolar.
 
 2. La jornada escolar de cada centro docente sostenido con fondos públicos se organizará de forma que se realice una oferta de jornada que permita la plena formación del alumnado y la utilización educativa de su tiempo de ocio, así como de las instalaciones disponibles en el recinto escolar. A tales efectos, la jornada escolar deberá compaginar el horario lectivo con otros horarios dedicados a actividades complementarias o extraescolares, integrándolos en un proyecto educativo conjunto.
 
@@ -295,7 +305,7 @@ Las competencias atribuidas a los Consejos Escolares en el procedimiento para la
 
 Disposición adicional cuarta. De los centros privados no concertados.
 
-De conformidad con lo establecido en el artículo 25 de la Ley Orgánica 8/1985, de 3 de julio, reguladora del Derecho a la Educación, los centros privados no concertados gozarán de autonomía para organizar la jornada en función de las necesidades sociales y educativas de sus alumnos y ampliar el horario lectivo de áreas o materias.
+De conformidad con lo establecido en el artículo 25 de la [Ley Orgánica 8/1985](../../../estatal/02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md), de 3 de julio, reguladora del Derecho a la Educación, los centros privados no concertados gozarán de autonomía para organizar la jornada en función de las necesidades sociales y educativas de sus alumnos y ampliar el horario lectivo de áreas o materias.
 
 Disposición Transitoria única. Aprobación y publicación del calendario escolar.
 

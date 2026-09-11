@@ -26,8 +26,17 @@ tags:
 - ordenacion_academica
 - ciclos_formativos
 - comunidad_de_madrid
+fundamentos_derecho:
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-mad-d-52-2021
+- norma_id: norm-mad-l1-1983-gobierno-administracion-comunidad-madrid
+- norma_id: norm-mad-d-187-2021
+- norma_id: norm-es-l-39-2015
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
+- norma_id: norm-es-2007-10487
 ---
-
 # Decreto 17/2023, de 15 de marzo, del Consejo de Gobierno, por el que se regula la ordenación y la organización general de las enseñanzas profesionales de artes plásticas y diseño en la Comunidad de Madrid
 
 ## Preámbulo
@@ -38,19 +47,19 @@ ción de la enseñanza en toda su extensión, niveles y grados, modalidades y es
 de acuerdo con lo dispuesto en el artículo 27 de la Constitución española y leyes orgánicas
 que, conforme al apartado 1 del artículo 81 de la misma lo desarrollen, y sin perjuicio de
 las facultades que el artículo 149.1.30 de la Constitución española atribuye al Estado.
-La Ley Orgánica 2/2006, de 3 de mayo, de Educación, establece en su capítulo VI del
+La [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, establece en su capítulo VI del
 título I los principios generales y la ordenación de las enseñanzas artísticas, señalando que
 estas tienen como finalidad proporcionar al alumnado una formación artística de calidad y
 garantizar la cualificación de los futuros profesionales de la música, danza, el arte dramáti-
 co, las artes plásticas y diseño, además de establecer la organización, los requisitos de ac-
 ceso y la obtención de las titulaciones correspondientes de estas enseñanzas.
-De acuerdo con el artículo 45 de la Ley Orgánica 2/2006, de 3 de mayo, dentro de la
+De acuerdo con el artículo 45 de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, dentro de la
 ordenación de las enseñanzas artísticas se incorporan las enseñanzas profesionales de artes
 plásticas y diseño. Y en su artículo 3 incluye, dentro de la educación secundaria postobli-
 gatoria, las enseñanzas artísticas profesionales de artes plásticas y diseño de grado medio
 y, dentro de la educación superior, las enseñanzas profesionales de artes plásticas y diseño
 de grado superior.
-En desarrollo de la normativa citada, se dictó el Real Decreto 596/2007, de 4 de mayo,
+En desarrollo de la normativa citada, se dictó el [Real Decreto 596/2007](../../../estatal/05_alumnado_y_servicios_escolares/RD596_2007_establece_ordenacion_general_ensenanzas_profesionales_artes.md), de 4 de mayo,
 por el que se establece la ordenación general de las enseñanzas profesionales de artes plás-
 ticas y diseño, que define estas enseñanzas como el conjunto de acciones formativas que
 capacitan para el desempeño cualificado de las diversas profesiones relacionadas con el ám-
@@ -61,7 +70,7 @@ decreto concreta aspectos básicos relacionados con la ordenación y la organiza
 de las enseñanzas artísticas profesionales de artes plásticas y diseño, la regulación en ma-
 teria de títulos y el régimen de convalidaciones y exenciones.
 Posteriormente, la Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la
-Ley Orgánica 2/2006, de 3 de mayo, de Educación, introduce algunas modificaciones en re-
+[Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, introduce algunas modificaciones en re-
 lación con el acceso a las enseñanzas artísticas.
 Como consecuencia de esta modificación, se aprobó una adaptación del Real Decre-
 to 596/2007, de 4 de mayo, mediante el Real Decreto 628/2022, de 26 de julio, por el que se
@@ -76,7 +85,7 @@ En el ejercicio de sus competencias de desarrollo en esta materia, la Comunidad 
 ha aprobado los planes de estudio de los distintos títulos de dichas enseñanzas; el Decre-
 to 72/2013, de 19 de septiembre, del Consejo de Gobierno, por el que se establece la auto-
 nomía de los centros para la fijación de los planes de estudio de los ciclos formativos de gra-
-do medio y de grado superior de Artes Plásticas y Diseño, y el Decreto 187/2021, de 21 de
+do medio y de grado superior de Artes Plásticas y Diseño, y el [Decreto 187/2021](./D187_2021_pruebas_acceso_ciclos_formativos_fp_artes_plasticas_madrid.md), de 21 de
 julio, del Consejo de Gobierno, por el que se regulan las pruebas de acceso a ciclos forma-
 tivos de formación profesional y a las enseñanzas profesionales de artes plásticas y diseño
 y la prueba sustitutiva de los requisitos académicos establecidos para el acceso a las ense-
@@ -90,7 +99,7 @@ la Comunidad de Madrid, un marco normativo general que regule la ordenación de 
 señanzas profesionales de artes plásticas y diseño de acuerdo con la normativa básica antes
 citada, recogiendo además en la misma norma la regulación de la autonomía de los centros
 docentes que imparten dichas enseñanzas.
-Por otro lado, mediante este decreto, se procede a la modificación del Decreto 187/2021,
+Por otro lado, mediante este decreto, se procede a la modificación del [Decreto 187/2021](./D187_2021_pruebas_acceso_ciclos_formativos_fp_artes_plasticas_madrid.md),
 de 21 de julio, que obedece a la adecuación de la norma autonómica a las últimas noveda-
 des mencionadas en la normativa estatal.
 En definitiva, la importancia de disponer de una adecuada regulación que ordene estas
@@ -116,11 +125,11 @@ autonomía que permitan cursar simultáneamente dos ciclos formativos con módul
 nes y obtener dos titulaciones en menos tiempo, se impulsa el desarrollo de proyectos de in-
 novación y de emprendimiento y el desarrollo, previa autorización, de cursos de especiali-
 zación. Con el fin de lograr mayor coherencia en los aspectos relacionados con las pruebas
-de acceso, se modifica el Decreto 187/2021, de 21 de julio, y se unifica la estructura de las
+de acceso, se modifica el [Decreto 187/2021](./D187_2021_pruebas_acceso_ciclos_formativos_fp_artes_plasticas_madrid.md), de 21 de julio, y se unifica la estructura de las
 pruebas específicas de acceso a los ciclos formativos, actualizando las mismas.
-De acuerdo con lo dispuesto en el artículo 129 de la Ley 39/2015, de 1 de octubre, del
+De acuerdo con lo dispuesto en el artículo 129 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del
 Procedimiento Administrativo Común de las Administraciones Públicas, y de conformidad
-con el artículo 2 del Decreto 52/2021, de 24 de marzo, del Consejo de Gobierno, por el que
+con el artículo 2 del [Decreto 52/2021](../01_marco_normativo_general_y_organico/D52_2021_procedimiento_elaboracion_disposiciones_normativas_madrid.md), de 24 de marzo, del Consejo de Gobierno, por el que
 se regula y simplifica el procedimiento de elaboración de las disposiciones normativas de
 carácter general en la Comunidad de Madrid, la presente disposición normativa se ajusta a
 las exigencias de los principios de necesidad y eficacia, puesto que desarrolla, unifica y ac-
@@ -142,7 +151,7 @@ También se cumple el principio de transparencia, conforme a lo establecido en l
 Ley 10/2019, de 10 de abril, de Transparencia y de Participación de la Comunidad de Madrid,
 habiéndose realizado el trámite de la consulta pública, así como el trámite de audiencia e in-
 formación públicas, ambos a través del Portal de Transparencia de la Comunidad de Madrid,
-según lo dispuesto en los artículos 5 y 9 del Decreto 52/2021, de 24 de marzo.
+según lo dispuesto en los artículos 5 y 9 del [Decreto 52/2021](../01_marco_normativo_general_y_organico/D52_2021_procedimiento_elaboracion_disposiciones_normativas_madrid.md), de 24 de marzo.
 
 MARTES 21 DE MARZO DE 2023
 BOCM
@@ -150,7 +159,7 @@ El presente decreto se ha sometido a dictamen del Consejo Escolar de la Comunida
 de Madrid y ha sido informado, asimismo, por la Abogacía General de la Comunidad de
 Madrid.
 El Consejo de Gobierno de la Comunidad de Madrid es competente para dictar el pre-
-sente decreto, de acuerdo con lo establecido en el artículo 21.g) de la Ley 1/1983, de 13 de
+sente decreto, de acuerdo con lo establecido en el artículo 21.g) de la [Ley 1/1983](../01_marco_normativo_general_y_organico/L1_1983_gobierno_administracion_comunidad_madrid.md), de 13 de
 diciembre, del Gobierno y Administración de la Comunidad de Madrid.
 En su virtud, a propuesta del Vicepresidente, Consejero de Educación y Universida-
 des, de acuerdo con la Comisión Jurídica Asesora de la Comunidad de Madrid, previa de-
@@ -170,7 +179,7 @@ Madrid.
 #### Artículo 2
 Finalidad
 Las enseñanzas profesionales de artes plásticas y diseño, de conformidad con lo esta-
-blecido en el artículo 2 del Real Decreto 596/2007, de 4 de mayo, por el que se establece la
+blecido en el artículo 2 del [Real Decreto 596/2007](../../../estatal/05_alumnado_y_servicios_escolares/RD596_2007_establece_ordenacion_general_ensenanzas_profesionales_artes.md), de 4 de mayo, por el que se establece la
 ordenación general de las enseñanzas profesionales de artes plásticas y diseño, tienen como
 finalidad:
 a)
@@ -187,7 +196,7 @@ do, y fomentar el espíritu emprendedor y la formación a lo largo de la vida.
 Objetivos
 1.
 Las enseñanzas profesionales de artes plásticas y diseño, conforme a lo dispuesto
-en el artículo 3 del Real Decreto 596/2007, de 4 de mayo, tienen como objetivo que los
+en el artículo 3 del [Real Decreto 596/2007](../../../estatal/05_alumnado_y_servicios_escolares/RD596_2007_establece_ordenacion_general_ensenanzas_profesionales_artes.md), de 4 de mayo, tienen como objetivo que los
 alumnos sean capaces de:
 a)
 Desarrollar la competencia propia de cada título e iniciar la práctica profesional
@@ -247,7 +256,7 @@ Los ciclos formativos de grado medio y de grado superior de artes plásticas y d
 ño se estructurarán en cursos académicos y se organizarán en módulos formativos de dura-
 ción variable. Los objetivos, contenidos, competencias y criterios de evaluación correspon-
 dientes a los distintos módulos formativos estarán vinculados a las finalidades y objetivos
-contemplados en los artículos 2 y 3, según dispone el artículo 6 del Real Decreto 596/2007,
+contemplados en los artículos 2 y 3, según dispone el artículo 6 del [Real Decreto 596/2007](../../../estatal/05_alumnado_y_servicios_escolares/RD596_2007_establece_ordenacion_general_ensenanzas_profesionales_artes.md),
 de 4 de mayo.
 3.
 Con el fin de promover la formación a lo largo de la vida y actualizar las compe-
@@ -338,7 +347,7 @@ centro.
 Módulo de obra final y módulo de proyecto integrado
 1.
 Las enseñanzas profesionales de artes plásticas y diseño, de conformidad con lo
-dispuesto en el artículo 8 del Real Decreto 596/2007, de 4 de mayo, incorporarán en el gra-
+dispuesto en el artículo 8 del [Real Decreto 596/2007](../../../estatal/05_alumnado_y_servicios_escolares/RD596_2007_establece_ordenacion_general_ensenanzas_profesionales_artes.md), de 4 de mayo, incorporarán en el gra-
 do medio un módulo de obra final y, en el grado superior un módulo de proyecto integra-
 do, cuya superación será necesaria para la obtención del título correspondiente.
 2.
@@ -511,7 +520,7 @@ neral para la obtención del título correspondiente.
 2.
 En ningún caso los proyectos de autonomía supondrán discriminación de ningún
 tipo, ni impondrán aportaciones a las familias, ni exigencias a la Administración educativa,
-conforme a lo dispuesto en el artículo 120.4 de la Ley Orgánica 2/2006, de 3 de mayo. En
+conforme a lo dispuesto en el artículo 120.4 de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo. En
 los centros sostenidos con fondos públicos, tampoco supondrán incremento de profesorado
 ni de las ratios generales fijadas para cada ejercicio en los Presupuestos Generales de la Co-
 munidad de Madrid.
@@ -579,7 +588,7 @@ BOCM
 Convocatorias
 1.
 El número máximo de convocatorias para la superación de cada módulo formativo
-será de cuatro, de conformidad con lo dispuesto en el artículo 19 del Real Decreto 596/2007,
+será de cuatro, de conformidad con lo dispuesto en el artículo 19 del [Real Decreto 596/2007](../../../estatal/05_alumnado_y_servicios_escolares/RD596_2007_establece_ordenacion_general_ensenanzas_profesionales_artes.md),
 de 4 de mayo.
 2.
 Para la superación de la fase de formación práctica en empresas, estudios y talle-
@@ -771,7 +780,7 @@ normativa del plan de estudios, el curso académico, las calificaciones obtenida
 presión de la convocatoria (ordinaria o extraordinaria), los módulos que hayan sido objeto
 de convalidación o correspondencia con la práctica laboral y, en su caso, las anulaciones de
 matrícula o renuncia a convocatorias de conformidad a lo establecido en el artículo 20 del
-Real Decreto 596/2007, de 4 de mayo.
+[Real Decreto 596/2007](../../../estatal/05_alumnado_y_servicios_escolares/RD596_2007_establece_ordenacion_general_ensenanzas_profesionales_artes.md), de 4 de mayo.
 6.
 Cuando el alumno se traslade de centro, se consignará en un informe de evalua-
 ción individualizado toda la información que resulte necesaria para la continuidad del pro-
@@ -802,7 +811,7 @@ dichos estudios.
 2.
 Las convalidaciones no contempladas en el apartado anterior deberán ser solicita-
 das al Ministerio competente en materia de Educación, según establece el artículo 23 del
-Real Decreto 596/2007, de 4 de mayo.
+[Real Decreto 596/2007](../../../estatal/05_alumnado_y_servicios_escolares/RD596_2007_establece_ordenacion_general_ensenanzas_profesionales_artes.md), de 4 de mayo.
 3.
 Los módulos formativos que sean objeto de convalidación figurarán en el expe-
 diente académico del alumno con la expresión de “Convalidado (CV)”.
@@ -815,19 +824,19 @@ que regule cada título.
 2.
 Las convalidaciones entre enseñanzas profesionales de artes plásticas y diseño y las
 enseñanzas de formación profesional y otras enseñanzas de régimen especial serán las estable-
-cidas por el Gobierno de la Nación, según establece el artículo 26 del Real Decreto 596/2007,
+cidas por el Gobierno de la Nación, según establece el artículo 26 del [Real Decreto 596/2007](../../../estatal/05_alumnado_y_servicios_escolares/RD596_2007_establece_ordenacion_general_ensenanzas_profesionales_artes.md),
 de 4 de mayo.
 3.
 Las convalidaciones que pudieran establecerse entre las enseñanzas profesionales de
 artes plásticas y diseño de grado superior y las enseñanzas artísticas superiores de diseño, de
 artes plásticas y de conservación y restauración de bienes culturales, serán las establecidas
 por la regulación que realice el Gobierno de la Nación, según establece el artículo 27 del
-Real Decreto 596/2007, de 4 de mayo.
+[Real Decreto 596/2007](../../../estatal/05_alumnado_y_servicios_escolares/RD596_2007_establece_ordenacion_general_ensenanzas_profesionales_artes.md), de 4 de mayo.
 4.
 Las convalidaciones que pudieran establecerse entre las enseñanzas profesionales de
 artes plásticas y diseño de grado superior y las enseñanzas universitarias, serán las estableci-
 das por la regulación que realice el Gobierno de la Nación, según establece el artículo 28 del
-Real Decreto 596/2007, de 4 de mayo.
+[Real Decreto 596/2007](../../../estatal/05_alumnado_y_servicios_escolares/RD596_2007_establece_ordenacion_general_ensenanzas_profesionales_artes.md), de 4 de mayo.
 #### Artículo 27
 Convalidaciones de módulos formativos propios de la Comunidad de Madrid
 1.
@@ -853,7 +862,7 @@ módulos o del ejercicio profesional específico del ciclo formativo correspondi
 acuerdo con lo establecido en la norma que regule cada título.
 2.
 La experiencia laboral a que se refiere el apartado anterior se acreditará mediante
-la documentación que se indica en el artículo 15.4 del Real Decreto 596/2007, de 4 de
+la documentación que se indica en el artículo 15.4 del [Real Decreto 596/2007](../../../estatal/05_alumnado_y_servicios_escolares/RD596_2007_establece_ordenacion_general_ensenanzas_profesionales_artes.md), de 4 de
 mayo: Certificación de la empresa donde haya adquirido la experiencia laboral, en la que
 conste específicamente la duración del contrato, la actividad desarrollada y el período de
 tiempo en el que se ha realizado dicha actividad. En el caso de trabajadores por cuenta pro-
@@ -893,13 +902,13 @@ Acceso y admisión
 #### Artículo 30
 Requisitos de acceso a las enseñanzas profesionales de artes plásticas y diseño
 1.
-Conforme al artículo 52.1 de la Ley Orgánica 2/2006, de 3 de mayo, para acceder
+Conforme al artículo 52.1 de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, para acceder
 al grado medio de las enseñanzas profesionales de artes plásticas y diseño será necesario
 estar en posesión del título de Graduado en Educación Secundaria Obligatoria o título de-
 clarado equivalente y, además, acreditar las aptitudes necesarias mediante la superación de
 una prueba específica.
 2.
-Conforme al artículo 52.2 de la Ley Orgánica 2/2006, de 3 de mayo, para acceder al
+Conforme al artículo 52.2 de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, para acceder al
 grado superior de las enseñanzas profesionales de artes plásticas y diseño será necesario estar
 en posesión del título de Bachiller o el título de Técnico de Formación Profesional o título de-
 
@@ -919,7 +928,7 @@ Podrán acceder al grado medio o al grado superior de las enseñanzas profesiona
 artes plásticas y diseño sin estar en posesión de los requisitos académicos de acceso quie-
 nes acrediten haber superado una prueba común de acceso y puedan acreditar las aptitudes
 necesarias mediante la superación de una prueba específica, de conformidad con lo dispues-
-to en los artículos 39 y 40 del Decreto 187/2021, de 21 de julio, del Consejo de Gobierno,
+to en los artículos 39 y 40 del [Decreto 187/2021](./D187_2021_pruebas_acceso_ciclos_formativos_fp_artes_plasticas_madrid.md), de 21 de julio, del Consejo de Gobierno,
 por el que se regulan las pruebas de acceso a ciclos formativos de formación profesional y
 a las enseñanzas profesionales de artes plásticas y diseño y la prueba sustitutiva de los re-
 quisitos académicos establecidos para el acceso a las enseñanzas deportivas de régimen es-
@@ -1161,13 +1170,13 @@ por el que se establece para la Comunidad de Madrid el plan de estudios del cicl
 formativo de grado superior correspondiente al título de Técnico Superior de Ar-
 tes Plásticas y Diseño en Animación.
 #### DISPOSICIÓN FINAL PRIMERA
-Modificación del Decreto 187/2021, de 21 de julio, del Consejo de Gobierno,
+Modificación del [Decreto 187/2021](./D187_2021_pruebas_acceso_ciclos_formativos_fp_artes_plasticas_madrid.md), de 21 de julio, del Consejo de Gobierno,
 por el que se regulan las pruebas de acceso a ciclos formativos de formación
 profesional y a las enseñanzas profesionales de artes plásticas y diseño y la prueba
 sustitutiva de los requisitos académicos establecidos para el acceso a las enseñanzas
 deportivas de régimen especial y a las formaciones deportivas en período transitorio en
 la Comunidad de Madrid
-El Decreto 187/2021, de 21 de julio, del Consejo de Gobierno, por el que se regulan las
+El [Decreto 187/2021](./D187_2021_pruebas_acceso_ciclos_formativos_fp_artes_plasticas_madrid.md), de 21 de julio, del Consejo de Gobierno, por el que se regulan las
 pruebas de acceso a ciclos formativos de formación profesional y a las enseñanzas profesiona-
 les de artes plásticas y diseño y la prueba sustitutiva de los requisitos académicos establecidos
 para el acceso a las enseñanzas deportivas de régimen especial y a las formaciones deportivas
@@ -1196,14 +1205,14 @@ ciclos formativos de grado medio y de grado superior de artes plásticas y dise�
 1.
 Estarán exentos de realizar la prueba específica de acceso al grado medio de las ense-
 ñanzas profesionales de artes plásticas y diseño aquellas personas que acrediten alguna de las
-circunstancias descritas en el artículo 15.1, 2 y 3 del Real Decreto 596/2007, de 4 de mayo.
+circunstancias descritas en el artículo 15.1, 2 y 3 del [Real Decreto 596/2007](../../../estatal/05_alumnado_y_servicios_escolares/RD596_2007_establece_ordenacion_general_ensenanzas_profesionales_artes.md), de 4 de mayo.
 
 MARTES 21 DE MARZO DE 2023
 BOCM
 2.
 Estarán exentos de realizar la prueba específica de acceso al grado superior de las en-
 señanzas profesionales de artes plásticas y diseño aquellas personas que acrediten alguna de las
-circunstancias descritas en el artículo 15.1 y 3 del Real Decreto 596/2007, de 4 de mayo.
+circunstancias descritas en el artículo 15.1 y 3 del [Real Decreto 596/2007](../../../estatal/05_alumnado_y_servicios_escolares/RD596_2007_establece_ordenacion_general_ensenanzas_profesionales_artes.md), de 4 de mayo.
 3.
 Estarán exentos de realizar la prueba específica de acceso al grado medio y al gra-
 do superior de las enseñanzas profesionales de artes plásticas y diseño aquellas personas
@@ -1245,7 +1254,7 @@ La superación de la prueba específica de acceso a las enseñanzas profesionale
 de artes plásticas y diseño de grado medio y de grado superior tendrá validez en todo el te-
 rritorio nacional y dará derecho a matricularse conforme a la normativa vigente en el ciclo
 formativo correspondiente, sin perjuicio de la disponibilidad de plazas en los diferentes
-centros, de conformidad con el artículo 17.3 del Real Decreto 596/2007, de 4 de mayo. La
+centros, de conformidad con el artículo 17.3 del [Real Decreto 596/2007](../../../estatal/05_alumnado_y_servicios_escolares/RD596_2007_establece_ordenacion_general_ensenanzas_profesionales_artes.md), de 4 de mayo. La
 superación de la prueba específica tendrá validez dentro del año natural en el que se haya
 realizado esta prueba”.
 Cinco. Se añade una disposición final primera bis que queda redactada de la siguiente
@@ -1262,7 +1271,7 @@ BOCM
 ### ANEXO XII 
 CERTIFICACIÓN DE SUPERACIÓN DE LA PRUEBA O PARTE ESPECÍFICA DE ACCESO A CICLOS FORMATIVOS  
 DE GRADO (1) ………………. DE ENSEÑANZAS PROFESIONALES DE ARTES PLÁSTICAS Y DISEÑO 
-(Regulada por el Decreto 187/2021, de 21 de julio, del Consejo de Gobierno, por el que se regulan las pruebas de acceso a ciclos 
+(Regulada por el [Decreto 187/2021](./D187_2021_pruebas_acceso_ciclos_formativos_fp_artes_plasticas_madrid.md), de 21 de julio, del Consejo de Gobierno, por el que se regulan las pruebas de acceso a ciclos 
 formativos de formación profesional y a las enseñanzas profesionales de artes plásticas y diseño y la prueba sustitutiva de los 
 requisitos académicos establecidos para el acceso a las enseñanzas deportivas de régimen general y a las formaciones deportivas 
 en período transitorio en la Comunidad de Madrid.) 
@@ -1282,7 +1291,7 @@ CALIFICACIONES OBTENIDAS(5)
 (6)……………………. 
 (6)……………………. 
 CALIFICACIÓN FINAL(7) 
-De acuerdo con el artículo 17 del Real Decreto 596/2007, de 4 de mayo, por el que se establece la ordenación general de las enseñanzas profesionales de artes plásticas y diseño, la superación de 
+De acuerdo con el artículo 17 del [Real Decreto 596/2007](../../../estatal/05_alumnado_y_servicios_escolares/RD596_2007_establece_ordenacion_general_ensenanzas_profesionales_artes.md), de 4 de mayo, por el que se establece la ordenación general de las enseñanzas profesionales de artes plásticas y diseño, la superación de 
 las pruebas de acceso a las enseñanzas de grado medio y grado superior, que tendrán validez en todo el territorio nacional, dará derecho a matricularse conforme a la normativa vigente en el ciclo 
 formativo correspondiente, sin perjuicio de la disponibilidad de plazas en los diferentes centros. 
 En……………………………………, a…….. de ……………………….. de ………. 

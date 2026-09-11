@@ -415,9 +415,20 @@ relaciones:
     titulo_origen: Título V
     articulos_origen:
     - D. Derogatoria única.
+fundamentos_derecho:
+- norma_id: norm-and-l9-1999-solidaridad-en-la-educacion-andalucia
+- norma_id: norm-can-l-4-2023
+- norma_id: norm-es-2015-8470
+- norma_id: norm-es-l-39-2015
+- norma_id: norm-es-l-40-2015
+- norma_id: norm-es-1995-25444
+- norma_id: norm-es-lo-1-1996
+- norma_id: norm-es-lo-5-2000
+- norma_id: norm-es-2015-8222
+- norma_id: norm-es-lo-3-2018
+- norma_id: norm-es-lo-8-2021
 ---
-
-# Ley 4/2023, de 22 de marzo, de Derechos, Garantías y Protección Integral de la Infancia y la Adolescencia de la Comunidad de Madrid
+# [Ley 4/2023](../../canarias/01_marco_normativo_general_y_organico/L4_2023_presidencia_gobierno_canarias.md), de 22 de marzo, de Derechos, Garantías y Protección Integral de la Infancia y la Adolescencia de la Comunidad de Madrid
 
 ## Preámbulo
 
@@ -631,7 +642,7 @@ Si la razón de ser esta Ley responde, en primer lugar, a la necesidad de adecua
 
 Destacan, singularmente cuatro, en primer lugar, la violencia en sus múltiples formas, que se ceba en los más pequeños. Así, por ejemplo, según un estudio elaborado en noviembre de 2021 por el Observatorio contra la Violencia Doméstica y de Género del Consejo General del Poder Judicial sobre el centenar de sentencias dictadas en 2020 por el Tribunal Supremo en casos relacionados con delitos contra la libertad y la indemnidad sexual, se señala que en siete de cada diez casos la víctima era una niña o un niño. Esta Ley dedica todo un capítulo a la protección integral de la infancia y la adolescencia frente a la violencia, con previsiones novedosas en España.
 
-En segundo lugar, el elevado número de niños que en España viven separados de sus familias en acogimiento residencial. El Comité de Derechos del Niño de Naciones Unidas recomendaba a España en 2018 que «acelere el proceso de desinstitucionalización, a fin de asegurar que la atención en centros de acogida se utilice como último recurso, y vele porque todos los centros de acogida restantes cumplan por lo menos unas normas de calidad mínimas». A pesar de lo que dispuso a este respecto la Ley Orgánica 8/2015, de 22 de julio, de modificación del sistema de protección a la infancia y a la adolescencia, la tendencia ha sido el aumento del acogimiento residencial, a excepción del último año, cuyas cifras probablemente estén seriamente condicionadas por el contexto de pandemia en el que hemos vivido. Por ello, en toda España, y también en Madrid, es urgente acelerar la desinstitucionalización, potenciando las medidas preventivas eficaces y posibilitando medidas de protección familiar para los niños en situación de desamparo. Este es otro de los grandes objetivos de esta Ley, que apuesta por un cambio del modelo que ha primado hasta ahora y que está recogido en el Título II.
+En segundo lugar, el elevado número de niños que en España viven separados de sus familias en acogimiento residencial. El Comité de Derechos del Niño de Naciones Unidas recomendaba a España en 2018 que «acelere el proceso de desinstitucionalización, a fin de asegurar que la atención en centros de acogida se utilice como último recurso, y vele porque todos los centros de acogida restantes cumplan por lo menos unas normas de calidad mínimas». A pesar de lo que dispuso a este respecto la [Ley Orgánica 8/2015](../../../estatal/01_marco_normativo_general_y_organico/LO8_2015_modificacion_sistema_proteccion_infancia_adolescencia.md), de 22 de julio, de modificación del sistema de protección a la infancia y a la adolescencia, la tendencia ha sido el aumento del acogimiento residencial, a excepción del último año, cuyas cifras probablemente estén seriamente condicionadas por el contexto de pandemia en el que hemos vivido. Por ello, en toda España, y también en Madrid, es urgente acelerar la desinstitucionalización, potenciando las medidas preventivas eficaces y posibilitando medidas de protección familiar para los niños en situación de desamparo. Este es otro de los grandes objetivos de esta Ley, que apuesta por un cambio del modelo que ha primado hasta ahora y que está recogido en el Título II.
 
 En tercer lugar, la equidad y la igualdad de oportunidades en el ejercicio de derechos de la infancia, fuertemente condicionadas por la pobreza infantil, fenómeno sobre el que han puesto el foco en los últimos años tanto el Comité de Derechos del Niño de Naciones Unidas como la UE. El Comité de Derechos del Niño en sus Observaciones de 2010 y 2018 a España, ha manifestado su preocupación sobre los índices de pobreza infantil en España, y así, en 2018, ha señalado: «El Comité está seriamente preocupado por el aumento de los indicadores nacionales medios de la exclusión social, la pobreza y la desigualdad, al mismo tiempo que la inversión en medidas de protección social relacionadas con los niños sigue siendo muy inferior a la media europea. También le preocupa la elevada proporción de personas que abandonan prematuramente la educación y la formación y el hecho de que casi una quinta parte del total de los alumnos de la escuela secundaria, particularmente los niños inmigrantes, las niñas romaníes y los niños en situación de pobreza, no lleguen a obtener el diploma de la enseñanza obligatoria». En el ámbito europeo, la Comisión, en el Informe emitido en febrero de 2020 con ocasión del semestre europeo, advierte que «el efecto global de las transferencias sociales (distintas de las pensiones) en la reducción de la pobreza infantil en España sigue siendo el menor de la UE». Si bien, reconoce que en 2019 se adoptaron medidas para luchar contra la pobreza infantil, «estas siguen sin guardar la debida proporción con la magnitud del problema». Por ello la Comisión Europea, ha incluido a España en su programa de Garantía infantil europea contra la pobreza desde sus primeras experiencias piloto. Para responder a este reto, la Ley contempla mecanismos y medidas de compensación de las desigualdades tendentes a asegurar el acceso a los derechos en igualdad de condiciones, así como ayudas a las familias para evitar que la pobreza termine generando, por no ser atajada a tiempo, otras situaciones que sean causa de separación.
 
@@ -653,13 +664,13 @@ II
 
 Como principio rector de la política social y económica, la Constitución española establece, entre otras cuestiones, en su artículo 39, que los poderes públicos aseguran la protección social, económica y jurídica de la familia, incidiendo en la protección integral de los hijos, iguales estos ante la ley con independencia de su filiación, y de las madres, cualquiera que sea su estado civil. Asimismo, en su último apartado señala que los niños gozarán de la protección prevista en los acuerdos internacionales que velan por sus derechos. En el ejercicio de sus competencias al respecto, así como en otras, conexas, el Estado ha promulgado, entre otras, las siguientes leyes:
 
-– Ley Orgánica 1/1996, de 15 de enero, de Protección Jurídica del Menor, de modificación parcial del Código Civil y de la Ley de Enjuiciamiento Civil.
+– [Ley Orgánica 1/1996](../../../estatal/01_marco_normativo_general_y_organico/LO1_1996_proteccion_juridica_menor_modificacion_parcial_codigo.md), de 15 de enero, de Protección Jurídica del Menor, de modificación parcial del Código Civil y de la Ley de Enjuiciamiento Civil.
 
-– Ley Orgánica 8/2015, de 22 de julio, de modificación del sistema de protección a la infancia y a la adolescencia.
+– [Ley Orgánica 8/2015](../../../estatal/01_marco_normativo_general_y_organico/LO8_2015_modificacion_sistema_proteccion_infancia_adolescencia.md), de 22 de julio, de modificación del sistema de protección a la infancia y a la adolescencia.
 
-– Ley 26/2015, de 28 de julio, de modificación del sistema de protección a la infancia y a la adolescencia.
+– [Ley 26/2015](../../../estatal/01_marco_normativo_general_y_organico/L26_2015_modificacion_sistema_proteccion_infancia_adolescencia.md), de 28 de julio, de modificación del sistema de protección a la infancia y a la adolescencia.
 
-– Ley Orgánica 8/2021, de 4 de junio de protección integral a la infancia y adolescencia frente a la violencia.
+– [Ley Orgánica 8/2021](../../../estatal/07_convivencia_bienestar_y_protocolos/LO8_2021_proteccion_integral_infancia_adolescencia_frente_violencia.md), de 4 de junio de protección integral a la infancia y adolescencia frente a la violencia.
 
 La presente ley se dicta en el ejercicio de las competencias asumidas por la Comunidad de Madrid en la Ley Orgánica, 3/1983, de 25 de febrero, de Estatuto de Autonomía de la Comunidad de Madrid, de conformidad con lo previsto en el artículo 148.1.1.ª y 20.ª de la Constitución española, que permite a las comunidades autónomas asumir competencias, entre otras, en materia de organización de sus instituciones de autogobierne y de asistencia social, con pleno respeto a las competencias exclusivas del Estado en materia de legislación penal, procesal y civil, reconocidas en el artículo 149.1.6.ª y 8.ª de la Constitución Española.
 
@@ -671,9 +682,9 @@ A partir de una concepción holística de la protección a la infancia, la regul
 
 Al mismo tiempo, el artículo 7 del Estatuto de Autonomía, además de reconocer a los ciudadanos de Madrid como titulares de los derechos y deberes fundamentales establecidos en la Constitución, señala que los poderes públicos madrileños asumen, en el marco de sus competencias, entre otros principios rectores de su política, la promoción de las condiciones necesarias para el libre ejercicio delos derechos y libertades de los ciudadanos y la igualdad de los individuos y los grupos en que se integran, la remoción de los obstáculos que impidan o dificulten su plenitud, y facilitar la participación de todos los ciudadanos en la vida política, económica, cultural y social.
 
-Por otra parte, la ley se ajusta a la Ley Orgánica 11/1996, de 15 de enero, y al Código Civil, y a la adaptación normativa ordenada en la disposición final vigésima segunda de la Ley Orgánica 8/2021, de 4 de junio.
+Por otra parte, la ley se ajusta a la Ley Orgánica 11/1996, de 15 de enero, y al Código Civil, y a la adaptación normativa ordenada en la disposición final vigésima segunda de la [Ley Orgánica 8/2021](../../../estatal/07_convivencia_bienestar_y_protocolos/LO8_2021_proteccion_integral_infancia_adolescencia_frente_violencia.md), de 4 de junio.
 
-Se adecúa, asimismo, a los principios de necesidad, eficacia, proporcionalidad, seguridad jurídica, transparencia y eficiencia en los términos del artículo 129 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.
+Se adecúa, asimismo, a los principios de necesidad, eficacia, proporcionalidad, seguridad jurídica, transparencia y eficiencia en los términos del artículo 129 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.
 
 Así, los principios de necesidad y eficacia quedan justificados por el interés general de esta norma, que regula la atención y protección de la infancia y la adolescencia de acuerdo con las últimas reformas legislativas, siendo este instrumento el único y más adecuado para garantizar la consecución de los fines que persigue: garantizar el ejercicio pleno de los derechos reconocidos a los niños; adaptar el sistema de protección; incluir los nuevos órganos dedicados a los derechos y a la participación de la infancia; y el establecimiento de un régimen sancionador.
 
@@ -711,9 +722,9 @@ Por último, se recogen importantes previsiones relativas a los derechos de los 
 
 Todos estos derechos parten de la premisa fundamental de la igualdad absoluta de todos los niños en el ejercicio de los mismos y la garantía de los poderes públicos para asegurar su defensa y disfrute, con independencia de cualquier otra circunstancia o situación. Para lograrlo, se atienden de forma concreta las necesidades de los grupos que requieren una atención especial. Así, por ejemplo, y dentro de los que son especialmente vulnerables a situaciones de abuso, violencia o discriminación, conviene hacer referencia expresa a las niñas que, por su edad y sexo, muchas veces son doblemente discriminadas o agredidas. Siendo objeto de violencia por el hecho de ser niñas. Sólo una sociedad que educa en respeto e igualdad será capaz de erradicar la violencia y la discriminación hacia las niñas.
 
-El segundo capítulo del título I, denominado «Protección integral de la infancia y la adolescencia frente a la violencia» no solo responde al mandato del legislador estatal en la Ley Orgánica 8/2021, de 4 de junio, y a las obligaciones derivadas del Convenio de Lanzarote y la Directiva europea 2011/93/UE, sino que constituye una apuesta de la Comunidad de Madrid por la creación de entornos seguros y la promoción del buen trato en todos los ámbitos. El capítulo, que se abre con un derecho de nueva generación, el derecho a ser protegido frente a todo tipo de violencia, regula a continuación los mecanismos de sensibilización, prevención, detección precoz, comunicación protección y reparación del daño en estos casos. En particular, destaca el de compromiso ofrecer una respuesta integral a los niños víctimas de agresión y explotación sexual a través de recursos especializados e integrales, coordinando a todos los agentes implicados para prevenir y evitar el riesgo de victimización secundaria. A continuación, incluye previsiones específicas para los ámbitos familiar, educativo, sanitario, de protección de menores, deportivo, de ocio y tiempo libre.
+El segundo capítulo del título I, denominado «Protección integral de la infancia y la adolescencia frente a la violencia» no solo responde al mandato del legislador estatal en la [Ley Orgánica 8/2021](../../../estatal/07_convivencia_bienestar_y_protocolos/LO8_2021_proteccion_integral_infancia_adolescencia_frente_violencia.md), de 4 de junio, y a las obligaciones derivadas del Convenio de Lanzarote y la Directiva europea 2011/93/UE, sino que constituye una apuesta de la Comunidad de Madrid por la creación de entornos seguros y la promoción del buen trato en todos los ámbitos. El capítulo, que se abre con un derecho de nueva generación, el derecho a ser protegido frente a todo tipo de violencia, regula a continuación los mecanismos de sensibilización, prevención, detección precoz, comunicación protección y reparación del daño en estos casos. En particular, destaca el de compromiso ofrecer una respuesta integral a los niños víctimas de agresión y explotación sexual a través de recursos especializados e integrales, coordinando a todos los agentes implicados para prevenir y evitar el riesgo de victimización secundaria. A continuación, incluye previsiones específicas para los ámbitos familiar, educativo, sanitario, de protección de menores, deportivo, de ocio y tiempo libre.
 
-En este sentido, es importante señalar el impacto tan positivo que ha tenido la necesidad de establecer la obligación de presentar una certificación negativa del Registro Central de Delincuentes Sexuales, creado por Real Decreto 1110/2015, de 11 de diciembre, por el que se regula el Registro Central de Delincuentes Sexuales. Esta obligación aparece en nuestro ordenamiento en la Ley 26/2015, de 28 de julio, de Modificación del sistema de protección a la infancia y a la adolescencia, que en su artículo 1.8 incluye un apartado 5.º al artículo 13 de la Ley Orgánica 1/1996, de 15 de enero, de Protección Jurídica del Menor, de modificación parcial del Código Civil y de la Ley de Enjuiciamiento Civil con la previsión de que «será requisito para el acceso y ejercicio a las profesiones, oficios y actividades que impliquen contacto habitual con menores, el no haber sido condenado por sentencia firme por algún delito contra la libertad e indemnidad sexual, que incluye la agresión y abuso sexual, acoso sexual, exhibicionismo y provocación sexual, prostitución y explotación sexual y corrupción de menores, así como por trata de seres humanos. A tal efecto, quien pretenda el acceso a tales profesiones, oficios o actividades deberá acreditar esta circunstancia mediante la aportación de una certificación negativa del Registro Central de delincuentes sexuales». Esta obligación, que ha sido de una importancia capital para la detección y lucha contra la violencia sexual hacia los niños, se ha incluido asimismo en la Ley Orgánica 8/2021, de 4 de junio, de protección integral a la infancia y la adolescencia frente a la violencia, que establece la exigencia de habitualidad como la relativa a «todas aquellas, retribuidas o no, que por su propia naturaleza y esencia conllevan el trato repetido, directo y regular y no meramente ocasional con niños, niñas o adolescentes, así como, en todo caso, todas aquellas que tengan como destinatarios principales a personas menores de edad». Quizá sería conveniente que el legislador estatal perfilara más el concepto «ocasional», de forma que permita incluir aquellas actividades de trato repetido y directo, pero no regular, que por su naturaleza puedan suponer una situación de riesgo cierto para los niños.
+En este sentido, es importante señalar el impacto tan positivo que ha tenido la necesidad de establecer la obligación de presentar una certificación negativa del Registro Central de Delincuentes Sexuales, creado por Real Decreto 1110/2015, de 11 de diciembre, por el que se regula el Registro Central de Delincuentes Sexuales. Esta obligación aparece en nuestro ordenamiento en la [Ley 26/2015](../../../estatal/01_marco_normativo_general_y_organico/L26_2015_modificacion_sistema_proteccion_infancia_adolescencia.md), de 28 de julio, de Modificación del sistema de protección a la infancia y a la adolescencia, que en su artículo 1.8 incluye un apartado 5.º al artículo 13 de la [Ley Orgánica 1/1996](../../../estatal/01_marco_normativo_general_y_organico/LO1_1996_proteccion_juridica_menor_modificacion_parcial_codigo.md), de 15 de enero, de Protección Jurídica del Menor, de modificación parcial del Código Civil y de la Ley de Enjuiciamiento Civil con la previsión de que «será requisito para el acceso y ejercicio a las profesiones, oficios y actividades que impliquen contacto habitual con menores, el no haber sido condenado por sentencia firme por algún delito contra la libertad e indemnidad sexual, que incluye la agresión y abuso sexual, acoso sexual, exhibicionismo y provocación sexual, prostitución y explotación sexual y corrupción de menores, así como por trata de seres humanos. A tal efecto, quien pretenda el acceso a tales profesiones, oficios o actividades deberá acreditar esta circunstancia mediante la aportación de una certificación negativa del Registro Central de delincuentes sexuales». Esta obligación, que ha sido de una importancia capital para la detección y lucha contra la violencia sexual hacia los niños, se ha incluido asimismo en la [Ley Orgánica 8/2021](../../../estatal/07_convivencia_bienestar_y_protocolos/LO8_2021_proteccion_integral_infancia_adolescencia_frente_violencia.md), de 4 de junio, de protección integral a la infancia y la adolescencia frente a la violencia, que establece la exigencia de habitualidad como la relativa a «todas aquellas, retribuidas o no, que por su propia naturaleza y esencia conllevan el trato repetido, directo y regular y no meramente ocasional con niños, niñas o adolescentes, así como, en todo caso, todas aquellas que tengan como destinatarios principales a personas menores de edad». Quizá sería conveniente que el legislador estatal perfilara más el concepto «ocasional», de forma que permita incluir aquellas actividades de trato repetido y directo, pero no regular, que por su naturaleza puedan suponer una situación de riesgo cierto para los niños.
 
 El capítulo III de este título I, está destinado a la protección de la infancia y la adolescencia respecto a determinadas actividades, productos y servicios, y cierra este título el capítulo IV, que regula los deberes de los niños.
 
@@ -791,9 +802,9 @@ f) La regulación del régimen de infracciones y sanciones en materia de infanci
 
 Sin perjuicio de la aplicación de los principios generales y de los principios de intervención de las Administraciones públicas para el desarrollo de una actividad, son principios rectores de la actuación administrativa en relación a la infancia y a la adolescencia de la Comunidad de Madrid:
 
-a) La consideración del interés superior del niño como principio fundamental, en todas las políticas, acciones y decisiones que le puedan afectar individual o colectivamente, en el ámbito público o en el privado, ya sean adoptadas por las instituciones públicas, privadas o las familias, conforme a lo previsto en el artículo 2 de la Ley Orgánica 1/1996, de 15 de enero, de Protección Jurídica del Menor, de modificación parcial del Código Civil y de la Ley de Enjuiciamiento Civil.
+a) La consideración del interés superior del niño como principio fundamental, en todas las políticas, acciones y decisiones que le puedan afectar individual o colectivamente, en el ámbito público o en el privado, ya sean adoptadas por las instituciones públicas, privadas o las familias, conforme a lo previsto en el artículo 2 de la [Ley Orgánica 1/1996](../../../estatal/01_marco_normativo_general_y_organico/LO1_1996_proteccion_juridica_menor_modificacion_parcial_codigo.md), de 15 de enero, de Protección Jurídica del Menor, de modificación parcial del Código Civil y de la Ley de Enjuiciamiento Civil.
 
-b) La garantía del derecho de los niños a ser oídos y escuchados, especialmente antes de adoptar decisiones que les afecten, y de ofrecerles previamente información completa, comprensible y adaptada a sus circunstancias, conforme a lo previsto en el artículo 9 de la Ley Orgánica 1/1996, de 15 de enero.
+b) La garantía del derecho de los niños a ser oídos y escuchados, especialmente antes de adoptar decisiones que les afecten, y de ofrecerles previamente información completa, comprensible y adaptada a sus circunstancias, conforme a lo previsto en el artículo 9 de la [Ley Orgánica 1/1996](../../../estatal/01_marco_normativo_general_y_organico/LO1_1996_proteccion_juridica_menor_modificacion_parcial_codigo.md), de 15 de enero.
 
 c) El reconocimiento del derecho de los niños a participar activa y directamente, tanto individual como colectivamente, en las decisiones públicas adoptadas por la Comunidad de Madrid que influyan en sus vidas o afectan a sus intereses familiares, sociales, culturales y económicos, entre otros, considerando sus opiniones en función de su madurez y en los términos previstos en la legislación vigente.
 
@@ -859,7 +870,7 @@ Se prestará especial atención a los niños que se encuentran en situación de 
 
 1. La Comunidad de Madrid respetará en sus actuaciones el derecho de los niños a la libertad de ideología, de conciencia y de religión.
 
-2. El ejercicio de estos derechos tiene únicamente las limitaciones prescritas por la Ley y el respeto de los derechos y libertades fundamentales de los demás, en los términos que establece la Constitución española y la Ley Orgánica 1/1996, de 15 de enero de Protección Jurídica del Menor.
+2. El ejercicio de estos derechos tiene únicamente las limitaciones prescritas por la Ley y el respeto de los derechos y libertades fundamentales de los demás, en los términos que establece la Constitución española y la [Ley Orgánica 1/1996](../../../estatal/01_marco_normativo_general_y_organico/LO1_1996_proteccion_juridica_menor_modificacion_parcial_codigo.md), de 15 de enero de Protección Jurídica del Menor.
 
 3. La Comunidad de Madrid velará por el ejercicio del derecho y el deber de los padres, tutores o guardadores, de cooperar para que los niños ejerzan estos derechos de modo que contribuyan a su desarrollo integral, conforme a la evolución de sus capacidades y respetando sus opiniones y convicciones.
 
@@ -869,7 +880,7 @@ Se prestará especial atención a los niños que se encuentran en situación de 
 
 Asimismo, desarrollará acciones de formación, difusión y concienciación en materia de derechos al honor, a la intimidad personal, a la propia imagen y a la protección de datos de carácter personal, dirigidas a promover un uso seguro y responsable de los dispositivos digitales, de los servicios de la sociedad de la información y de las redes sociales, incluyendo la prevención de la sobreexposición de los niños en las redes sociales.
 
-2. Las personas físicas o jurídicas deben garantizar la protección de la imagen y los datos personales de los niños en la publicación o difusión a través de redes sociales, medios de comunicación u otros servicios de la sociedad de la información, en los términos que establece la legislación estatal, y de manera especial respecto al consentimiento de los menores, a lo dispuesto en el artículo 7 de la Ley Orgánica 3/2018, de 5 diciembre de Protección de Datos Personales y Garantías de los Derechos Digitales.
+2. Las personas físicas o jurídicas deben garantizar la protección de la imagen y los datos personales de los niños en la publicación o difusión a través de redes sociales, medios de comunicación u otros servicios de la sociedad de la información, en los términos que establece la legislación estatal, y de manera especial respecto al consentimiento de los menores, a lo dispuesto en el artículo 7 de la [Ley Orgánica 3/2018](../../../estatal/02_gestion_y_administracion_centros/LO3_2018_proteccion_datos_personales_garantia_derechos_digitales.md), de 5 diciembre de Protección de Datos Personales y Garantías de los Derechos Digitales.
 
 Si la Comunidad de Madrid tiene noticia de la utilización o difusión de información o de imágenes personales relativas a niños, así como su almacenamiento por parte de medios de comunicación, redes sociales o cualquier otro medio, que pueda implicar una intromisión ilegítima en sus derechos, lo pondrá en conocimiento del Ministerio Fiscal de forma urgente.
 
@@ -881,7 +892,7 @@ Si la Comunidad de Madrid tiene noticia de la utilización o difusión de inform
 
 3. Se garantizará que el niño, pueda ejercer este derecho, en los casos en los que lo desee, por sí mismo o asistido de sus padres, tutores, guardadores o persona designada para que lo represente de acuerdo con lo dispuesto en la Ley.
 
-4. Si, en el ejercicio de este derecho, existiera conflicto de intereses con sus padres, tutores o guardadores, o si así lo solicitara el niño, podrá disponer de un abogado a través del servicio de asistencia jurídica gratuita en los términos previstos en la Ley Orgánica 1/1996, de 10 de enero, de Asistencia Jurídica Gratuita o, en su caso, solicitar el nombramiento de un defensor judicial.
+4. Si, en el ejercicio de este derecho, existiera conflicto de intereses con sus padres, tutores o guardadores, o si así lo solicitara el niño, podrá disponer de un abogado a través del servicio de asistencia jurídica gratuita en los términos previstos en la [Ley Orgánica 1/1996](../../../estatal/01_marco_normativo_general_y_organico/LO1_1996_proteccion_juridica_menor_modificacion_parcial_codigo.md), de 10 de enero, de Asistencia Jurídica Gratuita o, en su caso, solicitar el nombramiento de un defensor judicial.
 
 5. La Comunidad de Madrid aportará los apoyos necesarios y adecuados a todos los niños, y de manera especial a aquellos con discapacidad a efectos de garantizar el efectivo ejercicio de los derechos consagrados en los números anteriores.
 
@@ -1139,7 +1150,7 @@ La Comunidad de Madrid promoverá acciones de información, difusión y concienc
 
 a) A los jóvenes que se encuentren bajo una medida de protección de guarda o tutela por la Comunidad de Madrid, o a los que participen en el programa de preparación para la vida independiente previsto en el artículo 123 de esta Ley.
 
-b) A los adolescentes incluidos en el ámbito de aplicación de la Ley Orgánica 5/2000, de 12 de enero, reguladora de la responsabilidad penal de los menores.
+b) A los adolescentes incluidos en el ámbito de aplicación de la [Ley Orgánica 5/2000](../../../estatal/01_marco_normativo_general_y_organico/LO5_2000_reguladora_responsabilidad_penal_menores.md), de 12 de enero, reguladora de la responsabilidad penal de los menores.
 
 c) A los procedentes de servicios de prevención e inserción social autorizados por la Comunidad de Madrid.
 
@@ -1159,7 +1170,7 @@ Para ello, en el ejercicio de las competencias en materia de ejecución laboral 
 
 #### Artículo 27. Defensa de los derechos de la infancia y la adolescencia.
 
-1. Para la defensa de sus derechos, los niños podrán iniciar personalmente o a través de su representante legal las actuaciones recogidas con este fin en el artículo 10. 2 de la Ley Orgánica 1/1996, de 15 de enero y en la Ley 8/2021, de 4 de junio. Podrán, además:
+1. Para la defensa de sus derechos, los niños podrán iniciar personalmente o a través de su representante legal las actuaciones recogidas con este fin en el artículo 10. 2 de la [Ley Orgánica 1/1996](../../../estatal/01_marco_normativo_general_y_organico/LO1_1996_proteccion_juridica_menor_modificacion_parcial_codigo.md), de 15 de enero y en la Ley 8/2021, de 4 de junio. Podrán, además:
 
 a) Dirigirse a la Comunidad de Madrid para solicitar la protección o asistencia que precisen, así como demandar los recursos sociales que les sean necesarios.
 
@@ -1167,7 +1178,7 @@ b) Presentar quejas o sugerencias a través de cualquiera de los cauces previsto
 
 2. La Comunidad de Madrid proporcionará asistencia y defensa letrada a todos los niños que se encuentran en el sistema de protección sin restricciones ni riesgos para la confidencialidad y en un espacio de confianza.
 
-En el caso de aquellos que pudieran resultar penalmente responsables con arreglo a la Ley Orgánica 5/2000, de 12 de enero, la Comunidad de Madrid les facilitará asistencia y defensa letrada, a través de la Comisión de Protección a la Infancia y a la Adolescencia, para que puedan, a su elección, ejercitar las acciones correspondientes a través de este medio o ser defendidos por abogados especializados del turno de oficio.
+En el caso de aquellos que pudieran resultar penalmente responsables con arreglo a la [Ley Orgánica 5/2000](../../../estatal/01_marco_normativo_general_y_organico/LO5_2000_reguladora_responsabilidad_penal_menores.md), de 12 de enero, la Comunidad de Madrid les facilitará asistencia y defensa letrada, a través de la Comisión de Protección a la Infancia y a la Adolescencia, para que puedan, a su elección, ejercitar las acciones correspondientes a través de este medio o ser defendidos por abogados especializados del turno de oficio.
 
 3. Se establecerá un servicio de asistencia letrada y representación legal para para los niños que se encuentren en el sistema de protección que hayan sido víctimas de algún delito, para que puedan, ejercitar las acciones correspondientes a través del mismo, de acuerdo con lo dispuesto en la legislación en materia de asistencia jurídica gratuita.
 
@@ -1331,7 +1342,7 @@ Las personas que ostenten la dirección o titularidad de los centros educativos 
 
 Entre otros aspectos, los protocolos incluirán actuaciones específicas de prevención, detección precoz e intervención ante posibles casos de violencia que tengan como víctimas a niños sujetos a medida protectora y que residan en centros residenciales bajo su responsabilidad.
 
-2. Lo previsto en este artículo se entiende sin perjuicio de lo señalado en la Ley Orgánica 1/1996, de 15 de enero, y en la Ley 1/2000, de 7 de enero, de Enjuiciamiento Civil, con respecto a centros específicos de protección de menores con problemas de conducta.
+2. Lo previsto en este artículo se entiende sin perjuicio de lo señalado en la [Ley Orgánica 1/1996](../../../estatal/01_marco_normativo_general_y_organico/LO1_1996_proteccion_juridica_menor_modificacion_parcial_codigo.md), de 15 de enero, y en la Ley 1/2000, de 7 de enero, de Enjuiciamiento Civil, con respecto a centros específicos de protección de menores con problemas de conducta.
 
 #### Artículo 38. Medidas específicas para el ámbito deportivo y de ocio y tiempo libre.
 
@@ -1501,7 +1512,7 @@ Asimismo, podrán desarrollar planes integrales y transversales de atención a l
 
 #### Artículo 47. Impacto de las normas en la infancia, en la adolescencia y en la familia.
 
-1. Corresponde también a la administración de la Comunidad Autónoma la emisión de las memorias del análisis de impacto normativo que deben acompañar a los anteproyectos de ley y a los proyectos de disposiciones generales de la Comunidad de Madrid, que incluirán el impacto de la normativa en la infancia, en la adolescencia y en la familia, de conformidad con lo establecido en el artículo 22 quinquies de la Ley Orgánica 1/1996, de 15 de enero.
+1. Corresponde también a la administración de la Comunidad Autónoma la emisión de las memorias del análisis de impacto normativo que deben acompañar a los anteproyectos de ley y a los proyectos de disposiciones generales de la Comunidad de Madrid, que incluirán el impacto de la normativa en la infancia, en la adolescencia y en la familia, de conformidad con lo establecido en el artículo 22 quinquies de la [Ley Orgánica 1/1996](../../../estatal/01_marco_normativo_general_y_organico/LO1_1996_proteccion_juridica_menor_modificacion_parcial_codigo.md), de 15 de enero.
 
 2. El citado informe analizará y evaluará los resultados que se puedan seguir de la aprobación de la norma desde la perspectiva de los derechos de la infancia y la adolescencia, y el apoyo a las familias y la contribución a su cumplimiento, a partir de los indicadores de partida y de previsión de resultados e impacto.
 
@@ -1521,7 +1532,7 @@ Asimismo, desarrollará actuaciones para sensibilizar a la sociedad en general f
 
 #### Artículo 50. La Comisión de Protección a la Infancia y a la Adolescencia.
 
-1. La Comisión de Protección a la Infancia y a la Adolescencia es el órgano colegiado al que corresponden las funciones atribuidas por la Ley Orgánica 1/1996, de 15 de enero, a la Entidad pública de protección, en el ámbito de la Comunidad de Madrid, en particular:
+1. La Comisión de Protección a la Infancia y a la Adolescencia es el órgano colegiado al que corresponden las funciones atribuidas por la [Ley Orgánica 1/1996](../../../estatal/01_marco_normativo_general_y_organico/LO1_1996_proteccion_juridica_menor_modificacion_parcial_codigo.md), de 15 de enero, a la Entidad pública de protección, en el ámbito de la Comunidad de Madrid, en particular:
 
 a) Asumir y ejercer, en el ámbito territorial de la Comunidad de Madrid, las medidas de protección de la infancia y la adolescencia, en particular la declaración de desamparo, la asunción de la guarda voluntaria y la provisional, la tutela administrativa, la constitución del acogimiento familiar y residencial y de la guarda con fines de adopción, así como la formulación de la propuesta de adopción, en los casos en que legalmente proceda, priorizando siempre las medidas de protección familiares y permanentes frente a las residenciales y temporales; así como cuantas otras decisiones deban adoptarse, atendiendo siempre al interés superior del niño, en los términos establecidos en la legislación vigente.
 
@@ -1617,7 +1628,7 @@ La Comunidad de Madrid y las entidades locales, en colaboración con el Observat
 
 #### Artículo 56. Sistema unificado de información y gestión sobre infancia y adolescencia de la Comunidad de Madrid.
 
-1. Se crea el Sistema Unificado de Información y Gestión sobre Infancia y Adolescencia, con el objeto de garantizar la recopilación de datos, la ordenación adecuada del sistema de protección y la coordinación administrativa, así como la realización de estadísticas oficiales sobre la realidad de la infancia y la adolescencia de la Comunidad de Madrid que sirvan de base para la toma de decisiones políticas y administrativas basadas en evidencias. Desde este sistema se dará traslado automáticamente de la información requerida al Sistema de información sobre la protección a la infancia y a la adolescencia previsto en el artículo 22 ter de la Ley Orgánica 1/1996, de 15 de enero, y al Registro Central de información sobre la violencia contra la infancia y la adolescencia previsto en el artículo 56 de la Ley 8/2021, de 4 de junio.
+1. Se crea el Sistema Unificado de Información y Gestión sobre Infancia y Adolescencia, con el objeto de garantizar la recopilación de datos, la ordenación adecuada del sistema de protección y la coordinación administrativa, así como la realización de estadísticas oficiales sobre la realidad de la infancia y la adolescencia de la Comunidad de Madrid que sirvan de base para la toma de decisiones políticas y administrativas basadas en evidencias. Desde este sistema se dará traslado automáticamente de la información requerida al Sistema de información sobre la protección a la infancia y a la adolescencia previsto en el artículo 22 ter de la [Ley Orgánica 1/1996](../../../estatal/01_marco_normativo_general_y_organico/LO1_1996_proteccion_juridica_menor_modificacion_parcial_codigo.md), de 15 de enero, y al Registro Central de información sobre la violencia contra la infancia y la adolescencia previsto en el artículo 56 de la Ley 8/2021, de 4 de junio.
 
 2. La consejería competente en materia de infancia y adolescencia, junto con las administraciones locales, acordarán las pautas generales para la recogida de información cuantitativa y cualitativa que permita la confección de estadísticas e informes, de acuerdo con los indicadores que se hayan acordado en los órganos de coordinación en los que participe la Comunidad de Madrid.
 
@@ -1799,7 +1810,7 @@ En caso de separación, se garantizará el contacto regular entre los hermanos c
 
 #### Artículo 68. Principios generales de la actividad administrativa en el ámbito del sistema de protección.
 
-1. La toma de decisiones que afecten a los niños se llevará a cabo mediante los procedimientos establecidos en la legislación vigente y especialmente conforme a los artículos 11 y 13 de la Ley Orgánica 1/1996, de 15 de enero.
+1. La toma de decisiones que afecten a los niños se llevará a cabo mediante los procedimientos establecidos en la legislación vigente y especialmente conforme a los artículos 11 y 13 de la [Ley Orgánica 1/1996](../../../estatal/01_marco_normativo_general_y_organico/LO1_1996_proteccion_juridica_menor_modificacion_parcial_codigo.md), de 15 de enero.
 
 2. Las administraciones y entidades que participen en los procedimientos de protección y en el ejercicio y seguimiento de las medidas las medidas tendrán, como uno de sus principios de intervención, promover el buen trato institucional favoreciendo relaciones sociales y afectivas saludables.
 
@@ -1893,7 +1904,7 @@ d) En el ámbito del deporte y del ocio y tiempo libre:
 
 #### Artículo 72. Objetivo de la actuación administrativa en situación de riesgo.
 
-En el caso de que un niño se encuentre en situación de riesgo, de acuerdo con lo previsto en el artículo 17 de la Ley Orgánica 1/1996, de 15 de enero, por concurrir alguno de los indicadores del mismo, la actuación administrativa se orientará a garantizar sus derechos, disminuir los indicadores de riesgo y adoptar las medidas para su protección y la preservación del entorno familiar, promoviendo que sus padres, tutores o guardadores desempeñen adecuadamente sus responsabilidades parentales, con los siguientes objetivos:
+En el caso de que un niño se encuentre en situación de riesgo, de acuerdo con lo previsto en el artículo 17 de la [Ley Orgánica 1/1996](../../../estatal/01_marco_normativo_general_y_organico/LO1_1996_proteccion_juridica_menor_modificacion_parcial_codigo.md), de 15 de enero, por concurrir alguno de los indicadores del mismo, la actuación administrativa se orientará a garantizar sus derechos, disminuir los indicadores de riesgo y adoptar las medidas para su protección y la preservación del entorno familiar, promoviendo que sus padres, tutores o guardadores desempeñen adecuadamente sus responsabilidades parentales, con los siguientes objetivos:
 
 a) La mejora del medio familiar, con la colaboración de los padres, tutores, guardadores y del propio niño.
 
@@ -1905,7 +1916,7 @@ d) La satisfacción adecuada de las necesidades principales del niño por los se
 
 #### Artículo 73. Riesgo prenatal.
 
-1. Los centros y los servicios sanitarios deben notificar a la entidad municipal competente las situaciones de riesgo prenatal previstas en el artículo 17 de la Ley orgánica 1/1996, de 15 de enero, cuando tengan conocimiento de ellas. Además, deberán cooperar con ella en las actuaciones de prevención, intervención y seguimiento, e informar, si es preciso, a la entidad pública de protección competente en materia de protección de la infancia y la adolescencia de la Comunidad de Madrid y al Ministerio Fiscal, sin perjuicio de las intervenciones inmediatas que deban adoptarse si está en peligro la vida o la integridad física del nasciturus.
+1. Los centros y los servicios sanitarios deben notificar a la entidad municipal competente las situaciones de riesgo prenatal previstas en el artículo 17 de la [Ley orgánica 1/1996](../../../estatal/01_marco_normativo_general_y_organico/LO1_1996_proteccion_juridica_menor_modificacion_parcial_codigo.md), de 15 de enero, cuando tengan conocimiento de ellas. Además, deberán cooperar con ella en las actuaciones de prevención, intervención y seguimiento, e informar, si es preciso, a la entidad pública de protección competente en materia de protección de la infancia y la adolescencia de la Comunidad de Madrid y al Ministerio Fiscal, sin perjuicio de las intervenciones inmediatas que deban adoptarse si está en peligro la vida o la integridad física del nasciturus.
 
 2. La Comunidad de Madrid ofrecerá recursos económicos, residenciales y sociales a aquellas mujeres embarazadas que lo precisen para prevenir el riesgo, apoyando a la futura madre en el cuidado y buen trato prenatal.
 
@@ -2065,7 +2076,7 @@ b) Se promoverá el derecho a la comunicación con sus familiares con los medios
 
 1. Conforme a lo dispuesto en el artículo 172 del Código Civil, se considera situación de desamparo la que se produce de hecho a causa del incumplimiento, o del imposible o inadecuado ejercicio de los deberes de protección establecidos por las leyes para la guarda de los menores, cuando estos queden privados de la necesaria asistencia moral o material.
 
-2. Se entenderá que existe situación de desamparo cuando se den alguno o algunos de los indicadores previstos en el artículo 18 de la Ley Orgánica 1/1996, de 15 de enero.
+2. Se entenderá que existe situación de desamparo cuando se den alguno o algunos de los indicadores previstos en el artículo 18 de la [Ley Orgánica 1/1996](../../../estatal/01_marco_normativo_general_y_organico/LO1_1996_proteccion_juridica_menor_modificacion_parcial_codigo.md), de 15 de enero.
 
 Los niños que se encuentren en situación de guarda de hecho no serán considerados en desamparo si se constata que se les presta la adecuada atención y no concurren circunstancias que requieran la adopción de una medida de protección. Excepcionalmente, a tenor de lo dispuesto en el artículo 237 del Código Civil, la entidad pública de protección podrá constituir un acogimiento familiar, con el consentimiento de los padres o previa declaración de desamparo, designando como acogedores a los guardadores de hecho, si considera que la medida aporta estabilidad y beneficia al interés superior del niño.
 
@@ -2149,7 +2160,7 @@ La Comunidad de Madrid realizará actuaciones y campañas dirigidas a la sensibi
 
 #### Artículo 94. Clases de acogimiento familiar.
 
-1. En función de la vinculación de los niños con la familia acogedora, de conformidad con el artículo 173 bis 1 del Código Civil y con el artículo 20.1 Ley Orgánica 1/1996, de 15 de enero, es posible distinguir entre:
+1. En función de la vinculación de los niños con la familia acogedora, de conformidad con el artículo 173 bis 1 del Código Civil y con el artículo 20.1 [Ley Orgánica 1/1996](../../../estatal/01_marco_normativo_general_y_organico/LO1_1996_proteccion_juridica_menor_modificacion_parcial_codigo.md), de 15 de enero, es posible distinguir entre:
 
 a) Acogimiento en familia extensa: cuando el niño tiene un vínculo de parentesco con la familia acogedora.
 
@@ -2179,7 +2190,7 @@ En los casos en que, en el plan de protección individual del niño, en atenció
 
 #### Artículo 96. Requisitos para la aceptación del ofrecimiento y la obtención de la idoneidad.
 
-1. Para la aceptación del ofrecimiento y la obtención de la idoneidad para acoger, las familias deberán cumplir con lo establecido en el artículo 172 ter del Código Civil, en el artículo 20.2 de la Ley Orgánica 1/1996, de 15 de enero. En particular, deberán reunir las siguientes condiciones:
+1. Para la aceptación del ofrecimiento y la obtención de la idoneidad para acoger, las familias deberán cumplir con lo establecido en el artículo 172 ter del Código Civil, en el artículo 20.2 de la [Ley Orgánica 1/1996](../../../estatal/01_marco_normativo_general_y_organico/LO1_1996_proteccion_juridica_menor_modificacion_parcial_codigo.md), de 15 de enero. En particular, deberán reunir las siguientes condiciones:
 
 a) Acreditar no haber sido condenado por sentencia firme por cualquier delito contra la libertad e indemnidad sexuales, así como por cualquier delito de trata de seres humanos tipificados en el Código Penal.
 
@@ -2277,7 +2288,7 @@ El acogimiento familiar del menor cesará cuando se produzca alguna de las causa
 
 1. El acogimiento residencial es el modo de ejercicio de una medida de protección en el que la guarda se ejerce por la dirección del centro de protección en el que el niño se encuentra acogido.
 
-2. De acuerdo con lo previsto en el artículo 21.3 de la Ley Orgánica 1/1996, de 15 de enero, no se acordará el acogimiento residencial para menores de tres años salvo en supuestos de imposibilidad, debidamente acreditada, de adoptar en ese momento la medida de acogimiento familiar o cuando esta medida no convenga al interés superior del niño. Esta limitación para acordar el acogimiento residencial se aplicará también a los menores de seis años en el plazo más breve posible. En todo caso, y con carácter general, el acogimiento residencial de estos menores no tendrá una duración superior a tres meses.
+2. De acuerdo con lo previsto en el artículo 21.3 de la [Ley Orgánica 1/1996](../../../estatal/01_marco_normativo_general_y_organico/LO1_1996_proteccion_juridica_menor_modificacion_parcial_codigo.md), de 15 de enero, no se acordará el acogimiento residencial para menores de tres años salvo en supuestos de imposibilidad, debidamente acreditada, de adoptar en ese momento la medida de acogimiento familiar o cuando esta medida no convenga al interés superior del niño. Esta limitación para acordar el acogimiento residencial se aplicará también a los menores de seis años en el plazo más breve posible. En todo caso, y con carácter general, el acogimiento residencial de estos menores no tendrá una duración superior a tres meses.
 
 3. La guarda en acogimiento residencial se ejercerá por la persona a quien corresponda la dirección del centro de acogimiento residencial en el que se lleve a cabo, bajo la supervisión de la Comisión de Protección a la Infancia y la Adolescencia, y la superior vigilancia del Ministerio Fiscal.
 
@@ -2287,7 +2298,7 @@ El acogimiento familiar del menor cesará cuando se produzca alguna de las causa
 
 #### Artículo 104. Principios de actuación de los centros.
 
-1. Además de los principios rectores y de actuación recogidos en los artículos 68 y 69 de esta Ley y de los artículos 11,12 y 21 de la Ley Orgánica 1/1996, de 15 de enero, los centros de protección de menores, en el ejercicio de sus competencias, observarán los siguientes principios:
+1. Además de los principios rectores y de actuación recogidos en los artículos 68 y 69 de esta Ley y de los artículos 11,12 y 21 de la [Ley Orgánica 1/1996](../../../estatal/01_marco_normativo_general_y_organico/LO1_1996_proteccion_juridica_menor_modificacion_parcial_codigo.md), de 15 de enero, los centros de protección de menores, en el ejercicio de sus competencias, observarán los siguientes principios:
 
 a) Desinstitucionalización, con el objetivo de reducir los tiempos de estancia en recursos residenciales y promover el cuidado en núcleos de convivencia reducidos, en los que los niños vivan en condiciones similares a las familiares.
 
@@ -2345,7 +2356,7 @@ c) Los hogares son centros de pequeño tamaño situados en pisos o viviendas, se
 
 d) Las unidades de convivencia para adolescentes son hogares dirigidos a adolescentes de doce a dieciocho años que cuentan con un grado de madurez que les permite involucrarse en su proyecto de vida, con el fin de lograr la autonomía e independencia adecuadas en su preparación para la vida adulta.
 
-e) Los centros específicos están destinados a atender a niños cuyas particulares necesidades exigen una atención profesional especializada de carácter terapéutico, que requieren un proceso de tratamiento, por presentar problemas de conducta. Requieren autorización judicial para su ingreso de conformidad con la Ley Orgánica 8/2015, de 22 de julio, de modificación del sistema de protección a la infancia.
+e) Los centros específicos están destinados a atender a niños cuyas particulares necesidades exigen una atención profesional especializada de carácter terapéutico, que requieren un proceso de tratamiento, por presentar problemas de conducta. Requieren autorización judicial para su ingreso de conformidad con la [Ley Orgánica 8/2015](../../../estatal/01_marco_normativo_general_y_organico/LO8_2015_modificacion_sistema_proteccion_infancia_adolescencia.md), de 22 de julio, de modificación del sistema de protección a la infancia.
 
 f) Las residencias para menores con discapacidad, destinadas a niños y adolescentes de cero a dieciocho años acogen a niños con discapacidad física, intelectual, sensorial que por necesitar una atención muy individualizada y especializada requieren de un marco de atención profesional muy específico.
 
@@ -2369,7 +2380,7 @@ f) Las residencias para menores con discapacidad, destinadas a niños y adolesce
 
 #### Artículo 108. Reunificación familiar.
 
-1. Previamente al acuerdo del retorno de la persona protegida a su familia de origen se comprobará que se dan las condiciones requeridas en el artículo 19 bis, 3 de la Ley Orgánica 1/1996, de 15 de enero. Dicha comprobación no será necesaria cuando la reunificación se produzca por el cese de la guarda provisional al no haberse constatado motivos para adoptar una medida de protección.
+1. Previamente al acuerdo del retorno de la persona protegida a su familia de origen se comprobará que se dan las condiciones requeridas en el artículo 19 bis, 3 de la [Ley Orgánica 1/1996](../../../estatal/01_marco_normativo_general_y_organico/LO1_1996_proteccion_juridica_menor_modificacion_parcial_codigo.md), de 15 de enero. Dicha comprobación no será necesaria cuando la reunificación se produzca por el cese de la guarda provisional al no haberse constatado motivos para adoptar una medida de protección.
 
 2. A tal fin se recabará informe sobre la situación del niño, en el que se recogerá su opinión sobre el retorno y las consecuencias que el mismo podría tener sobre él, el informe de la administración local de la residencia de la familia de origen para valorar su situación, disposición, medios y capacidades para volver a hacerse cargo de su cuidado cotidiano. Se tendrá especialmente en cuenta si han existido con anterioridad retornos fracasados con nuevos reingresos de alguno de los niños de la familia en el sistema de protección.
 
@@ -2611,9 +2622,9 @@ b) Intervención y educación social en barrios y en municipios, creando modelos
 
 #### Artículo 125. Acogimiento residencial específico para niños con problemas de conducta.
 
-1. El acogimiento residencial de niños con problemas de conducta, de conformidad con lo previsto en el capítulo IV del título II de la Ley Orgánica 1/1996, de 15 de enero, comprenderá tanto la atención residencial como la intervención terapéutica y socioeducativa dirigida a la reeducación del comportamiento, que se concretará a través de un plan de intervención con objetivos revisables periódicamente. Esta medida de protección se adoptará tras una valoración psicológica y social emitida por el equipo multidisciplinar especializado en protección de menores.
+1. El acogimiento residencial de niños con problemas de conducta, de conformidad con lo previsto en el capítulo IV del título II de la [Ley Orgánica 1/1996](../../../estatal/01_marco_normativo_general_y_organico/LO1_1996_proteccion_juridica_menor_modificacion_parcial_codigo.md), de 15 de enero, comprenderá tanto la atención residencial como la intervención terapéutica y socioeducativa dirigida a la reeducación del comportamiento, que se concretará a través de un plan de intervención con objetivos revisables periódicamente. Esta medida de protección se adoptará tras una valoración psicológica y social emitida por el equipo multidisciplinar especializado en protección de menores.
 
-2. Los procedimientos de ingreso, actuaciones e intervenciones en centros de protección específicos de menores con problemas de trastornos de conducta, se regirán por lo dispuesto en el Capítulo IV del Título II de la Ley Orgánica 1/1996, de 15 de enero, y en el artículo 778 bis de la Ley 1/2000 de 7 de enero.
+2. Los procedimientos de ingreso, actuaciones e intervenciones en centros de protección específicos de menores con problemas de trastornos de conducta, se regirán por lo dispuesto en el Capítulo IV del Título II de la [Ley Orgánica 1/1996](../../../estatal/01_marco_normativo_general_y_organico/LO1_1996_proteccion_juridica_menor_modificacion_parcial_codigo.md), de 15 de enero, y en el artículo 778 bis de la Ley 1/2000 de 7 de enero.
 
 3. La Comunidad de Madrid podrá desarrollar protocolos específicos que aseguren el cumplimiento de las garantías legales y el pleno respeto a los derechos de los niños en relación con su ingreso y permanencia en este tipo de centros.
 
@@ -2621,7 +2632,7 @@ b) Intervención y educación social en barrios y en municipios, creando modelos
 
 #### Artículo 126. Principios de actuación.
 
-1. La intervención con los niños menores de catorce años a los que, con arreglo a lo previsto en el artículo 3 de la Ley Orgánica 5/2000, de 12 de enero, no les es exigible responsabilidad con arreglo a dicha ley, estará orientada a:
+1. La intervención con los niños menores de catorce años a los que, con arreglo a lo previsto en el artículo 3 de la [Ley Orgánica 5/2000](../../../estatal/01_marco_normativo_general_y_organico/LO5_2000_reguladora_responsabilidad_penal_menores.md), de 12 de enero, no les es exigible responsabilidad con arreglo a dicha ley, estará orientada a:
 
 a) Ofrecer a los niños infractores una respuesta protectora, preventiva, educativa y de intervención especializada, preferentemente en su entorno social más próximo, centrada en la eliminación de las causas de la comisión de tales conductas, en la asunción de responsabilidades y en la reparación del daño causado, en su caso.
 
@@ -2661,7 +2672,7 @@ En todo caso, y en todas las actuaciones que se lleven a cabo, la administració
 
 Son sujetos responsables de las infracciones administrativas, a título de dolo o de culpa, las personas físicas a las que sean imputables las acciones u omisiones tipificadas como tales en la presente ley.
 
-Las personas jurídicas y, de conformidad con lo dispuesto en el artículo 28.1 de la Ley 40/2015, de 1 de octubre, los grupos de afectados, las uniones y entidades sin personalidad jurídica y los patrimonios independientes o autónomos, cuando una ley les reconozca capacidad de obrar, serán responsables de las infracciones administrativas establecidas en la legislación de servicios sociales de la Comunidad de Madrid, de acuerdo con su propia normativa y régimen sancionador.
+Las personas jurídicas y, de conformidad con lo dispuesto en el artículo 28.1 de la [Ley 40/2015](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md), de 1 de octubre, los grupos de afectados, las uniones y entidades sin personalidad jurídica y los patrimonios independientes o autónomos, cuando una ley les reconozca capacidad de obrar, serán responsables de las infracciones administrativas establecidas en la legislación de servicios sociales de la Comunidad de Madrid, de acuerdo con su propia normativa y régimen sancionador.
 
 #### Artículo 130. Concurrencia de sanciones y relaciones con la Jurisdicción civil y penal.
 
@@ -2685,7 +2696,7 @@ c) No procurar o impedir por parte de padres, tutores o guardadores, que los ni�
 
 d) No facilitar por quienes han adoptado, al órgano o entidad competente, a los equipos técnicos por ella autorizados o a los organismos acreditados para la adopción internacional, la información, documentación y entrevistas necesarias para la emisión de los informes de seguimiento post adoptivo, o incumplir las obligaciones económicas o materiales necesarias para que dichos informes puedan ser recibidos, en su caso, por la autoridad extranjera en el tiempo y la forma requeridos.
 
-e) La omisión por parte de cualquier persona que acceda y ejercite cualesquiera profesiones, oficios y actividades que impliquen contacto habitual con personas menores de edad de la obligación prevista en la legislación vigente, en cuanto a la acreditación de la circunstancia de no haber sido condenado por sentencia firme por cualquier delito contra la libertad sexual tipificado en el título VIII de la Ley Orgánica 10/1995,de 23 de noviembre, del Código Penal, así como por cualquier delito de trata de seres humanos tipificado en el título VII bis del Código Penal mediante la aportación de una certificación negativa del registro central de delincuentes sexuales y trata de seres humanos.
+e) La omisión por parte de cualquier persona que acceda y ejercite cualesquiera profesiones, oficios y actividades que impliquen contacto habitual con personas menores de edad de la obligación prevista en la legislación vigente, en cuanto a la acreditación de la circunstancia de no haber sido condenado por sentencia firme por cualquier delito contra la libertad sexual tipificado en el título VIII de la [Ley Orgánica 10/1995](../../../estatal/01_marco_normativo_general_y_organico/LO10_1995_codigo_penal.md),de 23 de noviembre, del Código Penal, así como por cualquier delito de trata de seres humanos tipificado en el título VII bis del Código Penal mediante la aportación de una certificación negativa del registro central de delincuentes sexuales y trata de seres humanos.
 
 #### Artículo 132. Infracciones graves.
 
@@ -2789,7 +2800,7 @@ g) La reparación espontánea de los daños causados, el cumplimiento voluntario
 
 #### Artículo 137. Reducción de las sanciones pecuniarias.
 
-1. En aplicación de lo previsto en el artículo 85 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, iniciado el procedimiento sancionador, si el infractor reconoce su responsabilidad, podrá resolverse el procedimiento con la imposición de la sanción que proceda.
+1. En aplicación de lo previsto en el artículo 85 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, iniciado el procedimiento sancionador, si el infractor reconoce su responsabilidad, podrá resolverse el procedimiento con la imposición de la sanción que proceda.
 
 2. Cuando la sanción tenga únicamente carácter pecuniario, o bien quepa imponer una sanción pecuniaria y otra de carácter no pecuniario pero se haya justificado la improcedencia de la segunda, el pago voluntario por el presunto responsable en cualquier momento anterior a la resolución, implicará la terminación del procedimiento, salvo en lo relativo a la reposición de la situación alterada o a la determinación de la indemnización por los daños y perjuicios causados por la comisión de la infracción.
 
@@ -2873,7 +2884,7 @@ El importe de las multas y el de las responsabilidades administrativas podrá se
 
 #### Artículo 145. Caducidad.
 
-Transcurrido un año desde la iniciación del procedimiento sin que se haya dictado y notificado resolución expresa, se producirá la caducidad del procedimiento, con los requisitos y efectos previstos en el artículo 95 de la Ley 39/2015, de 1 de octubre.
+Transcurrido un año desde la iniciación del procedimiento sin que se haya dictado y notificado resolución expresa, se producirá la caducidad del procedimiento, con los requisitos y efectos previstos en el artículo 95 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre.
 
 #### Disposición adicional primera. Comisión de Tutela del Menor.
 
@@ -2961,9 +2972,9 @@ c) Fomentar y reforzar las relaciones y la comunicación entre las organizacione
 
 d) Promoverán una cultura de confianza mediante la designación de un delegado de protección, al que los niños puedan acudir para expresar sus inquietudes y preocupaciones.»
 
-#### Disposición final sexta. Modificación de la Ley 9/1999, de 9 de abril, de Museos de la Comunidad de Madrid.
+#### Disposición final sexta. Modificación de la [Ley 9/1999](../../andalucía/06_atencion_diversidad_y_orientacion/L9_1999_solidaridad_en_la_educacion_andalucia.md), de 9 de abril, de Museos de la Comunidad de Madrid.
 
-Se modifica la Ley 9/1999, de 9 de abril, en los siguientes términos:
+Se modifica la [Ley 9/1999](../../andalucía/06_atencion_diversidad_y_orientacion/L9_1999_solidaridad_en_la_educacion_andalucia.md), de 9 de abril, en los siguientes términos:
 
 Uno. Se introduce una nueva letra en el apartado 1 del artículo 3, con la siguiente redacción:
 

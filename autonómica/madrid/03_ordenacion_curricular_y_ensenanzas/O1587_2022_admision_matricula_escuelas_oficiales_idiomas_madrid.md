@@ -27,8 +27,19 @@ tags:
 - matricula_eoi
 - idiomas
 - madrid
+fundamentos_derecho:
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-mad-d-52-2021
+- norma_id: norm-mad-l1-1983-gobierno-administracion-comunidad-madrid
+- norma_id: norm-mad-d106-2018-ordenacion-ensenanzas-idiomas-regimen-especial-madrid
+- norma_id: norm-mad-o2414-2019-organizacion-funcionamiento-evaluacion-ensenanzas-idiomas-eoi-madrid
+- norma_id: norm-es-l-39-2015
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-lo-3-2018
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-rd-1041-2017
+- norma_id: norm-es-2010-12201
 ---
-
 # Orden 1587/2022, de 8 de junio, de la Consejería de Educación, Universidades, Ciencia y Portavocía, por la que se regula el procedimiento de admisión y matrícula del alumnado oficial y libre en las escuelas oficiales de idiomas de la Comunidad de Madrid
 
 ## Preámbulo
@@ -40,7 +51,7 @@ ORDEN 1587/2022, de 8 de junio, de la Consejería de Educación, Universida-
 des, Ciencia y Portavocía, por la que se regula el procedimiento de admisión y
 matrícula del alumnado oficial y libre en las escuelas oficiales de idiomas de la
 Comunidad de Madrid.
-La Ley Orgánica 2/2006, de 3 de mayo, de Educación, establece en su artículo 59,
+La [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, establece en su artículo 59,
 apartado 1, que las enseñanzas de idiomas tienen por objeto capacitar al alumnado para el
 uso adecuado de los distintos idiomas, fuera de las etapas ordinarias del sistema educativo,
 y organiza los niveles en básico, intermedio y avanzado, estableciendo la correspondencia
@@ -50,10 +61,10 @@ tículo 59 establece que para acceder a las enseñanzas de idiomas será requisi
 dible tener dieciséis años cumplidos en el año en que se comiencen los estudios y que po-
 drán acceder asimismo los mayores de catorce años para seguir las enseñanzas de un idioma
 distinto del cursado en la educación secundaria obligatoria.
-El Real Decreto 1041/2017, de 22 de diciembre, por el que se fijan las exigencias mí-
+El [Real Decreto 1041/2017](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1041_2017_exigencias_minimas_curriculo_basico_idiomas_regimen_especial.md), de 22 de diciembre, por el que se fijan las exigencias mí-
 nimas del nivel básico a efectos de certificación, se establece el currículo básico de los ni-
 veles Intermedio B1, Intermedio B2, Avanzado C1, y Avanzado C2, de las Enseñanzas de
-Idiomas de régimen especial reguladas por la Ley Orgánica 2/2006, de 3 de mayo, de Edu-
+Idiomas de régimen especial reguladas por la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Edu-
 cación, y se establecen las equivalencias entre las enseñanzas de idiomas de régimen espe-
 cial reguladas en diversos planes de estudios y las de este real decreto, dispone en su artícu-
 lo 2, titulado “Acceso a las Enseñanzas de Idiomas”, que “las Administraciones educativas
@@ -62,7 +73,7 @@ los niveles Intermedio B1, Intermedio B2, Avanzado C1 y Avanzado C2 de un idioma
 nes acrediten el dominio de las competencias requeridas en dicho idioma, según los proce-
 dimientos que establezcan las administraciones educativas”.
 El marco normativo para la admisión y matrícula en las enseñanzas de idiomas de ré-
-gimen especial en la Comunidad de Madrid se fija en el Decreto 106/2018, de 19 de junio,
+gimen especial en la Comunidad de Madrid se fija en el [Decreto 106/2018](./D106_2018_ordenacion_ensenanzas_idiomas_regimen_especial_madrid.md), de 19 de junio,
 del Consejo de Gobierno, por el que se ordenan las enseñanzas de idiomas de régimen es-
 pecial y se establecen los currículos de los niveles básico, intermedio y avanzado en la Co-
 munidad de Madrid, en cuyo artículo 11 se establece que la consejería con competencias en
@@ -73,9 +84,9 @@ las oficiales de idiomas del alumnado oficial, que es aquel interesado en cursar
 de idiomas de régimen especial de manera presencial, semipresencial o a distancia, y del
 alumnado libre, que es aquel que solo desea certificar su nivel de competencia en uno o va-
 rios idiomas mediante la realización de la prueba de certificación correspondiente.
-Asimismo, de acuerdo con lo dispuesto en el artículo 129 de la Ley 39/2015, de 1 de
+Asimismo, de acuerdo con lo dispuesto en el artículo 129 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de
 octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, y en
-el artículo 2 del Decreto 52/2021, de 24 de marzo, del Consejo de Gobierno, por el que se
+el artículo 2 del [Decreto 52/2021](../01_marco_normativo_general_y_organico/D52_2021_procedimiento_elaboracion_disposiciones_normativas_madrid.md), de 24 de marzo, del Consejo de Gobierno, por el que se
 regula y simplifica el procedimiento de elaboración de las disposiciones normativas de ca-
 rácter general en la Comunidad de Madrid, la presente orden se ajusta a las exigencias del
 principio de necesidad y de eficacia por razón de interés general, al proporcionar a los cen-
@@ -103,7 +114,7 @@ tión de los recursos públicos.
 También cumple el principio de transparencia conforme a lo establecido en la Ley 10/2019,
 de 10 de abril, de Transparencia y de Participación de la Comunidad de Madrid, dándose
 cumplimiento al trámite de audiencia e información públicas previsto en el artículo 9 del
-Decreto 52/2021, de 24 de marzo, a través del Portal de Transparencia de la Comunidad de
+[Decreto 52/2021](../01_marco_normativo_general_y_organico/D52_2021_procedimiento_elaboracion_disposiciones_normativas_madrid.md), de 24 de marzo, a través del Portal de Transparencia de la Comunidad de
 Madrid.
 Para la elaboración de esta orden ha emitido dictamen el Consejo Escolar de la Comu-
 nidad de Madrid y se han recabado los informes relativos al impacto por razón de género,
@@ -111,8 +122,8 @@ al impacto sobre la familia, la infancia y la adolescencia, así como al impacto
 orientación sexual e identidad de expresión de género. Por otro lado, la orden cuenta con el
 informe de la Abogacía General de la Comunidad de Madrid.
 Por todo lo anterior, en el ejercicio de las competencias que atribuye el artículo 41.d) de
-la Ley 1/1983, de 13 de diciembre, de Gobierno y Administración de la Comunidad de
-Madrid, y de conformidad con el artículo 11 y la disposición final segunda del Decreto 106/2018,
+la [Ley 1/1983](../01_marco_normativo_general_y_organico/L1_1983_gobierno_administracion_comunidad_madrid.md), de 13 de diciembre, de Gobierno y Administración de la Comunidad de
+Madrid, y de conformidad con el artículo 11 y la disposición final segunda del [Decreto 106/2018](./D106_2018_ordenacion_ensenanzas_idiomas_regimen_especial_madrid.md),
 de 19 de junio, en relación con el Decreto 236/2021, de 17 de noviembre, del Consejo de
 Gobierno, por el que se establece la estructura orgánica de la Consejería de Educación, Uni-
 versidades, Ciencia y Portavocía,
@@ -154,7 +165,7 @@ BOCM
 Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo, de 27 de abril de 2016,
 relativo a la protección de las personas físicas en lo que respecta al tratamiento de datos per-
 sonales y a la libre circulación de estos datos y por el que se deroga la Directiva 95/46/CE
-(Reglamento general de protección de datos), y a lo establecido en la Ley Orgánica 3/2018,
+(Reglamento general de protección de datos), y a lo establecido en la [Ley Orgánica 3/2018](../../../estatal/02_gestion_y_administracion_centros/LO3_2018_proteccion_datos_personales_garantia_derechos_digitales.md),
 de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales.
 
 ### Capítulo II. Admisión y matrícula para el alumnado oficial
@@ -270,7 +281,7 @@ cluirán en la lista general de solicitantes de admisión.
 #### Artículo 8. Requisitos de acceso a las enseñanzas de idiomas para el alumnado oficial.
 
 Los requisitos de acceso a las enseñanzas de idiomas de régimen especial para el alum-
-nado oficial son los establecidos en el artículo 10 del Decreto 106/2018, de 19 de junio.
+nado oficial son los establecidos en el artículo 10 del [Decreto 106/2018](./D106_2018_ordenacion_ensenanzas_idiomas_regimen_especial_madrid.md), de 19 de junio.
 
 #### Artículo 9. Prueba de clasificación
 
@@ -303,7 +314,7 @@ clasificación podrá efectuarse:
 a)
 Preferiblemente, por vía telemática a través de la Secretaría Virtual del sistema de
 gestión educativa o, en su defecto, en los registros electrónicos previstos en el ar-
-tículo 16.4.a) de la Ley 39/2015, de 1 de octubre. Para la presentación telemática
+tículo 16.4.a) de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre. Para la presentación telemática
 de solicitudes, será necesario disponer de uno de los certificados electrónicos re-
 conocidos o cualificados de firma electrónica que sean operativos en la Comuni-
 dad de Madrid y estén expedidos por los prestadores incluidos en la lista de con-
@@ -313,7 +324,7 @@ condiciones que se establezcan para cada tipo de firma.
 b)
 De forma presencial, en las escuelas oficiales de idiomas de la Comunidad de Madrid
 o en cualquiera de los lugares previstos en el artículo 16.4, apartados b), c), d) y e), de
-la Ley 39/2015, de 1 de octubre, indicando obligatoriamente como destinatario de la
+la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, indicando obligatoriamente como destinatario de la
 solicitud la escuela oficial de idiomas en la que desea realizar dicha prueba.
 6.
 La realización de la prueba de clasificación requiere el abono de un precio público,
@@ -338,7 +349,7 @@ Declaración del alumno en la que indique las medidas concretas que solicita par
 la realización de la prueba de clasificación, referidas a las condiciones o material
 que deben utilizar.
 Las solicitudes de adaptación se resolverán de acuerdo con lo establecido en el artícu-
-lo 17 de la Orden 2414/2019, de 1 de agosto, del Consejero de Educación e Investigación,
+lo 17 de la [Orden 2414/2019](./O2414_2019_organizacion_funcionamiento_evaluacion_ensenanzas_idiomas_eoi_madrid.md), de 1 de agosto, del Consejero de Educación e Investigación,
 por la que se regula la evaluación y certificación de los niveles básico, intermedio y avan-
 zado de las enseñanzas de idiomas de régimen especial en la Comunidad de Madrid.
 8.
@@ -395,7 +406,7 @@ a)
 Preferentemente, de forma telemática, a través de la Secretaría Virtual del sistema
 de gestión educativa o, en su defecto, en los registros electrónicos previstos en el
 
-#### Artículo 16. 4.a) de la Ley 39/2015, de 1 de octubre. Para la presentación telemáti-
+#### Artículo 16. 4.a) de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre. Para la presentación telemáti-
 
 ca de solicitudes será necesario disponer de uno de los certificados electrónicos re-
 conocidos o cualificados de firma electrónica que sean operativos en la Comuni-
@@ -406,7 +417,7 @@ diciones que se establezcan para cada tipo de firma.
 b)
 De forma presencial, en las escuelas oficiales de idiomas de la Comunidad de
 Madrid o en cualquiera de los lugares previstos en el artículo 16.4, apartados b),
-c), d) y e), de la Ley 39/2015, de 1 de octubre, indicando obligatoriamente como
+c), d) y e), de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, indicando obligatoriamente como
 destinatario de la solicitud la escuela oficial de idiomas en la que desea cursar en-
 señanzas de idiomas.
 4.
@@ -416,7 +427,7 @@ Administración. La administración actuante podrá consultar o recabar dichos d
 cumentos salvo que el interesado se opusiera a ello.
 5.
 Si la solicitud de inscripción no reuniera los requisitos que señala el artículo 66 de
-la Ley 39/2015, de 1 de octubre u otros exigidos por la legislación específica aplicable, se
+la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre u otros exigidos por la legislación específica aplicable, se
 requerirá al interesado para que, en un plazo de diez días, subsane la falta o acompañe los
 documentos preceptivos, con indicación de que, si así no lo hiciera, se le tendrá por desis-
 tido de su petición.
@@ -459,7 +470,7 @@ escuelas oficiales de idiomas.
 4.
 Estas listas definitivas podrán ser objeto de recurso, en el plazo de un mes, median-
 te recurso de alzada ante la consejería competente en materia de educación, que resolverá lo
-que proceda en los términos previstos en los artículos 115, 121 y 122 de la Ley 39/2015, de
+que proceda en los términos previstos en los artículos 115, 121 y 122 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de
 1 de octubre. Esta resolución, que será motivada, pondrá fin a la vía administrativa.
 
 #### Artículo 14. Formalización de matrícula para el alumnado oficial
@@ -598,7 +609,7 @@ a)
 Preferentemente, de forma telemática, a través de la Secretaría Virtual del sistema
 de gestión educativa o, en su defecto, en los registros electrónicos previstos en el
 
-#### Artículo 16. 4.a) de la Ley 39/2015, de 1 de octubre. Para la presentación telemáti-
+#### Artículo 16. 4.a) de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre. Para la presentación telemáti-
 
 ca de solicitudes será necesario disponer de uno de los certificados electrónicos re-
 conocidos o cualificados de firma electrónica que sean operativos en la Comuni-
@@ -609,14 +620,14 @@ diciones que se establezcan para cada tipo de firma.
 b)
 De forma presencial, en las escuelas oficiales de idiomas de la Comunidad de
 Madrid o en cualquiera de los lugares previstos en el artículo 16.4, apartados b),
-c), d) y e), de la Ley 39/2015, de 1 de octubre, indicando obligatoriamente como
+c), d) y e), de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, indicando obligatoriamente como
 destinatario de la solicitud la escuela oficial de idiomas en la que desea realizar la
 prueba de certificación.
 4.
 Los solicitantes con discapacidad acreditada que soliciten adaptación de la prue-
 ba de certificación deberán indicarlo en la solicitud de admisión mediante la cum-
 plimentación del apartado correspondiente y la presentación de la siguiente docu-
-mentación, de acuerdo con lo establecido en el artículo 16 de la Orden 2414/2019,
+mentación, de acuerdo con lo establecido en el artículo 16 de la [Orden 2414/2019](./O2414_2019_organizacion_funcionamiento_evaluacion_ensenanzas_idiomas_eoi_madrid.md),
 de 1 de agosto:
 a)
 Certificado oficial de discapacidad en vigor.
@@ -634,13 +645,13 @@ tración. La administración actuante podrá consultar o recabar dichos document
 el interesado se opusiera a ello.
 6.
 Si la solicitud de inscripción no reúne los requisitos que señala el artículo 66 de la
-Ley 39/2015, de 1 de octubre, u otros exigidos por la legislación específica aplicable, se re-
+[Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, u otros exigidos por la legislación específica aplicable, se re-
 querirá al interesado para que, en un plazo de diez días, subsane la falta o acompañe los do-
 cumentos preceptivos, con indicación de que, si así no lo hiciera, se tendrá por desistida su
 petición.
 7.
 Las solicitudes de adaptación se resolverán de acuerdo con lo establecido en el ar-
-tículo 17 de la Orden 2414/2019, de 1 de agosto.
+tículo 17 de la [Orden 2414/2019](./O2414_2019_organizacion_funcionamiento_evaluacion_ensenanzas_idiomas_eoi_madrid.md), de 1 de agosto.
 
 #### Artículo 22. Criterios para la adjudicación de plazas para el alumnado libre
 
@@ -680,7 +691,7 @@ de gestión educativa y en las escuelas oficiales de idiomas.
 4.
 Estas listas definitivas podrán ser objeto de recurso, en el plazo de un mes, median-
 te recurso de alzada ante la consejería competente en materia de educación, que resolverá lo
-que proceda en los términos previstos en los artículos 115, 121 y 122 de la Ley 39/2015, de
+que proceda en los términos previstos en los artículos 115, 121 y 122 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de
 1 de octubre. Esta resolución, que será motivada, pondrá fin a la vía administrativa.
 
 #### Artículo 24. Formalización de matrícula para el alumnado libre

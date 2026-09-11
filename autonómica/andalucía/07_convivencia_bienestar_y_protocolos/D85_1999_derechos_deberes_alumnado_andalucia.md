@@ -33,8 +33,9 @@ relaciones:
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-lo-8-2021
   - norma_id: norm-es-lo-1-1996
+fundamentos_derecho:
+- norma_id: norm-and-l17-2007
 ---
-
 # Decreto 85/1999, de 6 de abril, por el que se regulan los derechos y deberes del alumnado y las normas de convivencia.
 
 ## Preámbulo

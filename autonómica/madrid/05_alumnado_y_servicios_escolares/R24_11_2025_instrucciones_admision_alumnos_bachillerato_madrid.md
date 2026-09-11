@@ -27,8 +27,15 @@ tags:
 - centros_docentes
 - escolarizacion
 - madrid
+fundamentos_derecho:
+- norma_id: norm-mad-d248-2023
+- norma_id: norm-mad-d18-2008-requisitos-minimos-centros-primer-ciclo-educacion-infantil-madrid
+- norma_id: norm-mad-o-1190-2021
+- norma_id: norm-mad-o460-2023
+- norma_id: norm-mad-o123-2015
+- norma_id: norm-es-l-39-2015
+- norma_id: norm-es-2013-12632
 ---
-
 # Resolución de 24 de noviembre de 2025, de la Viceconsejería de Política y Organización Educativa, por la que se dictan instrucciones sobre la participación en el proceso de admisión de alumnos de primer ciclo de Educación Infantil en centros públicos y en centros privados sostenidos con Fondos Públicos de la Comunidad de Madrid para el curso escolar 2026-2027
 
 ## Preámbulo
@@ -40,14 +47,14 @@ Organización Educativa, por la que se dictan instrucciones sobre la participa-
 ción en el proceso de admisión de alumnos de primer ciclo de Educación Infan-
 til en centros públicos y en centros privados sostenidos con Fondos Públicos de
 la Comunidad de Madrid para el curso escolar 2026-2027.
-La Orden 123/2015, de 26 de enero, de la Consejería de Educación, Juventud y Depor-
+La [Orden 123/2015](./O123_2015_admision_alumnos_primer_ciclo_educacion_infantil_madrid.md), de 26 de enero, de la Consejería de Educación, Juventud y Depor-
 te regula la admisión de alumnos de primer ciclo de Educación Infantil en centros públicos
 y en centros privados sostenidos con fondos públicos de la Comunidad de Madrid.
 En el marco de la citada normativa corresponde organizar, mediante la presente reso-
 lución, el desarrollo del proceso ordinario de admisión de alumnos de primer ciclo de Edu-
 cación Infantil en centros sostenidos con fondos públicos, así como disponer sobre el pro-
 ceso extraordinario de admisión para el curso escolar 2026/2027.
-Por ello, en virtud del Decreto 248/2023, de 11 de octubre, del Consejo de Gobierno, por
+Por ello, en virtud del [Decreto 248/2023](../01_marco_normativo_general_y_organico/D248_2023_estructura_organica_consejeria_educacion_ciencia_universidades_madrid.md), de 11 de octubre, del Consejo de Gobierno, por
 el que se establece la estructura orgánica de la Consejería de Educación, Ciencia y Universida-
 des, la Viceconsejería de Política y Organización Educativa dicta las siguientes instrucciones:
 SECCIÓN PRIMERA
@@ -102,7 +109,7 @@ de las actuaciones que correspondan.
 Tercera
 Servicios de Apoyo a la Escolarización
 1.
-El capítulo I de la Orden 123/2015, de 26 de enero, de la Consejería de Educación,
+El capítulo I de la [Orden 123/2015](./O123_2015_admision_alumnos_primer_ciclo_educacion_infantil_madrid.md), de 26 de enero, de la Consejería de Educación,
 Juventud y Deporte regula la posibilidad de establecer Servicios de Apoyo a la Escolariza-
 ción (SAE) en las DAT, sus funciones y composición.
 2.
@@ -136,10 +143,10 @@ en aquellos en los que la familia no se encuentre al corriente de pago.
 2.
 La reserva de plaza para cada curso tendrá en cuenta, en su caso, la flexibilización,
 previsión de permanencia de un año más en el primer ciclo de la etapa de Educación Infan-
-til en la Comunidad de Madrid según lo dispuesto en la Orden 460/2023, de 17 de febrero,
+til en la Comunidad de Madrid según lo dispuesto en la [Orden 460/2023](../03_ordenacion_curricular_y_ensenanzas/O460_2023_organizacion_funcionamiento_evaluacion_educacion_infantil_madrid.md), de 17 de febrero,
 de la Vicepresidencia, Consejería de Educación y Universidades, por la que se regulan as-
 pectos de organización y funcionamiento, evaluación y autonomía pedagógica en la etapa
-de Educación Infantil, Disposición Final Primera, Modificación de la Orden 1190/2021,
+de Educación Infantil, Disposición Final Primera, Modificación de la [Orden 1190/2021](../03_ordenacion_curricular_y_ensenanzas/O1190_2021_regulacion_bilinguismo_centros_concertados_madrid.md),
 de 29 de abril, de la Consejería de Educación y Juventud, por la que se regula la medida de
 permanencia de un año más en el primer ciclo de la etapa de Educación Infantil en la Co-
 munidad de Madrid.
@@ -160,7 +167,7 @@ solicitud de plaza, junto con la relación de centros sostenidos con fondos púb
 tegran el SAE correspondiente, si fuera el caso.
 2.
 Para la determinación del número de vacantes en cada centro se atenderá a lo dis-
-puesto en el Decreto 18/2008, de 6 de marzo, por el que se establecen los requisitos míni-
+puesto en el [Decreto 18/2008](../02_gestion_y_administracion_centros/D18_2008_requisitos_minimos_centros_primer_ciclo_educacion_infantil_madrid.md), de 6 de marzo, por el que se establecen los requisitos míni-
 mos de los centros que imparten el primer ciclo de Educación Infantil en el ámbito de la Co-
 munidad de Madrid. El número máximo de plazas por grupo será:
 — Primer curso: 8 plazas.
@@ -291,7 +298,7 @@ gar o bien ser dirigida a dicho centro a través de los procedimientos contempla
 
 BOCM-20251209-18
 BOCM
-en la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de
+en la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Administrativo Común de
 las Administraciones Públicas.
 3.
 La solicitud de admisión será cumplimentada y firmada por ambos padres, madres
@@ -390,7 +397,7 @@ En los colegios públicos de Educación Infantil y Primaria autorizados para imp
 tir el primer ciclo de Educación Infantil, la solicitud de plaza para el primer ciclo de Educa-
 ción Infantil en dichos centros se cumplimentará utilizando la opción: escuelas infantiles.
 13.
-En cumplimiento de la normativa vigente, Ley 39/2015, de 1 de octubre, del Pro-
+En cumplimiento de la normativa vigente, [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Pro-
 cedimiento Administrativo Común de las Administraciones Públicas, la administración
 educativa realizará, a través del Sistema Integral de Gestión Educativa Raíces, las consul-
 tas relativas a la información disponible sobre las circunstancias alegadas en la solicitud,
@@ -424,7 +431,7 @@ dadas por el centro, tanto si resultan estimadas como desestimadas.
 2.
 Dado que en el proceso ordinario en la solicitud pueden marcarse hasta 12 centros
 pertenecientes a un mismo SAE, el director del centro solicitado en primer lugar aplicará el
-baremo de admisión, recogido en la Orden 123/2015, de 26 de enero, a las solicitudes que
+baremo de admisión, recogido en la [Orden 123/2015](./O123_2015_admision_alumnos_primer_ciclo_educacion_infantil_madrid.md), de 26 de enero, a las solicitudes que
 cumplan los requisitos de edad y residencia.
 3.
 Cada centro baremará tanto los criterios comunes de admisión como los criterios
@@ -744,7 +751,7 @@ El número de plazas vacantes para cada uno de los centros que integran el SAE
 desglosadas por los cursos autorizados en cada centro para el siguiente curso esco-
 lar, con indicación de las reservadas para alumnos con necesidades educativas es-
 peciales y, en su caso, de las reservadas para los supuestos contemplados en el ar-
-tículo 6.2 de la Orden 123/2015, que se obtiene a través del Sistema Integral de
+tículo 6.2 de la [Orden 123/2015](./O123_2015_admision_alumnos_primer_ciclo_educacion_infantil_madrid.md), que se obtiene a través del Sistema Integral de
 Gestión Educativa Raíces.
 c)
 Fechas y plazos del proceso de admisión:
@@ -844,7 +851,7 @@ Si finalizado el plazo de matrícula, algún niño incluido en la lista definiti
 mitidos no hubiera nacido, pasará a la lista de espera, ocupando el lugar que le correspon-
 da según la puntuación obtenida. En esta situación podrán permanecer como máximo has-
 ta el 31 de diciembre de 2026, fecha en que la solicitud será desestimada por no reunir los
-requisitos indicados en el artículo 2 de la Orden 123/2015, de 26 de enero. Será responsa-
+requisitos indicados en el artículo 2 de la [Orden 123/2015](./O123_2015_admision_alumnos_primer_ciclo_educacion_infantil_madrid.md), de 26 de enero. Será responsa-
 bilidad de las familias aportar al centro el justificante de nacimiento con el fin de poderles
 ofertar las plazas vacantes que se puedan producir. Es imprescindible que los centros infor-
 men en el Sistema Integral de Gestión Educativa Raíces el nacimiento del alumno en el mo-
@@ -1199,7 +1206,7 @@ El Sistema Integral de Gestión Educativa Raíces, a partir de los datos sobre e
 miembros de la unidad familiar en 2026 y la información aportada por la Agencia Estatal de la
 Administración Tributaria (AEAT) sobre renta del año 2024, otorgará la puntuación
 correspondiente a la renta per cápita de la unidad familiar de acuerdo a la tabla recogida en el
-apartado 2.1 del Anexo I de la Orden 123/2015, de 26 de enero.
+apartado 2.1 del Anexo I de la [Orden 123/2015](./O123_2015_admision_alumnos_primer_ciclo_educacion_infantil_madrid.md), de 26 de enero.
 
 En el caso de que los solicitantes opten por no autorizar a la Administración educativa a recabar
 los datos de la Agencia Tributaria para justificar la situación económica serán válidos los
@@ -1394,7 +1401,7 @@ correspondiente. En caso de manifestar oposición expresa a la consulta de datos
 necesario acreditar dicha circunstancia mediante la presentación de los correspondientes
 certificados e informes emitidos por la Consejería de Familia, Juventud y Asuntos Sociales
 por los órganos competentes de otras Comunidades Autónomas o, anteriormente, por el
-IMSERSO. De acuerdo con el Real Decreto Legislativo 1/2013, de 29 de noviembre, por el
+IMSERSO. De acuerdo con el [Real Decreto Legislativo 1/2013](../../../estatal/07_convivencia_bienestar_y_protocolos/RDL1_2013_aprueba_texto_refundido_ley_general_derechos.md), de 29 de noviembre, por el
 que se aprueba el Texto Refundido de la Ley General de derechos de las personas con
 discapacidad y de su inclusión social, tendrán validez a efectos de baremación y obtención
 de puntuación de las solicitudes de admisión, los certificados en los que figure un grado de

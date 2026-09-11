@@ -36,13 +36,32 @@ relaciones:
   - norma_id: norm-and-l17-2007
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-l-39-2015
+fundamentos_derecho:
+- norma_id: norm-and-l12-2007-promocion-igualdad-genero-andalucia
+- norma_id: norm-and-l17-2007
+- norma_id: norm-and-l6-2006-gobierno-comunidad-autonoma-andalucia
+- norma_id: norm-and-d102-2023-ordenacion-curriculo-educacion-secundaria-obligatoria-andalucia
+- norma_id: norm-and-d359-2011-regulacion-modalidades-semipresencial-distancia-andalucia
+- norma_id: norm-and-o-30-5-2023-bachillerato
+- norma_id: norm-and-o-30-5-2023-infantil
+- norma_id: norm-and-o-30-5-2023-primaria
+- norma_id: norm-and-o15-1-2021-atencion-diversidad-orientacion-educativa-andalucia
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-can-res-134
+- norma_id: norm-es-l-39-2015
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-rd-1834-2008
+- norma_id: norm-es-2010-11426
+- norma_id: norm-es-lo-3-2022
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-rd-217-2022
+- norma_id: norm-es-2010-12201
 ---
-
-# Orden de 30 de mayo de 2023, por la que se desarrolla el currículo correspondiente a la etapa de Educación Secundaria Obligatoria en la Comunidad Autónoma de Andalucía, se regulan determinados aspectos de la atención a la diversidad y a las diferencias individuales y se establece la ordenación de la evaluación del proceso de aprendizaje del alumnado.
+# [Orden de 30 de mayo de 2023](./O30_5_2023_desarrollo_curriculo_evaluacion_bachillerato_andalucia.md), por la que se desarrolla el currículo correspondiente a la etapa de Educación Secundaria Obligatoria en la Comunidad Autónoma de Andalucía, se regulan determinados aspectos de la atención a la diversidad y a las diferencias individuales y se establece la ordenación de la evaluación del proceso de aprendizaje del alumnado.
 
 ## Preámbulo
 
-Orden de 30 de mayo de 2023, por la que se desarrolla el currículo 
+[Orden de 30 de mayo de 2023](./O30_5_2023_desarrollo_curriculo_evaluacion_bachillerato_andalucia.md), por la que se desarrolla el currículo 
 correspondiente a la etapa de Educación Secundaria Obligatoria en la 
 Comunidad Autónoma de Andalucía, se regulan determinados aspectos de 
 la atención a la diversidad y a las diferencias individuales, se establece la 
@@ -51,7 +70,7 @@ determina el proceso de tránsito entre las diferentes etapas educativas.
 La Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la Ley 
 Orgánica  2/2006, de 3 de mayo, de Educación, ha introducido cambios que afectan a 
 la etapa de Educación Secundaria Obligatoria. En cumplimiento de estas previsiones 
-legales, el Gobierno ha regulado esta etapa mediante el Real Decreto 217/2022, de 29 de 
+legales, el Gobierno ha regulado esta etapa mediante el [Real Decreto 217/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD217_2022_establece_ordenacion_ensenanzas_minimas_educacion_secundaria.md), de 29 de 
 marzo, por el que se establece la ordenación y las enseñanzas mínimas de la Educación 
 Secundaria Obligatoria.
 La Comunidad Autónoma de Andalucía ostenta la competencia compartida para el 
@@ -60,20 +79,20 @@ con lo dispuesto en el artículo 52.2 del Estatuto de Autonomía para Andalucía
 de lo recogido en el artículo 149.1.30.ª de la Constitución Española, a tenor del cual 
 corresponde al Estado dictar las normas básicas para el desarrollo de su artículo 27, a fin 
 de garantizar el cumplimiento de las obligaciones de los poderes públicos en esta materia.
-En el ejercicio de esta competencia se ha publicado el Decreto 102/2023, de 9 de 
+En el ejercicio de esta competencia se ha publicado el [Decreto 102/2023](./D102_2023_ordenacion_curriculo_educacion_secundaria_obligatoria_andalucia.md), de 9 de 
 mayo, por el que se establece la ordenación y el currículo de la etapa de Educación 
 Secundaria Obligatoria en la Comunidad Autónoma de Andalucía, de conformidad 
-con lo dispuesto en la Ley Orgánica 2/2006, de 3 de mayo, de Educación, y en el Real 
+con lo dispuesto en la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, y en el Real 
 Decreto 217/2022, de 29 de marzo, quedando derogado el Decreto 111/2016, de 14 de 
 junio, por el que se establece la ordenación y el currículo de la Educación Secundaria 
 Obligatoria en la Comunidad Autónoma de Andalucía.
-Como desarrollo del Decreto 102/2023, de 9 de mayo, se hace necesario disponer de 
+Como desarrollo del [Decreto 102/2023](./D102_2023_ordenacion_curriculo_educacion_secundaria_obligatoria_andalucia.md), de 9 de mayo, se hace necesario disponer de 
 un nuevo marco normativo, mediante la presente Orden, que regule en Andalucía la etapa 
 de Educación Secundaria Obligatoria en aspectos curriculares y organizativos, así como 
 en lo referente al ámbito de la atención a la diversidad y a las diferencias individuales, a la 
 evaluación, a la promoción, a la titulación y al proceso de coordinación en el tránsito entre 
 etapas educativas.
-La Ley 17/2007, de 10 de diciembre, de Educación de Andalucía y las orientaciones 
+La [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre, de Educación de Andalucía y las orientaciones 
 de la Unión Europea inciden en la necesidad de la adquisición de las competencias clave 
 por parte de la ciudadanía como condición indispensable para lograr que las personas 
 puedan alcanzar su pleno desarrollo personal, social y profesional. El aprendizaje basado 
@@ -81,13 +100,13 @@ en competencias incluye, además del «saber», el «saber hacer» y el «saber 
 Se trata de formar una ciudadanía competente a través de una educación que tenga en 
 cuenta las competencias clave que demanda la construcción de una sociedad plural, 
 dinámica, emprendedora, democrática y solidaria. Además, la educación debe fomentar 
-una igualdad real entre hombres y mujeres, tal y como se establece en la Ley 12/2007, de 
+una igualdad real entre hombres y mujeres, tal y como se establece en la [Ley 12/2007](../01_marco_normativo_general_y_organico/L12_2007_promocion_igualdad_genero_andalucia.md), de 
 26 de noviembre, para la promoción de la igualdad de género en Andalucía.
 En este sentido, la lectura se constituye como un factor didáctico y pedagógico 
 fundamental para el desarrollo y adquisición de los aprendizajes. Por ello, todos los 
 centros, al organizar su práctica docente, deberán garantizar la incorporación de un 
 tiempo diario de lectura planificada, no inferior a treinta minutos, a lo largo de todos los 
-cursos de la etapa, según lo recogido en el artículo 6 del Decreto 102/2023, de 9 de mayo.
+cursos de la etapa, según lo recogido en el artículo 6 del [Decreto 102/2023](./D102_2023_ordenacion_curriculo_educacion_secundaria_obligatoria_andalucia.md), de 9 de mayo.
 El currículo de esta etapa en Andalucía ordena, organiza y relaciona los elementos 
 que determinan los procesos de enseñanza y aprendizaje. Este currículo concreta 
 las competencias específicas, los criterios de evaluación y los saberes básicos para 
@@ -156,7 +175,7 @@ coherencia y cohesión a la progresión en el desempeño competencial a lo largo
 período que conforma la etapa de la Educación Secundaria Obligatoria, ya que marca los 
 niveles de desempeño de las competencias clave, al finalizar el ciclo temporal.
 La presente orden se ha elaborado atendiendo a los principios de buena regulación 
-contenidos en el artículo 129 de la Ley 39/2015, de 1 de octubre, del Procedimiento 
+contenidos en el artículo 129 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento 
 Administrativo Común de las Administraciones Públicas: principios de necesidad, eficacia, 
 proporcionalidad, seguridad jurídica, transparencia y eficiencia, en tanto que persigue un 
 interés general al proporcionar a la ciudadanía un marco normativo de las enseñanzas 
@@ -169,13 +188,13 @@ permitiendo una gestión más eficiente de los recursos públicos, por lo que qu
 justificados los objetivos que persigue la citada Ley. Además, en el procedimiento de 
 elaboración de esta orden se ha permitido y facilitado la participación y las aportaciones 
 de las personas potenciales destinatarias a través de los procedimientos de audiencia 
-e información pública regulados en el artículo 133 de la citada Ley 39/2015, de 1 de 
+e información pública regulados en el artículo 133 de la citada [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de 
 octubre. Por ello, contiene la regulación imprescindible para atender la necesidad a cubrir 
 con la norma y se dicta en coherencia con el ordenamiento jurídico autonómico.
 En su virtud, a propuesta de la Directora General de Ordenación, Inclusión, 
 Participación y Evaluación Educativa, de conformidad con lo previsto en la disposición 
-final tercera del Decreto 102/2023, de 9 de mayo, y en uso de las atribuciones conferidas 
-por el artículo 44.2 de la Ley 6/2006, de 24 de octubre, del Gobierno de la Comunidad 
+final tercera del [Decreto 102/2023](./D102_2023_ordenacion_curriculo_educacion_secundaria_obligatoria_andalucia.md), de 9 de mayo, y en uso de las atribuciones conferidas 
+por el artículo 44.2 de la [Ley 6/2006](../01_marco_normativo_general_y_organico/L6_2006_gobierno_comunidad_autonoma_andalucia.md), de 24 de octubre, del Gobierno de la Comunidad 
 Autónoma de Andalucía,
 D I S P O N G O
 CAPÍTULO I
@@ -189,16 +208,16 @@ de Educación Secundaria Obligatoria en la Comunidad Autónoma de Andalucía, re
 determinados aspectos de la atención a la diversidad y a las diferencias individuales, 
 establecer la ordenación de la evaluación del proceso de aprendizaje del alumnado y 
 determinar el proceso de tránsito entre las diferentes etapas educativas, de conformidad 
-con el Decreto 102/2023, de 9 de mayo, por el que se establece la ordenación y el 
+con el [Decreto 102/2023](./D102_2023_ordenacion_curriculo_educacion_secundaria_obligatoria_andalucia.md), de 9 de mayo, por el que se establece la ordenación y el 
 currículo de la etapa de Educación Secundaria Obligatoria en la Comunidad Autónoma 
 de Andalucía.
 2. Esta orden se aplicará en todos los centros docentes de la Comunidad Autónoma 
 que impartan estas enseñanzas.
 #### Artículo 2. Elementos y estructura del currículo.
 1. La definición y los elementos del currículo son los establecidos en el artículo 3 del 
-Decreto 102/2023, de 9 de mayo.
+[Decreto 102/2023](./D102_2023_ordenacion_curriculo_educacion_secundaria_obligatoria_andalucia.md), de 9 de mayo.
 2. El currículo de Educación Secundaria Obligatoria, incorporando lo dispuesto en 
-el Real Decreto 217/2022, de 29 de marzo, por el que se establece la ordenación y las 
+el [Real Decreto 217/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD217_2022_establece_ordenacion_ensenanzas_minimas_educacion_secundaria.md), de 29 de marzo, por el que se establece la ordenación y las 
 enseñanzas mínimas de Educación Secundaria Obligatoria, se fija en los Anexos I, II, III, 
 IV, V y VI con el siguiente desglose:
 a) En el Anexo I se establece el horario lectivo para la etapa de Educación Secundaria 
@@ -229,7 +248,7 @@ de las competencias específicas, de los criterios de evaluación, de la adecuac
 los saberes básicos y de su vinculación con dichos criterios de evaluación, así como el 
 establecimiento de situaciones de aprendizaje que integren estos elementos y contribuyan 
 a la adquisición de las competencias, respetando los principios pedagógicos regulados 
-en el artículo 6 del citado Decreto 102/2023, de 9 de mayo.
+en el artículo 6 del citado [Decreto 102/2023](./D102_2023_ordenacion_curriculo_educacion_secundaria_obligatoria_andalucia.md), de 9 de mayo.
 #### Artículo 3. Situaciones de aprendizaje.
 1. Las programaciones didácticas contemplarán situaciones de aprendizaje en las 
 que se integren los elementos curriculares de las distintas materias para garantizar 
@@ -237,7 +256,7 @@ que la práctica educativa atienda a la diversidad, a las características perso
 necesidades, a los intereses, a la igualdad efectiva entre hombres y mujeres y al estilo 
 cognitivo del alumnado.
 2. Para el desarrollo de las situaciones de aprendizaje se tendrá en consideración lo 
-recogido en el artículo 7 del Decreto 102/2023, de 9 de mayo, así como las orientaciones 
+recogido en el artículo 7 del [Decreto 102/2023](./D102_2023_ordenacion_curriculo_educacion_secundaria_obligatoria_andalucia.md), de 9 de mayo, así como las orientaciones 
 del Anexo VII.
 #### Artículo 4. Autonomía de los centros docentes.
 1. Los centros docentes desarrollarán y concretarán, en su caso, el currículo en su 
@@ -250,7 +269,7 @@ en su Proyecto educativo las programaciones didácticas de cada una de las mater
 didáctica concretarán las líneas de actuación en la Programación didáctica, incluyendo las 
 distintas medidas de atención a la diversidad y a las diferencias individuales que deban 
 llevarse a cabo de acuerdo con las necesidades del alumnado y en el marco establecido 
-en el capítulo V del Decreto 102/2023, de 9 de mayo.
+en el capítulo V del [Decreto 102/2023](./D102_2023_ordenacion_curriculo_educacion_secundaria_obligatoria_andalucia.md), de 9 de mayo.
 4. El profesorado concretará para cada curso la Programación didáctica, planificando, 
 de esa forma, su actividad educativa.
 5. Los centros docentes promoverán compromisos educativos con el alumnado en 
@@ -268,7 +287,7 @@ CAPÍTULO II
 Ordenación de la etapa y oferta educativa
 #### Artículo 5. Organización curricular de los tres primeros cursos de Educación 
 Secundaria Obligatoria.
-1. De acuerdo con lo establecido en el artículo 9 del Decreto 102/2023, de 9 de mayo, 
+1. De acuerdo con lo establecido en el artículo 9 del [Decreto 102/2023](./D102_2023_ordenacion_curriculo_educacion_secundaria_obligatoria_andalucia.md), de 9 de mayo, 
 el alumnado debe cursar de primero a tercero las siguientes las materias:
 a) Educación Física, Geografía e Historia, Lengua Castellana y Literatura, Primera 
 Lengua Extranjera y Matemáticas, en cada uno de los tres cursos.
@@ -280,7 +299,7 @@ f) Tecnología y Digitalización en segundo y tercer curso.
 g) Segunda Lengua Extranjera, en primer curso.
 2. A las materias incluidas en el apartado anterior, se añadirá en segundo curso la 
 materia de Educación en Valores Cívicos y Éticos.
-3. De acuerdo con lo establecido en el artículo 11 del Decreto 102/2023, de 9 de 
+3. De acuerdo con lo establecido en el artículo 11 del [Decreto 102/2023](./D102_2023_ordenacion_curriculo_educacion_secundaria_obligatoria_andalucia.md), de 9 de 
 mayo, el alumnado podrá cursar enseñanzas de Religión en cada uno de los cursos de 
 la etapa a elección del propio alumno o alumna si es mayor de edad o de los padres, 
 madres, o personas que ejerzan su tutela legal. Asimismo, aquel alumnado que no haya 
@@ -323,7 +342,7 @@ sus necesidades y quede reflejado en su Proyecto educativo.
 desarrollo curricular de las Aulas Confucio, las materias de integración con las Escuelas 
 Oficiales de Idiomas o las materias propias de las Aulas de Excelencia Artística.
 #### Artículo 6. Organización de cuarto curso de Educación Secundaria Obligatoria.
-1. De acuerdo con lo establecido en el artículo 10.1 del Decreto 102/2023, de 9 
+1. De acuerdo con lo establecido en el artículo 10.1 del [Decreto 102/2023](./D102_2023_ordenacion_curriculo_educacion_secundaria_obligatoria_andalucia.md), de 9 
 de mayo, las materias que deberá cursar todo el alumnado de cuarto curso serán las 
 siguientes:
 a) Educación Física.
@@ -331,7 +350,7 @@ b) Geografía e Historia.
 c) Lengua Castellana y Literatura.
 d) Primera Lengua Extranjera.
 e) Matemáticas A o Matemáticas B, en función de la elección de cada estudiante.
-2. Además, de conformidad con lo dispuesto en el artículo 10.2 del Decreto 102/2023, 
+2. Además, de conformidad con lo dispuesto en el artículo 10.2 del [Decreto 102/2023](./D102_2023_ordenacion_curriculo_educacion_secundaria_obligatoria_andalucia.md), 
 de 9 de mayo, el alumnado deberá cursar tres materias de entre las siguientes:
 a) Biología y Geología
 b) Digitalización
@@ -343,7 +362,7 @@ g) Latín
 h) Música
 i) Segunda Lengua Extranjera
 j) Tecnología
-3. De acuerdo con lo establecido en el artículo 11 del Decreto 102/2023, de 9 de 
+3. De acuerdo con lo establecido en el artículo 11 del [Decreto 102/2023](./D102_2023_ordenacion_curriculo_educacion_secundaria_obligatoria_andalucia.md), de 9 de 
 mayo, el alumnado podrá cursar enseñanzas de Religión en cada uno de los cursos de 
 la etapa a elección del propio alumno o alumna si es mayor de edad o de los padres, 
 madres, o personas que ejerzan su tutela legal. Asimismo, aquel alumnado que no haya 
@@ -382,7 +401,7 @@ profesorado del centro.
 podrán configurar en su oferta educativa el desarrollo de Proyectos interdisciplinares. 
 Todo ello, para garantizar el desarrollo integrado de todas las competencias de la etapa 
 y la incorporación de los valores enunciados en los principios pedagógicos recogidos 
-en el artículo 6 del Decreto 102/2023, de 9 de mayo, según se determine en el Proyecto 
+en el artículo 6 del [Decreto 102/2023](./D102_2023_ordenacion_curriculo_educacion_secundaria_obligatoria_andalucia.md), de 9 de mayo, según se determine en el Proyecto 
 educativo de centro.
 2. Los Proyectos interdisciplinares tendrán un carácter eminentemente práctico.
 3. Los departamentos de coordinación didáctica o el departamento de orientación 
@@ -407,7 +426,7 @@ que, por tanto, no implica aumento de plantilla del mismo.
 centros docentes comunicarán al Servicio de Inspección de la Delegación Territorial con 
 competencias en materia de educación sus Proyectos Interdisciplinares aprobados.
 #### Artículo 8. Materia Lingüística de carácter transversal.
-1. Según lo establecido en el artículo 9.9 del Decreto 102/2023, de 9 de mayo, la 
+1. Según lo establecido en el artículo 9.9 del [Decreto 102/2023](./D102_2023_ordenacion_curriculo_educacion_secundaria_obligatoria_andalucia.md), de 9 de mayo, la 
 Materia Lingüística de carácter transversal se impartirá para el alumnado que presente 
 dificultades en la adquisición de la competencia en comunicación lingüística.
 2. Se podrá acceder a la Materia Lingüística de carácter transversal al inicio de curso 
@@ -471,7 +490,7 @@ indicarán el grado de desarrollo de las mismas.
 4. La evaluación será continua por estar inmersa en el proceso de enseñanza 
 y aprendizaje y por tener en cuenta el progreso del alumnado, con el fin de detectar 
 las dificultades en el momento en que se produzcan, averiguar sus causas y, en 
-consecuencia, de acuerdo con lo dispuesto en el Capítulo V del Decreto 102/2023, de 
+consecuencia, de acuerdo con lo dispuesto en el Capítulo V del [Decreto 102/2023](./D102_2023_ordenacion_curriculo_educacion_secundaria_obligatoria_andalucia.md), de 
 9 de mayo, adoptar las medidas necesarias dirigidas a garantizar la adquisición de las 
 competencias clave, que le permita continuar adecuadamente su proceso de aprendizaje.
 5. El carácter formativo de la evaluación propiciará la mejora constante del proceso 
@@ -606,7 +625,7 @@ cada materia decidirá la calificación de la misma. Esta calificación ha de se
 tomando como referencia la superación de las competencias específicas de la materia. 
 Para ello, se tendrán como referentes los criterios de evaluación, a través de los cuales 
 se valorará el grado de consecución de las competencias específicas.
-4. Según lo establecido en el artículo 31.3 del Real Decreto 217/2022, de 29 de marzo, 
+4. Según lo establecido en el artículo 31.3 del [Real Decreto 217/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD217_2022_establece_ordenacion_ensenanzas_minimas_educacion_secundaria.md), de 29 de marzo, 
 en el caso de los ámbitos que integren distintas materias, el resultado de la evaluación 
 se expresará mediante una única calificación, sin perjuicio de los procedimientos que 
 puedan establecerse para mantener informados de su evolución en las diferentes 
@@ -650,7 +669,7 @@ por materia. Esta circunstancia deberá quedar reflejada en el historial académ
 alumnado. Los centros docentes establecerán en su Proyecto educativo el procedimiento 
 de concesión de la Mención Honorífica.
 #### Artículo 15. Evaluación de diagnóstico.
-1. De conformidad con lo establecido en el artículo 17.1 del Decreto 102/2023, de 9 
+1. De conformidad con lo establecido en el artículo 17.1 del [Decreto 102/2023](./D102_2023_ordenacion_curriculo_educacion_secundaria_obligatoria_andalucia.md), de 9 
 de mayo, en el segundo curso de Educación Secundaria Obligatoria todos los centros 
 realizarán una Evaluación de diagnóstico de las competencias adquiridas por el alumnado. 
 Esta evaluación no tendrá efectos académicos y tendrá carácter informativo, formativo 
@@ -662,7 +681,7 @@ escolar para su conocimiento.
 #### Artículo 16. Pruebas o actividades personalizadas extraordinarias.
 1. El alumnado que una vez finalizado el proceso de evaluación de cuarto curso de 
 Educación Secundaria Obligatoria no haya obtenido el título y haya superado los límites 
-de edad establecidos en el artículo 15.5 del Decreto 102/2023, de 9 de mayo, podrá 
+de edad establecidos en el artículo 15.5 del [Decreto 102/2023](./D102_2023_ordenacion_curriculo_educacion_secundaria_obligatoria_andalucia.md), de 9 de mayo, podrá 
 obtenerlo en los dos cursos siguientes a través de la realización de pruebas o actividades 
 personalizadas extraordinarias de las materias o ámbitos que no haya superado. 
 Los centros docentes establecerán en el Proyecto educativo el procedimiento para el 
@@ -702,7 +721,7 @@ el principio de normalización e inclusión, y asegurará su no discriminación,
 igualdad efectiva en el acceso y la permanencia en el Sistema Educativo, para lo cual se 
 tendrán en cuenta las medidas de atención a la diversidad y a las diferencias individuales 
 contempladas en esta Orden y en el resto de la normativa que resulte de aplicación.
-2. En función de lo establecido en el artículo 22 del Decreto 102/2023, de 9 de mayo, 
+2. En función de lo establecido en el artículo 22 del [Decreto 102/2023](./D102_2023_ordenacion_curriculo_educacion_secundaria_obligatoria_andalucia.md), de 9 de mayo, 
 se establecerán las medidas más adecuadas, tanto de acceso como de adaptación de 
 las condiciones de realización de las evaluaciones, para que las mismas se apliquen al 
 alumnado con necesidad específica de apoyo educativo conforme a lo recogido en su 
@@ -728,7 +747,7 @@ y que, por presentar graves carencias en la comunicación lingüística en lengu
 reciba una atención específica en este ámbito, se tendrá en cuenta los informes que, a 
 tales efectos, elabore el profesorado responsable de dicha atención.
 6. El alumnado escolarizado en el curso inmediatamente inferior al que le 
-correspondería por edad, al que se refiere el artículo 21.4 del Decreto 102/2023, de 9 
+correspondería por edad, al que se refiere el artículo 21.4 del [Decreto 102/2023](./D102_2023_ordenacion_curriculo_educacion_secundaria_obligatoria_andalucia.md), de 9 
 de mayo, se podrá incorporar al grupo correspondiente a su edad cuando a juicio de 
 la persona que ejerza la tutoría, con el acuerdo del equipo docente y asesorado por el 
 departamento de orientación, haya superado el desfase curricular que presentaba. En 
@@ -736,7 +755,7 @@ caso de desacuerdo del equipo docente, la decisión se tomará por mayoría simp
 votos.
 ### Sección 4.ª Promoción del alumnado
 #### Artículo 18. Promoción del alumnado.
-1. Según lo establecido en el artículo 14 del Decreto 102/2023, de 9 de mayo, 
+1. Según lo establecido en el artículo 14 del [Decreto 102/2023](./D102_2023_ordenacion_curriculo_educacion_secundaria_obligatoria_andalucia.md), de 9 de mayo, 
 promocionarán quienes hayan superado todas las materias cursadas o tengan evaluación 
 negativa en una o dos materias, o cuando el equipo docente considere que las materias 
 que, en su caso, pudieran no haber superado, no les impidan seguir con éxito el curso 
@@ -781,7 +800,7 @@ dichas materias, realizar los programas de refuerzo del aprendizaje a las que se
 apartado 4 y superar la evaluación correspondiente. Una vez superada dicha evaluación, 
 los resultados obtenidos se extenderán en la correspondiente acta de evaluación, en el 
 expediente y en el historial académico del alumno o alumna.
-8. De acuerdo con lo previsto en el artículo 14.5 del Decreto 102/2023, de 9 de mayo, 
+8. De acuerdo con lo previsto en el artículo 14.5 del [Decreto 102/2023](./D102_2023_ordenacion_curriculo_educacion_secundaria_obligatoria_andalucia.md), de 9 de mayo, 
 la permanencia en el mismo curso se considerará una medida de carácter excepcional 
 y se tomará tras haber agotado las medidas ordinarias de refuerzo para solventar las 
 dificultades de aprendizaje del alumnado. En todo caso, el alumnado podrá permanecer 
@@ -792,14 +811,14 @@ excepcional se podrá permanecer un año más en el cuarto curso, aunque se haya
 agotado el máximo de permanencia en la Educación Básica, siempre que el equipo 
 docente considere que esta medida favorece la adquisición de las competencias clave 
 establecidas para la etapa. En este caso se podrá prolongar un año el límite de edad al 
-que se refiere el artículo 2.2 del Decreto 102/2023, de 9 de mayo.
-10. De acuerdo con lo recogido en el artículo 20.4 del Real Decreto 217/2022, de 29 de 
+que se refiere el artículo 2.2 del [Decreto 102/2023](./D102_2023_ordenacion_curriculo_educacion_secundaria_obligatoria_andalucia.md), de 9 de mayo.
+10. De acuerdo con lo recogido en el artículo 20.4 del [Real Decreto 217/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD217_2022_establece_ordenacion_ensenanzas_minimas_educacion_secundaria.md), de 29 de 
 marzo, el equipo docente, asesorado por el departamento de orientación, oídos el padre, 
 la madre o personas que ejerzan la tutela legal del alumnado, podrá adoptar la decisión 
 de que la escolarización del alumnado con necesidades educativas especiales pueda 
 prolongarse un año más, siempre que ello favorezca el desarrollo de las competencias 
 establecidas y la consecución de los Objetivos de la etapa.
-11. Tal y como establece el artículo 21.6 del Decreto 102/2023, de 9 de mayo, la 
+11. Tal y como establece el artículo 21.6 del [Decreto 102/2023](./D102_2023_ordenacion_curriculo_educacion_secundaria_obligatoria_andalucia.md), de 9 de mayo, la 
 escolarización del alumnado con altas capacidades intelectuales se flexibilizará de 
 conformidad con la normativa vigente, de forma que pueda anticiparse un curso 
 académico el inicio de la escolarización de la etapa o reducirse la duración de la misma, 
@@ -807,7 +826,7 @@ cuando se prevea que dicha medida es la más adecuada para su desarrollo persona
 social.
 ### Sección 5.ª Titulación y certificación de los estudios cursados
 #### Artículo 19. Titulación.
-1. De conformidad con lo establecido en el artículo 15.1 del Decreto 102/2023, de 9 de 
+1. De conformidad con lo establecido en el artículo 15.1 del [Decreto 102/2023](./D102_2023_ordenacion_curriculo_educacion_secundaria_obligatoria_andalucia.md), de 9 de 
 mayo, obtendrá el título de Graduado en Educación Secundaria Obligatoria el alumnado 
 que al terminar la etapa de Educación Secundaria Obligatoria haya adquirido, a juicio del 
 equipo docente, las competencias clave establecidas en el Perfil de salida y alcanzado 
@@ -828,7 +847,7 @@ atención y esfuerzo en las materias no superadas.
 sin calificación.
 4. Quienes, una vez finalizado el proceso de evaluación de cuarto curso de Educación 
 Secundaria Obligatoria no hayan obtenido el título y hayan superado los límites de edad 
-establecidos en el artículo 2.2 del Decreto 102/2023, de 9 de mayo, teniendo en cuenta, 
+establecidos en el artículo 2.2 del [Decreto 102/2023](./D102_2023_ordenacion_curriculo_educacion_secundaria_obligatoria_andalucia.md), de 9 de mayo, teniendo en cuenta, 
 asimismo, la prolongación excepcional de la permanencia en la etapa que se prevé en los 
 artículos 14.7 del citado Decreto y 18.10 de la presente Orden, podrán hacerlo en los dos 
 cursos siguientes, tal y como se dispone en el artículo 16 sobre las pruebas o actividades 
@@ -837,7 +856,7 @@ personalizadas extraordinarias.
 1. Todo el alumnado recibirá al concluir su escolarización en la etapa de Educación 
 Secundaria Obligatoria una certificación académica en la que constará el número de 
 años cursados y el nivel de adquisición de las competencias clave definidas en el Perfil 
-de salida, tal y como se indica en el artículo 15.4 del Decreto 102/2023, de 9 de mayo.
+de salida, tal y como se indica en el artículo 15.4 del [Decreto 102/2023](./D102_2023_ordenacion_curriculo_educacion_secundaria_obligatoria_andalucia.md), de 9 de mayo.
 2. Dichas certificaciones serán emitidas por el centro docente en el que el alumnado 
 estuviera matriculado en el último curso escolar y se ajustará al modelo que se incluye 
 como Anexo X.
@@ -845,7 +864,7 @@ como Anexo X.
 #### Artículo 21. Documentos oficiales de evaluación.
 1. Los documentos oficiales de evaluación son: las actas de evaluación, el expediente 
 académico, el historial académico y, en su caso, el informe personal por traslado, de 
-conformidad con lo recogido en el artículo 18 del Decreto 102/2023, de 9 de mayo.
+conformidad con lo recogido en el artículo 18 del [Decreto 102/2023](./D102_2023_ordenacion_curriculo_educacion_secundaria_obligatoria_andalucia.md), de 9 de mayo.
 2. El historial académico y, en su caso, el informe personal por traslado se consideran 
 documentos básicos para garantizar la movilidad del alumnado por todo el territorio 
 nacional.
@@ -865,7 +884,7 @@ teniendo en cuenta lo dispuesto sobre gestión documental en el Decreto 622/2019
 racionalización organizativa de la Junta de Andalucía. Estos documentos oficiales serán 
 supervisados por la Inspección educativa.
 #### Artículo 22. Actas de evaluación.
-1. Las actas de evaluación, reguladas en el artículo 31 del Real Decreto 217/2022, de 
+1. Las actas de evaluación, reguladas en el artículo 31 del [Real Decreto 217/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD217_2022_establece_ordenacion_ensenanzas_minimas_educacion_secundaria.md), de 
 29 de marzo, se ajustarán a los modelos que se incluyen como Anexo IX.a, se extenderán 
 para cada uno de los cursos y se cerrarán tras la finalización del período lectivo ordinario.
 2. Las actas de evaluación comprenderán la relación nominal del alumnado que 
@@ -874,7 +893,7 @@ del curso y las decisiones adoptadas sobre promoción, permanencia y titulación
 3. Los resultados de la evaluación de cada materia se expresarán como 
 Insuficiente (IN) para las calificaciones negativas, Suficiente (SU), Bien (BI), Notable (NT) 
 o Sobresaliente (SB), para las calificaciones positivas, tal y como se recoge en el 
-artículo  31 del Real Decreto 217/2022, de 29 de marzo.
+artículo  31 del [Real Decreto 217/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD217_2022_establece_ordenacion_ensenanzas_minimas_educacion_secundaria.md), de 29 de marzo.
 4. En el caso de los ámbitos que integren distintas materias el resultado de 
 la evaluación se expresará mediante una única calificación, sin perjuicio de los 
 procedimientos que puedan establecerse para mantener informados de su evolución en 
@@ -887,7 +906,7 @@ dicha materia.
 el visto bueno de la persona que ostente la dirección y serán archivadas y custodiadas en 
 la secretaría del centro.
 #### Artículo 23. Expediente académico.
-1. El expediente académico, regulado en el artículo 32 del Real Decreto 217/2022, de 
+1. El expediente académico, regulado en el artículo 32 del [Real Decreto 217/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD217_2022_establece_ordenacion_ensenanzas_minimas_educacion_secundaria.md), de 
 29 de marzo, se ajustará al modelo que se incluye como Anexo IX.b y es el documento 
 oficial que refleja la información relativa al proceso de evaluación, promoción y titulación.
 2. El expediente académico incluirá los datos de identificación del centro docente y 
@@ -1045,7 +1064,7 @@ que incorporará los informes elaborados en el centro y cuantos datos considere 
 del proceso de evaluación.
 3. En cada Delegación Territorial se constituirán, para cada curso escolar las 
 Comisiones Técnicas Provinciales de Reclamaciones de conformidad con lo previsto en 
-el artículo 16 del Decreto 102/2023, de 9 de mayo.
+el artículo 16 del [Decreto 102/2023](./D102_2023_ordenacion_curriculo_educacion_secundaria_obligatoria_andalucia.md), de 9 de mayo.
 En el plazo de dos días hábiles desde la constitución de las Comisiones Técnicas 
 Provinciales de Reclamaciones y, en cualquier caso, antes de que estas inicien sus 
 actuaciones, se publicará la composición de las mismas en los tablones de anuncios de 
@@ -1053,7 +1072,7 @@ las Delegaciones Territoriales. Para mejorar la difusión de este acto deberá r
 publicación en los términos del artículo 41.2.a) del Decreto 622/2019, de 27 de diciembre.
 4. Las Comisiones Técnicas Provinciales de Reclamaciones analizarán los expedientes 
 y las alegaciones y emitirán un informe en función de los criterios establecidos en el 
-artículo 16.4 del Decreto 102/2023, de 9 de mayo.
+artículo 16.4 del [Decreto 102/2023](./D102_2023_ordenacion_curriculo_educacion_secundaria_obligatoria_andalucia.md), de 9 de mayo.
 5. Las respectivas Comisiones Técnicas Provinciales de Reclamaciones elaborarán 
 los correspondientes informes que recojan la descripción de los hechos y actuaciones 
 previas que hayan tenido lugar, el análisis realizado conforme a lo establecido en este 
@@ -1082,7 +1101,7 @@ CAPÍTULO IV
 Atención a la diversidad y a las diferencias individuales
 ### Sección 1.ª Disposiciones de carácter general
 #### Artículo 30. Concepto y principios generales de actuación.
-1. Atendiendo al artículo 21 del Decreto 102/2023, de 9 de mayo, la atención a la 
+1. Atendiendo al artículo 21 del [Decreto 102/2023](./D102_2023_ordenacion_curriculo_educacion_secundaria_obligatoria_andalucia.md), de 9 de mayo, la atención a la 
 diversidad y a las diferencias individuales en la etapa de Educación Secundaria Obligatoria 
 se orientará a garantizar una educación de calidad que asegurará la equidad e inclusión 
 educativa y a atender a la compensación de los efectos que las desigualdades de origen 
@@ -1094,7 +1113,7 @@ teniendo en cuenta sus capacidades de expresión y comprensión y asegurando la
 motivación para el compromiso y la cooperación mutua.
 2. Los principios generales de actuación para la atención a la diversidad y a las 
 diferencias individuales son los establecidos con carácter general en el artículo 22 del 
-Decreto 102/2023, de 9 de mayo.
+[Decreto 102/2023](./D102_2023_ordenacion_curriculo_educacion_secundaria_obligatoria_andalucia.md), de 9 de mayo.
 3. Los centros docentes deberán dar prioridad a la organización de las medidas 
 de atención a la diversidad y a las diferencias individuales respecto a otras opciones 
 organizativas para la configuración de las enseñanzas de esta etapa en el ámbito de su 
@@ -1175,7 +1194,7 @@ d) Alumnado que presente necesidades específicas de apoyo educativo que le
 impidan seguir con aprovechamiento su proceso de aprendizaje. En este caso, el 
 alumno o la alumna deberá contar con una evaluación psicopedagógica que refleje tal 
 circunstancia, así como la necesidad de un Programa individualizado de refuerzo del 
-aprendizaje, incluyendo al alumnado referenciado en el artículo 9.8 del Decreto 102/2023, 
+aprendizaje, incluyendo al alumnado referenciado en el artículo 9.8 del [Decreto 102/2023](./D102_2023_ordenacion_curriculo_educacion_secundaria_obligatoria_andalucia.md), 
 de 9 de mayo.
 2. Como medida organizativa, se podrán desarrollar los programas de refuerzo del 
 aprendizaje posibilitando cursarlos en niveles inferiores al que se encuentre el alumnado. 
@@ -1217,7 +1236,7 @@ del alumnado en conexión con su entorno social y cultural.
 ### Sección 4.ª Programas de diversificación curricular
 #### Artículo 37. Organización general y finalidad de los programas de diversificación 
 curricular.
-1. De conformidad con lo establecido en el artículo 23 del Decreto 102/2023, de 9 de 
+1. De conformidad con lo establecido en el artículo 23 del [Decreto 102/2023](./D102_2023_ordenacion_curriculo_educacion_secundaria_obligatoria_andalucia.md), de 9 de 
 mayo, los programas de diversificación curricular estarán orientados a la consecución del 
 título de Graduado en Educación Secundaria Obligatoria, por parte de quienes presenten 
 dificultades relevantes de aprendizaje tras haber recibido, en su caso, medidas de 
@@ -1228,7 +1247,7 @@ alumnado que precise de una organización del currículo en ámbitos y materias 
 a la establecida con carácter general y de una metodología específica, todo ello para 
 alcanzar los Objetivos de la etapa y las competencias establecidas en el Perfil de salida y 
 conseguir así el título de Graduado en Educación Secundaria Obligatoria.
-3. Tal y como se recoge en el artículo 24.3 del Real Decreto 217/2022, de 29 de 
+3. Tal y como se recoge en el artículo 24.3 del [Real Decreto 217/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD217_2022_establece_ordenacion_ensenanzas_minimas_educacion_secundaria.md), de 29 de 
 marzo, con carácter general, el programa de diversificación se llevará a cabo en dos 
 años desde tercer curso de Educación Secundaria Obligatoria hasta la finalización de 
 la etapa. Se denominan primero de diversificación curricular, el curso correspondiente a 
@@ -1249,7 +1268,7 @@ evolución académica.
 al finalizar cuarto, no esté en condiciones de obtener el título de Graduado en Educación 
 Secundaria Obligatoria, si el equipo docente considera que esta medida le permitirá 
 obtener dicho título sin exceder los límites de permanencia previstos en el artículo 5.1 
-y 16.7 del Real Decreto 217/2022, de 29 de marzo.
+y 16.7 del [Real Decreto 217/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD217_2022_establece_ordenacion_ensenanzas_minimas_educacion_secundaria.md), de 29 de marzo.
 #### Artículo 39. Procedimiento de incorporación al programa de diversificación curricular.
 1. En el proceso de evaluación continua, cuando el progreso de un alumno o alumna 
 no sea el adecuado en cuanto al logro de los Objetivos de la etapa y la adquisición de 
@@ -1405,12 +1424,12 @@ docencia a este alumnado.
 3. Los resultados de la evaluación serán recogidos en las actas de evaluación de 
 los grupos ordinarios del tercer o cuarto curso de la etapa en el que esté incluido el 
 alumnado del programa.
-4. De conformidad con lo previsto en el artículo 14.6 del Decreto 102/2023, de 9 de 
+4. De conformidad con lo previsto en el artículo 14.6 del [Decreto 102/2023](./D102_2023_ordenacion_curriculo_educacion_secundaria_obligatoria_andalucia.md), de 9 de 
 mayo, en los programas de diversificación curricular, las decisiones sobre la permanencia 
 un año más en el mismo curso se adoptarán exclusivamente a la finalización del segundo 
 año.
 #### Artículo 46. Ámbitos y materias no superadas.
-1. Según lo dispuesto en el artículo 16.4 del Real Decreto 217/2022, de 29 de marzo, 
+1. Según lo dispuesto en el artículo 16.4 del [Real Decreto 217/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD217_2022_establece_ordenacion_ensenanzas_minimas_educacion_secundaria.md), de 29 de marzo, 
 quienes se incorporen a un programa de diversificación curricular deberán asimismo, 
 seguir los programas de refuerzo del aprendizaje establecidos por el equipo docente y 
 superar las evaluaciones correspondientes de aquellas materias de cursos anteriores 
@@ -1465,7 +1484,7 @@ f) La atención educativa al alumnado por situaciones personales de hospitalizac
 de convalecencia domiciliaria u objeto de medidas judiciales.
 4. Asimismo, se consideran medidas específicas de carácter temporal aquellas que 
 inciden en la flexibilización temporal para el desarrollo curricular, de conformidad con lo 
-previsto en los apartados 4, 5 y 6 del artículo 21 del Decreto 102/2023, de 9 de mayo.
+previsto en los apartados 4, 5 y 6 del artículo 21 del [Decreto 102/2023](./D102_2023_ordenacion_curriculo_educacion_secundaria_obligatoria_andalucia.md), de 9 de mayo.
 ### Sección 6.ª Programas de adaptación curricular
 #### Artículo 48. Programas de adaptación curricular.
 1. La escolarización del alumnado que siga programas de adaptación curricular se 
@@ -1528,19 +1547,19 @@ con el asesoramiento del departamento de orientación y la coordinación de la p
 que ejerza la tutoría.
 ### Sección 7.ª Ciclos formativos de grado básico
 #### Artículo 52. Alumnado destinatario y procedimiento de incorporación.
-1. De conformidad con el artículo 44.1 de Ley Orgánica 3/2022, de 31 de marzo, de 
+1. De conformidad con el artículo 44.1 de [Ley Orgánica 3/2022](../../canarias/08_personal_docente/R30_6_2023_ordenacion_gestion_determinadas_listas_empleo_tras.md), de 31 de marzo, de 
 Ordenación e Integración de la Formación profesional, son Ciclos Formativos de Grado 
 Básico, con carácter general, los vinculados a estándares de competencia de nivel 1 del 
 Catálogo Nacional de Estándares de Competencias Profesionales. Lo dispuesto en el 
-presente artículo se encuentra regulado en el artículo 25 del Real Decreto 217/2022, de 
-29 de marzo, así como por el artículo 44 de la Ley Orgánica 3/2022, de 31 de marzo.
-2. De acuerdo con lo dispuesto en el artículo 25.2 del Real Decreto 217/2022, de 
+presente artículo se encuentra regulado en el artículo 25 del [Real Decreto 217/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD217_2022_establece_ordenacion_ensenanzas_minimas_educacion_secundaria.md), de 
+29 de marzo, así como por el artículo 44 de la [Ley Orgánica 3/2022](../../canarias/08_personal_docente/R30_6_2023_ordenacion_gestion_determinadas_listas_empleo_tras.md), de 31 de marzo.
+2. De acuerdo con lo dispuesto en el artículo 25.2 del [Real Decreto 217/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD217_2022_establece_ordenacion_ensenanzas_minimas_educacion_secundaria.md), de 
 29 de marzo, los mismos irán dirigidos preferentemente a quienes presenten mayores 
 posibilidades de aprendizaje y de alcanzar las competencias de Educación Secundaria 
 Obligatoria en un entorno vinculado al mundo profesional, velando para evitar la 
 segregación del alumnado por razones socioeconómicas o de otra naturaleza, con el 
 objetivo de prepararlos para la continuación de su formación.
-3. De conformidad con el artículo 24.3 del Decreto 102/2023, de 9 de mayo, el acceso 
+3. De conformidad con el artículo 24.3 del [Decreto 102/2023](./D102_2023_ordenacion_curriculo_educacion_secundaria_obligatoria_andalucia.md), de 9 de mayo, el acceso 
 a los Ciclos Formativos de Grado Básico requerirá el cumplimiento simultáneo de las 
 siguientes condiciones:
 a) Tener cumplidos quince años, o cumplirlos durante el año natural en curso.
@@ -1549,14 +1568,14 @@ excepcionalmente, haber cursado el segundo curso.
 c) Contar con la propuesta del equipo docente a los padres, madres o personas que 
 ejerzan la tutela legal del alumnado sobre la incorporación del mismo a un Ciclo Formativo 
 de Grado Básico a través del consejo orientador al que hace referencia el artículo 28.9 de 
-la Ley Orgánica 2/2006, de 3 de mayo.
-4. Según lo dispuesto en el artículo 44.3 de la Ley Orgánica 3/2022, de 31 de marzo, 
+la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo.
+4. Según lo dispuesto en el artículo 44.3 de la [Ley Orgánica 3/2022](../../canarias/08_personal_docente/R30_6_2023_ordenacion_gestion_determinadas_listas_empleo_tras.md), de 31 de marzo, 
 de ordenación e integración de la Formación Profesional, excepcionalmente no regirán 
 los requisitos de acceso vinculados a la escolarización para jóvenes entre 15 y 18 años 
 que no hayan estado escolarizados en el Sistema Educativo español y cuyo itinerario 
 educativo aconseje su incorporación a un Ciclo Formativo de Grado Básico como el 
 itinerario más adecuado.
-5. Según lo dispuesto en el artículo 44.4 de la Ley Orgánica 3/2022 de 31 de marzo, 
+5. Según lo dispuesto en el artículo 44.4 de la [Ley Orgánica 3/2022](../../canarias/08_personal_docente/R30_6_2023_ordenacion_gestion_determinadas_listas_empleo_tras.md) de 31 de marzo, 
 podrán autorizarse excepcionalmente Ciclos Formativos de Grado Básico específicos 
 para:
 a) Quienes hayan cumplido al menos 17 años, cuando su historia escolar así lo 
@@ -1573,7 +1592,7 @@ marco de las medidas de atención a la diversidad.
 alumno o alumna, y contando con la conformidad de sus padres, madres o personas que 
 ejerzan su tutela legal.
 #### Artículo 53. Estructura de los Ciclos Formativos de Grado Básico.
-1. De conformidad con el artículo 44.2 de la Ley Orgánica 3/2022, de 31 de marzo, 
+1. De conformidad con el artículo 44.2 de la [Ley Orgánica 3/2022](../../canarias/08_personal_docente/R30_6_2023_ordenacion_gestion_determinadas_listas_empleo_tras.md), de 31 de marzo, 
 los Ciclos Formativos de Grado Básico facilitarán la adquisición de las competencias 
 establecidas en el Perfil de salida y constarán de tres ámbitos y el proyecto siguientes:
 a) Ámbito de Comunicación y Ciencias Sociales, que incluirá las siguientes materias:
@@ -1594,7 +1613,7 @@ exentos quienes acrediten una experiencia laboral que se corresponda con los est
 profesionales cursados.
 Además, se podrán incluir otras materias o módulos que contribuyan al desarrollo de 
 las competencias de la etapa.
-2. Según lo dispuesto en el artículo 44.5 de la Ley Orgánica 3/2022, de 31 de marzo, 
+2. Según lo dispuesto en el artículo 44.5 de la [Ley Orgánica 3/2022](../../canarias/08_personal_docente/R30_6_2023_ordenacion_gestion_determinadas_listas_empleo_tras.md), de 31 de marzo, 
 los criterios pedagógicos con los que se desarrollarán los programas formativos de 
 estos ciclos se adaptarán a las características específicas del alumnado, adoptando 
 preferentemente una organización del currículo por proyectos de aprendizaje colaborativo 
@@ -1604,14 +1623,14 @@ la comunicación. Se proporcionarán los apoyos necesarios para remover las barr
 aprendizaje, de acceso a la información y a la comunicación y garantizar la igualdad de 
 oportunidades. La tutoría y la orientación educativa y profesional tendrán una especial 
 consideración, realizando un acompañamiento socioeducativo personalizado.
-3. De conformidad con lo dispuesto en el artículo 44.8 de la Ley Orgánica 3/2022, 
+3. De conformidad con lo dispuesto en el artículo 44.8 de la [Ley Orgánica 3/2022](../../canarias/08_personal_docente/R30_6_2023_ordenacion_gestion_determinadas_listas_empleo_tras.md), 
 de 31 de marzo, se promoverán el apoyo, la colaboración y participación de los agentes 
 sociales del entorno, instituciones y entidades, especialmente las corporaciones locales, 
 las asociaciones profesionales, las organizaciones no gubernamentales, los centros de 
 segunda oportunidad, y otras entidades empresariales y sindicales, para la oferta de 
 Ciclos Formativos de Grado Básico.
 #### Artículo 54. Evaluación en los Ciclos Formativos de Grado Básico.
-1. Según lo dispuesto el artículo 44.6 de la Ley Orgánica 3/2022, de 31 de marzo, la 
+1. Según lo dispuesto el artículo 44.6 de la [Ley Orgánica 3/2022](../../canarias/08_personal_docente/R30_6_2023_ordenacion_gestion_determinadas_listas_empleo_tras.md), de 31 de marzo, la 
 evaluación del aprendizaje del alumnado deberá efectuarse de forma continua, formativa 
 e integradora y realizarse por ámbitos y proyectos, teniendo en cuenta la globalidad del 
 ciclo desde la perspectiva de las nuevas metodologías de aprendizaje. La evaluación 
@@ -1627,15 +1646,15 @@ de la evaluación, en el caso del alumnado con necesidades educativas especiales
 cursa ofertas ordinarias de Ciclos Formativos de Grado Básico, serán los incluidos en 
 las correspondientes adaptaciones del currículo, sin que este hecho pueda impedirles la 
 promoción o titulación.
-3. Según lo dispuesto en el artículo 44.7 de la Ley Orgánica 3/2022, de 31 de marzo, 
+3. Según lo dispuesto en el artículo 44.7 de la [Ley Orgánica 3/2022](../../canarias/08_personal_docente/R30_6_2023_ordenacion_gestion_determinadas_listas_empleo_tras.md), de 31 de marzo, 
 se establecerán las medidas más adecuadas para que las condiciones de realización de 
 los procesos asociados a la evaluación se adapten a las necesidades de cada persona 
 en formación con necesidad específica de apoyo educativo.
-4. Según lo dispuesto en el artículo 44.9 de la Ley Orgánica 3/2022, de 31 de marzo, 
+4. Según lo dispuesto en el artículo 44.9 de la [Ley Orgánica 3/2022](../../canarias/08_personal_docente/R30_6_2023_ordenacion_gestion_determinadas_listas_empleo_tras.md), de 31 de marzo, 
 la superación de un Ciclo Formativo de Grado Básico requerirá la evaluación positiva 
 colegiada respecto a la adquisición de las competencias básicas y profesionales.
 #### Artículo 55. Obtención del título de Graduado en Educación Secundaria Obligatoria.
-1. De conformidad con lo dispuesto en el artículo 25.7 del Real Decreto 217/2022, de 
+1. De conformidad con lo dispuesto en el artículo 25.7 del [Real Decreto 217/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD217_2022_establece_ordenacion_ensenanzas_minimas_educacion_secundaria.md), de 
 29 de marzo, la superación de la totalidad de los ámbitos incluidos en un Ciclo Formativo 
 de Grado Básico conducirá a la obtención del título de Graduado en Educación Secundaria 
 Obligatoria. Para favorecer la justificación en el ámbito laboral de las competencias 
@@ -1656,7 +1675,7 @@ CAPÍTULO V
 Coordinación entre la etapa de Educación Primaria y la etapa de Educación Secundaria 
 Obligatoria
 #### Artículo 56. Proceso de tránsito.
-De conformidad con lo establecido en el artículo 27.4 del Decreto 102/2023, de 9 
+De conformidad con lo establecido en el artículo 27.4 del [Decreto 102/2023](./D102_2023_ordenacion_curriculo_educacion_secundaria_obligatoria_andalucia.md), de 9 
 de mayo, con el fin de garantizar la adecuada transición del alumnado de la etapa de 
 Educación Primaria a la etapa de Educación Secundaria Obligatoria, los centros docentes 
 desarrollarán los mecanismos de coordinación que favorezcan la continuidad de sus 
@@ -1778,7 +1797,7 @@ centros docentes, teniendo en cuenta las especialidades de su legislación espec
 ### Disposición adicional tercera. Transición entre planes de estudios como consecuencia 
 de la aplicación de la Ley Orgánica 3/2020, de 29 de diciembre.
 1. La materia de Educación para la Ciudadanía y los Derechos Humanos establecida 
-en la Orden de 15 de enero de 2021, por la que se desarrolla el currículo correspondiente 
+en la [Orden de 15 de enero de 2021](../06_atencion_diversidad_y_orientacion/O15_1_2021_atencion_diversidad_orientacion_educativa_andalucia.md), por la que se desarrolla el currículo correspondiente 
 a la etapa de Educación Secundaria Obligatoria en la Comunidad Autónoma de 
 Andalucía, se regulan determinados aspectos de la atención a la diversidad, se establece 
 la ordenación de la evaluación del proceso de aprendizaje del alumnado y se determina 
@@ -1797,7 +1816,7 @@ correspondencia, deberá sustituir dicha materia por otra que curse, a elegir de
 que se oferten en el centro.
 ### Disposición adicional cuarta. Asignación de materias optativas propias de la 
 Comunidad Andaluza.
-De acuerdo con lo establecido en el artículo 5 del Real Decreto 1834/2008, de 
+De acuerdo con lo establecido en el artículo 5 del [Real Decreto 1834/2008](../../../estatal/02_gestion_y_administracion_centros/RD1834_2008_definen_condiciones_formacion_ejercicio_docencia_educacion.md), de 
 8 de noviembre, por el que se definen las condiciones de formación para el ejercicio 
 de la docencia en la educación secundaria obligatoria, el bachillerato, la formación 
 profesional y las enseñanzas de régimen especial y se establecen las especialidades de 
@@ -1847,7 +1866,7 @@ Filosofía y Argumentación
 9. Portugués
 10. Italiano
 Oratoria y Debate
-Según lo establecido en el Real Decreto 860/2010, de 2 de julio, por el que se regulan 
+Según lo establecido en el [Real Decreto 860/2010](../../../estatal/02_gestion_y_administracion_centros/RD860_2010_regulan_condiciones_formacion_inicial_profesorado_centros.md), de 2 de julio, por el que se regulan 
 las condiciones de formación inicial del profesorado de los centros privados para ejercer 
 la docencia en las enseñanzas de educación secundaria obligatoria o de bachillerato, lo 
 especificado en la tabla anterior como Especialidades de los cuerpos se entenderá como 
@@ -1857,7 +1876,7 @@ Educación Secundaria Obligatoria.
 1. El alumnado matriculado en Educación Secundaria Obligatoria que cumpla los 
 requisitos y desee participar en las pruebas para la obtención del título de Graduado en 
 Educación Secundaria Obligatoria para personas mayores de dieciocho años a las que 
-se refiere el artículo 68.2 de la Ley Orgánica 2/2006, de 3 de mayo, podrá realizar dichas 
+se refiere el artículo 68.2 de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, podrá realizar dichas 
 pruebas.
 2. La correspondiente Delegación Territorial informará a los centros docentes en 
 los que el alumnado se encuentra cursando la Educación Secundaria Obligatoria de la 
@@ -1942,7 +1961,7 @@ Secundaria Obligatoria, Bachillerato y planes educativos para personas adultas, 
 de idiomas de régimen especial, que se impartan en los centros públicos autorizados por 
 la Consejería competente en materia de educación.
 1. En aplicación de lo dispuesto en la disposición transitoria única del 
-Decreto 539/2022, de 2 de noviembre, por el que se deroga el Decreto 359/2011, de 7 
+Decreto 539/2022, de 2 de noviembre, por el que se deroga el [Decreto 359/2011](./D359_2011_regulacion_modalidades_semipresencial_distancia_andalucia.md), de 7 
 de diciembre, por el que se regulan las modalidades semipresencial y a distancia de las 
 enseñanzas de Formación Profesional Inicial, de Educación Permanente de Personas 
 Adultas, especializadas de Idiomas y Deportivas, se crea el Instituto de Enseñanzas 
@@ -1952,7 +1971,7 @@ de Educación Secundaria Obligatoria, Bachillerato y planes educativos para pers
 adultas, así como en las enseñanzas a distancia de idiomas de régimen especial, que se 
 impartan en los centros públicos autorizados por la Consejería competente en materia 
 de educación, se atenderá transitoriamente a lo dispuesto en el apartado 2 del artículo 6 
-del Decreto 359/2011, de 7 de diciembre y en el capítulo V de la Orden de 21 de junio de 
+del [Decreto 359/2011](./D359_2011_regulacion_modalidades_semipresencial_distancia_andalucia.md), de 7 de diciembre y en el capítulo V de la Orden de 21 de junio de 
 2012, por la que se regula la organización y el funcionamiento del Instituto de Enseñanzas 
 a Distancia de Andalucía, el horario del profesorado y la admisión y matriculación del 
 alumnado.
@@ -1962,7 +1981,7 @@ las mismas enseñanzas en sus modalidades presencial y semipresencial.
 ### Disposición transitoria segunda. Calendario de aplicación.
 La presente Orden será de aplicación a partir del curso escolar 2023/2024.
 Disposición derogatoria única. Derogación normativa.
-1. Queda derogada la Orden de 15 de enero de 2021, por la que se desarrolla el 
+1. Queda derogada la [Orden de 15 de enero de 2021](../06_atencion_diversidad_y_orientacion/O15_1_2021_atencion_diversidad_orientacion_educativa_andalucia.md), por la que se desarrolla el 
 currículo correspondiente a la etapa de Educación Secundaria Obligatoria en la 
 Comunidad Autónoma de Andalucía, se regulan determinados aspectos de la atención a 
 la diversidad, se establece la ordenación de la evaluación del proceso de aprendizaje del 
@@ -2000,7 +2019,7 @@ Orientación», 20.1, 20.2, 20.3 del «Alumnado con necesidades educativas espec
 objetiva», 30.1, 30.2 de los «Documentos e informes de evaluación», 31.2, 31.3, 31.4 de las 
 «Actas de evaluación», 32.1, 32.2 del «Expediente académico», 33.2, 33.3 del «Historial 
 académico», 34.1, 34.2 del «Informe personal por traslado» y de la «Disposición adicional 
-primera. Enseñanzas de religión», del Real Decreto 217/2022, de 29 de marzo.
+primera. Enseñanzas de religión», del [Real Decreto 217/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD217_2022_establece_ordenacion_ensenanzas_minimas_educacion_secundaria.md), de 29 de marzo.
 ### Disposición final tercera. Entrada en vigor.
 La presente Orden entrará en vigor el día siguiente al de su publicación en el Boletín 
 Oficial de la Junta de Andalucía.

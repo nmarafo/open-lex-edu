@@ -138,9 +138,29 @@ relaciones:
   - norma_id: norm-can-res-039
   - norma_id: norm-can-res-boc-2024-226-44
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-043-703.pdf
+fundamentos_derecho:
+- norma_id: norm-can-d-84-2024
+- norma_id: norm-can-l-6-2014
+- norma_id: norm-can-lo-1-2018
+- norma_id: norm-can-o-2016-09-21-acreditacion-idiomas
+- norma_id: norm-can-res-033
+- norma_id: norm-can-res-034
+- norma_id: norm-can-res-035
+- norma_id: norm-can-res-036
+- norma_id: norm-can-res-037
+- norma_id: norm-can-res-038
+- norma_id: norm-can-res-039
+- norma_id: norm-can-res-boc-2024-226-44
+- norma_id: norm-can-res-boc-2024-230-25
+- norma_id: norm-can-res-134
+- norma_id: norm-es-l-39-2015
+- norma_id: norm-es-lo-3-2022
+- norma_id: norm-es-2021-979
+- norma_id: norm-es-2020-17274
+- norma_id: norm-es-2024-10685
+- norma_id: norm-es-rd-659-2023
 ---
-
-# Resolución de 25 de febrero de 2026, de la Dirección General de Formación Profesional y Enseñanzas de Régimen Especial por la que se dictan instrucciones para la implantación y desarrollo del módulo profesional optativo en las ofertas formativas de Grados D, niveles 2 (ciclos formativos de grado medio) y 3 (ciclos formativos de grado superior), a partir del curso escolar 2026/2027, en la Comunidad Autónoma de Canarias (BOC n.º 43, de 4 de marzo).
+# [Resolución de 25 de febrero de 2026](./R25_2_2026_establece_distribucion_horaria_estructura_modular_grados.md), de la Dirección General de Formación Profesional y Enseñanzas de Régimen Especial por la que se dictan instrucciones para la implantación y desarrollo del módulo profesional optativo en las ofertas formativas de Grados D, niveles 2 (ciclos formativos de grado medio) y 3 (ciclos formativos de grado superior), a partir del curso escolar 2026/2027, en la Comunidad Autónoma de Canarias (BOC n.º 43, de 4 de marzo).
 
 ## Preámbulo
 
@@ -336,7 +356,7 @@ CICLOS FORMATIVOS DE GRADO SUPERIOR DE LA MISMA FAMILIA PROFESIONAL Módulo prof
 3. Convalidación del módulo Inglés profesional II (GM), con código CAN-1711. a) Una vez superado este módulo en un ciclo formativo de grado medio, podrá ser objeto de convalidación en otro ciclo formativo de grado medio, siempre que ambos pertenezcan a la misma familia profesional. En tal caso, se trasladará la calificación obtenida al nuevo módulo.
 
 b) Una vez superado el módulo Inglés profesional, código 0179, o Inglés profesional II (GS), código CAN-1712, en un ciclo formativo de grado superior, podrá ser objeto de convalidación el módulo de Inglés profesional II (GM) en un ciclo formativo de grado medio, siempre que ambos pertenezcan a la misma familia profesional. En tal caso, se trasladará la calificación obtenida al nuevo módulo.
-c) El módulo será convalidado cuando se aporten certificados de nivel B2 o superior que para el idioma Inglés ha establecido la Orden de 25 de noviembre de 2022, por la que se actualizan los títulos y certificados establecidos en el Anexo I de la Orden de 21 de septiembre de 2016, que regula el reconocimiento de la acreditación de la competencia lingüística conforme al Marco Común Europeo de Referencia para las Lenguas en la Comunidad Autónoma de Canarias. En estos casos, la convalidación quedará registrada en todos los documentos de evaluación como "convalidado" (CV), sin calificación numérica y no computará a efectos de cálculo de la nota media del título.
+c) El módulo será convalidado cuando se aporten certificados de nivel B2 o superior que para el idioma Inglés ha establecido la Orden de 25 de noviembre de 2022, por la que se actualizan los títulos y certificados establecidos en el Anexo I de la [Orden de 21 de septiembre de 2016](./O21_9_2016_reconocimiento_acreditacion_competencia_linguistica_mcerl_canarias.md), que regula el reconocimiento de la acreditación de la competencia lingüística conforme al Marco Común Europeo de Referencia para las Lenguas en la Comunidad Autónoma de Canarias. En estos casos, la convalidación quedará registrada en todos los documentos de evaluación como "convalidado" (CV), sin calificación numérica y no computará a efectos de cálculo de la nota media del título.
 d) El módulo será convalidado cuando se aporte un título universitario de Grado o equivalente en Filología Inglesa, Traducción e Interpretación (Inglés) o una asignatura de Lengua Inglesa superada en estudios universitarios relacionados con la familia profesional. En estos casos, la convalidación quedará registrada en todos los documentos de evaluación como "convalidado" (CV), sin calificación numérica y no computará a efectos de cálculo de la nota media del título.
 
 4. Convalidación del módulo Inglés profesional II (GS), con código CAN-1712. a) Una vez superado este módulo en un ciclo formativo de grado superior, podrá ser objeto de convalidación en otro ciclo formativo de grado superior, siempre que ambos pertenezcan a la misma familia profesional. En tal caso, se trasladará la calificación obtenida al nuevo módulo.
@@ -715,7 +735,7 @@ Familia profesional Módulo profesional / Resultados de aprendizaje (RA) Curríc
 
 Familia profesional Módulo profesional / Resultados de aprendizaje (RA) Currículo Especialidad del profesorado en el artículo 11 l.
 
-Real Decreto 500/2024, de 21 de mayo CAN-1454. Propulsión (Se imparte el módulo completo)
+[Real Decreto 500/2024](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD500_2024_modifican_determinados_reales_decretos_establecen_titulos.md), de 21 de mayo CAN-1454. Propulsión (Se imparte el módulo completo)
 • Para ofertarse en el CFGS Mantenimiento aeromecánico de aviones con motor de turbina Real Decreto 1448/2018, de 14 de diciembre
 • Organización y procesos de mantenimiento de vehículos
 • Persona con perfil colaborador en el sector productivo de las definidas en la normativa aeronáutica vigente Familia profesional Módulo profesional / Resultados de aprendizaje (RA) Currículo Especialidad del profesorado Para todas las familias profesionales y ciclos formativos de GM y GS CAN-1801. Profundización en sostenibilidad aplicada al sistema productivo (Se imparte el módulo completo) (Destinado a cualquier ciclo formativo de cualquier familia profesional, tanto de GM como de GS) Resolución de 27 de junio de 2025, de la SGFP, BOE núm. 167, 12/07/2025

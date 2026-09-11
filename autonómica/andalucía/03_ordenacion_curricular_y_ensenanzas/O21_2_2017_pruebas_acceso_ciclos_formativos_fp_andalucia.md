@@ -34,8 +34,26 @@ relaciones:
   - norma_id: norm-and-l17-2007
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-l-39-2015
+fundamentos_derecho:
+- norma_id: norm-and-l17-2007
+- norma_id: norm-and-l6-2006-gobierno-comunidad-autonoma-andalucia
+- norma_id: norm-and-l9-2007-administracion-junta-andalucia-laja
+- norma_id: norm-and-d-436-2008
+- norma_id: norm-and-d-55-2012
+- norma_id: norm-and-d301-2009
+- norma_id: norm-and-d-40-2011
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-es-l-39-2015
+- norma_id: norm-es-l-40-2015
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-1999-23750
+- norma_id: norm-es-2001-7022
+- norma_id: norm-es-2016-3229
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2002-4371
+- norma_id: norm-es-2010-12201
+- norma_id: norm-es-2012-5337
 ---
-
 # Orden de 21 de febrero de 2017, por la que se regulan las pruebas de acceso a los ciclos formativos de formación profesional de grado medio y de grado superior y el curso de formación específico.
 
 ## Preámbulo
@@ -43,8 +61,8 @@ relaciones:
 Orden de 21 de febrero de 2017, por la que se regulan las pruebas de acceso a 
 los ciclos formativos de formación profesional de grado medio y grado superior 
 y el curso de formación específico. 
-La Ley Orgánica 2/2006, de 3 de mayo, de Educación, tras la modificación efectuada 
-por la Ley Orgánica 8/2013, de 9 de diciembre, para la mejora de la calidad educativa 
+La [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, tras la modificación efectuada 
+por la [Ley Orgánica 8/2013](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md), de 9 de diciembre, para la mejora de la calidad educativa 
 (LOMCE), establece en su artículo 41 que podrán acceder a la formación profesional 
 aquellas personas aspirantes que, careciendo de los requisitos académicos, superen 
 una prueba de acceso de acuerdo con los criterios establecidos por el Gobierno. Regula, 
@@ -58,7 +76,7 @@ de grado medio. Asimismo, su artículo 21 establece que las administraciones edu
 convocarán, al menos una vez al año, las pruebas de acceso a ciclos formativos de grado 
 medio y de grado superior, así como otras disposiciones relativas a la calificación, validez, 
 admisión y exenciones que afectan a estas pruebas de acceso.
-Por su parte, el artículo 71.1 de la Ley 17/2007, de 10 de diciembre, de Educación de 
+Por su parte, el artículo 71.1 de la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre, de Educación de 
 Andalucía, establece que, con objeto de garantizar el acceso a los ciclos formativos de 
 formación profesional en igualdad de condiciones, la Administración educativa elaborará 
 los ejercicios de las pruebas de acceso que se convoquen cada año, así como los criterios 
@@ -68,7 +86,7 @@ se establece la ordenación y las enseñanzas de la formación profesional inici
 forman parte del sistema educativo, dedica el Capítulo II al acceso a los ciclos formativos, 
 regulando en su artículo 8 los aspectos básicos para el desarrollo de la prueba de 
 acceso. 
-El Decreto 9/2017, de 31 de enero, por el que se modifica el Decreto 40/2011, de 22 de 
+El Decreto 9/2017, de 31 de enero, por el que se modifica el [Decreto 40/2011](../05_alumnado_y_servicios_escolares/D40_2011_criterios_procedimiento_admision_alumnado_centros_docentes_andalucia.md), de 22 de 
 febrero, por el que se regulan los criterios y el procedimiento de admisión del alumnado 
 en los centros docentes públicos y privados concertados para cursar las enseñanzas de 
 segundo ciclo de educación infantil, educación primaria, educación especial, educación 
@@ -82,14 +100,14 @@ venido aplicando desde el curso 2007/2008.
 Si bien el Real Decreto 1147/2011, de 29 de julio, modificó el acceso a los ciclos 
 formativos de formación profesional de grado medio y grado superior, incorporando nuevas 
 condiciones de acceso y modificando las pruebas de acceso a estos ciclos formativos, el 
-Real Decreto-ley 14/2012, de 20 de abril, de medidas urgentes de racionalización del 
+Real Decreto-[ley 14/2012](../../../estatal/08_personal_docente/RD14_2012_real_decreto_ley_medidas_urgentes_racionalizacion.md), de 20 de abril, de medidas urgentes de racionalización del 
 gasto público en el ámbito educativo, pospuso su aplicación al curso escolar 2014/2015 
 y la disposición adicional sexta del Real Decreto 127/2014, de 28 febrero, por el que se 
 regulan aspectos específicos de la formación profesional básica de las enseñanzas de 
 formación profesional del sistema educativo, se aprueban catorce títulos profesionales 
 básicos, se fijan sus currículos básicos y se modifica el Real Decreto 1850/2009, de 4 de 
 diciembre, sobre expedición de títulos académicos y profesionales correspondientes a las 
-enseñanzas establecidas en la Ley Orgánica 2/2006, de 3 de mayo, de Educación, difirió 
+enseñanzas establecidas en la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, difirió 
 su aplicación al curso académico 2015/2016.
 Dado que los requisitos de acceso a los ciclos formativos de formación profesional 
 también afectan a las pruebas para la obtención de los títulos de Técnico y Técnico 
@@ -98,13 +116,13 @@ la que se regulan las pruebas para la obtención de título de Técnico y Técni
 de ciclos formativos de formación profesional del sistema educativo y se convocan las 
 correspondientes en el año 2010.
 Todos los cambios normativos citados, unidos a las nuevas condiciones de acceso 
-y admisión a los ciclos formativos establecidos en la Ley Orgánica 8/2013, de 9 de 
+y admisión a los ciclos formativos establecidos en la [Ley Orgánica 8/2013](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md), de 9 de 
 diciembre, que deberán entrar en vigor el curso 2016/2017, justifican la necesidad de 
 proceder a la aprobación de una nueva Orden que sustituya a la hasta ahora en vigor.
 En su virtud, a propuesta de la persona titular de la Dirección General de Formación 
 Profesional Inicial y Educación Permanente, de acuerdo con las facultades que me 
-confiere el artículo 44.2 de la Ley 6/2006, de 24 de octubre, del Gobierno de la Comunidad 
-Autónoma de Andalucía, la disposición final tercera del Decreto 436/2008, de 2 de 
+confiere el artículo 44.2 de la [Ley 6/2006](../01_marco_normativo_general_y_organico/L6_2006_gobierno_comunidad_autonoma_andalucia.md), de 24 de octubre, del Gobierno de la Comunidad 
+Autónoma de Andalucía, la disposición final tercera del [Decreto 436/2008](./D436_2008_ordenacion_educacion_personas_adultas_andalucia.md), de 2 de 
 septiembre, y la disposición final primera del Decreto 9/2017, de 31 de enero,
 D I S P O N G O
 CAPÍTULO I
@@ -152,7 +170,7 @@ prueba que se realizará en ellos.
 e) Fechas y lugares de publicación de los listados de calificaciones y plazos de 
 reclamaciones.
 #### Artículo 4. Elaboración de las pruebas de acceso.
-De acuerdo con lo establecido en el artículo 71.1 de la Ley 17/2007, de 10 de diciembre, 
+De acuerdo con lo establecido en el artículo 71.1 de la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre, 
 de Educación de Andalucía, con objeto de garantizar el acceso a los ciclos formativos de 
 formación profesional en igualdad de condiciones, la Consejería competente en materia 
 de educación elaborará los ejercicios de las pruebas de acceso que se convoquen cada 
@@ -172,7 +190,7 @@ la Resolución a la que hace referencia el artículo 3.
 Comunidad Autónoma de Andalucía. 
 #### Artículo 6. Tratamiento de los datos de carácter personal.
 Los datos de carácter personal de las personas solicitantes serán tratados conforme 
-a lo previsto en la Ley Orgánica 15/1999, de 13 de diciembre, de protección de datos de 
+a lo previsto en la [Ley Orgánica 15/1999](../../../estatal/02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md), de 13 de diciembre, de protección de datos de 
 carácter personal y serán incorporados, para su tratamiento, en el fichero de Gestión 
 Educativa creado mediante la Orden de 26 de noviembre de 2015, por la que se crean y 
 suprimen los ficheros con datos de carácter personal gestionados por la Consejería con 
@@ -186,7 +204,7 @@ la convocatoria anual de las pruebas de acceso.
 2. Las solicitudes se cumplimentarán según Anexos II y III, preferentemente de forma 
 telemática en la Secretaría Virtual de Centros de la Consejería competente en materia 
 de educación, y se presentará en el centro docente el que se desee realizar la prueba, 
-sin perjuicio de lo establecido en el apartado 4 del artículo 16 de la Ley 39/2015, de 1 de 
+sin perjuicio de lo establecido en el apartado 4 del artículo 16 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de 
 octubre, del Procedimiento Administrativo y Común de las Administraciones Públicas.
 3. Junto a la solicitud de inscripción, se deberá aportar la siguiente documentación:
 a) A efectos de la acreditación de la edad, la persona solicitante deberá autorizar a 
@@ -270,7 +288,7 @@ se constituirán, en función del número de solicitantes, las comisiones que la
 General competente en materia de formación profesional determine y que actuarán en 
 las convocatorias que se efectúen cada curso. La organización y funcionamiento de estas 
 comisiones se regirá por las disposiciones referentes a los órganos colegiados contenidas 
-en la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, y en la Ley 
+en la [Ley 40/2015](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md), de 1 de octubre, de Régimen Jurídico del Sector Público, y en la Ley 
 9/2007, de 22 de octubre, de Administración de la Junta de Andalucía.
 2. Las comisiones estarán compuestas preferentemente, por profesorado 
 perteneciente a los cuerpos de catedráticos o profesorado de enseñanza secundaria, que 
@@ -278,7 +296,7 @@ esté prestando servicios en el centro docente donde se realicen las pruebas. En
 los casos se deberá garantizar la participación de, al menos, una persona en la comisión 
 con atribución docente para cada una de las materias o ámbitos de las pruebas que se 
 realice. 
-3. De conformidad con lo establecido en los artículos 19 y 20 de la Ley 9/2007, de 22 de 
+3. De conformidad con lo establecido en los artículos 19 y 20 de la [Ley 9/2007](../01_marco_normativo_general_y_organico/L9_2007_administracion_junta_andalucia_laja.md), de 22 de 
 octubre, la composición de la comisión deberá respetar una representación equilibrada de 
 mujeres y hombres en los términos previstos en el apartado 2 del artículo 18 de esta Ley. 
 4. Las comisiones de pruebas de acceso a los ciclos formativos de grado medio 
@@ -338,7 +356,7 @@ Territoriales de la Consejería competente en materia de educación, que designa
 persona como responsable de la coordinación de las actuaciones relacionadas con las 
 pruebas de acceso a nivel provincial.
 #### Artículo 11. Constitución y sesiones.
-1. De conformidad con el artículo 17.2 de la Ley 40/2015, de 1 de octubre, para la 
+1. De conformidad con el artículo 17.2 de la [Ley 40/2015](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md), de 1 de octubre, para la 
 válida constitución de las comisiones, a efectos de la celebración de las sesiones, 
 deliberaciones y toma de acuerdos, se requerirá la asistencia, presencial o a distancia, 
 de las personas que ostentan la presidencia y la secretaría o en su caso, de quienes les 
@@ -574,7 +592,7 @@ de la parte o ámbito, sin estar exentos de la misma, la calificación de la par
 correspondiente será «NP», aunque haya obtenido calificación en alguno de los ejercicios 
 restantes. Asimismo, en la misma convocatoria no se podrá trasladar la calificación de la 
 parte común de las pruebas superadas de una opción a otra.
-4. De conformidad con el artículo 41.4 de la Ley Orgánica 2/2006, de 3 de mayo, 
+4. De conformidad con el artículo 41.4 de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, 
 los alumnos y alumnas que no hayan superado las pruebas de acceso o que deseen 
 elevar las calificaciones obtenidas, podrán repetirlas en convocatorias sucesivas, previa 
 solicitud. 
@@ -641,7 +659,7 @@ persista el desacuerdo con la calificación recibida, la persona interesada o su
 madres o tutores legales cuando ésta sea menor de edad, podrán presentar recurso de 
 alzada ante la persona titular de la Delegación Territorial de la Consejería competente en 
 materia de educación en el plazo de un mes, de conformidad con lo establecido en los 
-artículos 30, 121 y 122 de la Ley 39/2015, de 1 de octubre.
+artículos 30, 121 y 122 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre.
 CAPÍTULO VII
 Cursos de formación específico para el acceso a los ciclos formativos de grado medio
 #### Artículo 22. Finalidad y validez del curso de formación específico.
@@ -693,7 +711,7 @@ imparta el curso de formación específico. Las solicitudes se podrán generar y
 de forma telemática conforme a lo descrito en el artículo 8.
 3. Cada solicitante presentará una única solicitud, preferentemente en el centro 
 docente solicitado en primer lugar, sin perjuicio de lo establecido en el apartado 4 del 
-artículo 16 de la Ley 39/2015, de 1 de octubre.
+artículo 16 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre.
 4. A efectos de la acreditación de la edad, la persona solicitante deberá autorizar a 
 la Consejería competente en materia de educación para recabar la información a través 
 del Sistema de Verificación de Identidad, existente en virtud del Decreto 68/2008, de 
@@ -770,7 +788,7 @@ las establecidas en el artículo 14 para las pruebas de acceso a los ciclos form
 grado medio.
 2. El curso de formación específico tendrá una duración de 600 horas lectivas. Los 
 centros docentes que impartan dicho curso adecuarán su calendario a lo establecido en 
-el Decreto 301/2009, de 14 de julio, por el que se regula el calendario y la jornada escolar 
+el [Decreto 301/2009](../04_organizacion_escolar_y_funcionamiento/D301_2009_regulacion_calendario_jornada_escolar_andalucia.md), de 14 de julio, por el que se regula el calendario y la jornada escolar 
 en los centros docentes, a excepción de los universitarios.
 3. La impartición del curso de formación específico se ajustará a la siguiente 
 distribución horaria semanal:
@@ -867,7 +885,7 @@ preparación de la prueba de acceso a los ciclos formativos de grado medio a lo 
 en la presente Orden.
 ### Disposición adicional segunda. Acceso a las enseñanzas deportivas de régimen 
 especial sin los títulos de Graduado o Graduada en Educación Secundaria Obligatoria.
-De conformidad con los apartados 4 y 5 del artículo 15 del Decreto 55/2012, de 6 
+De conformidad con los apartados 4 y 5 del artículo 15 del [Decreto 55/2012](./D55_2012_ordenacion_ensenanzas_deportivas_regimen_especial_andalucia.md), de 6 
 de marzo, por el que se establece la ordenación general de las enseñanzas deportivas 
 de régimen especial de Andalucía, la prueba de acceso a los ciclos formativos de grado 
 medio de formación profesional regulada en esta Orden sustituye a la prueba de acceso 
@@ -897,7 +915,7 @@ de acceso a los ciclos formativos de formación profesional y el curso de prepar
 las mismas
 2. Queda derogada la Orden de 23 de junio de 2003, por la que se establecen las 
 pruebas de madurez correspondientes a las formaciones deportivas del periodo transitorio, 
-reguladas por el Real decreto 1913/1997, de 19 de diciembre, para los aspirantes que no 
+reguladas por el [Real decreto 1913/1997](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD454_2002_ecd_establecen_elementos_basicos_informes_evaluacion.md), de 19 de diciembre, para los aspirantes que no 
 cumplan los requisitos académicos establecidos para el acceso.
 3. Quedan igualmente derogadas todas aquellas normas de inferior o igual rango cuyo 
 contenido se oponga a lo establecido en la presente Orden.
@@ -959,7 +977,7 @@ Cuatro. El apartado 2 del artículo 7 queda redactado de la siguiente manera:
 «2. La persona solicitante presentará una única solicitud en el centro docente 
 público designado como sede de la comisión de evaluación del ciclo formativo en el 
 que se desee matricular, sin perjuicio de lo establecido en el apartado 4 del artículo 16 
-de la Ley 39/2015 de 1 de octubre, del Procedimiento Administrativo y Común de las 
+de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) de 1 de octubre, del Procedimiento Administrativo y Común de las 
 Administraciones Públicas. En dicha solicitud se especificarán, por orden de prioridad, los 
 módulos profesionales del ciclo formativo del que se desee matricular.»
 Cinco. El artículo 19 queda redactado de la siguiente manera:
@@ -1134,12 +1152,12 @@ Certificado de discapacidad y dictamen técnico facultativo.
 7
 CONSENTIMIENTOS EXPRESOS
 CONSENTIMIENTO EXPRESO DNI/NIE DE LA PERSONA SOLICITANTE
-Marque una de las opciones. En caso de no marcar se entenderá otorgado el consentimiento (artículo 28 de la Ley 39/2015, de 1 de octubre)
+Marque una de las opciones. En caso de no marcar se entenderá otorgado el consentimiento (artículo 28 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre)
 La persona abajo firmante presta su CONSENTIMIENTO para la consulta de sus datos de identidad a través del Sistema de Verificación
 de Datos de Identidad. 
 NO CONSIENTE y aporto fotocopia autenticada del DNI/NIE.
 CONSENTIMIENTO EXPRESO DE CONSULTA DE DATOS DE DISCAPACIDAD DE LA PERSONA SOLICITANTE
-Marque una de las opciones. En caso de no marcar se entenderá otorgado el consentimiento (artículo 28 de la Ley 39/2015, de 1 de octubre)
+Marque una de las opciones. En caso de no marcar se entenderá otorgado el consentimiento (artículo 28 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre)
 Presto mi CONSENTIMIENTO para la consulta de mis datos de discapacidad.
 NO CONSIENTO y aportaré en el trámite de audiencia fotocopia autenticada del Certificado de Discapacidad o documento acreditativo del
 grado de discapacidad.
@@ -1156,7 +1174,7 @@ LA PERSONA SOLICITANTE
 Fdo.:
 SR/A. DIRECTOR/A TITULAR DEL CENTRO DOCENTE
 PROTECCIÓN DE DATOS 
-En cumplimiento de lo dispuesto en la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal, la Consejería de Educación le informa
+En cumplimiento de lo dispuesto en la [Ley Orgánica 15/1999](../../../estatal/02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md), de 13 de diciembre, de Protección de Datos de Carácter Personal, la Consejería de Educación le informa
 que los datos personales obtenidos mediante la cumplimentación de este documento/impreso/formulario y demás que se adjuntan van a ser incorporados, para su
 tratamiento, en el fichero de Gestión Educativa creado mediante la Orden de 26 de noviembre de 2015, por la que se crean y suprimen los ficheros con datos de carácter
 personal gestionados por la Consejería de Educación. Asimismo, se le informa que la recogida y tratamiento de dichos datos tienen como finalidad la gestión de los
@@ -1264,12 +1282,12 @@ Certificado de discapacidad y dictamen técnico facultativo.
 9
 CONSENTIMIENTOS EXPRESOS
 CONSENTIMIENTO EXPRESO DNI/NIE DE LA PERSONA SOLICITANTE
-Marque una de las opciones. En caso de no marcar se entenderá otorgado el consentimiento (artículo 28 de la Ley 39/2015, de 1 de octubre)
+Marque una de las opciones. En caso de no marcar se entenderá otorgado el consentimiento (artículo 28 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre)
 La persona abajo firmante presta su CONSENTIMIENTO para la consulta de sus datos de identidad a través del Sistema de Verificación
 de Datos de Identidad. 
 NO CONSIENTE y aporto fotocopia autenticada del DNI/NIE.
 CONSENTIMIENTO EXPRESO DE CONSULTA DE DATOS DE DISCAPACIDAD DE LA PERSONA SOLICITANTE
-Marque una de las opciones. En caso de no marcar se entenderá otorgado el consentimiento (artículo 28 de la Ley 39/2015, de 1 de octubre)
+Marque una de las opciones. En caso de no marcar se entenderá otorgado el consentimiento (artículo 28 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre)
 Presto mi CONSENTIMIENTO para la consulta de mis datos de discapacidad.
 NO CONSIENTO y aportaré en el trámite de audiencia fotocopia autenticada del Certificado de Discapacidad o documento acreditativo del
 grado de discapacidad.
@@ -1286,7 +1304,7 @@ LA PERSONA SOLICITANTE
 Fdo.:
 SR/A. DIRECTOR/A TITULAR DEL CENTRO DOCENTE
 PROTECCIÓN DE DATOS 
-En cumplimiento de lo dispuesto en la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal, la Consejería de Educación le informa
+En cumplimiento de lo dispuesto en la [Ley Orgánica 15/1999](../../../estatal/02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md), de 13 de diciembre, de Protección de Datos de Carácter Personal, la Consejería de Educación le informa
 que los datos personales obtenidos mediante la cumplimentación de este documento/impreso/formulario y demás que se adjuntan van a ser incorporados, para su
 tratamiento, en el fichero de Gestión Educativa creado mediante la Orden de 26 de noviembre de 2015, por la que se crean y suprimen los ficheros con datos de carácter
 personal gestionados por la Consejería de Educación. Asimismo, se le informa que la recogida y tratamiento de dichos datos tienen como finalidad la gestión de los
@@ -1352,7 +1370,7 @@ exime
 Materias del 
 bachillerato LOMCE 
 aprobadas
-(Ley Orgánica 8/2013, 
+([Ley Orgánica 8/2013](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md), 
 de 9 de diciembre)
 Materias del 
 bachillerato LOE 
@@ -1363,7 +1381,7 @@ mayo)
 Materias del 
 bachillerato LOGSE 
 aprobadas
-(Ley Orgánica 1/1990, 
+([Ley Orgánica 1/1990](../../../estatal/02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md), 
 de 3 de octubre)
 Asignaturas del BUP y 
 COU aprobadas

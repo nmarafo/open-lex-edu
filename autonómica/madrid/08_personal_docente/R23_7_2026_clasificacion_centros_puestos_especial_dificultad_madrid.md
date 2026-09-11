@@ -1,6 +1,9 @@
 ---
 id: norm-mad-r23-7-2026-clasificacion-centros-puestos-especial-dificultad-madrid
-titulo: Resolución de 23 de julio de 2026, de la Dirección General de Recursos Humanos, por la que se clasifican nuevos centros y puestos como de especial dificultad, por tratarse de difícil desempeño, a los efectos previstos en el Real Decreto 1364/2010, de 29 de octubre.
+titulo: Resolución de 23 de julio de 2026, de la Dirección General de Recursos Humanos,
+  por la que se clasifican nuevos centros y puestos como de especial dificultad, por
+  tratarse de difícil desempeño, a los efectos previstos en el Real Decreto 1364/2010,
+  de 29 de octubre.
 jurisdiccion: Madrid
 ambito: Autonómico
 organo_emisor: Dirección General de Recursos Humanos
@@ -27,17 +30,24 @@ relaciones:
   fundamenta_en:
   - norm-est-rd1364-2010
   - norm-mad-d248-2023
+fundamentos_derecho:
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-mad-d248-2023
+- norma_id: norm-es-l-39-2015
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
+- norma_id: norm-es-rd-1364-2010
 ---
-
-# Resolución de 23 de julio de 2026, de la Dirección General de Recursos Humanos, por la que se clasifican nuevos centros y puestos como de especial dificultad, por tratarse de difícil desempeño, a los efectos previstos en el Real Decreto 1364/2010, de 29 de octubre.
+# Resolución de 23 de julio de 2026, de la Dirección General de Recursos Humanos, por la que se clasifican nuevos centros y puestos como de especial dificultad, por tratarse de difícil desempeño, a los efectos previstos en el [Real Decreto 1364/2010](../../../estatal/08_personal_docente/RD1364_2010_regula_concurso_traslados_ambito_estatal_entre.md), de 29 de octubre.
 
 ## Preámbulo
 
-La Resolución de 2 de abril de 2007, del Director General de Recursos Humanos de la Consejería de Educación, establece la clasificación de centros y puestos de trabajo docentes como de especial dificultad, por tratarse de difícil desempeño, a los efectos previstos en el Real Decreto 895/1989, de 14 de julio, y en el Real Decreto 2112/1998, de 2 de octubre, derogados por el hoy vigente Decreto 1364/2010, de 29 de octubre, por el que se regula el concurso de traslados de ámbito estatal entre personal funcionario de los cuerpos docentes contemplados en la Ley Orgánica 2/2006, de 3 de mayo, de Educación y otros procedimientos de provisión de plazas a cubrir por los mismos.
+La Resolución de 2 de abril de 2007, del Director General de Recursos Humanos de la Consejería de Educación, establece la clasificación de centros y puestos de trabajo docentes como de especial dificultad, por tratarse de difícil desempeño, a los efectos previstos en el Real Decreto 895/1989, de 14 de julio, y en el Real Decreto 2112/1998, de 2 de octubre, derogados por el hoy vigente Decreto 1364/2010, de 29 de octubre, por el que se regula el concurso de traslados de ámbito estatal entre personal funcionario de los cuerpos docentes contemplados en la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación y otros procedimientos de provisión de plazas a cubrir por los mismos.
 
 A los centros y puestos recogidos en los Anexos I y II de la mencionada Resolución se añaden los puestos y centros clasificados como de especial dificultad por tratarse de difícil desempeño por las Resoluciones del Director General de Recursos Humanos de 17 de octubre de 2007, de 27 de octubre de 2008 y de 10 de octubre de 2022.
 
-En virtud de las competencias atribuidas en el artículo 21 del Decreto 248/2023, de 11 de octubre, del Consejo de Gobierno, por el que se establece la estructura orgánica de la Consejería de Educación, Ciencia y Universidades, esta Dirección General de Recursos Humanos,
+En virtud de las competencias atribuidas en el artículo 21 del [Decreto 248/2023](../01_marco_normativo_general_y_organico/D248_2023_estructura_organica_consejeria_educacion_ciencia_universidades_madrid.md), de 11 de octubre, del Consejo de Gobierno, por el que se establece la estructura orgánica de la Consejería de Educación, Ciencia y Universidades, esta Dirección General de Recursos Humanos,
 
 ## RESUELVE
 
@@ -55,7 +65,7 @@ La presente Resolución entrará en vigor el día siguiente al de su publicació
 
 ### Tercero. Recursos
 
-De conformidad con los artículos 121 y 122 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, esta Resolución, que no agota la vía administrativa, podrá ser recurrida en alzada ante la Viceconsejería de Política y Organización Educativa en el plazo de un mes, contado a partir del día siguiente al de su publicación.
+De conformidad con los artículos 121 y 122 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, esta Resolución, que no agota la vía administrativa, podrá ser recurrida en alzada ante la Viceconsejería de Política y Organización Educativa en el plazo de un mes, contado a partir del día siguiente al de su publicación.
 
 Madrid, a 23 de julio de 2026.
 El Director General de Recursos Humanos,

@@ -48,13 +48,22 @@ relaciones:
     capitulo_origen: Capítulo V. ESCOLARIZACIÓN Y RECURSOS EN AULAS ENCLAVE
     articulos_origen:
     - Art. 24
+fundamentos_derecho:
+- norma_id: norm-can-o-2007-11-07-evaluacion-basica
+- norma_id: norm-can-d-81-2010
+- norma_id: norm-can-o-2013-10-09
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-can-d-104-2010
+- norma_id: norm-mad-l1-1983-gobierno-administracion-comunidad-madrid
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
 ---
-
 # Orden de 13 de diciembre de 2010, por la que se regula la atención al alumnado con necesidades específicas de apoyo educativo en la Comunidad Autónoma de Canarias.
 
 ## Preámbulo
 
-La Ley Orgánica 2/2006, de 3 de mayo, de Edu-
+La [Ley Orgánica 2/2006](../05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Edu-
 
 cación (en adelante, LOE), en su artículo 71, estable-
 
@@ -100,7 +109,7 @@ de flexibilización de las distintas etapas educativas,
 
 cuando se considere necesario.
 
-La presente Orden desarrolla el Decreto 104/2010,
+La presente Orden desarrolla el [Decreto 104/2010](./D104_2010_regula_atencion_diversidad_alumnado_ensenanza_no_universitaria.md),
 
 de 29 de julio (BOC nº 154, de 6 de agosto), por el
 
@@ -258,7 +267,7 @@ este alumnado, y la orientación a las familias como
 
 garantía de una mayor calidad educativa.
 
-Conforme dispone la Ley 1/1983, de 14 de abril,
+Conforme dispone la [Ley 1/1983](../../madrid/01_marco_normativo_general_y_organico/L1_1983_gobierno_administracion_comunidad_madrid.md), de 14 de abril,
 
 del Gobierno y de la Administración Pública de la Co-
 
@@ -308,7 +317,7 @@ ción educativa del alumnado con necesidades especí-
 
 ficas de apoyo educativo (en adelante, NEAE) al que
 
-se refiere el artículo 4 del Decreto 104/2010, de 29 de
+se refiere el artículo 4 del [Decreto 104/2010](./D104_2010_regula_atencion_diversidad_alumnado_ensenanza_no_universitaria.md), de 29 de
 
 julio (BOC nº 154, de 6 de agosto) por el que se re-
 
@@ -364,7 +373,7 @@ de Canarias.
 
 te Orden los alumnos y alumnas con NEAE a los
 
-que hace referencia el artículo 4 del Decreto 104/2010,
+que hace referencia el artículo 4 del [Decreto 104/2010](./D104_2010_regula_atencion_diversidad_alumnado_ensenanza_no_universitaria.md),
 
 de 29 de julio (BOC nº 154, de 6 de agosto), por el
 
@@ -448,7 +457,7 @@ jeto de esta Orden.
 
 2. Según lo dispuesto en el artículo 10 del citado
 
-Decreto 104/2010, de 29 de julio (BOC nº 154, de 6
+[Decreto 104/2010](./D104_2010_regula_atencion_diversidad_alumnado_ensenanza_no_universitaria.md), de 29 de julio (BOC nº 154, de 6
 
 de agosto), en el ámbito de la enseñanza no univer-
 
@@ -1440,7 +1449,7 @@ ción Secundaria Obligatoria en la Comunidad Autó-
 
 noma de Canarias. Además, se tendrá en cuenta el ar-
 
-tículo 14 de la Orden de 7 de noviembre de 2007, por
+tículo 14 de la [Orden de 7 de noviembre de 2007](../03_ordenacion_curricular_y_ensenanzas/O7_11_2007_regulacion_evaluacion_promocion_ensenanza_basica_canarias.md), por
 
 la que se regula la evaluación y promoción del alum-
 
@@ -1478,7 +1487,7 @@ o de difícil generalización, se podrán escolarizar en
 
 un COAEP, en una AE o en un CEE, tal como se re-
 
-coge en el artículo 6 del Decreto 104/2010, de 29 de
+coge en el artículo 6 del [Decreto 104/2010](./D104_2010_regula_atencion_diversidad_alumnado_ensenanza_no_universitaria.md), de 29 de
 
 julio.
 
@@ -1706,7 +1715,7 @@ ya mencionado.
 
 De acuerdo con lo que establece el artículo 14, apar-
 
-tado 3, de la Orden de 7 de noviembre de 2007, men-
+tado 3, de la [Orden de 7 de noviembre de 2007](../03_ordenacion_curricular_y_ensenanzas/O7_11_2007_regulacion_evaluacion_promocion_ensenanza_basica_canarias.md), men-
 
 cionada con anterioridad, no podrá promocionar a la
 
@@ -1762,7 +1771,7 @@ recogido en el artículo 23 de la mencionada Orden
 
 de 7 de noviembre de 2007, y lo previsto en el artícu-
 
-lo 6.5. del citado Decreto 104/2010. 4. La Administración educativa determinará las me-
+lo 6.5. del citado [Decreto 104/2010](./D104_2010_regula_atencion_diversidad_alumnado_ensenanza_no_universitaria.md). 4. La Administración educativa determinará las me-
 
 didas y recursos que procedan para que el alumna-
 
@@ -1844,7 +1853,7 @@ acción tutorial, según lo recogido en el Proyecto
 
 Educativo del centro y previsto en el artículo 39
 
-del Decreto 81/2010, de 8 de julio, por el que se
+del [Decreto 81/2010](../04_organizacion_escolar_y_funcionamiento/D81_2010_aprueba_reglamento_organico_centros_docentes_publicos.md), de 8 de julio, por el que se
 
 aprueba el Reglamento Orgánico de los centros do-
 
@@ -2364,7 +2373,7 @@ cepcionales y de difícil generalización.
 
 2. En los aspectos no regulados en la presente Or-
 
-den, los CEE se regirán por el Decreto 81/2010, de
+den, los CEE se regirán por el [Decreto 81/2010](../04_organizacion_escolar_y_funcionamiento/D81_2010_aprueba_reglamento_organico_centros_docentes_publicos.md), de
 
 8 de julio, por el que se aprueba el Reglamento Or-
 
@@ -3156,7 +3165,7 @@ lación en las distintas etapas educativas se actuará se-
 
 gún lo previsto en la presente Orden y lo recogido
 
-en la Orden de 7 de noviembre de 2007, por la que
+en la [Orden de 7 de noviembre de 2007](../03_ordenacion_curricular_y_ensenanzas/O7_11_2007_regulacion_evaluacion_promocion_ensenanza_basica_canarias.md), por la que
 
 se regula la evaluación y promoción del alumnado
 
@@ -3484,7 +3493,7 @@ Milagros Luis Brito.
 
 NEAE a que se refieren las definiciones recogidas
 
-en el artículo 4 del Decreto 104/2010, de 29 de ju-
+en el artículo 4 del [Decreto 104/2010](./D104_2010_regula_atencion_diversidad_alumnado_ensenanza_no_universitaria.md), de 29 de ju-
 
 lio (BOC nº 154, de 6 de agosto), por el que se re-
 

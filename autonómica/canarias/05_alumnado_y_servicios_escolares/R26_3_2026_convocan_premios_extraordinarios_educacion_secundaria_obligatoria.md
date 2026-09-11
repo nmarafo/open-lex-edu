@@ -96,9 +96,21 @@ relaciones:
   - norma_id: norm-can-res-boc-2026-070-41
   - norma_id: norm-can-res-boc-2026-070-115
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-070-1144.pdf
+fundamentos_derecho:
+- norma_id: norm-can-d-84-2024
+- norma_id: norm-can-l-6-2014
+- norma_id: norm-can-lo-1-2018
+- norma_id: norm-can-d-30-2023
+- norma_id: norm-can-res-boc-2026-070-41
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-can-res-boc-2026-070-115
+- norma_id: norm-mad-r26-3-2026-convocatoria-licencias-estudios-retribuidas-docentes-madrid
+- norma_id: norm-es-l-39-2015
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
 ---
-
-# Resolución de 26 de marzo de 2026, por la que se convocan los Premios Extraordinarios de Educación Secundaria Obligatoria en el ámbito de la Comunidad Autónoma de Canarias, correspondientes al curso escolar 2025-2026. Plazo para realizar la solicitud de participación: del 19 de junio de 2026, día de la entrega de las calificaciones finales de ESO, al 26 de junio de 2026. ## Preámbulo
+# [Resolución de 26 de marzo de 2026](../03_ordenacion_curricular_y_ensenanzas/R26_3_2026_amplian_resolucion_dicta_instrucciones_orientaciones_implantacion.md), por la que se convocan los Premios Extraordinarios de Educación Secundaria Obligatoria en el ámbito de la Comunidad Autónoma de Canarias, correspondientes al curso escolar 2025-2026. Plazo para realizar la solicitud de participación: del 19 de junio de 2026, día de la entrega de las calificaciones finales de ESO, al 26 de junio de 2026. ## Preámbulo
 
 Consejería de Educación, Formación Profesional, Actividad Física y Deportes [Resolución de 26 de marzo de 2026](../03_ordenacion_curricular_y_ensenanzas/R26_3_2026_amplian_resolucion_dicta_instrucciones_orientaciones_implantacion.md), por la que se convocan los Premios Extraordinarios de Educación Secundaria Obligatoria en el ámbito de la Comunidad Autónoma de Canarias, correspondientes al curso escolar 2025-2026. Al objeto de mejorar la calidad educativa, y de reconocer el esfuerzo y la dedicación del alumnado que termina la etapa educativa de Educación Secundaria Obligatoria ( ESO) en la Comunidad Autónoma de Canarias en el curso 2025/2026 con un excelente rendimiento académico, y en atención a los siguientes ANTECEDENTES DE HECHO
 Primero.- Con carácter anual la Consejería de Educación, Formación Profesional, Actividad Física y Deportes ( CEFPAFD) convoca los Premios Extraordinarios de ESO para el alumnado de dicha etapa educativa en el ámbito de la Comunidad Autónoma de Canarias, como reconocimiento oficial de los méritos basados en el esfuerzo y en el trabajo del alumnado que ha cursado esos estudios con un excelente rendimiento académico, constituyendo, en este sentido, un estímulo y un aliciente para que pueda proseguir con éxito sus estudios
@@ -108,7 +120,7 @@ Segundo.- En virtud del artículo 3, letra a), de la [Ley 6/2014](../01_marco_no
 Tercero.- Las bases que regulan esta convocatoria se regirán por la Orden de 29 de marzo de 2017, por la que se crean y regulan los Premios Extraordinarios de Educación Secundaria Obligatoria, en el ámbito de la Comunidad Autónoma de Canarias, reconociendo, de esta forma, al alumnado que haya cursado esta etapa con un especial aprovechamiento.
 
 Cuarto.- Dicha Orden de 29 de marzo de 2017, en su artículo 4.2, dispone que "podrá concederse un Premio Extraordinario por cada mil setecientos cincuenta, o fracción superior a quinientos, del total del alumnado matriculado en cuarto curso de ESO, en el año académico al que se refiere la convocatoria en centros docentes, tanto de carácter público como privado que impartan el sistema educativo español en la Comunidad Autónoma de Canarias".
-Quinto.- Los currículos de las materias objeto de la prueba para la obtención de los Premios Extraordinarios de ESO son los establecidos en el Decreto 30/2023, de 16 de marzo, por el que se establece la ordenación y el currículo de la Educación Secundaria Obligatoria y del Bachillerato en la Comunidad Autónoma de Canarias.
+Quinto.- Los currículos de las materias objeto de la prueba para la obtención de los Premios Extraordinarios de ESO son los establecidos en el [Decreto 30/2023](../03_ordenacion_curricular_y_ensenanzas/D30_2023_establece_ordenacion_curriculo_educacion_secundaria_obligatoria_bachillerato_canarias.md), de 16 de marzo, por el que se establece la ordenación y el currículo de la Educación Secundaria Obligatoria y del Bachillerato en la Comunidad Autónoma de Canarias.
 Sexto.- El Director General de Ordenación de las Enseñanzas, Inclusión e Innovación es competente para dictar la presente Resolución, según lo dispuesto en el artículo 17.2.y) del anexo del [Decreto 84/2024](../01_marco_normativo_general_y_organico/D84_2024_aprueba_reglamento_organico_formacion_profesional_actividad.md), de 10 de junio, por el que se aprueba el Reglamento Orgánico de la Consejería de Educación, Formación Profesional, Actividad Física y Deportes. Por todo lo expuesto anteriormente, oídas la Agencia Canaria de Calidad Universitaria y Evaluación Educativa ( ACCUEE), y la Inspección de Educación,
 RESUELVO:
 
@@ -121,7 +133,7 @@ Segundo.- Alumnado destinatario y requisitos específicos para participar en la 
 a) Haber cursado toda esta etapa educativa en un centro docente español, bien en régimen presencial o bien en régimen a distancia, en el marco de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, en su redacción actual.
 b) Haber finalizado sus estudios en un centro docente público o privado de la Comunidad Autónoma de Canarias y obtenido en el conjunto de los cuatro cursos de ESO una nota media igual o superior a 8,75 puntos. La nota media será la media aritmética de las calificaciones de todas las materias de los cuatro cursos de esta etapa educativa (sin
 
-contar la calificación de las enseñanzas de religión, según se determina en la disposición adicional primera del citado Decreto 30/2023, de 16 de marzo), redondeada a la centésima más próxima y, en caso de equidistancia, a la superior. No se tendrán en cuenta en dicho cálculo las calificaciones de "apto", "exento" o "convalidado".
+contar la calificación de las enseñanzas de religión, según se determina en la disposición adicional primera del citado [Decreto 30/2023](../03_ordenacion_curricular_y_ensenanzas/D30_2023_establece_ordenacion_curriculo_educacion_secundaria_obligatoria_bachillerato_canarias.md), de 16 de marzo), redondeada a la centésima más próxima y, en caso de equidistancia, a la superior. No se tendrán en cuenta en dicho cálculo las calificaciones de "apto", "exento" o "convalidado".
 c) Haber obtenido una calificación final de "sobresaliente" en el último curso de Educación Secundaria Obligatoria, en las materias de Lengua Castellana y Literatura, Matemáticas A o Matemáticas B, y Lengua Extranjera.
 
 2. En el caso de que sea necesaria la expresión numérica de la calificación de una materia expresada de forma cualitativa, la conversión se realizará según las siguientes equivalencias: Insuficiente (4), Suficiente (5,5), Bien (6,5), Notable (7,5) y Sobresaliente (9,5), teniendo en cuenta las instrucciones para el cálculo de la nota media en el proceso de admisión del alumnado en centros educativos de Canarias.
@@ -153,7 +165,7 @@ https://www.gobiernodecanarias.org/educacion/web/estudiantes/premios_educativos/
 
 #### Sexto. Estructura de la prueba.
 
-1. Los alumnos y las alumnas que opten a los Premios Extraordinarios de ESO deberán realizar una prueba que constará de los siguientes ejercicios, referidos a las siguientes materias que cursaron en cuarto curso de ESO y a los currículos correspondientes del predicho Decreto 30/2023, de 16 de marzo:
+1. Los alumnos y las alumnas que opten a los Premios Extraordinarios de ESO deberán realizar una prueba que constará de los siguientes ejercicios, referidos a las siguientes materias que cursaron en cuarto curso de ESO y a los currículos correspondientes del predicho [Decreto 30/2023](../03_ordenacion_curricular_y_ensenanzas/D30_2023_establece_ordenacion_curriculo_educacion_secundaria_obligatoria_bachillerato_canarias.md), de 16 de marzo:
 a) El primer ejercicio versará sobre aspectos que permitan verificar el grado de adquisición de la competencia en comunicación lingüística, en relación con la materia de Lengua Castellana y Literatura.
 b) El segundo ejercicio abordará aspectos que permitan verificar el grado de adquisición de la competencia matemática, en relación con las materias de Matemáticas A o de Matemáticas B, en función de la opción cursada por el alumnado.
 c) El tercer ejercicio tratará aspectos que permitan verificar el grado de adquisición de la competencia en comunicación lingüística y de la competencia plurilingüe, en relación con la materia de Lengua Extranjera.

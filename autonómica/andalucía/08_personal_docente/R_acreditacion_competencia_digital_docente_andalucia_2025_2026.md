@@ -35,8 +35,9 @@ relaciones:
   - norma_id: norm-and-l17-2007
   - norma_id: norm-es-rdl-5-2015
   - norma_id: norm-es-lo-2-2006
+fundamentos_derecho:
+- norma_id: norm-and-l17-2007
 ---
-
 # Resolución por la que se dictan instrucciones sobre la organización del procedimiento de acreditación de la competencia digital docente en la Comunidad Autónoma de Andalucía para el curso escolar 2025-2026.
 
 ## Preámbulo

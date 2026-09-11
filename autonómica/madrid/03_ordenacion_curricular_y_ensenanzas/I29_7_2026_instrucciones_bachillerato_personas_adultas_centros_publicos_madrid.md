@@ -28,8 +28,16 @@ relaciones:
   - norm-es-lo-2-2006
   - norm-mad-d-64-2022
 fuente_pdf_oficial: https://www.comunidad.madrid/transparencia/sites/default/files/regulation/documents/instrucciones_bachillerato_para_las_personas_adultas_2026-2027.pdf
+fundamentos_derecho:
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-mad-o-2034-2023
+- norma_id: norm-mad-o2067-2023
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-2001-7022
+- norma_id: norm-es-2016-3229
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
 ---
-
 # Instrucciones de 29 de julio de 2026, de la Dirección General de Educación Secundaria, Formación Profesional y Régimen Especial, sobre las enseñanzas del Bachillerato para personas adultas en los centros docentes públicos de la Comunidad de Madrid en el curso académico 2026/2027.
 
 ## Preámbulo
@@ -43,7 +51,7 @@ PROFESIONAL Y RÉGIMEN ESPECIAL SOBRE LAS ENSEÑANZAS DEL BACHILLERATO PARA
 PERSONAS ADULTAS EN LOS CENTROS DOCENTES PÚBLICOS DE LA COMUNIDAD DE MADRID 
 EN EL CURSO ACADÉMICO 2026/2027 
  
-La oferta específica del Bachillerato para personas adultas se regula en la  Orden 2034/2023, de 
+La oferta específica del Bachillerato para personas adultas se regula en la  [Orden 2034/2023](./O2034_2023_organizacion_funcionamiento_bachillerato_personas_adultas_madrid.md), de 
 9 de junio,  de la Vicepresidencia, Consejería de Educación y Universidades por la que se regula 
 la ordenación y organización de la oferta específica del Bachillerato para  personas adultas en la 
 Comunidad de Madrid, dicha oferta se organizará a través de la enseñanza semipresencial y la 
@@ -86,7 +94,7 @@ https://bachilleratodistancia.educa.madrid.org/course/view.php?id=211
  
 SEGUNDA. Admisión y matriculación 
 1. Para ser admitido en esta oferta educativa, se deben cumplir los requisitos establecidos en 
-el artículo 10 de la Orden 2034/2023, de 9 de junio, de la Vicepresidencia, Consejería de 
+el artículo 10 de la [Orden 2034/2023](./O2034_2023_organizacion_funcionamiento_bachillerato_personas_adultas_madrid.md), de 9 de junio, de la Vicepresidencia, Consejería de 
 Educación y Universidades, por la que se regula la ordenación y organización de la oferta 
 específica del Bachillerato para personas adultas en la Comunidad de Madrid. 
 2. Con carácter general, el periodo ordinario de matriculación será del 1 al 15 de septiembre 
@@ -121,7 +129,7 @@ modalidad para poder obtener el título de Bachiller.
 TERCERA. Condiciones para que los alumnos matriculados en régimen ordinario puedan cursar 
 materias en educación a distancia o en otros centros escolares 
 Los alumnos matriculados en régimen ordinario que puedan acogerse a lo previsto en el artículo 
-6 de la Orden 2067/2023, de 11 de junio, de la Vicepresidencia, Consejería de Educación y 
+6 de la [Orden 2067/2023](./O2067_2023_organizacion_funcionamiento_evaluacion_bachillerato_madrid.md), de 11 de junio, de la Vicepresidencia, Consejería de Educación y 
 
  
 3 
@@ -141,7 +149,7 @@ secuenciación de los contenidos.
 • Calendario y horario de las acciones tutoriales y de las actividades lectivas presenciales 
 de asistencia obligatoria para los alumnos.  
 • Calendario de exámenes. 
-Tal como establecen los artículos 22 y 23 de la Orden 2067/2023, de 11 de junio, dentro de la 
+Tal como establecen los artículos 22 y 23 de la [Orden 2067/2023](./O2067_2023_organizacion_funcionamiento_evaluacion_bachillerato_madrid.md), de 11 de junio, dentro de la 
 programación general anual, se planificarán dos convocatorias de sesiones de evaluación final:  
 una ordinaria y otra extraordinaria.  La evaluación final ordinaria se adecuará a las necesidades 
 derivadas de la reali zación de la Prueba de A cceso a la Universidad y sus procedimientos de 
@@ -174,7 +182,7 @@ SEXTA. Horario
 1. La impartición de las enseñanzas se desarrollará preferentemente en la franja horaria de 
 17:00 a 22:00 horas.  
 2. Las distribuciones horarias semanales de las materias son las establecidas en los artículos 17 
-y 19 de la Orden 2034/2023, de 9 de junio.  
+y 19 de la [Orden 2034/2023](./O2034_2023_organizacion_funcionamiento_bachillerato_personas_adultas_madrid.md), de 9 de junio.  
 3. En la enseñanza semipresencial, los centros podrán diseñar sus horarios procurando agrupar 
 estos periodos en el menor número de días de la semana en función de sus necesidades 
 organizativas.  
@@ -190,7 +198,7 @@ docente entre los departamentos didácticos, el coordinador TIC y el jefe de est
 de estudios adjunto asignado a estas enseñanzas, para diseñar y ejecutar la planificación de 
 la acción educativa.  
 3. La organización del aula virtual del centro en relación con lo fijado en el artículo 5 de la 
-Orden 2034/2023, 9 de junio, establecerá las cuestiones comunes de uso:   
+[Orden 2034/2023](./O2034_2023_organizacion_funcionamiento_bachillerato_personas_adultas_madrid.md), 9 de junio, establecerá las cuestiones comunes de uso:   
 a. La coordinación de la actuación de los profesores que utilicen el aula virtual.   
 b. La inclusión de la información y la normativa de protección de datos personales en 
 la plataforma de servicios de EducaMadrid.  
@@ -308,7 +316,7 @@ Se considerarán superadas las materias correspondientes a planes extinguidos qu
 sido superadas por los alumnos y tengan idéntica denominación LOMLOE.  
 Conforme a lo dispuesto en el Real Decreto 205/2023, de 28 de marzo, por el que se establecen 
 medidas relativas a la transición entre planes de estudios, como consecuencia de la aplicación 
-de la Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la Ley Orgánica 2/2006, 
+de la Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), 
 de 3 de mayo, de Educación: 
 Bachillerato (todas las modalidades) 
 Materia superada del bloque de asignaturas 
@@ -434,7 +442,7 @@ Economía de la Empresa Empresa y Diseño de Modelos de Negocio
  
 Conforme a lo dispuesto en la Orden ECD/462/2016, de 31 de marzo, por la que se regula el 
 procedimiento de incorporación del alumnado a un curso de Educación Secundaria Obligatoria o 
-de Bachillerato definido en la Ley Orgánica 8/2013, de 9 de diciembre, para la mejora de la 
+de Bachillerato definido en la [Ley Orgánica 8/2013](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md), de 9 de diciembre, para la mejora de la 
 calidad educativa, con materias no superadas del currículo anterior a su implantación, o bien con 
 la disposición t ransitoria única de la Orden 2582/2016, de 17 de agosto, de la Consejería de 
 Educación, Juventud y Deporte de la Comunidad de Madrid, por la que se regulan determinados 
@@ -465,8 +473,8 @@ Tecnologías de la Información y la Comunicación Tecnologías de la Informaci�
  
 10 
 Conforme a lo dispuesto en la Orden EDU/2395/2009, de 9 de septiembre, por la que se regula 
-la promoción de un curso incompleto del sistema educativo definido por la Ley Orgánica 1/1990, 
-de 3 de octubre, de ordenación general del sistema educativo, a otro de la Ley Orgánica 2/2006, 
+la promoción de un curso incompleto del sistema educativo definido por la [Ley Orgánica 1/1990](../../../estatal/02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md), 
+de 3 de octubre, de ordenación general del sistema educativo, a otro de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), 
 de 3 de mayo, de Educación: 
 Materia del Bachillerato LOGSE Materia del Bachillerato LOE 
 Economía y organización de empresas Economía de la empresa 

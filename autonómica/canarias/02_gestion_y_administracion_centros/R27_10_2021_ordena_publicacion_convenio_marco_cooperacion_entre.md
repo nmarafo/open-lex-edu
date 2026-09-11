@@ -89,8 +89,18 @@ relaciones:
   - norma_id: norm-es-2021-20113
   - norma_id: norm-es-2010-12201
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2021-229-4680.pdf
+fundamentos_derecho:
+- norma_id: norm-can-l-14-1990
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-mad-d11-2019
+- norma_id: norm-es-l-40-2015
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-l-9-2017
+- norma_id: norm-es-lo-3-2018
+- norma_id: norm-es-2016-3229
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
 ---
-
 # Resolución de 27 de octubre de 2021, por la que se ordena la publicación del Convenio Marco de Cooperación entre la Consejería de Educación, Universidades, Cultura y Deportes y la Federación Canaria de Municipios (FECAM) para el desarrollo de acciones y actuaciones en los centros docentes públicos no universitarios.
 
 RESUELVO:
@@ -166,7 +176,7 @@ Se creará una Comisión Mixta de carácter paritario para el desarrollo del Con
 
 7. Establecer el mecanismo de evaluación que permita valorar, al menos anualmente, la conveniencia de continuar con la relación pactada o, en su caso, proceder a la denuncia del Convenio en la forma que se hubiera previsto en el mismo.
 
-8. Cualquiera otra que le atribuya el desarrollo y seguimiento del Convenio. La Comisión adoptará sus acuerdos mediante el consenso de las partes que lo componen, asegurando de este modo el adecuado equilibrio entre las partes en la interpretación y cumplimiento, de conformidad con lo previsto en el artículo 8.2 del Decreto 11/2019, de 11 de febrero. La Comisión Mixta de Seguimiento se reunirá como mínimo a comienzo y finalización de cada curso escolar y cuantas veces sea necesario para el desarrollo de los objetivos del presente Convenio.
+8. Cualquiera otra que le atribuya el desarrollo y seguimiento del Convenio. La Comisión adoptará sus acuerdos mediante el consenso de las partes que lo componen, asegurando de este modo el adecuado equilibrio entre las partes en la interpretación y cumplimiento, de conformidad con lo previsto en el artículo 8.2 del [Decreto 11/2019](../../madrid/05_alumnado_y_servicios_escolares/D11_2019_modificacion_decreto_libertad_eleccion_centro_escolar_madrid.md), de 11 de febrero. La Comisión Mixta de Seguimiento se reunirá como mínimo a comienzo y finalización de cada curso escolar y cuantas veces sea necesario para el desarrollo de los objetivos del presente Convenio.
 
 #### Octava. Extinción del Convenio de Cooperación.
 

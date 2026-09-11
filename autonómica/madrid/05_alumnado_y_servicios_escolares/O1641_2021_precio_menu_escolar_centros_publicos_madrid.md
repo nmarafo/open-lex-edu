@@ -26,9 +26,10 @@ tags:
 - precio_menu
 - tasas_precios
 - madrid
+fundamentos_derecho:
+- norma_id: norm-mad-o-956-2017
 ---
-
-# Orden 1641/2021, de 8 de junio, del Consejero de Educación y Juventud, por la que se modifica la Orden 956/2017, de 30 de marzo, de la Consejería de Educación, Juventud y Deporte, por la que se fija la cuantía de los precios privados de alimentación mensual o comedor de los centros de la red pública de Educación Infantil de la Comunidad de Madrid a partir del curso 2017-2018
+# Orden 1641/2021, de 8 de junio, del Consejero de Educación y Juventud, por la que se modifica la [Orden 956/2017](./O956_2017_precios_privados_alimentacion_comedor_centros_publicos_madrid.md), de 30 de marzo, de la Consejería de Educación, Juventud y Deporte, por la que se fija la cuantía de los precios privados de alimentación mensual o comedor de los centros de la red pública de Educación Infantil de la Comunidad de Madrid a partir del curso 2017-2018
 
 ## Preámbulo
 
@@ -36,7 +37,7 @@ BOCM
 Consejería de Educación y Juventud
 33
 ORDEN 1641/2021, de 8 de junio, del Consejero de Educación y Juventud, por
-la que se modifica la Orden 956/2017, de 30 de marzo, de la Consejería de Edu-
+la que se modifica la [Orden 956/2017](./O956_2017_precios_privados_alimentacion_comedor_centros_publicos_madrid.md), de 30 de marzo, de la Consejería de Edu-
 cación, Juventud y Deporte, por la que se fija la cuantía de los precios privados
 de alimentación mensual o comedor de los centros de la red pública de Educa-
 ción Infantil de la Comunidad de Madrid a partir del curso 2017-2018.
@@ -44,7 +45,7 @@ La Comunidad de Madrid dispone de un importante sistema de protección del que s
 benefician las familias madrileñas en situación de desventaja social. En el ámbito educati-
 vo, y por lo que se refiere al servicio de comedor escolar en centros sostenidos con fondos
 públicos ello les permite beneficiarse de una importante reducción en el precio diario del
-menú escolar, tal y como establece la Orden 956/2017, de 30 de marzo, de la Consejería de
+menú escolar, tal y como establece la [Orden 956/2017](./O956_2017_precios_privados_alimentacion_comedor_centros_publicos_madrid.md), de 30 de marzo, de la Consejería de
 Educación, Juventud y Deporte, por la que se fija la cuantía de los precios privados de ali-
 mentación mensual o comedor de los centros de la red pública de Educación Infantil de la
 Comunidad de Madrid a partir del curso 2017-2018.
@@ -58,7 +59,7 @@ se ampara en el apartado dos de la disposición adicional cuarta del texto refun
 de Tasas y Precios Públicos de la Comunidad de Madrid, que indica que cuando existan ra-
 zones sociales, benéficas, culturales o de interés público, que así lo aconsejen se podrán es-
 tablecer precios privados inferiores a los costes.
-Para ello es necesario modificar puntualmente la Orden 956/2017, de 30 de marzo, por
+Para ello es necesario modificar puntualmente la [Orden 956/2017](./O956_2017_precios_privados_alimentacion_comedor_centros_publicos_madrid.md), de 30 de marzo, por
 la que se fija la cuantía de los precios privados de alimentación mensual o comedor de los
 centros de la red pública de Educación Infantil de la Comunidad de Madrid a partir del cur-
 so 2017-2018.
@@ -69,7 +70,7 @@ DISPONGO:
 
 #### Artículo . #### Artículo . Primero
 
-Modificación de la Orden 956/2017, de 30 de marzo, de la Consejería de Educación,
+Modificación de la [Orden 956/2017](./O956_2017_precios_privados_alimentacion_comedor_centros_publicos_madrid.md), de 30 de marzo, de la Consejería de Educación,
 Juventud y Deporte, por la que se fija la cuantía de los precios privados de alimentación
 mensual o comedor de los centros de la red pública de Educación Infantil
 de la Comunidad de Madrid a partir del curso 2017-2018

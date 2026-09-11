@@ -76,8 +76,9 @@ relaciones:
   articulos:
   - norma_id: '120'
   - norma_id: norm-es-1999-23750
+fundamentos_derecho:
+- norma_id: norm-es-1999-23750
 ---
-
 # Instrucción 1/2006, de 8 de noviembre, de la Agencia Española de Protección de Datos, sobre el tratamiento de datos personales con fines de vigilancia a través de sistemas de cámaras o videocámaras.
 
 ## Preámbulo

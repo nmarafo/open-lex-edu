@@ -1,6 +1,7 @@
 ---
 id: norm-and-d149-2009-regulacion-centros-primer-ciclo-educacion-infantil-andalucia
-titulo: Decreto 149/2009, de 12 de mayo, por el que se regulan los centros que imparten el primer ciclo de la educación infantil.
+titulo: Decreto 149/2009, de 12 de mayo, por el que se regulan los centros que imparten
+  el primer ciclo de la educación infantil.
 jurisdiccion: Andalucía
 ambito: Autonómico
 organo_emisor: Dirección General de Ordenación, Inclusión e Innovación Educativa
@@ -17,8 +18,19 @@ fuente_pdf_oficial: http://www.juntadeandalucia.es/boja/2009/92/d1.pdf
 clasificacion:
   categoria_canonica: 02_gestion_y_administracion_centros
   subcategoria: Centros de Educación Infantil
+fundamentos_derecho:
+- norma_id: norm-and-l12-2007-promocion-igualdad-genero-andalucia
+- norma_id: norm-and-l17-2007
+- norma_id: norm-and-l6-2006-gobierno-comunidad-autonoma-andalucia
+- norma_id: norm-and-d-151-1997
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-1999-23750
+- norma_id: norm-es-lo-8-1985
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
+- norma_id: norm-es-2007-6115
 ---
-
 # Decreto 149/2009, de 12 de mayo, por el que se regulan los centros que imparten el primer ciclo de la educación infantil.
 
 ## Preámbulo
@@ -36,11 +48,11 @@ lo 52 las competencias sobre las enseñanzas no universitarias,
 entre las que se incluye el régimen de creación, organización y 
 funcionamiento de los centros, tanto públicos como privados, 
 en los que se imparte la educación infantil.
-Por otra parte, la Ley Orgánica 8/1985, de 3 de julio, re-
+Por otra parte, la [Ley Orgánica 8/1985](../../../estatal/02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md), de 3 de julio, re-
 guladora del Derecho a la Educación, contiene en su Título I 
 una serie de normas referidas a la creación o autorización, 
 organización y régimen interno de los centros docentes.
-La Ley Orgánica 2/2006, de 3 de mayo, de Educación, 
+La [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, 
 regula en el Capítulo I del Título I la etapa de educación infan-
 til, que se ordena en dos ciclos, el primero comprende hasta 
 los tres años y el segundo, desde los tres a los seis años de 
@@ -68,7 +80,7 @@ en edades tempranas, con objeto de incidir en el futuro éxito
 escolar del alumnado, lo que requiere de un tipo de centro con 
 determinados requisitos materiales, personales, organizativos, 
 de funcionamiento y de servicios.
-La Ley 17/2007, de 10 de diciembre, de Educación de An-
+La [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre, de Educación de An-
 dalucía, dispone en su artículo 41.3 que la educación infantil 
 tiene carácter voluntario. La Administración educativa garan-
 tizará progresivamente la existencia de puestos escolares en 
@@ -87,19 +99,19 @@ experiencia acumulada después de muchos años de funciona-
 miento de este órgano en los centros docentes sostenidos con 
 fondos públicos.
 Por otra parte, en cumplimiento de lo establecido en el ar-
-tículo 14.7 de la Ley Orgánica 2/2006, de 3 de mayo, y en el 
-artículo 45 de la Ley 17/2007, de 10 de diciembre, el presente 
+tículo 14.7 de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, y en el 
+artículo 45 de la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre, el presente 
 Decreto regula los requisitos que han de cumplir los centros 
 que impartan el primer ciclo de la educación infantil, relativos, 
 en todo caso, a la relación numérica alumnado/personal, a las 
 instalaciones y al número de puestos escolares, garantizando 
 la igualdad de oportunidades entre mujeres y hombres, de 
-acuerdo con lo dispuesto en la Ley 12/2007, de 26 de noviem-
+acuerdo con lo dispuesto en la [Ley 12/2007](../01_marco_normativo_general_y_organico/L12_2007_promocion_igualdad_genero_andalucia.md), de 26 de noviem-
 bre, para la promoción de la igualdad de género en Andalucía.
 Asimismo, en el presente Decreto se regula lo relativo a 
 la creación y autorización de centros educativos que impartan 
 el primer ciclo de la educación infantil, de conformidad con lo 
-recogido en los artículos 17 y 23 de la Ley Orgánica 8/1985, 
+recogido en los artículos 17 y 23 de la [Ley Orgánica 8/1985](../../../estatal/02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md), 
 de 3 de julio. 
 Finalmente, procede regular las normas de admisión del 
 alumnado en los centros educativos que impartan el primer 
@@ -116,7 +128,7 @@ tónoma de Andalucía, y ha emitido informe el Consejo Escolar
 de Andalucía.
 En su virtud, a propuesta de la Consejera de Educación, 
 de conformidad con lo establecido en el artículo 27.9 de la 
-Ley 6/2006, de 24 de octubre, del Gobierno de la Comunidad 
+[Ley 6/2006](../01_marco_normativo_general_y_organico/L6_2006_gobierno_comunidad_autonoma_andalucia.md), de 24 de octubre, del Gobierno de la Comunidad 
 Autónoma de Andalucía, de acuerdo con el Consejo Consultivo 
 de Andalucía y previa deliberación del Consejo de Gobierno en 
 su reunión del día 12 de mayo de 2009,
@@ -199,7 +211,7 @@ educación infantil aquéllos cuya titularidad la ostenta una per-
 sona física o jurídica de carácter privado.
 4. La titularidad de los centros educativos de primer ci-
 clo de educación infantil constará en el Registro regulado en 
-el Decreto 151/1997, de 27 de mayo, por el que se crea el 
+el [Decreto 151/1997](./D151_1997_crea_regula_registro_centros_docentes_andalucia.md), de 27 de mayo, por el que se crea el 
 Registro de Centros Docentes de la Comunidad Autónoma de 
 Andalucía.
 Artículo 8. Denominación.
@@ -250,10 +262,10 @@ sean creadas.
 Artículo 10. Autorización de centros de educación infantil.
 1. Toda persona física o jurídica de carácter privado po-
 drá crear centros de educación infantil, en el marco de lo dis-
-puesto en el artículo 21 de la Ley Orgánica 8/1985, de 3 de 
+puesto en el artículo 21 de la [Ley Orgánica 8/1985](../../../estatal/02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md), de 3 de 
 julio, reguladora del Derecho a la Educación.
 2. De conformidad con lo establecido en el artículo 23 
-de la Ley Orgánica 8/1985, de 3 de julio, los centros de edu-
+de la [Ley Orgánica 8/1985](../../../estatal/02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md), de 3 de julio, los centros de edu-
 cación infantil están sometidos a autorización administrativa 
 para su apertura y funcionamiento. Dicha autorización se 
 concederá por Orden de la persona titular de la Consejería 
@@ -444,14 +456,14 @@ personal a que se refiere el artículo 16.1, bajo la coordinación
 de la dirección del centro. En el caso de los centros privados 
 de convenio, el proyecto educativo y asistencial será dispuesto 
 por su titular conforme a lo establecido en el artículo 121.6 de 
-la Ley Orgánica 2/2006, de 3 de mayo. 
+la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo. 
 4. El proyecto educativo y asistencial será aprobado por 
 el Consejo Escolar del centro educativo.
 Artículo 19. El proyecto de gestión.
 1. Las escuelas infantiles cuya titularidad corresponde a 
 la Administración de la Junta de Andalucía deberán contar con 
 un proyecto de gestión, según lo establecido en el artículo 129 
-de la Ley 17/2007, de 10 de diciembre, que recogerá la orde-
+de la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre, que recogerá la orde-
 nación y utilización de los recursos del centro, tanto materiales 
 como humanos.
 2. El proyecto de gestión será elaborado por la dirección 
@@ -578,9 +590,9 @@ fondos públicos.
 7. En la constitución, modificación o renovación del Con-
 sejo Escolar, a fin de garantizar la representación equilibrada 
 de hombres y mujeres, se actuará conforme a lo previsto en 
-el artículo 24.2.d) de la Ley Orgánica 3/2007 de 22 de marzo, 
+el artículo 24.2.d) de la [Ley Orgánica 3/2007](../../../estatal/07_convivencia_bienestar_y_protocolos/LO3_2007_igualdad_efectiva_mujeres_hombres.md) de 22 de marzo, 
 para la igualdad efectiva de mujeres y hombres, y en el ar-
-tículo 18.2 de la Ley 12/2007, de 26 de noviembre, de promo-
+tículo 18.2 de la [Ley 12/2007](../01_marco_normativo_general_y_organico/L12_2007_promocion_igualdad_genero_andalucia.md), de 26 de noviembre, de promo-
 ción de la igualdad de género en Andalucía.
 Artículo 25. Derechos de las familias.
 1. Los centros educativos de primer ciclo de educación 
@@ -602,7 +614,7 @@ ridos a la atención asistencial recibida por sus hijos e hijas.
 nas que ejerzan la tutela en la organización de actividades 
 específicas y se facilitará la constitución y el funcionamiento 
 de asociaciones de padres y madres del alumnado en los tér-
-minos previstos en el artículo 34 de la Ley 17/2007, de 10 de 
+minos previstos en el artículo 34 de la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de 
 diciembre.
 CAPÍTULO III
 Órganos de coordinación educativa
@@ -1288,7 +1300,7 @@ ordinación docente.
 Disposición adicional segunda. Detección y atención tem-
 prana.
 En aplicación de lo dispuesto en los apartados 1 y 2 del 
-artículo 114 de la Ley 17/2007, de 10 de diciembre, la Ad-
+artículo 114 de la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre, la Ad-
 ministración de la Junta de Andalucía establecerá el conjunto 
 de actuaciones dirigidas a la población infantil de cero a tres 
 años, a sus familias y al entorno con la finalidad de prevenir, 
@@ -1328,7 +1340,7 @@ noviembre, de medidas tributarias y financieras de impulso a
 la actividad económica de Andalucía, y de agilización de proce-
 dimientos administrativos.
 2. El tratamiento de los datos de carácter personal es-
-tará sujeto a la Ley Orgánica 15/1999, de 13 de diciembre, 
+tará sujeto a la [Ley Orgánica 15/1999](../../../estatal/02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md), de 13 de diciembre, 
 de protección de datos de carácter personal, y a su normativa 
 de desarrollo.
 
@@ -1390,7 +1402,7 @@ Disposición transitoria cuarta. Centros para personas tra-
 bajadoras de las Administraciones y entidades públicas.
 En aplicación de lo dispuesto en el artículo 39 de la Ley 
 12/2007, de 26 de noviembre, mientras se da cumplimiento 
-a la previsión recogida en el artículo 41.3 de la Ley 17/2007, 
+a la previsión recogida en el artículo 41.3 de la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), 
 de 10 de diciembre, en cuanto a la existencia de puestos esco-
 lares suficientes para atender la demanda de las familias, las 
 Administraciones y entidades públicas podrán impulsar, con-

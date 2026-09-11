@@ -34,25 +34,42 @@ relaciones:
   - norm-es-lo-2-2006
   - norm-and-l17-2007
   - norm-and-o-15-1-2021
+fundamentos_derecho:
+- norma_id: norm-and-d-194-2026
+- norma_id: norm-and-l17-2007
+- norma_id: norm-and-d327-2010
+- norma_id: norm-and-o15-1-2021-atencion-diversidad-orientacion-educativa-andalucia
+- norma_id: norm-and-res-2026-09-01-violencia-genero
+- norma_id: norm-and-res-2026-09-01-bienestar-emocional
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-es-2015-8470
+- norma_id: norm-es-l-40-2015
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-l-31-1995
+- norma_id: norm-es-l-9-2017
+- norma_id: norm-es-lo-8-1985
+- norma_id: norm-es-rd-39-1997
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
+- norma_id: norm-es-lo-8-2021
 ---
-
-# Resolución de 1 de septiembre de 2026 de la Dirección General de Inclusión, Convivencia y Participación, por la que se establece la convocatoria, la organización y el funcionamiento del Programa Más Equidad en los centros docentes públicos dependientes de la Consejería de Educación de la Junta de Andalucía para el curso 2026/2027.
+# [Resolución de 1 de septiembre de 2026](../07_convivencia_bienestar_y_protocolos/R1_9_2026_medidas_actuaciones_prevencion_violencia_genero_ambito_educativo_2026_2027.md) de la Dirección General de Inclusión, Convivencia y Participación, por la que se establece la convocatoria, la organización y el funcionamiento del Programa Más Equidad en los centros docentes públicos dependientes de la Consejería de Educación de la Junta de Andalucía para el curso 2026/2027.
 
 ## Protocolo y Directrices
 
-RESOLUCIÓN DE 1 DE SEPTIEMBRE DE 2026 DE LA DIRECCIÓN GENERAL DE INCLUSIÓN, CONVIVENCIA Y 
+[RESOLUCIÓN DE 1 DE SEPTIEMBRE DE 2026](../07_convivencia_bienestar_y_protocolos/R1_9_2026_medidas_actuaciones_prevencion_violencia_genero_ambito_educativo_2026_2027.md) DE LA DIRECCIÓN GENERAL DE INCLUSIÓN, CONVIVENCIA Y 
 PARTICIPACIÓN, POR LA QUE SE ESTABLECE LA CONVOCATORIA, LA ORGANIZACIÓN Y EL 
 FUNCIONAMIENTO DEL PROGRAMA MÁS EQUIDAD EN LOS CENTROS DOCENTES PÚBLICOS 
 DEPENDIENTES DE LA CONSEJERÍA DE EDUCACIÓN DE LA JUNTA DE ANDALUCÍA PARA EL CURSO 
 2026/2027.
-La Ley Orgánica 8/1985, de 3 de julio, reguladora del Derecho a la Educación, en su última modificación de 
+La [Ley Orgánica 8/1985](../../../estatal/02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md), de 3 de julio, reguladora del Derecho a la Educación, en su última modificación de 
 30 de diciembre de 2020, regula en su artículo 6, relativo a los derechos básicos del alumnado, entre otros, 
 los siguientes: 3.e) A una educación inclusiva y de calidad y en el 3.j) A recibir las ayudas y los apoyos precisos 
 para compensar las carencias y desventajas de tipo personal, familiar, económico, social y cultural, 
 especialmente en el caso de presentar necesidades educativas especiales, que impidan o dificulten el acceso y 
 la permanencia en el sistema educativo.
 El desarrollo normativo posterior, tanto a nivel nacional como autonómico, incide en estos principios. Así, la 
-Ley Orgánica 2/2006, de 3 de mayo, de Educación, establece en su artículo 1 los principios en los que se 
+[Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, establece en su artículo 1 los principios en los que se 
 inspira el Sistema Educativo español. Entre ellos se encuentra la equidad, que garantice la igualdad de 
 oportunidades para el pleno desarrollo de la personalidad a través de la educación, la inclusión educativa, la 
 igualdad de derechos y oportunidades, también entre mujeres y hombres, que ayuden a superar cualquier 
@@ -69,7 +86,7 @@ encontrarse en situación de vulnerabilidad socioeducativa, por sus altas capaci
 haberse incorporado tarde al sistema educativo o por condiciones personales o de historia escolar, puedan 
 alcanzar el máximo desarrollo posible de sus capacidades personales y, en todo caso, los objetivos 
 establecidos con carácter general para todo el alumnado.
-Por su parte, la Ley 17/2007, de 10 de diciembre, de Educación de Andalucía recoge, entre sus objetivos, el 
+Por su parte, la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre, de Educación de Andalucía recoge, entre sus objetivos, el 
 de estimular y valorar la innovación educativa como medio de participación en la mejora de la enseñanza. 
 En su artículo 5, entre sus objetivos se reseña el favorecer el éxito escolar del alumnado, en función de sus 
 capacidades, sus intereses y sus expectativas, así como promover que la población llegue a alcanzar una 
@@ -127,7 +144,7 @@ del alumnado y prevenir el absentismo y el abandono escolar temprano, promoviend
 diferentes actuaciones que ponen el foco en la adecuación de la respuesta educativa mediante el apoyo a 
 centros docentes públicos de entornos socio-económicos vulnerables.
 Con la finalidad de regular la organización y funcionamiento de dichas actuaciones, y en virtud de las 
-competencias que otorga el Decreto 194/2026, de 30 de julio, por el que se establece la estructura orgánica 
+competencias que otorga el [Decreto 194/2026](../01_marco_normativo_general_y_organico/D194_2026_estructura_organica_consejeria_educacion_andalucia.md), de 30 de julio, por el que se establece la estructura orgánica 
 de la Consejería de Educación, la Dirección General de Inclusión, Convivencia y Participación dicta la 
 siguiente
 Puede verificar la integridad de este documento mediante la lectura del código QR adjunto o mediante el acceso
@@ -363,7 +380,7 @@ La Comisión a la que se refiere el presente apartado podrá recabar la informac
 cuantas personas se considere oportuno, que tendrán voz pero no voto.
 2. La Comisión se regirá por el régimen establecido para el funcionamiento de órganos colegiados en la Ley 
 9/2007, de 22 de octubre, de la Administración de la Junta de Andalucía y la Sección 3ª, Subsección 1ª, del 
-Capítulo II del Título Preliminar de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público y 
+Capítulo II del Título Preliminar de la [Ley 40/2015](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md), de 1 de octubre, de Régimen Jurídico del Sector Público y 
 tendrá las siguientes funciones:
 •
 Valorar las solicitudes junto con los Proyectos presentados.
@@ -470,7 +487,7 @@ Duodécimo. Gestión y organización.
 competencia deberá quedar plasmada en el Plan de Centro, de acuerdo con lo establecido en el Decreto 
 328/2010, de 13 de julio, por el que se aprueba el Reglamento Orgánico de las escuelas infantiles de segundo 
 ciclo, de los colegios de educación primaria, de los colegios de Educación Infantil y Primaria, y de los 
-centros públicos específicos de Educación Especial y en el Decreto 327/2010, de 13 de julio, por el que se 
+centros públicos específicos de Educación Especial y en el [Decreto 327/2010](../04_organizacion_escolar_y_funcionamiento/D327_2010_reglamento_organico_institutos_educacion_secundaria_andalucia.md), de 13 de julio, por el que se 
 aprueba el Reglamento Orgánico de los Institutos de Educación Secundaria.
 2. Las funciones asociadas al coordinador o coordinadora, son las siguientes:
 a)
@@ -517,7 +534,7 @@ Decimoquinto. Medidas para el cumplimiento de la legislación de protección del
 En las actuaciones realizadas a través de contratos con empresas y/o entidades, la dirección del centro 
 docente exigirá la aportación de declaración responsable de que todo el personal, propio y subcontratado, 
 al que corresponda la realización de las actuaciones, cuenta con el certificado negativo exigido en el artículo 
-57.1. de la Ley Orgánica 8/2021, de 4 de junio, de protección integral a la infancia y la adolescencia frente a 
+57.1. de la [Ley Orgánica 8/2021](../../../estatal/07_convivencia_bienestar_y_protocolos/LO8_2021_proteccion_integral_infancia_adolescencia_frente_violencia.md), de 4 de junio, de protección integral a la infancia y la adolescencia frente a 
 la violencia.
 Actuación
 Fecha
@@ -1016,8 +1033,8 @@ acceso.
 •
 La empresa adjudicataria está obligada al cumplimiento de la normativa vigente en materia 
 laboral, de Seguridad Social y de prevención de riesgos laborales, conforme a lo dispuesto en 
-la Ley 31/1995, de 8 de noviembre, sobre Prevención de Riesgos Laborales y en el Reglamento 
-de los Servicios de Prevención, aprobado por Real Decreto 39/1997, de 17 enero, así como las 
+la [Ley 31/1995](../../../estatal/02_gestion_y_administracion_centros/L31_1995_prevencion_riesgos_laborales.md), de 8 de noviembre, sobre Prevención de Riesgos Laborales y en el Reglamento 
+de los Servicios de Prevención, aprobado por [Real Decreto 39/1997](../../../estatal/02_gestion_y_administracion_centros/RD39_1997_aprueba_reglamento_servicios_prevencion.md), de 17 enero, así como las 
 que se promulguen durante la ejecución del contrato.
 •
 La empresa o entidad adjudicataria tiene la obligación de adoptar las medidas necesarias 
@@ -1033,7 +1050,7 @@ salud en el trabajo que sean obligatorias para prevenir de manera rigurosa los r
 pueden afectar a la vida, integridad y salud de las personas trabajadoras.
 •
 Todo el personal contará con la cualificación necesaria, así como el certificado negativo de 
-delitos sexuales según lo dispuesto en la Ley 26/2015, de 28 de julio. Antes del inicio de la 
+delitos sexuales según lo dispuesto en la [Ley 26/2015](../../../estatal/01_marco_normativo_general_y_organico/L26_2015_modificacion_sistema_proteccion_infancia_adolescencia.md), de 28 de julio. Antes del inicio de la 
 actividad, la empresa o entidad adjudicataria deberá presentar los correspondientes 
 certificados y titulaciones de cada una de las personas contratadas para el desarrollo del 
 Proyecto.
@@ -1218,7 +1235,7 @@ protección de las personas físicas en lo que respecta al tratamiento de datos 
 circulación de estos datos y por el que se deroga la Directiva 95/46/CE, asumiéndolo expresamente.
 Undécima. Naturaleza jurídica.
 El presente contrato, de naturaleza administrativa, se regirá por lo dispuesto en sus cláusulas y, en todo 
-caso, por lo dispuesto en la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, por la que se 
+caso, por lo dispuesto en la [Ley 9/2017](../../../estatal/02_gestion_y_administracion_centros/L9_2017_contratos_sector_publico_transponen_ordenamiento_juridico.md), de 8 de noviembre, de Contratos del Sector Público, por la que se 
 transponen al ordenamiento jurídico español las Directivas del Parlamento Europeo y del Consejo 
 2014/23/UE y 2014/24/UE, de 26 de febrero de 2014, y demás normativa de aplicación, a la que 
 expresamente se somete la entidad contratista, siendo competente la Jurisdicción contencioso 

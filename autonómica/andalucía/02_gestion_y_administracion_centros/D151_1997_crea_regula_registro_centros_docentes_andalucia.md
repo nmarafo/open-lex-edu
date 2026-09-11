@@ -27,21 +27,22 @@ tags:
 relaciones:
   fundamentado_en:
   - norma_id: norm-es-c-1978
+fundamentos_derecho:
+- norma_id: norm-es-lo-8-1985
 ---
-
 # Decreto 151/1997, de 27 de mayo, por el que se crea y regula el Registro de Centros Docentes.
 
 ## Preámbulo
 El artículo 19, apartado 1, del Estatuto de Autonomía para Andalucía, establece que corresponde a la Comunidad Autónoma, la regulación y administración de la enseñanza en toda su extensión, niveles y grados, modalidades y especialidades en el ámbito de sus competencias, sin perjuicio de lo dispuesto en el artículo 2 de la Constitución y Leyes Orgánicas que, conforme al apartado 1 del artículo 81 de la misma, lo desarrollen; de las facultades que atribuye al Estado el número 30 del apartado 1 del artículo
 149 de la Constitución y de la alta inspección necesaria para su cumplimiento y garantía.
-La Ley Orgánica 8/1985, de 3 de julio, reguladora del Derecho a la Educación, en su artículo 13 especifica que todos los Centros docentes se inscribirán en un registro público dependiente de la Administración educativa competente.
+La [Ley Orgánica 8/1985](../../../estatal/02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md), de 3 de julio, reguladora del Derecho a la Educación, en su artículo 13 especifica que todos los Centros docentes se inscribirán en un registro público dependiente de la Administración educativa competente.
 Mediante el presente Decreto se crea un Registro Público donde quedarán inscritos los Centros docentes de la Comunidad Autónoma de Andalucía.
 En su virtud, a propuesta del Consejero de Educación y Ciencia, con informe del Consejo Escolar de Andalucía, y previa deliberación del Consejo de Gobierno en su reunión del día 27 de mayo de 1997,
 
 DISPONGO
 
 #### Artículo 1. Creación del Registro.
-Se crea el Registro de Centros Docentes en el que se inscribirán los centros docentes no universitarios, tanto los públicos como los privados, de acuerdo con lo previsto en la Ley Orgánica 8/1985, de 3 de julio, reguladora del Derecho a la Educación.
+Se crea el Registro de Centros Docentes en el que se inscribirán los centros docentes no universitarios, tanto los públicos como los privados, de acuerdo con lo previsto en la [Ley Orgánica 8/1985](../../../estatal/02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md), de 3 de julio, reguladora del Derecho a la Educación.
 
 #### Artículo 2. Dependencia.
 El Registro de Centros Docentes dependerá de la Dirección General de Planificación y Ordenación Educativa de la Consejería de Educación y Ciencia.

@@ -16,16 +16,32 @@ estado: Vigente
 redaccion: original
 fuente_oficial: http://www.juntadeandalucia.es/boja/2017/501/1
 fuente_pdf_oficial: http://www.juntadeandalucia.es/boja/pdf/2017/501/1
+clasificacion:
+  categoria_canonica: 05_alumnado_y_servicios_escolares
+  subcategoria: Educación Infantil
+fundamentos_derecho:
+- norma_id: norm-and-l12-2007-promocion-igualdad-genero-andalucia
+- norma_id: norm-and-l17-2007
+- norma_id: norm-and-l6-2006-gobierno-comunidad-autonoma-andalucia
+- norma_id: norm-and-l9-2007-administracion-junta-andalucia-laja
+- norma_id: norm-and-d149-2009-regulacion-centros-primer-ciclo-educacion-infantil-andalucia
+- norma_id: norm-and-d137-2002-apoyo-familias-andaluzas-servicios-educativos
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-es-l-19-2013
+- norma_id: norm-es-l-39-2015
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-1999-23750
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
 ---
-
 # Decreto-ley 1/2017, de 28 de marzo, de medidas urgentes para favorecer la escolarización en el primer ciclo de la educación infantil en Andalucía.
 
 ## Preámbulo
 
 Decreto-ley 1/2017, de 28 de marzo, de medidas urgentes para favorecer la 
 escolarización en el primer ciclo de la educación infantil en Andalucía.
-La educación infantil, según el artículo 12.1 de la Ley Orgánica 2/2006, de 3 de mayo, de 
-Educación, y el 41.1 de la Ley 17/2007, de 10 de diciembre, de Educación de Andalucía, 
+La educación infantil, según el artículo 12.1 de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de 
+Educación, y el 41.1 de la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre, de Educación de Andalucía, 
 constituye la etapa educativa con identidad propia que atiende a niños y niñas desde el 
 nacimiento hasta los seis años de edad. Tiene carácter voluntario y su finalidad es la de 
 contribuir a su desarrollo físico, afectivo, social e intelectual. 
@@ -53,7 +69,7 @@ territorial para la construcción y equipamiento de centros, o por los convenios
 financiación de plazas que se han venido suscribiendo entre la Junta de Andalucía y los 
 centros educativos de primer ciclo de educación infantil. Ello ha permitido abarcar aquellos 
 ámbitos territoriales donde no existen centros de titularidad de la Junta de Andalucía. 
-Con el Decreto 149/2009, de 12 de mayo, por el que se regulan los centros que 
+Con el [Decreto 149/2009](../02_gestion_y_administracion_centros/D149_2009_regulacion_centros_primer_ciclo_educacion_infantil_andalucia.md), de 12 de mayo, por el que se regulan los centros que 
 imparten el primer ciclo de la educación infantil, se estableció el marco normativo que 
 dotaba a este ciclo de un marcado carácter educativo y regulaba los requisitos para la 
 autorización de los centros, tanto técnicos como de titulación de los profesionales de los 
@@ -116,7 +132,7 @@ la Administración estaría atendiendo bonificaciones más altas sobre un precio
 ella misma, lo que repercutiría negativamente en el número de ayudas a conceder.
 El objeto del Programa de ayuda a las familias es la bonificación del precio de 
 los servicios de atención socioeducativa y de comedor escolar, determinados en el 
-Decreto 149/2009, de 12 de mayo. La cuantía y bonificaciones de los precios públicos 
+[Decreto 149/2009](../02_gestion_y_administracion_centros/D149_2009_regulacion_centros_primer_ciclo_educacion_infantil_andalucia.md), de 12 de mayo. La cuantía y bonificaciones de los precios públicos 
 correspondientes a estos servicios, que servirán de referencia para fijar el precio de los 
 mismos por los centros adheridos al Programa de ayuda, venían fijadas por Acuerdo de 
 7 de julio de 2009, de Consejo de Gobierno, dándose la circunstancia de que el precio de 
@@ -183,7 +199,7 @@ funcionamiento del sistema. Considerando además el horizonte temporal del proce
 admisión para este curso, que es inminente, no se podría abordar una nueva regulación 
 de las distintas medidas mediante una tramitación ordinaria, que no estaría finalizada 
 antes del inicio del próximo curso,sin que se pueda continuar con el modelo previsto en el 
-Decreto 149/2009, de 12 de mayo, y, concretamente, con el sistema de bonificaciones a 
+[Decreto 149/2009](../02_gestion_y_administracion_centros/D149_2009_regulacion_centros_primer_ciclo_educacion_infantil_andalucia.md), de 12 de mayo, y, concretamente, con el sistema de bonificaciones a 
 las familias a través de la suscripción de convenios con los centros, por cuanto ello podría 
 provocar graves perjuicios, como se ha venido exponiendo, en caso de que no se actuara 
 de forma inmediata.
@@ -217,7 +233,7 @@ del servicio con normalidad el próximo mes de septiembre y el acceso a un mayor
 de plazas. 
 Por todo ello, en el ejercicio de la facultad concedida por el artículo 110 del Estatuto de 
 Autonomía para Andalucía, a propuesta de la Consejera de Educación y de conformidad 
-con lo previsto en el artículo 27.3 de Ley 6/2006, de 24 de octubre, del Gobierno de la 
+con lo previsto en el artículo 27.3 de [Ley 6/2006](../01_marco_normativo_general_y_organico/L6_2006_gobierno_comunidad_autonoma_andalucia.md), de 24 de octubre, del Gobierno de la 
 Comunidad Autónoma de Andalucía, previa deliberación del Consejo de Gobierno, en su 
 reunión celebrada el día 28 de marzo de 2017, 
 D I S P O N G O
@@ -245,11 +261,11 @@ educativos específicos de primer ciclo de educación infantil, que no sean de t
 la Junta de Andalucía, autorizados en la Comunidad Autónoma de Andalucía, de acuerdo 
 con lo recogido en el Anexo II.
 
-### Disposición adicional primera. Aplicación del Decreto 149/2009, de 12 de mayo, a los
+### Disposición adicional primera. Aplicación del [Decreto 149/2009](../02_gestion_y_administracion_centros/D149_2009_regulacion_centros_primer_ciclo_educacion_infantil_andalucia.md), de 12 de mayo, a los
 
 centros adheridos al Programa de ayuda.
 Lo establecido para los centros de convenio en el Título II y en el Capítulo I del Título III  
-del Decreto 149/2009, de 12 de mayo, sobre organización, funcionamiento y servicios, 
+del [Decreto 149/2009](../02_gestion_y_administracion_centros/D149_2009_regulacion_centros_primer_ciclo_educacion_infantil_andalucia.md), de 12 de mayo, sobre organización, funcionamiento y servicios, 
 y admisión del alumnado y planificación de puestos escolares, será de aplicación a los 
 centros adheridos al Programa de ayuda. 
 00110907
@@ -318,7 +334,7 @@ Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan,
 contradigan o resulten incompatibles con lo dispuesto en el presente Decreto-ley y en 
 especial:
 a) La Sección Primera del Capítulo V, referida a «Centros educativos de primer ciclo 
-de educación infantil», del Decreto 137/2002, de 30 de abril, de apoyo a las familias 
+de educación infantil», del [Decreto 137/2002](./D137_2002_apoyo_familias_andaluzas_servicios_educativos.md), de 30 de abril, de apoyo a las familias 
 andaluzas.
 00110907
 
@@ -327,7 +343,7 @@ página 
 Depósito Legal: SE-410/1979. ISSN: 2253 - 802X	
 http://www.juntadeandalucia.es/eboja
 BOJA
-b) El Capítulo II del Título III del Decreto 149/2009, de 12 de mayo.
+b) El Capítulo II del Título III del [Decreto 149/2009](../02_gestion_y_administracion_centros/D149_2009_regulacion_centros_primer_ciclo_educacion_infantil_andalucia.md), de 12 de mayo.
 c) El apartado primero y el Anexo 1, relativos a los centros educativos de primer ciclo 
 de educación infantil, del Acuerdo de 7 de julio de 2009, del Consejo de Gobierno.
 
@@ -337,7 +353,7 @@ La Ley 3/2004, de 28 de diciembre, se modifica en los siguientes términos:
 Se modifica el primer párrafo del apartado 1 del artículo 41, que queda redactado de 
 la siguiente manera: 
 «1. Se crea, con la denominación de «Agencia Pública Andaluza de Educación», una 
-agencia pública empresarial de las previstas en el artículo 68.1.b) de la Ley 9/2007, de 22 
+agencia pública empresarial de las previstas en el artículo 68.1.b) de la [Ley 9/2007](../01_marco_normativo_general_y_organico/L9_2007_administracion_junta_andalucia_laja.md), de 22 
 de octubre, de la Administración de la Junta de Andalucía, adscrita a la Consejería que 
 tenga atribuidas las competencias en materia de educación no universitaria, con el objeto 
 de llevar a cabo la gestión de las infraestructuras educativas y servicios complementarios 
@@ -382,9 +398,9 @@ Depósito Legal: SE-410/1979. ISSN: 2253 - 802X
 http://www.juntadeandalucia.es/eboja
 BOJA
 
-### Disposición final tercera. Modificación del Decreto 149/2009, de 12 de mayo.
+### Disposición final tercera. Modificación del [Decreto 149/2009](../02_gestion_y_administracion_centros/D149_2009_regulacion_centros_primer_ciclo_educacion_infantil_andalucia.md), de 12 de mayo.
 
-El Decreto 149/2009, de 12 de mayo, queda modificado de la siguiente forma:
+El [Decreto 149/2009](../02_gestion_y_administracion_centros/D149_2009_regulacion_centros_primer_ciclo_educacion_infantil_andalucia.md), de 12 de mayo, queda modificado de la siguiente forma:
 Se modifica el artículo 33 con la siguiente redacción: 
 «1. Los padres, madres o personas que ejerzan la tutela financiarán los servicios 
 prestados a los niños y niñas que estén bajo su representación legal en las escuelas 
@@ -400,10 +416,10 @@ ingresos de la unidad familiar.»
 ### Disposición final cuarta. Precio público y sistema de bonificaciones aplicables
 
 a los centros de titularidad de la Junta de Andalucía correspondientes a los servicios 
-establecidos en el Decreto 149/2009, de 12 de mayo. 
+establecidos en el [Decreto 149/2009](../02_gestion_y_administracion_centros/D149_2009_regulacion_centros_primer_ciclo_educacion_infantil_andalucia.md), de 12 de mayo. 
 1. La cuantía y bonificaciones de los precios públicos aplicables a los centros de 
 titularidad de la Junta de Andalucía correspondientes a los servicios establecidos en el 
-Decreto 149/2009, de 12 de mayo, son las que se señalan en el Anexo III.
+[Decreto 149/2009](../02_gestion_y_administracion_centros/D149_2009_regulacion_centros_primer_ciclo_educacion_infantil_andalucia.md), de 12 de mayo, son las que se señalan en el Anexo III.
 2. Las cuantías y bonificaciones de los precios públicos previstas serán aplicables a 
 partir del curso escolar 2017-2018.
 
@@ -454,7 +470,7 @@ Primera. Objeto.
 a las familias para fomentar la escolarización de los niños y niñas menores de 3 años 
 en los centros educativos específicos de primer ciclo de educación infantil mediante la 
 bonificación del precio de los servicios de atención socioeducativa y de comedor escolar, 
-determinados en el Decreto 149/2009, de 12 de mayo. El Programa de ayuda tiene 
+determinados en el [Decreto 149/2009](../02_gestion_y_administracion_centros/D149_2009_regulacion_centros_primer_ciclo_educacion_infantil_andalucia.md), de 12 de mayo. El Programa de ayuda tiene 
 carácter anual y, por tanto, las ayudas tendrán que solicitarse para cada curso escolar.
 2. La bonificación del precio del servicio de atención socioeducativa se determinará 
 en función del precio fijado por los centros adheridos al Programa de ayuda, siendo éste 
@@ -489,7 +505,7 @@ d) Ley del Presupuesto de la Comunidad Autónoma de Andalucía, vigente.
 e) Reglamento de los Procedimientos de Concesión de Subvenciones de la 
 Administración de la Junta de Andalucía, aprobado mediante Decreto 282/2010, de 4 de 
 mayo.
-f) Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las 
+f) [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Administrativo Común de las 
 Administraciones Públicas. 
 00110907
 
@@ -498,14 +514,14 @@ página 10
 Depósito Legal: SE-410/1979. ISSN: 2253 - 802X	
 http://www.juntadeandalucia.es/eboja
 BOJA
-g) Ley 9/2007, de 22 de octubre, de la Administración de la Junta de Andalucía.
-h) Ley 12/2007, de 26 de noviembre, para la promoción de la igualdad de género en 
+g) [Ley 9/2007](../01_marco_normativo_general_y_organico/L9_2007_administracion_junta_andalucia_laja.md), de 22 de octubre, de la Administración de la Junta de Andalucía.
+h) [Ley 12/2007](../01_marco_normativo_general_y_organico/L12_2007_promocion_igualdad_genero_andalucia.md), de 26 de noviembre, para la promoción de la igualdad de género en 
 Andalucía.
 i) Decreto 183/2003, de 24 de junio, por el que se regula la información y atención 
 al ciudadano y la tramitación de procedimientos administrativos por medios electrónicos 
 (Internet).
 j) Ley 1/2014, de 24 de junio, de Transparencia Pública de Andalucía.
-k) Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública 
+k) [Ley 19/2013](../../../estatal/01_marco_normativo_general_y_organico/L19_2013_transparencia_acceso_informacion_publica_buen_gobierno.md), de 9 de diciembre, de transparencia, acceso a la información pública 
 y buen gobierno, de acuerdo con lo establecido en su disposición final octava.
 Tercera. Requisitos de las personas beneficiarias.
 1. Podrán ser personas beneficiarias de estas ayudas el representante o los 
@@ -628,7 +644,7 @@ b) Aceptar la cesión del cobro de dichas ayudas por parte de las personas benef
 detrayéndolas del precio a abonar mensualmente por estas, y, en su caso, reintegrar las 
 cantidades percibidas por ellas que no cumplan con las condiciones establecidas.
 c) Aplicar lo dispuesto para los centros de convenio en el Título II y en el Capítulo I 
-del Título III del Decreto 149/2009, de 12 de mayo, sobre organización, funcionamiento y 
+del Título III del [Decreto 149/2009](../02_gestion_y_administracion_centros/D149_2009_regulacion_centros_primer_ciclo_educacion_infantil_andalucia.md), de 12 de mayo, sobre organización, funcionamiento y 
 servicios, y admisión del alumnado y planificación de puestos escolares, y en la Orden de 
 8 de marzo de 2011. 
 d) Fijar el precio del servicio de atención socioeducativa establecido en el Decreto 
@@ -768,7 +784,7 @@ Decimotercera. Trámite de audiencia.
 La Agencia Pública Andaluza de Educación, como órgano instructor, tras haber 
 emitido la propuesta de resolución, concederá un plazo de 5 días para que las personas 
 interesadas puedan alegar lo que estimen pertinente, en los términos que prevé el artículo 
-82 de la Ley 39/2015, de 1 de octubre.
+82 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre.
 Decimocuarta. Resolución.
 1. La resolución del procedimiento será dictada por la Dirección General de la Agencia 
 Pública Andaluza de Educación una vez analizadas las alegaciones presentadas durante 
@@ -811,7 +827,7 @@ entender desestimada por silencio administrativo la solicitud de concesión de l
 acuerdo a lo dispuesto en el artículo 25.5 de la Ley 38/2003, de 17 de noviembre.
 4. Contra dicha resolución, que agota la vía administrativa, podrá interponerse, 
 potestativamente, recurso de reposición, conforme a lo dispuesto en los artículos 123 y 
-124 de la Ley 39/2015, de 1 de octubre, y 115.2 de la Ley 9/2007, de 22 de octubre, en 
+124 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, y 115.2 de la [Ley 9/2007](../01_marco_normativo_general_y_organico/L9_2007_administracion_junta_andalucia_laja.md), de 22 de octubre, en 
 relación con el artículo 64.1 de esta última Ley, o bien, directamente, recurso contencioso-
 administrativo de acuerdo con lo previsto en los artículos 10 y 46.1 de la Ley 29/1998, de 
 13 de julio, reguladora de la Jurisdicción Contencioso-Administrativa.
@@ -824,7 +840,7 @@ una reseña informando de la publicación de dichos actos.
 En todo caso, esta publicación sustituye a la notificación personal y surtirá sus mismos 
 efectos. Las publicaciones reguladas en el párrafo anterior que afecten a datos de las 
 personas cuando por razón del objeto de la ayuda puedan contener datos de carácter 
-personal en virtud de lo establecido en la Ley Orgánica 15/1999, de 13 de diciembre, de 
+personal en virtud de lo establecido en la [Ley Orgánica 15/1999](../../../estatal/02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md), de 13 de diciembre, de 
 Protección de Datos de Carácter Personal, se limitarán a contener una somera indicación 
 del contenido del acto y del lugar donde las personas interesadas podrán comparecer, en 
 el plazo que se establezca, para conocimiento del contenido íntegro del mencionado acto 
@@ -1044,7 +1060,7 @@ Oficial de la Junta de Andalucía, al menos con el mismo contenido que la propue
 Así mismo, a efectos informativos se publicará en la página web www.juntadeandalucia.
 es/educacion.
 3. Contra dicha resolución, que no agota la vía administrativa, podrá interponerse 
-recurso de alzada en los términos establecidos en el artículo 121 de la Ley 39/2015, de 1 
+recurso de alzada en los términos establecidos en el artículo 121 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 
 de octubre, ante la persona titular de la Consejería competente en materia de educación.
 Séptima. Convenio de las entidades colaboradoras del Programa de ayuda.
 1. Los centros adheridos al Programa de ayuda se constituirán como entidades 
@@ -1069,10 +1085,10 @@ BOJA
 
 CUANTÍA Y BONIFICACIONES DE LOS PRECIOS PÚBLICOS APLICABLES A LOS 
 CENTROS DE TITULARIDAD DE LA JUNTA DE ANDALUCÍA, CORRESPONDIENTES 
-A LOS SERVICIOS ESTABLECIDOS EN EL DECRETO 149/2009, DE 12 DE MAYO.
+A LOS SERVICIOS ESTABLECIDOS EN EL [DECRETO 149/2009](../02_gestion_y_administracion_centros/D149_2009_regulacion_centros_primer_ciclo_educacion_infantil_andalucia.md), DE 12 DE MAYO.
 Se aprueba la cuantía y las bonificaciones de los precios públicos aplicables a 
 los centros de titularidad de la Junta de Andalucía, correspondientes a los servicios 
-establecidos en el Decreto 149/2009, de 12 de mayo, de acuerdo con lo siguiente:
+establecidos en el [Decreto 149/2009](../02_gestion_y_administracion_centros/D149_2009_regulacion_centros_primer_ciclo_educacion_infantil_andalucia.md), de 12 de mayo, de acuerdo con lo siguiente:
 Primera. Servicio de atención socioeducativa.
 1. Precio del servicio.
 Precio mensual: 209,16 euros. 

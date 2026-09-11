@@ -233,8 +233,18 @@ relaciones:
   - norma_id: norm-es-2021-20113
   - norma_id: norm-es-2010-12201
   - norma_id: norm-es-2007-22017
+fundamentos_derecho:
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-2001-7022
+- norma_id: norm-es-2015-8043
+- norma_id: norm-es-2016-3229
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2005-21534
+- norma_id: norm-es-2010-12201
+- norma_id: norm-es-2007-22017
+- norma_id: norm-es-2023-9553
 ---
-
 # Real Decreto 1834/2008, de 8 de noviembre, por el que se definen las condiciones de formación para el ejercicio de la docencia en la educación secundaria obligatoria, el bachillerato, la formación profesional y las enseñanzas de régimen especial y se establecen las especialidades de los cuerpos docentes de enseñanza secundaria.
 
 ## Preámbulo
@@ -245,7 +255,7 @@ En su virtud, a propuesta de la Ministra de Educación, Política Social y Depor
 
 1. Este real decreto tiene por objeto establecer las especialidades docentes de los cuerpos de funcionarios que tienen a su cargo la enseñanza en la educación secundaria obligatoria, el bachillerato y la formación profesional
 
-2. Asimismo, este real decreto tiene por objeto determinar la validez de los títulos universitarios oficiales de máster para acreditar la formación pedagógica y didáctica exigida por la Ley Orgánica 2/2006, de 3 de mayo, de Educación para ejercer la docencia en determinadas enseñanzas del sistema educativo.
+2. Asimismo, este real decreto tiene por objeto determinar la validez de los títulos universitarios oficiales de máster para acreditar la formación pedagógica y didáctica exigida por la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación para ejercer la docencia en determinadas enseñanzas del sistema educativo.
 
 #### Artículo 2. Especialidades docentes.
 
@@ -267,9 +277,9 @@ En su virtud, a propuesta de la Ministra de Educación, Política Social y Depor
 
 establece la ordenación general de la formación profesional del sistema educativo. Los módulos profesionales asignados a las distintas especialidades de formación profesional contenidas en los reales decretos reguladores de las titulaciones y cursos de especialización de estas enseñanzas, se entenderán referidos a las especialidades correspondientes de los cuerpos de la función pública docente.
 
-2. La atribución docente de las enseñanzas de formación profesional reguladas al amparo de la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo se ajustará a la normativa aplicable a dichas enseñanzas. En todo caso, la atribución docente a especialidades del cuerpo de profesores de enseñanza secundaria se extenderá a las especialidades docentes del cuerpo de catedráticos de enseñanza secundaria que se establecen en este real decreto.
+2. La atribución docente de las enseñanzas de formación profesional reguladas al amparo de la [Ley Orgánica 1/1990](./LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md), de 3 de octubre, de Ordenación General del Sistema Educativo se ajustará a la normativa aplicable a dichas enseñanzas. En todo caso, la atribución docente a especialidades del cuerpo de profesores de enseñanza secundaria se extenderá a las especialidades docentes del cuerpo de catedráticos de enseñanza secundaria que se establecen en este real decreto.
 
-3. En relación con los centros integrados de formación profesional, se estará a lo dispuesto, en materia de docencia, información y orientación profesional, en el Real Decreto 1558/2005, de 23 de diciembre, por el que se regulan los requisitos básicos de los centros integrados de formación profesional.
+3. En relación con los centros integrados de formación profesional, se estará a lo dispuesto, en materia de docencia, información y orientación profesional, en el [Real Decreto 1558/2005](../03_ordenacion_curricular_y_ensenanzas/RD1558_2005_regulan_requisitos_basicos_centros_integrados_formacion.md), de 23 de diciembre, por el que se regulan los requisitos básicos de los centros integrados de formación profesional.
 
 #### Artículo 5. Asignación de materias de libre configuración autonómica.
 
@@ -281,7 +291,7 @@ establece la ordenación general de la formación profesional del sistema educat
 
 #### Artículo 7. Docencia en otras enseñanzas.
 
-1. Los funcionarios de los cuerpos de catedráticos de enseñanza secundaria y de profesores de enseñanza secundaria de las especialidades docentes de lenguas extranjeras podrán excepcionalmente impartir enseñanzas de las lenguas respectivas en la etapa de educación primaria, en aplicación de lo dispuesto en la disposición adicional séptima de la Ley Orgánica 2/2006, de 3 de mayo, de Educación. Las Administraciones educativas regularán en sus ámbitos respectivos el ejercicio de esta posibilidad, que comportará en todo caso la voluntariedad de los interesados y no tendrá efectos en las plantillas estables de los centros.
+1. Los funcionarios de los cuerpos de catedráticos de enseñanza secundaria y de profesores de enseñanza secundaria de las especialidades docentes de lenguas extranjeras podrán excepcionalmente impartir enseñanzas de las lenguas respectivas en la etapa de educación primaria, en aplicación de lo dispuesto en la disposición adicional séptima de la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación. Las Administraciones educativas regularán en sus ámbitos respectivos el ejercicio de esta posibilidad, que comportará en todo caso la voluntariedad de los interesados y no tendrá efectos en las plantillas estables de los centros.
 
 2. Asimismo, los profesores de las especialidades de lenguas extranjeras de los cuerpos citados podrán ejercer la docencia en el nivel básico de las enseñanzas de idiomas de régimen especial, cuando dicho nivel básico se organice en institutos de educación secundaria.
 
@@ -292,15 +302,15 @@ establece la ordenación general de la formación profesional del sistema educat
 #### Artículo 9. Formación pedagógica y didáctica.
 
 Para ejercer la docencia en la educación secundara obligatoria, el bachillerato, la formación profesional y la enseñanza de idiomas, será necesario estar en posesión de un
-título oficial de máster que acredite la formación pedagógica y didáctica de acuerdo con lo exigido por los artículos 94, 95 y 97 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación. Para ello, será necesario que el correspondiente título de máster cumpla las condiciones establecidas en el Acuerdo de Consejo de Ministros de 14 de diciembre de 2007, por el que se establecen las condiciones a las que deberán adecuarse los planes de estudios conducentes a la obtención de títulos que habiliten para el ejercicio de las profesiones reguladas de Profesor de Educación Secundaria Obligatoria y Bachillerato, Formación Profesional y Enseñanzas de Idiomas y haya sido verificado de acuerdo con lo dispuesto en la Orden ECI/3858/2007, de 27 de diciembre, por la que se establecen los requisitos de verificación de los títulos universitarios oficiales que habiliten para el ejercicio de las profesiones de profesor de educación secundaria Obligatoria y bachillerato, Formación profesional y Enseñanza de Idiomas.
+título oficial de máster que acredite la formación pedagógica y didáctica de acuerdo con lo exigido por los artículos 94, 95 y 97 de la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación. Para ello, será necesario que el correspondiente título de máster cumpla las condiciones establecidas en el Acuerdo de Consejo de Ministros de 14 de diciembre de 2007, por el que se establecen las condiciones a las que deberán adecuarse los planes de estudios conducentes a la obtención de títulos que habiliten para el ejercicio de las profesiones reguladas de Profesor de Educación Secundaria Obligatoria y Bachillerato, Formación Profesional y Enseñanzas de Idiomas y haya sido verificado de acuerdo con lo dispuesto en la Orden ECI/3858/2007, de 27 de diciembre, por la que se establecen los requisitos de verificación de los títulos universitarios oficiales que habiliten para el ejercicio de las profesiones de profesor de educación secundaria Obligatoria y bachillerato, Formación profesional y Enseñanza de Idiomas.
 
 #### Disposición adicional primera. Formación pedagógica y didáctica del profesorado que no.
 
-puede acceder a los estudios de máster. La formación pedagógica y didáctica del profesorado que, por razones derivadas de su titulación, no pueda acceder a los estudios de máster a los que se refiere este real decreto, se acreditará mediante una formación equivalente a la exigida en el artículo 100 de la Ley Orgánica 2/2006, de 3 de mayo, en las condiciones que establezca el Ministerio de Educación, Política Social y Deporte.
+puede acceder a los estudios de máster. La formación pedagógica y didáctica del profesorado que, por razones derivadas de su titulación, no pueda acceder a los estudios de máster a los que se refiere este real decreto, se acreditará mediante una formación equivalente a la exigida en el artículo 100 de la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, en las condiciones que establezca el Ministerio de Educación, Política Social y Deporte.
 
 #### Disposición adicional segunda. Profesorado de cuerpos declarados a extinguir.
 
-Las Administraciones educativas determinarán, en sus ámbitos respectivos, qué materias y módulos de la educación secundaria obligatoria, del bachillerato y de la formación profesional del sistema educativo podrán impartir los profesores pertenecientes a los cuerpos docentes declarados a extinguir por las normas anteriores a la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo. En dicha determinación se tendrán en cuenta las áreas, materias o módulos que actualmente estén impartiendo.
+Las Administraciones educativas determinarán, en sus ámbitos respectivos, qué materias y módulos de la educación secundaria obligatoria, del bachillerato y de la formación profesional del sistema educativo podrán impartir los profesores pertenecientes a los cuerpos docentes declarados a extinguir por las normas anteriores a la [Ley Orgánica 1/1990](./LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md), de 3 de octubre, de Ordenación General del Sistema Educativo. En dicha determinación se tendrán en cuenta las áreas, materias o módulos que actualmente estén impartiendo.
 
 #### Disposición adicional tercera. Atribución docente para la materia de Cultura audiovisual.
 
@@ -320,7 +330,7 @@ Las Administraciones educativas regularán los requisitos de formación añadido
 
 #### Disposición adicional séptima. Formación pedagógica y didáctica para ejercer la docencia.
 
-en las Enseñanzas Artísticas profesionales y en las Enseñanzas Deportivas. Los títulos universitarios oficiales de máster a los que se refiere el artículo 9.1, acreditan asimismo la formación pedagógica y didáctica que en los artículos 96 y 98, en relación con el artículo 100 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, se exigen para ejercer.
+en las Enseñanzas Artísticas profesionales y en las Enseñanzas Deportivas. Los títulos universitarios oficiales de máster a los que se refiere el artículo 9.1, acreditan asimismo la formación pedagógica y didáctica que en los artículos 96 y 98, en relación con el artículo 100 de la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, se exigen para ejercer.
 
 la docencia en las enseñanzas artísticas profesionales y en las enseñanzas deportivas. El Ministerio de Educación, Política Social y Deporte completará a estos efectos el contenido de la citada Orden ECI/3858/2007, de 27 de diciembre.
 
@@ -348,11 +358,11 @@ En tanto no se regulen las especialidades y consiguiente atribución de docencia
 
 #### Disposición transitoria tercera. Acreditación de formación pedagógica y didáctica.
 
-1. De acuerdo con lo que establece el Real Decreto 806/2006, de 30 de junio, por el que se establece el calendario de aplicación de la nueva ordenación del sistema educativo, establecida por la Ley Orgánica 2/2006, de 3 de mayo, de Educación, en su disposición adicional primera, las Administraciones educativas podrán seguir organizando las enseñanzas conducentes al Certificado de Aptitud Pedagógica hasta el año académico 2008-2009. 2. Asimismo los títulos profesionales de Especialización Didáctica y el Certificado de Cualificación Pedagógica organizados por las universidades al amparo de lo establecido en la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo, obtenidos antes del 1 de octubre de 2009 acreditarán la formación pedagógica y didáctica a la que se refiere el artículo 100 de la citada Ley Orgánica.
+1. De acuerdo con lo que establece el Real Decreto 806/2006, de 30 de junio, por el que se establece el calendario de aplicación de la nueva ordenación del sistema educativo, establecida por la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, en su disposición adicional primera, las Administraciones educativas podrán seguir organizando las enseñanzas conducentes al Certificado de Aptitud Pedagógica hasta el año académico 2008-2009. 2. Asimismo los títulos profesionales de Especialización Didáctica y el Certificado de Cualificación Pedagógica organizados por las universidades al amparo de lo establecido en la [Ley Orgánica 1/1990](./LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md), de 3 de octubre, de Ordenación General del Sistema Educativo, obtenidos antes del 1 de octubre de 2009 acreditarán la formación pedagógica y didáctica a la que se refiere el artículo 100 de la citada Ley Orgánica.
 
-3. A partir de la citada fecha de 1 de octubre de 2009, los títulos que habilitan para el ejercicio de las profesiones reguladas de Profesor de Educación Secundaria Obligatoria y Bachillerato, Formación Profesional y Escuelas Oficiales de Idiomas deberán ajustarse a la Resolución de 17 de diciembre de 2007, de la Secretaría de Estado de Universidades e Investigación, por la que se publica el Acuerdo de Consejo de Ministros de 14 de diciembre de 2007. #### Disposición transitoria cuarta. Equivalencia de la docencia impartida a la formación.
+3. A partir de la citada fecha de 1 de octubre de 2009, los títulos que habilitan para el ejercicio de las profesiones reguladas de Profesor de Educación Secundaria Obligatoria y Bachillerato, Formación Profesional y Escuelas Oficiales de Idiomas deberán ajustarse a la [Resolución de 17 de diciembre de 2007](../08_personal_docente/R17_12_2007_secretaria_estado_universidades_e_investigacion_publica.md), de la Secretaría de Estado de Universidades e Investigación, por la que se publica el Acuerdo de Consejo de Ministros de 14 de diciembre de 2007. #### Disposición transitoria cuarta. Equivalencia de la docencia impartida a la formación.
 
-pedagógica y didáctica. A quienes acrediten que antes del término del curso 2008-2009 han impartido docencia durante dos cursos académicos completos o, en su defecto, 12 meses en períodos continuos o discontinuos, en centros públicos o privados de enseñanza reglada debidamente autorizados, en los niveles y enseñanzas cuyas especialidades docentes se regulan en este real decreto, se les reconocerá dicha docencia como equivalente a la formación pedagógica y didáctica establecida en el artículo 100.2 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+pedagógica y didáctica. A quienes acrediten que antes del término del curso 2008-2009 han impartido docencia durante dos cursos académicos completos o, en su defecto, 12 meses en períodos continuos o discontinuos, en centros públicos o privados de enseñanza reglada debidamente autorizados, en los niveles y enseñanzas cuyas especialidades docentes se regulan en este real decreto, se les reconocerá dicha docencia como equivalente a la formación pedagógica y didáctica establecida en el artículo 100.2 de la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación.
 
 #### Disposición transitoria quinta. Sobre especialidades del Cuerpo de Profesores de.
 
@@ -360,7 +370,7 @@ Enseñanza Secundaria. Las especialidades de Cocina y pastelería, Estética, Fa
 
 #### Disposición adicional undécima. de la Ley Orgánica 3/2020, de 29 de diciembre, por la que se.
 
-modifica la Ley Orgánica 2/2006, de 3 de mayo, de Educación, se considerarán como especialidades del Cuerpo de Profesores de Enseñanza Secundaria.
+modifica la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, se considerarán como especialidades del Cuerpo de Profesores de Enseñanza Secundaria.
 
 #### Disposición derogatoria única. Derogación normativa.
 
@@ -399,12 +409,12 @@ Asignación de materias a la que se refiere el apartado 3 del artículo 3 (Derog
 ## Anexo VI
 
 Asignación de módulos profesionales de los bloques comunes de los ciclos de Formación Profesional Básica a las especialidades docentes de los cuerpos de catedráticos de enseñanza secundaria y de profesores de enseñanza secundaria (Derogado). Información relacionada
-• Téngase en cuenta que las derogaciones y modificaciones efectuadas por el Real Decreto 286/2023, de 18 de abril. Ref. BOE-A-2023-9553, se aplicarán según lo establecido en la
+• Téngase en cuenta que las derogaciones y modificaciones efectuadas por el [Real Decreto 286/2023](../08_personal_docente/RD286_2023_regula_asignacion_materias_educacion_secundaria_obligatoria.md), de 18 de abril. Ref. BOE-A-2023-9553, se aplicarán según lo establecido en la
 
 #### Disposición transitoria única.1.... y en el calendario de implantación regulado en la disposición.
 
 final 9 del citado Real Decreto.
-• Téngase en cuenta que las modificaciones efectuadas por el Real Decreto 665/2015, de 17 de julio. Ref. BOE-A-2015-8043., se aplicarán según el calendario de implantación establecido en la disposición final 5 de la Ley Orgánica 8/2013, de 9 de diciembre, según se indica en la
+• Téngase en cuenta que las modificaciones efectuadas por el [Real Decreto 665/2015](./RD665_2015_desarrollan_determinadas_disposiciones_relativas_ejercicio_docencia.md), de 17 de julio. Ref. BOE-A-2015-8043., se aplicarán según el calendario de implantación establecido en la disposición final 5 de la [Ley Orgánica 8/2013](../03_ordenacion_curricular_y_ensenanzas/LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md), de 9 de diciembre, según se indica en la
 
 #### Disposición final 1.... del citado Real Decreto.
 

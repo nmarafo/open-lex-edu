@@ -24,9 +24,15 @@ tags:
 - bachillerato
 - excelencia-academica
 - canarias
+fundamentos_derecho:
+- norma_id: norm-mad-l1-1983-gobierno-administracion-comunidad-madrid
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-2001-7022
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
+- norma_id: norm-es-2010-4518
 ---
-
-# Orden de 20 de diciembre de 2011, por la que se crean los Premios Extraordinarios de Bachillerato, reconocidos por la Ley Orgánica 2/2006, de 3 de mayo, de Educación, en el ámbito de la Comunidad Autónoma de Canarias.
+# Orden de 20 de diciembre de 2011, por la que se crean los Premios Extraordinarios de Bachillerato, reconocidos por la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, en el ámbito de la Comunidad Autónoma de Canarias.
 
 ## Preámbulo
 
@@ -42,7 +48,7 @@ I. DISPOSICIONES GENERALES - Consejería de Educación, Universidades y Sostenib
 
 
 ### 240
-          ORDEN de 20 de diciembre de 2011, por la que se crean los Premios Extraordinarios de Bachillerato, reconocidos por la Ley Orgánica 2/2006, de 3 de mayo, de Educación, en el ámbito de la Comunidad Autónoma de Canarias.
+          ORDEN de 20 de diciembre de 2011, por la que se crean los Premios Extraordinarios de Bachillerato, reconocidos por la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, en el ámbito de la Comunidad Autónoma de Canarias.
           
 4 páginas. Formato de archivo en PDF/Adobe Acrobat. Tamaño: 42  Kb.
 
@@ -56,7 +62,7 @@ Hasta ahora la Comunidad Autónoma de Canarias y el propio Ministerio de Educaci
 
 La implantación del nuevo Bachillerato hace necesaria la creación de unos nuevos Premios Extraordinarios de Bachillerato que incentiven y reconozcan el esfuerzo y la dedicación del alumnado que curse estos estudios con una trayectoria académica cualificada.
 
-En tal sentido, la presente Orden desarrolla y actualiza el procedimiento en la Comunidad Autónoma de Canarias para optar a los Premios Extraordinarios de Bachillerato, reconocidos por la Ley Orgánica 2/2006, de 3 de mayo, de Educación, la cual sustituye a la anterior regulación contenida en la Orden de 18 de enero de 2000, por la que se convocan los Premios Extraordinarios de las modalidades de Bachillerato, regulado por la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo, en el ámbito de la Comunidad Autónoma de Canarias (BOC nº 23, de 23.2.00). Para ello, se establece el procedimiento para la participación del alumnado que haya obtenido el Premio Extraordinario de Bachillerato de Canarias en la convocatoria anual de los Premios Nacionales de Bachillerato regulados en la Orden EDU/2058/2010, de 13 de julio, por la que se regulan los Premios Nacionales de Bachillerato establecidos por la Ley Orgánica 2/2006, de 3 de mayo, de Educación (BOE nº 183, de 29.7.10).
+En tal sentido, la presente Orden desarrolla y actualiza el procedimiento en la Comunidad Autónoma de Canarias para optar a los Premios Extraordinarios de Bachillerato, reconocidos por la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, la cual sustituye a la anterior regulación contenida en la Orden de 18 de enero de 2000, por la que se convocan los Premios Extraordinarios de las modalidades de Bachillerato, regulado por la [Ley Orgánica 1/1990](../../../estatal/02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md), de 3 de octubre, de Ordenación General del Sistema Educativo, en el ámbito de la Comunidad Autónoma de Canarias (BOC nº 23, de 23.2.00). Para ello, se establece el procedimiento para la participación del alumnado que haya obtenido el Premio Extraordinario de Bachillerato de Canarias en la convocatoria anual de los Premios Nacionales de Bachillerato regulados en la Orden EDU/2058/2010, de 13 de julio, por la que se regulan los Premios Nacionales de Bachillerato establecidos por la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación (BOE nº 183, de 29.7.10).
 
 En dicha norma estatal se determina, entre otros aspectos, que podrá optar a dichos premios el alumnado que haya obtenido previamente Premio Extraordinario de Bachillerato en el ámbito de gestión directa del Ministerio de Educación o de la Comunidad Autónoma en que haya finalizado dichas enseñanzas y que, además cumplan los otros requisitos establecidos en la antedicha Orden. En concreto, su artículo 4 determina que las Administraciones educativas podrán convocar y conceder Premios Extraordinarios de Bachillerato en sus respectivos ámbitos de competencias, así como regular en sus correspondientes convocatorias todos los aspectos referidos a las pruebas para la concesión de estos premios.
 
@@ -64,7 +70,7 @@ En ese contexto, es necesario adecuar la regulación aplicada en Canarias para, 
 
 De acuerdo con el artículo 3 del Decreto 86/2011, de 8 de julio, del Presidente, por el que se determinan el número, denominación y competencias de las Consejerías, la Consejería de Educación, Universidades y Sostenibilidad asume las competencias que legal y reglamentariamente tenía atribuidas la Consejería de Educación, Universidades, Cultura y Deportes, excepto las correspondientes a las áreas competenciales de cultura y deportes que se encomiendan a la Consejería de Cultura, Deportes, Políticas Sociales y Vivienda.
 
-Por lo expuesto, en virtud de las competencias atribuidas en el artículo 32, apartado c), de la Ley 1/1983, de 14 de abril, del Gobierno y de la Administración Pública de la Comunidad Autónoma de Canarias, el artículo 5, apartado 1, letra a), del Reglamento Orgánico de la Consejería de Educación, Cultura y Deportes (BOC nº 148, de 1 de agosto), aprobado por el Decreto 113/2006, de 26 de julio, previo informe preceptivo del Consejo Escolar de Canarias, a iniciativa del Director General de Centros e Infraestructura Educativa y a propuesta de la Viceconsejera de Educación y Universidades,
+Por lo expuesto, en virtud de las competencias atribuidas en el artículo 32, apartado c), de la [Ley 1/1983](../../madrid/01_marco_normativo_general_y_organico/L1_1983_gobierno_administracion_comunidad_madrid.md), de 14 de abril, del Gobierno y de la Administración Pública de la Comunidad Autónoma de Canarias, el artículo 5, apartado 1, letra a), del Reglamento Orgánico de la Consejería de Educación, Cultura y Deportes (BOC nº 148, de 1 de agosto), aprobado por el Decreto 113/2006, de 26 de julio, previo informe preceptivo del Consejo Escolar de Canarias, a iniciativa del Director General de Centros e Infraestructura Educativa y a propuesta de la Viceconsejera de Educación y Universidades,
 
 D I S P O N G O:
 
@@ -72,9 +78,9 @@ D I S P O N G O:
 #### Artículo 1.- Objeto y ámbito de aplicación.
 
 
-El objeto de la presente Orden es la creación, en el ámbito de la Comunidad Autónoma de Canarias, de los Premios Extraordinarios de Bachillerato reconocidos por la Ley Orgánica 2/2006, de 3 de mayo, de Educación, como reconocimiento al alumnado que haya cursado esta etapa con especial aprovechamiento, conforme a lo que determina el artículo 4 de la Orden del Ministerio de Educación EDU/2058/2010, de 13 de julio, estableciendo las bases reguladoras de estos premios y el procedimiento para la participación del alumnado que los obtenga en la convocatoria anual de los Premios Nacionales de Bachillerato.
+El objeto de la presente Orden es la creación, en el ámbito de la Comunidad Autónoma de Canarias, de los Premios Extraordinarios de Bachillerato reconocidos por la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, como reconocimiento al alumnado que haya cursado esta etapa con especial aprovechamiento, conforme a lo que determina el artículo 4 de la Orden del Ministerio de Educación EDU/2058/2010, de 13 de julio, estableciendo las bases reguladoras de estos premios y el procedimiento para la participación del alumnado que los obtenga en la convocatoria anual de los Premios Nacionales de Bachillerato.
 
-Su ámbito de aplicación será el alumnado que haya finalizado cualquiera de las modalidades del Bachillerato establecidas en la Ley Orgánica 2/2006, de 3 de mayo, de Educación, en los Institutos de Educación Secundaria y demás centros, públicos o privados, que impartan esta enseñanza en el ámbito territorial de la Consejería de Educación, Universidades y Sostenibilidad.
+Su ámbito de aplicación será el alumnado que haya finalizado cualquiera de las modalidades del Bachillerato establecidas en la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, en los Institutos de Educación Secundaria y demás centros, públicos o privados, que impartan esta enseñanza en el ámbito territorial de la Consejería de Educación, Universidades y Sostenibilidad.
 
 
 #### Artículo 2.- Alumnado destinatario.
@@ -134,7 +140,7 @@ d) Cuarto ejercicio: versará sobre una de las materias de la modalidad de Bachi
 #### Artículo 7.- Tribunales calificadores.
 
 
-1. Los Tribunales encargados de supervisar y evaluar las pruebas estarán presididos por un Inspector o Inspectora de Educación con especialidad en alguna de las materias objeto de la prueba, adquirida en el cuerpo de procedencia de Enseñanza Secundaria. Como vocales actuarán Profesores o Profesoras de Secundaria que pertenecerán a los Cuerpos de Catedráticos o Profesores de Enseñanza Secundaria e Inspectores de Educación, especialistas en las distintas materias objeto de la prueba, designados por la persona titular de la Inspección General de Educación que tendrá en cuenta la representación equilibrada entre géneros, según lo establecido en la Ley 1/2010, de 26 de febrero, Canaria de Igualdad entre Mujeres y Hombres (BOC nº 45, de 5 de marzo).
+1. Los Tribunales encargados de supervisar y evaluar las pruebas estarán presididos por un Inspector o Inspectora de Educación con especialidad en alguna de las materias objeto de la prueba, adquirida en el cuerpo de procedencia de Enseñanza Secundaria. Como vocales actuarán Profesores o Profesoras de Secundaria que pertenecerán a los Cuerpos de Catedráticos o Profesores de Enseñanza Secundaria e Inspectores de Educación, especialistas en las distintas materias objeto de la prueba, designados por la persona titular de la Inspección General de Educación que tendrá en cuenta la representación equilibrada entre géneros, según lo establecido en la [Ley 1/2010](../../../estatal/07_convivencia_bienestar_y_protocolos/L1_2010_canaria_igualdad_entre_mujeres_hombres.md), de 26 de febrero, Canaria de Igualdad entre Mujeres y Hombres (BOC nº 45, de 5 de marzo).
 
 2. Los distintos Tribunales publicarán las calificaciones y la propuesta provisional de adjudicación de los premios correspondientes a los candidatos cuyas pruebas hayan evaluado. El alumnado participante deberá haber alcanzado en cada prueba, al menos, 5 puntos, y una calificación global superior a 35 puntos para la obtención del citado premio, teniendo en cuenta el cupo previsto en el artículo 3 de la presente Orden.
 
@@ -158,7 +164,7 @@ d) Cuarto ejercicio: versará sobre una de las materias de la modalidad de Bachi
 #### Artículo 9.- Premios Nacionales de Bachillerato.
 
 
-El alumnado que obtenga Premio Extraordinario podrá optar, previa inscripción, a los Premios Nacionales de Bachillerato. A estos efectos, la Dirección General competente en materia de organización y funcionamiento de los centros enviará a la Dirección General de Evaluación y Cooperación Territorial del Ministerio de Educación la relación de los alumnos y las alumnas que hayan obtenido Premio Extraordinario, con expresión del idioma extranjero, y de la modalidad de Bachillerato cursada. Esta comunicación deberá efectuarse antes del 15 de octubre de cada año, adoptando las medidas necesarias para garantizar la seguridad y confidencialidad en la cesión de los datos, conforme a lo previsto en la disposición adicional vigesimotercera de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+El alumnado que obtenga Premio Extraordinario podrá optar, previa inscripción, a los Premios Nacionales de Bachillerato. A estos efectos, la Dirección General competente en materia de organización y funcionamiento de los centros enviará a la Dirección General de Evaluación y Cooperación Territorial del Ministerio de Educación la relación de los alumnos y las alumnas que hayan obtenido Premio Extraordinario, con expresión del idioma extranjero, y de la modalidad de Bachillerato cursada. Esta comunicación deberá efectuarse antes del 15 de octubre de cada año, adoptando las medidas necesarias para garantizar la seguridad y confidencialidad en la cesión de los datos, conforme a lo previsto en la disposición adicional vigesimotercera de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación.
 
 
 #### Disposición transitoria única.
@@ -170,7 +176,7 @@ La Dirección General competente en materia de organización y funcionamiento de
 #### Disposición derogatoria única.
 
 
-Queda derogada la Orden de 18 de enero de 2000, por la que se convocan los Premios Extraordinarios de las modalidades de Bachillerato, regulado por la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo, en el ámbito de la Comunidad Autónoma de Canarias (BOC nº 23, de 23.2.00).
+Queda derogada la Orden de 18 de enero de 2000, por la que se convocan los Premios Extraordinarios de las modalidades de Bachillerato, regulado por la [Ley Orgánica 1/1990](../../../estatal/02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md), de 3 de octubre, de Ordenación General del Sistema Educativo, en el ámbito de la Comunidad Autónoma de Canarias (BOC nº 23, de 23.2.00).
 
 
 #### Disposición final primera.

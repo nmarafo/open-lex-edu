@@ -199,8 +199,10 @@ relaciones:
   - norma_id: '1'
   - norma_id: norm-es-1984-17387
   - norma_id: norm-es-l-53-1984
+fundamentos_derecho:
+- norma_id: norm-es-1984-17387
+- norma_id: norm-es-l-53-1984
 ---
-
 # Real Decreto 598/1985, de 30 de abril, sobre incompatibilidades del personal al servicio de la Administración del Estado, de la Seguridad Social y de los Entes, Organismos y Empresas dependientes.
 
 ## Preámbulo
@@ -297,7 +299,7 @@ La citada manifestación hará referencia también a la circunstancia de si el i
 
 2. La preparación para el acceso a la función pública, que implicará en todo caso incompatibilidad para formar parte de órganos de selección del personal en los terminos que prevé el artículo 12.3 del Real Decreto 2223/1984, de 19 de diciembre, sólo se considerará actividad exceptuada del régimen de incompatibilidades cuando no suponga una dedicación superior a setenta y cinco horas anuales y no pueda implicar incumplimiento del horario de trabajo.
 
-3. Cuando no concurran los requisitos exigidos por el artículo diecinueve de la Ley 53/1984, para considerar a alguna de las actividades como exceptuada del régimen de incompatibilidades, deberá solicitarse la correspondiente autorización o reconocimiento de compatibilidad en la forma establecida con carácter general.
+3. Cuando no concurran los requisitos exigidos por el artículo diecinueve de la [Ley 53/1984](../01_marco_normativo_general_y_organico/L53_1984_incompatibilidades_personal_servicio_administraciones_publicas.md), para considerar a alguna de las actividades como exceptuada del régimen de incompatibilidades, deberá solicitarse la correspondiente autorización o reconocimiento de compatibilidad en la forma establecida con carácter general.
 
 [encabezado]V. Normas aplicables a los regímenes de transitoriedad contemplados en la [Ley 53/1984](../01_marco_normativo_general_y_organico/L53_1984_incompatibilidades_personal_servicio_administraciones_publicas.md)
 

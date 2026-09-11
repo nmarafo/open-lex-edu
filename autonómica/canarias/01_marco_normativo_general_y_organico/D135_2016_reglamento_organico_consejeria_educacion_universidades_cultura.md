@@ -152,8 +152,12 @@ relaciones:
   - norma_id: norm-can-l-14-1990
   - norma_id: norm-can-l-1-1983
   - norma_id: norm-can-d-212-1991
+fundamentos_derecho:
+- norma_id: norm-can-d-212-1991
+- norma_id: norm-can-l-14-1990
+- norma_id: norm-mad-l1-1983-gobierno-administracion-comunidad-madrid
+- norma_id: norm-es-l-40-2015
 ---
-
 # Decreto 135/2016, de 10 de octubre, por el que se aprueba el Reglamento Orgánico de la Consejería de Educación, Universidades, Cultura y Deportes (BOC n.º 203, de 19 de octubre).
 
 ## Preámbulo
@@ -229,7 +233,7 @@ La Agencia Canaria de Calidad Universitaria y Evaluación Educativa está adscri
 
 #### Artículo 5. Competencias de carácter general.
 
-1. El Consejero o Consejera de Educación y Universidades, como Jefe del Departamento y superior jerárquico de los órganos del mismo, tiene las atribuciones enumeradas en el artículo 29 1 de la Ley 14/1990, de 26 de julio, de Régimen Jurídico de las Administraciones. Públicas de Canarias, correspondiéndole, además, como miembro del Gobierno, las funciones recogidas en el artículo 32 de la Ley 1/1983, de 14 de abril, del Gobierno y de la Administración Pública de la Comunidad Autónoma de Canarias, así como las que se recogen en este Reglamento Orgánico y en las demás disposiciones vigentes.
+1. El Consejero o Consejera de Educación y Universidades, como Jefe del Departamento y superior jerárquico de los órganos del mismo, tiene las atribuciones enumeradas en el artículo 29 1 de la [Ley 14/1990](./L14_1990_regimen_juridico_administraciones_publicas_canarias.md), de 26 de julio, de Régimen Jurídico de las Administraciones. Públicas de Canarias, correspondiéndole, además, como miembro del Gobierno, las funciones recogidas en el artículo 32 de la [Ley 1/1983](../../madrid/01_marco_normativo_general_y_organico/L1_1983_gobierno_administracion_comunidad_madrid.md), de 14 de abril, del Gobierno y de la Administración Pública de la Comunidad Autónoma de Canarias, así como las que se recogen en este Reglamento Orgánico y en las demás disposiciones vigentes.
 
 2. Asimismo, le corresponden las competencias siguientes:
 a) La resolución de los procedimientos de responsabilidad patrimonial en el ámbito funcional de la Consejería.
@@ -274,7 +278,7 @@ d) Fomentar la calidad de las universidades canarias para alcanzar en todas y ca
 
 1. La Viceconsejería de Educación y Universidades ejercerá, en su ámbito funcional, las competencias previstas en el artículo 11 l.
 
-Decreto 212/1991, de 11 de septiembre, de organización de los Departamentos de la Administración Autonómica de Canarias.
+[Decreto 212/1991](./D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md), de 11 de septiembre, de organización de los Departamentos de la Administración Autonómica de Canarias.
 
 2. Asimismo, le corresponden las competencias de dirección, coordinación, estudio y resolución en materia de educación y universidades, no atribuidas específicamente a otro órgano, y en concreto las siguientes:
 a) Ostentar la representación del Departamento en el área de educación en los actos a los que no asista el Consejero o Consejera.
@@ -302,7 +306,7 @@ q) Las demás facultades y funciones que le sean atribuidas por las disposicione
 
 1. Corresponden a la Secretaría General Técnica las competencias previstas en el artículo 15 l.
 
-Decreto 212/1991, de 11 de septiembre, de organización de los Departamentos de la Administración Autonómica de Canarias.
+[Decreto 212/1991](./D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md), de 11 de septiembre, de organización de los Departamentos de la Administración Autonómica de Canarias.
 
 2. Además de las previstas en el apartado anterior, le corresponden las competencias siguientes:
 a) Ejercer la gestión administrativa en materia de contratación administrativa y patrimonial, sin perjuicio de las funciones encomendadas a otros órganos.
@@ -351,7 +355,7 @@ c) Emitir los informes anuales sobre el grado de aplicación de la ley en su ám
 
 1. La Dirección General de Centros e Infraestructura Educativa ejercerá, en su ámbito funcional, las competencias previstas en el artículo 19 l.
 
-Decreto 212/1991, de 11 de septiembre, de organización de los Departamentos de la Administración Autonómica de Canarias.
+[Decreto 212/1991](./D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md), de 11 de septiembre, de organización de los Departamentos de la Administración Autonómica de Canarias.
 
 2. Asimismo, le corresponden las competencias de dirección, coordinación, estudio y resolución en materia de centros educativos e infraestructura educativa no atribuidas específicamente a otro órgano, y en concreto, las siguientes:
 a) Gestionar y controlar el régimen administrativo y de gobierno de los centros educativos públicos no universitarios, así como, en coordinación con la consejería competente en materia de hacienda, la gestión de su régimen económico presupuestario.
@@ -378,7 +382,7 @@ p) Las demás funciones que le vengan atribuidas por el ordenamiento jurídico.
 
 1. La Dirección General de Formación Profesional y Educación de Adultos ejercerá, en su ámbito funcional, las competencias previstas en el artículo 19 l.
 
-Decreto 212/1991, de 11 de septiembre, de organización de los Departamentos de la Administración Autonómica de Canarias.
+[Decreto 212/1991](./D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md), de 11 de septiembre, de organización de los Departamentos de la Administración Autonómica de Canarias.
 
 2. Asimismo, le corresponden las competencias de dirección, coordinación, estudio y resolución en materia de formación profesional y educación de adultos no atribuidas específicamente a otro órgano, y en concreto, las siguientes:
 a) Dirigir y gestionar las enseñanzas de Formación Profesional, Educación de Personas Adultas y Enseñanzas de Régimen Especial.
@@ -407,7 +411,7 @@ r) Las demás funciones que le vengan atribuidas por el ordenamiento jurídico.
 
 1. La Dirección General de Personal ejercerá, en su ámbito funcional, las competencias previstas en el artículo 19 l.
 
-Decreto 212/1991, de 11 de septiembre, de organización de los Departamentos de la Administración Autonómica de Canarias.
+[Decreto 212/1991](./D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md), de 11 de septiembre, de organización de los Departamentos de la Administración Autonómica de Canarias.
 
 2. Asimismo, le corresponden las competencias de dirección, coordinación, estudio y resolución en materia de personal docente no universitario en centros públicos no atribuidas específicamente a otro órgano, y en concreto, las siguientes:
 a) Planificar, dirigir, controlar y coordinar la gestión del personal docente no universitario en centros públicos.
@@ -448,7 +452,7 @@ c) Remitir, para su publicación en el Boletín Oficial de Canarias, la informac
 
 1. La Dirección General de Ordenación, Innovación y Promoción Educativa ejercerá, en su ámbito funcional, las competencias previstas en el artículo 19 l.
 
-Decreto 212/1991, de
+[Decreto 212/1991](./D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md), de
 
 11 de septiembre, de organización de los Departamentos de la Administración Autonómica de Canarias.
 
@@ -495,7 +499,7 @@ p) Las demás funciones que le vengan atribuidas por el ordenamiento jurídico.
 
 1. La Dirección General de Universidades ejercerá, en su ámbito funcional, las competencias previstas en el artículo 19 l.
 
-Decreto 212/1991, de 11 de septiembre, de organización de los Departamentos de la Administración Autonómica de Canarias.
+[Decreto 212/1991](./D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md), de 11 de septiembre, de organización de los Departamentos de la Administración Autonómica de Canarias.
 
 2. Asimismo, le corresponden las competencias de dirección, coordinación, estudio y resolución en materia de universidades no atribuidas específicamente a otro órgano, y en concreto, las siguientes:
 a) Ejercer la coordinación del Departamento con las Universidades de la Comunidad Autónoma canaria, sin perjuicio de las funciones atribuidas al Consejo de Universidades previstas en las disposiciones legales vigentes, y de las competencias de la Dirección General de Formación Profesional y Educación de Adultos.
@@ -521,7 +525,7 @@ Existirán dos Direcciones Territoriales de Educación, que extenderán sus comp
 
 1. Las Direcciones Territoriales de Educación, además de las funciones que el artículo 23 l.
 
-Decreto 212/1991, de 11 de septiembre, de organización de los Departamentos de la Administración Autonómica de Canarias, asigna con carácter general a los Directores Territoriales, ejercerán las que se les atribuyen por este Reglamento Orgánico y cuantas les sean delegadas y encomendadas por los órganos superiores del Departamento.
+[Decreto 212/1991](./D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md), de 11 de septiembre, de organización de los Departamentos de la Administración Autonómica de Canarias, asigna con carácter general a los Directores Territoriales, ejercerán las que se les atribuyen por este Reglamento Orgánico y cuantas les sean delegadas y encomendadas por los órganos superiores del Departamento.
 
 2. Sin perjuicio de las que puedan serles delegadas atendiendo a las distintas materias, corresponde a las Direcciones Territoriales de Educación las siguientes funciones:
 A) En materia de centros y alumnos:
@@ -571,7 +575,7 @@ funcionamiento y, en su defecto, por las normas reguladoras del régimen jurídi
 
 3. Los órganos colegiados previstos en este Reglamento Orgánico que no tengan asignada expresamente otra categoría quedan encuadrados en la categoría tercera del artículo 46.1 del Reglamento de Indemnizaciones por razón del servicio, aprobado por Decreto 251/1997, de 30 de septiembre, excepto los que estén presididos por el titular de la Consejería, que lo están en la categoría segunda.
 
-4. Los órganos colegiados previstos en este Reglamento Orgánico podrán celebrar sesiones a través de medios electrónicos. En estos casos, la constitución, convocatoria y celebración de sesiones, adopción de acuerdos de los órganos colegiados y remisión de actas se efectuará conforme a lo preceptuado en los artículos 17 y 18 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público.
+4. Los órganos colegiados previstos en este Reglamento Orgánico podrán celebrar sesiones a través de medios electrónicos. En estos casos, la constitución, convocatoria y celebración de sesiones, adopción de acuerdos de los órganos colegiados y remisión de actas se efectuará conforme a lo preceptuado en los artículos 17 y 18 de la [Ley 40/2015](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md), de 1 de octubre, de Régimen Jurídico del Sector Público.
 
 5. En la celebración de las sesiones, la Presidencia del órgano colegiado velará por la observancia del principio de unidad de acto, del quórum de asistencia y de la mayoría de votos exigible para la adopción de los acuerdos.
 

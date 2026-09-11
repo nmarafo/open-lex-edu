@@ -1,6 +1,9 @@
 ---
 id: norm-and-r25-7-2025-plan-general-actuacion-inspeccion-educativa-andalucia-2025-2026
-titulo: Resolución de 25 de julio de 2025, de la Viceconsejería, por la que se aprueban las Instrucciones para el desarrollo, la dirección y la coordinación del Plan General de Actuación de la Inspección Educativa y el Plan de Formación para el Perfeccionamiento y Actualización Profesional, para el curso escolar 2025-2026.
+titulo: Resolución de 25 de julio de 2025, de la Viceconsejería, por la que se aprueban
+  las Instrucciones para el desarrollo, la dirección y la coordinación del Plan General
+  de Actuación de la Inspección Educativa y el Plan de Formación para el Perfeccionamiento
+  y Actualización Profesional, para el curso escolar 2025-2026.
 jurisdiccion: Andalucía
 ambito: Autonómico
 organo_emisor: Dirección General de Profesorado y Gestión de Recursos Humanos
@@ -17,8 +20,17 @@ fuente_pdf_oficial: http://www.juntadeandalucia.es/boja/2025/146/BOJA25-146-0001
 clasificacion:
   categoria_canonica: 04_organizacion_escolar_y_funcionamiento
   subcategoria: Inspección educativa
+fundamentos_derecho:
+- norma_id: norm-and-l17-2007
+- norma_id: norm-and-l9-2007-administracion-junta-andalucia-laja
+- norma_id: norm-and-o-13-7-2007
+- norma_id: norm-and-o-26-7-2023
+- norma_id: norm-and-115-2002
+- norma_id: norm-can-res-boc-2024-230-25
+- norma_id: norm-can-res-134
+- norma_id: norm-es-lo-3-2022
+- norma_id: norm-es-rd-659-2023
 ---
-
 # Resolución de 25 de julio de 2025, de la Viceconsejería, por la que se aprueban las Instrucciones para el desarrollo, la dirección y la coordinación del Plan General de Actuación de la Inspección Educativa y el Plan de Formación para el Perfeccionamiento y Actualización Profesional, para el curso escolar 2025-2026.
 
 ## Preámbulo
@@ -29,7 +41,7 @@ Resolución de 25 de julio de 2025, de la Viceconsejería, por la que se aprueba
 las Instrucciones para el desarrollo, la dirección y la coordinación del Plan 
 General de Actuación de la Inspección Educativa y el Plan de Formación para el 
 Perfeccionamiento y Actualización Profesional, para el curso escolar 2025-2026.
-La Orden de 26 de julio de 2023, por la que se establece el Plan General de Actuación 
+La [Orden de 26 de julio de 2023](../01_marco_normativo_general_y_organico/O26_7_2023_plan_general_actuacion_inspeccion_educativa_andalucia_2023_2027.md), por la que se establece el Plan General de Actuación 
 de la Inspección Educativa de Andalucía para el período 2023-2027, establece en sus 
 artículos 4 y 5 los objetivos generales vinculados con las líneas y objetivos estratégicos 
 que determinan y articulan las actuaciones y acciones a desarrollar en los tres ejes de 
@@ -56,8 +68,8 @@ Segundo. Disponer la publicación de las mismas, para el conocimiento de los cen
 públicos, concertados y privados, servicios, programas y actividades del sistema educativo de 
 Andalucía, así como el resto de elementos y aspectos del mismo, sobre los que tendrá incidencia 
 su aplicación, y demás sectores de la comunidad educativa, a tenor de lo establecido en el artículo 
-147.2 de la Ley 17/2007, de 10 de diciembre, de Educación de Andalucía, y de acuerdo con lo 
-dispuesto en los artículos 98.5 de la Ley 9/2007, de 22 de octubre, de la Administración de la Junta 
+147.2 de la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre, de Educación de Andalucía, y de acuerdo con lo 
+dispuesto en los artículos 98.5 de la [Ley 9/2007](../01_marco_normativo_general_y_organico/L9_2007_administracion_junta_andalucia_laja.md), de 22 de octubre, de la Administración de la Junta 
 de Andalucía, y 2.b) de la Ley 1/2014, de 24 de junio, de Transparencia Pública de Andalucía.
 Sevilla, 25 de julio de 2025.- El Viceconsejero, Pablo Quesada Ruiz.
 
@@ -113,7 +125,7 @@ datos y evidencias que permitan la elaboración de informes y dictámenes.
 c) Las actuaciones podrán presentar carácter censal o muestral. Su planificación se 
 llevará a cabo por la Inspección General de Educación o, en su caso, por los Servicios 
 Provinciales de Inspección de Educación, atendiendo a lo establecido en el artículo 65 de 
-la Orden de 13 de julio de 2007. 
+la [Orden de 13 de julio de 2007](../01_marco_normativo_general_y_organico/O13_7_2007_organizacion_funcionamiento_inspeccion_educativa_andalucia.md). 
 d) Los responsables provinciales de las áreas específicas de trabajo estructural 
 confeccionarán un plan de trabajo anual en el mes de octubre de 2025, incluyendo entre 
 sus acciones la participación en la elaboración de los procedimientos e informes que se 
@@ -131,7 +143,7 @@ e) Los grupos de trabajo constituidos en el seno de las áreas específicas de t
 estructurales y curriculares, así como otros que puedan constituirse, participarán en la 
 planificación de las distintas actuaciones y en la elaboración de aquellos instrumentos 
 homologados necesarios para el desarrollo de las mismas, de acuerdo con lo establecido 
-en el artículo 56.3 de la Orden de 13 de julio de 2007 y en las Instrucciones de 7 de 
+en el artículo 56.3 de la [Orden de 13 de julio de 2007](../01_marco_normativo_general_y_organico/O13_7_2007_organizacion_funcionamiento_inspeccion_educativa_andalucia.md) y en las Instrucciones de 7 de 
 septiembre de 2017, de la Viceconsejería de Educación, por la que se establecen criterios 
 para la aplicación de la organización especializada de la Inspección de Educación. Los 
 distintos procedimientos e informes homologados y otra documentación de aplicación 
@@ -223,7 +235,7 @@ MUESTRA
 Un Centro de Educación Infantil y Primaria por inspector o inspectora y, como mínimo, un Equipo
 de Orientación Educativa por Equipo de Zona.
 1. La actuación permitirá la evaluación de determinados procesos de los ámbitos 
-definidos en el artículo 9.3 de la Orden de 26 de julio de 2023, por la que se establece 
+definidos en el artículo 9.3 de la [Orden de 26 de julio de 2023](../01_marco_normativo_general_y_organico/O26_7_2023_plan_general_actuacion_inspeccion_educativa_andalucia_2023_2027.md), por la que se establece 
 el Plan General de Actuación de la Inspección Educativa de Andalucía para el periodo 
 2023-2027. En concreto:
 Ámbito 2: Proceso de enseñanza-aprendizaje, donde se evaluará específicamente el 
@@ -239,7 +251,7 @@ la evaluación continua y final del mismo.
 2. La actuación se planificará en el seno de los equipos de inspección de zona 
 siguiendo los criterios que se establezcan en el equipo de coordinación provincial, que 
 atenderán al principio de coordinación, planificación y trabajo en equipo, establecido en el 
-artículo 3.4 de la Orden de 26 de julio de 2023. Para ello, se establece la temporalización 
+artículo 3.4 de la [Orden de 26 de julio de 2023](../01_marco_normativo_general_y_organico/O26_7_2023_plan_general_actuacion_inspeccion_educativa_andalucia_2023_2027.md). Para ello, se establece la temporalización 
 detallada en estas Instrucciones. Los equipos de inspección de zona adaptarán y 
 contextualizarán esta planificación a las características y peculiaridades de cada uno 
 de los centros docentes de la muestra. Los criterios y la planificación reseñados serán 
@@ -550,7 +562,7 @@ autoevaluación de su propio funcionamiento y de los planes de trabajo que desar
 mismo, se establece para el seguimiento y evaluación del grado de cumplimiento de los 
 planes de actuación la elaboración de la Memoria Anual de la Inspección Educativa y las 
 Memorias Anuales de funcionamiento de los Servicios Provinciales, dando cumplimiento 
-a lo estipulado en el artículo 37.2 del Decreto 115/2002, de 25 de marzo, por el que se 
+a lo estipulado en el artículo 37.2 del [Decreto 115/2002](./D115_2002_reglamento_inspeccion_educativa_andalucia.md), de 25 de marzo, por el que se 
 regula la organización y el funcionamiento de la Inspección Educativa.
 2. De acuerdo con lo establecido en el artículo 67.4.d) de la Orden de 13 de julio de 
 2007 los planes provinciales de actuación contemplarán el procedimiento de evaluación 
@@ -565,11 +577,11 @@ Depósito Legal: SE-410/1979. ISSN: 2253-802X
 https://www.juntadeandalucia.es/eboja
 del Plan Provincial de Actuación durante y al final de su desarrollo, incluyéndose las 
 acciones, responsables, temporalización e indicadores de proceso.
-3. Según lo dispuesto en el artículo 37.2 del Decreto 115/2002, de 25 de marzo, la 
+3. Según lo dispuesto en el artículo 37.2 del [Decreto 115/2002](./D115_2002_reglamento_inspeccion_educativa_andalucia.md), de 25 de marzo, la 
 Inspección General y los Servicios Provinciales de Inspección de Educación pondrán 
 en marcha procesos de evaluación, con el fin de contribuir a la mejora de su propio 
 funcionamiento. Igualmente, en consonancia con lo establecido en el artículo 76.3 de 
-la Orden de 13 de julio de 2007, se realizará de manera permanente un proceso de 
+la [Orden de 13 de julio de 2007](../01_marco_normativo_general_y_organico/O13_7_2007_organizacion_funcionamiento_inspeccion_educativa_andalucia.md), se realizará de manera permanente un proceso de 
 autoevaluación del funcionamiento y de los planes de trabajo que desarrollan, cuyo 
 resultado se plasmará en la Memoria Anual de la Inspección Educativa. 
 4. Para la planificación y desarrollo de esta actuación se constituirá un equipo 
@@ -628,14 +640,14 @@ BOJA
 Depósito Legal: SE-410/1979. ISSN: 2253-802X	
 https://www.juntadeandalucia.es/eboja
 para el presente curso escolar, a la persona titular de la Viceconsejería para su 
-aprobación, de acuerdo con lo establecido en el artículo 14.e) del Decreto 115/2002, de 
+aprobación, de acuerdo con lo establecido en el artículo 14.e) del [Decreto 115/2002](./D115_2002_reglamento_inspeccion_educativa_andalucia.md), de 
 25 de marzo, por el que se regula la organización y el funcionamiento de la Inspección 
-Educativa, y el artículo 32.2.l) de la Orden de 13 de julio de 2007, por la que se desarrolla 
+Educativa, y el artículo 32.2.l) de la [Orden de 13 de julio de 2007](../01_marco_normativo_general_y_organico/O13_7_2007_organizacion_funcionamiento_inspeccion_educativa_andalucia.md), por la que se desarrolla 
 la organización y el funcionamiento de la Inspección Educativa de Andalucía.
 4. La coordinación, seguimiento y evaluación del plan de perfeccionamiento y 
 actualización en el ejercicio profesional de la Inspección Educativa, se realizará a través 
 del grupo de trabajo de formación de la misma, tal y como se establece en el artículo 14 de 
-la Orden de 26 de julio de 2023, que estará compuesto por los inspectores e inspectoras 
+la [Orden de 26 de julio de 2023](../01_marco_normativo_general_y_organico/O26_7_2023_plan_general_actuacion_inspeccion_educativa_andalucia_2023_2027.md), que estará compuesto por los inspectores e inspectoras 
 responsables de la formación en cada Servicio Provincial de Inspección de Educación y 
 coordinado por la persona designada por la Inspección General de Educación.
 5. Durante el curso 2025/2026, la formación contemplada en el plan de 
@@ -729,7 +741,7 @@ conforme a la normativa vigente y de aplicación, así como la supervisión del 
 aplicación de la evaluación de diagnóstico. 
 3. La planificación de esta actuación se concretará en la guía de la misma.
 Quinta. Planes provinciales.
-1. De acuerdo con el artículo 67 de la Orden de 13 de julio de 2007, los planes 
+1. De acuerdo con el artículo 67 de la [Orden de 13 de julio de 2007](../01_marco_normativo_general_y_organico/O13_7_2007_organizacion_funcionamiento_inspeccion_educativa_andalucia.md), los planes 
 provinciales de actuación son el instrumento de trabajo básico para el desarrollo de 
 las funciones y atribuciones que tiene reconocidas la Inspección de Educación, y 
 a la vez un referente para el desarrollo profesional y la formación permanente de sus 
@@ -754,7 +766,7 @@ Sexta. Seguimiento y evaluación de las actuaciones.
 1. El seguimiento y evaluación de los planes provinciales de actuación se desarrollará 
 en el marco de la Actuación homologada 4 «Elaboración de las Memorias Anuales de la 
 Inspección Educativa de Andalucía».
-2. De acuerdo con el artículo 7 de la Orden de 26 de julio de 2023, los indicadores 
+2. De acuerdo con el artículo 7 de la [Orden de 26 de julio de 2023](../01_marco_normativo_general_y_organico/O26_7_2023_plan_general_actuacion_inspeccion_educativa_andalucia_2023_2027.md), los indicadores 
 para llevar a cabo la evaluación de los objetivos generales a través de la valoración 
 de cada línea y objetivo estratégico serán establecidos en el marco de la Actuación 
 homologada 4.
@@ -766,7 +778,7 @@ Plan General de Actuación de la Inspección de Educación 2023-2027, permitiend
 ajuste a las posibles demandas profesionales que la Consejería de Desarrollo Educativo 
 y Formación Profesional pueda requerir de la Inspección de Educación, en respuesta a 
 las necesidades sociales en materia de educación.
-2. El artículo 67 de la Orden de 13 de julio de 2007, por la que se desarrolla la 
+2. El artículo 67 de la [Orden de 13 de julio de 2007](../01_marco_normativo_general_y_organico/O13_7_2007_organizacion_funcionamiento_inspeccion_educativa_andalucia.md), por la que se desarrolla la 
 organización y el funcionamiento de la Inspección Educativa de Andalucía, establece que 
 el plan de perfeccionamiento y actualización en el ejercicio profesional de la Inspección 
 Educativa, contemplado en las instrucciones anuales de la Viceconsejería de Educación, 
@@ -775,7 +787,7 @@ se desarrollará y concretará cada año académico en el ámbito provincial.
 en las presentes instrucciones, y se concretará en el ámbito provincial de acuerdo con las 
 necesidades detectadas a través del procedimiento definido por la Jefatura del Servicio 
 Provincial de Inspección de Educación.
-4. Siguiendo lo establecido en el artículo 13 de la Orden de 26 de julio de 2023, las 
+4. Siguiendo lo establecido en el artículo 13 de la [Orden de 26 de julio de 2023](../01_marco_normativo_general_y_organico/O26_7_2023_plan_general_actuacion_inspeccion_educativa_andalucia_2023_2027.md), las 
 líneas formativas para el curso escolar 2025-2026 son:
 a) Atención a la diversidad.
 b) Formación profesional.
@@ -836,8 +848,8 @@ demandas profesionales que la Consejería de Desarrollo Educativo y Formación P
 2. Responder a la necesidad formativa derivada del Plan General de Actuación de la Inspección de Educación para los cursos 2023/2027 
 y su concreción anual para el curso 2025/26.
 CONTENIDOS
-1. Ley Orgánica 3/2022, de 31 de marzo, de ordenación e integración de la Formación Profesional.
-2. Real Decreto 659/2023, de 18 de julio, que regula la ordenación del Sistema de Formación Profesional.
+1. [Ley Orgánica 3/2022](../../canarias/08_personal_docente/R30_6_2023_ordenacion_gestion_determinadas_listas_empleo_tras.md), de 31 de marzo, de ordenación e integración de la Formación Profesional.
+2. [Real Decreto 659/2023](../../canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, que regula la ordenación del Sistema de Formación Profesional.
 3. Marco normativo andaluz.
 4. Actuación Prioritaria 1, en el marco de la Formación Profesional.
 ACCIONES FORMATIVAS

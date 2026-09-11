@@ -69,13 +69,18 @@ relaciones:
   - norma_id: '1'
   - norma_id: norm-es-lo-2-2006
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2021-109-2756.pdf
+fundamentos_derecho:
+- norma_id: norm-can-l-6-2014
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
 ---
-
 # Resolución de 19 de mayo de 2021, por la que se dictan instrucciones para la organización y el funcionamiento del Curso Específico de Acceso a Ciclos Formativos de Formación Profesional de Grado Medio a impartir en centros de educación de personas adultas dependientes de esta Consejería (BOC n.º 109, de 28 de mayo).
 
 ## Preámbulo
 
-Primero.- La Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la Ley Orgánica 2/2006, de 3 de mayo, de Educación establece en su artículo único, apartado treinta y cinco, las condiciones en que queda redactado el artículo 41 "Condiciones de acceso y admisión", estableciendo, en su apartado 41.2.b), como una de las condiciones para el acceso a ciclos formativos de grado medio "haber superado un curso de formación específico preparatorio para el acceso a ciclos de grado medio en centros públicos o privados autorizados por la administración educativa". Asimismo, en el preámbulo de esta ley se establece que "es importante resaltar que todos los alumnos o alumnas que finalizan educación secundaria obligatoria, además de poder incorporarse al mundo laboral, deben tener opciones de formación posterior. Por esta razón, los alumnos y alumnas que no obtengan el título correspondiente recibirán una certificación oficial en la que constará el número de años cursados y el nivel de adquisición de las competencias. Asimismo, recibirán un consejo orientador individualizado que incluirá una propuesta sobre la opción u opciones académicas o profesionales más convenientes para continuar su proceso formativo".
+Primero.- La Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la [Ley Orgánica 2/2006](../05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación establece en su artículo único, apartado treinta y cinco, las condiciones en que queda redactado el artículo 41 "Condiciones de acceso y admisión", estableciendo, en su apartado 41.2.b), como una de las condiciones para el acceso a ciclos formativos de grado medio "haber superado un curso de formación específico preparatorio para el acceso a ciclos de grado medio en centros públicos o privados autorizados por la administración educativa". Asimismo, en el preámbulo de esta ley se establece que "es importante resaltar que todos los alumnos o alumnas que finalizan educación secundaria obligatoria, además de poder incorporarse al mundo laboral, deben tener opciones de formación posterior. Por esta razón, los alumnos y alumnas que no obtengan el título correspondiente recibirán una certificación oficial en la que constará el número de años cursados y el nivel de adquisición de las competencias. Asimismo, recibirán un consejo orientador individualizado que incluirá una propuesta sobre la opción u opciones académicas o profesionales más convenientes para continuar su proceso formativo".
 Segundo.- El Real Decreto 1147/2011, de 29 de julio, por el que se establece la ordenación general de la formación profesional del sistema educativo, que en su artículo 15 dispone que "para acceder a los ciclos formativos de grado medio se requerirá una de las siguientes Página
 
 condiciones: c) Haber superado el curso de formación específico para el acceso a ciclos de grado medio en centros públicos o privados autorizados por la Administración educativa". En su artículo 16, en relación con el 21, se establecen instrucciones respecto al curso formativo específico y las disposiciones comunes para los cursos y las pruebas de acceso, y específicamente en su apartado 5 se concreta que "las Administraciones educativas determinarán los centros públicos que podrán impartir estos cursos".

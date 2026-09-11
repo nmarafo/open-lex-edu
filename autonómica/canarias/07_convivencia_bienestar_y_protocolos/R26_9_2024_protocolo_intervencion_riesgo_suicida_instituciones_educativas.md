@@ -28,8 +28,17 @@ relaciones:
   - norm-can-d-114-2011
   - norm-can-l-6-2014
 fuente_pdf_oficial: https://www3.gobiernodecanarias.org/sanidad/scs/content/9bbba696-7a60-11ef-8f2a-c9a2829b6452/PIRS.pdf
+fundamentos_derecho:
+- norma_id: norm-can-l-1-1997
+- norma_id: norm-can-l-6-2014
+- norma_id: norm-can-lo-1-2018
+- norma_id: norm-can-d-81-2010
+- norma_id: norm-can-o-2013-10-09
+- norma_id: norm-can-d-114-2011
+- norma_id: norm-can-l-16-2003
+- norma_id: norm-es-lo-3-2018
+- norma_id: norm-es-lo-8-2021
 ---
-
 # Protocolo de intervención ante riesgo suicida detectado en instituciones educativas de Canarias (PIRS), del Servicio Canario de la Salud y la Consejería de Educación, Formación Profesional, Actividad Física y Deportes.
 
 ## Cuerpo Dispositivo
@@ -587,7 +596,7 @@ hecho y sean señaladas por el o la menor4.
 En el caso de mayores de edad, se entenderá como tal, a los solos efectos de comu-
 nicación, a la persona de referencia indicada voluntariamente por el/la alumno/a.
 1 Se propone esta fórmula (representantes legales) por una cuestión sistemática, pues es la que refiere de mane-
-ra reiterada la normativa autonómica canaria en la materia al hacer alusión a la figura (véase el Decreto 114/2011 de 
+ra reiterada la normativa autonómica canaria en la materia al hacer alusión a la figura (véase el [Decreto 114/2011](./D114_2011_regula_convivencia_ambito_educativo_comunidad_autonoma.md) de 
 11 de mayo, por el que se regula la convivencia en el ámbito educativo de la Comunidad Autónoma de Canarias). 
 El marco normativo esencial aplicable a este protocolo se muestra en el Anexo 14 (“Marco normativo”). 
 2 Esto daría cobertura para avisar, si lo consiente el menor, a sus abuelos/as o tíos/as con los que tenga especial 
@@ -3125,7 +3134,7 @@ ción. Por ello manifiesto que comprendo la información recibida, y autorizo qu
 cambie información entre profesionales sanitarios y sociales que deban intervenir en este proceso, al 
 objeto de poder proporcionar una actuación conjunta, integral y de calidad según las necesidades que 
 se identifiquen, en el contexto del Protocolo de intervención ante riesgo suicida detectado en institucio-
-nes educativas de Canarias, y manteniendo la confidencialidad regulada por la Ley Orgánica 3/2018 de 
+nes educativas de Canarias, y manteniendo la confidencialidad regulada por la [Ley Orgánica 3/2018](../../../estatal/02_gestion_y_administracion_centros/LO3_2018_proteccion_datos_personales_garantia_derechos_digitales.md) de 
 5 de diciembre, sobre la protección de datos de carácter personal. 
 En......................................................... a....... de.............................de 20....
 Padre o tutor legal
@@ -3170,7 +3179,7 @@ fesionales sanitarios y sociales que deban intervenir en este proceso, al objeto
 proporcionar una actuación conjunta, integral y de calidad según las necesidades que se 
 identifiquen, en el contexto del Protocolo de intervención ante riesgo suicida detectado 
 en instituciones educativas de Canarias , y manteniendo la confidencialidad regulada 
-por la Ley Orgánica 3/2018 de 5 de diciembre, sobre la protección de datos de carácter 
+por la [Ley Orgánica 3/2018](../../../estatal/02_gestion_y_administracion_centros/LO3_2018_proteccion_datos_personales_garantia_derechos_digitales.md) de 5 de diciembre, sobre la protección de datos de carácter 
 personal. 
 En......................................................... a....... de.............................de 20....
 El alumno/la alumna
@@ -3256,7 +3265,7 @@ cuestiones y me ha aclarado las dudas o preguntas que he planteado. También com
 cualquier momento y sin necesidad de dar ninguna explicación, puedo revocar la presente autoriza-
 ción. Por ello manifiesto que comprendo la información recibida, y que tales acciones se realizarían en 
 el contexto del Protocolo de intervención ante riesgo suicida detectado en instituciones educativas de 
-Canarias, y manteniendo la confidencialidad regulada por la Ley Orgánica 3/2018 de 5 de diciembre, 
+Canarias, y manteniendo la confidencialidad regulada por la [Ley Orgánica 3/2018](../../../estatal/02_gestion_y_administracion_centros/LO3_2018_proteccion_datos_personales_garantia_derechos_digitales.md) de 5 de diciembre, 
 sobre la protección de datos de carácter personal. 
  Autorizo la realización de acciones de postvención con el alumnado que pueda considerarse poten-
 cialmente afectado con ocasión de los hechos acontecidos, que incluya alusión a dichos hechos en lo 
@@ -3313,7 +3322,7 @@ planteado. También comprendo que, en cualquier momento y sin necesidad de dar n
 ción, puedo revocar la presente autorización. Por ello manifiesto que comprendo la información recibi-
 da, y que tales acciones se realizarían en el contexto del Protocolo de intervención ante riesgo suicida 
 detectado en instituciones educativas de Canarias, y manteniendo la confidencialidad regulada por la 
-Ley Orgánica 3/2018 de 5 de diciembre, sobre la protección de datos de carácter personal. 
+[Ley Orgánica 3/2018](../../../estatal/02_gestion_y_administracion_centros/LO3_2018_proteccion_datos_personales_garantia_derechos_digitales.md) de 5 de diciembre, sobre la protección de datos de carácter personal. 
  Autorizo la realización de acciones de postvención con el alumnado que pueda considerarse poten-
 cialmente afectado con ocasión de los hechos acontecidos, que incluya alusión a dichos hechos en lo 
 que resulte estrictamente necesario a los efectos de la postvención y sin perjuicio de la debida protec-
@@ -3899,24 +3908,24 @@ ESTATAL
 •	 Constitución Española. Artículos 27 y 43.
 •	 Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la Ley Orgánica 
 2/2006, de 3 de mayo, de Educación.
-•	 Ley Orgánica 8/2021 de 4 de junio, de protección integral a la infancia y la ado-
+•	 [Ley Orgánica 8/2021](../../../estatal/07_convivencia_bienestar_y_protocolos/LO8_2021_proteccion_integral_infancia_adolescencia_frente_violencia.md) de 4 de junio, de protección integral a la infancia y la ado-
 lescencia frente a la violencia.
-•	 Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y 
+•	 [Ley Orgánica 3/2018](../../../estatal/02_gestion_y_administracion_centros/LO3_2018_proteccion_datos_personales_garantia_derechos_digitales.md), de 5 de diciembre, de Protección de Datos Personales y 
 garantía de los derechos digitales.
 AUTONÓMICO
-•	 Ley Orgánica 1/2018, de 5 de noviembre, de reforma del Estatuto de Autonomía 
+•	 [Ley Orgánica 1/2018](../01_marco_normativo_general_y_organico/LO1_2018_reforma_estatuto_autonomia_canarias.md), de 5 de noviembre, de reforma del Estatuto de Autonomía 
 de Canarias. En concreto, los artículos 13, 14, 21, 133, 141, 142, 146 y 147.2
-•	 Ley 6/2014, de 25 de julio, Canaria de Educación no Universitaria.
-•	 Ley 1/1997, de 7 de febrero, de Atención Integral a los Menores.
-•	 Ley 16/2003, de 8 de abril, de Prevención y Protección Integral de las Mujeres 
+•	 [Ley 6/2014](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md), de 25 de julio, Canaria de Educación no Universitaria.
+•	 [Ley 1/1997](../01_marco_normativo_general_y_organico/L1_1997_atencion_integral_menores.md), de 7 de febrero, de Atención Integral a los Menores.
+•	 [Ley 16/2003](./L16_2003_prevencion_proteccion_integral_mujeres_contra_violencia.md), de 8 de abril, de Prevención y Protección Integral de las Mujeres 
 contra la Violencia de Género.
-•	 Decreto 114/2011, de 11 de mayo, por el que se regula la convivencia en el ámbito 
+•	 [Decreto 114/2011](./D114_2011_regula_convivencia_ambito_educativo_comunidad_autonoma.md), de 11 de mayo, por el que se regula la convivencia en el ámbito 
 educativo de la Comunidad Autónoma de Canarias.
-•	 Decreto 81/2010, de 8 de julio, por el que se aprueba el Reglamento Orgánico de 
+•	 [Decreto 81/2010](../04_organizacion_escolar_y_funcionamiento/D81_2010_aprueba_reglamento_organico_centros_docentes_publicos.md), de 8 de julio, por el que se aprueba el Reglamento Orgánico de 
 los centros docentes públicos no universitarios de la Comunidad Autónoma de 
 Canarias.
-•	 Orden de 9 de octubre de 2013, de la Consejería de Educación, Universidades 
-y Sostenibilidad, por la que se desarrolla el Decreto 81/2010, de 8 de julio, por el 
+•	 [Orden de 9 de octubre de 2013](../04_organizacion_escolar_y_funcionamiento/O9_10_2013_desarrolla_decreto_aprueba_reglamento_organico_centros.md), de la Consejería de Educación, Universidades 
+y Sostenibilidad, por la que se desarrolla el [Decreto 81/2010](../04_organizacion_escolar_y_funcionamiento/D81_2010_aprueba_reglamento_organico_centros_docentes_publicos.md), de 8 de julio, por el 
 que se aprueba el Reglamento Orgánico de los centros docentes públicos no 
 universitarios de la Comunidad Autónoma de Canarias, en lo referente a su or-
 ganización y funcionamiento.

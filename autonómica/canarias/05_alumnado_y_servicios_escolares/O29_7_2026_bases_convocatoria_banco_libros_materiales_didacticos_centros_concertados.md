@@ -113,8 +113,20 @@ relaciones:
     - Art. 18
     - Art. 11
     - Art. 12
+fundamentos_derecho:
+- norma_id: norm-can-l-4-2023
+- norma_id: norm-can-l-6-2014
+- norma_id: norm-can-lo-1-2018
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-mad-l4-2023
+- norma_id: norm-es-l-19-2013
+- norma_id: norm-es-l-39-2015
+- norma_id: norm-es-l-40-2015
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-rd-2377-1985
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
 ---
-
 # Orden de 29 de julio de 2026, por la que se aprueban las bases reguladoras y se convocan las subvenciones, en concurrencia no competitiva, destinadas a sufragar la creación de un banco de libros y materiales didácticos en centros concertados para préstamo en especie a las familias, para el curso escolar 2026/2027.
 
 ## Preámbulo
@@ -177,7 +189,7 @@ FUNDAMENTOS DE DERECHO
 Primero.- El derecho fundamental a la educación está consagrado en el artículo 27.1 
 de la Constitución Española, y el artículo 27.4 establece que “La enseñanza básica es 
 obligatoria y gratuita”.
-Segundo.- La Ley Orgánica 2/2006, de 3 de mayo, de Educación, en el artículo 3.3 
+Segundo.- La [Ley Orgánica 2/2006](./O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, en el artículo 3.3 
 establece que “la educación primaria, la educación secundaria obligatoria y los ciclos 
 formativos de grado básico constituyen la educación básica”. Asimismo, determina en el 
 artículo 4.1 que la enseñanza básica es obligatoria y gratuita para todas las personas, y 
@@ -186,7 +198,7 @@ de los recursos necesarios para hacer efectiva la gratuidad de las enseñanzas q
 ley se declaran gratuitas y establecerán medidas para que la situación socioeconómica del 
 alumnado no suponga una barrera para el acceso a las actividades complementarias y los 
 servicios escolares”.
-Tercero.- El artículo 80.1 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, 
+Tercero.- El artículo 80.1 de la [Ley Orgánica 2/2006](./O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, 
 establece, entre los fines del sistema educativo español, hacer efectivo el principio de 
 equidad en el ejercicio del derecho a la educación, se desarrollarán acciones dirigidas 
 hacia las personas, grupos, entornos sociales y ámbitos territoriales que se encuentren 
@@ -198,12 +210,12 @@ igualdad de condiciones con los demás.
 Cuarto.- La Comunidad Autónoma de Canarias ostenta, de
 
 acuerdo con lo dispuesto 
-en el artículo 133.1 de la Ley Orgánica 1/2018, de 5 de noviembre, de reforma del Estatuto 
+en el artículo 133.1 de la [Ley Orgánica 1/2018](../01_marco_normativo_general_y_organico/LO1_2018_reforma_estatuto_autonomia_canarias.md), de 5 de noviembre, de reforma del Estatuto 
 de Autonomía de Canarias, competencia de desarrollo legislativo y de ejecución en materia 
 de enseñanza no universitaria, con relación a las enseñanzas obligatorias. La competencia 
 incluye, en el apartado f) del artículo citado, el régimen de fomento del estudio, de becas y 
 de ayudas con fondos propios.
-Quinto.- En tal sentido, el artículo 21.2 de la Ley 6/2014, de 25 de julio, Canaria de 
+Quinto.- En tal sentido, el artículo 21.2 de la [Ley 6/2014](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md), de 25 de julio, Canaria de 
 Educación no Universitaria, determina que “El Gobierno de Canarias, independientemente 
 de lo que disponga la normativa básica del Estado, definirá un sistema propio de 
 
@@ -312,17 +324,17 @@ siguientes a su aprobación, al objeto de que por parte de esta se haga seguimie
 ejecución del mismo dentro del ámbito del Control Financiero Permanente”.
 Dada la naturaleza de la presente subvención se realizará el abono previo a la 
 justificación, previa acreditación de los requisitos.
-Decimoprimero.- El artículo 80.11 de la Ley 4/2023, de 23 de marzo, de la Presidencia 
+Decimoprimero.- El artículo 80.11 de la [Ley 4/2023](../01_marco_normativo_general_y_organico/L4_2023_presidencia_gobierno_canarias.md), de 23 de marzo, de la Presidencia 
 y del Gobierno de Canarias, dispone que el procedimiento de elaboración y aprobación 
 previsto en dicho artículo, incluidos los trámites de participación ciudadana que en él se 
 contemplan, no será de aplicación a la elaboración y aprobación de las normas que establecen 
 las bases reguladoras de concesión de subvenciones, que se ajustarán al procedimiento 
 establecido en la normativa en materia de subvenciones.
-Decimosegundo.- Será igualmente aplicable la Ley 39/2015, de 1 de octubre, del 
+Decimosegundo.- Será igualmente aplicable la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del 
 Procedimiento Administrativo Común de las Administraciones Públicas, de acuerdo con el 
 ámbito de aplicación previsto en su artículo 2, con respecto a los principios previstos en el 
-artículo 3 de la Ley 40/2015, de Régimen Jurídico del Sector Público.
-Decimotercero.- La Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector 
+artículo 3 de la [Ley 40/2015](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md), de Régimen Jurídico del Sector Público.
+Decimotercero.- La [Ley 40/2015](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md), de 1 de octubre, de Régimen Jurídico del Sector 
 Público, en su artículo 9, señala que:
 “1. Los órganos de las diferentes Administraciones Públicas podrán delegar el ejercicio 
 de las competencias que tengan atribuidas en otros órganos de la misma Administración, aun 
@@ -448,7 +460,7 @@ Segunda.- Ámbito de aplicación.
 Estas bases serán de aplicación únicamente a los centros concertados con concierto 
 educativo vigente.
 Las citadas entidades no podrán estar incursas en ninguna de las causas de extinción del 
-concierto educativo, previstas en el Título VI del Real Decreto 2377/1985, de 18 de diciembre, 
+concierto educativo, previstas en el Título VI del [Real Decreto 2377/1985](../../../estatal/02_gestion_y_administracion_centros/RD2377_1985_aprueba_reglamento_normas_basicas_conciertos_educativos.md), de 18 de diciembre, 
 por el que se aprueba el Reglamento de Normas Básicas sobre Conciertos Educativos.
 Tercera.- Plan de Financiación y Previsión de Gastos e Ingresos para el curso 
 2026/2027.
@@ -565,7 +577,7 @@ f) Conservar los documentos justificativos de la aplicación de los fondos recib
 incluidos los documentos electrónicos, en tanto puedan ser objeto de las actuaciones de 
 comprobación y control por un plazo no inferior a cuatro años.
 g) Dar publicidad de las subvenciones percibidas, especificando las informaciones a las 
-que se refieren los artículos 6 y 8 de la Ley 19/2013, de 9 de diciembre, de transparencia, 
+que se refieren los artículos 6 y 8 de la [Ley 19/2013](../../../estatal/01_marco_normativo_general_y_organico/L19_2013_transparencia_acceso_informacion_publica_buen_gobierno.md), de 9 de diciembre, de transparencia, 
 acceso a la información pública y buen gobierno, en el supuesto de que la cuantía de 
 la subvención o ayuda percibida sea superior a 60.000 euros, o bien igual o superior a 
 5.000 euros y represente al menos el 30% del total de los ingresos anuales de la entidad 
@@ -751,7 +763,7 @@ Si la solicitud no reúne los requisitos establecidos en la presente convocatori
 competente requerirá al interesado para que la subsane en el plazo máximo e improrrogable 
 de diez días hábiles, indicándole que, si no lo hiciese, se le tendrá por desistido de su solicitud, 
 de conformidad con el artículo 15.4 del Decreto 36/2009, previa resolución que deberá ser 
-dictada en los términos previstos en el artículo 21 de la Ley 39/2015, de 1 de octubre.
+dictada en los términos previstos en el artículo 21 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre.
 Duodécima.- Notificación.
 Las actuaciones administrativas derivadas del presente procedimiento, incluida la 
 resolución que proceda, se notificarán a las entidades beneficiarias por medios electrónicos, 
@@ -780,7 +792,7 @@ silencio administrativo, sin perjuicio de la obligación de la Administración d
 de conformidad con lo que disponga la legislación aplicable sobre procedimiento 
 administrativo común.
 La notificación será cursada dentro del plazo de diez días a partir de la fecha en que la 
-resolución haya sido dictada, de conformidad con el artículo 40 de la Ley 39/2015, de 1 de 
+resolución haya sido dictada, de conformidad con el artículo 40 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de 
 octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.
 
 Martes 11 de agosto de 2026
@@ -1028,7 +1040,7 @@ Martes 11 de agosto de 2026
 Tal y como establece el artículo 67 de la LGS “La imposición de las sanciones en 
 materia de subvenciones se efectuará mediante expediente administrativo en el que, en todo 
 caso, se dará audiencia al interesado antes de dictarse el acuerdo correspondiente y que será 
-tramitado conforme a lo dispuesto en la Ley 39/2015, de 1 de octubre, de Procedimiento 
+tramitado conforme a lo dispuesto en la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, de Procedimiento 
 Administrativo Común de las Administraciones Públicas”.
 La prescripción de infracciones y sanciones está sujeta al plazo de cuatro años, en las 
 condiciones previstas en el artículo 65 de la LGS.

@@ -1,6 +1,10 @@
 ---
 id: norm-and-r26-9-2007-instrucciones-protocolos-maltrato-infantil-acoso-escolar-genero-andalucia
-titulo: Resolución de 26 de septiembre de 2007, de la Dirección General de Participación y Solidaridad en la Educación, por la que se acuerda dar publicidad a los protocolos de actuación que deben seguir los centros educativos ante supuestos de acoso escolar, agresión hacia el Profesorado o el Personal de Administración y Servicios o maltrato infantil.
+titulo: Resolución de 26 de septiembre de 2007, de la Dirección General de Participación
+  y Solidaridad en la Educación, por la que se acuerda dar publicidad a los protocolos
+  de actuación que deben seguir los centros educativos ante supuestos de acoso escolar,
+  agresión hacia el Profesorado o el Personal de Administración y Servicios o maltrato
+  infantil.
 jurisdiccion: Andalucía
 ambito: Autonómico
 organo_emisor: Dirección General de Profesorado y Gestión de Recursos Humanos
@@ -17,8 +21,9 @@ fuente_pdf_oficial: http://www.juntadeandalucia.es/boja/2007/224/d5.pdf
 clasificacion:
   categoria_canonica: 07_convivencia_bienestar_y_protocolos
   subcategoria: Protocolos de convivencia y protección
+fundamentos_derecho:
+- norma_id: norm-and-d19-2007
 ---
-
 # Resolución de 26 de septiembre de 2007, de la Dirección General de Participación y Solidaridad en la Educación, por la que se acuerda dar publicidad a los protocolos de actuación que deben seguir los centros educativos ante supuestos de acoso escolar, agresión hacia el Profesorado o el Personal de Administración y Servicios o maltrato infantil.
 
 ## Preámbulo
@@ -31,7 +36,7 @@ ben seguir los centros educativos ante supuestos
 de acoso escolar, agresión hacia el Profesorado o 
 el Personal de Administración y Servicios, o mal-
 trato infantil. 
-El Decreto 19/2007, de 23 de enero, por el que se 
+El [Decreto 19/2007](./D19_2007_promocion_cultura_paz_mejora_convivencia_centros_andalucia.md), de 23 de enero, por el que se 
 adoptan medidas para la promoción de la cultura de paz 
 y la mejora de la convivencia en los centros educativos 
 sostenidos con fondos públicos, a excepción de los uni-
@@ -503,7 +508,7 @@ Si el agresor o agresora es un alumno o alumna del
 centro, se procederá a la adopción de medidas discipli-
 narias en función de lo establecido en el Plan de Convi-
 vencia del centro, y, en cualquier caso, de acuerdo con lo 
-establecido en los artículos 24 y 25 del Decreto 19/2007 
+establecido en los artículos 24 y 25 del [Decreto 19/2007](./D19_2007_promocion_cultura_paz_mejora_convivencia_centros_andalucia.md) 
 de 23 de enero, por el que se adoptan medidas para la 
 promoción de la Cultura de Paz y la mejora de la convi-
 vencia en los centros educativos sostenidos con fondos 

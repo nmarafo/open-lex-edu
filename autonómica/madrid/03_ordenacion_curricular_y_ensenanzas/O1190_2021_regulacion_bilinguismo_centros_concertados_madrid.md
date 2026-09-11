@@ -33,8 +33,15 @@ relaciones:
   - norma_id: norm-es-lo-2-2006
   desarrolla:
   - norma_id: norm-es-lo-2-2006
+fundamentos_derecho:
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-mad-d17-2008-desarrollo-ensenanzas-educacion-infantil-madrid
+- norma_id: norm-es-l-39-2015
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-lo-3-2018
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
 ---
-
 # Orden 1190/2021, de 5 de mayo, por la que se regula la enseñanza bilingüe en centros docentes privados concertados de Madrid.
 
 ## Preámbulo
@@ -45,7 +52,7 @@ Consejería de Educación y Juventud
 ORDEN 1190/2021, de 29 de abril, de la Consejería de Educación y Juventud,
 por la que se regula la medida de permanencia de un año más en el primer ciclo
 de la Etapa de Educación Infantil en la Comunidad de Madrid.
-La Ley Orgánica 2/2006, de 3 de mayo, de Educación, en la redacción dada por la Ley
+La [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, en la redacción dada por la Ley
 Orgánica 3/2020, de 29 de diciembre, dispone en su artículo 12 que la Educación Infantil
 constituye la etapa educativa con identidad propia que atiende a niñas y niños desde el na-
 cimiento hasta los seis años de edad, de carácter voluntario y con la finalidad de contribuir
@@ -65,7 +72,7 @@ del alumnado que presenta necesidades educativas especiales se regirá por los p
 normalización e inclusión, y asegurará su no discriminación y la igualdad efectiva en el ac-
 ceso y permanencia en el sistema educativo, pudiendo introducirse medidas de flexibiliza-
 ción de las distintas etapas educativas cuando se considere necesario.
-El Decreto 17/2008, de 6 de marzo, del Consejo de Gobierno, por el que se desarrollan
+El [Decreto 17/2008](./D17_2008_desarrollo_ensenanzas_educacion_infantil_madrid.md), de 6 de marzo, del Consejo de Gobierno, por el que se desarrollan
 para la Comunidad de Madrid las enseñanzas de la Educación Infantil, dispone en su artícu-
 lo 17 que la intervención educativa debe contemplar como principio la diversidad del alum-
 nado, adaptando la práctica educativa a las características personales, necesidades, intere-
@@ -105,7 +112,7 @@ nación académica vigente para introducir en la misma, previsiones que permitan
 escolarización de los niños grandes prematuros, cuyos padres lo soliciten, en el curso que
 corresponda a su edad corregida.
 La presente norma se adecua a los principios de buena regulación, de acuerdo con lo
-previsto en el artículo 129 de la Ley 39/2015, de 1 de octubre, del Procedimiento Adminis-
+previsto en el artículo 129 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Adminis-
 trativo Común de las Administraciones Públicas, respondiendo a los principios de necesi-
 dad, eficacia, proporcionalidad, seguridad jurídica, transparencia y eficiencia. Es necesaria,
 proporcional y se considera eficiente al ofrecer una respuesta más adaptada a las necesida-
@@ -124,7 +131,7 @@ cía General de la Comunidad de Madrid.
 Por todo ello, en virtud de las competencias atribuidas en el artículo 1 del Decreto 288/2019,
 de 12 de noviembre, del Consejo de Gobierno, por el que se establece la estructura orgánica de la
 Consejería de Educación y Juventud, y de acuerdo con el artículo 17 y la disposición final prime-
-ra del Decreto 17/2008, de 6 de marzo, del Consejo de Gobierno, por el que se desarrollan para
+ra del [Decreto 17/2008](./D17_2008_desarrollo_ensenanzas_educacion_infantil_madrid.md), de 6 de marzo, del Consejo de Gobierno, por el que se desarrollan para
 laComunidaddeMadridlasenseñanzasdelaEducaciónInfantilyelartículo41delaLey1/1983,
 de 13 de diciembre, de Gobierno y Administración de la Comunidad de Madrid,
 DISPONGO:
@@ -135,7 +142,7 @@ Objeto y ámbito de aplicación
 1.
 La presente orden tiene por objeto regular la medida de permanencia de un año
 más en el primer ciclo de la etapa de Educación Infantil, que se extiende de los cero a los
-tres años de edad, de acuerdo con el artículo 14.1 de la Ley Orgánica 2/2006, de 3 de mayo.
+tres años de edad, de acuerdo con el artículo 14.1 de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo.
 2.
 Se define la medida de permanencia de un año más en el primer ciclo de la etapa
 de Educación Infantil, a los efectos de esta orden, como el período de escolarización que
@@ -225,7 +232,7 @@ La solicitud de permanencia de un año más en el primer ciclo de la etapa de Ed
 cación Infantil se realizará por parte de los padres, madres o tutores legales del alumno o
 alumna, según el modelo que se incluye como Anexo I de esta orden, de conformidad con el
 
-#### Artículo 16. 4 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común
+#### Artículo 16. 4 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Administrativo Común
 
 de las Administraciones Públicas, y se dirigirá al titular de la Dirección de Área Territorial
 en la que se ubique el centro en el que se prevea la aplicación de esta medida excepcional.
@@ -247,7 +254,7 @@ cido en las disposiciones vigentes.
 y Juventud, dirigido al titular de la Dirección de Área Territorial en la que se ubi-
 que el centro en el que se prevea la aplicación de esta medida excepcional, así
 como en los restantes registros electrónicos previstos en el artículo 16.4.a) de la
-Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las
+[Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Administrativo Común de las
 Administraciones Públicas.
 Para la presentación de la solicitud por medios electrónicos, es necesario disponer de
 uno de los Certificados Electrónicos reconocidos o cualificados de firma electrónica que
@@ -357,7 +364,7 @@ los objetivos de la etapa así como para su aprendizaje y su integración social
 Contra la resolución de la Dirección de Área Territorial, podrá interponerse recurso de
 alzada ante la consejería con competencias en educación, en el plazo de un mes, desde el
 día siguiente a la notificación de la misma, de conformidad con los artículos 115, 121 y 122
-de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Admi-
+de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Administrativo Común de las Admi-
 nistraciones Públicas.
 
 BOCM
@@ -534,7 +541,7 @@ Tramitación admisión de alumnos en centros públicos para cursar enseñanzas e
 3. ¿Cuál es la legitimación en la cual se basa la licitud del tratamiento?
 Base Jurídica: Apartado 6.1 e), del RGPD. El tratamiento es necesario para el cumplimiento de una misión realizada en interés
 público o en el ejercicio de poderes públicos.
-Legitimación: La Ley Orgánica 2/2006, de 3 de mayo, de Educación. Orden 1190/2021, de la Consejería de Educación y Juventud
+Legitimación: La [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación. Orden 1190/2021, de la Consejería de Educación y Juventud
 por la que se regula la medida de permanencia de un año más en el primer ciclo de la etapa de Educación Infantil en la Comunidad
 de Madrid.
 RGPD 6.1 e) el tratamiento es necesario para el cumplimiento de una misión realizada en interés público o en el ejercicio de
@@ -544,8 +551,8 @@ poderes públicos conferidos al responsable del tratamiento.
 Puede ejercer, si lo desea, los derechos de acceso, rectificación y supresión de datos, así como solicitar que se limite el
 tratamiento de sus datos personales, oponerse al mismo, solicitar en su caso la portabilidad de sus datos, así como a no ser objeto
 de una decisión individual basada únicamente en el tratamiento automatizado, incluida la elaboración de perfiles.
-Según la Ley 39/2015, el RGPD y la Ley Orgánica 3/2018, puede ejercer sus derechos por Registro Electrónico o Registro
-Presencial o en los lugares y formas previstos en el artículo 16.4 de la Ley 39/2015, preferentemente mediante el formulario de
+Según la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), el RGPD y la [Ley Orgánica 3/2018](../../../estatal/02_gestion_y_administracion_centros/LO3_2018_proteccion_datos_personales_garantia_derechos_digitales.md), puede ejercer sus derechos por Registro Electrónico o Registro
+Presencial o en los lugares y formas previstos en el artículo 16.4 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), preferentemente mediante el formulario de
 solicitud “Ejercicio de derechos en materia de protección de datos personales”.
 
 5. Tratamientos que incluyen decisiones automatizadas, incluida la elaboración de perfiles, con efectos jurídicos o
@@ -848,7 +855,7 @@ Tramitación admisión de alumnos en centros públicos para cursar enseñanzas e
 3. ¿Cuál es la legitimación en la cual se basa la licitud del tratamiento?
 Base Jurídica: Apartado 6.1 e), del RGPD. El tratamiento es necesario para el cumplimiento de una misión realizada en interés
 público o en el ejercicio de poderes públicos.
-Legitimación: La Ley Orgánica 2/2006, de 3 de mayo, de Educación. Orden 1190/2021 de la Consejería de Educación y Juventud
+Legitimación: La [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación. Orden 1190/2021 de la Consejería de Educación y Juventud
 por la que se regula la medida de permanencia de un año más en el primer ciclo de la etapa de Educación Infantil en la Comunidad
 de Madrid.
 RGPD 6.1 e) el tratamiento es necesario para el cumplimiento de una misión realizada en interés público o en el ejercicio de
@@ -857,8 +864,8 @@ poderes públicos conferidos al responsable del tratamiento.
 Puede ejercer, si lo desea, los derechos de acceso, rectificación y supresión de datos, así como solicitar que se limite el
 tratamiento de sus datos personales, oponerse al mismo, solicitar en su caso la portabilidad de sus datos, así como a no ser objeto
 de una decisión individual basada únicamente en el tratamiento automatizado, incluida la elaboración de perfiles.
-Según la Ley 39/2015, el RGPD y la Ley Orgánica 3/2018, puede ejercer sus derechos por Registro Electrónico o Registro
-Presencial o en los lugares y formas previstos en el artículo 16.4 de la Ley 39/2015, preferentemente mediante el formulario de
+Según la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), el RGPD y la [Ley Orgánica 3/2018](../../../estatal/02_gestion_y_administracion_centros/LO3_2018_proteccion_datos_personales_garantia_derechos_digitales.md), puede ejercer sus derechos por Registro Electrónico o Registro
+Presencial o en los lugares y formas previstos en el artículo 16.4 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), preferentemente mediante el formulario de
 solicitud “Ejercicio de derechos en materia de protección de datos personales”.
 5. Tratamientos que incluyen decisiones automatizadas, incluida la elaboración de perfiles, con efectos jurídicos o
 relevantes.

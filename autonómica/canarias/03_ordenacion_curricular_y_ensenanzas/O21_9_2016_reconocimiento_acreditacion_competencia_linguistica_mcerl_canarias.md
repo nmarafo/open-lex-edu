@@ -31,8 +31,14 @@ relaciones:
   fundamentado_en:
   - norm-es-lo-2-2006
   - norm-can-l-6-2014
+fundamentos_derecho:
+- norma_id: norm-can-l-6-2014
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-2016-3229
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
 ---
-
 # Orden de 21 de septiembre de 2016, por la que se regula el reconocimiento de la acreditación de la competencia lingüística conforme al Marco Común Europeo de Referencia para las Lenguas en la Comunidad Autónoma de Canarias.
 
 ## Preámbulo
@@ -47,7 +53,7 @@ El conocimiento de distintas lenguas favorece las relaciones sociales y cultural
 aumenta las posibilidades laborales de las personas en una sociedad cada vez más competitiva 
 y globalizada.
 Existen diversas vías para el aprendizaje de las competencias correspondientes, como se 
-establece en el artículo 66.4 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación: “tanto 
+establece en el artículo 66.4 de la [Ley Orgánica 2/2006](../05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación: “tanto 
 por medio de enseñanza, reglada o no reglada, como a través de la experiencia, laboral o 
 en actividades sociales, por lo que se tenderá a establecer conexiones entre ambas vías y se 
 adoptarán medidas para la valoración de los aprendizajes así adquiridos”.
@@ -63,14 +69,14 @@ comunicativa del alumnado a través de un currículo que utilice la lengua extra
 medio de aprendizaje de contenidos de otras áreas o materias curriculares no lingüísticas, 
 unificando el nivel de las competencias tal y como se establece en el Marco Común Europeo 
 de Referencia para las Lenguas (MCERL).
-La Ley Orgánica 8/2013, de 9 de diciembre, para la mejora de la calidad educativa establece 
+La [Ley Orgánica 8/2013](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md), de 9 de diciembre, para la mejora de la calidad educativa establece 
 en su preámbulo que el dominio de una segunda o, incluso, tercera lengua extranjera se ha 
 convertido en una prioridad en la educación. Asimismo, dicha Ley reconoce el fomento del 
 plurilingüismo, propuesto por la Unión Europea, como un objetivo irrenunciable para la 
 construcción de un proyecto europeo, para que los estudiantes se desenvuelvan con fluidez, 
 al menos, en una primera lengua extranjera, cuyo nivel resulta decisivo para favorecer la 
 empleabilidad y las ambiciones profesionales.
-La Ley Orgánica 2/2006, de 3 de mayo, de Educación, en su redacción actual, establece 
+La [Ley Orgánica 2/2006](../05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, en su redacción actual, establece 
 en el artículo 59.1 que “Las enseñanzas de idiomas tienen por objeto capacitar al alumnado 
 para el uso adecuado de los diferentes idiomas, fuera de las etapas ordinarias del sistema 
 educativo, y se organizan en los niveles siguientes: básico, intermedio y avanzado”. Estos 
@@ -80,10 +86,10 @@ y C2”. Estos niveles fueron desarrollados en el Real Decreto 1629/2006, de 29 
 
 Viernes 30 de septiembre de 2016
 por el que se fijan los aspectos básicos del currículo de las enseñanzas de idiomas de régimen 
-especial reguladas por la Ley Orgánica 2/2006, de 3 de mayo, de Educación, reconociendo 
+especial reguladas por la [Ley Orgánica 2/2006](../05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, reconociendo 
 en su Disposición adicional segunda la referencia de los niveles para las enseñanzas de 
 idiomas establecidos en el Marco Común Europeo de Referencia para las Lenguas.
-La Ley 6/2014, de 25 de julio, Canaria de Educación no Universitaria, en el apartado 4, 
+La [Ley 6/2014](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md), de 25 de julio, Canaria de Educación no Universitaria, en el apartado 4, 
 del artículo 47 establece que “El sistema educativo canario aplicará las directrices y niveles 
 del MCERL establecido por el Consejo de Europa, en la enseñanza, el aprendizaje y la 
 evaluación de las lenguas extranjeras.”

@@ -29,8 +29,34 @@ relaciones:
   - norm-mad-d-32-2019
   - norm-es-lo-8-2021
 fuente_pdf_oficial: https://www.comunidad.madrid/docs/2026-07/instrucciones-inicio-de-curso-2026-2027.pdf
+fundamentos_derecho:
+- norma_id: norm-can-l-4-2023
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-can-res-134
+- norma_id: norm-mad-d248-2023
+- norma_id: norm-mad-d-28-2024
+- norma_id: norm-mad-l1-2022
+- norma_id: norm-mad-l4-2023
+- norma_id: norm-mad-d149-2000
+- norma_id: norm-mad-d-36-2022
+- norma_id: norm-mad-d64-2022
+- norma_id: norm-mad-d65-2022
+- norma_id: norm-mad-o130-2023
+- norma_id: norm-mad-o1712-2023
+- norma_id: norm-mad-o-2808-2023
+- norma_id: norm-mad-d23-2023
+- norma_id: norm-mad-d32-2019
+- norma_id: norm-mad-r26-11-2024-instrucciones-protocolo-prevencion-conductas-autolesivas-suicidio-centros-educativos-madrid
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-lo-3-2018
+- norma_id: norm-es-2024-11613
+- norma_id: norm-es-lo-3-2022
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
+- norma_id: norm-es-lo-8-2021
+- norma_id: norm-es-2012-9282
+- norma_id: norm-es-1998-10720
 ---
-
 # Instrucciones de la Viceconsejería de Política y Organización Educativa sobre comienzo del curso escolar 2026-2027 en centros docentes públicos no universitarios de la Comunidad de Madrid.
 
 ## Preámbulo
@@ -520,7 +546,7 @@ con lo dispuesto en el artículo 50 del Real Decreto 83/1996, de 26 de enero, po
 el Reglamento orgánico de los institutos de educación secundaria. 
 3.3. Sustitución de horario lectivo por otras actividades a docentes mayores de 55 años. 
 Los funcionarios docentes que estén prestando servicios en centros escolares que impartan 
-enseñanzas derivadas de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, (en adelante, LOE) 
+enseñanzas derivadas de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, (en adelante, LOE) 
 y que tengan una edad de entre 55 y 59 años, ambos i nclusive, a 31 de agosto de 2026, podrán 
 acogerse a una sustitución parcial del horario lecti vo por otras actividades en el curso 2026-2027, 
 en las condiciones que se reflejan a continuación, y siempre que ello no suponga un incremento de 
@@ -567,7 +593,7 @@ que hayan optado por acogerse a esta medida:
 mejora de la competencia lectora y de la competencia matemática, fomento de la lectura, 
 concursos educativos, nutrición, prevención de drogodependencias, radio, revistas o 
 periódicos del centro. 
-− Realización de las actuaciones previstas en el marco de desarrollo del Decreto 32/2019, de 
+− Realización de las actuaciones previstas en el marco de desarrollo del [Decreto 32/2019](../07_convivencia_bienestar_y_protocolos/D32_2019_marco_regulador_convivencia_centros_docentes_madrid.md), de 
 9 de abril, del Consejo de Gobierno, por el que se establece el marco regulador de la 
 convivencia en los centros docentes de la Comunidad de Madrid, así como participación en 
 planes o proyectos dirigidos a la mejora de la convivencia. 
@@ -654,7 +680,7 @@ centro.
 profesional, la formación y la trayectoria del docente. 
 3. El director comunicará la designación del coordinador en el primer consejo escolar y en el primer 
 claustro de profesores que se celebre en el correspondiente curso escolar. 
-4. Dado que muchas de las funciones recogidas en el artículo 35 de la Ley Orgánica 8/2021, de 4 
+4. Dado que muchas de las funciones recogidas en el artículo 35 de la [Ley Orgánica 8/2021](../../../estatal/07_convivencia_bienestar_y_protocolos/LO8_2021_proteccion_integral_infancia_adolescencia_frente_violencia.md), de 4 
 de junio, ya venían siendo desempeñadas por otros cargos  y personal de los centros, el 
 coordinador de Bienestar contará con su apoyo y colaboración del modo en que se determine 
 en las normas de organización, funcionamiento y convivencia de los centros. 
@@ -720,7 +746,7 @@ alumnos que cursan Religión, por ejemplo, se considera un grupo completo, aunqu
 el total de los 25 alumnos matriculados). 
 − Los períodos de recreo vigilado de los alumnos. 
 − Los períodos de atención a los alumnos con motivo de la puesta en práctica de las medidas de 
-apoyo ordinario y/o específico previstas en la Orden 130/2023, de 23 de enero, la Orden 
+apoyo ordinario y/o específico previstas en la [Orden 130/2023](../03_ordenacion_curricular_y_ensenanzas/O130_2023_organizacion_funcionamiento_evaluacion_educacion_primaria_madrid.md), de 23 de enero, la Orden 
 460/2023, de 17 de febrero, y en la Resolución 21 de julio de 2006, de la Viceconsejería de 
 Educación, por la que se dictan instrucciones para la organización de las actuaciones de 
 compensación educativa en el ámbito de la enseñanza básica en los centros docentes 
@@ -870,7 +896,7 @@ Una vez cubiertas las necesidades horarias en la etapa de Educación Primaria, l
 especialidades de Educación Física y de Música y de otras especialidades adscritos a Educación 
 Primaria podrán completar su horario colaborando con los maestros tutores de l segundo ciclo de  
 Educación Infantil  en la  movilización de los contenidos de los bloques F y H d el área de 
-Comunicación y Representación de la realidad  dispuestos en el  Decreto 36/2022, de 8 de junio, del 
+Comunicación y Representación de la realidad  dispuestos en el  [Decreto 36/2022](../03_ordenacion_curricular_y_ensenanzas/D36_2022_ordenacion_curriculo_educacion_infantil_madrid.md), de 8 de junio, del 
 Consejo de Gobierno, por el que se establece para la Comunidad de Madrid la ordenación y el currículo de 
 la etapa de Educación Infantil, de la siguiente forma: 
 − Maestros especialistas en Música: Bloque F: Lenguaje y expresión musical. 
@@ -948,7 +974,7 @@ https://www.comunidad.madrid/educacion/integracion-tardia-sistema-educativo-espa
 educativo. 
 Los centros docentes deberán tener constantemente actualizado el censo de alumnos con 
 necesidades específicas de apoyo educativo a través de RAICES, tomando como referencia lo 
-dispuesto en el Decreto 23/2023, de 22 de marzo, del Consejo de Gobierno, por el que se regula la 
+dispuesto en el [Decreto 23/2023](../06_atencion_diversidad_y_orientacion/D23_2023_atencion_diferencias_individuales_alumnos_madrid.md), de 22 de marzo, del Consejo de Gobierno, por el que se regula la 
 atención educativa a las diferencias individuales del alumnado en la Comunidad de Madrid y 
 siguiendo las guías explicativas elaboradas al efecto. Igualmente, para cada alumno es necesario 
 consignar y actualizar las medidas educativas específicas o cualquier otro apartado del censo cuya 
@@ -973,7 +999,7 @@ aquellas familias cuya preferencia sea que sus hijos sean escolarizados en grupo
 Primaria. 
 Los grupos de referencia tendrán una ratio máxima de veinte alumnos, sin perjuicio de los supuestos 
 de incremento de ratio que pudieran producirse en aplicación de lo dispuesto en el artículo 87.2 de 
-la Ley Orgánica 2/2006, de 3 de mayo, de Educación. 
+la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación. 
 De conformidad con el apartado 2 de la disposición sexta de la Resolución de 24 de noviembre de 
 La autenticidad de este documento se puede comprobar en 
 https://gestiona.comunidad.madrid/csv
@@ -1043,7 +1069,7 @@ para los centros educativos públicos de la Comunidad de Madrid.
 5.6. Otros aspectos de funcionamiento. 
 En lo relativo a otros aspectos de funcionamiento de los centros, tales como el ejercicio de la función 
 directiva, el ejercicio de la función docente, en materia de seguridad, asignación de carga lectiva, 
-etc., que no se contemplen en la Orden 2808/2023, d e 30 de julio, los colegios de Educación 
+etc., que no se contemplen en la [Orden 2808/2023](../05_alumnado_y_servicios_escolares/O2808_2023_proceso_admision_alumnado_infantil_primaria_eso_bachillerato_madrid.md), d e 30 de julio, los colegios de Educación 
 Especial seguirán lo establecido en las presentes instrucciones para el funcionamiento de los 
 colegios públicos de Educación Infantil y Primaria. 
 Todos los colegios de Educación Especial y aquellos centros ordinarios que cuenten con profesional 
@@ -1118,7 +1144,7 @@ Se considerarán periodos lectivos:
 a) La docencia directa correspondiente al desarrollo de los respectivos currículos de Educación 
 Secundaria Obligatoria, Bachillerato y Formación Profesional. 
 b) Medidas ordinarias en Educación Secundaria Obligatoria previstas en el artículo 9 de la 
-Orden 1712/2023, de 19 de mayo:  
+[Orden 1712/2023](../03_ordenacion_curricular_y_ensenanzas/O1712_2023_organizacion_funcionamiento_evaluacion_eso_madrid.md), de 19 de mayo:  
 − Agrupamientos flexibles en materias instrumentales y, en centros bilingües, en Lengua 
 La autenticidad de este documento se puede comprobar en 
 https://gestiona.comunidad.madrid/csv
@@ -1149,7 +1175,7 @@ Personal Docente no Universitario, por el que se regula la redistribución del h
 personal docente en los centros públicos no universitarios de la Comunidad de Madrid, los 
 tutores de ESO contabilizarán un segundo periodo lectivo de su horario personal para el 
 desarrollo de actuaciones recogidas en el Plan de Convivencia del c entro a que hace 
-referencia el Decreto 32/2019, de 9 de abril, por el que se establece el marco regulador de 
+referencia el [Decreto 32/2019](../07_convivencia_bienestar_y_protocolos/D32_2019_marco_regulador_convivencia_centros_docentes_madrid.md), de 9 de abril, por el que se establece el marco regulador de 
 la convivencia en los centros docentes de la Comunidad de Madrid. Por lo tanto, los tutores 
 tendrán 19 periodos (incluid o el de tutoría con alumnos en la ESO) y , además, el periodo 
 dedicado a convivencia. 
@@ -1351,7 +1377,7 @@ de localidad o no sea posible incrementar el número de unidades, las DAT podrá
 de la adjudicación de plaza escolar, que la citada ratio se incremente hasta un 10% en el número 
 de alumnos por grupo. 
 6.1.12. Organización y opciones en 4º de ESO. 
-Los centros ofertarán todas las materias establecidas en el artículo 8.2 del Decreto 65/2022, de 
+Los centros ofertarán todas las materias establecidas en el artículo 8.2 del [Decreto 65/2022](../03_ordenacion_curricular_y_ensenanzas/D65_2022_ordenacion_curriculo_educacion_secundaria_obligatoria_madrid.md), de 
 20 de julio, agrupadas según las opciones fijadas en el artículo 8.3 del citado decreto. Estas 
 opciones quedan definidas con dos materias, configurando de esta manera itinerarios educativos 
 orientados a un ámbito del conocimiento. Estas opciones se completarán con una tercera materia 
@@ -1451,7 +1477,7 @@ todas las necesidades del centro, garantizando el tiempo de estudio de aquellos 
 segundo de Bachillerato que no cursen la enseñanza de Religión. 
 6.3.3. Materias de Bachillerato. 
 Organización del Bachillerato 
-El Bachillerato se organizará de conformidad con lo dispuesto en el Decreto 64/2022, de 20 de julio, 
+El Bachillerato se organizará de conformidad con lo dispuesto en el [Decreto 64/2022](../03_ordenacion_curricular_y_ensenanzas/D64_2022_ordenacion_curriculo_bachillerato_madrid.md), de 20 de julio, 
 La autenticidad de este documento se puede comprobar en 
 https://gestiona.comunidad.madrid/csv
 1296114637980242828349
@@ -1475,7 +1501,7 @@ informará de la misma a los órganos colegiados del centro docente y será supe
 Servicio de Inspección Educativa . El funcionamiento de grupos de estas materias por debajo de 
 dicha ratio se llevará a cabo con el cupo de profesores asignado al centro.  
 Enseñanzas de Religión 
-La organización de las enseñanzas de Religión se atendrá a lo establecido en el Decreto 64/2022, 
+La organización de las enseñanzas de Religión se atendrá a lo establecido en el [Decreto 64/2022](../03_ordenacion_curricular_y_ensenanzas/D64_2022_ordenacion_curriculo_bachillerato_madrid.md), 
 de 20 de julio y normativa de desarrollo. 
 En el marco de los acuerdos y de la normativa vigente, los padres o tutores legales manifestarán su 
 voluntad de que el alumno reciba o no enseñanzas del área de Religión en el momento previo al 
@@ -1627,7 +1653,7 @@ elección será el siguiente:
 Profesores adscritos a las especialidades incluidas en el anexo II.b . (Cuerpo de 
 Catedráticos o Profesores de Enseñanza Secundaria),  o en anexo IV.b. (Profesores 
 Especialistas en Sectores Singulares /Técnicos de Formación Profesional, del Real Decreto 
-1635/1995, modificado por la disposición adicional octava del Real Decreto 777/1998 
+1635/1995, modificado por la disposición adicional octava del [Real Decreto 777/1998](../../../estatal/08_personal_docente/RD777_1998_desarrollan_determinados_aspectos_ordenacion_formacion_profesional.md) 
 (anexo VIII.b). 
 Profesores adscritos a las especialidades comprendidas en el anexo III del Real Decreto 
 1635/1995, con la ampliación introducida en la disposición adicional octava del Real 
@@ -1671,7 +1697,7 @@ su vez, realizar la programación didáctica y cuantas actuaciones se requieran 
 evaluación y los datos estadísticos. En el caso de que en el centro no haya departamentos de familia 
 profesional, los docentes se adscribirán al departamento de orientación. 
 Los docentes de los ámbitos de Comunicación y Ciencias Sociales y de Ciencias Aplicadas 
-establecidos en el artículo 85.2 de la Ley Orgánica 2/2006, de 3 de mayo, de los ciclos formativos 
+establecidos en el artículo 85.2 de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de los ciclos formativos 
 de grado básico impartidos en centros que solo cuenten con enseñanzas de Formación Profesional, 
 formarán parte del departamento de orientación. 
 7.6.1.1. Horario lectivo.  
@@ -1927,7 +1953,7 @@ Se pueden consultar los modelos en el siguiente enlace:
 https://www.comunidad.madrid/servicios/educacion/regulacion-educacion-secundaria-obligatoria#panel-396888 
 Los centros docentes deberán mantener actualizado, en el módulo NEAE del Sistema Integral de 
 Gestión Educativa Raíces, el censo de alumnos con necesidades específicas de apoyo educativo, 
-tomando como referencia lo dispuesto en el Decreto 23/2023, de 22 de marzo, del Consejo de 
+tomando como referencia lo dispuesto en el [Decreto 23/2023](../06_atencion_diversidad_y_orientacion/D23_2023_atencion_diferencias_individuales_alumnos_madrid.md), de 22 de marzo, del Consejo de 
 Gobierno, por el que se regula la atención educativa a las diferencias individuales del alumnado en 
 la Comunidad de Madrid y siguiendo las guías explicativas elaboradas al efecto. 
  
@@ -1944,7 +1970,7 @@ consultadas a través de la página web de la Comunidad de Madrid:
 https://www.comunidad.madrid/servicios/educacion/compensacion-desigualdades-educacion 
 9.3. Aulas de Enlace. 
 Las Aulas de Enlace, como medida específica de atención educativa para estos alumnos, se regirán 
-por la Orden 1712/2023, de 19 de mayo y la Resolución conjunta de las Viceconsejerías de Política 
+por la [Orden 1712/2023](../03_ordenacion_curricular_y_ensenanzas/O1712_2023_organizacion_funcionamiento_evaluacion_eso_madrid.md), de 19 de mayo y la Resolución conjunta de las Viceconsejerías de Política 
 Educativa y de Organización Educativa por la que se dictan Instrucciones sobre la autorización de 
 las aulas de enlace, incorporación del alumnado a las mismas y atención educativa a partir del curso 
 escolar 2023-2024.  
@@ -2046,9 +2072,9 @@ Para facilitar las actuaciones programadas, sensibilizar y formar a la comunidad
 materiales, herramientas de trabajo y ejemplos de buenas prácticas que pueden consultarse en la 
 dirección: https://www.educa2.madrid.org/web/convivencia  
 12.1. Protocolos de actuación ante situaciones de violencia. 
-Mediante la Resolución de 26 de noviembre de 2024 , de la Viceconsejería de Política y 
+Mediante la [Resolución de 26 de noviembre de 2024](../07_convivencia_bienestar_y_protocolos/R26_11_2024_instrucciones_protocolo_prevencion_conductas_autolesivas_suicidio_centros_educativos_madrid.md) , de la Viceconsejería de Política y 
 Organización Educativa, se da publicidad a los protocolos de actuación ante cualquier tipo de 
-violencia en los centros educativos, conforme al artículo 35.3 de la Ley 4/2023, de 22 de marzo, de 
+violencia en los centros educativos, conforme al artículo 35.3 de la [Ley 4/2023](../../canarias/01_marco_normativo_general_y_organico/L4_2023_presidencia_gobierno_canarias.md), de 22 de marzo, de 
 Derechos, Garantías y Protección Integral de la Infancia y la Adolescencia de la Comunidad de 
 Madrid. La dirección o titularidad de los centros educativos tienen la responsabilidad de que la 
 comunidad educativa esté informada de los protocolos existentes, así como de la ejecución y el 
@@ -2154,7 +2180,7 @@ https://www.educa2.madrid.org/web/convivencia/materiales-programa-enlace-salud-m
 13.1. Deber de colaboración. 
 En el desarrollo de sus actuaciones, los inspectores de educación recibirán de los restantes 
 funcionarios y responsables de los centros y servicios educativos, públicos y privados, la necesaria 
-colaboración, de acuerdo con lo establecido en el artículo 153.c de la Ley orgánica 2/2006, de 3 de 
+colaboración, de acuerdo con lo establecido en el artículo 153.c de la [Ley orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de 
 mayo, de Educación. 
 13.2. Plan de actuación. 
 Las actuaciones de la Inspección Educativa se desarrollarán dentro del marco establecido en  su 
@@ -2192,7 +2218,7 @@ repositorio, ya que en ningún caso se borra el documento anterior.
 13.4. Módulo de convivencia en Raíces. 
 Los centros educativos utilizarán de forma obligatoria el módulo de convivencia en Raíces para la 
 gestión de las medidas correctoras de las faltas disciplinarias de los alumnos recogidas en los 
-artículos 33 y siguientes del Decreto 32/2019, de 9 de abril.  
+artículos 33 y siguientes del [Decreto 32/2019](../07_convivencia_bienestar_y_protocolos/D32_2019_marco_regulador_convivencia_centros_docentes_madrid.md), de 9 de abril.  
 14. TECNOLOGÍAS DE LA INFORMACIÓN Y LA COMUNICACIÓN. 
 14.1. Utilización de recursos digitales en el ámbito educativo. 
 Los centros educativos deberán priorizar el uso de los entornos y herramientas digitales puestos a 
@@ -2388,21 +2414,21 @@ Plan de Formación 2026-2027 se llevará a cabo a través de la plataforma de in
 https://innovacionyformacion.educa.madrid.org/ 
 17. NORMATIVA SOBRE ORGANIZACIÓN Y FUNCIONAMIENTO DE LOS CENTROS. 
 17.1 Normativa básica. 
-− Ley Orgánica 2/2006, de 3 de mayo, de Educación. 
-− Ley Orgánica 3/2022, de 31 de marzo, de ordenación e integración de la Formación Profesional. 
-− Ley 1/2024, de 7 de junio, por la que se regulan las enseñanzas artísticas superiores y se 
+− [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación. 
+− [Ley Orgánica 3/2022](../../canarias/08_personal_docente/R30_6_2023_ordenacion_gestion_determinadas_listas_empleo_tras.md), de 31 de marzo, de ordenación e integración de la Formación Profesional. 
+− [Ley 1/2024](../../../estatal/03_ordenacion_curricular_y_ensenanzas/L1_2024_regulan_ensenanzas_artisticas_superiores_establece_organizacion.md), de 7 de junio, por la que se regulan las enseñanzas artísticas superiores y se 
 establece la organización y equivalencias de las enseñanzas artísticas profesionales. 
 − Reglamento (UE) 2016/679, del Parlamento Europeo y del Consejo, de 27 de abril de 2016. 
-− Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los 
+− [Ley Orgánica 3/2018](../../../estatal/02_gestion_y_administracion_centros/LO3_2018_proteccion_datos_personales_garantia_derechos_digitales.md), de 5 de diciembre, de Protección de Datos Personales y garantía de los 
 derechos digitales. 
 17.2 Normativa de la Comunidad de Madrid. 
 − Ley 6/2011, de 28 de diciembre, de Medidas Fiscales y Administrativas. 
-− Ley 4/2012, de 4 de julio, de Modificación de la Ley de Presupuestos Generales de la 
+− [Ley 4/2012](../../../estatal/08_personal_docente/L4_2012_medidas_administrativas_fiscales.md), de 4 de julio, de Modificación de la Ley de Presupuestos Generales de la 
 Comunidad de Madrid para el año 2012, y de medidas urgentes de racionalización del gasto 
 público e impulso y agilización de la actividad económica. 
-− Ley 1/2022, de 10 de febrero, Maestra de Libertad de Elección Educativa de la Comunidad de 
+− [Ley 1/2022](../01_marco_normativo_general_y_organico/L1_2022_maestra_libertad_eleccion_educativa_madrid.md), de 10 de febrero, Maestra de Libertad de Elección Educativa de la Comunidad de 
 Madrid. 
-− Decreto 149/2000, de 22 de junio, por el que se regula el régimen jurídico de la autonomía de 
+− [Decreto 149/2000](../02_gestion_y_administracion_centros/D149_2000_regimen_juridico_autonomia_gestion_centros_docentes_madrid.md), de 22 de junio, por el que se regula el régimen jurídico de la autonomía de 
 gestión de los centros docentes públicos no universitarios. 
 − Decreto 198/2000, de 31 de agosto, por el que se crean los nuevos departamentos didácticos 
 La autenticidad de este documento se puede comprobar en 
@@ -2568,9 +2594,9 @@ Las presentes Instrucciones serán efectivas a partir del 1 de septiembre de 202
 20. NORMAS FINALES. 
 Se autoriza a las direcciones generales dependientes de la Consejería de Educación, Ciencia y 
 Universidades para dictar , en el marco de las presentes i nstrucciones y conforme a las 
-competencias atribuidas por el Decreto 248/2023, de 11 de octubre, del Consejo de Gobierno, por 
+competencias atribuidas por el [Decreto 248/2023](../01_marco_normativo_general_y_organico/D248_2023_estructura_organica_consejeria_educacion_ciencia_universidades_madrid.md), de 11 de octubre, del Consejo de Gobierno, por 
 el que se establece la estructura orgánica de la Consejería de Educación, Ciencia y Universidades, 
-modificado por el Decreto 28/2024 de 24 de abril, cuantas otras estimen oportunas a fin de asegurar 
+modificado por el [Decreto 28/2024](../01_marco_normativo_general_y_organico/D28_2024_modificacion_estructura_organica_consejeria_educacion_ciencia_universidades_madrid.md) de 24 de abril, cuantas otras estimen oportunas a fin de asegurar 
 el correcto inicio del curso escolar 2026-2027, mediante la adecuada distribución de los recursos 
 humanos disponibles. 
 Las direcciones de Área Territorial  adoptarán las medidas oportunas para que las presentes 

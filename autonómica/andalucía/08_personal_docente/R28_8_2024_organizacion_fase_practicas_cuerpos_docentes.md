@@ -35,8 +35,22 @@ relaciones:
   - norm-es-rd-276-2007
   - norm-es-lo-2-2006
   - norm-and-d-302-2010
+fundamentos_derecho:
+- norma_id: norm-and-d154-2022
+- norma_id: norm-and-l12-2007-promocion-igualdad-genero-andalucia
+- norma_id: norm-and-l17-2007
+- norma_id: norm-and-l9-2007-administracion-junta-andalucia-laja
+- norma_id: norm-and-d302-2010-ordenacion-funcion-publica-docente-seleccion-provision-andalucia
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-es-l-39-2015
+- norma_id: norm-es-l-40-2015
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-l-31-1995
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
+- norma_id: norm-es-rd-276-2007
+- norma_id: norm-es-2007-5478
 ---
-
 # Resolución de 28 de agosto de 2024, de la Dirección General del Profesorado y Gestión de Recursos Humanos, por la que se regula la organización de la fase de prácticas del personal seleccionado en los procedimientos selectivos para el ingreso en los cuerpos docentes (BOJA n.º 169 de 30/08/2024).
 
 ## Protocolo y Directrices
@@ -96,8 +110,8 @@ la seguridad jurídica y normativa necesaria para tal fin, y los centros articul
 00306897
  Número 169 - Viernes, 30 de agosto de 2024
 uso de su autonomía organizativa y pedagógica medidas para su efectiva aplicación, en 
-virtud de lo regulado tanto en el artículo 120 de la Ley Orgánica 2/2006, de 3 de mayo, de 
-Educación, como en el artículo 125 de la Ley 17/2007, de 10 de diciembre, de Educación 
+virtud de lo regulado tanto en el artículo 120 de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de 
+Educación, como en el artículo 125 de la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre, de Educación 
 de Andalucía.
 Entre los objetivos del Programa de Cooperación Territorial para la Mejora de la 
 Competencia Digital Educativa #CompDigEdu suscrito entre el Ministerio de Educación, 
@@ -109,11 +123,11 @@ de apoyo a dicha actuación se incluye como novedad, la incorporación de una fo
 voluntaria con una duración de 40 horas para certificar un nivel A1 de competencia digital 
 en esta fase de prácticas.
 El Reglamento de ingreso, accesos y adquisición de nuevas especialidades en los 
-cuerpos de funcionarios docentes a los que se refiere la Ley Orgánica 2/2006, de 3 de 
-mayo, de Educación, aprobado por el Real Decreto 276/2007, de 23 de febrero, regula 
+cuerpos de funcionarios docentes a los que se refiere la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de 
+mayo, de Educación, aprobado por el [Real Decreto 276/2007](../../../estatal/08_personal_docente/RD276_2007_aprueba_reglamento_ingreso_accesos_adquisicion_nuevas.md), de 23 de febrero, regula 
 en los artículos 30 y 31 la fase de prácticas del personal que resulte seleccionado en los 
 diferentes procedimientos selectivos.
-Por su parte, el artículo 15 de la Ley 17/2007, de 10 de diciembre, de Educación de 
+Por su parte, el artículo 15 de la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre, de Educación de 
 Andalucía, establece los principios rectores que han de regir el desarrollo de la fase de 
 prácticas.
 Al amparo de lo dispuesto en el artículo 8 del del Decreto-ley 12/2022, de 29 de 
@@ -128,10 +142,10 @@ del año 2024, año en el que se ha celebrado el procedimiento selectivo, except
 los casos en los que el funcionario o funcionaria en prácticas disfrute de los permisos 
 correspondientes a la maternidad, paternidad, adopción o guarda con fines de adopción 
 o acogimiento entre dichas fechas, en los que, en aplicación de lo establecido en los 
-artículos 4 y 29 de la Ley 12/2007, de 26 de noviembre, para la promoción de la igualdad 
+artículos 4 y 29 de la [Ley 12/2007](../01_marco_normativo_general_y_organico/L12_2007_promocion_igualdad_genero_andalucia.md), de 26 de noviembre, para la promoción de la igualdad 
 de género en Andalucía, se podrá realizar durante el curso 2025/2026 y siempre a la 
 finalización del disfrute de dichos permisos.
-El Decreto 302/2010, de 1 de junio, por el que se ordena la función pública docente y 
+El [Decreto 302/2010](./D302_2010_ordenacion_funcion_publica_docente_seleccion_provision_andalucia.md), de 1 de junio, por el que se ordena la función pública docente y 
 se regula la selección del profesorado y la provisión de los puestos de trabajo docentes, 
 establece en su artículo 8 que la fase de prácticas tendrá como objetivo proporcionar al 
 profesorado de nuevo ingreso las herramientas necesarias para el desarrollo de la función 
@@ -155,7 +169,7 @@ Especialistas en Sectores Singulares de Formación Profesional, convocado por Or
 12 de diciembre de 2022, y por la que se le nombra con carácter provisional funcionario 
 en prácticas.
 En virtud de lo expuesto, y en uso de las competencias que le confiere el artículo 9 
-del Decreto 154/2022, de 9 de agosto, por el que se establece la estructura orgánica de 
+del [Decreto 154/2022](../01_marco_normativo_general_y_organico/D154_2022_estructura_organica_consejeria_desarrollo_educativo_andalucia.md), de 9 de agosto, por el que se establece la estructura orgánica de 
 la Consejería de Desarrollo Educativo y Formación Profesional, esta Dirección General 
 del Profesorado y Gestión de Recursos Humanos
 HA RESUELTO
@@ -184,12 +198,12 @@ académico 2024/2025. No obstante, en los supuestos de maternidad, paternidad,
 adopción o guarda con fines de adopción o acogimiento, el personal funcionario afectado 
 deberá contar, al menos, con dos meses y un día de servicios efectivos, entre el 1 
 de septiembre y el 20 de diciembre de 2024, para la valoración de la referida fase de 
-prácticas, en aplicación de lo establecido en los artículos 4 y 29 de la Ley 12/2007, de 26 
+prácticas, en aplicación de lo establecido en los artículos 4 y 29 de la [Ley 12/2007](../01_marco_normativo_general_y_organico/L12_2007_promocion_igualdad_genero_andalucia.md), de 26 
 de noviembre, para la promoción de la igualdad de género en Andalucía.
 Tercero. Composición y funciones de las comisiones de evaluación de centros y de 
 las comisiones provinciales de coordinación y seguimiento de la fase de prácticas.
 3.1. Comisiones de evaluación de centros.
-De conformidad con lo establecido en el artículo 14 del Decreto 302/2010, de 1 de 
+De conformidad con lo establecido en el artículo 14 del [Decreto 302/2010](./D302_2010_ordenacion_funcion_publica_docente_seleccion_provision_andalucia.md), de 1 de 
 junio, la evaluación de la fase de prácticas la realizarán las comisiones de evaluación de 
 centros, órganos colegiados que se constituirán en aquellos centros en los que preste 
 servicios el personal funcionario en prácticas.
@@ -224,7 +238,7 @@ A las personas que desempeñen la tutoría del personal funcionario en práctica
 será reconocida esta condición como mérito específico en las convocatorias y concursos 
 dirigidos al personal docente.
 3.2. Comisiones provinciales de coordinación y seguimiento de la fase de prácticas.
-De conformidad con lo establecido en el artículo 15 del Decreto 302/2010, de 1 de 
+De conformidad con lo establecido en el artículo 15 del [Decreto 302/2010](./D302_2010_ordenacion_funcion_publica_docente_seleccion_provision_andalucia.md), de 1 de 
 junio, las comisiones provinciales son órganos colegiados que estarán compuestos por 
 los siguientes miembros:
 a) Presidencia: la persona titular del Servicio Provincial de Inspección de Educación.
@@ -402,7 +416,7 @@ noviembre de 2024.
 2. Curso de Iniciación a la prevención de riesgos laborales en la docencia.
 La finalidad de este curso es ofrecer una formación inicial y básica sobre los riesgos 
 generales y específicos del trabajo docente y las medidas que se pueden tomar para 
-evitarlas de conformidad con lo previsto en la Ley 31/1995, de 8 de noviembre, de 
+evitarlas de conformidad con lo previsto en la [Ley 31/1995](../../../estatal/02_gestion_y_administracion_centros/L31_1995_prevencion_riesgos_laborales.md), de 8 de noviembre, de 
 Prevención de Riesgos Laborales.
 Esta formación se realizará en modalidad a distancia en el Aula Virtual de Formación 
 del Profesorado. El curso tendrá una duración de 10 horas y el personal funcionario en 
@@ -471,11 +485,11 @@ formación.
 Los informes mencionados en los apartados a), b) y c) tendrán especial relevancia en 
 la calificación del personal en prácticas, debiéndose motivar la calificación de «no apto». 
 Para conformar su criterio de manera colegiada según lo dispuesto en el artículo 17.5 de 
-la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, con respecto a 
+la [Ley 40/2015](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md), de 1 de octubre, de Régimen Jurídico del Sector Público, con respecto a 
 la superación de la fase de prácticas, el informe sobre la aptitud para la docencia tendrá 
 especial relevancia.
 Las actas para la emisión de la calificación del personal en prácticas se confeccionarán 
-conforme lo establecido en el artículo 18 de la referida Ley 40/2015, de 1 de octubre.
+conforme lo establecido en el artículo 18 de la referida [Ley 40/2015](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md), de 1 de octubre.
 
 00306897
  Número 169 - Viernes, 30 de agosto de 2024
@@ -519,9 +533,9 @@ los derechos a su nombramiento como funcionario o funcionaria de carrera.
 Contra la presente resolución, que pone fin a la vía administrativa, podrá interponerse, 
 potestativamente, recurso de reposición, ante el mismo órgano que la dicta, en el plazo de 
 un mes a contar desde el día siguiente al de su publicación en el Boletín Oficial de la Junta 
-de Andalucía, de conformidad con los artículos 112.1, 123 y 124 de la Ley 39/2015, de 1 
+de Andalucía, de conformidad con los artículos 112.1, 123 y 124 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 
 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, y 
-en el artículo 115.2 de la Ley 9/2007, de 22 de octubre, de la Administración de la Junta 
+en el artículo 115.2 de la [Ley 9/2007](../01_marco_normativo_general_y_organico/L9_2007_administracion_junta_andalucia_laja.md), de 22 de octubre, de la Administración de la Junta 
 de Andalucía, o alternativa y directamente, en el plazo de dos meses a contar desde 
 el día siguiente al de su publicación, recurso contencioso-administrativo ante el órgano 
 jurisdiccional competente, conforme a lo establecido en los artículos 8.2.a), 14 y 46.1 de 

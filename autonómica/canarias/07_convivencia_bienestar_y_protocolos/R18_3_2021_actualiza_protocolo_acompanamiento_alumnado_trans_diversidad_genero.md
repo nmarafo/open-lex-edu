@@ -28,8 +28,13 @@ relaciones:
   - norm-es-lo-2-2006
   - norm-can-l-6-2014
 fuente_pdf_oficial: https://www.gobiernodecanarias.org/cmsgob1/export/sites/educacion/web/_galerias/descargas/normativa-internas/resolucion-575-actualizacion-protocolo-trans-18-marzo.pdf
+fundamentos_derecho:
+- norma_id: norm-can-l-1-1997
+- norma_id: norm-can-l-6-2014
+- norma_id: norm-can-o-2007-03-27
+- norma_id: norm-can-d-114-2011
+- norma_id: norm-es-lo-1-1996
 ---
-
 # Resolución n.º 575/2021, de 18 de marzo, de la Dirección General de Ordenación, Innovación y Calidad, por la que se actualiza el Protocolo para el acompañamiento al alumnado Trans* y la atención a la diversidad de género en los centros educativos sostenidos con fondos públicos de la Comunidad Autónoma de Canarias.
 
 ## Preámbulo
@@ -94,7 +99,7 @@ artículo  14  determina  que  los  españoles  son  iguales  ante  la  ley,  si
 discriminación alguna por razón de nacimiento, raza, sexo, religión, opinión o cualquier otra condición
 o circunstancia personal o social, garantizando, en su artículo 18, el derecho al honor, a la intimidad
 personal y familiar, y a la propia imagen.
-Quinto. La Ley Orgánica 1/1996, de 15 de enero, de Protección Jurídica del Menor, de modificación
+Quinto. La [Ley Orgánica 1/1996](../../../estatal/01_marco_normativo_general_y_organico/LO1_1996_proteccion_juridica_menor_modificacion_parcial_codigo.md), de 15 de enero, de Protección Jurídica del Menor, de modificación
 parcial del Código Civil y de la Ley de Enjuiciamiento Civil, modificada parcialmente por la Ley
 Orgánica 26/2015, de 22 de julio, de modificación del sistema de protección a la infancia y a la
 adolescencia, establece que, a efectos de la interpretación y aplicación, en cada caso, del interés
@@ -106,7 +111,7 @@ su  pertenencia  a  una  minoría  étnica,  o  cualquier  otra  característica
 Asimismo, en la mencionada modificación, se establecen los principios rectores de la actuación de los
 poderes públicos en relación con los menores, incluyendo en el apartado 2.l) del artículo 1: «El libre
 desarrollo de su personalidad conforme a su orientación e identidad sexual».
-Sexto. La Ley 1/1997, de 7 de febrero, de Atención Integral a los Menores, determina, en su artículo
+Sexto. La [Ley 1/1997](../01_marco_normativo_general_y_organico/L1_1997_atencion_integral_menores.md), de 7 de febrero, de Atención Integral a los Menores, determina, en su artículo
 19, apartado 1, letra a), que es una obligación de los centros docentes la comunicación de situaciones
 de riesgo o desamparo en los menores escolarizados.
 Séptimo.  La Ley 8/2014, de 28 de octubre, de no discriminación por motivos de identidad de género
@@ -118,7 +123,7 @@ electrónico siguiente: 0LbyYrvzw9uTZVFQ4Szae64fZNstM5FCd
 y de reconocimiento de los derechos de las personas transexuales regula, en sus artículos 14 y 15, las
 actuaciones de la Administración Educativa Canaria, en materia de transexualidad, dentro del sistema
 educativo, así como su tratamiento en la educación básica.
-Octavo. La Ley 6/2014, de 25 de julio, Canaria de Educación no Universitaria, insta al impulso de
+Octavo. La [Ley 6/2014](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md), de 25 de julio, Canaria de Educación no Universitaria, insta al impulso de
 acciones encaminadas a incorporar, en el funcionamiento del sistema educativo, una educación en
 valores tales como la educación ambiental, la cultura de la paz, la convivencia y la igualdad de todos,
 independientemente de su identidad sexual y de género. Además, establece en el artículo 7, apartado 4,
@@ -498,7 +503,7 @@ implementación  del  Plan  de  Igualdad  en  los  centros  educativos  de  la  
 Canarias  
 http://www3.gobiernodecanarias.org/medusa/ecoescuela/educarparalaigualdad/plan-de-igualdad-en-
 los-centros-educativos/
-2. Decreto 114/2011, de 11 de mayo, en el que se regula la convivencia en el ámbito educativo de
+2. [Decreto 114/2011](./D114_2011_regula_convivencia_ambito_educativo_comunidad_autonoma.md), de 11 de mayo, en el que se regula la convivencia en el ámbito educativo de
 la Comunidad Autónoma de Canarias,  recoge en el artículo 63 como conductas contrarias a la
 convivencia de carácter grave “la discriminación por razón de nacimiento, edad, raza, sexo, estado
 civil, orientación sexual, aptitud física o psíquica, estado de salud, cultura, religión, creencia, ideología
@@ -530,14 +535,14 @@ basado en la cultura de paz:
 http://www3.gobiernodecanarias.org/medusa/ecoescuela/acosoescolar/
 Por otra parte, una de las medidas que se contempla cuando fallan las actuaciones  restaurativas  en el
 ámbito de la convivencia escolar es que  el alumnado que haya padecido acoso escolar podrá acogerse
-a las medidas de escolarización extraordinaria contempladas en la Orden de 27 de marzo de 2007,
+a las medidas de escolarización extraordinaria contempladas en la [Orden de 27 de marzo de 2007](../05_alumnado_y_servicios_escolares/O27_3_2007_desarrolla_procedimiento_admision_alumnado_ensenanzas_no_universitarias.md),
 modificada por la Orden de 15 de marzo de 2017, por la que se desarrolla el procedimiento de
 admisión del alumnado en las enseñanzas no universitarias en los centros docentes públicos y privados
 concertados de la Comunidad Autónoma de Canarias. Por su parte, las Direcciones Territoriales de la
 Consejería  de  Educación,  Universidades,  Cultura  y  Deportes,  en  el  ámbito  de  sus  atribuciones,
 actuarán para garantizar la mejor solución a las posibles dificultades de escolarización del alumnado
 por razón de identidad de género.
-4.  Ley 1/1997, de Atención Integral a los Menores.  En aquellos casos en los que, a causa de la
+4.  [Ley 1/1997](../01_marco_normativo_general_y_organico/L1_1997_atencion_integral_menores.md), de Atención Integral a los Menores.  En aquellos casos en los que, a causa de la
 actitud de la familia hacia la identidad de género de la alumna o el alumno, se detecten indicios de
 maltrato,  se  procederá  conforme  se  prevé  legalmente  para  casos  de  maltrato,  incluyendo  el  no
 reconocimiento de la identidad de género.   

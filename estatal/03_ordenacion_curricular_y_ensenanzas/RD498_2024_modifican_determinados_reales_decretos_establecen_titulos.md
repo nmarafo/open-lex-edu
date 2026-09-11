@@ -297,8 +297,24 @@ relaciones:
   - norma_id: norm-es-2022-16194
   - norma_id: norm-es-2023-9553
   - norma_id: norm-es-rd-276-2007
+fundamentos_derecho:
+- norma_id: norm-can-res-boc-2024-230-25
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-can-res-134
+- norma_id: norm-es-l-39-2015
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-lo-3-2022
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-rd-217-2022
+- norma_id: norm-es-2014-5591
+- norma_id: norm-es-rd-659-2023
+- norma_id: norm-es-2015-9462
+- norma_id: norm-es-2010-12201
+- norma_id: norm-es-rd-276-2007
+- norma_id: norm-es-2023-9553
+- norma_id: norm-es-2007-5478
+- norma_id: norm-es-2022-16194
 ---
-
 # Real Decreto 498/2024, de 21 de mayo, por el que se modifican determinados reales decretos por los que se establecen títulos de Formación Profesional de grado básico y se fijan sus enseñanzas mínimas.
 
 ## Preámbulo
@@ -357,7 +373,7 @@ Para canalizar todas las expectativas, la ley orgánica requiere ser desarrollad
 
 Establecida la ordenación del sistema por el [Real Decreto 659/2023](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, por el que se desarrolla la ordenación del Sistema de Formación Profesional, procede realizar los cambios normativos mínimos e imprescindibles para garantizar la transición y adaptación al nuevo sistema de las titulaciones y ofertas formativas reguladas con anterioridad, con plena seguridad jurídica para la ciudadanía y de las administraciones competentes de las comunidades autónomas.
 
-A este objetivo responde la presente norma en la que se establecen los cambios de ordenación necesarios de los títulos de Formación Profesional de grado básico para permitir su oferta en el marco de la nueva estructura establecida en el Real Decreto 659/2023, de 18 de julio. Concretamente, se procede a la actualización de la nómina de los módulos profesionales que forman parte del plan de estudios de cada ciclo formativo, se adapta el antiguo proyecto a la intermodularidad requerida, se adaptan los cuerpos del profesorado tras la publicación del [Real Decreto 800/2022](../08_personal_docente/RD800_2022_regula_integracion_profesorado_cuerpo_extinguir_profesores.md), de 4 de octubre, por el que se regula la integración del profesorado del Cuerpo, a extinguir, de Profesores Técnicos de Formación Profesional en el Cuerpo de Profesores de Enseñanza Secundaria, y se modifican diversos reales decretos relativos al profesorado de enseñanzas no universitarias, y se actualiza el contenido del apartado 2.3 de los anexos de algunos reales decretos.
+A este objetivo responde la presente norma en la que se establecen los cambios de ordenación necesarios de los títulos de Formación Profesional de grado básico para permitir su oferta en el marco de la nueva estructura establecida en el [Real Decreto 659/2023](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio. Concretamente, se procede a la actualización de la nómina de los módulos profesionales que forman parte del plan de estudios de cada ciclo formativo, se adapta el antiguo proyecto a la intermodularidad requerida, se adaptan los cuerpos del profesorado tras la publicación del [Real Decreto 800/2022](../08_personal_docente/RD800_2022_regula_integracion_profesorado_cuerpo_extinguir_profesores.md), de 4 de octubre, por el que se regula la integración del profesorado del Cuerpo, a extinguir, de Profesores Técnicos de Formación Profesional en el Cuerpo de Profesores de Enseñanza Secundaria, y se modifican diversos reales decretos relativos al profesorado de enseñanzas no universitarias, y se actualiza el contenido del apartado 2.3 de los anexos de algunos reales decretos.
 
 En relación con el contenido de carácter básico de este real decreto, se ha recurrido a una norma reglamentaria para establecer bases estatales conforme con la jurisprudencia del Tribunal Constitucional, que admite «excepcionalmente», que las bases puedan establecerse mediante normas reglamentarias en determinados supuestos, cuando, como ocurre en el presente caso, «resulta complemento indispensable para asegurar el mínimo común denominador establecido en las normas legales básicas» (así, entre otras, en las Sentencias del Tribunal Constitucional 25/1983, de 7 de abril, 32/1983, de 28 de abril, 48/1988, de 22 de marzo, y 49/1988, de 22 de marzo).
 
@@ -365,7 +381,7 @@ Asimismo, cabe mencionar que este real decreto se ajusta a los principios de bue
 
 Este real decreto se dicta al amparo de las competencias que atribuye al Estado el artículo 149.1.30.ª de la Constitución Española, para la regulación de las condiciones de obtención, expedición y homologación de los títulos académicos y profesionales y normas básicas para el desarrollo del artículo 27 de la Constitución Española, a fin de garantizar el cumplimiento de las obligaciones de los poderes públicos en esta materia.
 
-En la tramitación de este real decreto se han cumplido los trámites establecidos en la Ley 50/1997, de 27 de noviembre, del Gobierno y en la Ley 39/2015, de 1 de octubre. Ha emitido dictamen el Consejo Escolar del Estado y ha sido informado el Ministerio de Política Territorial y Memoria Democrática.
+En la tramitación de este real decreto se han cumplido los trámites establecidos en la Ley 50/1997, de 27 de noviembre, del Gobierno y en la [Ley 39/2015](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre. Ha emitido dictamen el Consejo Escolar del Estado y ha sido informado el Ministerio de Política Territorial y Memoria Democrática.
 
 En su virtud, a propuesta de la Ministra de Educación, Formación Profesional y Deportes, y previa deliberación del Consejo de Ministros en su reunión del día 21 de mayo de 2024,
 
@@ -373,7 +389,7 @@ En su virtud, a propuesta de la Ministra de Educación, Formación Profesional y
 
 #### Artículo primero. Objeto y ámbito de aplicación.
 
-Uno. El presente real decreto tiene por objeto la modificación de determinados reales decretos por los que se establecen títulos de Formación Profesional Básica y se fijan sus enseñanzas mínimas para su adaptación a lo establecido en el Real Decreto 659/2023, de 18 de julio, por el que se desarrolla la ordenación del Sistema de Formación Profesional.
+Uno. El presente real decreto tiene por objeto la modificación de determinados reales decretos por los que se establecen títulos de Formación Profesional Básica y se fijan sus enseñanzas mínimas para su adaptación a lo establecido en el [Real Decreto 659/2023](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, por el que se desarrolla la ordenación del Sistema de Formación Profesional.
 
 Dos. Los reales decretos objeto de modificación son los que a continuación se relacionan:
 
@@ -387,11 +403,11 @@ d) Real Decreto 73/2018, de 19 de febrero, por el que se establece el título pr
 
 #### Artículo segundo. Modificación del artículo relativo al establecimiento de títulos.
 
-Uno. En el Real Decreto 127/2014, de 28 de febrero, por el que se regulan aspectos específicos de la Formación Profesional Básica de las enseñanzas de Formación Profesional del sistema educativo, se aprueban catorce títulos profesionales básicos, se fijan sus currículos básicos y se modifica el Real Decreto 1850/2009, de 4 de diciembre, sobre expedición de títulos académicos y profesionales correspondientes a las enseñanzas establecidas en la Ley Orgánica 2/2006, de 3 de mayo, de Educación, se modifica el artículo 1, con la siguiente redacción:
+Uno. En el Real Decreto 127/2014, de 28 de febrero, por el que se regulan aspectos específicos de la Formación Profesional Básica de las enseñanzas de Formación Profesional del sistema educativo, se aprueban catorce títulos profesionales básicos, se fijan sus currículos básicos y se modifica el Real Decreto 1850/2009, de 4 de diciembre, sobre expedición de títulos académicos y profesionales correspondientes a las enseñanzas establecidas en la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, se modifica el artículo 1, con la siguiente redacción:
 
 #### «Artículo 1. Objeto.
 
-Este real decreto tiene por objeto el establecimiento de catorce títulos de formación profesional de grado básico, de acuerdo con lo establecido en el Real Decreto 659/2023, de 18 de julio, por el que se desarrolla la ordenación del Sistema de Formación Profesional, conforme a lo determinado en los siguientes anexos:
+Este real decreto tiene por objeto el establecimiento de catorce títulos de formación profesional de grado básico, de acuerdo con lo establecido en el [Real Decreto 659/2023](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, por el que se desarrolla la ordenación del Sistema de Formación Profesional, conforme a lo determinado en los siguientes anexos:
 
 1.º Anexo I: Título de Técnico Básico en Servicios Administrativos.
 
@@ -421,7 +437,7 @@ Este real decreto tiene por objeto el establecimiento de catorce títulos de for
 
 14.º Anexo XIV: Título de Técnico Básico en Vidriería y Alfarería.»
 
-Dos. En el Real Decreto 356/2014, de 16 de mayo, por el que se establecen siete títulos de Formación Profesional Básica del catálogo de títulos de las enseñanzas de Formación Profesional, se da una nueva redacción al artículo 1 y se.
+Dos. En el [Real Decreto 356/2014](./RD356_2014_establecen_siete_titulos_formacion_profesional_basica.md), de 16 de mayo, por el que se establecen siete títulos de Formación Profesional Básica del catálogo de títulos de las enseñanzas de Formación Profesional, se da una nueva redacción al artículo 1 y se.
 
 modifica el artículo 2, quedando redactados del siguiente modo:
 
@@ -449,13 +465,13 @@ Los títulos de Técnico Básico que se establecen son los que a continuación s
 
 ## Anexo VII. Título de Técnico Básico en Informática de Oficina.»
 
-Tres. En el Real Decreto 774/2015, de 28 de agosto, por el que se establecen seis títulos de Formación Profesional Básica del catálogo de títulos de las enseñanzas de Formación Profesional, se da una nueva redacción al artículo 1 y se.
+Tres. En el [Real Decreto 774/2015](./RD774_2015_establecen_seis_titulos_formacion_profesional_basica.md), de 28 de agosto, por el que se establecen seis títulos de Formación Profesional Básica del catálogo de títulos de las enseñanzas de Formación Profesional, se da una nueva redacción al artículo 1 y se.
 
 modifica el artículo 2, quedando redactados del siguiente modo:
 
 #### «Artículo 1. Objeto y ámbito de aplicación.
 
-1. Este real decreto tiene por objeto desarrollar el catálogo de títulos de las enseñanzas de formación profesional mediante el establecimiento de seis nuevos títulos de Técnico Básico, de conformidad con el Real Decreto 659/2023, de 18 de julio, por el que se desarrolla la ordenación del Sistema de Formación Profesional.
+1. Este real decreto tiene por objeto desarrollar el catálogo de títulos de las enseñanzas de formación profesional mediante el establecimiento de seis nuevos títulos de Técnico Básico, de conformidad con el [Real Decreto 659/2023](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, por el que se desarrolla la ordenación del Sistema de Formación Profesional.
 
 2. Los títulos de Técnico Básico tienen carácter oficial y validez en todo el territorio nacional y no constituyen una regulación del ejercicio profesional.
 
@@ -481,7 +497,7 @@ modifica el artículo 2, quedando redactados del siguiente modo:
 
 #### «Artículo 1. Objeto y ámbito de aplicación.
 
-1. Este real decreto tiene por objeto desarrollar el catálogo de títulos de las enseñanzas de formación profesional mediante el establecimiento de un nuevo título de Técnico Básico, de conformidad con el Real Decreto 659/2023, de 18 de julio, por el que se desarrolla la ordenación del Sistema de Formación Profesional.
+1. Este real decreto tiene por objeto desarrollar el catálogo de títulos de las enseñanzas de formación profesional mediante el establecimiento de un nuevo título de Técnico Básico, de conformidad con el [Real Decreto 659/2023](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, por el que se desarrolla la ordenación del Sistema de Formación Profesional.
 
 2. Los títulos de Técnico Básico tienen carácter oficial y validez en todo el territorio nacional y no constituyen una regulación del ejercicio profesional.
 
@@ -499,7 +515,7 @@ De acuerdo con lo establecido en el Real Decreto 272/2022, de 12 de abril, por e
 
 #### Artículo cuarto. Modificación del apartado relativo a cualificaciones y unidades de competencia.
 
-Uno. En el Real Decreto 127/2014, de 28 de febrero, por el que se regulan aspectos específicos de la Formación Profesional Básica de las enseñanzas de Formación Profesional del sistema educativo, se aprueban catorce títulos profesionales básicos, se fijan sus currículos básicos y se modifica el Real Decreto 1850/2009, de 4 de diciembre, sobre expedición de títulos académicos y profesionales correspondientes a las enseñanzas establecidas en la Ley Orgánica 2/2006, de 3 de mayo, de Educación, se modifica el apartado 2.3 del anexo VIII, cuya redacción es la que sigue:
+Uno. En el Real Decreto 127/2014, de 28 de febrero, por el que se regulan aspectos específicos de la Formación Profesional Básica de las enseñanzas de Formación Profesional del sistema educativo, se aprueban catorce títulos profesionales básicos, se fijan sus currículos básicos y se modifica el Real Decreto 1850/2009, de 4 de diciembre, sobre expedición de títulos académicos y profesionales correspondientes a las enseñanzas establecidas en la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, se modifica el apartado 2.3 del anexo VIII, cuya redacción es la que sigue:
 
 «2.3 Relación de cualificaciones y unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título.
 
@@ -525,7 +541,7 @@ c) Actividades auxiliares de comercio COM412_1 (Real Decreto 1179/2008, de 11de 
 
 UC1329_1: Proporcionar atención e información operativa, estructurada y protocolarizada al cliente.»
 
-Dos. En el Real Decreto 127/2014, de 28 de febrero, por el que se regulan aspectos específicos de la Formación Profesional Básica de las enseñanzas de Formación Profesional del sistema educativo, se aprueban catorce títulos profesionales básicos, se fijan sus currículos básicos y se modifica el Real Decreto 1850/2009, de 4 de diciembre, sobre expedición de títulos académicos y profesionales correspondientes a las enseñanzas establecidas en la Ley Orgánica 2/2006, de 3 de mayo, de Educación, se modifica apartado 2.3 del anexo XII, cuya redacción es la que sigue:
+Dos. En el Real Decreto 127/2014, de 28 de febrero, por el que se regulan aspectos específicos de la Formación Profesional Básica de las enseñanzas de Formación Profesional del sistema educativo, se aprueban catorce títulos profesionales básicos, se fijan sus currículos básicos y se modifica el Real Decreto 1850/2009, de 4 de diciembre, sobre expedición de títulos académicos y profesionales correspondientes a las enseñanzas establecidas en la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, se modifica apartado 2.3 del anexo XII, cuya redacción es la que sigue:
 
 «2.3 Relación de cualificaciones y unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título.
 
@@ -547,7 +563,7 @@ c) Actividades auxiliares de comercio COM412_1 (Real Decreto 1179/2008, de 11de 
 
 UC1329_1: Proporcionar atención e información operativa, estructurada y protocolarizada al cliente.»
 
-Tres. En el Real Decreto 127/2014, de 28 de febrero, por el que se regulan aspectos específicos de la Formación Profesional Básica de las enseñanzas de Formación Profesional del sistema educativo, se aprueban catorce títulos profesionales básicos, se fijan sus currículos básicos y se modifica el Real Decreto 1850/2009, de 4 de diciembre, sobre expedición de títulos académicos y profesionales correspondientes a las enseñanzas establecidas en la Ley Orgánica 2/2006, de 3 de mayo, de Educación, se modifica el apartado 2.3 del anexo XIII, cuya redacción es la que sigue:
+Tres. En el Real Decreto 127/2014, de 28 de febrero, por el que se regulan aspectos específicos de la Formación Profesional Básica de las enseñanzas de Formación Profesional del sistema educativo, se aprueban catorce títulos profesionales básicos, se fijan sus currículos básicos y se modifica el Real Decreto 1850/2009, de 4 de diciembre, sobre expedición de títulos académicos y profesionales correspondientes a las enseñanzas establecidas en la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, se modifica el apartado 2.3 del anexo XIII, cuya redacción es la que sigue:
 
 «2.3 Relación de cualificaciones y unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título.
 
@@ -569,7 +585,7 @@ c) Actividades auxiliares de comercio COM412_1 (Real Decreto 1179/2008, de 11 de
 
 UC1329_1: Proporcionar atención e información operativa, estructurada y protocolarizada al cliente.»
 
-Cuatro. En el Real Decreto 356/2014, de 16 de mayo, por el que se establecen siete títulos de Formación Profesional Básica del catálogo de títulos de las enseñanzas de Formación Profesional, se modifica el apartado 2.3 del anexo VI, cuya redacción es la que sigue:
+Cuatro. En el [Real Decreto 356/2014](./RD356_2014_establecen_siete_titulos_formacion_profesional_basica.md), de 16 de mayo, por el que se establecen siete títulos de Formación Profesional Básica del catálogo de títulos de las enseñanzas de Formación Profesional, se modifica el apartado 2.3 del anexo VI, cuya redacción es la que sigue:
 
 «2.3 Relación de cualificaciones y unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título.
 
@@ -609,47 +625,47 @@ Cuatro. Se incluye un nuevo apartado 3.2.2 con la siguiente redacción:
 
 «3.2.2 Otras especificaciones:
 
-1. Las administraciones competentes desdoblarán el Ámbito de Comunicación y Ciencias Sociales en 3161. Comunicación y Ciencias Sociales I, con una duración de currículo básico de 75 horas, y 3162. Comunicación y Ciencias Sociales II, con una duración de currículo básico de 80 horas, sin perjuicio de lo establecido en el artículo 87.4 del Real Decreto 659/2023, de 18 de julio.
+1. Las administraciones competentes desdoblarán el Ámbito de Comunicación y Ciencias Sociales en 3161. Comunicación y Ciencias Sociales I, con una duración de currículo básico de 75 horas, y 3162. Comunicación y Ciencias Sociales II, con una duración de currículo básico de 80 horas, sin perjuicio de lo establecido en el artículo 87.4 del [Real Decreto 659/2023](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio.
 
-2. Las administraciones competentes desdoblarán el Ámbito de Ciencias Aplicadas en 3163. Ciencias Aplicadas I, con una duración de currículo básico de 60 horas, y 3164. Ciencias Aplicadas II, con una duración de currículo básico de 55 horas, sin perjuicio de lo establecido en el artículo 87.4 del Real Decreto 659/2023, de 18 de julio.
+2. Las administraciones competentes desdoblarán el Ámbito de Ciencias Aplicadas en 3163. Ciencias Aplicadas I, con una duración de currículo básico de 60 horas, y 3164. Ciencias Aplicadas II, con una duración de currículo básico de 55 horas, sin perjuicio de lo establecido en el artículo 87.4 del [Real Decreto 659/2023](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio.
 
 3. De acuerdo con lo establecido en el artículo 85 l.
 
-Real Decreto 659/2023, de 18 de julio, el ámbito profesional incluirá los módulos profesionales vinculados a estándares de competencia y el módulo de Itinerario personal para la empleabilidad. Los módulos profesionales vinculados a estándares de competencia mantendrán el currículo básico recogido en los respectivos reales decretos de establecimiento a que hace referencia el artículo primero.Dos.
+[Real Decreto 659/2023](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, el ámbito profesional incluirá los módulos profesionales vinculados a estándares de competencia y el módulo de Itinerario personal para la empleabilidad. Los módulos profesionales vinculados a estándares de competencia mantendrán el currículo básico recogido en los respectivos reales decretos de establecimiento a que hace referencia el artículo primero.Dos.
 
 4. El periodo de formación en empresa u organismo equiparado se regulará de acuerdo con lo establecido en el artículo 88 y el.
 
-título IV del Real Decreto 659/2023, de 18 de julio.
+título IV del [Real Decreto 659/2023](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio.
 
 5. El proyecto intermodular de aprendizaje colaborativo se basará en una metodología basada en retos. Cada equipo docente deberá diseñar uno o varios retos para cada proyecto que impliquen la activación de varios resultados de aprendizaje contenidos en más de un módulo profesional del ciclo. Además de la selección concreta realizada por el equipo docente según la especialidad del ciclo, se trabajarán transversalmente los resultados de aprendizaje que figuran en el currículo del proyecto con código 3160.»
 
 #### Artículo sexto. Modificación del apartado relativo al desarrollo de los módulos.
 
-En el Real Decreto 127/2014, de 28 de febrero, por el que se regulan aspectos específicos de la Formación Profesional Básica de las enseñanzas de Formación Profesional del sistema educativo, se aprueban catorce títulos profesionales básicos, se fijan sus currículos básicos y se modifica el Real Decreto 1850/2009, de 4 de diciembre, sobre expedición de títulos académicos y profesionales correspondientes a las enseñanzas establecidas en la Ley Orgánica 2/2006, de 3 de mayo, de Educación, se modifica el apartado 3.3 de los anexos I, II, III, IV, V, VI, VIII, IX, X, XI, XII. XIII y XIV, y el apartado 3.4 del anexo VII; en el Real Decreto 356/2014, de 16 de mayo, por el que se establecen siete títulos de Formación Profesional Básica del catálogo de títulos de las enseñanzas de Formación Profesional, se modifica el apartado 3.3 de los anexos III, IV, V y VII y el apartado 3.4 de los anexos I, II y VI; en el Real Decreto 774/2015, de 28 de agosto, por el que se establecen seis títulos de Formación Profesional Básica del catálogo de títulos de las enseñanzas de Formación Profesional, se modifica el apartado 3.3 de los anexos; y en el Real Decreto 73/2018, de 19 de febrero, por el que se establece el título profesional básico en acceso y conservación en instalaciones deportivas y se fijan los aspectos básicos del currículo, se modifica el apartado 3.3 del anexo en los siguientes términos:
+En el Real Decreto 127/2014, de 28 de febrero, por el que se regulan aspectos específicos de la Formación Profesional Básica de las enseñanzas de Formación Profesional del sistema educativo, se aprueban catorce títulos profesionales básicos, se fijan sus currículos básicos y se modifica el Real Decreto 1850/2009, de 4 de diciembre, sobre expedición de títulos académicos y profesionales correspondientes a las enseñanzas establecidas en la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, se modifica el apartado 3.3 de los anexos I, II, III, IV, V, VI, VIII, IX, X, XI, XII. XIII y XIV, y el apartado 3.4 del anexo VII; en el [Real Decreto 356/2014](./RD356_2014_establecen_siete_titulos_formacion_profesional_basica.md), de 16 de mayo, por el que se establecen siete títulos de Formación Profesional Básica del catálogo de títulos de las enseñanzas de Formación Profesional, se modifica el apartado 3.3 de los anexos III, IV, V y VII y el apartado 3.4 de los anexos I, II y VI; en el [Real Decreto 774/2015](./RD774_2015_establecen_seis_titulos_formacion_profesional_basica.md), de 28 de agosto, por el que se establecen seis títulos de Formación Profesional Básica del catálogo de títulos de las enseñanzas de Formación Profesional, se modifica el apartado 3.3 de los anexos; y en el Real Decreto 73/2018, de 19 de febrero, por el que se establece el título profesional básico en acceso y conservación en instalaciones deportivas y se fijan los aspectos básicos del currículo, se modifica el apartado 3.3 del anexo en los siguientes términos:
 
 Uno. Se suprimen los siguientes módulos profesionales: Formación en centros de trabajo; Ciencias aplicadas I; Ciencias aplicadas II; Comunicación y sociedad I; Comunicación y sociedad II, incluyendo su número de código, duración, contenidos básicos, orientaciones pedagógicas, y resultados de aprendizaje y criterios de evaluación.
 
 Dos. Se incluyen los siguientes módulos profesionales, proyecto intermodular de aprendizaje colaborativo, ámbitos y tutoría al final de los apartados correspondientes:
 
-«a) 3159. Itinerario personal para la empleabilidad, cuyo código, duración del currículo básico, y resultados de aprendizaje y criterios de evaluación figuran como anexo III del Real Decreto 659/2023, de 18 de julio.
+«a) 3159. Itinerario personal para la empleabilidad, cuyo código, duración del currículo básico, y resultados de aprendizaje y criterios de evaluación figuran como anexo III del [Real Decreto 659/2023](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio.
 
 b) 3160. Proyecto intermodular de aprendizaje colaborativo, cuyo código, duración del currículo básico, y resultados de aprendizaje y criterios de evaluación figuran como anexo I de este real decreto.
 
 c) Ámbito de Comunicación y Ciencias Sociales I y II, cuyas competencias específicas, criterios de evaluación y contenidos, enunciados en forma de saberes básicos figuran en el anexo V del [Real Decreto 217/2022](RD217_2022_establece_ordenacion_ensenanzas_minimas_educacion_secundaria.md), de 29 de marzo, por el que se establece la ordenación y las enseñanzas mínimas de la Educación Secundaria Obligatoria.
 
-d) Ámbito de Ciencias Aplicadas I y II, cuyas competencias específicas, criterios de evaluación y contenidos, enunciados en forma de saberes básicos figuran en el anexo V del Real Decreto 217/2022, de 29 de marzo.
+d) Ámbito de Ciencias Aplicadas I y II, cuyas competencias específicas, criterios de evaluación y contenidos, enunciados en forma de saberes básicos figuran en el anexo V del [Real Decreto 217/2022](./RD217_2022_establece_ordenacion_ensenanzas_minimas_educacion_secundaria.md), de 29 de marzo.
 
-e) Tutoría, de acuerdo con lo establecido en el artículo 87.4 del Real Decreto 659/2023, de 18 de julio, con, al menos, una hora de tutoría semanal.»
+e) Tutoría, de acuerdo con lo establecido en el artículo 87.4 del [Real Decreto 659/2023](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, con, al menos, una hora de tutoría semanal.»
 
 #### Artículo séptimo. Carácter de los contenidos del currículo.
 
-Uno. De acuerdo con lo establecido en los artículos 12.3 y 12.4 del Real Decreto 659/2023, de 18 de julio, y sin perjuicio de lo señalado en el artículo 6 de la Ley Orgánica 2/2006, de 3 de mayo, los contenidos básicos que figuran en el apartado 3.3 de todos los anexos del Real Decreto 127/2014, de 28 de febrero, por el que se regulan aspectos específicos de la Formación Profesional Básica de las enseñanzas de Formación Profesional del sistema educativo, se aprueban catorce títulos profesionales básicos, se fijan sus currículos básicos y se modifica el Real Decreto 1850/2009, de 4 de diciembre, sobre expedición de títulos académicos y profesionales correspondientes a las enseñanzas establecidas en la Ley Orgánica 2/2006, de 3 de mayo, de Educación; del Real Decreto 774/2015, de 28 de agosto, por el que se establecen seis títulos de Formación Profesional Básica del catálogo de títulos de las enseñanzas de Formación Profesional, y del Real Decreto 73/2018, de 19 de febrero, por el que se establece el título profesional básico en acceso y conservación en instalaciones deportivas y se fijan los aspectos básicos del currículo; y en el apartado 3.4 de todos los anexos del Real Decreto 356/2014, de 16 de mayo, por el que se establecen siete títulos de Formación Profesional Básica del catálogo de títulos de las enseñanzas de Formación Profesional tendrán la consideración de carácter orientativo.
+Uno. De acuerdo con lo establecido en los artículos 12.3 y 12.4 del [Real Decreto 659/2023](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, y sin perjuicio de lo señalado en el artículo 6 de la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, los contenidos básicos que figuran en el apartado 3.3 de todos los anexos del Real Decreto 127/2014, de 28 de febrero, por el que se regulan aspectos específicos de la Formación Profesional Básica de las enseñanzas de Formación Profesional del sistema educativo, se aprueban catorce títulos profesionales básicos, se fijan sus currículos básicos y se modifica el Real Decreto 1850/2009, de 4 de diciembre, sobre expedición de títulos académicos y profesionales correspondientes a las enseñanzas establecidas en la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación; del [Real Decreto 774/2015](./RD774_2015_establecen_seis_titulos_formacion_profesional_basica.md), de 28 de agosto, por el que se establecen seis títulos de Formación Profesional Básica del catálogo de títulos de las enseñanzas de Formación Profesional, y del Real Decreto 73/2018, de 19 de febrero, por el que se establece el título profesional básico en acceso y conservación en instalaciones deportivas y se fijan los aspectos básicos del currículo; y en el apartado 3.4 de todos los anexos del [Real Decreto 356/2014](./RD356_2014_establecen_siete_titulos_formacion_profesional_basica.md), de 16 de mayo, por el que se establecen siete títulos de Formación Profesional Básica del catálogo de títulos de las enseñanzas de Formación Profesional tendrán la consideración de carácter orientativo.
 
-Dos. Dicho carácter orientativo no se aplicará al Ámbito de Comunicación y Ciencias Sociales ni al Ámbito de Ciencias Aplicadas, cuyos contenidos tendrán carácter prescriptivo. Dichos ámbitos están regulados por el artículo 25.4 del Real Decreto 217/2022, de 29 de marzo, y cuya superación, junto con la del ámbito profesional, permite la obtención del título de Graduado en Educación Secundaria Obligatoria.
+Dos. Dicho carácter orientativo no se aplicará al Ámbito de Comunicación y Ciencias Sociales ni al Ámbito de Ciencias Aplicadas, cuyos contenidos tendrán carácter prescriptivo. Dichos ámbitos están regulados por el artículo 25.4 del [Real Decreto 217/2022](./RD217_2022_establece_ordenacion_ensenanzas_minimas_educacion_secundaria.md), de 29 de marzo, y cuya superación, junto con la del ámbito profesional, permite la obtención del título de Graduado en Educación Secundaria Obligatoria.
 
 #### Artículo octavo. Modificación del apartado relativo al profesorado.
 
-Uno. En el Real Decreto 127/2014, de 28 de febrero, por el que se regulan aspectos específicos de la Formación Profesional Básica de las enseñanzas de Formación Profesional del sistema educativo, se aprueban catorce títulos profesionales básicos, se fijan sus currículos básicos y se modifica el Real Decreto 1850/2009, de 4 de diciembre, sobre expedición de títulos académicos y profesionales correspondientes a las enseñanzas establecidas en la Ley Orgánica 2/2006, de 3 de mayo, de Educación, se modifica el apartado 5.1 del anexo I, con la siguiente redacción:
+Uno. En el Real Decreto 127/2014, de 28 de febrero, por el que se regulan aspectos específicos de la Formación Profesional Básica de las enseñanzas de Formación Profesional del sistema educativo, se aprueban catorce títulos profesionales básicos, se fijan sus currículos básicos y se modifica el Real Decreto 1850/2009, de 4 de diciembre, sobre expedición de títulos académicos y profesionales correspondientes a las enseñanzas establecidas en la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, se modifica el apartado 5.1 del anexo I, con la siguiente redacción:
 
 «5.1 Las especialidades del profesorado del sector público a las que se atribuye la impartición de los módulos profesionales y proyecto intermodular de aprendizaje colaborativo del ciclo formativo de grado básico en Servicios administrativos son:
 
@@ -693,7 +709,7 @@ Uno. En el Real Decreto 127/2014, de 28 de febrero, por el que se regulan aspe
 
 – Profesores de Enseñanza Secundaria.»
 
-Dos. En el Real Decreto 127/2014, de 28 de febrero, por el que se regulan aspectos específicos de la Formación Profesional Básica de las enseñanzas de Formación Profesional del sistema educativo, se aprueban catorce títulos profesionales básicos, se fijan sus currículos básicos y se modifica el Real Decreto 1850/2009, de 4 de diciembre, sobre expedición de títulos académicos y profesionales correspondientes a las enseñanzas establecidas en la Ley Orgánica 2/2006, de 3 de mayo, de Educación, se modifica el apartado 5.1 del anexo II, con la siguiente redacción:
+Dos. En el Real Decreto 127/2014, de 28 de febrero, por el que se regulan aspectos específicos de la Formación Profesional Básica de las enseñanzas de Formación Profesional del sistema educativo, se aprueban catorce títulos profesionales básicos, se fijan sus currículos básicos y se modifica el Real Decreto 1850/2009, de 4 de diciembre, sobre expedición de títulos académicos y profesionales correspondientes a las enseñanzas establecidas en la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, se modifica el apartado 5.1 del anexo II, con la siguiente redacción:
 
 «5.1 Las especialidades del profesorado del sector público a las que se atribuye la impartición de los módulos profesionales y proyecto intermodular de aprendizaje colaborativo del ciclo formativo de grado básico en Electricidad y Electrónica son:
 
@@ -735,7 +751,7 @@ electrónicos.
 
 – Profesores de Enseñanza Secundaria.»
 
-Tres. En el Real Decreto 127/2014, de 28 de febrero, por el que se regulan aspectos específicos de la Formación Profesional Básica de las enseñanzas de Formación Profesional del sistema educativo, se aprueban catorce títulos profesionales básicos, se fijan sus currículos básicos y se modifica el Real Decreto 1850/2009, de 4 de diciembre, sobre expedición de títulos académicos y profesionales correspondientes a las enseñanzas establecidas en la Ley Orgánica 2/2006, de 3 de mayo, de Educación, se modifica el apartado 5.1 del anexo III, con la siguiente redacción:
+Tres. En el Real Decreto 127/2014, de 28 de febrero, por el que se regulan aspectos específicos de la Formación Profesional Básica de las enseñanzas de Formación Profesional del sistema educativo, se aprueban catorce títulos profesionales básicos, se fijan sus currículos básicos y se modifica el Real Decreto 1850/2009, de 4 de diciembre, sobre expedición de títulos académicos y profesionales correspondientes a las enseñanzas establecidas en la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, se modifica el apartado 5.1 del anexo III, con la siguiente redacción:
 
 «5.1 Las especialidades del profesorado del sector público a las que se atribuye la impartición de los módulos profesionales y proyecto intermodular de aprendizaje colaborativo del ciclo formativo de grado básico en Fabricación y Montaje son:
 
@@ -787,7 +803,7 @@ Tres. En el Real Decreto 127/2014, de 28 de febrero, por el que se regulan asp
 
 – Profesores de Enseñanza Secundaria.»
 
-Cuatro. En el Real Decreto 127/2014, de 28 de febrero, por el que se regulan aspectos específicos de la Formación Profesional Básica de las enseñanzas de Formación Profesional del sistema educativo, se aprueban catorce títulos profesionales básicos, se fijan sus currículos básicos y se modifica el Real Decreto 1850/2009, de 4 de diciembre, sobre expedición de títulos académicos y profesionales correspondientes a las enseñanzas establecidas en la Ley Orgánica 2/2006, de 3 de mayo, de Educación, se modifica el apartado 5.1 del anexo IV, con la siguiente redacción:
+Cuatro. En el Real Decreto 127/2014, de 28 de febrero, por el que se regulan aspectos específicos de la Formación Profesional Básica de las enseñanzas de Formación Profesional del sistema educativo, se aprueban catorce títulos profesionales básicos, se fijan sus currículos básicos y se modifica el Real Decreto 1850/2009, de 4 de diciembre, sobre expedición de títulos académicos y profesionales correspondientes a las enseñanzas establecidas en la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, se modifica el apartado 5.1 del anexo IV, con la siguiente redacción:
 
 «5.1 Las especialidades del profesorado del sector público a las que se atribuye la impartición de los módulos profesionales y proyecto intermodular de aprendizaje colaborativo del ciclo formativo de grado básico en Informática y Comunicaciones son:
 
@@ -831,7 +847,7 @@ Cuatro. En el Real Decreto 127/2014, de 28 de febrero, por el que se regulan a
 
 – Profesores de Enseñanza Secundaria.»
 
-Cinco. En el Real Decreto 127/2014, de 28 de febrero, por el que se regulan aspectos específicos de la Formación Profesional Básica de las enseñanzas de Formación Profesional del sistema educativo, se aprueban catorce títulos profesionales básicos, se fijan sus currículos básicos y se modifica el Real Decreto 1850/2009, de 4 de diciembre, sobre expedición de títulos académicos y profesionales correspondientes a las enseñanzas establecidas en la Ley Orgánica 2/2006, de 3 de mayo, de Educación, se modifica el apartado 5.1 del anexo V, con la siguiente redacción:
+Cinco. En el Real Decreto 127/2014, de 28 de febrero, por el que se regulan aspectos específicos de la Formación Profesional Básica de las enseñanzas de Formación Profesional del sistema educativo, se aprueban catorce títulos profesionales básicos, se fijan sus currículos básicos y se modifica el Real Decreto 1850/2009, de 4 de diciembre, sobre expedición de títulos académicos y profesionales correspondientes a las enseñanzas establecidas en la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, se modifica el apartado 5.1 del anexo V, con la siguiente redacción:
 
 «5.1 Las especialidades del profesorado del sector público a las que se atribuye la impartición de los módulos profesionales y proyecto intermodular de aprendizaje colaborativo del ciclo formativo de grado básico en Cocina y Restauración son:
 
@@ -895,7 +911,7 @@ catering.
 
 – Profesores de Enseñanza Secundaria.»
 
-Seis. En el Real Decreto 127/2014, de 28 de febrero, por el que se regulan aspectos específicos de la Formación Profesional Básica de las enseñanzas de Formación Profesional del sistema educativo, se aprueban catorce títulos profesionales básicos, se fijan sus currículos básicos y se modifica el Real Decreto 1850/2009, de 4 de diciembre, sobre expedición de títulos académicos y profesionales correspondientes a las enseñanzas establecidas en la Ley Orgánica 2/2006, de 3 de mayo, de Educación, se modifica el apartado 5.1 del anexo VI, con la siguiente redacción:
+Seis. En el Real Decreto 127/2014, de 28 de febrero, por el que se regulan aspectos específicos de la Formación Profesional Básica de las enseñanzas de Formación Profesional del sistema educativo, se aprueban catorce títulos profesionales básicos, se fijan sus currículos básicos y se modifica el Real Decreto 1850/2009, de 4 de diciembre, sobre expedición de títulos académicos y profesionales correspondientes a las enseñanzas establecidas en la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, se modifica el apartado 5.1 del anexo VI, con la siguiente redacción:
 
 «5.1 Las especialidades del profesorado del sector público a las que se atribuye la impartición de los módulos profesionales y proyecto intermodular de aprendizaje colaborativo del ciclo formativo de grado básico en Mantenimiento de Vehículos son:
 
@@ -923,7 +939,7 @@ Seis. En el Real Decreto 127/2014, de 28 de febrero, por el que se regulan asp
 
 – Profesores de Enseñanza Secundaria.»
 
-Siete. En el Real Decreto 127/2014, de 28 de febrero, por el que se regulan aspectos específicos de la Formación Profesional Básica de las enseñanzas de Formación Profesional del sistema educativo, se aprueban catorce títulos profesionales básicos, se fijan sus currículos básicos y se modifica el Real Decreto 1850/2009, de 4 de diciembre, sobre expedición de títulos académicos y profesionales correspondientes a las enseñanzas establecidas en la Ley Orgánica 2/2006, de 3 de mayo, de Educación, se modifica el apartado 5.1 del anexo VII, con la siguiente redacción:
+Siete. En el Real Decreto 127/2014, de 28 de febrero, por el que se regulan aspectos específicos de la Formación Profesional Básica de las enseñanzas de Formación Profesional del sistema educativo, se aprueban catorce títulos profesionales básicos, se fijan sus currículos básicos y se modifica el Real Decreto 1850/2009, de 4 de diciembre, sobre expedición de títulos académicos y profesionales correspondientes a las enseñanzas establecidas en la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, se modifica el apartado 5.1 del anexo VII, con la siguiente redacción:
 
 «5.1 Las especialidades del profesorado del sector público a las que se atribuye la impartición de los módulos profesionales y proyecto intermodular de aprendizaje colaborativo del ciclo formativo de grado básico en Agrojardinería y Composiciones Florales son:
 
@@ -961,7 +977,7 @@ Siete. En el Real Decreto 127/2014, de 28 de febrero, por el que se regulan as
 
 – Profesores de Enseñanza Secundaria.»
 
-Ocho. En el Real Decreto 127/2014, de 28 de febrero, por el que se regulan aspectos específicos de la Formación Profesional Básica de las enseñanzas de Formación Profesional del sistema educativo, se aprueban catorce títulos profesionales básicos, se fijan sus currículos básicos y se modifica el Real Decreto 1850/2009, de 4 de diciembre, sobre expedición de títulos académicos y profesionales correspondientes a las enseñanzas establecidas en la Ley Orgánica 2/2006, de 3 de mayo, de Educación, se modifica el contenido del apartado 5.1 del anexo VIII con la siguiente redacción:
+Ocho. En el Real Decreto 127/2014, de 28 de febrero, por el que se regulan aspectos específicos de la Formación Profesional Básica de las enseñanzas de Formación Profesional del sistema educativo, se aprueban catorce títulos profesionales básicos, se fijan sus currículos básicos y se modifica el Real Decreto 1850/2009, de 4 de diciembre, sobre expedición de títulos académicos y profesionales correspondientes a las enseñanzas establecidas en la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, se modifica el contenido del apartado 5.1 del anexo VIII con la siguiente redacción:
 
 «5.1 Las especialidades del profesorado del sector público a las que se atribuye la impartición de los módulos profesionales y proyecto intermodular de aprendizaje colaborativo del ciclo formativo de grado básico en Peluquería y Estética son:
 
@@ -1021,7 +1037,7 @@ Ocho. En el Real Decreto 127/2014, de 28 de febrero, por el que se regulan asp
 
 – Profesores de Enseñanza Secundaria.»
 
-Nueve. En el Real Decreto 127/2014, de 28 de febrero, por el que se regulan aspectos específicos de la Formación Profesional Básica de las enseñanzas de Formación Profesional del sistema educativo, se aprueban catorce títulos profesionales básicos, se fijan sus currículos básicos y se modifica el Real Decreto 1850/2009, de 4 de diciembre, sobre expedición de títulos académicos y profesionales correspondientes a las enseñanzas establecidas en la Ley Orgánica 2/2006, de 3 de mayo, de Educación, se modifica el apartado 5.1 del anexo IX con la siguiente redacción:
+Nueve. En el Real Decreto 127/2014, de 28 de febrero, por el que se regulan aspectos específicos de la Formación Profesional Básica de las enseñanzas de Formación Profesional del sistema educativo, se aprueban catorce títulos profesionales básicos, se fijan sus currículos básicos y se modifica el Real Decreto 1850/2009, de 4 de diciembre, sobre expedición de títulos académicos y profesionales correspondientes a las enseñanzas establecidas en la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, se modifica el apartado 5.1 del anexo IX con la siguiente redacción:
 
 «5.1 Las especialidades del profesorado del sector público a las que se atribuye la impartición de los módulos profesionales y proyecto intermodular de aprendizaje colaborativo del ciclo formativo de grado básico en Servicios Comerciales son:
 
@@ -1065,7 +1081,7 @@ Nueve. En el Real Decreto 127/2014, de 28 de febrero, por el que se regulan as
 
 – Profesores de Enseñanza Secundaria.»
 
-Diez. En el Real Decreto 127/2014, de 28 de febrero, por el que se regulan aspectos específicos de la Formación Profesional Básica de las enseñanzas de Formación Profesional del sistema educativo, se aprueban catorce títulos profesionales básicos, se fijan sus currículos básicos y se modifica el Real Decreto 1850/2009, de 4 de diciembre, sobre expedición de títulos académicos y profesionales correspondientes a las enseñanzas establecidas en la Ley Orgánica 2/2006, de 3 de mayo, de Educación, se modifica el apartado 5.1 del anexo X con la siguiente redacción:
+Diez. En el Real Decreto 127/2014, de 28 de febrero, por el que se regulan aspectos específicos de la Formación Profesional Básica de las enseñanzas de Formación Profesional del sistema educativo, se aprueban catorce títulos profesionales básicos, se fijan sus currículos básicos y se modifica el Real Decreto 1850/2009, de 4 de diciembre, sobre expedición de títulos académicos y profesionales correspondientes a las enseñanzas establecidas en la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, se modifica el apartado 5.1 del anexo X con la siguiente redacción:
 
 «5.1 Las especialidades del profesorado del sector público a las que se atribuye la impartición de los módulos profesionales y proyecto intermodular de aprendizaje colaborativo del ciclo formativo de grado básico en Carpintería y Mueble son:
 
@@ -1117,7 +1133,7 @@ Diez. En el Real Decreto 127/2014, de 28 de febrero, por el que se regulan asp
 
 – Profesores de Enseñanza Secundaria.»
 
-Once. En el Real Decreto 127/2014, de 28 de febrero, por el que se regulan aspectos específicos de la Formación Profesional Básica de las enseñanzas de Formación Profesional del sistema educativo, se aprueban catorce títulos profesionales básicos, se fijan sus currículos básicos y se modifica el Real Decreto 1850/2009, de 4 de diciembre, sobre expedición de títulos académicos y profesionales correspondientes a las enseñanzas establecidas en la Ley Orgánica 2/2006, de 3 de mayo, de Educación, se modifica el apartado 5.1 del anexo XI con la siguiente redacción:
+Once. En el Real Decreto 127/2014, de 28 de febrero, por el que se regulan aspectos específicos de la Formación Profesional Básica de las enseñanzas de Formación Profesional del sistema educativo, se aprueban catorce títulos profesionales básicos, se fijan sus currículos básicos y se modifica el Real Decreto 1850/2009, de 4 de diciembre, sobre expedición de títulos académicos y profesionales correspondientes a las enseñanzas establecidas en la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, se modifica el apartado 5.1 del anexo XI con la siguiente redacción:
 
 «5.1 Las especialidades del profesorado del sector público a las que se atribuye la impartición de los módulos profesionales y proyecto intermodular de aprendizaje colaborativo del ciclo formativo de grado básico en Reforma y Mantenimiento de Edificios son:
 
@@ -1159,7 +1175,7 @@ Once. En el Real Decreto 127/2014, de 28 de febrero, por el que se regulan asp
 
 – Profesores de Enseñanza Secundaria.»
 
-Doce. En el Real Decreto 127/2014, de 28 de febrero, por el que se regulan aspectos específicos de la Formación Profesional Básica de las enseñanzas de Formación Profesional del sistema educativo, se aprueban catorce títulos profesionales básicos, se fijan sus currículos básicos y se modifica el Real Decreto 1850/2009, de 4 de diciembre, sobre expedición de títulos académicos y profesionales correspondientes a las enseñanzas establecidas en la Ley Orgánica 2/2006, de 3 de mayo, de Educación, se modifica el contenido del apartado 5.1 del anexo XII, cuya redacción queda como sigue:
+Doce. En el Real Decreto 127/2014, de 28 de febrero, por el que se regulan aspectos específicos de la Formación Profesional Básica de las enseñanzas de Formación Profesional del sistema educativo, se aprueban catorce títulos profesionales básicos, se fijan sus currículos básicos y se modifica el Real Decreto 1850/2009, de 4 de diciembre, sobre expedición de títulos académicos y profesionales correspondientes a las enseñanzas establecidas en la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, se modifica el contenido del apartado 5.1 del anexo XII, cuya redacción queda como sigue:
 
 «5.1 Las especialidades del profesorado del sector público a las que se atribuye la impartición de los módulos profesionales y proyecto intermodular de aprendizaje colaborativo del ciclo formativo de grado básico en Arreglo y Reparación de Artículos Textiles y de Piel son:
 
@@ -1201,7 +1217,7 @@ Doce. En el Real Decreto 127/2014, de 28 de febrero, por el que se regulan asp
 
 – Profesores de Enseñanza Secundaria.»
 
-Trece. En el Real Decreto 127/2014, de 28 de febrero, por el que se regulan aspectos específicos de la Formación Profesional Básica de las enseñanzas de Formación Profesional del sistema educativo, se aprueban catorce títulos profesionales básicos, se fijan sus currículos básicos y se modifica el Real Decreto 1850/2009, de 4 de diciembre, sobre expedición de títulos académicos y profesionales correspondientes a las enseñanzas establecidas en la Ley Orgánica 2/2006, de 3 de mayo, de Educación, se modifica el contenido del apartado 5.1 del anexo XIII con la siguiente redacción:
+Trece. En el Real Decreto 127/2014, de 28 de febrero, por el que se regulan aspectos específicos de la Formación Profesional Básica de las enseñanzas de Formación Profesional del sistema educativo, se aprueban catorce títulos profesionales básicos, se fijan sus currículos básicos y se modifica el Real Decreto 1850/2009, de 4 de diciembre, sobre expedición de títulos académicos y profesionales correspondientes a las enseñanzas establecidas en la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, se modifica el contenido del apartado 5.1 del anexo XIII con la siguiente redacción:
 
 «5.1 Las especialidades del profesorado del sector público a las que se atribuye la impartición de los módulos profesionales y proyecto intermodular de aprendizaje colaborativo del ciclo formativo de grado básico en Tapicería y Cortinaje son:
 
@@ -1243,7 +1259,7 @@ Trece. En el Real Decreto 127/2014, de 28 de febrero, por el que se regulan as
 
 – Profesores de Enseñanza Secundaria.»
 
-Catorce. En el Real Decreto 127/2014, de 28 de febrero, por el que se regulan aspectos específicos de la Formación Profesional Básica de las enseñanzas de Formación Profesional del sistema educativo, se aprueban catorce títulos profesionales básicos, se fijan sus currículos básicos y se modifica el Real Decreto 1850/2009, de 4 de diciembre, sobre expedición de títulos académicos y profesionales correspondientes a las enseñanzas establecidas en la Ley Orgánica 2/2006, de 3 de mayo, de Educación, se modifica el contenido del apartado 5.1 del anexo XIV con la siguiente redacción:
+Catorce. En el Real Decreto 127/2014, de 28 de febrero, por el que se regulan aspectos específicos de la Formación Profesional Básica de las enseñanzas de Formación Profesional del sistema educativo, se aprueban catorce títulos profesionales básicos, se fijan sus currículos básicos y se modifica el Real Decreto 1850/2009, de 4 de diciembre, sobre expedición de títulos académicos y profesionales correspondientes a las enseñanzas establecidas en la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, se modifica el contenido del apartado 5.1 del anexo XIV con la siguiente redacción:
 
 «5.1 Las especialidades del profesorado del sector público a las que se atribuye la impartición de los módulos profesionales y proyecto intermodular de aprendizaje colaborativo del ciclo formativo de grado básico en Vidriería y Alfarería son:
 
@@ -1293,7 +1309,7 @@ Catorce. En el Real Decreto 127/2014, de 28 de febrero, por el que se regulan 
 
 – Profesores de Enseñanza Secundaria.»
 
-Quince. En el Real Decreto 356/2014, de 16 de mayo, por el que se establecen siete títulos de Formación Profesional Básica del catálogo de títulos de las enseñanzas de Formación Profesional, se modifica el apartado 5.1 del anexo I, con la siguiente redacción:
+Quince. En el [Real Decreto 356/2014](./RD356_2014_establecen_siete_titulos_formacion_profesional_basica.md), de 16 de mayo, por el que se establecen siete títulos de Formación Profesional Básica del catálogo de títulos de las enseñanzas de Formación Profesional, se modifica el apartado 5.1 del anexo I, con la siguiente redacción:
 
 «5.1 Las especialidades del profesorado del sector público a las que se atribuye la impartición de los módulos profesionales y proyecto intermodular de aprendizaje colaborativo del ciclo formativo de grado básico en Actividades Agropecuarias son:
 
@@ -1345,7 +1361,7 @@ alimentarios.
 
 – Profesores de Enseñanza Secundaria.»
 
-Dieciséis. En el Real Decreto 356/2014, de 16 de mayo, por el que se establecen siete títulos de Formación Profesional Básica del catálogo de títulos de las enseñanzas de Formación Profesional, se modifica el apartado 5.1 del anexo II, con la siguiente redacción:
+Dieciséis. En el [Real Decreto 356/2014](./RD356_2014_establecen_siete_titulos_formacion_profesional_basica.md), de 16 de mayo, por el que se establecen siete títulos de Formación Profesional Básica del catálogo de títulos de las enseñanzas de Formación Profesional, se modifica el apartado 5.1 del anexo II, con la siguiente redacción:
 
 «5.1 Las especialidades del profesorado del sector público a las que se atribuye la impartición de los módulos profesionales y proyecto intermodular de aprendizaje colaborativo del ciclo formativo de grado básico en Aprovechamientos Forestales son:
 
@@ -1383,7 +1399,7 @@ Dieciséis. En el Real Decreto 356/2014, de 16 de mayo, por el que se establec
 
 – Profesores de Enseñanza Secundaria.»
 
-Diecisiete. En el Real Decreto 356/2014, de 16 de mayo, por el que se establecen siete títulos de Formación Profesional Básica del catálogo de títulos de las enseñanzas de Formación Profesional, se modifica el apartado 5.1 del anexo III, con la siguiente redacción:
+Diecisiete. En el [Real Decreto 356/2014](./RD356_2014_establecen_siete_titulos_formacion_profesional_basica.md), de 16 de mayo, por el que se establecen siete títulos de Formación Profesional Básica del catálogo de títulos de las enseñanzas de Formación Profesional, se modifica el apartado 5.1 del anexo III, con la siguiente redacción:
 
 «5.1 Las especialidades del profesorado del sector público a las que se atribuye la impartición de los módulos profesionales y proyecto intermodular de aprendizaje colaborativo del ciclo formativo de grado básico en Artes Gráficas son:
 
@@ -1431,7 +1447,7 @@ Diecisiete. En el Real Decreto 356/2014, de 16 de mayo, por el que se establec
 
 – Profesores de Enseñanza Secundaria.»
 
-Dieciocho. En el Real Decreto 356/2014, de 16 de mayo, por el que se establecen siete títulos de Formación Profesional Básica del catálogo de títulos de las enseñanzas de Formación Profesional, se modifica el contenido del apartado 5.1 del anexo IV, con la siguiente redacción:
+Dieciocho. En el [Real Decreto 356/2014](./RD356_2014_establecen_siete_titulos_formacion_profesional_basica.md), de 16 de mayo, por el que se establecen siete títulos de Formación Profesional Básica del catálogo de títulos de las enseñanzas de Formación Profesional, se modifica el contenido del apartado 5.1 del anexo IV, con la siguiente redacción:
 
 «5.1 Las especialidades del profesorado del sector público a las que se atribuye la impartición de los módulos profesionales y proyecto intermodular de aprendizaje colaborativo del ciclo formativo de grado básico en Alojamiento y Lavandería son:
 
@@ -1497,7 +1513,7 @@ Dieciocho. En el Real Decreto 356/2014, de 16 de mayo, por el que se establece
 
 – Profesores de Enseñanza Secundaria.»
 
-Diecinueve. En el Real Decreto 356/2014, de 16 de mayo, por el que se establecen siete títulos de Formación Profesional Básica del catálogo de títulos de las enseñanzas de Formación Profesional, se modifica el apartado 5.1 del anexo V, con la siguiente redacción:
+Diecinueve. En el [Real Decreto 356/2014](./RD356_2014_establecen_siete_titulos_formacion_profesional_basica.md), de 16 de mayo, por el que se establecen siete títulos de Formación Profesional Básica del catálogo de títulos de las enseñanzas de Formación Profesional, se modifica el apartado 5.1 del anexo V, con la siguiente redacción:
 
 «5.1 Las especialidades del profesorado del sector público a las que se atribuye la impartición de los módulos profesionales y proyecto intermodular de aprendizaje colaborativo del ciclo formativo de grado básico en Industrias Alimentarias son:
 
@@ -1543,7 +1559,7 @@ Diecinueve. En el Real Decreto 356/2014, de 16 de mayo, por el que se establec
 
 – Profesores de Enseñanza Secundaria.»
 
-Veinte. En el Real Decreto 356/2014, de 16 de mayo, por el que se establecen siete títulos de Formación Profesional Básica del catálogo de títulos de las enseñanzas de Formación Profesional, se modifica el apartado 5.1 del anexo VI, con la siguiente redacción:
+Veinte. En el [Real Decreto 356/2014](./RD356_2014_establecen_siete_titulos_formacion_profesional_basica.md), de 16 de mayo, por el que se establecen siete títulos de Formación Profesional Básica del catálogo de títulos de las enseñanzas de Formación Profesional, se modifica el apartado 5.1 del anexo VI, con la siguiente redacción:
 
 «5.1 Las especialidades del profesorado del sector público a las que se atribuye la impartición de los módulos profesionales y proyecto intermodular de aprendizaje colaborativo del ciclo formativo de grado básico en Actividades Marítimo-Pesqueras son:
 
@@ -1579,7 +1595,7 @@ Veinte. En el Real Decreto 356/2014, de 16 de mayo, por el que se establecen s
 
 – Profesores de Enseñanza Secundaria.»
 
-Veintiuno. En el Real Decreto 356/2014, de 16 de mayo, por el que se establecen siete títulos de Formación Profesional Básica del catálogo de títulos de las enseñanzas de Formación Profesional, se modifica el contenido del apartado 5.1 del anexo VII, con la siguiente redacción:
+Veintiuno. En el [Real Decreto 356/2014](./RD356_2014_establecen_siete_titulos_formacion_profesional_basica.md), de 16 de mayo, por el que se establecen siete títulos de Formación Profesional Básica del catálogo de títulos de las enseñanzas de Formación Profesional, se modifica el contenido del apartado 5.1 del anexo VII, con la siguiente redacción:
 
 «5.1 Las especialidades del profesorado del sector público a las que se atribuye la impartición de los módulos profesionales y proyecto intermodular de aprendizaje colaborativo del ciclo formativo de grado básico en Informática de Oficina son:
 
@@ -1619,7 +1635,7 @@ Veintiuno. En el Real Decreto 356/2014, de 16 de mayo, por el que se establece
 
 – Profesores de Enseñanza Secundaria.»
 
-Veintidós. En el Real Decreto 774/2015, de 28 de agosto, por el que se establecen seis títulos de Formación Profesional Básica del catálogo de títulos de las enseñanzas de Formación Profesional, se modifica el apartado 5.1 del anexo I, con la siguiente redacción:
+Veintidós. En el [Real Decreto 774/2015](./RD774_2015_establecen_seis_titulos_formacion_profesional_basica.md), de 28 de agosto, por el que se establecen seis títulos de Formación Profesional Básica del catálogo de títulos de las enseñanzas de Formación Profesional, se modifica el apartado 5.1 del anexo I, con la siguiente redacción:
 
 «5.1 Las especialidades del profesorado del sector público a las que se atribuye la impartición de los módulos profesionales y proyecto intermodular de aprendizaje colaborativo del ciclo formativo de grado básico en Actividades de Panadería y Pastelería son:
 
@@ -1681,7 +1697,7 @@ Veintidós. En el Real Decreto 774/2015, de 28 de agosto, por el que se establ
 
 – Profesores de Enseñanza Secundaria.»
 
-Veintitrés. En el Real Decreto 774/2015, de 28 de agosto, por el que se establecen seis títulos de Formación Profesional Básica del catálogo de títulos de las enseñanzas de Formación Profesional, se modifica el apartado 5.1 del anexo II, con la siguiente redacción:
+Veintitrés. En el [Real Decreto 774/2015](./RD774_2015_establecen_seis_titulos_formacion_profesional_basica.md), de 28 de agosto, por el que se establecen seis títulos de Formación Profesional Básica del catálogo de títulos de las enseñanzas de Formación Profesional, se modifica el apartado 5.1 del anexo II, con la siguiente redacción:
 
 «5.1 Las especialidades del profesorado del sector público a las que se atribuye la impartición de los módulos profesionales y proyecto intermodular de aprendizaje colaborativo del ciclo formativo de grado básico en Actividades Domésticas y Limpieza de Edificios son:
 
@@ -1737,7 +1753,7 @@ Veintitrés. En el Real Decreto 774/2015, de 28 de agosto, por el que se estab
 
 – Profesores de Enseñanza Secundaria.»
 
-Veinticuatro. En el Real Decreto 774/2015, de 28 de agosto, por el que se establecen seis títulos de Formación Profesional Básica del catálogo de títulos de las enseñanzas de Formación Profesional, se modifica el apartado 5.1 del anexo III, con la siguiente redacción:
+Veinticuatro. En el [Real Decreto 774/2015](./RD774_2015_establecen_seis_titulos_formacion_profesional_basica.md), de 28 de agosto, por el que se establecen seis títulos de Formación Profesional Básica del catálogo de títulos de las enseñanzas de Formación Profesional, se modifica el apartado 5.1 del anexo III, con la siguiente redacción:
 
 «5.1 Las especialidades del profesorado del sector público a las que se atribuye la impartición de los módulos profesionales y proyecto intermodular de aprendizaje colaborativo del ciclo formativo de grado básico en Mantenimiento de Viviendas son:
 
@@ -1783,7 +1799,7 @@ Veinticuatro. En el Real Decreto 774/2015, de 28 de agosto, por el que se esta
 
 – Profesores de Enseñanza Secundaria.»
 
-Veinticinco. En el Real Decreto 774/2015, de 28 de agosto, por el que se establecen seis títulos de Formación Profesional Básica del catálogo de títulos de las enseñanzas de Formación Profesional, se modifica el apartado 5.1 del anexo IV, con la siguiente redacción:
+Veinticinco. En el [Real Decreto 774/2015](./RD774_2015_establecen_seis_titulos_formacion_profesional_basica.md), de 28 de agosto, por el que se establecen seis títulos de Formación Profesional Básica del catálogo de títulos de las enseñanzas de Formación Profesional, se modifica el apartado 5.1 del anexo IV, con la siguiente redacción:
 
 «5.1 Las especialidades del profesorado del sector público a las que se atribuye la impartición de los módulos profesionales y proyecto intermodular de aprendizaje colaborativo del ciclo formativo de grado básico en Fabricación de Elementos Metálicos son:
 
@@ -1841,7 +1857,7 @@ Veinticinco. En el Real Decreto 774/2015, de 28 de agosto, por el que se estab
 
 – Profesores de Enseñanza Secundaria.»
 
-Veintiséis. En el Real Decreto 774/2015, de 28 de agosto, por el que se establecen seis títulos de Formación Profesional Básica del catálogo de títulos de las enseñanzas de Formación Profesional, se modifica el apartado 5.1 del anexo V, con la siguiente redacción:
+Veintiséis. En el [Real Decreto 774/2015](./RD774_2015_establecen_seis_titulos_formacion_profesional_basica.md), de 28 de agosto, por el que se establecen seis títulos de Formación Profesional Básica del catálogo de títulos de las enseñanzas de Formación Profesional, se modifica el apartado 5.1 del anexo V, con la siguiente redacción:
 
 «5.1 Las especialidades del profesorado del sector público a las que se atribuye la impartición de los módulos profesionales y proyecto intermodular de aprendizaje colaborativo del ciclo formativo de grado básico en Instalaciones Electrotécnicas y Mecánica son:
 
@@ -1899,7 +1915,7 @@ Veintiséis. En el Real Decreto 774/2015, de 28 de agosto, por el que se estab
 
 – Profesores de Enseñanza Secundaria.»
 
-Veintisiete. En el Real Decreto 774/2015, de 28 de agosto, por el que se establecen seis títulos de Formación Profesional Básica del catálogo de títulos de las enseñanzas de Formación Profesional, se modifica el apartado 5.1 del anexo VI, con la siguiente redacción:
+Veintisiete. En el [Real Decreto 774/2015](./RD774_2015_establecen_seis_titulos_formacion_profesional_basica.md), de 28 de agosto, por el que se establecen seis títulos de Formación Profesional Básica del catálogo de títulos de las enseñanzas de Formación Profesional, se modifica el apartado 5.1 del anexo VI, con la siguiente redacción:
 
 «5.1 Las especialidades del profesorado del sector público a las que se atribuye la impartición de los módulos profesionales y proyecto intermodular de aprendizaje colaborativo del ciclo formativo de grado básico en Mantenimiento de Embarcaciones Deportivas y de Recreo son:
 
@@ -1987,23 +2003,23 @@ Veintiocho. En el Real Decreto 73/2018, de 19 de febrero, por el que se establ
 
 – Profesores de Enseñanza Secundaria.»
 
-Veintinueve. En los reales decretos a que hace referencia el artículo primero.Dos del presente real decreto, se da una nueva redacción al apartado 5.2 de todos los anexos incluidos, excepto en el anexo IV del Real Decreto 356/2014, de 16 de mayo, por el que se establecen siete títulos de Formación Profesional Básica del catálogo de títulos de las enseñanzas de Formación Profesional, que se da la misma redacción al apartado 6.2, quedando redactado del siguiente modo:
+Veintinueve. En los reales decretos a que hace referencia el artículo primero.Dos del presente real decreto, se da una nueva redacción al apartado 5.2 de todos los anexos incluidos, excepto en el anexo IV del [Real Decreto 356/2014](./RD356_2014_establecen_siete_titulos_formacion_profesional_basica.md), de 16 de mayo, por el que se establecen siete títulos de Formación Profesional Básica del catálogo de títulos de las enseñanzas de Formación Profesional, que se da la misma redacción al apartado 6.2, quedando redactado del siguiente modo:
 
 «5.2 Requisitos para el profesorado.
 
-1. La docencia de los módulos profesionales y de proyecto intermodular de aprendizaje colaborativo que constituyen las enseñanzas de este ciclo formativo corresponde al profesorado de las especialidades establecidas en el apartado 5.1 pertenecientes a los cuerpos indicados en dicha tabla, sin perjuicio de lo establecido en la disposición transitoria sexta del Reglamento de ingreso, accesos y adquisición de nuevas especialidades en los cuerpos docentes a que se refiere la Ley Orgánica 2/2006, de 3 de mayo, de Educación, aprobado por el [Real Decreto 276/2007](../08_personal_docente/RD592_2007_eci_aprueba_temario_ha_regir_procedimiento.md), de 23 de febrero.
+1. La docencia de los módulos profesionales y de proyecto intermodular de aprendizaje colaborativo que constituyen las enseñanzas de este ciclo formativo corresponde al profesorado de las especialidades establecidas en el apartado 5.1 pertenecientes a los cuerpos indicados en dicha tabla, sin perjuicio de lo establecido en la disposición transitoria sexta del Reglamento de ingreso, accesos y adquisición de nuevas especialidades en los cuerpos docentes a que se refiere la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, aprobado por el [Real Decreto 276/2007](../08_personal_docente/RD592_2007_eci_aprueba_temario_ha_regir_procedimiento.md), de 23 de febrero.
 
-2. Las condiciones de acceso a los cuerpos a que se refiere el apartado anterior serán las recogidas en el Real Decreto 276/2007, de 23 de febrero.
+2. Las condiciones de acceso a los cuerpos a que se refiere el apartado anterior serán las recogidas en el [Real Decreto 276/2007](../08_personal_docente/RD276_2007_aprueba_reglamento_ingreso_accesos_adquisicion_nuevas.md), de 23 de febrero.
 
 3. Para la impartición de módulos profesionales y del proyecto intermodular de aprendizaje colaborativo en centros de titularidad privada o de titularidad pública de otras administraciones distintas de las educativas, las titulaciones requeridas y los requisitos necesarios para el profesorado serán los mismos que los exigidos para el acceso a las especialidades de los cuerpos docentes a que se refiere el apartado anterior, según la atribución docente que se establece para cada módulo en el apartado
 
 **5.1.** En todo caso, se exigirá que las enseñanzas conducentes a las titulaciones citadas engloben los resultados de aprendizaje de los módulos profesionales y, si dichos elementos citados no estuvieran incluidos, además de la titulación, deberá acreditarse, mediante certificación, una experiencia laboral de, al menos, tres años en el sector vinculado a la familia profesional, realizando actividades productivas en empresas relacionadas implícitamente con los resultados de aprendizaje.
 
-4. En caso de contar con otros perfiles colaboradores, estos deberán cumplir los requisitos indicados en el capítulo IV del título V del Real Decreto 659/2023, de 18 de julio.»
+4. En caso de contar con otros perfiles colaboradores, estos deberán cumplir los requisitos indicados en el capítulo IV del título V del [Real Decreto 659/2023](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio.»
 
-Treinta. En los reales decretos a que hace referencia el artículo primero.Dos del presente real decreto, se suprime el apartado 5.3, excepto en el anexo IV del Real Decreto 356/2014, de 16 de mayo, por el que se establecen siete títulos de Formación Profesional Básica del catálogo de títulos de las enseñanzas de Formación Profesional, en el que se suprime el apartado 6.3. #### Artículo noveno. Modificación del apartado relativo a correspondencia entre módulos profesionales y unidades de competencia.
+Treinta. En los reales decretos a que hace referencia el artículo primero.Dos del presente real decreto, se suprime el apartado 5.3, excepto en el anexo IV del [Real Decreto 356/2014](./RD356_2014_establecen_siete_titulos_formacion_profesional_basica.md), de 16 de mayo, por el que se establecen siete títulos de Formación Profesional Básica del catálogo de títulos de las enseñanzas de Formación Profesional, en el que se suprime el apartado 6.3. #### Artículo noveno. Modificación del apartado relativo a correspondencia entre módulos profesionales y unidades de competencia.
 
-Uno. En el Real Decreto 127/2014, de 28 de febrero, por el que se regulan aspectos específicos de la Formación Profesional Básica de las enseñanzas de Formación Profesional del sistema educativo, se aprueban catorce títulos profesionales básicos, se fijan sus currículos básicos y se modifica el Real Decreto 1850/2009, de 4 de diciembre, sobre expedición de títulos académicos y profesionales correspondientes a las enseñanzas establecidas en la Ley Orgánica 2/2006, de 3 de mayo, de Educación, se añade un nuevo apartado 6 bis al anexo I, con la siguiente redacción:
+Uno. En el Real Decreto 127/2014, de 28 de febrero, por el que se regulan aspectos específicos de la Formación Profesional Básica de las enseñanzas de Formación Profesional del sistema educativo, se aprueban catorce títulos profesionales básicos, se fijan sus currículos básicos y se modifica el Real Decreto 1850/2009, de 4 de diciembre, sobre expedición de títulos académicos y profesionales correspondientes a las enseñanzas establecidas en la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, se añade un nuevo apartado 6 bis al anexo I, con la siguiente redacción:
 
 «6 bis. Correspondencia de las unidades de competencia acreditadas con los módulos profesionales para su convalidación.
 
@@ -2011,7 +2027,7 @@ UC0970_1: Transmitir y recibir información operativa en gestiones rutinarias co
 
 UC0971_1: Realizar operaciones auxiliares de reproducción y archivo en soporte convencional o informático.
 
-Dos. En el Real Decreto 127/2014, de 28 de febrero, por el que se regulan aspectos específicos de la Formación Profesional Básica de las enseñanzas de Formación Profesional del sistema educativo, se aprueban catorce títulos profesionales básicos, se fijan sus currículos básicos y se modifica el Real Decreto 1850/2009, de 4 de diciembre, sobre expedición de títulos académicos y profesionales correspondientes a las enseñanzas establecidas en la Ley Orgánica 2/2006, de 3 de mayo, de Educación, se añade un nuevo apartado 6 bis al anexo II, con la siguiente redacción:
+Dos. En el Real Decreto 127/2014, de 28 de febrero, por el que se regulan aspectos específicos de la Formación Profesional Básica de las enseñanzas de Formación Profesional del sistema educativo, se aprueban catorce títulos profesionales básicos, se fijan sus currículos básicos y se modifica el Real Decreto 1850/2009, de 4 de diciembre, sobre expedición de títulos académicos y profesionales correspondientes a las enseñanzas establecidas en la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, se añade un nuevo apartado 6 bis al anexo II, con la siguiente redacción:
 
 «6 bis. Correspondencia de las unidades de competencia acreditadas con los módulos profesionales para su convalidación.
 
@@ -2021,7 +2037,7 @@ UC1560_1: Realizar operaciones de conexionado en el montaje de equipos eléctric
 
 UC1561_1: Realizar operaciones auxiliares en el mantenimiento de equipos eléctricos y electrónicos.
 
-Tres. En el Real Decreto 127/2014, de 28 de febrero, por el que se regulan aspectos específicos de la Formación Profesional Básica de las enseñanzas de Formación Profesional del sistema educativo, se aprueban catorce títulos profesionales básicos, se fijan sus currículos básicos y se modifica el Real Decreto 1850/2009, de 4 de diciembre, sobre expedición de títulos académicos y profesionales correspondientes a las enseñanzas establecidas en la Ley Orgánica 2/2006, de 3 de mayo, de Educación, se añade un nuevo apartado 6 bis al anexo III, con la siguiente redacción:
+Tres. En el Real Decreto 127/2014, de 28 de febrero, por el que se regulan aspectos específicos de la Formación Profesional Básica de las enseñanzas de Formación Profesional del sistema educativo, se aprueban catorce títulos profesionales básicos, se fijan sus currículos básicos y se modifica el Real Decreto 1850/2009, de 4 de diciembre, sobre expedición de títulos académicos y profesionales correspondientes a las enseñanzas establecidas en la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, se añade un nuevo apartado 6 bis al anexo III, con la siguiente redacción:
 
 «6 bis. Correspondencia de las unidades de competencia acreditadas con los módulos profesionales para su convalidación.
 
@@ -2033,7 +2049,7 @@ Tres. En el Real Decreto 127/2014, de 28 de febrero, por el que se regulan asp
 
 3025. Montaje de equipos de climatización.»
 
-Cuatro. En el Real Decreto 127/2014, de 28 de febrero, por el que se regulan aspectos específicos de la Formación Profesional Básica de las enseñanzas de Formación Profesional del sistema educativo, se aprueban catorce títulos profesionales básicos, se fijan sus currículos básicos y se modifica el Real Decreto 1850/2009, de 4 de diciembre, sobre expedición de títulos académicos y profesionales correspondientes a las enseñanzas establecidas en la Ley Orgánica 2/2006, de 3 de mayo, de Educación, se añade un nuevo apartado 6 bis al anexo IV, con la siguiente redacción:
+Cuatro. En el Real Decreto 127/2014, de 28 de febrero, por el que se regulan aspectos específicos de la Formación Profesional Básica de las enseñanzas de Formación Profesional del sistema educativo, se aprueban catorce títulos profesionales básicos, se fijan sus currículos básicos y se modifica el Real Decreto 1850/2009, de 4 de diciembre, sobre expedición de títulos académicos y profesionales correspondientes a las enseñanzas establecidas en la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, se añade un nuevo apartado 6 bis al anexo IV, con la siguiente redacción:
 
 «6 bis. Correspondencia de las unidades de competencia acreditadas con los módulos profesionales para su convalidación.
 
@@ -2043,13 +2059,13 @@ UC1560_1: Realizar operaciones de conexionado en el montaje de equipos eléctric
 
 UC1561_1: Realizar operaciones auxiliares en el mantenimiento de equipos eléctricos y electrónicos.
 
-Cinco. En el Real Decreto 127/2014, de 28 de febrero, por el que se regulan aspectos específicos de la Formación Profesional Básica de las enseñanzas de Formación Profesional del sistema educativo, se aprueban catorce títulos profesionales básicos, se fijan sus currículos básicos y se modifica el Real Decreto 1850/2009, de 4 de diciembre, sobre expedición de títulos académicos y profesionales correspondientes a las enseñanzas establecidas en la Ley Orgánica 2/2006, de 3 de mayo, de Educación, se añade un nuevo apartado 6 bis al anexo V, con la siguiente redacción:
+Cinco. En el Real Decreto 127/2014, de 28 de febrero, por el que se regulan aspectos específicos de la Formación Profesional Básica de las enseñanzas de Formación Profesional del sistema educativo, se aprueban catorce títulos profesionales básicos, se fijan sus currículos básicos y se modifica el Real Decreto 1850/2009, de 4 de diciembre, sobre expedición de títulos académicos y profesionales correspondientes a las enseñanzas establecidas en la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, se añade un nuevo apartado 6 bis al anexo V, con la siguiente redacción:
 
 «6 bis. Correspondencia de las unidades de competencia acreditadas con los módulos profesionales para su convalidación.
 
-Seis. En el Real Decreto 127/2014, de 28 de febrero, por el que se regulan aspectos específicos de la Formación Profesional Básica de las enseñanzas de Formación Profesional del sistema educativo, se aprueban catorce títulos profesionales básicos, se fijan sus currículos básicos y se modifica el Real Decreto 1850/2009, de 4 de diciembre, sobre expedición de títulos académicos y profesionales correspondientes a las enseñanzas establecidas en la Ley Orgánica 2/2006, de 3 de mayo, de Educación, se añade un nuevo apartado 6 bis al anexo VI, con la siguiente redacción:
+Seis. En el Real Decreto 127/2014, de 28 de febrero, por el que se regulan aspectos específicos de la Formación Profesional Básica de las enseñanzas de Formación Profesional del sistema educativo, se aprueban catorce títulos profesionales básicos, se fijan sus currículos básicos y se modifica el Real Decreto 1850/2009, de 4 de diciembre, sobre expedición de títulos académicos y profesionales correspondientes a las enseñanzas establecidas en la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, se añade un nuevo apartado 6 bis al anexo VI, con la siguiente redacción:
 
-Siete. En el Real Decreto 127/2014, de 28 de febrero, por el que se regulan aspectos específicos de la Formación Profesional Básica de las enseñanzas de Formación Profesional del sistema educativo, se aprueban catorce títulos profesionales básicos, se fijan sus currículos básicos y se modifica el Real Decreto 1850/2009, de 4 de diciembre, sobre expedición de títulos académicos y profesionales correspondientes a las enseñanzas establecidas en la Ley Orgánica 2/2006, de 3 de mayo, de Educación, se añade un nuevo apartado 6 bis al anexo VII, con la siguiente redacción:
+Siete. En el Real Decreto 127/2014, de 28 de febrero, por el que se regulan aspectos específicos de la Formación Profesional Básica de las enseñanzas de Formación Profesional del sistema educativo, se aprueban catorce títulos profesionales básicos, se fijan sus currículos básicos y se modifica el Real Decreto 1850/2009, de 4 de diciembre, sobre expedición de títulos académicos y profesionales correspondientes a las enseñanzas establecidas en la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, se añade un nuevo apartado 6 bis al anexo VII, con la siguiente redacción:
 
 UC1114_1: Realizar trabajos auxiliares en la elaboración de composiciones con flores y plantas.
 
@@ -2059,7 +2075,7 @@ UC1112_1: Realizar operaciones auxiliares de mantenimiento de las instalaciones,
 
 UC1113_1: Recepcionar y acondicionar materias primas y materiales de floristería.
 
-Ocho. En el Real Decreto 127/2014, de 28 de febrero, por el que se regulan aspectos específicos de la Formación Profesional Básica de las enseñanzas de Formación Profesional del sistema educativo, se aprueban catorce títulos profesionales básicos, se fijan sus currículos básicos y se modifica el Real Decreto 1850/2009, de 4 de diciembre, sobre expedición de títulos académicos y profesionales correspondientes a las enseñanzas establecidas en la Ley Orgánica 2/2006, de 3 de mayo, de Educación, se modifica el apartado 6 del anexo VIII y se añade un nuevo apartado 6 bis, con la siguiente redacción:
+Ocho. En el Real Decreto 127/2014, de 28 de febrero, por el que se regulan aspectos específicos de la Formación Profesional Básica de las enseñanzas de Formación Profesional del sistema educativo, se aprueban catorce títulos profesionales básicos, se fijan sus currículos básicos y se modifica el Real Decreto 1850/2009, de 4 de diciembre, sobre expedición de títulos académicos y profesionales correspondientes a las enseñanzas establecidas en la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, se modifica el apartado 6 del anexo VIII y se añade un nuevo apartado 6 bis, con la siguiente redacción:
 
 «6. Correspondencia de las unidades de competencia acreditadas con los módulos profesionales para su convalidación.
 
@@ -2069,7 +2085,7 @@ UC0058_1: Preparar los equipos y lavar y acondicionar el cabello y cuero cabellu
 
 6 bis. Correspondencia entre módulos profesionales y unidades de competencia para su acreditación.
 
-Nueve. En el Real Decreto 127/2014, de 28 de febrero, por el que se regulan aspectos específicos de la Formación Profesional Básica de las enseñanzas de Formación Profesional del sistema educativo, se aprueban catorce títulos profesionales básicos, se fijan sus currículos básicos y se modifica el Real Decreto 1850/2009, de 4 de diciembre, sobre expedición de títulos académicos y profesionales correspondientes a las enseñanzas establecidas en la Ley Orgánica 2/2006, de 3 de mayo, de Educación, se añade un nuevo apartado 6 bis al anexo IX, con la siguiente redacción:
+Nueve. En el Real Decreto 127/2014, de 28 de febrero, por el que se regulan aspectos específicos de la Formación Profesional Básica de las enseñanzas de Formación Profesional del sistema educativo, se aprueban catorce títulos profesionales básicos, se fijan sus currículos básicos y se modifica el Real Decreto 1850/2009, de 4 de diciembre, sobre expedición de títulos académicos y profesionales correspondientes a las enseñanzas establecidas en la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, se añade un nuevo apartado 6 bis al anexo IX, con la siguiente redacción:
 
 «6 bis. Correspondencia de las unidades de competencia acreditadas con los módulos profesionales para su convalidación.
 
@@ -2081,7 +2097,7 @@ UC1325_1: Realizar las operaciones auxiliares de recepción, colocación, manten
 
 UC0432_1: Manipular cargas con carretillas elevadoras.
 
-Diez. En el Real Decreto 127/2014, de 28 de febrero, por el que se regulan aspectos específicos de la Formación Profesional Básica de las enseñanzas de Formación Profesional del sistema educativo, se aprueban catorce títulos profesionales básicos, se fijan sus currículos básicos y se modifica el Real Decreto 1850/2009, de 4 de diciembre, sobre expedición de títulos académicos y profesionales correspondientes a las enseñanzas establecidas en la Ley Orgánica 2/2006, de 3 de mayo, de Educación, se añade un nuevo apartado 6 bis al anexo X, con la siguiente redacción:
+Diez. En el Real Decreto 127/2014, de 28 de febrero, por el que se regulan aspectos específicos de la Formación Profesional Básica de las enseñanzas de Formación Profesional del sistema educativo, se aprueban catorce títulos profesionales básicos, se fijan sus currículos básicos y se modifica el Real Decreto 1850/2009, de 4 de diciembre, sobre expedición de títulos académicos y profesionales correspondientes a las enseñanzas establecidas en la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, se añade un nuevo apartado 6 bis al anexo X, con la siguiente redacción:
 
 «6 bis. Correspondencia de las unidades de competencia acreditadas con los módulos profesionales para su convalidación.
 
@@ -2095,7 +2111,7 @@ UC0167_1: Efectuar la aplicación de productos de acabado superficial con medios
 
 UC0881_1: Acondicionar la superficie para la aplicación del producto final y controlar el secado en productos de carpintería y mueble.
 
-Once. En el Real Decreto 127/2014, de 28 de febrero, por el que se regulan aspectos específicos de la Formación Profesional Básica de las enseñanzas de Formación Profesional del sistema educativo, se aprueban catorce títulos profesionales básicos, se fijan sus currículos básicos y se modifica el Real Decreto 1850/2009, de 4 de diciembre, sobre expedición de títulos académicos y profesionales correspondientes a las enseñanzas establecidas en la Ley Orgánica 2/2006, de 3 de mayo, de Educación, se añade un nuevo apartado 6 bis al anexo XI, con la siguiente redacción:
+Once. En el Real Decreto 127/2014, de 28 de febrero, por el que se regulan aspectos específicos de la Formación Profesional Básica de las enseñanzas de Formación Profesional del sistema educativo, se aprueban catorce títulos profesionales básicos, se fijan sus currículos básicos y se modifica el Real Decreto 1850/2009, de 4 de diciembre, sobre expedición de títulos académicos y profesionales correspondientes a las enseñanzas establecidas en la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, se añade un nuevo apartado 6 bis al anexo XI, con la siguiente redacción:
 
 «6 bis. Correspondencia de las unidades de competencia acreditadas con los módulos profesionales para su convalidación.
 
@@ -2107,7 +2123,7 @@ UC0872_1: Realizar enfoscados y guarnecidos «a buena vista».
 
 UC0869_1: Elaborar pastas, morteros, adhesivos y hormigones.
 
-Doce. En el Real Decreto 127/2014, de 28 de febrero, por el que se regulan aspectos específicos de la Formación Profesional Básica de las enseñanzas de Formación Profesional del sistema educativo, se aprueban catorce títulos profesionales básicos, se fijan sus currículos básicos y se modifica el Real Decreto 1850/2009, de 4 de diciembre, sobre expedición de títulos académicos y profesionales correspondientes a las enseñanzas establecidas en la Ley Orgánica 2/2006, de 3 de mayo, de Educación, se modifica el apartado 6 del anexo XII y se añade un nuevo apartado 6 bis, quedando redactados como sigue:
+Doce. En el Real Decreto 127/2014, de 28 de febrero, por el que se regulan aspectos específicos de la Formación Profesional Básica de las enseñanzas de Formación Profesional del sistema educativo, se aprueban catorce títulos profesionales básicos, se fijan sus currículos básicos y se modifica el Real Decreto 1850/2009, de 4 de diciembre, sobre expedición de títulos académicos y profesionales correspondientes a las enseñanzas establecidas en la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, se modifica el apartado 6 del anexo XII y se añade un nuevo apartado 6 bis, quedando redactados como sigue:
 
 «6. Correspondencia de las unidades de competencia acreditadas con los módulos profesionales para su convalidación.
 
@@ -2145,7 +2161,7 @@ UC2346_1: Realizar operaciones de cosido y unión de piezas.
 
 UC2347_1: Realizar actividades auxiliares de confección.
 
-Trece. En el Real Decreto 127/2014, de 28 de febrero, por el que se regulan aspectos específicos de la Formación Profesional Básica de las enseñanzas de Formación Profesional del sistema educativo, se aprueban catorce títulos profesionales básicos, se fijan sus currículos básicos y se modifica el Real Decreto 1850/2009, de 4 de diciembre, sobre expedición de títulos académicos y profesionales correspondientes a las enseñanzas establecidas en la Ley Orgánica 2/2006, de 3 de mayo, de Educación, se modifica el apartado 6 del anexo XIII y se añade un nuevo apartado 6 bis, quedando redactados como sigue:
+Trece. En el Real Decreto 127/2014, de 28 de febrero, por el que se regulan aspectos específicos de la Formación Profesional Básica de las enseñanzas de Formación Profesional del sistema educativo, se aprueban catorce títulos profesionales básicos, se fijan sus currículos básicos y se modifica el Real Decreto 1850/2009, de 4 de diciembre, sobre expedición de títulos académicos y profesionales correspondientes a las enseñanzas establecidas en la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, se modifica el apartado 6 del anexo XIII y se añade un nuevo apartado 6 bis, quedando redactados como sigue:
 
 «6. Correspondencia de las unidades de competencia acreditadas con los módulos profesionales para su convalidación.
 
@@ -2183,7 +2199,7 @@ UC2346_1: Realizar operaciones de cosido y unión de piezas.
 
 UC2347_1: Realizar actividades auxiliares de confección.
 
-Catorce. En el Real Decreto 127/2014, de 28 de febrero, por el que se regulan aspectos específicos de la Formación Profesional Básica de las enseñanzas de Formación Profesional del sistema educativo, se aprueban catorce títulos profesionales básicos, se fijan sus currículos básicos y se modifica el Real Decreto 1850/2009, de 4 de diciembre, sobre expedición de títulos académicos y profesionales correspondientes a las enseñanzas establecidas en la Ley Orgánica 2/2006, de 3 de mayo, de Educación, se añade un nuevo apartado 6 bis al anexo XIV, con la siguiente redacción:
+Catorce. En el Real Decreto 127/2014, de 28 de febrero, por el que se regulan aspectos específicos de la Formación Profesional Básica de las enseñanzas de Formación Profesional del sistema educativo, se aprueban catorce títulos profesionales básicos, se fijan sus currículos básicos y se modifica el Real Decreto 1850/2009, de 4 de diciembre, sobre expedición de títulos académicos y profesionales correspondientes a las enseñanzas establecidas en la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, se añade un nuevo apartado 6 bis al anexo XIV, con la siguiente redacción:
 
 «6 bis. Correspondencia de las unidades de competencia acreditadas con los módulos profesionales para su convalidación.
 
@@ -2203,7 +2219,7 @@ UC0643_1: Conformar manual o semiautomáticamente productos de vidrio mediante s
 
 UC0645_1: Elaborar manual o semiautomáticamente productos de vidrio mediante el moldeo de tubos de vidrio.
 
-Quince. En el Real Decreto 356/2014, de 16 de mayo, por el que se establecen siete títulos de Formación Profesional Básica del catálogo de títulos de las enseñanzas de Formación Profesional, se añade un nuevo apartado 6 bis al anexo I, con la siguiente redacción:
+Quince. En el [Real Decreto 356/2014](./RD356_2014_establecen_siete_titulos_formacion_profesional_basica.md), de 16 de mayo, por el que se establecen siete títulos de Formación Profesional Básica del catálogo de títulos de las enseñanzas de Formación Profesional, se añade un nuevo apartado 6 bis al anexo I, con la siguiente redacción:
 
 «6 bis. Correspondencia de las unidades de competencia acreditadas con los módulos profesionales para su convalidación.
 
@@ -2215,11 +2231,11 @@ UC0712_1: Realizar operaciones auxiliares de reproducción en ganadería.
 
 UC0714_1: Realizar el pastoreo del ganado.
 
-Dieciséis. En el Real Decreto 356/2014, de 16 de mayo, por el que se establecen siete títulos de Formación Profesional Básica del catálogo de títulos de las enseñanzas de Formación Profesional, se añade un nuevo apartado 6 bis al anexo II, con la siguiente redacción:
+Dieciséis. En el [Real Decreto 356/2014](./RD356_2014_establecen_siete_titulos_formacion_profesional_basica.md), de 16 de mayo, por el que se establecen siete títulos de Formación Profesional Básica del catálogo de títulos de las enseñanzas de Formación Profesional, se añade un nuevo apartado 6 bis al anexo II, con la siguiente redacción:
 
 «6 bis. Correspondencia de las unidades de competencia acreditadas con los módulos profesionales para su convalidación.
 
-Diecisiete. En el Real Decreto 356/2014, de 16 de mayo, por el que se establecen siete títulos de Formación Profesional Básica del catálogo de títulos de las enseñanzas de Formación Profesional, se añade un nuevo apartado 6 bis al anexo III, con la siguiente redacción:
+Diecisiete. En el [Real Decreto 356/2014](./RD356_2014_establecen_siete_titulos_formacion_profesional_basica.md), de 16 de mayo, por el que se establecen siete títulos de Formación Profesional Básica del catálogo de títulos de las enseñanzas de Formación Profesional, se añade un nuevo apartado 6 bis al anexo III, con la siguiente redacción:
 
 UC1322_1: Recepcionar y despachar encargos de reprografía.
 
@@ -2229,7 +2245,7 @@ UC1324_1: Realizar las operaciones de acabado en reprografía.
 
 UC2138_1: Realizar operaciones básicas de manipulados en la finalización de productos gráficos.
 
-Dieciocho. En el Real Decreto 356/2014, de 16 de mayo, por el que se establecen siete títulos de Formación Profesional Básica del catálogo de títulos de las enseñanzas de Formación Profesional, en el anexo IV se da una nueva redacción al apartado 7 y se añade un nuevo apartado 6 bis, con la siguiente redacción:
+Dieciocho. En el [Real Decreto 356/2014](./RD356_2014_establecen_siete_titulos_formacion_profesional_basica.md), de 16 de mayo, por el que se establecen siete títulos de Formación Profesional Básica del catálogo de títulos de las enseñanzas de Formación Profesional, en el anexo IV se da una nueva redacción al apartado 7 y se añade un nuevo apartado 6 bis, con la siguiente redacción:
 
 «6. Correspondencia entre módulos profesionales y unidades de competencia para su acreditación o convalidación.
 
@@ -2249,7 +2265,7 @@ UC0436_1: Realizar el lavado en seco de ropa.
 
 3131. Lavandería y mantenimiento de lencería en el alojamiento.
 
-Diecinueve. En el Real Decreto 356/2014, de 16 de mayo, por el que se establecen siete títulos de Formación Profesional Básica del catálogo de títulos de las enseñanzas de Formación Profesional, se añade un nuevo apartado 6 bis al anexo V, con la siguiente redacción:
+Diecinueve. En el [Real Decreto 356/2014](./RD356_2014_establecen_siete_titulos_formacion_profesional_basica.md), de 16 de mayo, por el que se establecen siete títulos de Formación Profesional Básica del catálogo de títulos de las enseñanzas de Formación Profesional, se añade un nuevo apartado 6 bis al anexo V, con la siguiente redacción:
 
 «6 bis. Correspondencia de las unidades de competencia acreditadas con los módulos profesionales para su convalidación.
 
@@ -2267,7 +2283,7 @@ UC1325_1: Realizar las operaciones auxiliares de recepción, colocación, manten
 
 UC0432_1: Manipular cargas con carretillas elevadoras.
 
-Veinte. En el Real Decreto 356/2014, de 16 de mayo, por el que se establecen siete títulos de Formación Profesional Básica del catálogo de títulos de las enseñanzas de Formación Profesional, se añade un nuevo apartado 6 bis al anexo VI, con la siguiente redacción:
+Veinte. En el [Real Decreto 356/2014](./RD356_2014_establecen_siete_titulos_formacion_profesional_basica.md), de 16 de mayo, por el que se establecen siete títulos de Formación Profesional Básica del catálogo de títulos de las enseñanzas de Formación Profesional, se añade un nuevo apartado 6 bis al anexo VI, con la siguiente redacción:
 
 «6 bis. Correspondencia de las unidades de competencia acreditadas con los módulos profesionales para su convalidación.
 
@@ -2275,7 +2291,7 @@ UC0010_1: Contribuir a las operaciones de cubierta en una embarcación pesquera.
 
 UC0011_1: Realizar las guardias de navegación y gobierno del buque.
 
-Veintiuno. En el Real Decreto 356/2014, de 16 de mayo, por el que se establecen siete títulos de Formación Profesional Básica del catálogo de títulos de las enseñanzas de Formación Profesional, se añade un nuevo apartado 6 bis al anexo VII, con la siguiente redacción:
+Veintiuno. En el [Real Decreto 356/2014](./RD356_2014_establecen_siete_titulos_formacion_profesional_basica.md), de 16 de mayo, por el que se establecen siete títulos de Formación Profesional Básica del catálogo de títulos de las enseñanzas de Formación Profesional, se añade un nuevo apartado 6 bis al anexo VII, con la siguiente redacción:
 
 «6 bis. Correspondencia de las unidades de competencia acreditadas con los módulos profesionales para su convalidación.
 
@@ -2283,7 +2299,7 @@ UC0974_1: Realizar operaciones básicas de tratamiento de datos y textos, y conf
 
 UC0971_1: Realizar operaciones auxiliares de reproducción y archivo en soporte convencional o informático.
 
-Veintidós. En el Real Decreto 774/2015, de 28 de agosto, por el que se establecen seis títulos de Formación Profesional Básica del catálogo de títulos de las enseñanzas de Formación Profesional, se añade un nuevo apartado 6 bis al anexo I, con la siguiente redacción:
+Veintidós. En el [Real Decreto 774/2015](./RD774_2015_establecen_seis_titulos_formacion_profesional_basica.md), de 28 de agosto, por el que se establecen seis títulos de Formación Profesional Básica del catálogo de títulos de las enseñanzas de Formación Profesional, se añade un nuevo apartado 6 bis al anexo I, con la siguiente redacción:
 
 «6 bis. Correspondencia de las unidades de competencia acreditadas con los módulos profesionales para su convalidación.
 
@@ -2295,7 +2311,7 @@ UC0543_1: Realizar tareas de apoyo a la recepción y preparación de las materia
 
 UC0545_1: Manejar equipos e instalaciones para el envasado, acondicionado y empaquetado de productos alimentarios, siguiendo instrucciones de trabajo de carácter normalizado y dependiente.
 
-Veintitrés. En el Real Decreto 774/2015, de 28 de agosto, por el que se establecen seis títulos de Formación Profesional Básica del catálogo de títulos de las enseñanzas de Formación Profesional, se añade un nuevo apartado 6 bis al anexo II, con la siguiente redacción:
+Veintitrés. En el [Real Decreto 774/2015](./RD774_2015_establecen_seis_titulos_formacion_profesional_basica.md), de 28 de agosto, por el que se establecen seis títulos de Formación Profesional Básica del catálogo de títulos de las enseñanzas de Formación Profesional, se añade un nuevo apartado 6 bis al anexo II, con la siguiente redacción:
 
 «6 bis. Correspondencia de las unidades de competencia acreditadas con los módulos profesionales para su convalidación.
 
@@ -2311,7 +2327,7 @@ UC0972_1: Realizar la limpieza de suelos, paredes y techos en edificios y locale
 
 UC1087_1: Realizar la limpieza de cristales en edificios y locales.
 
-Veinticuatro. En el Real Decreto 774/2015, de 28 de agosto, por el que se establecen seis títulos de Formación Profesional Básica del catálogo de títulos de las enseñanzas de Formación Profesional, se añade un nuevo apartado 6 bis al anexo III, con la siguiente redacción:
+Veinticuatro. En el [Real Decreto 774/2015](./RD774_2015_establecen_seis_titulos_formacion_profesional_basica.md), de 28 de agosto, por el que se establecen seis títulos de Formación Profesional Básica del catálogo de títulos de las enseñanzas de Formación Profesional, se añade un nuevo apartado 6 bis al anexo III, con la siguiente redacción:
 
 «6 bis. Correspondencia de las unidades de competencia acreditadas con los módulos profesionales para su convalidación.
 
@@ -2319,7 +2335,7 @@ Veinticuatro. En el Real Decreto 774/2015, de 28 de agosto, por el que se esta
 
 3025. Montaje de equipos de climatización.»
 
-Veinticinco. En el Real Decreto 774/2015, de 28 de agosto, por el que se establecen seis títulos de Formación Profesional Básica del catálogo de títulos de las enseñanzas de Formación Profesional, se añade un nuevo apartado 6 bis al anexo IV, con la siguiente redacción:
+Veinticinco. En el [Real Decreto 774/2015](./RD774_2015_establecen_seis_titulos_formacion_profesional_basica.md), de 28 de agosto, por el que se establecen seis títulos de Formación Profesional Básica del catálogo de títulos de las enseñanzas de Formación Profesional, se añade un nuevo apartado 6 bis al anexo IV, con la siguiente redacción:
 
 «6 bis. Correspondencia de las unidades de competencia acreditadas con los módulos profesionales para su convalidación.
 
@@ -2333,7 +2349,7 @@ UC1561_1: Realizar operaciones auxiliares en el mantenimiento de equipos eléctr
 
 3022. Carpintería de aluminio y PVC.»
 
-Veintiséis. En el Real Decreto 774/2015, de 28 de agosto, por el que se establecen seis títulos de Formación Profesional Básica del catálogo de títulos de las enseñanzas de Formación Profesional, se añade un nuevo apartado 6 bis al anexo V, con la siguiente redacción:
+Veintiséis. En el [Real Decreto 774/2015](./RD774_2015_establecen_seis_titulos_formacion_profesional_basica.md), de 28 de agosto, por el que se establecen seis títulos de Formación Profesional Básica del catálogo de títulos de las enseñanzas de Formación Profesional, se añade un nuevo apartado 6 bis al anexo V, con la siguiente redacción:
 
 «6 bis. Correspondencia de las unidades de competencia acreditadas con los módulos profesionales para su convalidación.
 
@@ -2341,7 +2357,7 @@ Veintiséis. En el Real Decreto 774/2015, de 28 de agosto, por el que se estab
 
 3022. Carpintería de aluminio y PVC.»
 
-Veintisiete. En el Real Decreto 774/2015, de 28 de agosto, por el que se establecen seis títulos de Formación Profesional Básica del catálogo de títulos de las enseñanzas de Formación Profesional, se añade un nuevo apartado 6 bis al anexo VI, con la siguiente redacción:
+Veintisiete. En el [Real Decreto 774/2015](./RD774_2015_establecen_seis_titulos_formacion_profesional_basica.md), de 28 de agosto, por el que se establecen seis títulos de Formación Profesional Básica del catálogo de títulos de las enseñanzas de Formación Profesional, se añade un nuevo apartado 6 bis al anexo VI, con la siguiente redacción:
 
 «6 bis. Correspondencia de las unidades de competencia acreditadas con los módulos profesionales para su convalidación.
 
@@ -2373,19 +2389,19 @@ UC0971_1: Realizar operaciones auxiliares de reproducción y archivo en soporte 
 
 #### Artículo décimo. Referencias a las familias profesionales para admisión.
 
-En los reales decretos a que hace referencia el artículo primero.Dos, se suprime el apartado 7 de los anexos, excepto en el anexo IV del Real Decreto 356/2014, de 16 de mayo, por el que se establecen siete títulos de Formación Profesional Básica del catálogo de títulos de las enseñanzas de Formación Profesional, en el que se suprime el apartado 8. #### Disposición adicional primera. Horas del currículo básico.
+En los reales decretos a que hace referencia el artículo primero.Dos, se suprime el apartado 7 de los anexos, excepto en el anexo IV del [Real Decreto 356/2014](./RD356_2014_establecen_siete_titulos_formacion_profesional_basica.md), de 16 de mayo, por el que se establecen siete títulos de Formación Profesional Básica del catálogo de títulos de las enseñanzas de Formación Profesional, en el que se suprime el apartado 8. #### Disposición adicional primera. Horas del currículo básico.
 
-En cumplimiento de lo dispuesto en el artículo 6.4 de la Ley Orgánica 2/2006, de 3 de mayo, las horas del currículo básico de cada uno de los módulos profesionales, con la excepción de Itinerario personal para la empleabilidad, incluidos en los reales decretos a que hace referencia el artículo primero.Dos, se aumentarán proporcionalmente de acuerdo con lo establecido en la tabla que figura como anexo II. En ningún caso, este aumento afecta a las horas del currículo básico del Ámbito de Comunicación y Sociedad, Ámbito de Ciencias Aplicadas, Tutoría ni Proyecto intermodular de aprendizaje colaborativo, cuyas respectivas cargas horarias de currículo básico son la que se referencian en el anexo III.
+En cumplimiento de lo dispuesto en el artículo 6.4 de la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, las horas del currículo básico de cada uno de los módulos profesionales, con la excepción de Itinerario personal para la empleabilidad, incluidos en los reales decretos a que hace referencia el artículo primero.Dos, se aumentarán proporcionalmente de acuerdo con lo establecido en la tabla que figura como anexo II. En ningún caso, este aumento afecta a las horas del currículo básico del Ámbito de Comunicación y Sociedad, Ámbito de Ciencias Aplicadas, Tutoría ni Proyecto intermodular de aprendizaje colaborativo, cuyas respectivas cargas horarias de currículo básico son la que se referencian en el anexo III.
 
 #### Disposición adicional segunda. Nivel básico de la actividad preventiva.
 
-De conformidad con el artículo 88.3 del Real Decreto 659/2023, de 18 de julio, antes de iniciar el periodo de formación en empresa u organismo equiparado, las administraciones competentes garantizarán que el alumnado haya adquirido las competencias y los contenidos relativos a los riesgos específicos y las medidas de prevención en las actividades profesionales correspondientes al perfil profesional de cada título profesional de grado básico, según se requiera en la normativa vigente en materia de prevención de riesgos laborales.
+De conformidad con el artículo 88.3 del [Real Decreto 659/2023](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, antes de iniciar el periodo de formación en empresa u organismo equiparado, las administraciones competentes garantizarán que el alumnado haya adquirido las competencias y los contenidos relativos a los riesgos específicos y las medidas de prevención en las actividades profesionales correspondientes al perfil profesional de cada título profesional de grado básico, según se requiera en la normativa vigente en materia de prevención de riesgos laborales.
 
 #### Disposición adicional tercera. Convalidación de ámbitos no profesionales.
 
 1. La convalidación de los ámbitos de Ciencias Aplicadas I y II, y Comunicación y Ciencias Sociales I y II por los antiguos módulos profesionales de Ciencias Aplicadas I y II, y Comunicación y Sociedad I y II se solicitará en el centro de formación profesional donde se haya formalizado la matrícula. La resolución será automática por parte del centro y la calificación del ámbito afectado será la que apareciera en el expediente académico de la antigua formación, de acuerdo con la siguiente correspondencia:
 
-2. Quienes hubieran superado los ámbitos de Comunicación y Ciencias Sociales I y II y Ciencias Aplicadas I y II en cualquiera de los ciclos formativos de Formación Profesional de grado básico correspondiente a los títulos establecidos al amparo de la Ley Orgánica 2/2006, de 3 de mayo, tendrán convalidados dichos módulos en cualquier otro ciclo formativo de Formación Profesional de grado básico. La resolución será automática por parte de los centros educativos y se mantendrá la calificación obtenida.
+2. Quienes hubieran superado los ámbitos de Comunicación y Ciencias Sociales I y II y Ciencias Aplicadas I y II en cualquiera de los ciclos formativos de Formación Profesional de grado básico correspondiente a los títulos establecidos al amparo de la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, tendrán convalidados dichos módulos en cualquier otro ciclo formativo de Formación Profesional de grado básico. La resolución será automática por parte de los centros educativos y se mantendrá la calificación obtenida.
 
 3. Los alumnos y alumnas que hayan cursado un Programa de Cualificación Profesional Inicial y hubieran superado los módulos formativos obligatorios del ámbito de comunicación y del ámbito social que, además, hubieran superado un módulo de Lengua Extranjera, bien establecido por las Administraciones educativas o de oferta de los centros, en el ámbito de sus competencias, podrán obtener la convalidación del ámbito de Comunicación y Ciencias Sociales I. Asimismo, quienes hubieran superado el módulo formativo obligatorio del ámbito científico-tecnológico, podrán obtener la convalidación del ámbito de Ciencias Aplicadas I.
 
@@ -2403,7 +2419,7 @@ A partir de la entrada en vigor de este real decreto, la superación de cualquie
 
 1. La convalidación de módulos profesionales mediante la acreditación de estándares de competencias profesionales adquiridos a través de la experiencia laboral u otras vías no formales e informales se atendrá a lo establecido en el artículo 128 l.
 
-Real Decreto 659/2023, de 18 de julio. Para ello, serán de aplicación las tablas de «correspondencia entre unidades de competencia acreditadas con los módulos profesionales para su convalidación» incluidas en los apartados 6 bis. A estos efectos, si en la misma celda aparecieran dos o más unidades de competencia acreditadas, deberá entenderse que para la convalidación será necesario poseerlas de manera simultánea.
+[Real Decreto 659/2023](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio. Para ello, serán de aplicación las tablas de «correspondencia entre unidades de competencia acreditadas con los módulos profesionales para su convalidación» incluidas en los apartados 6 bis. A estos efectos, si en la misma celda aparecieran dos o más unidades de competencia acreditadas, deberá entenderse que para la convalidación será necesario poseerlas de manera simultánea.
 
 2. Para la acreditación de estándares de competencias profesionales mediante la superación de módulos profesionales, serán de aplicación las tablas de «correspondencia de los módulos profesionales superados con las unidades de competencia para su acreditación» incluidas en los apartados 6. A estos efectos, si en la misma celda aparecieran dos o más módulos profesionales superados, deberá entenderse que para la acreditación será necesario poseerlos de manera simultánea.
 
@@ -2419,15 +2435,15 @@ En todos los reales decretos objeto de la presente norma, las referencias conten
 
 1. De acuerdo con lo establecido en el artículo 31 l.
 
-Real Decreto 217/2022, de 29 de marzo, por el que se establece la ordenación y las enseñanzas mínimas de la Educación Secundaria Obligatoria, los resultados de la evaluación se expresarán, para los ámbitos de Comunicación y Ciencias Sociales, y Ciencias Aplicadas, en los siguientes términos: «Insuficiente (IN)», para las calificaciones negativas y «Suficiente (SU)», «Bien (BI)», «Notable (NT)», o «Sobresaliente (SB)», para las calificaciones positivas.
+[Real Decreto 217/2022](./RD217_2022_establece_ordenacion_ensenanzas_minimas_educacion_secundaria.md), de 29 de marzo, por el que se establece la ordenación y las enseñanzas mínimas de la Educación Secundaria Obligatoria, los resultados de la evaluación se expresarán, para los ámbitos de Comunicación y Ciencias Sociales, y Ciencias Aplicadas, en los siguientes términos: «Insuficiente (IN)», para las calificaciones negativas y «Suficiente (SU)», «Bien (BI)», «Notable (NT)», o «Sobresaliente (SB)», para las calificaciones positivas.
 
-2. En el caso de los módulos profesionales y proyecto intermodular de aprendizaje colaborativo, la expresión de la calificación responderá a lo establecido en artículo 18.8 del Real Decreto 659/2023, de 18 de julio, y será, consecuentemente, numérica entre 1 y 10, sin decimales. En su caso, la calificación integrará la valoración del centro y de la empresa, y será responsabilidad final del equipo docente y el centro de formación.
+2. En el caso de los módulos profesionales y proyecto intermodular de aprendizaje colaborativo, la expresión de la calificación responderá a lo establecido en artículo 18.8 del [Real Decreto 659/2023](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, y será, consecuentemente, numérica entre 1 y 10, sin decimales. En su caso, la calificación integrará la valoración del centro y de la empresa, y será responsabilidad final del equipo docente y el centro de formación.
 
 #### Disposición transitoria única. Aplicación de los reales decretos por los que se establecen títulos de formación profesional básica de acuerdo con el calendario establecido en el Real Decreto 278/2023, de 11 de abril.
 
 De acuerdo con el calendario establecido en el artículo 11 l.
 
-Real Decreto 278/2023, de 11 de abril, por el que se establece el calendario de implantación del Sistema de Formación Profesional establecido por la Ley Orgánica 3/2022, de 31 de marzo, de ordenación e integración de la Formación Profesional, en el curso 2024-2025 se completará la implantación del primer curso de todos los ciclos formativos. Durante dicho curso académico, para el segundo curso permanecerá en vigor la ordenación de los ciclos formativos de grado básico previa a la entrada en vigor del presente real decreto.
+Real Decreto 278/2023, de 11 de abril, por el que se establece el calendario de implantación del Sistema de Formación Profesional establecido por la [Ley Orgánica 3/2022](../../autonómica/canarias/08_personal_docente/R30_6_2023_ordenacion_gestion_determinadas_listas_empleo_tras.md), de 31 de marzo, de ordenación e integración de la Formación Profesional, en el curso 2024-2025 se completará la implantación del primer curso de todos los ciclos formativos. Durante dicho curso académico, para el segundo curso permanecerá en vigor la ordenación de los ciclos formativos de grado básico previa a la entrada en vigor del presente real decreto.
 
 #### Disposición final primera. Título competencial.
 

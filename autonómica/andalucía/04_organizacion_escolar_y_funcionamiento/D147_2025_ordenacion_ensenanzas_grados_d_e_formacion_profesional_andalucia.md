@@ -418,8 +418,28 @@ relaciones:
     - D. Final primera. Reproducción de normativa estatal.
     articulos_destino:
     - Art. 149
+fundamentos_derecho:
+- norma_id: norm-and-l17-2007
+- norma_id: norm-and-l6-2006-gobierno-comunidad-autonoma-andalucia
+- norma_id: norm-and-d-151-1997
+- norma_id: norm-and-d285-2010-regulacion-sistema-informacion-seneca-andalucia
+- norma_id: norm-and-d102-2023-ordenacion-curriculo-educacion-secundaria-obligatoria-andalucia
+- norma_id: norm-and-d-436-2008
+- norma_id: norm-and-d302-2010-ordenacion-funcion-publica-docente-seleccion-provision-andalucia
+- norma_id: norm-and-o-10-6-2020
+- norma_id: norm-can-d-135-2016
+- norma_id: norm-can-res-boc-2024-230-25
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-can-res-134
+- norma_id: norm-es-l-39-2015
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-lo-3-2022
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2005-21534
+- norma_id: norm-es-rd-217-2022
+- norma_id: norm-es-rd-659-2023
+- norma_id: norm-es-2010-12201
 ---
-
 # Decreto 147/2025, de 17 de septiembre, por el que se establece la ordenación de las enseñanzas de los Grados D y E del Sistema de Formación Profesional en la Comunidad Autónoma de Andalucía.
 
 ## Preámbulo
@@ -566,7 +586,7 @@ procedente de planes de estudio asociados al Real Decreto 1147/2011, de 29 de ju
 
 para el acceso a las enseñanzas correspondientes a los planes de estudio asociados al
 
-Real Decreto 659/2023, de 18 de julio.
+[Real Decreto 659/2023](../../canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio.
 
 #### Disposición transitoria segunda. Plazo excepcional para el curso escolar 2025/2026
 
@@ -604,7 +624,7 @@ básicas para el desarrollo del artículo 27 del texto constitucional, a fin de 
 
 cumplimiento de las obligaciones de los poderes públicos en esta materia.
 
-La Ley Orgánica 2/2006, de 3 de mayo, de Educación, determina en su preámbulo
+La [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, determina en su preámbulo
 
 que la formación profesional comprende un conjunto de ciclos formativos que tienen
 
@@ -618,7 +638,7 @@ económica y establece en el
 
 etapas, regulando la Formación Profesional en el 
 
-### Capítulo V. La Ley Orgánica 3/2022, de 31 de marzo, de ordenación e integración de la Formación
+### Capítulo V. La [Ley Orgánica 3/2022](../../canarias/08_personal_docente/R30_6_2023_ordenacion_gestion_determinadas_listas_empleo_tras.md), de 31 de marzo, de ordenación e integración de la Formación
 
 Profesional determina que el Sistema de Formación Profesional está compuesto por un
 
@@ -666,7 +686,7 @@ las organizaciones y modalidades de los Grados D y E, los aspectos relacionados 
 
 la evaluación, así como lo relativo a las acreditaciones, certificaciones y Títulos de
 
-Formación Profesional, desarrollando los aspectos generales de la Ley Orgánica 3/2022,
+Formación Profesional, desarrollando los aspectos generales de la [Ley Orgánica 3/2022](../../canarias/08_personal_docente/R30_6_2023_ordenacion_gestion_determinadas_listas_empleo_tras.md),
 
 de 31 de marzo.
 
@@ -692,7 +712,7 @@ y aspiraciones de cualificación profesional de las personas a lo largo de su vi
 
 competencias demandadas por el mundo laboral en nuestra Comunidad Autónoma.
 
-Para ello, hay que tener en cuenta que la Ley 17/2007, de 10 de diciembre, de
+Para ello, hay que tener en cuenta que la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre, de
 
 Educación de Andalucía constituye el marco normativo autonómico en el que se insertan
 
@@ -770,7 +790,7 @@ la capacitación del profesorado de la especialidad de Formación y Orientación
 
 Por otra parte, el presente decreto se ha elaborado atendiendo a los principios de
 
-buena regulación contenidos en el artículo 129 de la Ley 39/2015, de 1 de octubre, del
+buena regulación contenidos en el artículo 129 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del
 
 Procedimiento Administrativo Común de las Administraciones Públicas, principios de
 
@@ -808,7 +828,7 @@ organismos equiparados, organizaciones empresariales y sindicales, entidades y t
 
 sector, a través de los procedimientos de audiencia e información pública regulados
 
-en el artículo 133 de la citada Ley 39/2015, de 1 de octubre, y contiene la regulación
+en el artículo 133 de la citada [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, y contiene la regulación
 
 imprescindible para atender la necesidad que deba cubrirse con la norma y se dicta en
 
@@ -826,7 +846,7 @@ Gabinete Jurídico de la Junta de Andalucía.
 
 En su virtud, a propuesta de la Consejera de Desarrollo Educativo y Formación
 
-Profesional, conforme a los artículos 21.3 y 27.8 de la Ley 6/2006, de 24 de octubre,
+Profesional, conforme a los artículos 21.3 y 27.8 de la [Ley 6/2006](../01_marco_normativo_general_y_organico/L6_2006_gobierno_comunidad_autonoma_andalucia.md), de 24 de octubre,
 
 del Gobierno de la Comunidad Autónoma de Andalucía, de acuerdo con el Consejo
 
@@ -854,9 +874,9 @@ BOJA
 
 BOJA
 
-establecido en la Ley Orgánica 3/2022, de 31 de marzo, de ordenación e integración de
+establecido en la [Ley Orgánica 3/2022](../../canarias/08_personal_docente/R30_6_2023_ordenacion_gestion_determinadas_listas_empleo_tras.md), de 31 de marzo, de ordenación e integración de
 
-la Formación Profesional y en el Real Decreto 659/2023, de 18 de julio, por el que se
+la Formación Profesional y en el [Real Decreto 659/2023](../../canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, por el que se
 
 desarrolla la ordenación del Sistema de Formación Profesional.
 
@@ -868,7 +888,7 @@ enseñanzas de formación profesional de Grados D o E.
 
 #### Artículo 2. Finalidades.
 
-De conformidad con el artículo 2 del Real Decreto 659/2023, de 18 de julio,
+De conformidad con el artículo 2 del [Real Decreto 659/2023](../../canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio,
 
 las finalidades del Sistema de Formación Profesional Andaluz, en relación con las
 
@@ -916,7 +936,7 @@ ciudadanía activa y participativa.
 
 #### Artículo 3. Función y objetivos del Sistema de Formación Profesional Andaluz.
 
-1. Según lo dispuesto en el artículo 3 del Real Decreto 659/2023, de 18 de julio, en
+1. Según lo dispuesto en el artículo 3 del [Real Decreto 659/2023](../../canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, en
 
 relación con las enseñanzas correspondientes a los Grados D y E, es función del Sistema
 
@@ -1130,7 +1150,7 @@ al currículo de este alumnado.
 
 #### Artículo 4. Ordenación de las enseñanzas.
 
-1. De acuerdo con lo dispuesto en el artículo 39.3 de la Ley Orgánica 2/2006, de 3
+1. De acuerdo con lo dispuesto en el artículo 39.3 de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3
 
 de mayo, de Educación, la Formación Profesional en el sistema educativo comprende
 
@@ -1142,9 +1162,9 @@ variable, que integrará los contenidos teórico-prácticos adecuados a los dive
 
 profesionales. Por su parte, la 
 
-#### Disposición final tercera. de la Ley Orgánica 3/2022, de 31 de. marzo, dispone que será esta ley la que ordene las enseñanzas de formación profesional
+#### Disposición final tercera. de la [Ley Orgánica 3/2022](../../canarias/08_personal_docente/R30_6_2023_ordenacion_gestion_determinadas_listas_empleo_tras.md), de 31 de. marzo, dispone que será esta ley la que ordene las enseñanzas de formación profesional
 
-de la Ley Orgánica 2/2006, de 3 de mayo.
+de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo.
 
 2. Las enseñanzas de Formación Profesional del sistema educativo se clasifican en
 
@@ -1172,7 +1192,7 @@ superior forman parte de la educación superior.
 
 #### Artículo 5. Ordenación y estructura de los Grados D: ciclos formativos de grado básico.
 
-1. El Decreto 102/2023, de 9 mayo, por el que se establece la ordenación y el
+1. El [Decreto 102/2023](../03_ordenacion_curricular_y_ensenanzas/D102_2023_ordenacion_curriculo_educacion_secundaria_obligatoria_andalucia.md), de 9 mayo, por el que se establece la ordenación y el
 
 currículo de la etapa de Educación Secundaria Obligatoria en la Comunidad Autónoma de
 
@@ -1190,9 +1210,9 @@ de la enseñanza básica a través de los ámbitos de Comunicación y Ciencias S
 
 de Ciencias Aplicadas de los ciclos formativos de grado básico.
 
-2. De conformidad con el artículo 85 del Real Decreto 659/2023, de 18 de julio, y
+2. De conformidad con el artículo 85 del [Real Decreto 659/2023](../../canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, y
 
-el artículo 24.6 del Decreto 102/2023, de 9 mayo, los ciclos formativos de grado básico
+el artículo 24.6 del [Decreto 102/2023](../03_ordenacion_curricular_y_ensenanzas/D102_2023_ordenacion_curriculo_educacion_secundaria_obligatoria_andalucia.md), de 9 mayo, los ciclos formativos de grado básico
 
 facilitarán la adquisición de las competencias establecidas en el perfil de salida con la
 
@@ -1244,7 +1264,7 @@ Consejería competente en materia de educación podrá autorizar, mediante orden
 
 modificación de su duración a tres cursos académicos.
 
-5. De acuerdo con lo dispuesto en el artículo 25 del Real Decreto 217/2022, de 29 de
+5. De acuerdo con lo dispuesto en el artículo 25 del [Real Decreto 217/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD217_2022_establece_ordenacion_ensenanzas_minimas_educacion_secundaria.md), de 29 de
 
 marzo, por el que se establece la ordenación y las enseñanzas mínimas de la Educación
 
@@ -1274,7 +1294,7 @@ c) La tutoría y la orientación profesional tendrán una especial consideració
 
 un acompañamiento socioeducativo personalizado, con presencia en el horario semanal.
 
-6. En aplicación del artículo 30 de la Ley Orgánica 2/2006, de 3 de mayo, de
+6. En aplicación del artículo 30 de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de
 
 Educación, el equipo docente podrá proponer a padres, madres o tutores legales y al
 
@@ -1286,7 +1306,7 @@ así lo aconseje, siempre que cumpla los requisitos establecidos en el artículo
 
 citada ley.
 
-7. De conformidad con el artículo 89.2 del Real Decreto 659/2023, de 18 de julio, la
+7. De conformidad con el artículo 89.2 del [Real Decreto 659/2023](../../canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, la
 
 Consejería con competencia en materia de educación podrá ofertar ciclos formativos de
 
@@ -1322,7 +1342,7 @@ durante un máximo de cuatro cursos académicos.
 
 y superior.
 
-1. De conformidad con el artículo 96 del Real Decreto 659/2023, de 18 de julio, los
+1. De conformidad con el artículo 96 del [Real Decreto 659/2023](../../canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, los
 
 ciclos formativos de grado medio y superior tendrán estructura modular y constarán de:
 
@@ -1384,7 +1404,7 @@ durante un tiempo máximo que no supere el doble de los cursos asignados al cicl
 
 cursos de especialización en alguna de las fórmulas contempladas en el artículo 117 del
 
-Real Decreto 659/2023, de 18 de julio, y teniendo en cuenta, en su caso, el Catálogo
+[Real Decreto 659/2023](../../canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, y teniendo en cuenta, en su caso, el Catálogo
 
 Modular Andaluz de Formación Profesional.
 
@@ -1414,11 +1434,11 @@ educación se podrá desarrollar el currículo de los cursos de especialización
 
 en todo caso, la norma básica correspondiente y lo establecido en el presente decreto.
 
-4. No obstante, en virtud del artículo 13.2.a) de la Ley Orgánica 3/2022, de 31 de
+4. No obstante, en virtud del artículo 13.2.a) de la [Ley Orgánica 3/2022](../../canarias/08_personal_docente/R30_6_2023_ordenacion_gestion_determinadas_listas_empleo_tras.md), de 31 de
 
 marzo, se podrán exceptuar los cursos de especialización de los porcentajes fijados por
 
-la Ley Orgánica 2/2006, de 3 de mayo, en cuanto a enseñanzas mínimas y horarios,
+la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, en cuanto a enseñanzas mínimas y horarios,
 
 pudiendo la Consejería competente en materia de educación, mediante orden, efectuar
 
@@ -1534,7 +1554,7 @@ todos los centros del Sistema de Formación Profesional en la Comunidad Autónom
 
 Andalucía que estén autorizados a impartir dichas enseñanzas.
 
-2. De acuerdo con el artículo 7.3 del Real Decreto 659/2023, de 18 de julio, los
+2. De acuerdo con el artículo 7.3 del [Real Decreto 659/2023](../../canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, los
 
 currículos de las enseñanzas de Grado D determinarán los currículos de otras ofertas
 
@@ -1578,7 +1598,7 @@ Formativas atendiendo a las necesidades del perfil de las personas en formación
 
 perfil profesional establecido, siempre bajo los límites autorizados de hasta un 25 por
 
-ciento, de acuerdo con el artículo 7.4.b) del Real Decreto 659/2023, de 18 de julio, y
+ciento, de acuerdo con el artículo 7.4.b) del [Real Decreto 659/2023](../../canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, y
 
 teniendo en cuenta la singularidad del entorno socio-productivo y educativo de la
 
@@ -1634,7 +1654,7 @@ BOJA
 
 BOJA
 
-7. En virtud de lo dispuesto en el artículo 10.3 del Real Decreto 659/2023, de 18 de
+7. En virtud de lo dispuesto en el artículo 10.3 del [Real Decreto 659/2023](../../canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de
 
 julio, la Consejería competente en materia de educación regulará el procedimiento de
 
@@ -1658,7 +1678,7 @@ innovaciones pedagógicas, programas formativos, planes de trabajo o propuestas
 
 afecten a la obtención de títulos académicos o profesionales, en los términos previstos en
 
-el artículo 120.5 de la Ley Orgánica 2/2006, de Educación.
+el artículo 120.5 de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de Educación.
 
 #### Artículo 10. Fase de formación en empresa u organismo equiparado.
 
@@ -1698,7 +1718,7 @@ enseñanza, atendiendo a los requerimientos y condicionantes de su entorno produ
 
 todas las enseñanzas de Grado D en cada uno de sus años de duración, como señala
 
-el artículo 9.5 del Real Decreto 659/2023, de 18 de julio. La Consejería competente
+el artículo 9.5 del [Real Decreto 659/2023](../../canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio. La Consejería competente
 
 en materia de educación determinará las excepciones cuando el tejido productivo sea
 
@@ -1724,7 +1744,7 @@ d) Los períodos de formación en empresa u organismo equiparado en la modalidad
 
 virtual cuando concurran circunstancias de trabajo de la persona en formación que dificulten
 
-la fragmentación o alternancia, en los términos del artículo 9.5.d) del Real Decreto 659/2023,
+la fragmentación o alternancia, en los términos del artículo 9.5.d) del [Real Decreto 659/2023](../../canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md),
 
 de 18 de julio.
 
@@ -1762,7 +1782,7 @@ para su autorización y desarrollo.
 
 formación en empresa u organismo equiparado en países de la Unión Europea.
 
-9. De conformidad con el artículo 164 del Real Decreto 659/2023, de 18 de julio, el
+9. De conformidad con el artículo 164 del [Real Decreto 659/2023](../../canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, el
 
 alumnado podrá realizar la formación en empresa en un máximo de dos ocasiones en el
 
@@ -1770,7 +1790,7 @@ marco de un Grado D o, en su caso, E.
 
 #### Artículo 11. Empresas y organismos equiparados.
 
-1. Según establece el artículo 2.20 de la Ley Orgánica 3/2022, de 31 de marzo, un
+1. Según establece el artículo 2.20 de la [Ley Orgánica 3/2022](../../canarias/08_personal_docente/R30_6_2023_ordenacion_gestion_determinadas_listas_empleo_tras.md), de 31 de marzo, un
 
 organismo equiparado se define como aquella entidad u organización, cualquiera que
 
@@ -1844,7 +1864,7 @@ vinculados a estándares de competencia.
 
 5. La formación en empresa u organismo equiparado en régimen general o intensivo
 
-se regirá por lo establecido en los artículos 66 y 67 de la Ley Orgánica 3/2022, del 31
+se regirá por lo establecido en los artículos 66 y 67 de la [Ley Orgánica 3/2022](../../canarias/08_personal_docente/R30_6_2023_ordenacion_gestion_determinadas_listas_empleo_tras.md), del 31
 
 00326000
 
@@ -1854,7 +1874,7 @@ BOJA
 
 BOJA
 
-de marzo, y el artículo 159 del Real Decreto 659/2023, del 18 julio, y sus desarrollos
+de marzo, y el artículo 159 del [Real Decreto 659/2023](../../canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), del 18 julio, y sus desarrollos
 
 posteriores, así como la normativa laboral que resulte de aplicación.
 
@@ -1894,9 +1914,9 @@ que no podrá ser utilizado para el desempeño de otras funciones.
 
 #### Artículo 14. Autonomía pedagógica, organizativa y de gestión de los centros docentes.
 
-1. En virtud del artículo 125 de la Ley 17/2007, de 10 de diciembre, de Educación
+1. En virtud del artículo 125 de la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre, de Educación
 
-en Andalucía y del artículo 97.3.b) del Real Decreto 659/2023, de 18 de julio, los
+en Andalucía y del artículo 97.3.b) del [Real Decreto 659/2023](../../canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, los
 
 centros docentes que impartan formación profesional contarán con autonomía
 
@@ -2028,7 +2048,7 @@ modalidad modular, estará adscrito a la Consejería competente en materia de ed
 
 y se regulará mediante orden. Asimismo, podrán incorporarse a dicho Catálogo aquellos
 
-módulos que, conforme al artículo 7.5.b) y c) del Real Decreto 659/2023, de 18 de julio,
+módulos que, conforme al artículo 7.5.b) y c) del [Real Decreto 659/2023](../../canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio,
 
 complementen la oferta formativa con módulos profesionales de carácter optativo u
 
@@ -2164,7 +2184,7 @@ centro privado podrá iniciar ni impartir ofertas correspondientes a los Grados 
 
 la previa autorización administrativa y la inscripción en el registro correspondiente, de
 
-conformidad con lo establecido en el artículo 78.2 de la Ley Orgánica 3/2022, de 31 de
+conformidad con lo establecido en el artículo 78.2 de la [Ley Orgánica 3/2022](../../canarias/08_personal_docente/R30_6_2023_ordenacion_gestion_determinadas_listas_empleo_tras.md), de 31 de
 
 00326000
 
@@ -2262,7 +2282,7 @@ de atención a la diversidad e inclusión, los resultados de aprendizaje.
 
 4. Para el acceso a estos ciclos formativos de grado básico serán necesarios además,
 
-conforme al artículo 33.2 del Real Decreto 659/2023, de 18 de julio, los siguientes requisitos:
+conforme al artículo 33.2 del [Real Decreto 659/2023](../../canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, los siguientes requisitos:
 
 a) Ser mayor de dieciséis años en el momento de incorporación a la formación o,
 
@@ -2318,7 +2338,7 @@ su empleabilidad. Asimismo, para los mayores de dieciséis años se podrán prev
 
 programas formativos concurriendo las circunstancias previstas en el artículo 48.2.a) y b)
 
-del Real Decreto 659/2023, de 18 de julio.
+del [Real Decreto 659/2023](../../canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio.
 
 4. Estos programas formativos podrán incluir formación complementaria, adaptada
 
@@ -2448,7 +2468,7 @@ equitativo a la Formación Profesional en zonas rurales.
 
 1. Los requisitos de acceso a los Grados D y E serán los establecidos en los artículos
 
-90, 108, 112, 120 y 121 del Real Decreto 659/2023, de 18 de julio, para los ciclos
+90, 108, 112, 120 y 121 del [Real Decreto 659/2023](../../canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, para los ciclos
 
 formativos de grado básico, medio, superior y cursos de especialización de grado medio
 
@@ -2502,7 +2522,7 @@ BOJA
 
 BOJA
 
-el artículo 109 y 113 del Real Decreto 659/2023, de 18 de julio, respectivamente. Estos
+el artículo 109 y 113 del [Real Decreto 659/2023](../../canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, respectivamente. Estos
 
 cursos estarán destinados a las personas que no cumplan los requisitos académicos de
 
@@ -2516,7 +2536,7 @@ educación, se regularán y convocarán las pruebas de acceso a los ciclos forma
 
 grado medio y superior una vez al año, conforme a lo establecido en el artículo 110 y
 
-114 del Real Decreto 659/2023, de 18 de julio, respectivamente y sus resultados tendrán
+114 del [Real Decreto 659/2023](../../canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, respectivamente y sus resultados tendrán
 
 validez en el ámbito estatal. Asimismo, se regulará el procedimiento de exención de las
 
@@ -2552,7 +2572,7 @@ plazos y los criterios de prioridad en la admisión, así como los de desempate,
 
 igualdad de condiciones.
 
-2. En aplicación de lo establecido en el artículo 75.4 de la Ley Orgánica 2/2006, de 3
+2. En aplicación de lo establecido en el artículo 75.4 de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3
 
 de mayo, del total de plazas escolares autorizadas que se oferten se reservará un 5 por
 
@@ -2562,7 +2582,7 @@ al 33 por ciento. Si el resultado del cálculo de plazas reservadas no es un nú
 
 se tomará el inmediatamente superior.
 
-3. De conformidad con lo dispuesto en el artículo 70 de la Ley 17/2007, de 10 de
+3. De conformidad con lo dispuesto en el artículo 70 de la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de
 
 diciembre, a los efectos del ingreso en los grados D y E, todos los centros docentes
 
@@ -2614,7 +2634,7 @@ BOJA
 
 #### Artículo 26. Matrícula, convalidación y exención.
 
-1. Según lo establecido en el artículo 24.2 del Real Decreto 659/2023, de 18 de
+1. Según lo establecido en el artículo 24.2 del [Real Decreto 659/2023](../../canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de
 
 julio, una persona no podrá estar matriculada o inscrita, en un mismo período y módulo
 
@@ -2780,7 +2800,7 @@ incluidos en las actividades formativas desarrolladas en la empresa u organismo
 
 equiparado, que será recogida por la persona que ejerza la tutoría dual docente, de
 
-conformidad con el apartado 7.a) del artículo 18 del Real Decreto 659/2023, de 18 de
+conformidad con el apartado 7.a) del artículo 18 del [Real Decreto 659/2023](../../canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de
 
 julio. La evaluación del módulo integrará la calificación del centro y la valoración de la
 
@@ -3088,7 +3108,7 @@ Innovación en Formación Profesional.
 
 #### Artículo 33. Centros especializados de Formación Profesional.
 
-1. De conformidad con el artículo 77.1 de la Ley Orgánica 3/2022, de 31 de marzo,
+1. De conformidad con el artículo 77.1 de la [Ley Orgánica 3/2022](../../canarias/08_personal_docente/R30_6_2023_ordenacion_gestion_determinadas_listas_empleo_tras.md), de 31 de marzo,
 
 se considerarán centros especializados de Formación Profesional los que impartan
 
@@ -3126,7 +3146,7 @@ centros públicos integrados de Formación Profesional.
 
 2. Son centros integrados de Formación Profesional aquellos que, reuniendo los
 
-requisitos establecidos en el Real Decreto 1558/2005, de 23 de diciembre, por el que
+requisitos establecidos en el [Real Decreto 1558/2005](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1558_2005_regulan_requisitos_basicos_centros_integrados_formacion.md), de 23 de diciembre, por el que
 
 se regulan los requisitos básicos de los Centros integrados de formación profesional,
 
@@ -3344,11 +3364,11 @@ como centro de excelencia de la red autonómica determinará la continuidad en l
 
 #### Artículo 37. Registro y autorización.
 
-1. En virtud del Decreto 151/1997, de 27 de mayo, por el que se crea y regula el
+1. En virtud del [Decreto 151/1997](../02_gestion_y_administracion_centros/D151_1997_crea_regula_registro_centros_docentes_andalucia.md), de 27 de mayo, por el que se crea y regula el
 
 Registro de Centros Docentes y tal como se determina en el artículo 78 de la
 
-Ley Orgánica 3/2022, de 31 de marzo, aquellos centros que tengan su sede en Andalucía
+[Ley Orgánica 3/2022](../../canarias/08_personal_docente/R30_6_2023_ordenacion_gestion_determinadas_listas_empleo_tras.md), de 31 de marzo, aquellos centros que tengan su sede en Andalucía
 
 o desarrollen cualquier actividad formativa relacionada con las ofertas de Grado D o E en
 
@@ -3386,7 +3406,7 @@ lo dispuesto en el Decreto 109/1992, de 9 de junio, sobre autorizaciones de Cent
 
 Docentes Privados, para impartir Enseñanzas de Régimen General.
 
-2. Tal como indica el artículo 205 del Real Decreto 659/2023, de 18 de julio, los
+2. Tal como indica el artículo 205 del [Real Decreto 659/2023](../../canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, los
 
 centros docentes privados no sostenidos con fondos públicos, ya autorizados, que
 
@@ -3398,7 +3418,7 @@ las enseñanzas que impartirán en el citado curso para su autorización por par
 
 Consejería competente en materia de educación, que comprobará el cumplimiento de las
 
-condiciones de impartición a las que se refiere el artículo 199 del Real Decreto 659/2023,
+condiciones de impartición a las que se refiere el artículo 199 del [Real Decreto 659/2023](../../canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md),
 
 de 18 de julio.
 
@@ -3494,7 +3514,7 @@ la documentación a través del Registro Electrónico Único de la Junta de Anda
 
 utilizando preceptivamente para ello el Sistema de Información Séneca, en virtud de lo
 
-establecido en los artículos 2.e) y 12 del Decreto 285/2010, de 11 de mayo, por el que se
+establecido en los artículos 2.e) y 12 del [Decreto 285/2010](../02_gestion_y_administracion_centros/D285_2010_regulacion_sistema_informacion_seneca_andalucia.md), de 11 de mayo, por el que se
 
 regula el Sistema de Información Séneca y se establece su utilización para la gestión del
 
@@ -3612,7 +3632,7 @@ ajustada a las necesidades del entorno.
 
 1. En el marco del Sistema de Formación Profesional y, de conformidad con lo
 
-dispuesto en el artículo 170 del Real Decreto 659/2023, de 18 de julio, la Consejería
+dispuesto en el artículo 170 del [Real Decreto 659/2023](../../canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, la Consejería
 
 competente en materia de educación podrá autorizar la participación de personal experto
 
@@ -3650,7 +3670,7 @@ competencias profesionales y cuente con la correspondiente autorización expresa
 
 Consejería competente en materia de educación.
 
-4. El personal experto se regirá por lo dispuesto en el Decreto 302/2010, de 1 de junio,
+4. El personal experto se regirá por lo dispuesto en el [Decreto 302/2010](../08_personal_docente/D302_2010_ordenacion_funcion_publica_docente_seleccion_provision_andalucia.md), de 1 de junio,
 
 por el que se ordena la función pública docente y se regula la selección del profesorado
 
@@ -3658,7 +3678,7 @@ y la provisión de los puestos de trabajo docentes, que establece en su artícul
 
 distribución e identificación de los puestos de trabajo docentes, concretando en el apartado
 
-1.b) los puestos de profesorado especialista, y por la Orden de 10 de junio de 2020, por
+1.b) los puestos de profesorado especialista, y por la [Orden de 10 de junio de 2020](../08_personal_docente/O10_6_2020_bolsas_trabajo_profesorado_interino_andalucia.md), por
 
 la que se regulan los procedimientos de provisión, de puestos de trabajos docentes, la
 
@@ -3772,11 +3792,11 @@ procedente de planes de estudio asociados al Real Decreto 1147/2011, de 29 de ju
 
 para el acceso a las enseñanzas correspondientes a los planes de estudio asociados al
 
-Real Decreto 659/2023, de 18 de julio.
+[Real Decreto 659/2023](../../canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio.
 
 Para la admisión en el segundo curso de un ciclo formativo correspondiente a los
 
-planes de estudio asociados al Real Decreto 659/2023, de 18 de julio, procedente de
+planes de estudio asociados al [Real Decreto 659/2023](../../canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, procedente de
 
 ciclos formativos de grado medio o grado superior de planes de estudio asociados al Real
 
@@ -3802,7 +3822,7 @@ módulos profesionales que componen el primer curso.
 
 Sin menoscabo de lo anterior, no se podrá obtener el título de las enseñanzas de los
 
-planes de estudio asociados al Real Decreto 659/2023, de 18 de julio, a las que se accede por
+planes de estudio asociados al [Real Decreto 659/2023](../../canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, a las que se accede por
 
 este sistema sin haber superado todos los módulos profesionales, incluyendo Sostenibilidad
 
@@ -3870,11 +3890,11 @@ sistema educativo en la Comunidad Autónoma de Andalucía.
 
 Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo
 
-establecido en el presente decreto y, de manera específica, el Decreto 436/2008, de 2
+establecido en el presente decreto y, de manera específica, el [Decreto 436/2008](../03_ordenacion_curricular_y_ensenanzas/D436_2008_ordenacion_educacion_personas_adultas_andalucia.md), de 2
 
 de septiembre, por el que se establece la ordenación y las enseñanzas de la Formación
 
-Profesional inicial que forma parte del Sistema Educativo y el Decreto 135/2016, de 26 de
+Profesional inicial que forma parte del Sistema Educativo y el [Decreto 135/2016](../../canarias/01_marco_normativo_general_y_organico/D135_2016_reglamento_organico_consejeria_educacion_universidades_cultura.md), de 26 de
 
 julio, por el que se regulan las enseñanzas de Formación Profesional básica en Andalucía.
 
@@ -3886,7 +3906,7 @@ Los artículos 2, 4.2, 4.3, 5.4, 5.6, 5.7, 5.10, 6.4, 6.5,7.2, 8.1, 8.3, 8.6, 9.
 
 al amparo del artículo 149.1.1.ª y 30.ª de la Constitución Española y recogidas en la
 
-Ley Orgánica 2/2006, de 3 de mayo, la Ley Orgánica 3/2022, de 31 marzo, y en el Real
+[Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, la [Ley Orgánica 3/2022](../../canarias/08_personal_docente/R30_6_2023_ordenacion_gestion_determinadas_listas_empleo_tras.md), de 31 marzo, y en el Real
 
 Decreto 659/2023, de 18 de julio.
 
@@ -3902,7 +3922,7 @@ BOJA
 
 El artículo 3.2.s) reproduce normas dictadas por la Comunidad Autónoma y recogidas
 
-en la Ley 17/2007, de 10 de diciembre.
+en la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre.
 
 #### Disposición final tercera. Desarrollo y ejecución.
 
@@ -3935,7 +3955,7 @@ y Formación Profesional
 ## Relaciones Normativas y Fundamentos de Derecho
 
 ### Estructura y Concordancias Granulares
-- **Desarrolla**: [**LO3_2022 Ley de Ordenacion e Integracion de la FP**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO3_2022_ordenacion_e_integracion_formacion_profesional.md) desde *(Capítulo V. La Ley Orgánica 3/2022, de 31 de marzo, de ordenación e integración de la Formación)*
+- **Desarrolla**: [**LO3_2022 Ley de Ordenacion e Integracion de la FP**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO3_2022_ordenacion_e_integracion_formacion_profesional.md) desde *(Capítulo V. La [Ley Orgánica 3/2022](../../canarias/08_personal_docente/R30_6_2023_ordenacion_gestion_determinadas_listas_empleo_tras.md), de 31 de marzo, de ordenación e integración de la Formación)*
 - **Fundamentado en**: [**RD659_2023 Ordenacion General de la Formacion Profesional**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md) (Art. 2) desde *(Capítulo I. Disposiciones de carácter general, Art. 2)*
 - **Fundamentado en**: [**RD659_2023 Ordenacion General de la Formacion Profesional**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md) (Art. 85) desde *(Capítulo I. Disposiciones de carácter general, Art. 5)*
 - **Fundamentado en**: [**RD659_2023 Ordenacion General de la Formacion Profesional**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md) (Art. 89) desde *(Capítulo I. Disposiciones de carácter general, Art. 5)*
@@ -3957,8 +3977,8 @@ y Formación Profesional
 - **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) desde *(Capítulo IX. Personal experto., D. Final cuarta. Entrada en vigor.)*
 - **Cita a**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) desde *(Capítulo IX. Personal experto., D. Final cuarta. Entrada en vigor.)*
 - **Cita a**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) desde *(Capítulo IX. Personal experto., D. Final cuarta. Entrada en vigor.)*
-- **Cita a**: [**LO3_2022 Ley de Ordenacion e Integracion de la FP**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO3_2022_ordenacion_e_integracion_formacion_profesional.md) (Capítulo V) desde *(Capítulo V. La Ley Orgánica 3/2022, de 31 de marzo, de ordenación e integración de la Formación)*
-- **Cita a**: [**Ley 17/2007, de 10 de diciembre, de Educación de Andalucía (LEA)**](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md) desde *(Capítulo V. La Ley Orgánica 3/2022, de 31 de marzo, de ordenación e integración de la Formación)*
+- **Cita a**: [**LO3_2022 Ley de Ordenacion e Integracion de la FP**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO3_2022_ordenacion_e_integracion_formacion_profesional.md) (Capítulo V) desde *(Capítulo V. La [Ley Orgánica 3/2022](../../canarias/08_personal_docente/R30_6_2023_ordenacion_gestion_determinadas_listas_empleo_tras.md), de 31 de marzo, de ordenación e integración de la Formación)*
+- **Cita a**: [**Ley 17/2007, de 10 de diciembre, de Educación de Andalucía (LEA)**](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md) desde *(Capítulo V. La [Ley Orgánica 3/2022](../../canarias/08_personal_docente/R30_6_2023_ordenacion_gestion_determinadas_listas_empleo_tras.md), de 31 de marzo, de ordenación e integración de la Formación)*
 - **Cita a**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) (Art. 129) desde *(Capítulo V. del Título II. En ella se fundamentan las normas)*
 - **Cita a**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) (Art. 133) desde *(Capítulo V. del Título II. En ella se fundamentan las normas)*
 - **Cita a**: [**LO3_2022 Ley de Ordenacion e Integracion de la FP**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO3_2022_ordenacion_e_integracion_formacion_profesional.md) desde *(Capítulo I. Disposiciones de carácter general, Art. 1)*
@@ -3967,10 +3987,10 @@ y Formación Profesional
 - **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 39) desde *(Capítulo I. Disposiciones de carácter general, Art. 4)*
 - **Cita a**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 39) desde *(Capítulo I. Disposiciones de carácter general, Art. 4)*
 - **Cita a**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 39) desde *(Capítulo I. Disposiciones de carácter general, Art. 4)*
-- **Cita a**: [**LO3_2022 Ley de Ordenacion e Integracion de la FP**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO3_2022_ordenacion_e_integracion_formacion_profesional.md) (D. Final tercera) desde *(Capítulo I. Disposiciones de carácter general, D. Final tercera de la Ley Orgánica 3/2022, de 31 de. marzo, dispone que será esta ley la que ordene las enseñanzas de formación profesional)*
-- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) desde *(Capítulo I. Disposiciones de carácter general, D. Final tercera de la Ley Orgánica 3/2022, de 31 de. marzo, dispone que será esta ley la que ordene las enseñanzas de formación profesional)*
-- **Cita a**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) desde *(Capítulo I. Disposiciones de carácter general, D. Final tercera de la Ley Orgánica 3/2022, de 31 de. marzo, dispone que será esta ley la que ordene las enseñanzas de formación profesional)*
-- **Cita a**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) desde *(Capítulo I. Disposiciones de carácter general, D. Final tercera de la Ley Orgánica 3/2022, de 31 de. marzo, dispone que será esta ley la que ordene las enseñanzas de formación profesional)*
+- **Cita a**: [**LO3_2022 Ley de Ordenacion e Integracion de la FP**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO3_2022_ordenacion_e_integracion_formacion_profesional.md) (D. Final tercera) desde *(Capítulo I. Disposiciones de carácter general, D. Final tercera de la [Ley Orgánica 3/2022](../../canarias/08_personal_docente/R30_6_2023_ordenacion_gestion_determinadas_listas_empleo_tras.md), de 31 de. marzo, dispone que será esta ley la que ordene las enseñanzas de formación profesional)*
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) desde *(Capítulo I. Disposiciones de carácter general, D. Final tercera de la [Ley Orgánica 3/2022](../../canarias/08_personal_docente/R30_6_2023_ordenacion_gestion_determinadas_listas_empleo_tras.md), de 31 de. marzo, dispone que será esta ley la que ordene las enseñanzas de formación profesional)*
+- **Cita a**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md) desde *(Capítulo I. Disposiciones de carácter general, D. Final tercera de la [Ley Orgánica 3/2022](../../canarias/08_personal_docente/R30_6_2023_ordenacion_gestion_determinadas_listas_empleo_tras.md), de 31 de. marzo, dispone que será esta ley la que ordene las enseñanzas de formación profesional)*
+- **Cita a**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) desde *(Capítulo I. Disposiciones de carácter general, D. Final tercera de la [Ley Orgánica 3/2022](../../canarias/08_personal_docente/R30_6_2023_ordenacion_gestion_determinadas_listas_empleo_tras.md), de 31 de. marzo, dispone que será esta ley la que ordene las enseñanzas de formación profesional)*
 - **Cita a**: [**Decreto 102/2023, de 9 de mayo, por el que se establece la ordenación y el **](../03_ordenacion_curricular_y_ensenanzas/D102_2023_ordenacion_curriculo_educacion_primaria_andalucia.md) desde *(Capítulo I. Disposiciones de carácter general, Art. 5)*
 - **Cita a**: [**Decreto 102/2023, de 9 de mayo, por el que se establece la ordenación y el **](../03_ordenacion_curricular_y_ensenanzas/D102_2023_ordenacion_curriculo_educacion_primaria_andalucia.md) (Art. 24) desde *(Capítulo I. Disposiciones de carácter general, Art. 5)*
 - **Cita a**: [**RD217_2022 Ordenacion y Ensenanzas Minimas de la ESO**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD217_2022_establece_ordenacion_ensenanzas_minimas_educacion_secundaria.md) (Art. 25) desde *(Capítulo I. Disposiciones de carácter general, Art. 5)*

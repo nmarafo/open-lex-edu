@@ -28,8 +28,21 @@ relaciones:
   - norma_id: norm-es-lo-2-2006
   fundamentado_en:
   - norma_id: norm-and-l17-2007
+fundamentos_derecho:
+- norma_id: norm-and-l17-2007
+- norma_id: norm-and-l6-2006-gobierno-comunidad-autonoma-andalucia
+- norma_id: norm-and-d-151-1997
+- norma_id: norm-and-d285-2010-regulacion-sistema-informacion-seneca-andalucia
+- norma_id: norm-and-d327-2010
+- norma_id: norm-and-d328-2010
+- norma_id: norm-and-d-40-2011
+- norma_id: norm-and-d302-2010-ordenacion-funcion-publica-docente-seleccion-provision-andalucia
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-4130
+- norma_id: norm-es-2010-12201
 ---
-
 # Orden de 28 de junio de 2011, por la que se regula la enseñanza bilingüe en los centros docentes de la Comunidad Autónoma de Andalucía.
 
 ## Preámbulo
@@ -98,7 +111,7 @@ vas podrán autorizar que una parte de las áreas o materias
 del currículo se imparta en lenguas extranjeras sin que ello 
 suponga modificación de los aspectos básicos del currículo re-
 gulados en dichos reales decretos.
-Posteriormente, la aprobación de la Ley 17/2007, de 10 
+Posteriormente, la aprobación de la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 
 de diciembre, de Educación de Andalucía incluyó entre sus 
 objetivos generales el de incorporar las nuevas competencias 
 y saberes necesarios para desenvolverse en la sociedad, con 
@@ -125,9 +138,9 @@ dientes al Bachillerato en Andalucía y, finalmente, en el De-
 creto 436/2008, de 2 de septiembre, por el que se establece 
 la ordenación y las enseñanzas de la formación profesional 
 inicial.
-La aprobación del Decreto 327/2010, de 13 de julio, por 
+La aprobación del [Decreto 327/2010](../04_organizacion_escolar_y_funcionamiento/D327_2010_reglamento_organico_institutos_educacion_secundaria_andalucia.md), de 13 de julio, por 
 el que se aprueba el Reglamento Orgánico de los Institutos 
-de Educación Secundaria; del Decreto 328/2010, de 13 de 
+de Educación Secundaria; del [Decreto 328/2010](../04_organizacion_escolar_y_funcionamiento/D328_2010_reglamento_organico_escuelas_infantiles_colegios_primaria_andalucia.md), de 13 de 
 julio, por el que se aprueba el Reglamento Orgánico de las 
 escuelas infantiles de segundo ciclo, de los colegios de educa-
 ción primaria, de los colegios de educación infantil y primaria, 
@@ -145,7 +158,7 @@ nal dedicado al desempeño de las funciones de coordinación
 del Plan de centros docentes bilingües.
 En su virtud, a propuesta de la Dirección General de Par-
 ticipación e Innovación Educativa, y de acuerdo con las facul-
-tades que me confiere el artículo 44.2 de la Ley 6/2006, de 
+tades que me confiere el artículo 44.2 de la [Ley 6/2006](../01_marco_normativo_general_y_organico/L6_2006_gobierno_comunidad_autonoma_andalucia.md), de 
 24 de octubre, del Gobierno de la Comunidad Autónoma de 
 Andalucía,
 D I S P O N G O
@@ -329,7 +342,7 @@ bilingües o plurilingües, de acuerdo con el Anexo I o II, según
 corresponda.
 Artículo 11. Funciones específicas del profesorado.
 1. Sin perjuicio de lo establecido en el artículo 91 de la 
-Ley Orgánica 2/2006, de 3 de mayo, de Educación, y demás 
+[Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, y demás 
 normativa de aplicación, el profesorado de la lengua caste-
 llana, en adelante L1, de la L2 y, en su caso, de la L3, realizará 
 las siguientes funciones:
@@ -345,7 +358,7 @@ jeras.
 d) Promover el uso del Portfolio Europeo de las Lenguas 
 de conformidad con lo establecido en el artículo 9.3.b).
 2. Sin perjuicio de lo establecido en el artículo 91 de la 
-Ley Orgánica 2/2006, de 3 de mayo, de Educación, y demás 
+[Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, y demás 
 normativa de aplicación, el profesorado que imparte las áreas, 
 materias o módulos profesionales no lingüísticos en la L2 rea-
 lizará las siguientes funciones:
@@ -458,7 +471,7 @@ ción educativa. En todo caso se requerirá el acuerdo previo del
 Consejo Escolar del Centro.
 2. La autorización a que se refiere el apartado anterior 
 quedará inscrita en el Registro de Centros Docentes regulado 
-en el Decreto 151/1997, de 27 de mayo, por el que se crea y 
+en el [Decreto 151/1997](../02_gestion_y_administracion_centros/D151_1997_crea_regula_registro_centros_docentes_andalucia.md), de 27 de mayo, por el que se crea y 
 regula el Registro de Centros Docentes.
 Artículo 20. Coordinación.
 1. Los centros públicos bilingües contarán con un profesor 
@@ -515,7 +528,7 @@ profesionales en L2 y, en su caso, de L3, los centros bilingües
 podrán contar en su plantilla con los puestos de carácter bi-
 lingüe que se señalan en el Anexo IV. Estos puestos tendrán 
 la consideración de puestos específicos de acuerdo con lo re-
-cogido en el artículo 24.1.c) del Decreto 302/2010, de 1 de 
+cogido en el artículo 24.1.c) del [Decreto 302/2010](../08_personal_docente/D302_2010_ordenacion_funcion_publica_docente_seleccion_provision_andalucia.md), de 1 de 
 junio, por el que se ordena la función pública docente y se re-
 gula la selección del profesorado y la provisión de los puestos 
 de trabajo docentes.
@@ -525,7 +538,7 @@ carácter bilingüe necesarios para cada uno de los centros.
 4. Los puestos de carácter bilingüe que se determinen 
 serán ocupados de acuerdo con los procedimientos de provi-
 sión, tanto definitivos como provisionales, establecidos en el 
-citado Decreto 302/2010, de 1 de junio, y en su normativa 
+citado [Decreto 302/2010](../08_personal_docente/D302_2010_ordenacion_funcion_publica_docente_seleccion_provision_andalucia.md), de 1 de junio, y en su normativa 
 de desarrollo. A tales efectos, el profesorado que acceda a di-
 chos puestos deberá tener acreditado el nivel B2, C1 o C2, del 
 Marco Común Europeo de referencia para las lenguas.
@@ -555,7 +568,7 @@ dirección del centro certificará la participación del profesorado
 y de la persona responsable de la coordinación de la ense-
 ñanza bilingüe de los centros públicos mediante un modelo 
 de certificación, que estará disponible en el sistema Séneca, 
-regulado en el Decreto 285/2010, de 11 de mayo, por el que 
+regulado en el [Decreto 285/2010](../02_gestion_y_administracion_centros/D285_2010_regulacion_sistema_informacion_seneca_andalucia.md), de 11 de mayo, por el que 
 
 Página núm. 10 
 BOJA núm. 135 
@@ -589,7 +602,7 @@ a la obtención de la doble titulación de Bachiller del sistema
 educativo español y de Baccalauréat del sistema educativo 
 francés.
 2. Estas enseñanzas se acogerán a lo establecido en el 
-Real Decreto 102/2010, por el que se regula la ordenación 
+[Real Decreto 102/2010](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD102_2010_regula_ordenacion_ensenanzas_acogidas_acuerdo_entre.md), por el que se regula la ordenación 
 de las enseñanzas acogidas al acuerdo entre el Gobierno de 
 España y el Gobierno de Francia relativo a la doble titulación 
 de Bachiller y de Baccalauréat en centros docentes españo-
@@ -629,7 +642,7 @@ en primer lugar el alumnado que, en su caso, haya cursado
 la enseñanza bilingüe en la etapa educativa inmediatamente 
 anterior en su centro adscrito. La admisión del resto del alum-
 nado solicitante se realizará de acuerdo con lo establecido en 
-el artículo 34 del Decreto 40/2011, de 22 de febrero.
+el artículo 34 del [Decreto 40/2011](../05_alumnado_y_servicios_escolares/D40_2011_criterios_procedimiento_admision_alumnado_centros_docentes_andalucia.md), de 22 de febrero.
 d) El alumnado que no haya podido acceder a la ense-
 ñanza bilingüe permanecerá en lista de espera y podrá incor-
 porarse a aquella cuando se produzca una vacante, siguiendo 
@@ -646,12 +659,12 @@ tado 1, los agrupamientos del alumnado se realizarán de
 acuerdo con los criterios que se incluyan en el proyecto educa-
 tivo, de conformidad con lo establecido en el artículo 23.3.ñ) 
 del Reglamento Orgánico de los institutos de educación secun-
-daria, aprobado por el Decreto 327/2010, de 13 de julio, y en 
+daria, aprobado por el [Decreto 327/2010](../04_organizacion_escolar_y_funcionamiento/D327_2010_reglamento_organico_institutos_educacion_secundaria_andalucia.md), de 13 de julio, y en 
 el artículo 21.3.n) del Reglamento Orgánico de las escuelas 
 infantiles de segundo ciclo, de los colegios de educación pri-
 maria, de los colegios de educación infantil y primaria, y de los 
 centros públicos específicos de educación especial, aprobado 
-por el Decreto 328/2010, de 3 de julio.
+por el [Decreto 328/2010](../04_organizacion_escolar_y_funcionamiento/D328_2010_reglamento_organico_escuelas_infantiles_colegios_primaria_andalucia.md), de 3 de julio.
 3. Con carácter general, el alumnado que inicie en un 
 centro bilingüe una determinada etapa educativa en esta en-
 señanza permanecerá en la misma, al menos, hasta la finali-

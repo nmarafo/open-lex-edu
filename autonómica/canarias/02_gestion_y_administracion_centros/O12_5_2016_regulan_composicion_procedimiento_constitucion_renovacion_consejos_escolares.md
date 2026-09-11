@@ -61,13 +61,16 @@ relaciones:
   - norma_id: norm-es-1999-23750
     articulos_origen:
     - Art. 6
+fundamentos_derecho:
+- norma_id: norm-mad-l1-1983-gobierno-administracion-comunidad-madrid
+- norma_id: norm-es-1999-23750
+- norma_id: norm-es-2008-979
 ---
-
 # Orden de 12 de mayo de 2016, por la que se regulan la composición y el procedimiento para la constitución y la renovación de los Consejos Escolares de los centros educativos sostenidos con fondos públicos del ámbito de la Comunidad Autónoma de Canarias.
 
 ## Preámbulo
 
-El artículo 53.3 del citado Real Decreto 1720/2007, de 21 de diciembre, remite a la
+El artículo 53.3 del citado [Real Decreto 1720/2007](../../../estatal/02_gestion_y_administracion_centros/LO1720_2007_aprueba_reglamento_desarrollo_ley_organica_proteccion.md), de 21 de diciembre, remite a la
 
 legislación específica de cada Comunidad Autónoma en relación a los ficheros de los que
 
@@ -85,9 +88,9 @@ razón de la materia.
 
 Asimismo, el contenido de esta disposición deberá ajustarse a lo establecido en el artículo
 
-20.2 de la mencionada Ley Orgánica 15/1999, de 13 de diciembre, y en el artículo 54.1 del
+20.2 de la mencionada [Ley Orgánica 15/1999](../../../estatal/02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md), de 13 de diciembre, y en el artículo 54.1 del
 
-Real Decreto 1720/2007, de 21 de diciembre.
+[Real Decreto 1720/2007](../../../estatal/02_gestion_y_administracion_centros/LO1720_2007_aprueba_reglamento_desarrollo_ley_organica_proteccion.md), de 21 de diciembre.
 
 El procedimiento, los requisitos y condiciones a los que, en el marco de la Ley Orgánica
 
@@ -103,11 +106,11 @@ y garantizar a los ciudadanos el ejercicio de los legítimos derechos que les re
 
 Viernes 20 de mayo de 2016
 
-Ley Orgánica 15/1999, de 13 de diciembre, de acuerdo con lo dispuesto en el artículo 2.1
+[Ley Orgánica 15/1999](../../../estatal/02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md), de 13 de diciembre, de acuerdo con lo dispuesto en el artículo 2.1
 
 del citado Decreto 5/2006, de 27 de enero y en el ejercicio de las competencias que tengo
 
-atribuidas en virtud del artículo 32.c) de la Ley 1/1983, de 14 de abril, del Gobierno y de
+atribuidas en virtud del artículo 32.c) de la [Ley 1/1983](../../madrid/01_marco_normativo_general_y_organico/L1_1983_gobierno_administracion_comunidad_madrid.md), de 14 de abril, del Gobierno y de
 
 la Administración Pública de la Comunidad Autónoma de Canarias (BOC nº 11, de 30 de
 
@@ -123,9 +126,9 @@ en el
 
 ## anexo d. e esta Orden.
 
-#### Artículo 2. Los ficheros se regirán por lo dispuesto en la Ley Orgánica 15/1999, de
+#### Artículo 2. Los ficheros se regirán por lo dispuesto en la [Ley Orgánica 15/1999](../../../estatal/02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md), de
 
-13 de diciembre, de Protección de Datos de Carácter Personal, el Real Decreto 1720/2007,
+13 de diciembre, de Protección de Datos de Carácter Personal, el [Real Decreto 1720/2007](../../../estatal/02_gestion_y_administracion_centros/LO1720_2007_aprueba_reglamento_desarrollo_ley_organica_proteccion.md),
 
 de 21 de diciembre, por el que se aprueba el Reglamento de desarrollo de la Ley Orgánica
 
@@ -175,9 +178,9 @@ datos de carácter personal contenidos en los ficheros creados por la presente O
 
 ser ejercidos ante el centro directivo competente en materia de energía, de acuerdo con
 
-lo previsto en el Título III de la Ley Orgánica 15/1999 y Título III de su reglamento de
+lo previsto en el Título III de la [Ley Orgánica 15/1999](../../../estatal/02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md) y Título III de su reglamento de
 
-desarrollo, aprobado por el Real Decreto 1720/2007. Viernes 20 de mayo de 2016
+desarrollo, aprobado por el [Real Decreto 1720/2007](../../../estatal/02_gestion_y_administracion_centros/LO1720_2007_aprueba_reglamento_desarrollo_ley_organica_proteccion.md). Viernes 20 de mayo de 2016
 
 2. Los modelos para ejercer los derechos de oposición, acceso, rectificación y/o
 
@@ -193,9 +196,9 @@ Orden de 24 de febrero de 2006, de la Consejería de Presidencia y Justicia (BOC
 
 Orden requieren la adopción de medidas de seguridad calificadas de nivel básico, conforme
 
-a lo dispuesto en el Real Decreto 1720/2007, de 21 de diciembre, por el que se aprueba el
+a lo dispuesto en el [Real Decreto 1720/2007](../../../estatal/02_gestion_y_administracion_centros/LO1720_2007_aprueba_reglamento_desarrollo_ley_organica_proteccion.md), de 21 de diciembre, por el que se aprueba el
 
-Reglamento de desarrollo de la Ley Orgánica 15/1999, de 13 de diciembre, de protección de
+Reglamento de desarrollo de la [Ley Orgánica 15/1999](../../../estatal/02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md), de 13 de diciembre, de protección de
 
 datos de carácter personal.
 
@@ -203,7 +206,7 @@ datos de carácter personal.
 
 Autónoma de Canarias y, en todo caso, se estará a lo dispuesto en los artículos 11 y 12 de
 
-la Ley Orgánica 15/1999, de 13 de diciembre de Protección de Datos de Carácter Personal.
+la [Ley Orgánica 15/1999](../../../estatal/02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md), de 13 de diciembre de Protección de Datos de Carácter Personal.
 
 Las comunicaciones a otras Administraciones Públicas de los datos recogidos al amparo
 

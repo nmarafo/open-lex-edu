@@ -32,11 +32,16 @@ relaciones:
   fundamentado_en:
   - norm-and-l-9-1999
   - norm-es-lo-2-2006
+fundamentos_derecho:
+- norma_id: norm-and-d-155-1997
+- norma_id: norm-and-d-167-2003
+- norma_id: norm-and-l9-1999-solidaridad-en-la-educacion-andalucia
+- norma_id: norm-es-1985-5392
+- norma_id: norm-es-lo-8-1985
 ---
-
 # Orden de 19 de septiembre de 2005, por la que se desarrollan determinados aspectos del Plan Integral para la Prevención, Seguimiento y Control del Absentismo Escolar (BOJA n.º 202, de 17 de octubre de 2005).
 
-## Protocolo y Directrices
+## Preámbulo
 
 BOJA núm. 202
 Página núm. 6
@@ -61,7 +66,7 @@ Compensación Educativa en los que se incluyen, entre otras
 medidas, las específicamente dirigidas a la prevención, control
 y seguimiento del absentismo escolar es otra iniciativa en la
 misma dirección. Todo ello en el marco de lo establecido en
-el Decreto 167/2003, de 17 de junio, por el que se establece
+el [Decreto 167/2003](./D167_2003_atencion_alumnado_necesidades_educativas_especiales_andalucia.md), de 17 de junio, por el que se establece
 la ordenación de la atención educativa a los alumnos y alumnas
 con necesidades educativas especiales asociadas a condicio-
 nes sociales desfavorecidas, que establece en el Título III las
@@ -155,7 +160,7 @@ f) Promoción de actividades formativas para períodos
 vacacionales.
 Artículo 5. Absentismo escolar.
 1. De acuerdo con lo establecido en el artículo 39.2 del
-Decreto 167/2003, de 17 de junio, por el que se establece
+[Decreto 167/2003](./D167_2003_atencion_alumnado_necesidades_educativas_especiales_andalucia.md), de 17 de junio, por el que se establece
 la ordenación de la atención educativa a los alumnos y alumnas
 con necesidades educativas especiales asociadas a condicio-
 nes sociales desfavorecidas, se entenderá por absentismo esco-
@@ -306,7 +311,7 @@ Sevilla, 17 de octubre 2005
 las localidades de menos de 20.000 habitantes se podrá incor-
 porar al convenio de cooperación la Diputación Provincial.
 2. De acuerdo con lo dispuesto en el artículo 41.2 del
-Decreto 167/2003, de 17 de junio, por el que se establece
+[Decreto 167/2003](./D167_2003_atencion_alumnado_necesidades_educativas_especiales_andalucia.md), de 17 de junio, por el que se establece
 la ordenación de la atención educativa a los alumnos y alumnas
 con necesidades educativas especiales asociadas a condicio-
 nes sociales desfavorecidas, cada uno de estos convenios con-
@@ -577,7 +582,7 @@ y a cuyos efectos
 E X P O N E N
 La Constitución Española de 1978, en su artículo 27.4,
 expresa que la enseñanza es obligatoria y gratuita. Este com-
-promiso es desarrollado por la Ley Orgánica 8/1985, de 3
+promiso es desarrollado por la [Ley Orgánica 8/1985](../../../estatal/02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md), de 3
 de julio, Reguladora del Derecho a la Educación, que reconoce
 el derecho de todos los ciudadanos a una educación que ase-
 gure el desarrollo de su personalidad y promueva el principio
@@ -586,7 +591,7 @@ minación, indicando en su Disposición Adicional Segunda que
 las Corporaciones Locales cooperarán con las Administraciones
 Educativas en la vigilancia del cumplimiento de la escolaridad
 obligatoria.
-En el mismo sentido, la Ley 7/1985, de 2 de abril, regu-
+En el mismo sentido, la [Ley 7/1985](../../../estatal/02_gestion_y_administracion_centros/L7_1985_reguladora_bases_regimen_local.md), de 2 de abril, regu-
 ladora de las bases del Régimen Local, modificada por las
 Leyes 11/1999 y 57/2003, de medidas para la modernización
 del Gobierno Local, atribuye a los Municipios, en su artícu-
@@ -606,12 +611,12 @@ de Andalucía velarán por el cumplimiento de la escolaridad
 obligatoria en aquellas edades que se establezcan en la legis-
 lación educativa vigente. A tal fin, se promoverán programas
 específicos para prevenir y evitar el absentismo escolar.
-El Decreto 155/1997, de 10 de junio, regula la cooperación
+El [Decreto 155/1997](../02_gestion_y_administracion_centros/D155_1997_regulacion_centros_especificos_educacion_infantil_andalucia.md), de 10 de junio, regula la cooperación
 de las Entidades Locales con la Administración Educativa y plan-
 tea que la Administración Local a través de los servicios muni-
 cipales debe contribuir a hacer efectiva la asistencia del alum-
 nado al centro escolar.
-La Ley 9/1999, de 18 de noviembre, de Solidaridad en
+La [Ley 9/1999](./L9_1999_solidaridad_en_la_educacion_andalucia.md), de 18 de noviembre, de Solidaridad en
 la Educación, expone en su Capítulo I, artículo 4, que la Con-
 sejería de Educación garantizará el desarrollo de programas
 de compensación educativa y social entre los que señala «el
@@ -898,7 +903,7 @@ y a cuyos efectos
 E X P O N E N
 La Constitución Española de 1978, en su artículo 27.4,
 expresa que la enseñanza es obligatoria y gratuita. Este com-
-promiso es desarrollado por la Ley Orgánica 8/1985, de 3
+promiso es desarrollado por la [Ley Orgánica 8/1985](../../../estatal/02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md), de 3
 de julio, Reguladora del Derecho a la Educación, que reconoce
 el derecho de todos los ciudadanos a una educación que ase-
 gure el desarrollo de su personalidad y promueva el principio
@@ -907,7 +912,7 @@ minación, indicando en su Disposición Adicional Segunda que
 las Corporaciones Locales cooperarán con las Administraciones
 Educativas en la vigilancia del cumplimiento de la escolaridad
 obligatoria.
-En el mismo sentido, la Ley 7/1985, de 2 de abril, regu-
+En el mismo sentido, la [Ley 7/1985](../../../estatal/02_gestion_y_administracion_centros/L7_1985_reguladora_bases_regimen_local.md), de 2 de abril, regu-
 ladora de las bases del Régimen Local, modificada por las
 Leyes 11/1999 y 57/2003, de medidas para la modernización
 del Gobierno Local, atribuye a los Municipios, en su artícu-
@@ -922,12 +927,12 @@ de Andalucía velarán por el cumplimiento de la escolaridad
 obligatoria en aquellas edades que se establezcan en la legis-
 lación educativa vigente. A tal fin, se promoverán programas
 específicos para prevenir y evitar el absentismo escolar.
-El Decreto 155/1997, de 10 de junio, regula la cooperación
+El [Decreto 155/1997](../02_gestion_y_administracion_centros/D155_1997_regulacion_centros_especificos_educacion_infantil_andalucia.md), de 10 de junio, regula la cooperación
 de las Entidades Locales con la Administración Educativa y plan-
 tea que la Administración Local a través de los servicios muni-
 cipales debe contribuir a hacer efectiva la asistencia del alum-
 nado al centro escolar.
-La Ley 9/1999, de 18 de noviembre, de Solidaridad en
+La [Ley 9/1999](./L9_1999_solidaridad_en_la_educacion_andalucia.md), de 18 de noviembre, de Solidaridad en
 la Educación, expone en su Capítulo I, artículo 4, que la Con-
 sejería de Educación garantizará el desarrollo de programas
 de compensación educativa y social entre los que señala «el

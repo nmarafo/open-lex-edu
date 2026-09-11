@@ -34,8 +34,21 @@ relaciones:
   - norma_id: norm-and-l17-2007
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-l-39-2015
+fundamentos_derecho:
+- norma_id: norm-and-l12-2007-promocion-igualdad-genero-andalucia
+- norma_id: norm-and-l17-2007
+- norma_id: norm-and-l6-2006-gobierno-comunidad-autonoma-andalucia
+- norma_id: norm-and-l9-2007-administracion-junta-andalucia-laja
+- norma_id: norm-and-d-152-2020
+- norma_id: norm-and-d93-2013-regulacion-formacion-profesorado-sistema-andaluz-andalucia
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-es-l-39-2015
+- norma_id: norm-es-l-40-2015
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-2016-3229
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
 ---
-
 # Orden de 9 de noviembre de 2020, por la que se desarrolla el procedimiento de acceso a la función directiva y la evaluación, formación y reconocimiento de los directores, las directoras y los equipos directivos de los centros docentes públicos no universitarios de los que es titular la Junta de Andalucía.
 
 ## Preámbulo
@@ -44,7 +57,7 @@ Orden de 9 de noviembre de 2020, por la que se desarrolla el procedimiento
 de acceso a la función directiva y la evaluación, formación y reconocimiento de 
 los directores, las directoras y los equipos directivos de los centros docentes 
 públicos no universitarios de los que es titular la Junta de Andalucía.
-El Decreto 152/2020, de 15 de septiembre, por el que se regula el acceso a la función 
+El [Decreto 152/2020](./D152_2020_acceso_funcion_directiva_equipos_directivos_centros_docentes_andalucia.md), de 15 de septiembre, por el que se regula el acceso a la función 
 directiva y la formación, evaluación y reconocimiento de los directores, las directoras y 
 los equipos directivos de los centros docentes públicos no universitarios, de los que es 
 titular la Junta de Andalucía, establece en sus Capítulos II, III, IV y V, la formación de los 
@@ -74,7 +87,7 @@ directores y las directoras nombrados con carácter extraordinario o en funcione
 los cursos 2014/15, 2015/16, 2016/17 y 2017/18.
 En la tramitación de esta orden se ha actuado conforme a los principios de necesidad, 
 eficacia, proporcionalidad, seguridad jurídica, transparencia y eficiencia establecidos 
-en el artículo 129 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo 
+en el artículo 129 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Administrativo 
 Común de las Administraciones Públicas, erigiéndose en el instrumento más adecuado 
 para el cumplimiento de sus fines, sin que sirva a dicho cumplimiento una modificación de 
 la normativa que sustituye y deroga, esto es, la Orden de 10 de noviembre de 2017, por la 
@@ -99,7 +112,7 @@ esta ley.
 En su virtud, a propuesta de la Directora General de Ordenación y Evaluación 
 Educativa, de conformidad con lo previsto en la disposición final primera del Decreto 
 152/2020, de 15 de septiembre, y en uso de las atribuciones conferidas por el artículo 
-44.2 de la Ley 6/2006, de 24 de octubre, del Gobierno de la Comunidad Autónoma de 
+44.2 de la [Ley 6/2006](../01_marco_normativo_general_y_organico/L6_2006_gobierno_comunidad_autonoma_andalucia.md), de 24 de octubre, del Gobierno de la Comunidad Autónoma de 
 Andalucía,
 D I S P O N G O
 CAPÍTULO I
@@ -117,7 +130,7 @@ CAPÍTULO II
 Selección de los Directores y las Directoras
 ### Sección 1.ª Convocatoria, solicitudes y admisión
 #### Artículo 2. Convocatoria del concurso de méritos.
-1. En desarrollo de lo establecido en el artículo 6.1 y 6.3 del Decreto 152/2020, de 
+1. En desarrollo de lo establecido en el artículo 6.1 y 6.3 del [Decreto 152/2020](./D152_2020_acceso_funcion_directiva_equipos_directivos_centros_docentes_andalucia.md), de 
 15 de septiembre, la persona titular de la Dirección General competente en materia de 
 gestión de recursos humanos convocará anualmente, mediante resolución, el concurso 
 de méritos para la selección y el nombramiento de directores y directoras. Este concurso 
@@ -149,18 +162,18 @@ resolución de convocatoria del concurso de méritos.
 4. La documentación a aportar, en su caso, se adjuntará a la solicitud mediante 
 copia digitalizada de los documentos. Las personas solicitantes se responsabilizarán 
 expresamente de la veracidad de la documentación aportada.
-5. En desarrollo de lo establecido en el artículo 10.2 del Decreto 152/2020, de 15 de 
+5. En desarrollo de lo establecido en el artículo 10.2 del [Decreto 152/2020](./D152_2020_acceso_funcion_directiva_equipos_directivos_centros_docentes_andalucia.md), de 15 de 
 septiembre, los directores y las directoras que deseen que su nombramiento sea renovado 
 deberán presentar su solicitud conforme al modelo que se incluye como Anexo II entre los 
 días 15 y 31 del mes de octubre del último año de su primer periodo. En aplicación de lo 
-establecido en el artículo 14.2.e) de la Ley 39/2015, de 1 de octubre, la solicitud, dirigida 
+establecido en el artículo 14.2.e) de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, la solicitud, dirigida 
 a la persona titular del correspondiente órgano territorial provincial de la Administración 
 de la Junta de Andalucía competente en materia de educación, será facilitada por la 
 Administración educativa a través del portal web de la Consejería competente en materia 
 de educación y deberá ser cumplimentada, firmada y presentada electrónicamente, de 
 acuerdo con las indicaciones que en la misma se incluyan.
 #### Artículo 4. Requisitos para participar en el procedimiento.
-1. Conforme a lo dispuesto en el artículo 7 del Decreto 152/2020, de 15 de septiembre, 
+1. Conforme a lo dispuesto en el artículo 7 del [Decreto 152/2020](./D152_2020_acceso_funcion_directiva_equipos_directivos_centros_docentes_andalucia.md), de 15 de septiembre, 
 las personas solicitantes declararán en la solicitud que, a la fecha de finalización del plazo 
 de presentación, reúnen los siguientes requisitos:
 a) Tener una antigüedad de al menos cinco años como funcionario de carrera en la 
@@ -173,14 +186,14 @@ formación sobre el desarrollo de la función directiva, así como de los corres
 cursos de actualización de competencias directivas, en su caso, según lo establecido en 
 el Real Decreto 894/2014, de 17 de octubre, por el que se desarrollan las características 
 del curso de formación sobre el desarrollo de la función directiva establecido en el 
-artículo 134.1 c) de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, así como de los 
+artículo 134.1 c) de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, así como de los 
 correspondientes cursos de actualización de competencias directivas. De conformidad 
-con lo establecido en la disposición adicional segunda de la Ley Orgánica 8/2013, de 9 de 
+con lo establecido en la disposición adicional segunda de la [Ley Orgánica 8/2013](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md), de 9 de 
 diciembre, las habilitaciones y acreditaciones de directores de centros públicos expedidas 
 con anterioridad a la entrada en vigor de dicha ley orgánica se considerarán equivalentes 
 a dicha certificación.
 d) Presentar un Proyecto de Dirección de acuerdo a las características recogidas en el 
-artículo 8 del Decreto 152/2020, de 15 de septiembre, que se adjuntará a la solicitud como 
+artículo 8 del [Decreto 152/2020](./D152_2020_acceso_funcion_directiva_equipos_directivos_centros_docentes_andalucia.md), de 15 de septiembre, que se adjuntará a la solicitud como 
 documento único en formato digital. En el caso de que un mismo candidato o candidata 
 presente dos o tres candidaturas en su solicitud, el proyecto deberá ser específico para 
 cada uno de los centros a cuya dirección se opta.
@@ -211,7 +224,7 @@ Andalucía competentes en materia de educación dictarán resolución haciendo p
 relación provisional de candidaturas admitidas y excluidas, en su caso, con expresión de 
 las causas de exclusión. La publicación de la resolución en el portal web de la Consejería 
 competente en materia de educación servirá de notificación a las personas interesadas, 
-conforme a lo previsto en el artículo 45 de la Ley 39/2015, de 1 de octubre.
+conforme a lo previsto en el artículo 45 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre.
 3. Con objeto de subsanar las causas que hayan motivado su exclusión u omisión 
 de la citada resolución, las personas solicitantes dispondrán de un plazo de diez días 
 hábiles, contados a partir del siguiente al de publicación de la resolución anteriormente 
@@ -222,17 +235,17 @@ Andalucía competentes en materia de educación dictarán resolución haciendo p
 relación definitiva de candidaturas admitidas y excluidas, en su caso, con expresión de 
 las causas de exclusión. La publicación de la resolución en el portal web de la Consejería 
 competente en materia de educación servirá de notificación a las personas interesadas, 
-conforme a lo previsto en el artículo 45 de la Ley 39/2015, de 1 de octubre.
+conforme a lo previsto en el artículo 45 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre.
 5. Contra dicha resolución, que pondrá fin a la vía administrativa, se podrá interponer, 
 potestativamente, recurso de reposición ante el mismo órgano que la haya dictado, en 
 el plazo de un mes a contar desde el día siguiente de su publicación, en aplicación de 
-lo establecido en los artículos 112.1, 123 y 124 de la Ley 39/2015, de 1 de octubre, y en 
-el artículo 115.2 de la Ley 9/2007, de 22 de octubre, de la Administración de la Junta de 
+lo establecido en los artículos 112.1, 123 y 124 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, y en 
+el artículo 115.2 de la [Ley 9/2007](../01_marco_normativo_general_y_organico/L9_2007_administracion_junta_andalucia_laja.md), de 22 de octubre, de la Administración de la Junta de 
 Andalucía, o en el plazo de dos meses a contar desde el día siguiente al de su publicación, 
 recurso contencioso-administrativo ante el órgano jurisdiccional competente, según lo 
 establecido en los artículos 8.2.a), 14 y 46.1 de la Ley 29/1998, de 13 de julio, reguladora 
 de la Jurisdicción Contencioso-Administrativa.
-6. De conformidad con lo establecido en el art. 94 de la Ley 39/2015, de 1 de 
+6. De conformidad con lo establecido en el art. 94 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de 
 octubre, los interesados en el procedimiento pueden ejercer su derecho de desistimiento 
 o de renuncia a la persona titular del correspondiente órgano territorial provincial de la 
 Administración de la Junta de Andalucía competente en materia de educación, que lo 
@@ -249,12 +262,12 @@ refiere el artículo 8, una vez constituida a los efectos del cumplimiento de su
 En cada uno de los centros docentes para los que se convoque el concurso de méritos 
 para la selección y nombramiento de directores y directoras y hayan sido admitidas 
 candidaturas, se constituirá la Comisión de Selección a la que se refiere el artículo 6.4 del 
-Decreto 152/2020, de 15 de septiembre, de acuerdo con el procedimiento establecido en 
+[Decreto 152/2020](./D152_2020_acceso_funcion_directiva_equipos_directivos_centros_docentes_andalucia.md), de 15 de septiembre, de acuerdo con el procedimiento establecido en 
 los artículos 9, 11 y 12.
 #### Artículo 9. Composición de la Comisión de Selección.
 1. La Comisión de Selección en la que se integrarán representantes de la Administración 
 educativa y representantes del centro docente según la proporcionalidad establecida en 
-el artículo 135.2 de la Ley Orgánica 2/2006, de 3 de mayo, estará compuesta por un total 
+el artículo 135.2 de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, estará compuesta por un total 
 de cinco miembros, con la siguiente distribución:
 a) Representantes de la Administración educativa:
 1.º Un inspector o una inspectora de educación del equipo de inspección de zona que, 
@@ -271,14 +284,14 @@ correspondiente suplente.
 2.º Un miembro del Consejo Escolar elegido por y entre los miembros del mismo que 
 no pertenezca al Claustro de Profesorado, en sesión convocada al efecto, en la que se 
 elegirá, asimismo, al correspondiente suplente. A tenor de lo establecido en el artículo 
-126.5 de la Ley Orgánica 2/2006, de 3 de mayo, el alumnado de los dos primeros cursos 
+126.5 de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, el alumnado de los dos primeros cursos 
 de la Educación Secundaria Obligatoria que forme parte del Consejo Escolar del centro 
 no podrá participar en la selección o el cese del director o de la directora.
 2. Los miembros de la Comisión de Selección estarán sujetos a las causas de 
-abstención y recusación establecidas en los artículos 23 y 24 de la Ley 40/2015, de 1 
+abstención y recusación establecidas en los artículos 23 y 24 de la [Ley 40/2015](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md), de 1 
 de octubre, de Régimen Jurídico del Sector Público. La composición de esta Comisión 
 garantizará la representación equilibrada de hombres y mujeres, conforme al artículo 11 
-de la Ley 12/2007, de 26 de noviembre, para la promoción de la igualdad de género en 
+de la [Ley 12/2007](../01_marco_normativo_general_y_organico/L12_2007_promocion_igualdad_genero_andalucia.md), de 26 de noviembre, para la promoción de la igualdad de género en 
 Andalucía.
 3. La presidencia de la Comisión de Selección recaerá en el inspector o inspectora de 
 educación, que dirimirá con su voto los empates que pudieran producirse en la toma de 
@@ -293,7 +306,7 @@ Provincial de Inspección.
 Corresponden a la Comisión de Selección las siguientes funciones:
 a) Valorar, mediante la aplicación de los criterios establecidos en el Anexo III, el 
 Proyecto de Dirección de cada uno de los candidatos o las candidatas, que deberá 
-ajustarse a las características recogidas en el artículo 8 del Decreto 152/2020, de 15 de 
+ajustarse a las características recogidas en el artículo 8 del [Decreto 152/2020](./D152_2020_acceso_funcion_directiva_equipos_directivos_centros_docentes_andalucia.md), de 15 de 
 septiembre.
 b) Ordenar, en el caso de haber dos o más candidaturas, las puntuaciones de mayor 
 a menor en función de la puntuación total obtenida, que será en su caso la suma de las 
@@ -385,8 +398,8 @@ constituir la Comisión de Selección, para su exposición en el tablón de anun
 potestativamente, recurso de reposición ante el mismo órgano que la haya dictado, en 
 el plazo de un mes a contar desde el día siguiente de su publicación en el portal web 
 de la Consejería competente en materia de educación, conforme a lo establecido en los 
-artículos 112.1, 123 y 124 de la Ley 39/2015, de 1 de octubre, y en el artículo 115.2 de la 
-Ley 9/2007, de 22 de octubre, o en el plazo de dos meses a contar desde el día siguiente 
+artículos 112.1, 123 y 124 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, y en el artículo 115.2 de la 
+[Ley 9/2007](../01_marco_normativo_general_y_organico/L9_2007_administracion_junta_andalucia_laja.md), de 22 de octubre, o en el plazo de dos meses a contar desde el día siguiente 
 al de su publicación, recurso contencioso-administrativo ante el órgano jurisdiccional 
 competente, según lo establecido en los artículos 8.2.a), 14 y 46.1 de la Ley 29/1998, de 
 13 de julio.
@@ -400,7 +413,7 @@ sus miembros.
 2. De la sesión de constitución así como de todas las reuniones que celebre esta 
 Comisión levantará acta el secretario o secretaria de la misma.
 #### Artículo 15. Comisiones Técnicas de Baremación.
-1. De conformidad con el artículo 6 del Decreto 152/2020, de 15 de septiembre, se 
+1. De conformidad con el artículo 6 del [Decreto 152/2020](./D152_2020_acceso_funcion_directiva_equipos_directivos_centros_docentes_andalucia.md), de 15 de septiembre, se 
 creará, en cada órgano territorial provincial de la Administración de la Junta de Andalucía 
 competente en materia de educación, por resolución de la persona titular de dicho órgano, 
 una Comisión Técnica de Baremación.
@@ -420,14 +433,14 @@ c) Tres funcionarios o funcionarias del órgano territorial provincial de la Adm
 de la Junta de Andalucía competente en materia de educación, que actuarán como 
 vocales, siendo el de menor edad el que ocupe la secretaría.
 4. Para cada miembro de la Comisión se nombrará asimismo una persona suplente, de 
-acuerdo al artículo 13 de la Ley 40/2015, de 1 de octubre. Los miembros de las comisiones 
+acuerdo al artículo 13 de la [Ley 40/2015](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md), de 1 de octubre. Los miembros de las comisiones 
 estarán sujetos a las causas de abstención y recusación establecidas en los artículos 23 
-y 24 de la Ley 40/2015, de 1 de octubre. La composición de estas Comisiones garantizará 
+y 24 de la [Ley 40/2015](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md), de 1 de octubre. La composición de estas Comisiones garantizará 
 la representación equilibrada de hombres y mujeres, conforme al artículo 11 de la Ley 
 12/2007, de 26 de noviembre, para la promoción de la igualdad de género en Andalucía.
 ### Sección 3.ª Selección de candidaturas y nombramientos
 #### Artículo 16. Criterios de valoración de las candidaturas.
-1. Conforme a lo dispuesto en el artículo 9 del Decreto 152/2020, de 15 de septiembre, 
+1. Conforme a lo dispuesto en el artículo 9 del [Decreto 152/2020](./D152_2020_acceso_funcion_directiva_equipos_directivos_centros_docentes_andalucia.md), de 15 de septiembre, 
 para la valoración de las candidaturas se tendrá en cuenta el Proyecto de Dirección 
 así como, en su caso, los méritos académicos y profesionales de los candidatos y las 
 candidatas, asignando un máximo de 60 puntos al Proyecto de Dirección y un máximo de 
@@ -549,7 +562,7 @@ comunicará a la persona titular del correspondiente órgano territorial provinc
 Administración de la Junta de Andalucía competente en materia de educación con 
 objeto de que, una vez finalizado el procedimiento para la selección, se lleve a cabo el 
 nombramiento de director o directora con carácter extraordinario establecido en el artículo 
-12 del Decreto 152/2020, de 15 de septiembre.
+12 del [Decreto 152/2020](./D152_2020_acceso_funcion_directiva_equipos_directivos_centros_docentes_andalucia.md), de 15 de septiembre.
 #### Artículo 22. Nombramiento del director o de la directora.
 1. La persona titular del correspondiente órgano territorial provincial de la 
 Administración de la Junta de Andalucía competente en materia de educación, a la vista 
@@ -570,7 +583,7 @@ o directora al candidato o candidata siguiente, o sucesivo, según el orden de p
 que figure en la relación a la que se refiere el artículo 20.
 2. El plazo máximo para realizar los nombramientos mediante resolución será de seis 
 meses contados a partir del inicio del procedimiento, de acuerdo con lo establecido en el 
-artículo 21 de la Ley 39/2015, de 1 de octubre. Si una vez realizados los nombramientos 
+artículo 21 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre. Si una vez realizados los nombramientos 
 correspondientes, según los procedimientos establecidos en este artículo, se produjese 
 ausencia de candidaturas en un centro docente, la persona titular del correspondiente 
 órgano territorial provincial de la Administración de la Junta de Andalucía competente en 
@@ -584,14 +597,14 @@ nombrada desempeñará su función en régimen de comisión de servicios.
 vía administrativa, se podrá interponer, potestativamente, recurso de reposición ante el 
 mismo órgano que la haya dictado, en el plazo de un mes a contar desde el día siguiente 
 de su notificación, conforme a lo establecido en los artículos 112.1, 123 y 124 de la Ley 
-39/2015, de 1 de octubre, y en el artículo 115.2 de la Ley 9/2007, de 22 de octubre, o en el 
+39/2015, de 1 de octubre, y en el artículo 115.2 de la [Ley 9/2007](../01_marco_normativo_general_y_organico/L9_2007_administracion_junta_andalucia_laja.md), de 22 de octubre, o en el 
 plazo de dos meses desde que se dicta la resolución, recurso contencioso-administrativo 
 ante el órgano jurisdiccional competente, según lo establecido en los artículos 8.2.a), 14 y 
 46.1 de la Ley 29/1998, de 13 de julio.
 CAPÍTULO III
 Evaluación de la Dirección de los Centros
 #### Artículo 23. Evaluación continua del ejercicio de la dirección.
-1. En desarrollo del artículo 15 del Decreto 152/2020, de 15 de septiembre, la 
+1. En desarrollo del artículo 15 del [Decreto 152/2020](./D152_2020_acceso_funcion_directiva_equipos_directivos_centros_docentes_andalucia.md), de 15 de septiembre, la 
 evaluación continua del ejercicio de la dirección se realizará a lo largo de todo el periodo 
 de mandato mediante actuaciones sistemáticas, planificadas por la Inspección Educativa 
 en sus planes anuales. Durante la primera quincena del mes de junio de cada año, el 
@@ -615,7 +628,7 @@ elaborado dicho Proyecto.
 para ello establecido en el Sistema de Información Séneca, mediante la valoración de las 
 dimensiones e indicadores que aparecen en el Anexo V.
 #### Artículo 24. Procedimiento para la valoración final de la dirección.
-1. En cumplimiento de lo establecido en el artículo 14.4 del Decreto 152/2020, de 15 
+1. En cumplimiento de lo establecido en el artículo 14.4 del [Decreto 152/2020](./D152_2020_acceso_funcion_directiva_equipos_directivos_centros_docentes_andalucia.md), de 15 
 de septiembre, el inspector o la inspectora de referencia realizará una valoración final 
 de los directores y las directoras nombrados mediante el procedimiento establecido en 
 los artículos 10 y 12.2 de dicho Decreto, como elemento de rendición de cuentas, con la 
@@ -655,28 +668,28 @@ que procederá a dictar resolución, con anterioridad a la finalización del mes
 haciendo pública la relación definitiva de directores y directoras y su valoración obtenida. 
 La publicación de la resolución en el portal web de la Consejería competente en materia 
 de educación servirá de notificación a las personas interesadas, conforme a lo previsto 
-en el artículo 45 de la Ley 39/2015, de 1 de octubre.
+en el artículo 45 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre.
 7. Contra dicha resolución, que pondrá fin a la vía administrativa, se podrá interponer, 
 potestativamente, recurso de reposición ante el mismo órgano que la haya dictado, en 
 el plazo de un mes a contar desde el día siguiente de su publicación, conforme a lo 
-establecido en los artículos 112.1, 123 y 124 de la Ley 39/2015, de 1 de octubre, y en el 
-artículo 115.2 de la Ley 9/2007, de 22 de octubre, o en el plazo de dos meses a contar 
+establecido en los artículos 112.1, 123 y 124 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, y en el 
+artículo 115.2 de la [Ley 9/2007](../01_marco_normativo_general_y_organico/L9_2007_administracion_junta_andalucia_laja.md), de 22 de octubre, o en el plazo de dos meses a contar 
 desde el día siguiente al de su publicación, recurso contencioso-administrativo ante el 
 órgano jurisdiccional competente, según lo establecido en los artículos 8.2.a), 14 y 46.1 
 de la Ley 29/1998, de 13 de julio.
 CAPÍTULO IV
 Formación y Reconocimiento de la Dirección de los Centros
 #### Artículo 25. Aspectos generales de la formación de la dirección.
-1. Conforme a lo establecido en el artículo 2. f) del Decreto 93/2013, de 27 de agosto, 
+1. Conforme a lo establecido en el artículo 2. f) del [Decreto 93/2013](../08_personal_docente/D93_2013_regulacion_formacion_profesorado_sistema_andaluz_andalucia.md), de 27 de agosto, 
 por el que se regula la formación inicial y permanente del profesorado en la Comunidad 
 Autónoma de Andalucía, así como el Sistema Andaluz de Formación Permanente del 
 Profesorado, se favorecerá la formación para el ejercicio de la función directiva por medio 
 de las actuaciones recogidas en este capítulo.
 2. La formación de la dirección contemplará tanto su formación inicial, por medio de 
 los cursos de acreditación y actualización de las competencias directivas establecidos 
-en el artículo 134.1.c) de la Ley Orgánica 2/2006, de 3 de mayo, y su desarrollo legal, 
+en el artículo 134.1.c) de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, y su desarrollo legal, 
 como la formación permanente para los miembros de los equipos directivos durante el 
-ejercicio de sus mandatos. A tenor de lo dispuesto en el artículo 4 del Decreto 152/2020, 
+ejercicio de sus mandatos. A tenor de lo dispuesto en el artículo 4 del [Decreto 152/2020](./D152_2020_acceso_funcion_directiva_equipos_directivos_centros_docentes_andalucia.md), 
 de 15 de septiembre, la Dirección General con competencias en materia de formación 
 del profesorado convocará anualmente los cursos de formación y de actualización para 
 el desarrollo de la función directiva, de acuerdo a lo que por resolución de su titular se 
@@ -686,7 +699,7 @@ evaluados por expertos en la materia, pertenecientes preferentemente al cuerpo d
 inspectores e inspectoras de educación, directores y directoras con valoración positiva 
 en su ejercicio y reconocida experiencia, así como personal docente e investigador del 
 ámbito universitario.
-4. De acuerdo a lo establecido en el artículo 14 del Decreto 93/2013, de 27 de agosto, 
+4. De acuerdo a lo establecido en el artículo 14 del [Decreto 93/2013](../08_personal_docente/D93_2013_regulacion_formacion_profesorado_sistema_andaluz_andalucia.md), de 27 de agosto, 
 la formación dirigida al profesorado que ejerza la dirección de un centro docente público 
 tendrá carácter obligatorio, al menos, durante el primer año de ejercicio de esta función. El 
 objetivo de esta formación será dotarle de las competencias profesionales para la función 
@@ -696,7 +709,7 @@ ejercer el liderazgo pedagógico y tomar aquellas decisiones sobre organización
 funcionamiento del centro que resulten necesarias en cada circunstancia.
 #### Artículo 26. Módulo específico de los cursos de formación y actualización de 
 competencias directivas.
-En desarrollo del artículo 5 del Decreto 152/2020, de 15 de septiembre, los cursos 
+En desarrollo del artículo 5 del [Decreto 152/2020](./D152_2020_acceso_funcion_directiva_equipos_directivos_centros_docentes_andalucia.md), de 15 de septiembre, los cursos 
 de formación y actualización de competencias directivas realizados en la Comunidad 
 Autónoma de Andalucía contendrán un módulo especifico, de un mínimo de treinta 
 horas de duración, que incluirá aquellos contenidos relativos a las líneas estratégicas 
@@ -727,9 +740,9 @@ de acuerdo a lo dispuesto en el artículo 25.3.
 la dirección escolar a través del fomento del intercambio de experiencias, la colaboración 
 con asociaciones y colectivos de directores y directoras inscritos en el Censo de entidades 
 colaboradoras de la enseñanza, de acuerdo con lo establecido en el artículo 180 de la 
-Ley 17/2007, de 10 de diciembre, de Educación de Andalucía.
+[Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre, de Educación de Andalucía.
 #### Artículo 29. Reconocimiento y buenas prácticas en el ejercicio de la dirección.
-1. Conforme a lo establecido en el artículo 22.1 del Decreto 152/2020, de 15 de 
+1. Conforme a lo establecido en el artículo 22.1 del [Decreto 152/2020](./D152_2020_acceso_funcion_directiva_equipos_directivos_centros_docentes_andalucia.md), de 15 de 
 septiembre, la Dirección General con competencias en formación del profesorado 
 promoverá la creación de premios, menciones específicas, así como la difusión de 
 acciones de calidad para aquellos equipos directivos que hayan alcanzado un ejercicio de 
@@ -742,7 +755,7 @@ el ejercicio de la dirección.
 ### Disposición transitoria primera. Reconocimiento y consolidación del complemento 
 específico del cargo directivo a los directores y las directoras nombrados con carácter 
 extraordinario o en funciones.
-En desarrollo de la Disposición Adicional cuarta del Decreto 152/2020, de 15 de 
+En desarrollo de la Disposición Adicional cuarta del [Decreto 152/2020](./D152_2020_acceso_funcion_directiva_equipos_directivos_centros_docentes_andalucia.md), de 15 de 
 septiembre, los directores y las directoras, que hayan sido nombrados con carácter 
 extraordinario o en funciones para los cursos 2014/15, 2015/16, 2016/17 y 2017/18, 
 podrán solicitar, en la primera quincena mes de abril de 2021, su valoración positiva a 
@@ -760,7 +773,7 @@ como otros informes del Servicio de Inspección relativos al centro en dicho per
 vez realizado dicho informe se continuará el procedimiento de acuerdo con los trámites 
 establecidos en los apartados 5 y 6 del artículo 24.
 A estos directores y directoras les será de aplicación lo establecido en el capítulo VI 
-del Decreto 152/2020, de 15 de septiembre, a efectos del reconocimiento del ejercicio 
+del [Decreto 152/2020](./D152_2020_acceso_funcion_directiva_equipos_directivos_centros_docentes_andalucia.md), de 15 de septiembre, a efectos del reconocimiento del ejercicio 
 de la función directiva y de los requisitos y porcentaje para la consolidación parcial del 
 complemento específico del cargo directivo.
 ### Disposición transitoria segunda. Régimen transitorio para el procedimiento de 

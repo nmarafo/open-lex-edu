@@ -32,20 +32,27 @@ relaciones:
   fundamentado_en:
   - norma_id: norm-and-l17-2007
   - norma_id: norm-es-lo-2-2006
+fundamentos_derecho:
+- norma_id: norm-and-l17-2007
+- norma_id: norm-and-l6-2006-gobierno-comunidad-autonoma-andalucia
+- norma_id: norm-and-115-2002
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
 ---
-
 # Decreto 220/2013, de 5 de noviembre, por el que se establece el marco general para la evaluación del sistema educativo andaluz y se regulan determinados aspectos de la evaluación del mismo.
 
 ## Preámbulo
 
-El Título VI de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, regula la evaluación del sistema educativo, atribuyendo en su artículo 142 la realización de dicha evaluación al Instituto Nacional de Evaluación y Calidad del Sistema Educativo, hoy Instituto de Evaluación, y a los organismos correspondientes de las Administraciones educativas que estas determinen. La citada Ley Orgánica atribuye al Instituto de Evaluación la evaluación general del sistema educativo y, en su marco, la realización de evaluaciones generales de diagnóstico. Asimismo, en sus artículos 145 y 146, establece la posibilidad de que, por las Administraciones educativas, se puedan realizar planes de evaluación de los centros educativos y de valoración de la función directiva. Por otro lado, el artículo 151 de la Ley Orgánica 2/2006, de 3 de mayo, recoge, entre las funciones de la inspección educativa, la de participar en la evaluación del sistema educativo y de los elementos que lo integran. Por su parte, la Ley 17/2007, de 10 de diciembre, de Educación de Andalucía, regula en su título VI la evaluación del sistema educativo, encomendando las funciones establecidas en dicho título a la Agencia Andaluza de Evaluación Educativa, a la vez que dispone en su artículo 147 que los planes de actuación de la inspección establecerán las acciones de supervisión, evaluación, asesoramiento e información que deberán realizar los inspectores e inspectoras de educación, dirigidas a la mejora de los procesos de enseñanza, de los resultados del aprendizaje y de la organización y el funcionamiento de los centros. Por otra parte, los reglamentos orgánicos de los distintos centros docentes, aprobados mediante los Decretos 362/2011, de 7 de diciembre, por el que se aprueba el Reglamento Orgánico de los Conservatorios Profesionales de Danza, 327/2010, de 13 de julio, por el que se aprueba el Reglamento Orgánico de los Institutos de Educación Secundaria, 360/2011, de 7 de diciembre, por el que se aprueba el Reglamento Orgánico de las Escuelas de Arte, 328/2010, de 13 de julio, por el que se aprueba el Reglamento Orgánico de las escuelas infantiles de segundo ciclo, de los colegios de educación primaria, de los colegios de educación infantil y primaria y de los centros públicos específicos de educación especial, 361/2011, 7 de diciembre, por el que se aprueba el Reglamento Orgánico de los Conservatorios Elementales y de los Conservatorios Profesionales de Música, 15/2012, de 7 de febrero, por el que se aprueba el Reglamento Orgánico de las Escuelas Oficiales de Idiomas de la Comunidad Autónoma de Andalucía, y 54/2012, de 6 de marzo, por el que se aprueba el Reglamento Orgánico de las Residencias Escolares de la Comunidad Autónoma de Andalucía, han contemplado el proceso de autoevaluación a que hacen referencia los artículos 145.2 de la Ley Orgánica 2/2006, de 3 de mayo, y 130 de la Ley 17/2007, de 10 de diciembre, como un instrumento clave para poner los cimientos al desarrollo posterior de los planes de evaluación y para facilitar que todos los sectores de la comunidad educativa se sientan partícipes de la evaluación del sistema educativo. La importancia creciente de los procesos de evaluación y autoevaluación en los sistemas educativos a nivel nacional e internacional y la valiosa información que los mismos aportan para el establecimiento de políticas educativas, la mejora de los procesos de enseñanza aprendizaje y los resultados del alumnado, resulta hoy incuestionable. De acuerdo con lo dispuesto en la Ley 17/2007, de 10 de diciembre, la evaluación del sistema educativo andaluz se orienta a la mejora permanente del mismo y al aprendizaje satisfactorio y relevante del alumnado que contribuya al éxito escolar de este. La evaluación dirigida a la mejora permanente, entendida como un instrumento de cambio y transformación del sistema educativo, permite identificar y destacar las buenas prácticas profesionales, detecta las áreas en las que se debe progresar, orienta la toma de decisiones y los programas a desarrollar y permite contrastar los logros obtenidos, por lo que es necesario incorporarla como un elemento esencial de nuestro sistema educativo. El presente Decreto tiene como objetivo establecer el marco general para la evaluación del sistema educativo en Andalucía, así como el conjunto de conceptos y la organización para abordarla, delimitando y regulando la participación de los distintos agentes. Los centros educativos, la inspección educativa y la Agencia Andaluza de Evaluación Educativa son los agentes encargados de llevar a la práctica los distintos procesos de evaluación y autoevaluación, en el marco de sus distintas responsabilidades y competencias. Los objetivos a alcanzar se concretan en los planes de centros, los planes de actuación de la inspección educativa y los planes de evaluación de la Agencia Andaluza de Evaluación Educativa. 15  de  noviembre  2013 En su virtud, a propuesta del Consejero de Educación, Cultura y Deporte, de conformidad con lo dispuesto en el artículo 27.9 de la Ley 6/2006, de 24 de octubre, del Gobierno de la Comunidad Autónoma de Andalucía, de acuerdo con el Consejo Consultivo de Andalucía y previa deliberación del Consejo de Gobierno en su reunión del día 5 de noviembre de 2013, D I S P O N G O
+El Título VI de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, regula la evaluación del sistema educativo, atribuyendo en su artículo 142 la realización de dicha evaluación al Instituto Nacional de Evaluación y Calidad del Sistema Educativo, hoy Instituto de Evaluación, y a los organismos correspondientes de las Administraciones educativas que estas determinen. La citada Ley Orgánica atribuye al Instituto de Evaluación la evaluación general del sistema educativo y, en su marco, la realización de evaluaciones generales de diagnóstico. Asimismo, en sus artículos 145 y 146, establece la posibilidad de que, por las Administraciones educativas, se puedan realizar planes de evaluación de los centros educativos y de valoración de la función directiva. Por otro lado, el artículo 151 de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, recoge, entre las funciones de la inspección educativa, la de participar en la evaluación del sistema educativo y de los elementos que lo integran. Por su parte, la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre, de Educación de Andalucía, regula en su título VI la evaluación del sistema educativo, encomendando las funciones establecidas en dicho título a la Agencia Andaluza de Evaluación Educativa, a la vez que dispone en su artículo 147 que los planes de actuación de la inspección establecerán las acciones de supervisión, evaluación, asesoramiento e información que deberán realizar los inspectores e inspectoras de educación, dirigidas a la mejora de los procesos de enseñanza, de los resultados del aprendizaje y de la organización y el funcionamiento de los centros. Por otra parte, los reglamentos orgánicos de los distintos centros docentes, aprobados mediante los Decretos 362/2011, de 7 de diciembre, por el que se aprueba el Reglamento Orgánico de los Conservatorios Profesionales de Danza, 327/2010, de 13 de julio, por el que se aprueba el Reglamento Orgánico de los Institutos de Educación Secundaria, 360/2011, de 7 de diciembre, por el que se aprueba el Reglamento Orgánico de las Escuelas de Arte, 328/2010, de 13 de julio, por el que se aprueba el Reglamento Orgánico de las escuelas infantiles de segundo ciclo, de los colegios de educación primaria, de los colegios de educación infantil y primaria y de los centros públicos específicos de educación especial, 361/2011, 7 de diciembre, por el que se aprueba el Reglamento Orgánico de los Conservatorios Elementales y de los Conservatorios Profesionales de Música, 15/2012, de 7 de febrero, por el que se aprueba el Reglamento Orgánico de las Escuelas Oficiales de Idiomas de la Comunidad Autónoma de Andalucía, y 54/2012, de 6 de marzo, por el que se aprueba el Reglamento Orgánico de las Residencias Escolares de la Comunidad Autónoma de Andalucía, han contemplado el proceso de autoevaluación a que hacen referencia los artículos 145.2 de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, y 130 de la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre, como un instrumento clave para poner los cimientos al desarrollo posterior de los planes de evaluación y para facilitar que todos los sectores de la comunidad educativa se sientan partícipes de la evaluación del sistema educativo. La importancia creciente de los procesos de evaluación y autoevaluación en los sistemas educativos a nivel nacional e internacional y la valiosa información que los mismos aportan para el establecimiento de políticas educativas, la mejora de los procesos de enseñanza aprendizaje y los resultados del alumnado, resulta hoy incuestionable. De acuerdo con lo dispuesto en la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre, la evaluación del sistema educativo andaluz se orienta a la mejora permanente del mismo y al aprendizaje satisfactorio y relevante del alumnado que contribuya al éxito escolar de este. La evaluación dirigida a la mejora permanente, entendida como un instrumento de cambio y transformación del sistema educativo, permite identificar y destacar las buenas prácticas profesionales, detecta las áreas en las que se debe progresar, orienta la toma de decisiones y los programas a desarrollar y permite contrastar los logros obtenidos, por lo que es necesario incorporarla como un elemento esencial de nuestro sistema educativo. El presente Decreto tiene como objetivo establecer el marco general para la evaluación del sistema educativo en Andalucía, así como el conjunto de conceptos y la organización para abordarla, delimitando y regulando la participación de los distintos agentes. Los centros educativos, la inspección educativa y la Agencia Andaluza de Evaluación Educativa son los agentes encargados de llevar a la práctica los distintos procesos de evaluación y autoevaluación, en el marco de sus distintas responsabilidades y competencias. Los objetivos a alcanzar se concretan en los planes de centros, los planes de actuación de la inspección educativa y los planes de evaluación de la Agencia Andaluza de Evaluación Educativa. 15  de  noviembre  2013 En su virtud, a propuesta del Consejero de Educación, Cultura y Deporte, de conformidad con lo dispuesto en el artículo 27.9 de la [Ley 6/2006](../01_marco_normativo_general_y_organico/L6_2006_gobierno_comunidad_autonoma_andalucia.md), de 24 de octubre, del Gobierno de la Comunidad Autónoma de Andalucía, de acuerdo con el Consejo Consultivo de Andalucía y previa deliberación del Consejo de Gobierno en su reunión del día 5 de noviembre de 2013, D I S P O N G O
 
 
 ##### Artículo 1. Objeto.
 
 1. Es objeto del presente Decreto establecer el marco general para la evaluación del sistema educativo
 
-andaluz, de conformidad con lo dispuesto en el Título VI de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, y en el Título VI de la Ley 17/2007, de 10 de diciembre, de Educación de Andalucía.
+andaluz, de conformidad con lo dispuesto en el Título VI de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, y en el Título VI de la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre, de Educación de Andalucía.
 
 2. A los efectos previstos en este Decreto, se define como marco general para la evaluación del sistema
 
@@ -53,7 +60,7 @@ educativo andaluz el conjunto de prácticas organizativas y criterios que deber�
 
 ##### Artículo 2. Finalidad de la evaluación.
 
-1. De conformidad con lo establecido en el artículo 140 de la Ley Orgánica 2/2006, de 3 de mayo, la
+1. De conformidad con lo establecido en el artículo 140 de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, la
 
 evaluación del sistema educativo andaluz tendrá como finalidad:
 
@@ -83,7 +90,7 @@ sistema educativo, independientemente del ámbito territorial estatal o autonóm
 
 2. Asimismo, queda prohibida cualquier clasificación administrativa del profesorado, con independencia
 
-de su finalidad, basada en los resultados de cualquier proceso de autoevaluación o evaluación, sin perjuicio de lo establecido en el artículo 157.1 de la Ley 17/2007, de 10 de diciembre.
+de su finalidad, basada en los resultados de cualquier proceso de autoevaluación o evaluación, sin perjuicio de lo establecido en el artículo 157.1 de la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre.
 
 ##### Artículo 4. Requisitos de la evaluación.
 
@@ -125,9 +132,9 @@ h) Participativo, porque promoverá la colaboración e implicación de las perso
 
 ##### Artículo 6. Ámbitos de la evaluación.
 
-1. De conformidad con lo dispuesto en el artículo 141 de la Ley Orgánica 2/2006, de 3 de mayo, la
+1. De conformidad con lo dispuesto en el artículo 141 de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, la
 
-evaluación del sistema educativo andaluz se extenderá a todos los ámbitos educativos regulados en la Ley 17/2007, de 10 de diciembre, y se aplicará sobre los procesos de aprendizaje y resultados del alumnado, la actividad del profesorado, los procesos educativos, la función directiva, el funcionamiento de los centros docentes, la inspección, los servicios de apoyo a la educación y la propia Administración educativa.
+evaluación del sistema educativo andaluz se extenderá a todos los ámbitos educativos regulados en la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre, y se aplicará sobre los procesos de aprendizaje y resultados del alumnado, la actividad del profesorado, los procesos educativos, la función directiva, el funcionamiento de los centros docentes, la inspección, los servicios de apoyo a la educación y la propia Administración educativa.
 
 2. A tales efectos, la evaluación del sistema educativo contemplará los siguientes procesos de evaluación:
 
@@ -153,7 +160,7 @@ sistema educativo, a través de indicadores homologados nacional e internacional
 
 2. La evaluación general del sistema educativo andaluz será realizada por la Agencia Andaluza de
 
-Evaluación Educativa, de conformidad con lo establecido en el artículo 155.1 de la Ley 17/2007, de 10 de diciembre, y disposiciones que la desarrollan.
+Evaluación Educativa, de conformidad con lo establecido en el artículo 155.1 de la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre, y disposiciones que la desarrollan.
 
 3. La Agencia Andaluza de Evaluación Educativa elaborará, desarrollará y aplicará planes plurianuales de
 
@@ -161,9 +168,9 @@ evaluación general del sistema educativo andaluz.
 
 4. En el marco de la evaluación general del sistema educativo, la Agencia Andaluza de Evaluación
 
-Educativa realizará las evaluaciones de diagnóstico a que se refiere el artículo 156 de la Ley 17/2007, de 10 de diciembre, y otras evaluaciones de diagnóstico del alumnado que se establezcan.
+Educativa realizará las evaluaciones de diagnóstico a que se refiere el artículo 156 de la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre, y otras evaluaciones de diagnóstico del alumnado que se establezcan.
 
-5. Sin perjuicio de lo dispuesto en el artículo 6 del Decreto 115/2002, de 25 de marzo, por el que
+5. Sin perjuicio de lo dispuesto en el artículo 6 del [Decreto 115/2002](../04_organizacion_escolar_y_funcionamiento/D115_2002_reglamento_inspeccion_educativa_andalucia.md), de 25 de marzo, por el que
 
 se regula la organización y el funcionamiento de la inspección educativa, la inspección educativa emitirá los informes que le sean solicitados por la Consejería competente en materia de educación en relación con la evaluación del sistema educativo.
 
@@ -173,7 +180,7 @@ se regula la organización y el funcionamiento de la inspección educativa, la i
 
 elaborará y desarrollará planes de evaluación de los centros educativos, de acuerdo con lo que a tales efectos se establezca por Orden de la persona titular de la Consejería competente en materia de educación, en los que se tendrán en cuenta las situaciones socioeconómicas y culturales de las familias y alumnado que acogen, el entorno del propio centro y los recursos de que disponen.
 
-2. De acuerdo con lo dispuesto en el artículo 4 del Decreto 115/2002, de 25 de marzo, la inspección
+2. De acuerdo con lo dispuesto en el artículo 4 del [Decreto 115/2002](../04_organizacion_escolar_y_funcionamiento/D115_2002_reglamento_inspeccion_educativa_andalucia.md), de 25 de marzo, la inspección
 
 educativa participará en la evaluación de los centros docentes, a través del análisis de la organización, el funcionamiento, los procesos de enseñanza y aprendizaje y los resultados de los mismos, según lo que, se establezca, a tales efectos, por Orden de la persona titular de la Consejería competente en materia de educación, emitiendo los informes correspondientes.
 
@@ -231,7 +238,7 @@ profesional, por lo que no podrán utilizarse para la acreditación de méritos 
 
 ##### Artículo 11. Evaluación de programas y servicios educativos, así como de la propia Administración educativa.
 
-La evaluación de los programas y resto de servicios educativos previstos en la Ley 17/2007, de 10 de diciembre, así como de la propia Administración educativa, se desarrollará de conformidad con la normativa específica que dicte la Consejería competente en materia de educación.
+La evaluación de los programas y resto de servicios educativos previstos en la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre, así como de la propia Administración educativa, se desarrollará de conformidad con la normativa específica que dicte la Consejería competente en materia de educación.
 
 ##### Artículo 12. Visitas a los centros.
 
@@ -285,7 +292,7 @@ Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo
 
 #### Disposición final primera. Reproducción de normativa de rango superior.
 
-Los artículos 2.2, 4, 6.1, 8.1, 8.3, 8.6, 9.1, 10.1 y 15.2 reproducen normas dictadas por la Comunidad Autónoma de Andalucía y recogidas en la Ley 17/2007, de 10 de diciembre, de Educación de Andalucía.
+Los artículos 2.2, 4, 6.1, 8.1, 8.3, 8.6, 9.1, 10.1 y 15.2 reproducen normas dictadas por la Comunidad Autónoma de Andalucía y recogidas en la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre, de Educación de Andalucía.
 
 #### Disposición final segunda. Desarrollo.
 

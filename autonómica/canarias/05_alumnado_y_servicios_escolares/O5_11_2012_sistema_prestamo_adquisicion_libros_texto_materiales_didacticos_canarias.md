@@ -34,8 +34,14 @@ relaciones:
   fundamentado_en:
   - norm-es-lo-2-2006
   - norm-can-l-6-2014
+fundamentos_derecho:
+- norma_id: norm-can-l-6-2014
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-mad-l1-1983-gobierno-administracion-comunidad-madrid
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
 ---
-
 # Orden de 5 de noviembre de 2012, por la que se regula el sistema de préstamo de libros de texto o adquisición de libros de texto y materiales didácticos al alumnado matriculado en centros docentes sostenidos con fondos públicos que curse enseñanzas obligatorias.
 
 ## Preámbulo
@@ -104,7 +110,7 @@ sentido de instaurar un sistema de préstamo de los
 materiales disponibles en los centros docentes sos-
 tenidos con fondos públicos que prioriza a las fami-
 lias con mayores dificultades económicas.
-La Ley Orgánica 2/2006, de 3 de mayo, de Edu-
+La [Ley Orgánica 2/2006](./O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Edu-
 cación, en su Título II, Capítulo II, impone a las Ad-
 ministraciones Públicas la obligación de desarrollar
 acciones de carácter compensatorio en relación con
@@ -148,7 +154,7 @@ puestos Generales de la Comunidad Autónoma de Ca-
 narias para 2012 (BOC nº 255, de 30.12.11), regula el
 importe y la aplicación presupuestaria para esta acción. 
 En virtud de las potestades administrativas que me
-otorga el artículo 37 de la Ley 1/1983, de 14 de abril,
+otorga el artículo 37 de la [Ley 1/1983](../../madrid/01_marco_normativo_general_y_organico/L1_1983_gobierno_administracion_comunidad_madrid.md), de 14 de abril,
 Viernes 30 de noviembre de 2012
 
 del Gobierno y de la Administración Pública de la Co-
@@ -553,7 +559,7 @@ ción suscrito con la Consejería de Educación, Uni-
 versidades y Sostenibilidad del Gobierno de Cana-
 rias, para el desarrollo de estrategias comunes en la
 acción “Uso de Libros Gratuitos”, en aplicación de
-la Ley Orgánica 2/2006, de 3 de mayo, de Educa-
+la [Ley Orgánica 2/2006](./O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educa-
 ción, expedirán y recargarán las tarjetas electróni-
 cas a nombre del Presidente/a del Consejo Escolar
 del centro docente o titular del centro privado con-

@@ -32,8 +32,9 @@ relaciones:
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-l-39-2015
   - norma_id: norm-es-l-40-2015
+fundamentos_derecho:
+- norma_id: norm-and-l17-2007
 ---
-
 # Decreto 276/1998, de 22 de diciembre, por el que se regula el Reglamento de Inspección de los Servicios en la Administración de la Junta de Andalucía.
 
 ## Preámbulo

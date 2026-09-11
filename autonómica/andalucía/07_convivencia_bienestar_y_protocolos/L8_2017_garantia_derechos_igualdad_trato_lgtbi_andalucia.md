@@ -1,6 +1,7 @@
 ---
 id: norm-and-l8-2017-garantia-derechos-igualdad-trato-lgtbi-andalucia
-titulo: Ley 8/2017, de 28 de diciembre, para garantizar los derechos, la igualdad de trato y no discriminación de las personas LGTBI y sus familiares en Andalucía.
+titulo: Ley 8/2017, de 28 de diciembre, para garantizar los derechos, la igualdad
+  de trato y no discriminación de las personas LGTBI y sus familiares en Andalucía.
 jurisdiccion: Andalucía
 ambito: Autonómico
 organo_emisor: Dirección General de Profesorado y Gestión de Recursos Humanos
@@ -17,8 +18,12 @@ fuente_pdf_oficial: http://www.juntadeandalucia.es/boja/2018/10/BOJA18-010-00030
 clasificacion:
   categoria_canonica: 07_convivencia_bienestar_y_protocolos
   subcategoria: Igualdad, diversidad y no discriminación
+fundamentos_derecho:
+- norma_id: norm-and-l12-2007-promocion-igualdad-genero-andalucia
+- norma_id: norm-and-d19-2007
+- norma_id: norm-and-l2-2014-no-discriminacion-identidad-genero-transexuales-andalucia
+- norma_id: norm-es-2015-8222
 ---
-
 # Ley 8/2017, de 28 de diciembre, para garantizar los derechos, la igualdad de trato y no discriminación de las personas LGTBI y sus familiares en Andalucía.
 
 ## Preámbulo
@@ -206,12 +211,12 @@ Asimismo, el artículo 37.1.2.º proclama como principio rector de las política
 de los poderes de la Comunidad Autónoma la lucha, entre otros aspectos, contra el 
 sexismo y la homofobia, «especialmente mediante la educación en valores que fomente 
 la igualdad, la tolerancia, la libertad y la solidaridad».
-Por su parte, el artículo 43.2 de la Ley 12/2007, de 26 de noviembre, para la promoción 
+Por su parte, el artículo 43.2 de la [Ley 12/2007](../01_marco_normativo_general_y_organico/L12_2007_promocion_igualdad_genero_andalucia.md), de 26 de noviembre, para la promoción 
 de la igualdad de género en Andalucía, proclama el deber de los poderes públicos de 
 Andalucía de establecer políticas que promuevan «las acciones necesarias para eliminar 
 la discriminación por opción sexual y transexualidad, garantizando la libertad de decisión 
 individual».
-La Ley 2/2014, de 8 de julio, integral para la no discriminación por motivos de identidad 
+La [Ley 2/2014](./L2_2014_no_discriminacion_identidad_genero_transexuales_andalucia.md), de 8 de julio, integral para la no discriminación por motivos de identidad 
 de género y reconocimiento de los derechos de las personas transexuales de Andalucía, 
 establece un marco normativo adecuado para garantizar la autodeterminación de género 
 de las personas que manifiestan una identidad de género distinta a la asignada al nacer. 
@@ -239,7 +244,7 @@ sexual.
 Por Acuerdo de 16 de febrero de 2016, el Consejo de Gobierno de la Junta de Andalucía 
 aprobó el II Plan Estratégico de Igualdad de Género en Educación 2016-2021. Dicho 
 Plan Estratégico se sustenta en una estructura de avance sobre la ya existente desde el 
-Decreto 19/2007, de 23 de enero, por el que se adoptan medidas para la promoción de 
+[Decreto 19/2007](./D19_2007_promocion_cultura_paz_mejora_convivencia_centros_andalucia.md), de 23 de enero, por el que se adoptan medidas para la promoción de 
 la cultura de paz y la mejora de la convivencia en los centros docentes sostenidos con 
 fondos públicos, asignándoles nuevas funciones en materia de coeducación, igualdad y 
 prevención de la violencia de género.
@@ -493,7 +498,7 @@ u orientación sexual.
 2. No se usarán terapias aversivas o cualquier otro procedimiento que suponga un 
 intento de conversión, anulación o supresión de la orientación sexual o de la identidad de 
 género autopercibida.
-3. De conformidad con lo establecido en la Ley 2/2014, de 8 de julio, integral para la 
+3. De conformidad con lo establecido en la [Ley 2/2014](./L2_2014_no_discriminacion_identidad_genero_transexuales_andalucia.md), de 8 de julio, integral para la 
 no discriminación por motivos de identidad de género y reconocimiento de los derechos 
 de las personas transexuales de Andalucía, ninguna persona será obligada a someterse 
 a tratamiento, procedimiento médico o examen psicológico que coarte su libertad de 
@@ -645,7 +650,7 @@ facilitar un conocimiento objetivo y sin prejuicios, con absoluto respeto a los 
 humanos, utilizando para ello los recursos pedagógicos necesarios.
 3. Se garantizará el derecho de las personas transexuales a poder desarrollar 
 libremente su personalidad durante su infancia y adolescencia conforme a su identidad 
-sexual, de conformidad con las medidas contempladas en la Ley 2/2014, de 8 de julio, 
+sexual, de conformidad con las medidas contempladas en la [Ley 2/2014](./L2_2014_no_discriminacion_identidad_genero_transexuales_andalucia.md), de 8 de julio, 
 integral para la no discriminación por motivos de identidad de género y reconocimiento de 
 los derechos de las personas transexuales de Andalucía.
 4. La Comunidad Autónoma de Andalucía, a través de la Consejería competente en 
@@ -950,7 +955,7 @@ Asistencia a Víctimas en Andalucía (SAVA).
 conforme a su orientación e identidad sexual, la Administración pública competente velará 
 para que las personas progenitoras, tutoras, guardadoras o acogedoras desarrollen 
 adecuadamente sus responsabilidades y deberá garantizar, en todo caso, el interés 
-superior del menor, conforme a lo establecido en la Ley Orgánica 8/2015, de 22 de julio, 
+superior del menor, conforme a lo establecido en la [Ley Orgánica 8/2015](../../../estatal/01_marco_normativo_general_y_organico/LO8_2015_modificacion_sistema_proteccion_infancia_adolescencia.md), de 22 de julio, 
 de modificación del sistema de protección a la infancia y a la adolescencia.
 CAPÍTULO V
 Ámbito de la salud
@@ -965,7 +970,7 @@ de las personas LGTBI y sus familias con objeto de que puedan disfrutar del dere
 una atención sanitaria plena y eficaz.
 3. La atención sanitaria dispensada por el sistema sanitario público de Andalucía se 
 adecuará a la identidad de género de la persona receptora de la misma, conforme a lo 
-establecido en la Ley 2/2014, de 8 de julio, integral para la no discriminación por motivos 
+establecido en la [Ley 2/2014](./L2_2014_no_discriminacion_identidad_genero_transexuales_andalucia.md), de 8 de julio, integral para la no discriminación por motivos 
 de identidad de género y reconocimiento de los derechos de las personas transexuales 
 de Andalucía.
 4. La asistencia psicológica a las personas LGTBI, incluidos los menores de edad, 
@@ -1042,7 +1047,7 @@ empleadas.
 b) Promover en el ámbito de la formación el respeto de los derechos de igualdad y no 
 discriminación de las personas LGTBI.
 c) Desarrollar estrategias para la inserción laboral de las personas transexuales y 
-transgénero, conforme a lo establecido en la Ley 2/2014, de 8 de julio, integral para la no 
+transgénero, conforme a lo establecido en la [Ley 2/2014](./L2_2014_no_discriminacion_identidad_genero_transexuales_andalucia.md), de 8 de julio, integral para la no 
 discriminación por motivos de identidad de género y reconocimiento de los derechos de 
 las personas transexuales de Andalucía.
 d) La prevención, corrección y eliminación de toda forma de discriminación por 

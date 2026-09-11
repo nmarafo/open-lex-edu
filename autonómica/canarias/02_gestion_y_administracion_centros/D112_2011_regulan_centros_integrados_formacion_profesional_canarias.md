@@ -24,8 +24,17 @@ tags:
 - formacion-profesional
 - gestion-centros
 - canarias
+fundamentos_derecho:
+- norma_id: norm-can-d-81-2010
+- norma_id: norm-can-o-2013-10-09
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-es-l-53-1984
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-2002-12018
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2005-21534
+- norma_id: norm-es-2010-12201
 ---
-
 # Decreto 112/2011, de 11 de mayo, por el que se regulan los Centros integrados de formación profesional en la Comunidad Autónoma de Canarias.
 
 ## Preámbulo
@@ -50,21 +59,21 @@ BOC-A-2011-104-2866.
             Firma electrónica-Descargar
 
 
-La Ley Orgánica 5/2002, de 19 de junio, de las Cualificaciones y de la Formación Profesional tiene por objeto la ordenación de un sistema integral de formación profesional, cualificaciones y acreditación, que responda con eficacia y transparencia a las demandas sociales y económicas a través de las diversas modalidades formativas.
+La [Ley Orgánica 5/2002](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO5_2002_cualificaciones_formacion_profesional.md), de 19 de junio, de las Cualificaciones y de la Formación Profesional tiene por objeto la ordenación de un sistema integral de formación profesional, cualificaciones y acreditación, que responda con eficacia y transparencia a las demandas sociales y económicas a través de las diversas modalidades formativas.
 
 Esta Ley define en el primer párrafo de su artículo 11.4, a los Centros integrados de formación profesional como nuevos centros que, en el marco del Sistema Nacional de Cualificaciones, impartirán todas las ofertas de formación profesional, conducentes a títulos y certificados de profesionalidad, que estén referidas al Catálogo Nacional de Cualificaciones Profesionales.
 
 El segundo párrafo del artículo 11.4 establece que las Administraciones, en el ámbito de sus competencias, podrán crear y autorizar dichos Centros integrados de formación profesional con las condiciones y requisitos que se establezcan. Por otro lado, el artículo 11.6 de esta misma ley señala que el Gobierno y los Consejos de Gobierno de las Comunidades Autónomas, en el ámbito de sus respectivas competencias, adaptarán la composición y funciones de los Centros integrados de formación profesional a sus características específicas.
 
-El Real Decreto 1558/2005, de 23 de diciembre, por el que se regulan los requisitos básicos de los Centros integrados de formación profesional, establece la tipología, fines y funciones de dichos centros, así como las condiciones que deberán reunir los mismos, y señala las competencias atribuidas a las Administraciones educativas y laborales de las Comunidades Autónomas para la creación y autorización de estos centros y la organización de una red de Centros integrados para facilitar a la ciudadanía el ejercicio del derecho a la formación a lo largo de toda la vida.
+El [Real Decreto 1558/2005](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1558_2005_regulan_requisitos_basicos_centros_integrados_formacion.md), de 23 de diciembre, por el que se regulan los requisitos básicos de los Centros integrados de formación profesional, establece la tipología, fines y funciones de dichos centros, así como las condiciones que deberán reunir los mismos, y señala las competencias atribuidas a las Administraciones educativas y laborales de las Comunidades Autónomas para la creación y autorización de estos centros y la organización de una red de Centros integrados para facilitar a la ciudadanía el ejercicio del derecho a la formación a lo largo de toda la vida.
 
-La Ley Orgánica 2/2006, de 3 de mayo, de Educación, señala en su artículo 39.5 que los estudios de formación profesional podrán realizarse tanto en los centros educativos que la norma establezca, como en los Centros integrados y de referencia nacional a los que se refiere el artículo 11 de la Ley Orgánica 5/2002, de 19 de junio, de las Cualificaciones y de la Formación Profesional.
+La [Ley Orgánica 2/2006](../05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, señala en su artículo 39.5 que los estudios de formación profesional podrán realizarse tanto en los centros educativos que la norma establezca, como en los Centros integrados y de referencia nacional a los que se refiere el artículo 11 de la [Ley Orgánica 5/2002](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO5_2002_cualificaciones_formacion_profesional.md), de 19 de junio, de las Cualificaciones y de la Formación Profesional.
 
 El Real Decreto 395/2007, de 23 de marzo, por el que se regula el subsistema de formación profesional para el empleo, introduce, entre otros, a los Centros integrados de formación profesional como centros para la mejora de las políticas del ámbito laboral que mejor pueden contribuir a la consecución de los objetivos de empleo. En su artículo 9.1.a).2º señala que estos centros impartirán, al menos, las ofertas formativas referidas al Catálogo Nacional de Cualificaciones Profesionales, que conduzcan a la obtención de títulos de formación profesional y certificados de profesionalidad.
 
 El Real Decreto 34/2008, de 18 de enero, por el que se regulan los certificados de profesionalidad, recoge, en su artículo 12, a los Centros integrados como uno de los centros en los que se pueden impartir las acciones formativas correspondientes a certificados de profesionalidad y menciona que en estos centros, la programación de la oferta modular asociada a unidades de competencia incluidas en títulos de formación profesional y certificados de profesionalidad será la misma.
 
-En el Real Decreto 1558/2005 se señala, entre las funciones de los Centros integrados, el "Participar en los procedimientos de evaluación y, en su caso, realizar la propuesta de acreditación oficial de las competencias profesionales adquiridas por las personas a través de la experiencia laboral o de vías no formales de formación, de acuerdo con lo que establezca en desarrollo del artículo 8 de la Ley Orgánica 5/2002, de 19 de junio, de las Cualificaciones y de la Formación Profesional".
+En el [Real Decreto 1558/2005](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1558_2005_regulan_requisitos_basicos_centros_integrados_formacion.md) se señala, entre las funciones de los Centros integrados, el "Participar en los procedimientos de evaluación y, en su caso, realizar la propuesta de acreditación oficial de las competencias profesionales adquiridas por las personas a través de la experiencia laboral o de vías no formales de formación, de acuerdo con lo que establezca en desarrollo del artículo 8 de la [Ley Orgánica 5/2002](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO5_2002_cualificaciones_formacion_profesional.md), de 19 de junio, de las Cualificaciones y de la Formación Profesional".
 
 En el Decreto 43/2003, de 7 de abril, por el que se crea y regula el Instituto Canario de las Cualificaciones Profesionales, se indica entre sus finalidades el diseñar y actualizar el sistema integral de cualificaciones profesionales de Canarias, así como el establecer los requisitos para la acreditación de las cualificaciones profesionales en Canarias.
 
@@ -98,13 +107,13 @@ DISPOSICIONES GENERALES
 #### Artículo 1.- Objeto y ámbito de aplicación.
 
 
-El presente Decreto tiene por objeto la regulación de los Centros integrados de formación profesional en el ámbito de la Comunidad Autónoma de Canarias a los que hace referencia la Ley Orgánica 5/2002, de 19 de junio, de las Cualificaciones y de la Formación Profesional, y al amparo de lo dispuesto en el Real Decreto 1558/2005, de 23 de diciembre, por el que se regulan los requisitos básicos de los Centros integrados de formación profesional.
+El presente Decreto tiene por objeto la regulación de los Centros integrados de formación profesional en el ámbito de la Comunidad Autónoma de Canarias a los que hace referencia la [Ley Orgánica 5/2002](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO5_2002_cualificaciones_formacion_profesional.md), de 19 de junio, de las Cualificaciones y de la Formación Profesional, y al amparo de lo dispuesto en el [Real Decreto 1558/2005](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1558_2005_regulan_requisitos_basicos_centros_integrados_formacion.md), de 23 de diciembre, por el que se regulan los requisitos básicos de los Centros integrados de formación profesional.
 
 
 #### Artículo 2.- Definición de Centros integrados de formación profesional.
 
 
-Tendrán la condición de Centros integrados de formación profesional de la Comunidad Autónoma de Canarias aquellos que, cumpliendo los requisitos establecidos en el Real Decreto 1558/2005, de 23 de diciembre, por el que se regulan los requisitos básicos de los Centros integrados de formación profesional y en el presente Decreto, impartan todas las ofertas formativas referidas al Catálogo Nacional de Cualificaciones Profesionales que conduzcan a títulos de formación profesional y certificados de profesionalidad.
+Tendrán la condición de Centros integrados de formación profesional de la Comunidad Autónoma de Canarias aquellos que, cumpliendo los requisitos establecidos en el [Real Decreto 1558/2005](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1558_2005_regulan_requisitos_basicos_centros_integrados_formacion.md), de 23 de diciembre, por el que se regulan los requisitos básicos de los Centros integrados de formación profesional y en el presente Decreto, impartan todas las ofertas formativas referidas al Catálogo Nacional de Cualificaciones Profesionales que conduzcan a títulos de formación profesional y certificados de profesionalidad.
 
 Estos centros podrán ofrecer, con carácter experimental, otras acciones formativas de carácter estratégico para la economía canaria, relacionadas con las familias en las que estén autorizados.
 
@@ -126,7 +135,7 @@ Los Centros integrados de formación profesional tendrán los siguientes fines:
 
 a) Responder a las necesidades de cualificación y recualificación de las personas a lo largo de la vida mediante el establecimiento de una oferta de formación profesional modular, flexible, de calidad, adaptada a las demandas de la población y a las necesidades generadas por el sistema productivo.
 
-b) Cuando proceda, y en el marco del Sistema Nacional de Cualificaciones y Formación Profesional, contribuir a la evaluación y acreditación de las competencias profesionales adquiridas por las personas a través de la experiencia laboral y de vías no formales de formación, promoviendo así la valoración social del trabajo, de acuerdo a lo establecido en desarrollo del artículo 8 de la Ley Orgánica 5/2002, de 19 de junio, de las Cualificaciones y la Formación Profesional.
+b) Cuando proceda, y en el marco del Sistema Nacional de Cualificaciones y Formación Profesional, contribuir a la evaluación y acreditación de las competencias profesionales adquiridas por las personas a través de la experiencia laboral y de vías no formales de formación, promoviendo así la valoración social del trabajo, de acuerdo a lo establecido en desarrollo del artículo 8 de la [Ley Orgánica 5/2002](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO5_2002_cualificaciones_formacion_profesional.md), de 19 de junio, de las Cualificaciones y la Formación Profesional.
 
 c) Proporcionar los servicios de información y orientación profesional a las personas para que tomen las decisiones más adecuadas respecto de sus necesidades de formación profesional en relación con el entorno productivo en el que se desenvuelven.
 
@@ -220,7 +229,7 @@ CREACIÓN, AUTORIZACIÓN Y REQUISITOS
 #### Artículo 8.- Requisitos de los Centros integrados.
 
 
-Los Centros integrados de formación profesional, en el marco de lo establecido en el Real Decreto 1558/2005, de 23 de diciembre, por el que se regulan los requisitos básicos de los Centros integrados de formación profesional, deberán reunir los siguientes requisitos:
+Los Centros integrados de formación profesional, en el marco de lo establecido en el [Real Decreto 1558/2005](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1558_2005_regulan_requisitos_basicos_centros_integrados_formacion.md), de 23 de diciembre, por el que se regulan los requisitos básicos de los Centros integrados de formación profesional, deberán reunir los siguientes requisitos:
 
 a) Los especificados en los Reales Decretos que regulen los títulos de formación profesional y los certificados de profesionalidad correspondientes a las enseñanzas que se impartan en ellos.
 
@@ -476,7 +485,7 @@ PERSONAL DE LOS CENTROS INTEGRADOS
 
 3. Podrán ser contratados, como personal experto, profesionales cualificados para impartir aquellas enseñanzas que por su naturaleza lo requieran, en las condiciones y régimen que se determine.
 
-4. El personal que preste sus servicios en centros de titularidad pública estará sujeto al régimen de incompatibilidades previsto en la Ley 53/1984, de 26 de diciembre, de Incompatibilidades del Personal al Servicio de las Administraciones Públicas, y a lo que se derive de la consideración de interés público de las enseñanzas de Formación Profesional contemplado en la Disposición Adicional Primera de la Ley 5/2002, de 19 de junio, de las Cualificaciones y la Formación Profesional.
+4. El personal que preste sus servicios en centros de titularidad pública estará sujeto al régimen de incompatibilidades previsto en la [Ley 53/1984](../../../estatal/01_marco_normativo_general_y_organico/L53_1984_incompatibilidades_personal_servicio_administraciones_publicas.md), de 26 de diciembre, de Incompatibilidades del Personal al Servicio de las Administraciones Públicas, y a lo que se derive de la consideración de interés público de las enseñanzas de Formación Profesional contemplado en la Disposición Adicional Primera de la Ley 5/2002, de 19 de junio, de las Cualificaciones y la Formación Profesional.
 
 
 #### Artículo 23.- Personal que desarrolla las funciones de información y orientación profesional.
@@ -524,7 +533,7 @@ Hasta tanto no se desarrollen los títulos y certificados de profesionalidad, de
 
 1. En lo no regulado en esta norma serán de aplicación las normas específicas que regulan cada una de las ofertas formativas.
 
-2. En aplicación del artículo 9.3 del Reglamento Orgánico de los centros docentes públicos no universitarios de la Comunidad Autónoma de Canarias, aprobado por Decreto 81/2010, de 8 de julio, el mismo será de aplicación en defecto de Reglamento Orgánico específico de los Centros Integrados de formación profesional.
+2. En aplicación del artículo 9.3 del Reglamento Orgánico de los centros docentes públicos no universitarios de la Comunidad Autónoma de Canarias, aprobado por [Decreto 81/2010](../04_organizacion_escolar_y_funcionamiento/D81_2010_aprueba_reglamento_organico_centros_docentes_publicos.md), de 8 de julio, el mismo será de aplicación en defecto de Reglamento Orgánico específico de los Centros Integrados de formación profesional.
 
 
 #### Disposición Final Segunda.- Habilitación.

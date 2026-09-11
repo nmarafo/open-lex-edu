@@ -1,6 +1,9 @@
 ---
 id: norm-and-r19-1-2026-acceso-extraordinario-bolsas-trabajo-cuerpos-docentes-andalucia
-titulo: Resolución de 19 de enero de 2026, de la Dirección General del Profesorado y Gestión de Recursos Humanos, por la que se realiza convocatoria para el acceso extraordinario a las bolsas de trabajo de determinadas especialidades de los cuerpos docentes, así como a determinadas bolsas con perfil bilingüe.
+titulo: Resolución de 19 de enero de 2026, de la Dirección General del Profesorado
+  y Gestión de Recursos Humanos, por la que se realiza convocatoria para el acceso
+  extraordinario a las bolsas de trabajo de determinadas especialidades de los cuerpos
+  docentes, así como a determinadas bolsas con perfil bilingüe.
 jurisdiccion: Andalucía
 ambito: Autonómico
 organo_emisor: Dirección General de Profesorado y Gestión de Recursos Humanos
@@ -17,25 +20,40 @@ fuente_pdf_oficial: http://www.juntadeandalucia.es/boja/2026/17/BOJA26-017-00021
 clasificacion:
   categoria_canonica: 08_personal_docente
   subcategoria: Profesorado interino
+fundamentos_derecho:
+- norma_id: norm-and-d-164-2024
+- norma_id: norm-and-l9-2007-administracion-junta-andalucia-laja
+- norma_id: norm-and-disp-4605
+- norma_id: norm-and-r-19-1-2026-calendario-admision-alumnado-centros-docentes-andalucia-2026-2027
+- norma_id: norm-and-d302-2010-ordenacion-funcion-publica-docente-seleccion-provision-andalucia
+- norma_id: norm-and-o-10-6-2020
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-es-l-39-2015
+- norma_id: norm-es-l-40-2015
+- norma_id: norm-es-1995-25444
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-rd-1834-2008
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
+- norma_id: norm-es-lo-8-2021
 ---
-
-# Resolución de 19 de enero de 2026, de la Dirección General del Profesorado y Gestión de Recursos Humanos, por la que se realiza convocatoria para el acceso extraordinario a las bolsas de trabajo de determinadas especialidades de los cuerpos docentes, así como a determinadas bolsas con perfil bilingüe.
+# [Resolución de 19 de enero de 2026](../05_alumnado_y_servicios_escolares/R19_1_2026_calendario_admision_alumnado_centros_docentes_andalucia_2026_2027.md), de la Dirección General del Profesorado y Gestión de Recursos Humanos, por la que se realiza convocatoria para el acceso extraordinario a las bolsas de trabajo de determinadas especialidades de los cuerpos docentes, así como a determinadas bolsas con perfil bilingüe.
 
 ## Preámbulo
 
 CONSEJERÍA DE DESARROLLO EDUCATIVO 
 Y FORMACIÓN PROFESIONAL
-Resolución de 19 de enero de 2026, de la Dirección General del Profesorado 
+[Resolución de 19 de enero de 2026](../05_alumnado_y_servicios_escolares/R19_1_2026_calendario_admision_alumnado_centros_docentes_andalucia_2026_2027.md), de la Dirección General del Profesorado 
 y Gestión de Recursos Humanos, por la que se realiza convocatoria para el 
 acceso extraordinario a las bolsas de trabajo de determinadas especialidades 
 de los cuerpos docentes, así como a determinadas bolsas con perfil bilingüe.
-El Decreto 302/2010, de 1 de junio, por el que se ordena la función pública docente y 
+El [Decreto 302/2010](./D302_2010_ordenacion_funcion_publica_docente_seleccion_provision_andalucia.md), de 1 de junio, por el que se ordena la función pública docente y 
 se regula la selección del profesorado y la provisión de los puestos de trabajo docentes, 
 establece en el artículo 22 que la Consejería competente en materia de educación podrá 
 efectuar convocatorias extraordinarias para el acceso a las bolsas de trabajo cuando 
 se prevea que estas no cuentan con personal suficiente para la atención del servicio 
 educativo.
-Asimismo, la Orden de 10 de junio de 2020, por la que se regulan los procedimientos 
+Asimismo, la [Orden de 10 de junio de 2020](./O10_6_2020_bolsas_trabajo_profesorado_interino_andalucia.md), por la que se regulan los procedimientos 
 de provisión, con carácter provisional, de puestos de trabajo docentes, la movilidad por 
 razón de violencia de género y víctimas de terrorismo, las bolsas de trabajo docentes, 
 así como las bases aplicables al personal integrante de las mismas (BOJA número 116, 
@@ -47,9 +65,9 @@ de Enseñanza Secundaria, Profesores de Escuelas Oficiales de Idiomas, Profesore
 Música y Artes Escénicas, Maestros de Taller de Artes Plásticas y Diseño, Maestros y 
 Profesores Especialistas en Sectores Singulares de la Formación Profesional, así como 
 de determinadas especialidades con perfil bilingüe, de conformidad con lo establecido en 
-el artículo 39 de la Orden de 10 de junio de 2020, esta Dirección General del Profesorado 
+el artículo 39 de la [Orden de 10 de junio de 2020](./O10_6_2020_bolsas_trabajo_profesorado_interino_andalucia.md), esta Dirección General del Profesorado 
 y Gestión de Recursos Humanos, en virtud de las competencias que le confiere el 
-Decreto 164/2024, de 26 de agosto, por el que se establece la estructura orgánica de 
+[Decreto 164/2024](../01_marco_normativo_general_y_organico/D164_2024_estructura_organica_consejeria_desarrollo_educativo_andalucia.md), de 26 de agosto, por el que se establece la estructura orgánica de 
 la Consejería de Desarrollo Educativo y Formación Profesional, ha resuelto realizar 
 convocatoria pública para la presentación de solicitudes con arreglo a las siguientes
 B A S E S
@@ -118,10 +136,10 @@ un título universitario en España o certificación de haber obtenido la califi
 en pruebas de acreditación de conocimiento del español en convocatorias anteriores de 
 alguna Administración educativa española.
 h) No haber sido condenado por sentencia firme por algún delito contra la libertad e 
-indemnidad sexuales tipificados en el Título VIII de la Ley Orgánica 10/1995, de 23 de 
+indemnidad sexuales tipificados en el Título VIII de la [Ley Orgánica 10/1995](../../../estatal/01_marco_normativo_general_y_organico/LO10_1995_codigo_penal.md), de 23 de 
 noviembre, del Código Penal, así como por cualquier delito de trata de seres humanos 
 tipificado en el Título VII bis del Código Penal, de conformidad con el artículo 57 de la 
-Ley Orgánica 8/2021, de 4 de junio, de protección integral a la infancia y la adolescencia 
+[Ley Orgánica 8/2021](../../../estatal/07_convivencia_bienestar_y_protocolos/LO8_2021_proteccion_integral_infancia_adolescencia_frente_violencia.md), de 4 de junio, de protección integral a la infancia y la adolescencia 
 frente a la violencia.
 El personal aspirante cuya nacionalidad sea distinta de la española, deberá acreditar, 
 además de la certificación negativa del Registro Central de Delincuentes Sexuales, la 
@@ -138,7 +156,7 @@ BOJA
 Depósito Legal: SE-410/1979. ISSN: 2253-802X	
 https://www.juntadeandalucia.es/eboja
 de Delincuentes Sexuales. Dicha documentación solo tendrá validez si se acompaña de 
-su traducción oficial al castellano, de acuerdo con el artículo 15 de la Ley 39/2015, de 1 
+su traducción oficial al castellano, de acuerdo con el artículo 15 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 
 de octubre.
 2.2. Requisitos específicos.
 a) Poseer la titulación o titulaciones y demás requisitos establecidos para la 
@@ -178,7 +196,7 @@ trabajo. En estos documentos debe constar la actividad desarrollada.
 b) Para el acceso a bolsas de especialidades de los Cuerpos de Profesores 
 de Enseñanza Secundaria y de Profesores de Escuelas Oficiales de Idiomas, será 
 necesario estar en posesión de la formación pedagógica y didáctica a la que se refiere 
-el artículo 100.2 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación. Con carácter 
+el artículo 100.2 de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación. Con carácter 
 general, cumplirá este requisito quien se encuentre en posesión del título oficial de 
 Máster universitario que habilita para el ejercicio de las profesiones reguladas de profesor 
 de enseñanza secundaria obligatoria y bachillerato, formación profesional y escuelas 
@@ -206,7 +224,7 @@ título. En este certificado tendrá que constar:
 • Que la fecha en la cual se obtuvo el título es anterior al 1 de octubre de 2009.
 • Que la persona interesada ha superado un mínimo de 60 créditos relacionados con 
 la formación pedagógica y didáctica que le aportan las competencias y conocimientos 
-requeridos por la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+requeridos por la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación.
 - Se entenderán también dispensados de la posesión del citado título a quienes 
 acrediten que en esa fecha estaban cursando enseñanzas conducentes a la obtención 
 de los títulos de Licenciados en Pedagogía o Psicopedagogía, y tuvieran cursados 180 
@@ -215,11 +233,11 @@ créditos de estas enseñanzas antes del 1 de octubre de 2009.
 cursos académicos completos o, en su defecto, doce meses en periodos continuos o 
 discontinuos, en centros públicos o privados de enseñanza reglada debidamente 
 autorizados, en los niveles y enseñanzas cuyas especialidades docentes se regulan en el 
-Real Decreto 1834/2008, de 8 de noviembre.
+[Real Decreto 1834/2008](../../../estatal/02_gestion_y_administracion_centros/RD1834_2008_definen_condiciones_formacion_ejercicio_docencia_educacion.md), de 8 de noviembre.
 c) Para el acceso a las bolsas de especialidades del Cuerpo de Profesores 
 Especialistas en Sectores Singulares de la Formación Profesional, será necesario estar 
 en posesión de la formación pedagógica y didáctica a la que se refiere el artículo 100.2 
-de la Ley Orgánica 2/2006, de 3 de mayo, de Educación. Con carácter general, cumplirá 
+de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación. Con carácter general, cumplirá 
 este requisito quien se encuentre en posesión del título oficial de Máster universitario 
 que habilita para el ejercicio de las profesiones reguladas de profesor de enseñanza 
 secundaria obligatoria y bachillerato, formación profesional y escuelas oficiales de 
@@ -238,7 +256,7 @@ título. En este certificado tendrá que constar:
 • Que la fecha en la cual se obtuvo el título es anterior al 1 de octubre de 2009.
 • Que la persona interesada ha superado un mínimo de 60 créditos relacionados con 
 la formación pedagógica y didáctica que le aportan las competencias y conocimientos 
-requeridos por la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+requeridos por la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación.
 - Se entenderán también dispensados de la posesión del citado título a quienes 
 acrediten que en esa fecha estaban cursando enseñanzas conducentes a la obtención 
 de los títulos de Licenciados en Pedagogía o Psicopedagogía, y tuvieran cursados 180 
@@ -247,7 +265,7 @@ créditos de estas enseñanzas antes del 1 de octubre de 2009.
 cursos académicos completos o, en su defecto, doce meses en periodos continuos o 
 discontinuos, en centros públicos o privados de enseñanza reglada debidamente 
 autorizados, en los niveles y enseñanzas cuyas especialidades docentes se regulan en el 
-Real Decreto 1834/2008, de 8 de noviembre.
+[Real Decreto 1834/2008](../../../estatal/02_gestion_y_administracion_centros/RD1834_2008_definen_condiciones_formacion_ejercicio_docencia_educacion.md), de 8 de noviembre.
 - Aquellas personas que por razones derivadas de su titulación no puedan obtener el 
 título de máster universitario indicado en el apartado b) y posean una titulación declarada 
 equivalente a efectos de docencia, deberán acreditar su formación pedagógica y didáctica 
@@ -270,7 +288,7 @@ periodos continuos o discontinuos, en centros públicos o privados de enseñanza
 debidamente autorizados, en los niveles correspondientes.
 d) En los supuestos de participación en alguna de las bolsas con perfil bilingüe, se 
 deberán reunir, además de los requisitos referidos anteriormente, alguno de los requisitos 
-de titulación a que se refiere la Orden de 28 de junio de 2011, por la que se regula la 
+de titulación a que se refiere la [Orden de 28 de junio de 2011](../03_ordenacion_curricular_y_ensenanzas/O28_6_2011_regulacion_ensenanza_bilingue_andalucia.md), por la que se regula la 
 enseñanza bilingüe en los centros docentes de la Comunidad Autónoma de Andalucía, 
 modificada por las Órdenes de 18 de febrero de 2013 y de 1 de agosto de 2016 y la 
 Orden de 31 de marzo de 2016, Orden de 21 de marzo de 2018, Orden de 21 de diciembre 
@@ -329,7 +347,7 @@ a un puesto de la nueva bolsa mientras se encuentre ocupando aquel.
 Cuarta. Solicitudes y teletramitación, documentación y plazos.
 4.1. Solicitudes y teletramitación.
 En aplicación de lo establecido en la disposición adicional quinta del Decreto 
-302/2010, de 1 de junio, y en el artículo 42 de la Orden de 10 de junio de 2020, quienes 
+302/2010, de 1 de junio, y en el artículo 42 de la [Orden de 10 de junio de 2020](./O10_6_2020_bolsas_trabajo_profesorado_interino_andalucia.md), quienes 
 deseen participar en esta convocatoria deberán cumplimentar el correspondiente 
 formulario que facilitará esta Administración educativa a través del portal web de la 
 Consejería de Desarrollo Educativo y Formación Profesional.
@@ -366,7 +384,7 @@ La documentación ha de ser legible, descartándose aquella de la que no pueda
 desprenderse la información que se pretende acreditar.
 Los documentos presentados en un idioma distinto al castellano solo serán tenidos 
 en cuenta si se acompañan de su traducción oficial a dicha lengua, de acuerdo con el 
-artículo 15 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común 
+artículo 15 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Administrativo Común 
 de las Administraciones Públicas.
 4.2.1. Personal participante de nacionalidad española.
 a) Fotocopia del Documento Nacional de Identidad en vigor si el personal aspirante 
@@ -392,7 +410,7 @@ mismo, donde conste la especialidad o modalidad cursada.
 d) Fotocopia de la documentación justificativa de los méritos alegados, según el 
 baremo que figura en el Anexo III (Baremo) de la presente convocatoria.
 e) Certificación negativa del Registro Central de Delincuentes Sexuales de 
-conformidad con el artículo 57 de la Ley Orgánica 8/2021, de 4 de junio, de protección 
+conformidad con el artículo 57 de la [Ley Orgánica 8/2021](../../../estatal/07_convivencia_bienestar_y_protocolos/LO8_2021_proteccion_integral_infancia_adolescencia_frente_violencia.md), de 4 de junio, de protección 
 integral a la infancia y la adolescencia frente a la violencia, o bien, autorización para que 
 esta Administración recabe la citada información a través de medios telemáticos.
 4.2.2. Personal participante que no tenga la nacionalidad española.
@@ -474,9 +492,9 @@ sustituciones. De no consignarse provincia alguna para este fin, la Administraci
 de oficio las ocho provincias de Andalucía, por orden alfabético. Quien consigne más de 
 una provincia estará obligado a aceptar el primer puesto de trabajo que se le adjudique en 
 cualquiera de ellas. La no incorporación a dicho puesto supondrá la exclusión de la bolsa, 
-salvo en los supuestos previstos en el artículo 51 de la Orden de 10 de junio de 2020.
+salvo en los supuestos previstos en el artículo 51 de la [Orden de 10 de junio de 2020](./O10_6_2020_bolsas_trabajo_profesorado_interino_andalucia.md).
 No obstante, de conformidad con lo establecido en la disposición adicional 
-primera de la Orden de 10 de junio de 2020, el personal que participe en el presente 
+primera de la [Orden de 10 de junio de 2020](./O10_6_2020_bolsas_trabajo_profesorado_interino_andalucia.md), el personal que participe en el presente 
 procedimiento que acredite una discapacidad igual o superior al 33% podrá marcar la 
 petición de eliminación de las provincias consignadas y señalar las peticiones de centros 
 y localidades.
@@ -484,8 +502,8 @@ Séptima. Valoración de méritos.
 La valoración de los méritos del personal solicitante la realizará la Comisión que 
 figura en el Anexo V, designada al efecto por la persona titular de la Dirección General 
 del Profesorado y Gestión de Recursos Humanos, conforme a lo establecido en la 
-Sección 3.ª del Capítulo II del Título Preliminar de la Ley 40/2015, de 1 de octubre, así 
-como a lo establecido en la sección 1.ª del Capítulo II del Título IV de la Ley 9/2007, de 22 
+Sección 3.ª del Capítulo II del Título Preliminar de la [Ley 40/2015](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md), de 1 de octubre, así 
+como a lo establecido en la sección 1.ª del Capítulo II del Título IV de la [Ley 9/2007](../01_marco_normativo_general_y_organico/L9_2007_administracion_junta_andalucia_laja.md), de 22 
 de octubre. 
 Cada una de las organizaciones sindicales que ostente representación en el ámbito 
 de la Mesa Sectorial de Educación podrá nombrar una persona que la represente ante la 
@@ -549,7 +567,7 @@ asignadas al personal participante. Dicho centro directivo aprobará por resoluc
 definitivas del personal admitido y excluido, que se publicará en el portal web de la citada 
 Consejería. Dicha resolución incluirá los recursos que se podrán interponer contra ella.
 Décima. Declaración de urgencia.
-En virtud de lo establecido en el artículo 33 de la Ley 39/2015, de 1 de octubre, de 
+En virtud de lo establecido en el artículo 33 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, de 
 Procedimiento Administrativo Común de las Administraciones Públicas, en atención a 
 la necesidad perentoria de cobertura de los puestos de trabajo objeto de la presente 
 convocatoria, este procedimiento se tramitará con carácter de urgencia.
@@ -566,13 +584,13 @@ Contra la presente resolución, que pone fin a la vía administrativa, podrá in
 potestativamente, recurso de reposición, ante la persona titular de la Dirección General 
 del Profesorado y Gestión de Recursos Humanos, en el plazo de un mes a contar desde 
 el día siguiente al de su publicación, de conformidad con los artículos 112.1, 123 y 124 
-de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las 
-Administraciones Públicas, y en el artículo 115.2 de la Ley 9/2007, de 22 de octubre, de 
+de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Administrativo Común de las 
+Administraciones Públicas, y en el artículo 115.2 de la [Ley 9/2007](../01_marco_normativo_general_y_organico/L9_2007_administracion_junta_andalucia_laja.md), de 22 de octubre, de 
 la Administración de la Junta de Andalucía, o alternativa y directamente, en el plazo de 
 dos meses a contar desde el día siguiente al de su publicación, recurso contencioso-
 administrativo ante el órgano jurisdiccional competente, conforme a lo establecido 
 en los artículos 8.2.a), 14 y 46.1 de la Ley 29/1998, de 13 de julio, reguladora de la 
-Jurisdicción Contencioso-Administrativa, y 115.2 de la Ley 9/2007, de 22 de octubre, de la 
+Jurisdicción Contencioso-Administrativa, y 115.2 de la [Ley 9/2007](../01_marco_normativo_general_y_organico/L9_2007_administracion_junta_andalucia_laja.md), de 22 de octubre, de la 
 Administración de la Junta de Andalucía.
 Sevilla, 19 de enero de 2026.- El Director General, Carlos Muñoz Morales.
 
@@ -785,7 +803,7 @@ cuántos puntos se le otorga a cada una; para lo cuál es imprescindible adjunta
 oficiales.
 2.1. Expediente académico del título alegado 
 como requisito de acuerdo con el Anexo de 
-titulaciones de la Orden de 10 de junio de 2020.
+titulaciones de la [Orden de 10 de junio de 2020](./O10_6_2020_bolsas_trabajo_profesorado_interino_andalucia.md).
 Se valorará exclusivamente la nota media del 
 expediente académico del título exigido con 
 carácter general para ingreso en el cuerpo 

@@ -27,13 +27,25 @@ tags:
 - enriquecimiento_educativo
 - atencion_a_la_diversidad
 - comunidad_de_madrid
+fundamentos_derecho:
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-mad-d-52-2021
+- norma_id: norm-mad-l1-1983-gobierno-administracion-comunidad-madrid
+- norma_id: norm-mad-l1-2022
+- norma_id: norm-mad-d149-2000
+- norma_id: norm-mad-d23-2023
+- norma_id: norm-mad-o2642-2020
+- norma_id: norm-es-l-39-2015
+- norma_id: norm-es-l-40-2015
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
 ---
-
 # Decreto 243/2023, de 4 de octubre, del Consejo de Gobierno, por el que se crea el Centro Regional de Enriquecimiento Educativo para el alumnado con Altas Capacidades Intelectuales de la Comunidad de Madrid y se establece su régimen jurídico y estructura
 
 ## Preámbulo
 
-El artículo 4.3 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, dispone que,
+El artículo 4.3 de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, dispone que,
 sin perjuicio de que a lo largo de la enseñanza básica se garantice una educación común
 para todo el alumnado, se adoptará la educación inclusiva como principio fundamental, con
 el fin de atender a la diversidad de las necesidades de todo el alumnado, tanto del que tiene
@@ -43,7 +55,7 @@ Asimismo, en el citado texto legal se establece que corresponde a las administra
 educativas asegurar los recursos necesarios para que los alumnos que requieran una aten-
 ción educativa diferente a la ordinaria por presentar altas capacidades intelectuales puedan
 alcanzar el máximo desarrollo posible de sus capacidades personales.
-Por su parte, la Ley 1/2022, de 10 de febrero, Maestra de Libertad de Elección Educa-
+Por su parte, la [Ley 1/2022](../01_marco_normativo_general_y_organico/L1_2022_maestra_libertad_eleccion_educativa_madrid.md), de 10 de febrero, Maestra de Libertad de Elección Educa-
 tiva de la Comunidad de Madrid, reconoce, entre los principios generales el reconocimien-
 to del esfuerzo y la excelencia académica de los alumnos con atención a las especiales ca-
 racterísticas de cada edad y etapa educativa.
@@ -71,7 +83,7 @@ la gestión independiente del presupuesto asignado al mismo, así como una organ
 más eficiente de los recursos personales que coordinan el citado programa, aspectos que re-
 dundarán en la calidad del contenido educativo y en la mejora continua de la atención edu-
 cativa a estos alumnos.
-El Decreto 149/2000, de 22 de junio, por el que se regula el régimen jurídico de la auto-
+El [Decreto 149/2000](../02_gestion_y_administracion_centros/D149_2000_regimen_juridico_autonomia_gestion_centros_docentes_madrid.md), de 22 de junio, por el que se regula el régimen jurídico de la auto-
 nomía de gestión de los centros docentes públicos no universitarios, establece en su artícu-
 lo primero la posibilidad de que la administración educativa disponga la creación de otros
 centros distintos a aquellos en los que se imparten las enseñanzas reconocidas en la Ley
@@ -79,8 +91,8 @@ centros distintos a aquellos en los que se imparten las enseñanzas reconocidas 
 nificar los recursos personales y materiales asignados al PEAC, con una organización es-
 pecífica y autonomía de gestión.
 El contenido de este decreto se adecua a los principios de buena regulación estableci-
-dos en el artículo 129 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo
-Común de las Administraciones Públicas, y en el artículo 2 del Decreto 52/2021, de 24 de
+dos en el artículo 129 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Administrativo
+Común de las Administraciones Públicas, y en el artículo 2 del [Decreto 52/2021](../01_marco_normativo_general_y_organico/D52_2021_procedimiento_elaboracion_disposiciones_normativas_madrid.md), de 24 de
 
 VIERNES 6 DE OCTUBRE DE 2023
 BOCM
@@ -99,7 +111,7 @@ ganizativa, genera un marco normativo estable, predecible, integrado, claro y de
 bre, y se incardina, de manera coherente, en el ordenamiento jurídico.
 También cumple con el principio de transparencia, conforme a lo establecido en la Ley
 10/2019, de 10 de abril, de Transparencia y de Participación de la Comunidad de Madrid,
-y en el artículo 9 del Decreto 52/2021 de 24 de marzo, mediante la realización de los trámi-
+y en el artículo 9 del [Decreto 52/2021](../01_marco_normativo_general_y_organico/D52_2021_procedimiento_elaboracion_disposiciones_normativas_madrid.md) de 24 de marzo, mediante la realización de los trámi-
 tes de audiencia e información pública.
 Asimismo, no impone cargas administrativas innecesarias o accesorias, ni modifica las
 existentes, en aplicación del principio de eficiencia.
@@ -112,7 +124,7 @@ sarrollo legislativo y ejecución de la enseñanza en toda su extensión, nivele
 dalidades y especialidades, sin perjuicio de las competencias que en materia educativa co-
 rresponden al Estado al amparo del artículo 149.1.30.a de la Constitución Española.
 El Consejo de Gobierno de la Comunidad de Madrid es competente para dictar el pre-
-sente decreto, de acuerdo con lo establecido en el artículo 21.g) de la Ley 1/1983, de 13 de
+sente decreto, de acuerdo con lo establecido en el artículo 21.g) de la [Ley 1/1983](../01_marco_normativo_general_y_organico/L1_1983_gobierno_administracion_comunidad_madrid.md), de 13 de
 diciembre, de Gobierno y Administración de la Comunidad de Madrid.
 En virtud de cuanto antecede, a propuesta del Consejero de Educación, Ciencia y Uni-
 versidades, de acuerdo con la Comisión Jurídica Asesora de la Comunidad de Madrid y pre-
@@ -135,7 +147,7 @@ tión de los centros docentes públicos no universitarios.
 En el CREACIM se desarrollarán actuaciones relacionadas con la organización, la
 coordinación e impartición de sesiones formativas del Programa de Enriquecimiento edu-
 cativo para el alumnado con Altas Capacidades (PEAC), programa institucional que se de-
-sarrolla al amparo del artículo 16 del Decreto 23/2023, de 22 de marzo, del Consejo de Go-
+sarrolla al amparo del artículo 16 del [Decreto 23/2023](./D23_2023_atencion_diferencias_individuales_alumnos_madrid.md), de 22 de marzo, del Consejo de Go-
 bierno, por el que se regula la atención educativa a las diferencias individuales del
 alumnado en la Comunidad de Madrid. Está destinado al alumnado con alta capacidad in-
 telectual escolarizado en centros docentes públicos y privados de la Comunidad de Madrid,
@@ -152,7 +164,7 @@ Finalidad del CREACIM
 El CREACIM tendrá como finalidad la planificación, gestión, organización e im-
 plementación del Programa institucional de Enriquecimiento educativo para alumnado con
 Altas Capacidades de la Comunidad de Madrid, en adelante PEAC, al objeto de dar cum-
-plimiento al artículo 16.2. del Decreto 23/2023, de 22 de marzo.
+plimiento al artículo 16.2. del [Decreto 23/2023](./D23_2023_atencion_diferencias_individuales_alumnos_madrid.md), de 22 de marzo.
 2.
 El citado programa desarrolla sesiones formativas para el alumnado y amplía el
 espacio educativo con la organización de jornadas formativas para familias y reuniones in-
@@ -223,7 +235,7 @@ Recursos personales del CREACIM
 1.
 Al CREACIM se adscribirá personal docente de la Comunidad de Madrid que reú-
 na la condición de ser funcionarios de carrera de alguno de los cuerpos docentes no univer-
-sitarios a que se refiere la Ley Orgánica 2/2006, de 3 de mayo, pertenecientes al grupo A.
+sitarios a que se refiere la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, pertenecientes al grupo A.
 La adscripción del personal se llevará a cabo de acuerdo con los sistemas de provisión re-
 glamentarios dispuestos en el artículo 36 del Real Decreto 364/1995, de 10 de marzo, por
 el que se aprueba el Reglamento General de Ingreso del Personal al servicio de la Adminis-
@@ -348,7 +360,7 @@ Educación podrá suscribir convenios con entidades públicas o privadas sin án
 que persigan entre sus fines estatutarios un interés común con la administración autonómi-
 ca en materia de atención al alumnado con altas capacidades intelectuales.
 2.
-Estos convenios se ajustarán al contenido exigido en el artículo 49 de la Ley 40/2015,
+Estos convenios se ajustarán al contenido exigido en el artículo 49 de la [Ley 40/2015](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md),
 de 1 de octubre de Régimen Jurídico del Sector Público.
 3.
 En caso de suscripción de convenio con una entidad colaboradora, las sesiones
@@ -358,7 +370,7 @@ tanto, sin ninguna vinculación con la Comunidad de Madrid.
 #### Artículo 11
 Autonomía de gestión
 1.
-El CREACIM, constituido como centro docente, estará sometido al Decreto 149/2000,
+El CREACIM, constituido como centro docente, estará sometido al [Decreto 149/2000](../02_gestion_y_administracion_centros/D149_2000_regimen_juridico_autonomia_gestion_centros_docentes_madrid.md),
 de 22 de junio, por el que se regula la autonomía de gestión de los centros docentes públicos no
 universitarios, por lo que goza de la autonomía de gestión de los centros docentes públicos no
 universitarios.
@@ -374,7 +386,7 @@ BOCM
 #### Artículo 12
 Colaboración con el Equipo de Orientación Educativa y Psicopedagógica específico
 de altas capacidades
-La colaboración a la que se refiere el artículo 5.2 de la Orden 2642/2020, de 16 de oc-
+La colaboración a la que se refiere el artículo 5.2 de la [Orden 2642/2020](./O2642_2020_creacion_equipos_orientacion_educativa_madrid.md), de 16 de oc-
 tubre, de la Consejería de Educación y Juventud, por la que se crea el Equipo de Orienta-
 ción Educativa y Psicopedagógica Específico de Altas Capacidades, se establecerá, a par-
 tir de la publicación de este decreto, con el personal adscrito al CREACIM.

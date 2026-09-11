@@ -34,8 +34,21 @@ relaciones:
   - norma_id: norm-mad-d-29-2013
   desarrolla:
   - norma_id: norm-es-lo-2-2006
+fundamentos_derecho:
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-mad-d-52-2021
+- norma_id: norm-mad-l12-1999-creacion-consejo-escolar-comunidad-madrid
+- norma_id: norm-mad-l1-1983-gobierno-administracion-comunidad-madrid
+- norma_id: norm-mad-d-61-2022
+- norma_id: norm-mad-d-126-2014
+- norma_id: norm-es-l-39-2015
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-lo-3-2018
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2014-2222
+- norma_id: norm-es-rd-157-2022
+- norma_id: norm-es-2010-12201
 ---
-
 # Orden 130/2023, de 23 de enero, de la Viceconsejería de Política Educativa, por la que se regulan la organización, el funcionamiento y la evaluación en la etapa de Educación Primaria en la Comunidad de Madrid
 
 ## Preámbulo
@@ -47,12 +60,12 @@ ORDEN 130/2023, de 23 de enero, de la Vicepresidencia, Consejería de Educa-
 ción y Universidades, por la que se regulan aspectos de organización y funcio-
 namiento, evaluación y autonomía pedagógica en la etapa de Educación Prima-
 ria en la Comunidad de Madrid.
-La Ley Orgánica 2/2006, de 3 de mayo, de Educación, define la Educación Primaria
+La [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, define la Educación Primaria
 como una etapa educativa que comprende seis cursos académicos que se cursarán ordinaria-
 mente entre los seis y los doce años de edad. En su artículo 18.1 establece que esta etapa com-
 prende tres ciclos de dos años académicos cada uno y dispone una organización en áreas de
 carácter global e integrador, orientadas al desarrollo de las capacidades del alumnado.
-El Real Decreto 157/2022, de 1 de marzo, por el que se establecen la ordenación y las
+El [Real Decreto 157/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD157_2022_establecen_ordenacion_ensenanzas_minimas_educacion_primaria.md), de 1 de marzo, por el que se establecen la ordenación y las
 enseñanzas mínimas de la Educación Primaria, determina los aspectos básicos del currícu-
 lo e incluye otras disposiciones esenciales referidas a la ordenación de la etapa, tales como
 principios generales y pedagógicos de carácter básico, horario escolar que corresponde a las
@@ -60,7 +73,7 @@ enseñanzas mínimas de las diferentes áreas, cuestiones sobre tutoría y orien
 de la evaluación, criterios a considerar en la promoción del alumnado y atención a las dife-
 rencias individuales, entre otras.
 En desarrollo del real decreto anteriormente mencionado, la Comunidad de Madrid
-aprobó el Decreto 61/2022, de 13 de julio, del Consejo de Gobierno, por el que se estable-
+aprobó el [Decreto 61/2022](./D61_2022_ordenacion_curriculo_educacion_primaria_madrid.md), de 13 de julio, del Consejo de Gobierno, por el que se estable-
 ce para la Comunidad de Madrid la ordenación y el currículo de la etapa de Educación Pri-
 maria. En él se disponen, además del currículo, aspectos de organización, de atención a las
 diferencias individuales, evaluación y autonomía pedagógica de los centros, y se habilita al
@@ -76,8 +89,8 @@ gular las características y procedimientos de la evaluación y los documentos a
 dos y disponer la autonomía pedagógica de los centros en la organización de las enseñanzas
 de Educación Primaria.
 La presente orden se adecúa a los principios de buena regulación, de acuerdo con lo pre-
-visto en el artículo 129 de la Ley 39/2015 de 1 de octubre, del Procedimiento Administrativo
-Común de las Administraciones Públicas, y en el artículo 2 del Decreto 52/2021, de 24 de
+visto en el artículo 129 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) de 1 de octubre, del Procedimiento Administrativo
+Común de las Administraciones Públicas, y en el artículo 2 del [Decreto 52/2021](../01_marco_normativo_general_y_organico/D52_2021_procedimiento_elaboracion_disposiciones_normativas_madrid.md), de 24 de
 marzo, del Consejo de Gobierno, por el que se regula y simplifica el procedimiento de elabo-
 ración de las disposiciones normativas de carácter general de la Comunidad de Madrid.
 Conforme a los principios de necesidad y eficacia, esta norma responde al interés ge-
@@ -89,18 +102,18 @@ el currículo de la etapa de Educación Primaria y porque, además, no impone ob
 a los destinatarios, adecuándose a la norma de rango superior. Igualmente, se garantiza el
 principio de seguridad jurídica, pues respeta el contenido de la normativa básica y contri-
 buye a lograr un ordenamiento jurídico sólido y coherente en la regulación de las enseñan-
-zas de Educación Primaria en desarrollo del Decreto 61/2022, de 13 de julio. Por último, no
+zas de Educación Primaria en desarrollo del [Decreto 61/2022](./D61_2022_ordenacion_curriculo_educacion_primaria_madrid.md), de 13 de julio. Por último, no
 impone cargas administrativas innecesarias o accesorias, ni modifica las existentes, en apli-
 cación del principio de eficiencia.
 También cumple esta norma con el principio de transparencia, conforme a lo estableci-
 do en la Ley 10/2019, de 10 de abril, de Transparencia y de Participación de la Comunidad de
-Madrid, y en el artículo 9 del Decreto 52/2021 de 24 de marzo, mediante la realización del
+Madrid, y en el artículo 9 del [Decreto 52/2021](../01_marco_normativo_general_y_organico/D52_2021_procedimiento_elaboracion_disposiciones_normativas_madrid.md) de 24 de marzo, mediante la realización del
 
 BOCM
 trámite de audiencia e información públicas y la publicación de la orden y de los documentos
 de su proceso de elaboración en el portal de transparencia de la Comunidad de Madrid.
 En el proceso de elaboración de esta orden ha emitido dictamen el Consejo Escolar de
-la Comunidad de Madrid, de acuerdo con el artículo 2.1 de la Ley 12/1999, de 29 de abril,
+la Comunidad de Madrid, de acuerdo con el artículo 2.1 de la [Ley 12/1999](../01_marco_normativo_general_y_organico/L12_1999_creacion_consejo_escolar_comunidad_madrid.md), de 29 de abril,
 de creación del Consejo Escolar de la Comunidad de Madrid, y se han recabado los infor-
 mes en materia de impacto por razón de género, impacto por razón de orientación sexual e
 identidad y expresión de género e impacto en materia de familia, infancia y adolescencia,
@@ -108,8 +121,8 @@ así como el de la Abogacía General, de conformidad con lo dispuesto en el art�
 de la Ley 3/1999, de 30 de marzo, de Ordenación de los Servicios Jurídicos de la Comuni-
 dad de Madrid.
 Por lo que antecede, en virtud de las competencias que atribuye el artículo 41.d) de la
-Ley 1/1983, de 13 de diciembre, del Gobierno y Administración de la Comunidad de Madrid,
-y en cumplimiento de lo establecido en la disposición final segunda del Decreto 61/2022,
+[Ley 1/1983](../01_marco_normativo_general_y_organico/L1_1983_gobierno_administracion_comunidad_madrid.md), de 13 de diciembre, del Gobierno y Administración de la Comunidad de Madrid,
+y en cumplimiento de lo establecido en la disposición final segunda del [Decreto 61/2022](./D61_2022_ordenacion_curriculo_educacion_primaria_madrid.md),
 de 13 de julio, y en el Decreto 236/2021, de 17 de noviembre, del Consejo de Gobierno, por el
 que se establece la estructura orgánica de la Consejería de Educación, Universidades, Cien-
 cia y Portavocía, en relación con el Decreto 38/2022, de 15 de junio, del Consejo de Gobier-
@@ -143,7 +156,7 @@ démicos cada uno.
 La intervención educativa en esta etapa buscará desarrollar y asentar las bases que
 contribuyan a una adecuada adquisición de las competencias, según lo dispuesto en el
 
-## Anexo I. del Decreto 61/2022, de 13 de julio, del Consejo de Gobierno, por el que se esta-
+## Anexo I. del [Decreto 61/2022](./D61_2022_ordenacion_curriculo_educacion_primaria_madrid.md), de 13 de julio, del Consejo de Gobierno, por el que se esta-
 
 blece para la Comunidad de Madrid la ordenación y el currículo de la etapa de Educación
 Primaria.
@@ -252,7 +265,7 @@ la Ley 2/2006, de 3 de mayo, de Educación, se encomienda al profesorado.
 2.
 A los efectos de esta orden, las programaciones didácticas son los documentos ins-
 titucionales de planificación de las enseñanzas en los que los centros concretarán el currícu-
-lo establecido en el Decreto 61/2022, de 13 de julio.
+lo establecido en el [Decreto 61/2022](./D61_2022_ordenacion_curriculo_educacion_primaria_madrid.md), de 13 de julio.
 3.
 El conjunto de programaciones didácticas de las áreas de un ciclo conformará la
 programación didáctica de ese ciclo.
@@ -311,7 +324,7 @@ creto 61/2022, de 13 de julio.
 Sin perjuicio de lo dispuesto en el apartado 1 y de conformidad con el proce-
 dimiento regulado en el artículo 32, los centros podrán modificar la dedicación horaria de
 las áreas respetando, en todo caso, la dedicación horaria mínima establecida en el anexo IV
-del Decreto 61/2022, de 13 de julio.
+del [Decreto 61/2022](./D61_2022_ordenacion_curriculo_educacion_primaria_madrid.md), de 13 de julio.
 3.
 Las modificaciones horarias que, en su caso, se lleven a la práctica por parte de
 los centros como resultado de la implantación de programas institucionales bilingües, de la
@@ -509,7 +522,7 @@ sean operativos en la Comunidad de Madrid y expedidos por prestadores incluidos 
 firma electrónica que la Comunidad de Madrid considere valido en los términos y condi-
 ciones que se establezcan específicamente para cada tipo de firma.
 7.
-Al ser los solicitantes sujetos del artículo 14.2 de la Ley 39/2015, de 1 de octubre,
+Al ser los solicitantes sujetos del artículo 14.2 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre,
 obligados a relacionarse electrónicamente con la Administración, la notificación se realizará
 a través de medios electrónicos de acuerdo con lo establecido en el artículo 43 del mismo
 texto legal. A tal efecto, el solicitante está obligado a estar dado de alta en el servicio de Notifi-
@@ -592,7 +605,7 @@ sean operativos en la Comunidad de Madrid y expedidos por prestadores incluidos 
 firma electrónica que la Comunidad de Madrid considere válido en los términos y condi-
 ciones que se establezcan específicamente para cada tipo de firma.
 4.
-Al ser los solicitantes sujetos del artículo 14.2 de la Ley 39/2015, de 1 de octubre,
+Al ser los solicitantes sujetos del artículo 14.2 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre,
 obligados a relacionarse electrónicamente con la Administración, la notificación se realizará
 a través de medios electrónicos de acuerdo con lo establecido en el artículo 43 del mismo tex-
 to legal. A tal efecto, el solicitante está obligado a estar dado de alta en el servicio de Notifi-
@@ -686,12 +699,12 @@ atención al alumnado con necesidades educativas especiales.
 La evaluación del aprendizaje del alumnado será global, continua y formativa, y
 tendrá en cuenta el grado de desarrollo de las competencias específicas de cada área y la
 progresiva adquisición de las competencias clave de acuerdo con el perfil de salida estable-
-cido en el anexo I del Decreto 61/2022, de 13 de julio.
+cido en el anexo I del [Decreto 61/2022](./D61_2022_ordenacion_curriculo_educacion_primaria_madrid.md), de 13 de julio.
 
 BOCM
 2.
 Se tomarán como referentes de evaluación los criterios de evaluación dispuestos
-en el Decreto 61/2022, de 13 de julio, para cada ciclo en cada una de las áreas con la fina-
+en el [Decreto 61/2022](./D61_2022_ordenacion_curriculo_educacion_primaria_madrid.md), de 13 de julio, para cada ciclo en cada una de las áreas con la fina-
 lidad de garantizar una evaluación objetiva.
 3.
 Se utilizarán técnicas e instrumentos de evaluación apropiados y proporcionados,
@@ -732,7 +745,7 @@ es el establecido en el anexo V de esta orden.
 Al finalizar el tercer ciclo, a los mismos efectos que en el apartado anterior, y con
 el fin de garantizar la continuidad del proceso de formación del alumnado, se emitirá un in-
 forme final en el que se observarán los descriptores operativos de cada una de las competen-
-cias clave, según el perfil de salida dispuesto en el anexo I del Decreto 61/2022, de 13 de ju-
+cias clave, según el perfil de salida dispuesto en el anexo I del [Decreto 61/2022](./D61_2022_ordenacion_curriculo_educacion_primaria_madrid.md), de 13 de ju-
 lio, al objeto de comprobar el grado de desarrollo esperado al término de la Educación
 Primaria en relación con las citadas competencias. Este informe será cumplimentado, asi-
 mismo, por el profesor tutor con la colaboración del resto de profesores que imparten docen-
@@ -897,7 +910,7 @@ apellidos del firmante, así como la referencia a su cargo o atribución docente
 3.
 Los documentos de evaluación podrán ser emitidos en soporte electrónico,
 siempre que queden garantizadas su autenticidad, integridad y conservación, y se cum-
-plan las garantías y los requisitos establecidos por la Ley Orgánica 3/2018, de 5 de di-
+plan las garantías y los requisitos establecidos por la [Ley Orgánica 3/2018](../../../estatal/02_gestion_y_administracion_centros/LO3_2018_proteccion_datos_personales_garantia_derechos_digitales.md), de 5 de di-
 ciembre, de Protección de Datos Personales y garantía de los derechos digitales y su nor-
 mativa de desarrollo.
 4.
@@ -1087,7 +1100,7 @@ familias o tutores legales, y para el conjunto de la comunidad educativa.
 de Educación Primaria
 1.
 En el marco del currículo, la organización de las enseñanzas y el horario lectivo
-semanal que se regulan en el Decreto 61/2022, de 13 de julio, los centros docentes que im-
+semanal que se regulan en el [Decreto 61/2022](./D61_2022_ordenacion_curriculo_educacion_primaria_madrid.md), de 13 de julio, los centros docentes que im-
 partan la etapa de Educación Primaria en la Comunidad de Madrid dispondrán de autono-
 mía pedagógica, de organización y de gestión para adoptar, en concreto, las siguientes de-
 cisiones:
@@ -1102,7 +1115,7 @@ una de las áreas.
 c)
 Decidir su oferta formativa con la incorporación a los diferentes cursos de las
 áreas de “Tecnología y Robótica” y/o “Segunda Lengua Extranjera”, en los térmi-
-nos establecidos en el artículo 28 del Decreto 61/2022, de 13 de julio, con los re-
+nos establecidos en el artículo 28 del [Decreto 61/2022](./D61_2022_ordenacion_curriculo_educacion_primaria_madrid.md), de 13 de julio, con los re-
 cursos disponibles y siempre que se respete el horario mínimo del anexo IV del ci-
 tado decreto. La decisión de incorporar una o ambas áreas a la oferta formativa del
 centro conllevará la obligación de impartir la totalidad del currículo prescriptivo
@@ -1114,7 +1127,7 @@ e)
 Impartir áreas o bloques de contenido, en el caso del área de Educación Artística,
 en el idioma del área de “Lengua Extranjera: Inglés” o de “Segunda Lengua Ex-
 tranjera”, a excepción de “Lengua Castellana y Literatura” y “Matemáticas”, sin
-modificación alguna del currículo establecido en el Decreto 61/2022, de 13 de ju-
+modificación alguna del currículo establecido en el [Decreto 61/2022](./D61_2022_ordenacion_curriculo_educacion_primaria_madrid.md), de 13 de ju-
 lio, y según los requisitos en él establecidos.
 f)
 Diseñar e implementar métodos pedagógicos y didácticos propios.
@@ -1125,14 +1138,14 @@ presente orden.
 Sin perjuicio de lo dispuesto en el apartado anterior, los centros podrán modificar
 el horario lectivo de las áreas, siempre que se respete el horario mínimo establecido en el
 
-## Anexo IV. del Decreto 61/2022, de 13 de julio, y el horario mínimo semanal establecido en
+## Anexo IV. del [Decreto 61/2022](./D61_2022_ordenacion_curriculo_educacion_primaria_madrid.md), de 13 de julio, y el horario mínimo semanal establecido en
 
 el artículo 7.4 de la presente orden. La citada modificación horaria requerirá autorización
 de la dirección general competente en materia de ordenación académica de Educación Pri-
 maria y seguirá el procedimiento establecido en el artículo 32 de la presente orden.
 3.
 La planificación y programación de la atención educativa alternativa a las ense-
-ñanzas de religión, a la que se refiere el artículo 8.5 del Decreto 61/2022, de 13 de julio, se
+ñanzas de religión, a la que se refiere el artículo 8.5 del [Decreto 61/2022](./D61_2022_ordenacion_curriculo_educacion_primaria_madrid.md), de 13 de julio, se
 incluirá en el proyecto educativo de cada centro.
 
 BOCM
@@ -1140,8 +1153,8 @@ BOCM
 Corresponde a los centros docentes, en virtud de su autonomía pedagógica, decidir
 los materiales educativos y, en su caso, los libros de texto que hayan de utilizarse en el pro-
 ceso de enseñanza y aprendizaje. En todo caso, esa decisión estará sujeta al hecho de que se
-adapten al currículo normativamente dispuesto en el Decreto 61/2022, de 13 de julio, de
-acuerdo con lo establecido en la disposición adicional cuarta de la Ley Orgánica 2/2006,
+adapten al currículo normativamente dispuesto en el [Decreto 61/2022](./D61_2022_ordenacion_curriculo_educacion_primaria_madrid.md), de 13 de julio, de
+acuerdo con lo establecido en la disposición adicional cuarta de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md),
 de 3 de mayo.
 5.
 No podrá acordarse la sustitución de libros de texto en un curso escolar determi-
@@ -1157,7 +1170,7 @@ al comienzo de cada curso escolar.
 
 1.
 Los centros podrán diseñar e implantar proyectos integrados en los términos indi-
-cados en el artículo 13 del Decreto 61/2022, de 13 de julio, y en esta orden.
+cados en el artículo 13 del [Decreto 61/2022](./D61_2022_ordenacion_curriculo_educacion_primaria_madrid.md), de 13 de julio, y en esta orden.
 2.
 En uso de su autonomía, los centros podrán acordar al inicio de cada curso esco-
 lar el diseño e implantación de un proyecto integrado, o de varios, siempre que se respeten
@@ -1208,7 +1221,7 @@ rario de las áreas, de tal manera que se incremente la dedicación horaria de a
 y se reduzca la de otras. Los requisitos que se deberán cumplir son los siguientes:
 a)
 Ofertar para cada uno de los cursos de la etapa las áreas establecidas en el anexo III
-del Decreto 61/2022, de 13 de julio.
+del [Decreto 61/2022](./D61_2022_ordenacion_curriculo_educacion_primaria_madrid.md), de 13 de julio.
 
 BOCM
 b)
@@ -1221,7 +1234,7 @@ Asegurar un horario lectivo semanal mínimo de 22,5 horas en cada uno de los sei
 cursos que conforman la etapa.
 d)
 Impartir íntegramente el currículo prescriptivo de cada una de las áreas ofertadas
-por el centro, fijado en el Decreto 61/2022, de 13 de julio.
+por el centro, fijado en el [Decreto 61/2022](./D61_2022_ordenacion_curriculo_educacion_primaria_madrid.md), de 13 de julio.
 4.
 Las modificaciones de asignación horaria que se soliciten no podrán suponer, en
 ningún caso en los centros sostenidos con fondos públicos, imposición de aportaciones a las
@@ -1241,7 +1254,7 @@ sean operativos en la Comunidad de Madrid y expedidos por prestadores incluidos 
 firma electrónica que la Comunidad de Madrid considere valido en los términos y condi-
 ciones que se establezcan específicamente para cada tipo de firma.
 7.
-Al ser los solicitantes sujetos del artículo 14.2 de la Ley 39/2015, de 1 de octubre,
+Al ser los solicitantes sujetos del artículo 14.2 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre,
 obligados a relacionarse electrónicamente con la Administración, la notificación se realiza-
 rá a través de medios electrónicos de acuerdo con lo establecido en el artículo 43 del mis-
 mo texto legal. A tal efecto, el solicitante está obligado a estar dado de alta en el servicio
@@ -1273,7 +1286,7 @@ y tratamiento de datos personales del alumnado
 La obtención y tratamiento de los datos personales del alumnado y, en particular, los
 contenidos en los documentos oficiales de evaluación, su cesión de unos centros a otros y
 la adopción de medidas que garanticen la seguridad y confidencialidad de dichos datos, es-
-tará a lo dispuesto en la disposición adicional vigesimotercera de la Ley Orgánica 2/2006,
+tará a lo dispuesto en la disposición adicional vigesimotercera de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md),
 de 3 de mayo, así como en la Ley 3/2018, de 5 de diciembre, de Protección de Datos Per-
 sonales y garantía de los derechos digitales y disposiciones normativas que se dicten en su
 desarrollo.
@@ -1514,8 +1527,8 @@ Puede ejercitar, si lo desea, los derechos de acceso, rectificación y supresió
 de sus datos personales, oponerse al mismo, solicitar en su caso la portabilidad de sus datos, así como a no ser objeto de una decisión
 individual basada únicamente en el tratamiento automatizado, incluida la elaboración de perfiles.
 -
-Según la Ley 39/2015, el RGPD y la Ley Orgánica 3/2018, puede ejercer sus derechos por Registro Electrónico o Registro Presencial
-o en los lugares y formas previstos en el artículo 16.4 de la Ley 39/2015, preferentemente mediante el formulario de solicitud "Ejercicio
+Según la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), el RGPD y la [Ley Orgánica 3/2018](../../../estatal/02_gestion_y_administracion_centros/LO3_2018_proteccion_datos_personales_garantia_derechos_digitales.md), puede ejercer sus derechos por Registro Electrónico o Registro Presencial
+o en los lugares y formas previstos en el artículo 16.4 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), preferentemente mediante el formulario de solicitud "Ejercicio
 de derechos en materia de protección de datos personales".
 5. Tratamientos que incluyen decisiones automatizadas, incluida la elaboración de perfiles, con efectos jurídicos o relevantes.
 -
@@ -1699,8 +1712,8 @@ conferidos al responsable del tratamiento.
 - Puede ejercitar, si lo desea, los derechos de acceso, rectificación y supresión de datos, así como solicitar que se limite el tratamiento
 de sus datos personales, oponerse al mismo, solicitar en su caso la portabilidad de sus datos, así como a no ser objeto de una decisión
 individual basada únicamente en el tratamiento automatizado, incluida la elaboración de perfiles.
-- Según la Ley 39/2015, el RGPD y la Ley Orgánica 3/2018, puede ejercer sus derechos por Registro Electrónico o Registro Presencial
-o en los lugares y formas previstos en el artículo 16.4 de la Ley 39/2015, preferentemente mediante el formulario de solicitud "Ejercicio
+- Según la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), el RGPD y la [Ley Orgánica 3/2018](../../../estatal/02_gestion_y_administracion_centros/LO3_2018_proteccion_datos_personales_garantia_derechos_digitales.md), puede ejercer sus derechos por Registro Electrónico o Registro Presencial
+o en los lugares y formas previstos en el artículo 16.4 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), preferentemente mediante el formulario de solicitud "Ejercicio
 de derechos en materia de protección de datos personales".
 5. Tratamientos que incluyen decisiones automatizadas, incluida la elaboración de perfiles, con efectos jurídicos o relevantes.
 - No se realizan
@@ -3907,14 +3920,14 @@ En calidad de
 
 4.-Expone
 Que cumpliendo los requisitos expuestos en el artículo 32 de la Orden ______________:
-a) Ofertar para cada uno de los cursos de la etapa las áreas establecidas en el anexo III del Decreto 61/2022, de
+a) Ofertar para cada uno de los cursos de la etapa las áreas establecidas en el anexo III del [Decreto 61/2022](./D61_2022_ordenacion_curriculo_educacion_primaria_madrid.md), de
 13 de julio.
-b) Respetar el horario lectivo semanal mínimo establecido en el anexo IV del Decreto 61/2022, de 13 de julio para
+b) Respetar el horario lectivo semanal mínimo establecido en el anexo IV del [Decreto 61/2022](./D61_2022_ordenacion_curriculo_educacion_primaria_madrid.md), de 13 de julio para
 cada una de las áreas. A su vez, se respetará, en sustitución del área de “Religión”, el mismo horario para atención
 educativa al alumnado que no la curse.
 c) Asegurar un horario lectivo semanal mínimo de 22,5 horas en cada uno de los seis cursos que conforman la
 etapa.
-d) Impartir íntegramente el currículo prescriptivo de cada una de las áreas ofertadas fijado en el Decreto 61/2022,
+d) Impartir íntegramente el currículo prescriptivo de cada una de las áreas ofertadas fijado en el [Decreto 61/2022](./D61_2022_ordenacion_curriculo_educacion_primaria_madrid.md),
 de 13 de julio.
 
 Etiqueta del Registro
@@ -4014,8 +4027,8 @@ poderes públicos conferidos al responsable del tratamiento.
 - Puede ejercitar, si lo desea, los derechos de acceso, rectificación y supresión de datos, así como solicitar que se limite el
 tratamiento de sus datos personales, oponerse al mismo, solicitar en su caso la portabilidad de sus datos, así como a no ser
 objeto de una decisión individual basada únicamente en el tratamiento automatizado, incluida la elaboración de perfiles.
-- Según la Ley 39/2015, el RGPD y la Ley Orgánica 3/2018, puede ejercer sus derechos por Registro Electrónico o Registro
-Presencial o en los lugares y formas previstos en el artículo 16.4 de la Ley 39/2015, preferentemente mediante el formulario de
+- Según la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), el RGPD y la [Ley Orgánica 3/2018](../../../estatal/02_gestion_y_administracion_centros/LO3_2018_proteccion_datos_personales_garantia_derechos_digitales.md), puede ejercer sus derechos por Registro Electrónico o Registro
+Presencial o en los lugares y formas previstos en el artículo 16.4 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), preferentemente mediante el formulario de
 solicitud "Ejercicio de derechos en materia de protección de datos personales".
 5. Tratamientos que incluyen decisiones automatizadas, incluida la elaboración de perfiles, con efectos jurídicos o
 relevantes.
@@ -4069,7 +4082,7 @@ enseñanzas de la etapa en una lengua extranjera
 
 El/la alumno/a titular de este Expediente Académico de Educación Primaria ha cursado en el idioma
 _________________________ las áreas _______________________________________________________
-del currículo regulado por el Decreto 61/2022, de 13 de julio, del Consejo de Gobierno, por el que se establece
+del currículo regulado por el [Decreto 61/2022](./D61_2022_ordenacion_curriculo_educacion_primaria_madrid.md), de 13 de julio, del Consejo de Gobierno, por el que se establece
 para la Comunidad de Madrid la ordenación y el currículo de la etapa de Educación Primaria, en los cursos
 ________________________ de la etapa.
 
@@ -4091,7 +4104,7 @@ Diligencia para incluir en el acta de evaluación de los cursos de la Educación
 cursado enseñanzas en una lengua extranjera
 
 El alumnado de este grupo de _____ curso del ______ciclo de Educación Primaria ha cursado en el idioma
-____________________las áreas______________________ del currículo regulado por el Decreto 61/2022, de
+____________________las áreas______________________ del currículo regulado por el [Decreto 61/2022](./D61_2022_ordenacion_curriculo_educacion_primaria_madrid.md), de
 13 de julio, del Consejo de Gobierno, por el que se establece para la Comunidad de Madrid la ordenación y el
 currículo de la etapa de Educación Primaria.
 
@@ -4112,10 +4125,10 @@ Y UNIVERSIDADES
 Diligencia para el cierre del Expediente Académico y del Historial Académico de Educación Primaria
 
 Diligencia por la que se hace constar que el presente Expediente Académico/Historial Académico (según
-proceda), abierto en el marco del Real Decreto 126/2014, de 28 de febrero (BOE del 1 de marzo de 2014), del
+proceda), abierto en el marco del Real [Decreto 126/2014](../05_alumnado_y_servicios_escolares/D126_2014_precios_publicos_servicios_comedor_escuelas_infantiles_madrid.md), de 28 de febrero (BOE del 1 de marzo de 2014), del
 Decreto 89/2014, de 24 de julio (BOCM de 25 de julio de 2014) y de la Orden 3622/2014, de 3 de diciembre (BOCM
 de 10 de diciembre de 2014) QUEDA CERRADO por la entrada en vigor de la nueva ordenación académica de
-acuerdo con la Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la Ley Orgánica 2/2006, de 3 de
+acuerdo con la Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de
 mayo, de Educación (BOE del 30 de diciembre de 2020) y su normativa de desarrollo.
 
 ____ de___________________ de 20 ____

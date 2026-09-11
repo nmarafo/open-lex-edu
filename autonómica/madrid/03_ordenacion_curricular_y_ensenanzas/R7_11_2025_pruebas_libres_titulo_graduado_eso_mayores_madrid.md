@@ -27,8 +27,11 @@ tags:
 - adultos
 - titulacion
 - madrid
+fundamentos_derecho:
+- norma_id: norm-mad-o3944-2024-regulacion-pruebas-libres-titulo-graduado-eso-mayores-madrid
+- norma_id: norm-es-l-39-2015
+- norma_id: norm-es-lo-3-2018
 ---
-
 # Resolución de 7 de noviembre de 2025, de la Dirección General de Educación Secundaria, Formación Profesional y Régimen Especial, por la que se convocan para el año 2026 las pruebas para la obtención del título de Graduado en Educación Secundaria Obligatoria, destinadas a personas mayores de dieciocho años, en la Comunidad de Madrid
 
 ## Preámbulo
@@ -40,7 +43,7 @@ Secundaria, Formación Profesional y Régimen Especial, por la que se convocan
 para el año 2026 las pruebas para la obtención del título de Graduado en Educa-
 ción Secundaria Obligatoria, destinadas a personas mayores de dieciocho años,
 en la Comunidad de Madrid.
-La Orden 3944/2024, de 8 de septiembre, de la Consejería de Educación, Ciencia y
+La [Orden 3944/2024](./O3944_2024_regulacion_pruebas_libres_titulo_graduado_eso_mayores_madrid.md), de 8 de septiembre, de la Consejería de Educación, Ciencia y
 Universidades, por la que se regulan las pruebas para la obtención del título de Graduado
 en Educación Secundaria Obligatoria destinadas a personas mayores de dieciocho años en
 la Comunidad de Madrid, establece que la dirección general competente en materia de or-
@@ -62,7 +65,7 @@ para la obtención del título de Graduado en Educación Secundaria Obligatoria 
 te, ESO) destinadas a personas mayores de dieciocho años en la Comunidad de Madrid.
 Segundo
 Requisitos de participación
-De conformidad con lo establecido en el artículo 3 de la Orden 3944/2024, de 8 de sep-
+De conformidad con lo establecido en el artículo 3 de la [Orden 3944/2024](./O3944_2024_regulacion_pruebas_libres_titulo_graduado_eso_mayores_madrid.md), de 8 de sep-
 tiembre, de la Consejería de Educación, Ciencia y Universidades, por la que se regulan las
 pruebas para la obtención del título de Graduado en Educación Secundaria Obligatoria des-
 tinadas a personas mayores de dieciocho años en la Comunidad de Madrid, podrán partici-
@@ -144,7 +147,7 @@ acredite el cumplimiento del requisito de edad, en el caso de que el interesado 
 forma expresa a su consulta.
 3.
 Si el aspirante solicita la exención en alguna o algunas partes o ejercicios de la
-prueba, conforme a lo establecido en el artículo 23 de la Orden 3944/2024, de 8 de septiem-
+prueba, conforme a lo establecido en el artículo 23 de la [Orden 3944/2024](./O3944_2024_regulacion_pruebas_libres_titulo_graduado_eso_mayores_madrid.md), de 8 de septiem-
 bre, deberá acompañar a su solicitud la certificación académica oficial de los estudios cur-
 sados, emitido por el centro donde cursó dichos estudios o, en su caso, el historial académi-
 co de la ESO.
@@ -160,7 +163,7 @@ Aquellos aspirantes que soliciten la adaptación de las pruebas, por presentar a
 tipo de discapacidad o necesidad específica de apoyo educativo, deberán aportar la docu-
 mentación pertinente emitida por especialistas de los servicios de orientación educativa o
 profesionales sanitarios que justifique su petición. Si la solicitud de adaptación no se corres-
-ponde con alguno de los supuestos contemplados en el artículo 21 de la Orden 3944/2024,
+ponde con alguno de los supuestos contemplados en el artículo 21 de la [Orden 3944/2024](./O3944_2024_regulacion_pruebas_libres_titulo_graduado_eso_mayores_madrid.md),
 de 8 de septiembre, el aspirante deberá adjuntar un escrito en el que exponga la adaptación
 que solicita y adjuntar la documentación que justifique su necesidad.
 6.
@@ -183,7 +186,7 @@ de la Comunidad de Madrid ( www.comunidad.madrid ), en la dirección electró-
 nica: sede.comunidad.madrid. Asimismo, podrá tener lugar a través de la secreta-
 ría virtual del sistema integral de gestión educativa de la Comunidad de Madrid
 (Raíces) desde la URL https://raices.madrid.org/secretariavirtual o en los registros
-electrónicos previstos en el artículo 16.4.a) de la Ley 39/2015, de 1 de octubre, del
+electrónicos previstos en el artículo 16.4.a) de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del
 Procedimiento Administrativo Común de las Administraciones Públicas.
 El acceso a la secretaría virtual podrá hacerse con uno de los certificados electró-
 nicos reconocidos o cualificados de firma electrónica, que sean operativos en la
@@ -203,7 +206,7 @@ b)
 De forma presencial, en la secretaría de los centros que aparecen en el apartado
 tercero y en el que el interesado desee examinarse, dentro de los horarios estable-
 cidos para la atención al público, o en cualquiera de los lugares previstos en el ar-
-tículo 16.4 apartados b), c) y d) de la Ley 39/2015, de 1 de octubre. Si la solicitud
+tículo 16.4 apartados b), c) y d) de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre. Si la solicitud
 se presenta en la secretaría de uno de los centros públicos indicados en la convo-
 catoria, esta entregará al solicitante una copia fechada y sellada de la solicitud pre-
 sentada. Si la solicitud se presenta en una oficina de Correos, deberá llevarse en
@@ -218,7 +221,7 @@ teresada será excluida de su participación en las pruebas, sin perjuicio de la
 gencia de responsabilidad en que hubiese podido incurrir.
 4.
 A lo previsto en los puntos anteriores se aplicará lo establecido en el artículo 28.2
-de la Ley 39/2015, de 1 de octubre, en relación a la documentación aportada.
+de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, en relación a la documentación aportada.
 Los interesados deberán aportar al procedimiento administrativo los datos y docu-
 mentos exigidos por las Administraciones Públicas, de acuerdo con lo dispuesto
 en la normativa aplicable. Asimismo, tienen derecho a no aportar documentos que
@@ -265,16 +268,16 @@ do, el centro al que deberán acudir para realizar las pruebas.
 6.
 Contra las resoluciones definitivas de exclusión en la participación en las pruebas,
 las personas interesadas podrán interponer recurso de alzada en los términos previstos en
-los artículos 112, 115, 121 y 122 de la Ley 39/2015, de 1 de octubre, dirigido al titular de
+los artículos 112, 115, 121 y 122 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, dirigido al titular de
 la dirección del área territorial a la que esté adscrito el centro examinador en cualquiera de
-los lugares a los que se refiere el artículo 16.4 de la Ley 39/2015, de 1 de octubre. La reso-
+los lugares a los que se refiere el artículo 16.4 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre. La reso-
 lución del recurso de alzada, que será motivada, pondrá fin a la vía administrativa.
 Séptimo
 Traslado de calificaciones
 1.
 Quienes tengan superada alguna de las partes de la prueba en convocatorias ante-
 riores, podrán obtener el traslado de la calificación obtenida en la misma, conforme a las
-correspondencias establecidas en la disposición adicional primera de la Orden 3944/2024,
+correspondencias establecidas en la disposición adicional primera de la [Orden 3944/2024](./O3944_2024_regulacion_pruebas_libres_titulo_graduado_eso_mayores_madrid.md),
 de 8 de septiembre. Asimismo, quienes tengan superado algún ámbito de nivel II y lo acre-
 diten documentalmente podrán solicitar el traslado de la calificación obtenida en la parte de
 la prueba correspondiente a dicho ámbito de conocimiento.
@@ -287,7 +290,7 @@ conocimiento de nivel II de la ESO para personas adultas superados.
 Contra las resoluciones que desestimen la solicitud de traslados de calificación,
 las personas interesadas podrán interponer, en el plazo de un mes a partir de su notificación,
 recurso de alzada dirigido al titular de la dirección de área territorial correspondiente por
-cualquiera de los medios a los que se refiere el artículo 16.4 de la Ley 39/2015, de 1 de oc-
+cualquiera de los medios a los que se refiere el artículo 16.4 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de oc-
 tubre, en los términos previstos en los artículos 112, 115, 121 y 122 de la citada ley, que
 emitirá resolución motivada y pondrá fin a la vía administrativa. En caso de silencio admi-
 nistrativo, este tendrá efecto desestimatorio.
@@ -296,7 +299,7 @@ Resolución de exenciones y adaptaciones
 1.
 El director del centro examinador resolverá las solicitudes de exención de partes
 o ejercicios de las pruebas, así como las adaptaciones solicitadas que le corresponda resol-
-ver conforme al artículo 21 de la Orden 3944/2024, de 8 de septiembre, y notificará las re-
+ver conforme al artículo 21 de la [Orden 3944/2024](./O3944_2024_regulacion_pruebas_libres_titulo_graduado_eso_mayores_madrid.md), de 8 de septiembre, y notificará las re-
 soluciones adoptadas a los interesados, el 25 de febrero de 2026 a través de la secretaría vir-
 tual. En caso de silencio administrativo este se considerará desestimatorio. Asimismo,
 comunicará en la misma fecha a la Dirección General de Educación Secundaria, Formación
@@ -304,17 +307,17 @@ Profesional y Régimen Especial las adaptaciones que haya autorizado.
 2.
 Contra las resoluciones que desestimen las exenciones y adaptaciones solicitadas,
 las personas interesadas podrán interponer recurso de alzada en los términos previstos en
-los artículos 112, 115, 121 y 122 de la Ley 39/2015, de 1 de octubre, ante el titular de la di-
+los artículos 112, 115, 121 y 122 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, ante el titular de la di-
 
 BOCM-20251124-12
 BOCM
 rección del área territorial a la que esté adscrito el centro examinador en cualquiera de los
-lugares a los que se refiere el artículo 16.4 de la Ley 39/2015, de 1 de octubre. La resolu-
+lugares a los que se refiere el artículo 16.4 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre. La resolu-
 ción del recurso de alzada, que será motivada, pondrá fin a la vía administrativa. En caso
 de silencio administrativo, este tendrá efecto desestimatorio.
 3.
 En caso de que el aspirante haya solicitado una adaptación que, conforme al ar-
-tículo 21 de la Orden 3944/2024, de 8 de septiembre, corresponda resolver a la Dirección
+tículo 21 de la [Orden 3944/2024](./O3944_2024_regulacion_pruebas_libres_titulo_graduado_eso_mayores_madrid.md), de 8 de septiembre, corresponda resolver a la Dirección
 General de Educación Secundaria, Formación Profesional y Régimen Especial, el director
 del centro le trasladará la resolución adoptada el 9 de abril de 2026. En caso de silencio
 administrativo, este se considerará desestimatorio.
@@ -323,7 +326,7 @@ Contra la resolución desestimatoria adoptada por la Dirección General de Educa
 ción Secundaria, Formación Profesional y Régimen Especial, la persona interesada podrá
 interponer, en el plazo de un mes a partir de su notificación, recurso de alzada ante la Vice-
 consejería correspondiente por cualquiera de los medios a los que se refiere el artículo 16.4
-de la Ley 39/2015, de 1 de octubre, en los términos previstos en los artículos 112, 115, 121
+de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, en los términos previstos en los artículos 112, 115, 121
 y 122 de la citada ley, que emitirá resolución motivada y pondrá fin a la vía administrativa.
 En caso de silencio administrativo, este tendrá efecto desestimatorio.
 Noveno
@@ -364,7 +367,7 @@ el traslado de centro.
 2.
 Las comisiones de evaluación celebrarán un máximo de cuatro sesiones para la pre-
 paración, coordinación y evaluación de las pruebas y percibirán compensación económica
-acorde en concepto de asistencia, según lo dispuesto en el artículo 16 de la Orden 3944/2024,
+acorde en concepto de asistencia, según lo dispuesto en el artículo 16 de la [Orden 3944/2024](./O3944_2024_regulacion_pruebas_libres_titulo_graduado_eso_mayores_madrid.md),
 de 8 de septiembre. Estas comisiones de evaluación quedan clasificadas en la categoría ter-
 cera de entre las previstas en el artículo 30 del Real Decreto 462/2002, de 24 de mayo, so-
 bre indemnizaciones por razón del servicio.
@@ -429,9 +432,9 @@ las calificaciones o notas finales.
 4.
 Si la comisión de evaluación desestimara la reclamación, ratificando la califica-
 ción, el interesado podrá interponer recurso de alzada en los términos previstos en los artícu-
-los 112, 115, 121 y 122 de la Ley 39/2015, de 1 de octubre, en el plazo de un mes desde la
+los 112, 115, 121 y 122 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, en el plazo de un mes desde la
 notificación de las calificaciones obtenidas, ante la dirección de área territorial correspon-
-diente o en cualquiera de los lugares a los que se refiere el artículo 16.4 de la Ley 39/2015,
+diente o en cualquiera de los lugares a los que se refiere el artículo 16.4 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md),
 de 1 de octubre. La dirección de área territorial correspondiente emitirá resolución motiva-
 da que pondrá fin a la vía administrativa, para lo que podrá requerir informe al servicio de
 inspección educativa.
@@ -466,7 +469,7 @@ tantes legales y a la seguridad y confidencialidad de estos, se atenderá a lo d
 Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo, de 27 de abril de 2016,
 relativo a la protección de las personas físicas en lo que respecta al tratamiento de datos per-
 sonales y a la libre circulación de estos datos y por el que se deroga la Directiva 95/46/UE,
-y en lo establecido en la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos
+y en lo establecido en la [Ley Orgánica 3/2018](../../../estatal/02_gestion_y_administracion_centros/LO3_2018_proteccion_datos_personales_garantia_derechos_digitales.md), de 5 de diciembre, de Protección de Datos
 Personales y Garantía de los Derechos Digitales. Puede consultarse el detalle de la activi-
 dad de tratamiento Pruebas para la obtención del título de técnico y de técnico superior de
 formación profesional. Pruebas libres de certificación de nivel en idiomas. Pruebas para la

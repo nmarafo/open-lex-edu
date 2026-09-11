@@ -25,8 +25,12 @@ tags:
 - bilinguismo
 - funcionarios_docentes
 - madrid
+fundamentos_derecho:
+- norma_id: norm-mad-d248-2023
+- norma_id: norm-mad-d-28-2024
+- norma_id: norm-mad-r-19-10-2023
+- norma_id: norm-es-l-39-2015
 ---
-
 # Resolución de 24 de marzo de 2026, de la Dirección General de Recursos Humanos por la que se convocan listas extraordinarias permanentemente abiertas en determinadas especialidades y cuerpos
 
 ## Preámbulo
@@ -60,8 +64,8 @@ A la vista de lo expuesto y existiendo en estos momentos necesidades que se prev
 posibles de cubrir en determinadas especialidades y cuerpos, se procede a la apertura de listas
 extraordinarias permanentemente abiertas en las especialidades relacionadas en el Anexo I.
 Por cuanto antecede, esta Dirección General de Recursos Humanos, en virtud de las
-competencias conferidas en el Decreto 248/2023, de 11 de octubre, del Consejo de Gobier-
-no, modificado por el Decreto 28/2024, de 24 de abril, del Consejo de Gobierno, por el que
+competencias conferidas en el [Decreto 248/2023](../01_marco_normativo_general_y_organico/D248_2023_estructura_organica_consejeria_educacion_ciencia_universidades_madrid.md), de 11 de octubre, del Consejo de Gobier-
+no, modificado por el [Decreto 28/2024](../01_marco_normativo_general_y_organico/D28_2024_modificacion_estructura_organica_consejeria_educacion_ciencia_universidades_madrid.md), de 24 de abril, del Consejo de Gobierno, por el que
 se establece la estructura orgánica de la Consejería de Educación, Ciencia y Universidades,
 RESUELVE
 Primero
@@ -86,7 +90,7 @@ Segundo
 Requisitos de los aspirantes para formar parte de la lista extraordinaria
 Podrán solicitar pertenecer a estas listas extraordinarias aquellas personas que, reúnan
 o estén en condiciones de reunir a la fecha de su nombramiento, los requisitos establecidos
-en el artículo segundo de la Resolución de 19 de octubre de 2023, de la Dirección General
+en el artículo segundo de la [Resolución de 19 de octubre de 2023](./R19_10_2023_bases_convocatorias_listas_extraordinarias_interinos_docentes_madrid.md), de la Dirección General
 de Recursos Humanos, por la que se establecen las bases reguladoras que han de regir las
 convocatorias de listas extraordinarias permanentemente abiertas para la selección de aspi-
 rantes a ocupar puestos docentes en régimen de interinidad en los centros docentes públi-
@@ -123,7 +127,7 @@ Baremo
 A la presente convocatoria le será de aplicación el baremo que se recoge en el Anexo IV.
 Sexto
 Recursos
-De conformidad con los artículos 115, 121 y 122 de la Ley 39/2015, de 1 de octubre,
+De conformidad con los artículos 115, 121 y 122 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre,
 del Procedimiento Administrativo Común de las Administraciones Públicas, esta Resolu-
 ción, que no agota la vía administrativa, podrá ser recurrida en alzada ante la Viceconseje-
 ría de Política y Organización Educativa en el plazo de un mes, contado a partir del día si-

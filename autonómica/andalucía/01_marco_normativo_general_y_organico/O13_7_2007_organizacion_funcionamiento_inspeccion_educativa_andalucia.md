@@ -31,8 +31,12 @@ relaciones:
   - norma_id: norm-and-l17-2007
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-l-39-2015
+fundamentos_derecho:
+- norma_id: norm-and-l17-2007
+- norma_id: norm-and-l6-2006-gobierno-comunidad-autonoma-andalucia
+- norma_id: norm-and-115-2002
+- norma_id: norm-es-1984-17387
 ---
-
 # Orden de 13 de julio de 2007, por la que se desarrolla la organización y el funcionamiento de la inspección educativa de Andalucía.
 
 ## Preámbulo
@@ -45,7 +49,7 @@ enseñanzas no universitarias, en relación con las enseñanzas
 obligatorias y no obligatorias, ostenta la competencia de ins-
 pección, de conformidad con lo dispuesto en el artículo 52.1 
 del Estatuto de Autonomía para Andalucía.
-El Decreto 115/2002, de 25 de marzo, por el que se re-
+El [Decreto 115/2002](../04_organizacion_escolar_y_funcionamiento/D115_2002_reglamento_inspeccion_educativa_andalucia.md), de 25 de marzo, por el que se re-
 gula la organización y el funcionamiento de la inspección edu-
 cativa, se ha mostrado como un instrumento de gran utilidad 
 y eficacia para el desempeño de las funciones y atribuciones 
@@ -69,9 +73,9 @@ educativa, sus órganos de coordinación y asesoramiento, los
 planes de actuación, así como la formación y evaluación.
 En su virtud, a propuesta de la Viceconsejería, y de 
 acuerdo con las facultades que me confiere el artículo 44.2 de 
-la Ley 6/2006, de 24 de octubre, del Gobierno de la Comuni-
+la [Ley 6/2006](./L6_2006_gobierno_comunidad_autonoma_andalucia.md), de 24 de octubre, del Gobierno de la Comuni-
 dad Autónoma de Andalucía, y la disposición final primera del 
-Decreto 115/2002, de 25 de marzo,
+[Decreto 115/2002](../04_organizacion_escolar_y_funcionamiento/D115_2002_reglamento_inspeccion_educativa_andalucia.md), de 25 de marzo,
 D I S P O N G O
 CAPÍTULO I
 DISPOSICIONES DE CARÁCTER GENERAL
@@ -91,7 +95,7 @@ todos los centros educativos, a excepción de los universitarios,
 mediante los funcionarios públicos del cuerpo de inspectores 
 de educación, así como de los pertenecientes al extinguido 
 cuerpo de inspectores al servicio de la Administración educa-
-tiva, creado por la Ley 30/1984, de 2 de agosto, de Medidas 
+tiva, creado por la [Ley 30/1984](../../../estatal/01_marco_normativo_general_y_organico/L30_1984_medidas_reforma_funcion_publica.md), de 2 de agosto, de Medidas 
 para la Reforma de la Función Pública, modificada por la Ley 
 23/1988, de 28 de julio, que no hubieran optado en su mo-
 mento por su incorporación al de inspectores de educación.
@@ -105,7 +109,7 @@ c) Los programas y actividades del sistema educativo.
 empeñadas por los funcionarios y funcionarias a los que se 
 refiere el artículo 1.2 de la presente Orden.
 2. De conformidad con lo dispuesto en el artículo 5 del 
-Decreto 115/2002, de 25 de marzo, los inspectores e inspec-
+[Decreto 115/2002](../04_organizacion_escolar_y_funcionamiento/D115_2002_reglamento_inspeccion_educativa_andalucia.md), de 25 de marzo, los inspectores e inspec-
 toras de educación, en el desempeño de sus funciones, ten-
 drán la consideración de autoridad pública y como tal recibi-
 rán de los distintos miembros de la comunidad educativa, así 
@@ -171,7 +175,7 @@ pudiendo los interesados promover la recusación en cualquier
 momento de la tramitación del procedimiento.
 #### Artículo 8. Atribución de visitar centros y servicios. 
 De conformidad con lo establecido en el artículo 7.a) del 
-Decreto 115/2002, de 25 de marzo, los inspectores e inspec-
+[Decreto 115/2002](../04_organizacion_escolar_y_funcionamiento/D115_2002_reglamento_inspeccion_educativa_andalucia.md), de 25 de marzo, los inspectores e inspec-
 toras de educación tendrán la atribución de visitar los centros 
 docentes públicos y privados, así como los servicios e instala-
 ciones en los que se desarrollen actividades educativas pro-
@@ -347,7 +351,7 @@ máticos y archivos en soporte magnético.
 #### Artículo 15. Atribución de supervisar la documentación 
 académica y administrativa. 
 1. De acuerdo con lo establecido en el artículo 7.d) del 
-Decreto 115/2002, de 25 de marzo, los inspectores e inspec-
+[Decreto 115/2002](../04_organizacion_escolar_y_funcionamiento/D115_2002_reglamento_inspeccion_educativa_andalucia.md), de 25 de marzo, los inspectores e inspec-
 toras de educación, en el ejercicio de sus funciones, tendrán 
 la atribución de supervisar la documentación académica, ad-
 ministrativa y, en su caso, económica de los centros docentes 
@@ -531,7 +535,7 @@ se presenta la situación de disparidad o conflicto.
 ter vinculante para las partes implicadas.
 #### Artículo 22. Atribución de formular requerimientos.
 1. De conformidad con lo establecido en el artículo 7.h) del 
-Decreto 115/2002, de 25 de marzo, los inspectores e inspec-
+[Decreto 115/2002](../04_organizacion_escolar_y_funcionamiento/D115_2002_reglamento_inspeccion_educativa_andalucia.md), de 25 de marzo, los inspectores e inspec-
 toras de educación, en el ejercicio de sus funciones, tendrán la 
 atribución de requerir, a través de los cauces establecidos, a 
 los responsables de los centros y de los servicios educativos, 
@@ -584,7 +588,7 @@ puesta correspondiente.
 #### Artículo 24. Atribución de colaborar en el proceso de es-
 colarización del alumnado.
 1. De acuerdo con lo establecido en el artículo 7.j) del 
-Decreto 115/2002, de 25 de marzo, los inspectores e inspec-
+[Decreto 115/2002](../04_organizacion_escolar_y_funcionamiento/D115_2002_reglamento_inspeccion_educativa_andalucia.md), de 25 de marzo, los inspectores e inspec-
 toras de educación, en el ejercicio de sus funciones, tendrán 
 la atribución de colaborar en los procesos de escolarización 
 del alumnado, así como en los de planificación de los centros 
@@ -595,7 +599,7 @@ el derecho a la escolarización del alumnado.
 #### Artículo 25. Atribución de formar parte de comisiones, 
 juntas y tribunales.
 1. De conformidad con lo recogido en el artículo 7.k) del 
-Decreto 115/2002, de 25 de marzo, los inspectores e inspec-
+[Decreto 115/2002](../04_organizacion_escolar_y_funcionamiento/D115_2002_reglamento_inspeccion_educativa_andalucia.md), de 25 de marzo, los inspectores e inspec-
 toras de educación, en el ejercicio de sus funciones, tendrán la 
 atribución de formar parte de comisiones, juntas y tribunales 
 cuando así se determine por la Consejería de Educación y fun-
@@ -650,7 +654,7 @@ aplicación y lo establecido en la presente Orden.
 #### Artículo 29. Especialización.
 La especialización, como principio de la organización de 
 la inspección educativa, se llevará a cabo según lo establecido 
-en el artículo 22 del Decreto 115/2002, de 25 de marzo, y en 
+en el artículo 22 del [Decreto 115/2002](../04_organizacion_escolar_y_funcionamiento/D115_2002_reglamento_inspeccion_educativa_andalucia.md), de 25 de marzo, y en 
 el Capítulo V de la presente Orden.
 #### Artículo 30. Profesionalidad.
 La profesionalidad exige que las actuaciones inspectoras 
@@ -683,7 +687,7 @@ nes singulares y especializadas.
 #### Artículo 32. Dependencia funcional de la inspección edu-
 cativa.
 1. De conformidad con lo dispuesto en el artículo 17.4 del 
-Decreto 115/2002, de 25 de marzo, los Servicios Provincia-
+[Decreto 115/2002](../04_organizacion_escolar_y_funcionamiento/D115_2002_reglamento_inspeccion_educativa_andalucia.md), de 25 de marzo, los Servicios Provincia-
 les de Inspección de Educación dependen funcionalmente de 
 la persona titular de la Viceconsejería de Educación, a quien 
 Página núm. 22 
@@ -714,7 +718,7 @@ presente Orden.
 f) El nombramiento de las personas titulares de las Je-
 faturas Provinciales de Inspección de Educación, de confor-
 midad con el procedimiento establecido en el artículo 18 del 
-Decreto 115/2002, de 25 de marzo.
+[Decreto 115/2002](../04_organizacion_escolar_y_funcionamiento/D115_2002_reglamento_inspeccion_educativa_andalucia.md), de 25 de marzo.
 g) La adscripción a la Inspección General de Educación 
 de funcionarios y funcionarias de los Servicios Provinciales de 
 Inspección de Educación para la realización de tareas concre-
@@ -744,7 +748,7 @@ blecidos, a la Viceconsejería de Educación.
 n) El nombramiento de la persona titular de la Inspección 
 General de Educación y de los inspectores e inspectoras cen-
 trales, de conformidad con el procedimiento establecido en 
-los artículos 13 y 15 del Decreto 115/2002, de 25 de marzo, 
+los artículos 13 y 15 del [Decreto 115/2002](../04_organizacion_escolar_y_funcionamiento/D115_2002_reglamento_inspeccion_educativa_andalucia.md), de 25 de marzo, 
 respectivamente. 
 #### Artículo 33. Dependencia orgánica de la inspección edu-
 cativa.
@@ -785,10 +789,10 @@ tancias extraordinarias lo motiven.
 i) La propuesta de nombramiento de la persona titular de la 
 Jefatura del Servicio Provincial de Inspección de Educación, de 
 conformidad con el procedimiento establecido en el artículo 18
-del Decreto 115/2002, de 25 de marzo.
+del [Decreto 115/2002](../04_organizacion_escolar_y_funcionamiento/D115_2002_reglamento_inspeccion_educativa_andalucia.md), de 25 de marzo.
 j) El nombramiento del Jefe o Jefa Adjunta del Servicio 
 Provincial de Inspección de Educación, según lo establecido 
-en el artículo 20 del Decreto 115/2002, de 25 de marzo.
+en el artículo 20 del [Decreto 115/2002](../04_organizacion_escolar_y_funcionamiento/D115_2002_reglamento_inspeccion_educativa_andalucia.md), de 25 de marzo.
 k) La propuesta de adscripción de los inspectores e ins-
 pectoras a las distintas áreas específicas de trabajo, tanto 
 estructurales como curriculares, oído el Consejo Provincial de 
@@ -805,7 +809,7 @@ n) La convocatoria de reuniones con los inspectores e ins-
 pectoras del Servicio Provincial de Inspección de Educación.
 #### Artículo 34. La Inspección General de Educación.
 1. De conformidad con lo dispuesto en el artículo 12 del 
-Decreto 115/2002, de 25 de marzo, a la Inspección General 
+[Decreto 115/2002](../04_organizacion_escolar_y_funcionamiento/D115_2002_reglamento_inspeccion_educativa_andalucia.md), de 25 de marzo, a la Inspección General 
 de Educación le compete el control y el seguimiento de las 
 actuaciones de la inspección educativa.
 2. La Inspección General de Educación está integrada 
@@ -815,7 +819,7 @@ trales.
 #### Artículo 35. El inspector o inspectora general de educación.
 1. Corresponden a la persona titular de la Inspección Gene-
 ral de Educación las funciones que se establecen en el artículo 14
-del Decreto 115/2002, de 25 de marzo.
+del [Decreto 115/2002](../04_organizacion_escolar_y_funcionamiento/D115_2002_reglamento_inspeccion_educativa_andalucia.md), de 25 de marzo.
 2. Para el ejercicio de sus funciones, el inspector o inspec-
 tora general de educación tendrá las siguientes atribuciones:
 a) Realizar el seguimiento del desarrollo de las actuacio-
@@ -839,7 +843,7 @@ e) Asignar a los inspectores e inspectoras centrales las
 funciones y actuaciones que estime adecuadas para el cum-
 plimiento del Plan Anual de Trabajo de la Inspección General 
 de Educación, sin perjuicio de las atribuidas en el artículo 15.3 
-del Decreto 115/2002, de 25 de marzo.
+del [Decreto 115/2002](../04_organizacion_escolar_y_funcionamiento/D115_2002_reglamento_inspeccion_educativa_andalucia.md), de 25 de marzo.
 f) Asignar a los inspectores e inspectoras centrales las 
 áreas específicas de trabajo para la coordinación del funciona-
 miento de las mismas.
@@ -917,7 +921,7 @@ DE INSPECCIÓN
 #### Artículo 37. Jefatura del Servicio Provincial de Inspección.
 1. La persona titular de la Jefatura del Servicio Provincial 
 de Inspección de Educación ejercerá las funciones estableci-
-das en el artículo 19 del Decreto 115/2002, de 25 de marzo.
+das en el artículo 19 del [Decreto 115/2002](../04_organizacion_escolar_y_funcionamiento/D115_2002_reglamento_inspeccion_educativa_andalucia.md), de 25 de marzo.
 2. Para el desarrollo de las mismas tendrá las siguientes 
 atribuciones:
 a) Requerir de los inspectores e inspectoras de educación 
@@ -945,7 +949,7 @@ creto 115/2002, de 25 de marzo, y en el artículo 69 de la
 presente Orden.
 e) Convocar, presidir y dirigir las reuniones del Consejo Pro-
 vincial de Inspección de Educación, regulado en el artículo 25
-del Decreto 115/2002, de 25 de marzo, y en el artículo 70 de 
+del [Decreto 115/2002](../04_organizacion_escolar_y_funcionamiento/D115_2002_reglamento_inspeccion_educativa_andalucia.md), de 25 de marzo, y en el artículo 70 de 
 la presente Orden.
 f) Establecer la propuesta de jornada de trabajo, de hora-
 rios y del período de vacaciones del personal adscrito al Servi-
@@ -979,12 +983,12 @@ cias se dividirá en zonas de inspección, de acuerdo con lo que
 se establece en el Capítulo IV de la presente Orden.
 2. En los centros educativos que se integran en las dife-
 rentes zonas, las funciones y atribuciones a que se refieren, 
-respectivamente, los artículos 4 y 7 del Decreto 115/2002, de 
+respectivamente, los artículos 4 y 7 del [Decreto 115/2002](../04_organizacion_escolar_y_funcionamiento/D115_2002_reglamento_inspeccion_educativa_andalucia.md), de 
 25 de marzo, serán ejercidas por los inspectores e inspectoras 
 de educación adscritos a los equipos correspondientes a las 
 mismas.
 3. De conformidad con lo dispuesto en el artículo 21.6 
-del Decreto 115/2002, de 25 de marzo, en cada Equipo de 
+del [Decreto 115/2002](../04_organizacion_escolar_y_funcionamiento/D115_2002_reglamento_inspeccion_educativa_andalucia.md), de 25 de marzo, en cada Equipo de 
 Inspección de Zona se nombrará un inspector coordinador o 
 una inspectora coordinadora.
 #### Artículo 39. Coordinación del Equipo de Inspección de 
@@ -992,7 +996,7 @@ Zona.
 Sin perjuicio del desempeño de las tareas propias de 
 inspección, al coordinador o coordinadora del Equipo de Ins-
 pección de Zona, además de las funciones previstas en el ar-
-tículo 21.7 del Decreto 115/2002, de 25 de marzo, le corres-
+tículo 21.7 del [Decreto 115/2002](../04_organizacion_escolar_y_funcionamiento/D115_2002_reglamento_inspeccion_educativa_andalucia.md), de 25 de marzo, le corres-
 ponde:
 a) Organizar el trabajo y coordinar las actuaciones que 
 deban desarrollarse en la zona de inspección para el mejor 
@@ -1018,7 +1022,7 @@ A los inspectores e inspectoras de educación les corres-
 ponde:
 a) El ejercicio de las funciones y atribuciones que tiene 
 reconocida la inspección educativa en los artículos 4 y 7 del 
-Decreto 115/2002, de 25 de marzo, y en los artículos 8, 13 al 
+[Decreto 115/2002](../04_organizacion_escolar_y_funcionamiento/D115_2002_reglamento_inspeccion_educativa_andalucia.md), de 25 de marzo, y en los artículos 8, 13 al 
 17 y 21 al 25 de la presente Orden.
 b) La cualificación técnica en el ejercicio de las funciones 
 y en el desarrollo de las actuaciones que se le encomiendan, 
@@ -1197,7 +1201,7 @@ geográfica a efectos de desplazamientos.
 #### Artículo 48. Adscripción de los inspectores e inspectoras 
 a los Equipos de Inspección de Zona.
 1. De conformidad con lo establecido en el apartado 3 del 
-artículo 21 del Decreto 115/2002, de 25 de marzo, la adscrip-
+artículo 21 del [Decreto 115/2002](../04_organizacion_escolar_y_funcionamiento/D115_2002_reglamento_inspeccion_educativa_andalucia.md), de 25 de marzo, la adscrip-
 ción de los inspectores e inspectoras a los Equipos de Inspec-
 ción de Zonas la realizará la persona titular de la Delegación 
 Provincial de la Consejería de Educación a propuesta de la 
@@ -1238,7 +1242,7 @@ tos a un Equipo de Inspección de Zona.
 #### Artículo 49. Asignación de centros docentes a los inspec-
 tores e inspectoras de educación.
 1. De acuerdo con lo regulado en el apartado 5 del ar-
-tículo 21 del Decreto 115/2002, de 25 de marzo, dentro de 
+tículo 21 del [Decreto 115/2002](../04_organizacion_escolar_y_funcionamiento/D115_2002_reglamento_inspeccion_educativa_andalucia.md), de 25 de marzo, dentro de 
 cada zona de inspección se asignará a cada inspector o ins-
 pectora de educación un número de centros docentes, servi-
 cios y programas educativos.
@@ -1285,7 +1289,7 @@ ORGANIZACIÓN ESPECIALIZADA DE LA INSPECCIÓN
 EDUCATIVA
 #### Artículo 51. Organización especializada.
 De conformidad con lo establecido en el articulo 22.1 del 
-Decreto 115/2002, de 25 de marzo, en cada Servicio Provin-
+[Decreto 115/2002](../04_organizacion_escolar_y_funcionamiento/D115_2002_reglamento_inspeccion_educativa_andalucia.md), de 25 de marzo, en cada Servicio Provin-
 cial de Inspección de Educación se constituirán áreas específi-
 cas de trabajo estructurales y áreas específicas de trabajo cu-
 rriculares, sin perjuicio de que la actuación de los inspectores 
@@ -1380,7 +1384,7 @@ inspectoras adscritos a las mismas.
 #### Artículo 57. Adscripción y responsables de las áreas espe-
 cíficas de trabajo estructurales.
 1. De conformidad con lo dispuesto en el artículo 22.4 del 
-Decreto 115/2002, de 25 de marzo, todos los inspectores e 
+[Decreto 115/2002](../04_organizacion_escolar_y_funcionamiento/D115_2002_reglamento_inspeccion_educativa_andalucia.md), de 25 de marzo, todos los inspectores e 
 inspectoras de educación estarán adscritos a un área especí-
 fica de trabajo estructural, en función de:
 a) Las necesidades de funcionamiento de la inspección 
@@ -1409,7 +1413,7 @@ a los Equipos de Inspección de Zona.
 #### Artículo 58. Objeto de las áreas específicas de trabajo cu-
 rriculares.
 Las áreas específicas de trabajo curriculares, de acuerdo 
-con lo dispuesto en el artículo 22.3 del Decreto 115/2002, de 
+con lo dispuesto en el artículo 22.3 del [Decreto 115/2002](../04_organizacion_escolar_y_funcionamiento/D115_2002_reglamento_inspeccion_educativa_andalucia.md), de 
 25 de marzo, tienen por objeto organizar la intervención de la 
 inspección educativa en los diferentes elementos que integran 
 el currículo del sistema educativo.
@@ -1461,7 +1465,7 @@ j) Lenguas extranjeras.
 #### Artículo 61. Adscripción y responsables de las áreas espe-
 cíficas de trabajo curriculares.
 1. De conformidad con lo dispuesto en el artículo 22.4 
-del Decreto 115/2002, de 25 de marzo, todos los inspectores 
+del [Decreto 115/2002](../04_organizacion_escolar_y_funcionamiento/D115_2002_reglamento_inspeccion_educativa_andalucia.md), de 25 de marzo, todos los inspectores 
 e inspectoras de educación estarán adscritos, al menos, a un 
 área específica de trabajo curricular, en función de:
 a) Las necesidades de funcionamiento de la inspección 
@@ -1487,7 +1491,7 @@ CAPÍTULO VI
 PLANES DE ACTUACIÓN DE LA INSPECCIÓN EDUCATIVA
 #### Artículo 62. Planes de actuación de la inspección educativa.
 1. De conformidad con lo dispuesto en los artículos 26 
-y 27 del Decreto 115/2002 de 25 de marzo, son planes de 
+y 27 del [Decreto 115/2002](../04_organizacion_escolar_y_funcionamiento/D115_2002_reglamento_inspeccion_educativa_andalucia.md) de 25 de marzo, son planes de 
 actuación de la inspección educativa:
 a) El Plan General de Actuación.
 b) Los Planes Provinciales de Actuación.
@@ -1510,7 +1514,7 @@ el mismo.
 curso académico, mediante instrucciones anuales que dictará 
 la persona titular de la Viceconsejería de Educación.
 4. De conformidad con lo dispuesto en el artículo 14 del 
-Decreto 115/2002, de 25 de marzo, la Inspección General de 
+[Decreto 115/2002](../04_organizacion_escolar_y_funcionamiento/D115_2002_reglamento_inspeccion_educativa_andalucia.md), de 25 de marzo, la Inspección General de 
 Educación, oído el Consejo de Inspección de Educación, elabo-
 rará la propuesta de Plan General de Actuación, que será apro-
 bado por la persona titular de la Consejería de Educación.
@@ -1623,7 +1627,7 @@ cio profesional asociado a las actuaciones planificadas.
 f) Informe del Consejo Provincial de Inspección de Edu-
 cación.
 5. De conformidad con lo dispuesto en el artículo 27.2 
-del Decreto 115/2002, de 25 de marzo, las personas titulares 
+del [Decreto 115/2002](../04_organizacion_escolar_y_funcionamiento/D115_2002_reglamento_inspeccion_educativa_andalucia.md), de 25 de marzo, las personas titulares 
 de las Jefaturas de los Servicios Provinciales de Inspección de 
 Educación elaborarán las propuestas de los Planes Provincia-
 les de Actuación, que serán aprobadas por la persona titular 
@@ -1635,7 +1639,7 @@ CAPÍTULO VII
 DE LA INSPECCIÓN
 #### Artículo 68. Órganos de coordinación y asesoramiento.
 De conformidad con lo dispuesto en los artículos 23, 24 
-y 25 del Decreto 115/2002, de 25 de marzo, son órganos de 
+y 25 del [Decreto 115/2002](../04_organizacion_escolar_y_funcionamiento/D115_2002_reglamento_inspeccion_educativa_andalucia.md), de 25 de marzo, son órganos de 
 coordinación y asesoramiento de la inspección educativa: el 
 Equipo de Coordinación Provincial, el Consejo Provincial de 
 Inspección de Educación y el Consejo de Inspección de Edu-
@@ -1673,7 +1677,7 @@ g) Programar, al menos, quincenalmente, las actividades
 previstas en el Plan Provincial de Actuación, para su contex-
 tualización y ejecución por los Equipos de Inspección de Zona.
 #### Artículo 70. Consejo Provincial de Inspección de Educación.
-1. De acuerdo con el artículo 25.2 del Decreto 115/2002, 
+1. De acuerdo con el artículo 25.2 del [Decreto 115/2002](../04_organizacion_escolar_y_funcionamiento/D115_2002_reglamento_inspeccion_educativa_andalucia.md), 
 de 25 de marzo, el Consejo Provincial de Inspección de Educa-
 ción tendrá las siguientes funciones:
 a) Definir criterios y procedimientos para la elaboración 
@@ -1716,7 +1720,7 @@ vicio Provincial de Inspección de Educación en razón de la na-
 turaleza de los temas a tratar o de la urgencia de los mismos.
 #### Artículo 71. El Consejo de Inspección de Educación.
 1. De conformidad con lo recogido en el artículo 23.2 del 
-Decreto 115/2002, de 25 de marzo, el Consejo de Inspección 
+[Decreto 115/2002](../04_organizacion_escolar_y_funcionamiento/D115_2002_reglamento_inspeccion_educativa_andalucia.md), de 25 de marzo, el Consejo de Inspección 
 de Educación tendrá las siguientes funciones:
 a) Asesorar al Inspector o Inspectora General de Educa-
 ción en la elaboración de la propuesta del Plan General de 
@@ -1770,7 +1774,7 @@ CAPÍTULO VIII
 FORMACIÓN Y EVALUACIÓN DE LA INSPECCIÓN EDUCATIVA
 #### Artículo 72. Formación permanente. 
 1. De conformidad con lo dispuesto en el artículo 36.2 
-del Decreto 115/2002, de 25 de marzo, la Consejería de Edu-
+del [Decreto 115/2002](../04_organizacion_escolar_y_funcionamiento/D115_2002_reglamento_inspeccion_educativa_andalucia.md), de 25 de marzo, la Consejería de Edu-
 cación incluirá en sus planes de formación actividades que 
 contribuyan al perfeccionamiento y actualización profesional 
 de los inspectores e inspectoras de educación. 
@@ -1870,7 +1874,7 @@ e) Otras modalidades que pudieran llevarse a cabo en co-
 laboración con las Universidades. 
 #### Artículo 76. Evaluación de la inspección.
 1. De conformidad con lo dispuesto en el artículo 37 del 
-Decreto 115/2002, de 25 de marzo, la Consejería de Educa-
+[Decreto 115/2002](../04_organizacion_escolar_y_funcionamiento/D115_2002_reglamento_inspeccion_educativa_andalucia.md), de 25 de marzo, la Consejería de Educa-
 ción desarrollará procesos de evaluación interna y externa de 
 la inspección educativa, a fin de contribuir a la mejora de su 
 funcionamiento y del sistema educativo.
@@ -1889,7 +1893,7 @@ Disposición transitoria única. Funcionarios y funcionarias
 adscritos a la inspección educativa.
 Los funcionarios y funcionarias adscritos a la inspección 
 educativa, a que se refiere la disposición adicional tercera del 
-Decreto 115/2002, de 25 de marzo, se adscribirán al área 
+[Decreto 115/2002](../04_organizacion_escolar_y_funcionamiento/D115_2002_reglamento_inspeccion_educativa_andalucia.md), de 25 de marzo, se adscribirán al área 
 específica de trabajo estructural de educación permanente y 
 formación profesional.
 Disposición derogatoria. Derogación normativa.

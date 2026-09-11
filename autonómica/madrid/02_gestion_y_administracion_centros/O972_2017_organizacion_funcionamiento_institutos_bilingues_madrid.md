@@ -24,8 +24,14 @@ tags:
 - secundaria
 - bilinguismo
 - madrid
+fundamentos_derecho:
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-mad-l12-1999-creacion-consejo-escolar-comunidad-madrid
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-2016-3229
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
 ---
-
 # Regulación institutos bilingües– Orden 972/2017, de 7 de abril, de la Consejería de Educación, Juventud y Deporte, por la que se regulan los institutos bilingües español-inglés de la Comunidad de Madrid
 
 ## Preámbulo
@@ -36,8 +42,8 @@ Consejería de Educación, Juventud y Deporte
 ORDEN 972/2017, de 7 de abril, de la Consejería de Educación, Juventud y
 Deporte, por la que se regulan los institutos bilingües español-inglés de la
 Comunidad de Madrid.
-Tras la reforma educativa llevada a cabo en la Ley Orgánica 2/2006, de 3 de mayo, de
-Educación, modificada por la Ley Orgánica 8/2013, de 9 de diciembre, para la Mejora de
+Tras la reforma educativa llevada a cabo en la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de
+Educación, modificada por la [Ley Orgánica 8/2013](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md), de 9 de diciembre, para la Mejora de
 la Calidad Educativa, la Administración del Estado, de conformidad con lo preceptuado en
 dicha Ley, ha publicado el Real Decreto 1105/2014, de 26 de diciembre, por el que se es-
 tablece el currículo básico de la Educación Secundaria Obligatoria y el Bachillerato.
@@ -58,7 +64,7 @@ titutos bilingües español-inglés de la Comunidad de Madrid, integrando y resp
 previsto en el Real Decreto 1105/2014, de 26 de diciembre, por el que se establece el
 currículo básico de la Educación Secundaria Obligatoria y del Bachillerato.
 En el proceso de elaboración de esta Orden, ha emitido dictamen el Consejo Escolar
-de la Comunidad de Madrid, de acuerdo con el artículo 2.1.b) de la Ley 12/1999, de 26 de
+de la Comunidad de Madrid, de acuerdo con el artículo 2.1.b) de la [Ley 12/1999](../01_marco_normativo_general_y_organico/L12_1999_creacion_consejo_escolar_comunidad_madrid.md), de 26 de
 abril, de Creación del Consejo Escolar de la Comunidad de Madrid, modificada por el ar-
 tículo 29 de la Ley 9/2010, de 23 de diciembre.
 En su virtud, y en uso de las atribuciones que me han sido conferidas,

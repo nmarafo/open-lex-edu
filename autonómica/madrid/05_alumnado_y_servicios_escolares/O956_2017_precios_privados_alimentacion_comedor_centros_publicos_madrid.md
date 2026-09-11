@@ -31,8 +31,9 @@ tags:
 relaciones:
   fundamentado_en:
   - norma_id: norm-es-lo-2-2006
+fundamentos_derecho:
+- norma_id: norm-mad-l1-1983-gobierno-administracion-comunidad-madrid
 ---
-
 # Orden 956/2017, de 30 de marzo, de la Consejería de Educación, Juventud y Deporte, por la que se fija la cuantía de los precios privados de alimentación mensual o comedor de los centros de la red pública de la Comunidad de Madrid.
 
 ## Preámbulo
@@ -51,7 +52,7 @@ La Orden 5363/2001, de 26 de noviembre, de la Consejería de Educación, por la 
 
 En cumplimiento de esta normativa se ha elaborado la memoria económica que justifica el importe propuesto y el grado de cobertura de los costes correspondientes al servicio de comedor prestado por los centros de la red pública de Educación Infantil de la Comunidad de Madrid.
 
-Por lo expuesto, en ejercicio de las atribuciones conferidas por el artículo 41.d) de la Ley 1/1983, de 13 de diciembre, del Gobierno y Administración de la Comunidad de Madrid, previo informe favorable de la Consejería de Economía, Empleo y Hacienda, y de conformidad con el artículo 1 del Decreto 100/2016, de 18 de octubre, del Consejo de Gobierno, por el que se establece la estructura orgánica de la Consejería de Educación, Juventud y Deporte,
+Por lo expuesto, en ejercicio de las atribuciones conferidas por el artículo 41.d) de la [Ley 1/1983](../01_marco_normativo_general_y_organico/L1_1983_gobierno_administracion_comunidad_madrid.md), de 13 de diciembre, del Gobierno y Administración de la Comunidad de Madrid, previo informe favorable de la Consejería de Economía, Empleo y Hacienda, y de conformidad con el artículo 1 del Decreto 100/2016, de 18 de octubre, del Consejo de Gobierno, por el que se establece la estructura orgánica de la Consejería de Educación, Juventud y Deporte,
 
 
 DISPONGO

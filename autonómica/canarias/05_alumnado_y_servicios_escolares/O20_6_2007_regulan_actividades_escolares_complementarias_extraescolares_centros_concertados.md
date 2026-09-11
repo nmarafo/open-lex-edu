@@ -25,8 +25,15 @@ tags:
 - servicios-escolares
 - centros-concertados
 - canarias
+fundamentos_derecho:
+- norma_id: norm-can-l-14-1990
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-mad-l1-1983-gobierno-administracion-comunidad-madrid
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-lo-8-1985
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
 ---
-
 # Orden de 20 de junio de 2007, de la Consejería de Educación, Cultura y Deportes, por la que se regulan las actividades escolares complementarias, actividades extraescolares y servicios escolares en los Centros Privados Concertados de Canarias.
 
 ## Preámbulo
@@ -47,13 +54,13 @@ Descargar en formato pdf
 
 EXPOSICIÓN DE MOTIVOS
 
-La Ley Orgánica 8/1985, de 3 de julio (B.O.E. nº 159, de 4.7.85), reguladora del Derecho a la Educación (L.O.D.E.), tras establecer en su artículo 51 las notas características que han de reunir los servicios y actividades complementarias y las actividades extraescolares en los Centros Concertados, remite su regulación al desarrollo reglamentario.
+La [Ley Orgánica 8/1985](../../../estatal/02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md), de 3 de julio (B.O.E. nº 159, de 4.7.85), reguladora del Derecho a la Educación (L.O.D.E.), tras establecer en su artículo 51 las notas características que han de reunir los servicios y actividades complementarias y las actividades extraescolares en los Centros Concertados, remite su regulación al desarrollo reglamentario.
 
 En Canarias, dicho desarrollo reglamentario vigente se ha producido mediante dos Órdenes. La primera, la Orden de 27 de abril de 1998 (B.O.C. nº 57, de 11.5.98) y una posterior de 20 de noviembre del mismo año (B.O.C. nº 154, de 9.12.98), que vino a modificar parcialmente la anterior. Precisamente, este hecho de modificación parcial de determinados artículos dejando otros vigentes, crea una cierta confusión legislativa que mediante la presente Orden se intenta subsanar. A ello hay que añadir, la existencia de errores materiales o de trascripción, la falta de claridad en el procedimiento para la solicitud, comunicación y tramitación de las actividades y servicios, así como en las cuotas a cobrar recogido en el texto de las mencionadas Órdenes.
 
-La derogación, por la Ley Orgánica 2/2006, de 3 de mayo (B.O.E. nº 106, de 4.5.06), de Educación (LOE), de la Ley Orgánica 9/1995, de 20 de noviembre (B.O.E. nº 278, de 21.11.95), de la Participación, la Evaluación y el Gobierno de los Centros Docentes (LOPEGC), en cuya Disposición Final Primera, punto 2.4, de la citada LOPEGC, ordenaba a las Administraciones educativas regular las actividades escolares complementarias, las extraescolares y los servicios escolares de los Centros Concertados. La nueva redacción del artículo 62 de la LODE establecida por la LOE, en el que se regulan las causas de incumplimiento del concierto por parte de los titulares de los centros. Dicho artículo fue parcialmente recogido en la Orden de 27 de abril de 1998.
+La derogación, por la [Ley Orgánica 2/2006](./O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo (B.O.E. nº 106, de 4.5.06), de Educación (LOE), de la Ley Orgánica 9/1995, de 20 de noviembre (B.O.E. nº 278, de 21.11.95), de la Participación, la Evaluación y el Gobierno de los Centros Docentes (LOPEGC), en cuya Disposición Final Primera, punto 2.4, de la citada LOPEGC, ordenaba a las Administraciones educativas regular las actividades escolares complementarias, las extraescolares y los servicios escolares de los Centros Concertados. La nueva redacción del artículo 62 de la LODE establecida por la LOE, en el que se regulan las causas de incumplimiento del concierto por parte de los titulares de los centros. Dicho artículo fue parcialmente recogido en la Orden de 27 de abril de 1998.
 
-De acuerdo con todo lo anterior, en virtud de las potestades administrativas establecidas en el artículo 32 de la Ley 1/1983, de 14 de abril, del Gobierno y de la Administración Pública de la Comunidad Autónoma de Canarias (B.O.C. nº 11, de 30.4.83), el artículo 15 de la Ley 14/1990, de 26 de julio, de Régimen Jurídico de las Administraciones Públicas de Canarias (B.O.C. nº 96, de 1.8.90), los artículos 4 y 5 del Decreto 113/2006, de 26 de julio, por el que se aprueba el Reglamento Orgánico de la Consejería de Educación, Cultura y Deportes (B.O.C. nº 148, de 1.8.06), en su redacción actual, el Decreto 58/2005, de 20 de mayo, del Presidente, de nombramiento como Consejero de Educación, Cultura y Deportes del Gobierno de Canarias (B.O.C. nº 99, de 21.5.05),
+De acuerdo con todo lo anterior, en virtud de las potestades administrativas establecidas en el artículo 32 de la [Ley 1/1983](../../madrid/01_marco_normativo_general_y_organico/L1_1983_gobierno_administracion_comunidad_madrid.md), de 14 de abril, del Gobierno y de la Administración Pública de la Comunidad Autónoma de Canarias (B.O.C. nº 11, de 30.4.83), el artículo 15 de la [Ley 14/1990](../01_marco_normativo_general_y_organico/L14_1990_regimen_juridico_administraciones_publicas_canarias.md), de 26 de julio, de Régimen Jurídico de las Administraciones Públicas de Canarias (B.O.C. nº 96, de 1.8.90), los artículos 4 y 5 del Decreto 113/2006, de 26 de julio, por el que se aprueba el Reglamento Orgánico de la Consejería de Educación, Cultura y Deportes (B.O.C. nº 148, de 1.8.06), en su redacción actual, el Decreto 58/2005, de 20 de mayo, del Presidente, de nombramiento como Consejero de Educación, Cultura y Deportes del Gobierno de Canarias (B.O.C. nº 99, de 21.5.05),
 
 D I S P O N G O:
 
@@ -134,7 +141,7 @@ No obstante y de manera excepcional, si durante el curso escolar surgiere la con
 
 
 
-#### Artículo 9.- De acuerdo con el artículo 62 de la Ley Orgánica 8/1985, de 3 de julio (L.O.D.E.), modificado por la Disposición Final Primera de la Ley 2/2006, de 3 de mayo (LOE):
+#### Artículo 9.- De acuerdo con el artículo 62 de la [Ley Orgánica 8/1985](../../../estatal/02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md), de 3 de julio (L.O.D.E.), modificado por la Disposición Final Primera de la Ley 2/2006, de 3 de mayo (LOE):
 
 
 1) Son causa leve de incumplimiento del concierto, entre otras, las siguientes:

@@ -31,8 +31,16 @@ relaciones:
   - norma_id: norm-and-l17-2007
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-l-39-2015
+fundamentos_derecho:
+- norma_id: norm-and-l12-2007-promocion-igualdad-genero-andalucia
+- norma_id: norm-and-l17-2007
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2007-19326
+- norma_id: norm-es-2002-4371
+- norma_id: norm-es-2010-12201
 ---
-
 # Decreto 55/2012, de 6 de marzo, por el que se establece la ordenación general de las enseñanzas deportivas de régimen especial en Andalucía.
 
 ## Preámbulo
@@ -49,7 +57,7 @@ de la Constitución, a tenor del cual corresponde al Estado dic-
 tar las normas básicas para el desarrollo del artículo 27 del 
 texto constitucional, a fin de garantizar el cumplimiento de las 
 obligaciones de los poderes públicos en esta materia.
-La Ley Orgánica 2/2006, de 3 de mayo, de Educación, 
+La [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, 
 en su artículo 3.6, establece que las enseñanzas deportivas 
 tendrán la consideración de enseñanzas de régimen especial. 
 Asimismo, dispone en su artículo 6.2 que el Gobierno fijará, 
@@ -59,15 +67,15 @@ culo que constituyen las enseñanzas mínimas, estableciendo
 en el Capítulo VIII de su Título I los principios generales de las 
 enseñanzas deportivas, así como las normas fundamentales 
 relativas a su organización.
-La Ley 17/2007, de 10 de diciembre, de Educación de An-
+La [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre, de Educación de An-
 dalucía, constituye el marco normativo autonómico en el que 
 se insertan todas las enseñanzas del sistema educativo de An-
 dalucía. Las enseñanzas deportivas se incluyen en el Capítu-
 lo VIII del Título II de dicha ley.
-El Real Decreto 1363/2007, de 24 de octubre, por el que 
+El [Real Decreto 1363/2007](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1363_2007_establece_ordenacion_general_ensenanzas_deportivas_regimen.md), de 24 de octubre, por el que 
 se establece la ordenación general de las enseñanzas deporti-
 vas de régimen especial, desarrolla el Capítulo VIII del Título I 
-de la Ley Orgánica 2/2006, de 3 de mayo, antes mencionada. 
+de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, antes mencionada. 
 Mediante este desarrollo, se otorga a estas enseñanzas un 
 tratamiento análogo al resto de las enseñanzas del sistema 
 educativo, garantizando los niveles de calidad y homogenei-
@@ -214,7 +222,7 @@ de enseñanza deportiva que componen el currículo de cada
 título serán regulados por Orden de la persona titular de la 
 Consejería competente en materia de educación.
 2. El currículo se establecerá de acuerdo con el artícu-
-lo 6 de la Ley Orgánica 2/2006, de 3 de mayo, con el Real 
+lo 6 de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, con el Real 
 Decreto 1363/2007, de 24 de octubre, por el que se establece 
 la ordenación general de las enseñanzas deportivas de régi-
 men especial, y con la normativa básica estatal que regule el 
@@ -256,9 +264,9 @@ Organización de las enseñanzas y de la oferta
 #### Artículo 7. Organización de las enseñanzas.
 1. Las enseñanzas deportivas se estructurarán en dos 
 grados: grado medio y grado superior, a tenor de lo dispuesto 
-en el artículo 64.1 de la Ley Orgánica 2/2006, de 3 de mayo.
+en el artículo 64.1 de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo.
 2. De acuerdo con lo dispuesto en el artículo 3 de la ci-
-tada Ley Orgánica 2/2006, de 3 de mayo, las enseñanzas 
+tada [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, las enseñanzas 
 deportivas de grado medio y de grado superior forman parte 
 de la educación secundaria postobligatoria y de la educación 
 superior, respectivamente.
@@ -270,7 +278,7 @@ nizan en un único ciclo de grado superior.
 5. En la regulación de las enseñanzas de cada título, se 
 determinará la distribución horaria que corresponda a cada 
 uno de los ciclos y módulos, respetando en todo caso lo re-
-cogido en el artículo 7 del Real Decreto 1363/2007, de 24 de 
+cogido en el artículo 7 del [Real Decreto 1363/2007](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1363_2007_establece_ordenacion_general_ensenanzas_deportivas_regimen.md), de 24 de 
 octubre.
 #### Artículo 8. Los módulos de enseñanza deportiva.
 1. Los ciclos de enseñanza deportiva se organizarán en 
@@ -362,7 +370,7 @@ d
 e
 S
 3. Excepcionalmente, y sin perjuicio de lo recogido en el 
-artículo 11.1 del Real Decreto 1363/2007, de 24 de octubre, 
+artículo 11.1 del [Real Decreto 1363/2007](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1363_2007_establece_ordenacion_general_ensenanzas_deportivas_regimen.md), de 24 de octubre, 
 cuando se considere que el alumnado ha alcanzado la forma-
 ción adecuada para iniciar el módulo de formación práctica y, 
 además, se prevea la superación de los módulos pendientes 
@@ -441,7 +449,7 @@ en Educación Secundaria Obligatoria o equivalente a efectos
 académicos. Asimismo, se podrá acceder al grado medio de 
 las enseñanzas deportivas, si se acredita alguna de las condi-
 ciones recogidas en el apartado 1 de la disposición adicional 
-duodécima del Real Decreto 1363/2007, de 24 de octubre.
+duodécima del [Real Decreto 1363/2007](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1363_2007_establece_ordenacion_general_ensenanzas_deportivas_regimen.md), de 24 de octubre.
 2. Para acceder al ciclo final de las enseñanzas de grado 
 medio será necesario acreditar tener superado el ciclo inicial 
 de grado medio en la correspondiente modalidad o especiali-
@@ -452,7 +460,7 @@ así como el título de Técnico deportivo en la correspondiente
 modalidad o especialidad deportiva. Asimismo, se podrá acce-
 der al grado superior de las enseñanzas deportivas, si se acre-
 dita alguna de las condiciones recogidas en el apartado 2 de la 
-disposición adicional duodécima del Real Decreto 1363/2007, 
+disposición adicional duodécima del [Real Decreto 1363/2007](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1363_2007_establece_ordenacion_general_ensenanzas_deportivas_regimen.md), 
 de 24 de octubre.
 4. Excepcionalmente, la Consejería competente en mate-
 ria de educación podrá autorizar el acceso al bloque común 
@@ -472,7 +480,7 @@ cretos que establezcan los títulos y las enseñanzas mínimas
 correspondientes a cada especialidad o modalidad deportiva 
 podrán establecer una edad mínima para el acceso a las ense-
 ñanzas del grado medio, conforme a lo dispuesto en el artícu-
-lo 29.5 del Real Decreto 1363/2007, de 24 de octubre. Esta 
+lo 29.5 del [Real Decreto 1363/2007](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1363_2007_establece_ordenacion_general_ensenanzas_deportivas_regimen.md), de 24 de octubre. Esta 
 modificación no afectará a las condiciones de edad para parti-
 cipar en la prueba de acceso a la que se refiere el artículo 15.
 #### Artículo 14. Requisitos de acceso de carácter específico.
@@ -540,7 +548,7 @@ chas unidades de competencia.
 4. En las pruebas de acceso a las enseñanzas deportivas 
 en las que participen personas con discapacidad se tendrán en 
 cuenta las prescripciones establecidas en la disposición adicio-
-nal tercera del Real Decreto 1363/2007, de 24 de octubre.
+nal tercera del [Real Decreto 1363/2007](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1363_2007_establece_ordenacion_general_ensenanzas_deportivas_regimen.md), de 24 de octubre.
 #### Artículo 15. Acceso sin los títulos de Graduado o Gra-
 duada en Educación Secundaria Obligatoria y de Bachiller.
 1. Será posible acceder a las enseñanzas sin tener el tí-
@@ -623,7 +631,7 @@ les o superiores a cinco y negativas las inferiores a cinco.
 sitos de carácter específico.
 1. La prueba de acceso, a la que se refiere el artículo 15, 
 tendrá validez en todo el territorio nacional, conforme a lo dis-
-puesto en el artículo 32 del Real Decreto 1363/2007, de 24 
+puesto en el artículo 32 del [Real Decreto 1363/2007](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1363_2007_establece_ordenacion_general_ensenanzas_deportivas_regimen.md), de 24 
 de octubre.
 2. Los requisitos de carácter específico a que se refiere 
 el artículo 14, tendrán validez en todo el territorio nacional. 
@@ -635,7 +643,7 @@ modalidad deportiva.
 de rendimiento de Andalucía o equivalentes a las enseñanzas 
 deportivas. 
 1. De acuerdo con lo previsto en los artículos 67 y 85 de 
-la Ley Orgánica 2/2006, de 3 de mayo, en el artículo 53 de 
+la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, en el artículo 53 de 
 la Ley 10/1990, de 15 de octubre, del Deporte, y en el Real 
 Decreto 971/2007, de 13 de julio, sobre deportistas de alto ni-
 vel y de alto rendimiento, así como en los artículos 34 y 35 de 
@@ -730,7 +738,7 @@ d) Al menos un 10% de las plazas ofertadas para quienes
 acrediten, según el caso, la homologación de su diploma fe-
 derativo, o la convalidación, o la correspondencia a las que se 
 refieren la disposición adicional cuarta y la disposición transi-
-toria primera del Real Decreto 1363/2007, de 24 de octubre.
+toria primera del [Real Decreto 1363/2007](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1363_2007_establece_ordenacion_general_ensenanzas_deportivas_regimen.md), de 24 de octubre.
 3. Dentro del cupo de plazas para las personas deportis-
 tas de alto nivel, rendimiento o equivalentes, tendrán prioridad 
 las personas deportistas de alto nivel. En el caso de las per-
@@ -977,7 +985,7 @@ por lo establecido en los artículos 31 y 32 del Real Decreto
 de Educación y Ciencia, de 23 de junio de 2003, por la que 
 se establecen las pruebas de madurez correspondientes a las 
 formaciones deportivas del periodo transitorio, reguladas por 
-el Real Decreto 1913/1997, de 19 de diciembre, por el que se 
+el [Real Decreto 1913/1997](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD454_2002_ecd_establecen_elementos_basicos_informes_evaluacion.md), de 19 de diciembre, por el que se 
 configuran como enseñanzas de régimen especial las condu-
 centes a la obtención de titulaciones de técnicos deportivos, 
 se aprueban las directrices generales de los títulos y de las co-
@@ -985,18 +993,18 @@ rrespondientes enseñanzas mínimas, para las personas aspi-
 rantes que no cumplan los requisitos académicos establecidos 
 para el acceso, o norma que la sustituya.
 ### Disposición transitoria segunda. Vigencia de las enseñan-
-zas establecidas al amparo del Real Decreto 1913/1997, de 
+zas establecidas al amparo del [Real Decreto 1913/1997](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD454_2002_ecd_establecen_elementos_basicos_informes_evaluacion.md), de 
 19 de diciembre.
 Hasta que se creen los nuevos títulos y enseñanzas en las 
 modalidades y especialidades de atletismo, baloncesto, balon-
 mano, deportes de montaña y escalada, deportes de invierno 
 y fútbol, que fueron establecidos al amparo de lo recogido en 
-el Real Decreto 1913/1997, de 19 de diciembre, se estará a lo 
+el [Real Decreto 1913/1997](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD454_2002_ecd_establecen_elementos_basicos_informes_evaluacion.md), de 19 de diciembre, se estará a lo 
 dispuesto en los Reales Decretos que crearon los respectivos 
 títulos y enseñanzas mínimas, en los Decretos que estable-
 cieron los currículos, los requisitos y las pruebas de acceso a 
 dichos títulos en Andalucía, así como en la disposición transi-
-toria segunda del Real Decreto 1363/2007, de 24 de octubre.
+toria segunda del [Real Decreto 1363/2007](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1363_2007_establece_ordenacion_general_ensenanzas_deportivas_regimen.md), de 24 de octubre.
 Disposición derogatoria única. Derogación normativa.
 Quedan derogadas cuantas disposiciones de igual o infe-
 rior rango se opongan a lo establecido en el presente Decreto. 
@@ -1045,16 +1053,16 @@ d
  ,alliv
 e
 S
-apartados 3, 4, 5 y 6, del Real Decreto 1363/2007, de 24 de 
+apartados 3, 4, 5 y 6, del [Real Decreto 1363/2007](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1363_2007_establece_ordenacion_general_ensenanzas_deportivas_regimen.md), de 24 de 
 octubre, por el que se establece la ordenación general de las 
 enseñanzas deportivas de régimen especial.
 ### Disposición final segunda. Reproducción de normativa au-
 tonómica.
 Los artículos 3.2 y 12.2 reproducen normas dictadas por 
 la Comunidad Autónoma de Andalucía y recogidas en el ar-
-tículo 4.14 de la Ley 12/2007, de 26 de noviembre, para la 
+tículo 4.14 de la [Ley 12/2007](../01_marco_normativo_general_y_organico/L12_2007_promocion_igualdad_genero_andalucia.md), de 26 de noviembre, para la 
 igualdad de género en Andalucía, y en el artículo 104.3 de la 
-Ley 17/2007, de 10 de diciembre, de Educación de Andalucía.
+[Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre, de Educación de Andalucía.
 ### Disposición final tercera. Desarrollo y ejecución.
 Se habilita al Consejero de Educación para dictar cuantas 
 disposiciones resulten necesarias para el desarrollo y ejecu-

@@ -25,8 +25,10 @@ relaciones:
   - norm-can-d-114-2011
   - norm-es-rdl-5-2015
 fuente_pdf_oficial: https://www.gobiernodecanarias.org/cmsgob1/export/sites/educacion/web/_galerias/descargas/normativa-internas/resolucion_sgt_comision_resolucion_de_conflictos.pdf
+fundamentos_derecho:
+- norma_id: norm-can-d-114-2011
+- norma_id: norm-es-rdl-5-2015
 ---
-
 # Resolución n.º 1751/2018, de 11 de abril, de la Secretaría General Técnica, por la que se regula la Comisión de Resolución de Conflictos y su protocolo de actuación.
 
 ## Cuerpo Dispositivo
@@ -34,10 +36,10 @@ fuente_pdf_oficial: https://www.gobiernodecanarias.org/cmsgob1/export/sites/educ
 RESOLUCIÓN DE LA SECRETARÍA GENERAL TÉCNICA DE LA CONSEJERÍA DE
 EDUCACIÓN Y UNIVERSIDADES POR LA QUE SE REGULA LA COMISIÓN DE
 RESOLUCIÓN DE CONFLICTOS  Y SU PROTOCOLO DE ACTUACIÓN.
-En el marco general establecido por el Decreto 114/2011, de 11 de mayo, que regula
+En el marco general establecido por el [Decreto 114/2011](./D114_2011_regula_convivencia_ambito_educativo_comunidad_autonoma.md), de 11 de mayo, que regula
 la convivencia en el ámbito educativo de la Comunidad Autónoma de Canarias,  así
 como la normativa contenida en el capítulo VI del Título III en relación con el Título VII
-del Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto
+del [Real Decreto Legislativo 5/2015](../../../estatal/01_marco_normativo_general_y_organico/RDL5_2015_aprueba_texto_refundido_ley_estatuto_basico.md), de 30 de octubre, por el que se aprueba el texto
 refundido de la Ley del Estatuto Básico del Empleado Público , la Secretaría General
 Técnica de la Consejería de Educación y Universidades ha estimado conveniente y
 necesaria la creación de una comisión cuya actuación sirva para intentar solucionar

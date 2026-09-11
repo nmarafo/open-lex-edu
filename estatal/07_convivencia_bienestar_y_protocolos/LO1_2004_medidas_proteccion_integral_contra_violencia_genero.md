@@ -218,8 +218,12 @@ relaciones:
   - norma_id: norm-es-1995-25444
   - norma_id: norm-es-2001-7022
   - norma_id: norm-es-lo-8-1985
+fundamentos_derecho:
+- norma_id: norm-es-1984-17387
+- norma_id: norm-es-1995-25444
+- norma_id: norm-es-2001-7022
+- norma_id: norm-es-lo-8-1985
 ---
-
 # Ley Orgánica 1/2004, de 28 de diciembre, de Medidas de Protección Integral contra la Violencia de Género.
 
 ## Preámbulo

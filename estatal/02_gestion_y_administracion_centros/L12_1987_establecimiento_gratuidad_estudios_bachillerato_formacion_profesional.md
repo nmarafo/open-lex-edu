@@ -49,8 +49,9 @@ relaciones:
   articulos:
   - norma_id: '1'
   - norma_id: '6'
+fundamentos_derecho:
+- norma_id: norm-es-lo-8-1985
 ---
-
 # Ley 12/1987, de 2 de julio, sobre establecimiento de la gratuidad de los estudios de Bachillerato, Formación Profesional y Artes Aplicadas y Oficios Artísticos en los Centros públicos y la autonomía de gestión económica de los Centros docentes públicos no universitarios.
 
 ## Preámbulo

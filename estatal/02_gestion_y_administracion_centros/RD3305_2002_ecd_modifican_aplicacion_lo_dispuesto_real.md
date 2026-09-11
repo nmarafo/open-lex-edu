@@ -73,9 +73,11 @@ relaciones:
   - norma_id: '1'
   - norma_id: norm-es-1988-3987
   - norma_id: norm-es-1988-6938
+fundamentos_derecho:
+- norma_id: norm-es-1988-6938
+- norma_id: norm-es-1988-3987
 ---
-
-# Orden ECD/3305/2002, de 16 de diciembre, por la que se modifican las de 14 de marzo de 1988 y de 30 de abril de 1996, para la aplicación de lo dispuesto en el Real Decreto 104/1988, de 29 de enero, sobre homologación y convalidación de títulos y estudios extranjeros de educación no universitaria.
+# Orden ECD/3305/2002, de 16 de diciembre, por la que se modifican las de 14 de marzo de 1988 y de 30 de abril de 1996, para la aplicación de lo dispuesto en el [Real Decreto 104/1988](./RD104_1988_aplicacion_lo_dispuesto_real_decreto_homologacion.md), de 29 de enero, sobre homologación y convalidación de títulos y estudios extranjeros de educación no universitaria.
 
 ## Preámbulo
 

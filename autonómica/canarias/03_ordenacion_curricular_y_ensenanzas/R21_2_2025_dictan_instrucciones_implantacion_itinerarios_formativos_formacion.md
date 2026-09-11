@@ -182,8 +182,18 @@ relaciones:
   - norma_id: norm-es-rd-659-2023
   - norma_id: norm-es-2010-12201
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2025-046-918.pdf
+fundamentos_derecho:
+- norma_id: norm-can-l-6-2014
+- norma_id: norm-can-lo-1-2018
+- norma_id: norm-can-res-boc-2024-230-25
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-can-res-134
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-lo-3-2022
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-rd-659-2023
+- norma_id: norm-es-2010-12201
 ---
-
 # Resolución de la Dirección General de Formación Profesional y Enseñanzas de Régimen Especial, de 21 de febrero de 2025, por la que se dictan instrucciones para la implantación de los itinerarios formativos de Formación Profesional Adaptada y el desarrollo de los currículos de los módulos de carácter general a partir del curso escolar 2024/2025, en el ámbito de la Comunidad Autónoma de Canarias
 
 ## Preámbulo
@@ -214,7 +224,7 @@ Tercero.- Ordenar su publicación en el Boletín Oficial de Canarias, así como 
 
 INSTRUCCIONES PARA LA IMPLANTACIÓN Y DESARROLLO DE LOS ITINERARIOS FORMATIVOS Y LOS CURRÍCULOS DE LOS MÓDULOS DE CARÁCTER GENERAL DE LA FORMACIÓN PROFESIONAL ADAPTADA A PARTIR DEL CURSO ESCOLAR 2024/2025. #### Primera. Objeto y ámbito de aplicación.
 
-La presente Resolución tiene por objeto regular la implantación y desarrollo de los itinerarios formativos de Formación Profesional Adaptada establecidos al amparo del Real Decreto 659/2023, de 18 de julio, por el que se desarrolla la ordenación del Sistema de Formación Profesional. Esta Resolución será de aplicación en los centros sostenidos con fondos públicos y centros privados, que impartan estas enseñanzas en la Comunidad Autónoma de Canarias.
+La presente Resolución tiene por objeto regular la implantación y desarrollo de los itinerarios formativos de Formación Profesional Adaptada establecidos al amparo del [Real Decreto 659/2023](./R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, por el que se desarrolla la ordenación del Sistema de Formación Profesional. Esta Resolución será de aplicación en los centros sostenidos con fondos públicos y centros privados, que impartan estas enseñanzas en la Comunidad Autónoma de Canarias.
 
 #### Segunda. Itinerarios formativos de la Formación Profesional Adaptada.
 

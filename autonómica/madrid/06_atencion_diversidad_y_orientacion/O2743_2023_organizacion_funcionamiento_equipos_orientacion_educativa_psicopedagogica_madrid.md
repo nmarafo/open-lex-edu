@@ -28,8 +28,18 @@ tags:
 relaciones:
   fundamenta:
   - norma_id: norm-mad-o-2026-08-22-desdoblamiento-eoep-navalcarnero-sectorizacion-madrid-sur
+fundamentos_derecho:
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-mad-d-52-2021
+- norma_id: norm-mad-l1-1983-gobierno-administracion-comunidad-madrid
+- norma_id: norm-mad-l1-2022
+- norma_id: norm-mad-d23-2023
+- norma_id: norm-es-l-39-2015
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-lo-3-2018
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
 ---
-
 ## Preámbulo
 
 I. COMUNIDAD DE MADRID
@@ -38,7 +48,7 @@ Consejería de Educación, Ciencia y Universidades
 13 ORDEN 2743/2023, de 26 de julio, de la Consejería de Educación, Ciencia y Uni-
 versidades, por la que se establece la organización y funcionamiento de los equi-
 pos de orientación educativa y psicopedagógica en la Comunidad de Madrid.
-La Ley Orgánica 2/2006, de 3 de mayo, de Educación, modificada por la Ley Orgáni-
+La [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, modificada por la Ley Orgáni-
 ca 3/2020, de 29 de diciembre, en su artículo 157.1.h), establece que corresponde a las Ad-
 ministraciones educativas proveer los recursos necesarios para garantizar la existencia de
 servicios o profesionales especializados en la orientación educativa, psicopedagógica y
@@ -55,11 +65,11 @@ todo el alumnado. En su artículo 71.3 indica que las administraciones educativa
 rán los procedimientos y recursos para identificar tempranamente las necesidades educati-
 vas específicas del citado alumnado y proporcionarle atención desde el mismo momento en
 que dicha necesidad sea identificada.
-La Ley 1/2022, de 10 de febrero, Maestra de Libertad de Elección Educativa de la Co-
+La [Ley 1/2022](../01_marco_normativo_general_y_organico/L1_2022_maestra_libertad_eleccion_educativa_madrid.md), de 10 de febrero, Maestra de Libertad de Elección Educativa de la Co-
 munidad de Madrid, en sus artículos 20 a 23, incide en la necesidad de la identificación y
 atención temprana de las necesidades específicas de apoyo educativo a partir de la evalua-
 ción psicopedagógica realizada por los profesionales de la red de orientación.
-El Decreto 23/2023, de 22 de marzo, del Consejo de Gobierno, por el que se regula la
+El [Decreto 23/2023](./D23_2023_atencion_diferencias_individuales_alumnos_madrid.md), de 22 de marzo, del Consejo de Gobierno, por el que se regula la
 atención educativa a las diferencias individuales del alumnado en la Comunidad de Madrid,
 se ocupa en su artículo 29 de la red de orientación especializada, formada por el conjunto de
 servicios y profesionales especializados en orientación educativa de la Comunidad de
@@ -124,15 +134,15 @@ pone de manifiesto la necesidad de contar con EOEP adaptados a las necesidades d
 centros educativos y de su alumnado, y darles respuesta con un modelo de orientación cer-
 cano a los centros y a su realidad.
 La presente orden se adecúa a los principios de buena regulación, de acuerdo con lo pre-
-visto en el artículo 129 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrati-
-vo Común de las Administraciones Públicas, y en el artículo 2 del Decreto 52/2021, de 24 de
+visto en el artículo 129 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Administrati-
+vo Común de las Administraciones Públicas, y en el artículo 2 del [Decreto 52/2021](../01_marco_normativo_general_y_organico/D52_2021_procedimiento_elaboracion_disposiciones_normativas_madrid.md), de 24 de
 marzo, del Consejo de Gobierno, por el que se regula y simplifica el procedimiento de elabo-
 ración de las disposiciones normativas de carácter general de la Comunidad de Madrid.
 Conforme a los principios de necesidad y eficacia, esta norma responde al interés gene-
 ral puesto que regula la organización y funcionamiento de los EOEP de modo que se facili-
 ta el incremento de la presencia y de la atención de sus profesionales en los centros públicos
 de educación infantil y primaria a los que atienden. La promulgación de esta orden es la
-forma más adecuada de atender a lo dispuesto en el artículo 29.11 del Decreto 23/2023,
+forma más adecuada de atender a lo dispuesto en el artículo 29.11 del [Decreto 23/2023](./D23_2023_atencion_diferencias_individuales_alumnos_madrid.md),
 de 23 de marzo.
 Asimismo, cumple con el principio de proporcionalidad, ya que contiene la regulación
 imprescindible para el fin que persigue al incluir únicamente aspectos relacionados con el
@@ -144,7 +154,7 @@ de Madrid, por lo que contribuye a lograr un ordenamiento jurídico sólido y co
 la regulación de la organización y funcionamiento de los EOEP.
 También cumple esta norma con el principio de transparencia, conforme a lo estableci-
 do en la Ley 10/2019, de 10 de abril, de Transparencia y de Participación de la Comunidad
-de Madrid, y en el artículo 9 del Decreto 52/2021, de 24 de marzo, mediante la evacuación
+de Madrid, y en el artículo 9 del [Decreto 52/2021](../01_marco_normativo_general_y_organico/D52_2021_procedimiento_elaboracion_disposiciones_normativas_madrid.md), de 24 de marzo, mediante la evacuación
 del trámite de audiencia e información pública.
 Por otro lado, en aplicación del principio de eficiencia, esta norma no impone cargas admi-
 nistrativas innecesarias o accesorias, ni modifica las existentes, facilita la organización y funcio-
@@ -158,7 +168,7 @@ cencia, del Consejo Asesor de Personas con Discapacidad, del Consejo Escolar de 
 nidad de Madrid, de la Secretaría General Técnica de la Consejería de Educación, Ciencia y
 Universidades y el informe de la Abogacía General de la Comunidad de Madrid.
 El Consejero de Educación, Ciencia y Universidades es competente para dictar esta
-orden, de acuerdo con lo establecido en el artículo 41.d) de la Ley 1/1983, de 13 de diciem-
+orden, de acuerdo con lo establecido en el artículo 41.d) de la [Ley 1/1983](../01_marco_normativo_general_y_organico/L1_1983_gobierno_administracion_comunidad_madrid.md), de 13 de diciem-
 bre, de Gobierno y Administración de la Comunidad de Madrid, y el artículo 29.11 del De-
 creto 23/2023, de 22 de marzo.
 En su virtud, a propuesta de la Dirección General de Educación Infantil, Primaria y Es-
@@ -650,7 +660,7 @@ Seguridad y tratamiento de la información
 regirá en todo momento por los criterios establecidos por el Reglamento (UE) 2016/679 del
 Parlamento Europeo y el Consejo, de 27 de abril de 2016, relativo a la protección de las per-
 sonas físicas en lo que respecta al tratamiento de datos personales y a la libre circulación de
-estos datos y a la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Persona-
+estos datos y a la [Ley Orgánica 3/2018](../../../estatal/02_gestion_y_administracion_centros/LO3_2018_proteccion_datos_personales_garantia_derechos_digitales.md), de 5 de diciembre, de Protección de Datos Persona-
 les y Garantía de los Derechos Digitales,
 
 2. Para el desarrollo de sus funciones los miembros de los EOEP utilizarán el módu-

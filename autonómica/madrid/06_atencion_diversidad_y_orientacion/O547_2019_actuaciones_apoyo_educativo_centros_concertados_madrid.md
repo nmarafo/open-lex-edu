@@ -25,8 +25,16 @@ tags:
 - centros_concertados
 - diversidad
 - madrid
+fundamentos_derecho:
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-mad-l12-1999-creacion-consejo-escolar-comunidad-madrid
+- norma_id: norm-es-l-39-2015
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-2001-7022
+- norma_id: norm-es-2010-11426
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
 ---
-
 # Orden 547/2019, de 24 de febrero, de la Consejería de Educación e Investigación, por la que se regulan los criterios para la organización y funcionamiento de la orientación en Educación Primaria en centros privados concertados de la Comunidad de Madrid, así como las líneas generales para su financiación
 
 ## Preámbulo
@@ -45,7 +53,7 @@ en su conjunto. La orientación educativa aporta un asesoramiento especializado 
 tros docentes que contribuye a la adecuada atención a la diversidad del alumnado a lo lar-
 go de toda la escolaridad, con la debida coordinación y atendiendo al desarrollo personal y
 características del alumnado y del entorno.
-A partir de la implantación de la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación
+A partir de la implantación de la [Ley Orgánica 1/1990](../../../estatal/02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md), de 3 de octubre, de Ordenación
 General del Sistema Educativo, la orientación psicopedagógica, educativa y profesional se
 configura como un principio de la actividad educativa y un factor de calidad y mejora de la
 enseñanza. La disposición adicional tercera de dicha Ley estableció la obligación de las Ad-
@@ -57,7 +65,7 @@ ción como parte de la estructura de los centros de Educación Secundaria. A par
 so 1995-1996, la Administración Educativa comenzó a dotar a los centros privados concer-
 tados de financiación específica para el servicio de orientación educativa en Educación
 Secundaria.
-La Ley Orgánica 2/2006, de 3 de mayo, de Educación, modificada por la Ley Orgáni-
+La [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, modificada por la Ley Orgáni-
 ca 2/2006, de 9 de diciembre, para la Mejora de la Calidad Educativa (LOMCE), en su ar-
 tículo 157.1.h recogió así mismo la obligación de las Administraciones educativas de pro-
 veer los recursos necesarios para garantizar la existencia de servicios o profesionales
@@ -80,7 +88,7 @@ tadores que se financien en los centros concertados en Educación Primaria desem
 las funciones de apoyo a centros que, hasta el momento, han venido realizando los Equipos
 de Orientación Educativa y Psicopedagógica de la Comunidad de Madrid.
 Esta norma se ha elaborado de acuerdo con los principios de buena regulación recogi-
-dos en el artículo 129 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrati-
+dos en el artículo 129 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Administrati-
 vo Común de las Administraciones Públicas.
 La iniciativa normativa que se propone se adecúa a los principios de necesidad y efi-
 cacia por ser de interés general. El fin que persigue es regular la financiación de la orienta-
@@ -102,7 +110,7 @@ los ciudadanos y entidades afectadas para recabar sus posibles aportaciones. Por
 esta iniciativa normativa no impone cargas administrativas innecesarias y accesorias y me-
 jora la gestión de los recursos públicos, por lo que se adecúa al principio de eficiencia.
 Para elaborar esta orden ha emitido dictamen el Consejo Escolar de la Comunidad de
-Madrid, de acuerdo con lo establecido en el artículo 2.1.b) de la Ley 12/1999, de 29 de abril,
+Madrid, de acuerdo con lo establecido en el artículo 2.1.b) de la [Ley 12/1999](../01_marco_normativo_general_y_organico/L12_1999_creacion_consejo_escolar_comunidad_madrid.md), de 29 de abril,
 de creación del Consejo Escolar de la Comunidad de Madrid, modificada por el artículo 29
 de la Ley 9/2010, de 23 de diciembre, de Medidas Fiscales, Administrativas y Racionaliza-
 ción del Sector Público.
@@ -202,12 +210,12 @@ acuerdo con la legislación vigente, dentro del marco organizativo, pedagógico 
 del centro privado concertado, con respeto a su carácter propio.
 2.
 La titulación de los orientadores en la etapa de Educación Primaria será la estable-
-cida en el artículo 5 del Real Decreto 860/2010, de 2 de julio, por el que se regulan las con-
+cida en el artículo 5 del [Real Decreto 860/2010](../../../estatal/02_gestion_y_administracion_centros/RD860_2010_regulan_condiciones_formacion_inicial_profesorado_centros.md), de 2 de julio, por el que se regulan las con-
 diciones de formación inicial del profesorado de los centros privados para ejercer la docen-
 cia en las enseñanzas de Educación Secundaria Obligatoria o de Bachillerato.
 3.
 En tanto la Comunidad de Madrid no desarrolle reglamentariamente lo previsto en
-el punto 2 del artículo 5 del Real Decreto 860/2010, de 2 de julio, los requisitos de titula-
+el punto 2 del artículo 5 del [Real Decreto 860/2010](../../../estatal/02_gestion_y_administracion_centros/RD860_2010_regulan_condiciones_formacion_inicial_profesorado_centros.md), de 2 de julio, los requisitos de titula-
 ción de los orientadores educativos vendrán determinados por lo dispuesto simultáneamen-
 te en los puntos 1 y 3 del artículo citado.
 

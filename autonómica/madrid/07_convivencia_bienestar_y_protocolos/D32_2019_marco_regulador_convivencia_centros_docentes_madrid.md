@@ -60,8 +60,17 @@ relaciones:
   - norma_id: norm-es-lo-8-2021
   - norma_id: norm-es-lo-1-1996
   - norma_id: norm-mad-d-29-2013
+fundamentos_derecho:
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-mad-l12-1999-creacion-consejo-escolar-comunidad-madrid
+- norma_id: norm-mad-l1-1983-gobierno-administracion-comunidad-madrid
+- norma_id: norm-mad-l2-2010
+- norma_id: norm-es-l-39-2015
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-lo-8-1985
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
 ---
-
 # Decreto 32/2019, de 9 de abril, por el que se establece el marco regulador de la convivencia en los centros docentes de la Comunidad de Madrid
 
 ## Preámbulo
@@ -101,7 +110,7 @@ El artículo 10.1 de la Constitución Española proclama que la dignidad de la p
 los derechos inviolables que le son inherentes, el libre desarrollo de la personalidad, el res-
 peto a la ley y a los derechos de los demás son fundamento de orden político y de la paz
 social. En su artículo 27.2, la Constitución Española consagra el derecho a la educación
-como derecho fundamental. Y, en este sentido, la Ley 2/2010, de 15 de junio, de Autoridad
+como derecho fundamental. Y, en este sentido, la [Ley 2/2010](../01_marco_normativo_general_y_organico/L2_2010_autoridad_profesor_comunidad_madrid.md), de 15 de junio, de Autoridad
 del Profesor, reconoce, tanto en el plano académico como en el de la disciplina, dicha auto-
 ridad como la primera garantía de que el disfrute individual de tal derecho por cada alum-
 no no resulte entorpecido, y de que se aseguren así los derechos de todos. Esta garantía se
@@ -112,7 +121,7 @@ esenciales en cada una de las etapas que componen nuestro sistema educativo. Com
 cedente, el Decreto 136/2002, de 25 de julio, por el que se establece el marco regulador de
 las normas de convivencia en los centros docentes de la Comunidad de Madrid, derogado
 por el Decreto 15/2007, de 19 de abril, por el que se establece el marco regulador de la con-
-vivencia en los centros docentes de la Comunidad de Madrid, y la Ley Orgánica 8/1985, de 3
+vivencia en los centros docentes de la Comunidad de Madrid, y la [Ley Orgánica 8/1985](../../../estatal/02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md), de 3
 de julio, reguladora del Derecho a la Educación, se detiene en la necesidad de establecer
 unas normas de convivencia y recoge derechos y obligaciones de todos los miembros de la
 comunidad educativa en relación con el clima escolar de los centros educativos. La Ley Or-
@@ -166,7 +175,7 @@ los alumnos a los diferentes, a los semejantes y al profesorado, así como la ac
 parte de los padres de su gran responsabilidad en la educación de sus hijos, la Comunidad
 de Madrid ha elaborado este nuevo decreto.
 La presente norma se adecua a los principios de buena regulación, de acuerdo con lo
-previsto en el artículo 129 de la Ley 39/2015, de 1 de octubre, del Procedimiento Adminis-
+previsto en el artículo 129 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Adminis-
 trativo Común de las Administraciones Públicas, respondiendo a los principios de necesi-
 dad y eficacia, proporcionalidad, seguridad jurídica, transparencia y eficiencia.
 Así, esta norma es necesaria para contribuir a alcanzar el objetivo de la constante me-
@@ -184,17 +193,17 @@ cubrirse, sin que restrinja derechos o imponga obligaciones a los destinatarios 
 rrespondan con las normas que en los centros de la Comunidad de Madrid se expliciten.
 En el proceso de elaboración de este decreto se ha dado cumplimiento al trámite de
 audiencia e información pública a través del Portal de Transparencia de la Comunidad de
-Madrid, conforme a lo dispuesto en el artículo 133.2 de la Ley 39/2015, de 1 de octubre, y
+Madrid, conforme a lo dispuesto en el artículo 133.2 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, y
 
 BOCM
 en el artículo 26.6 de la Ley 50/1997, de 27 de noviembre, de Gobierno, respetando así el
 principio de transparencia normativa.
 Asimismo, ha emitido dictamen el Consejo Escolar de la Comunidad de Madrid, de
-acuerdo con el artículo 2.1.b) de la Ley 12/1999, de 29 de abril, de creación del Consejo
+acuerdo con el artículo 2.1.b) de la [Ley 12/1999](../01_marco_normativo_general_y_organico/L12_1999_creacion_consejo_escolar_comunidad_madrid.md), de 29 de abril, de creación del Consejo
 Escolar de la Comunidad de Madrid, y se ha recabado informe de la Abogacía General y
 dictamen de la Comisión Jurídica Asesora de la Comunidad de Madrid.
 El Consejo de Gobierno de la Comunidad de Madrid es competente para dictar el pre-
-sente decreto, de acuerdo con lo establecido en el artículo 21.g) de la Ley 1/1983, de 13 de
+sente decreto, de acuerdo con lo establecido en el artículo 21.g) de la [Ley 1/1983](../01_marco_normativo_general_y_organico/L1_1983_gobierno_administracion_comunidad_madrid.md), de 13 de
 diciembre, de Gobierno y Administración de la Comunidad de Madrid.
 En su virtud, a propuesta del Consejero de Educación e Investigación, y de acuerdo
 con la Comisión Jurídica Asesora de la Comunidad de Madrid, previa deliberación del Con-
@@ -215,11 +224,11 @@ El presente decreto será de aplicación tanto en los centros públicos como en 
 centros privados concertados que impartan enseñanzas no universitarias, si bien la aplica-
 ción de aquellos preceptos relativos a competencias de los órganos colegiados y uniperso-
 nales se adaptará a la organización interna de dichos centros, de conformidad con lo dis-
-puesto en los artículos 54 y siguientes de la Ley Orgánica 8/1985, de 3 de julio, reguladora
+puesto en los artículos 54 y siguientes de la [Ley Orgánica 8/1985](../../../estatal/02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md), de 3 de julio, reguladora
 del Derecho a la Educación.
 3.
 Este decreto no será aplicable en los centros privados no concertados, en el marco
-de la autonomía reconocida a estos en el artículo 25 de la Ley Orgánica 8/1985, de 3 de julio,
+de la autonomía reconocida a estos en el artículo 25 de la [Ley Orgánica 8/1985](../../../estatal/02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md), de 3 de julio,
 reguladora del Derecho a la Educación, que podrán no obstante adaptar sus reglamentos de
 régimen Interior a los preceptos del presente decreto, y deberán respetar en cualquier caso los
 principios que garanticen la seguridad jurídica, especialmente en lo que se refiere al proce-
@@ -280,8 +289,8 @@ y del personal de administración y servicios
 1.
 El ejercicio de los derechos y el cumplimiento de los deberes por parte de la comu-
 nidad educativa se realizarán en el marco de los fines y principios que a la actividad educa-
-tiva atribuye el artículo 2 de la Ley Orgánica 8/1985, de 3 de julio, reguladora del Derecho
-a la Educación, los artículos 1 y 2 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+tiva atribuye el artículo 2 de la [Ley Orgánica 8/1985](../../../estatal/02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md), de 3 de julio, reguladora del Derecho
+a la Educación, los artículos 1 y 2 de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación.
 En la aplicación del presente decreto primará el interés superior de los menores sobre
 cualquier otro interés legítimo que pudiera concurrir. Cuantas medidas se adopten al ampa-
 ro del presente decreto deberán tener carácter educativo.
@@ -293,7 +302,7 @@ rechos y por el cumplimiento de los deberes de los miembros de la comunidad educ
 
 #### Artículo 4. Derechos del alumnado
 
-De conformidad con lo establecido en los artículos 6 y 8 de la Ley Orgánica 8/1985,
+De conformidad con lo establecido en los artículos 6 y 8 de la [Ley Orgánica 8/1985](../../../estatal/02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md),
 de 3 de julio, reguladora del Derecho a la Educación:
 1.
 Todos los alumnos tienen los mismos derechos y deberes, sin más distinciones que
@@ -358,7 +367,7 @@ o accidente.
 #### Artículo 5. Deberes del alumnado
 
 1.
-De conformidad con el artículo 6.4 de la Ley Orgánica 8/1985, de 3 de julio, re-
+De conformidad con el artículo 6.4 de la [Ley Orgánica 8/1985](../../../estatal/02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md), de 3 de julio, re-
 guladora del Derecho a la Educación, son deberes de los alumnos:
 a)
 Estudiar y esforzarse para conseguir el máximo desarrollo de sus capacidades.
@@ -1600,7 +1609,7 @@ por profesores y miembros del equipo directivo de los centros docentes tendrán 
 batorio y disfrutarán de presunción de veracidad «iuris tantum» o salvo prueba en contra-
 rio, sin perjuicio de las pruebas que, en defensa de los respectivos derechos o intereses, pue-
 dan señalar o aportar los propios alumnos. Todo ello en consonancia con el artículo 124.3
-de la LOE y con el artículo 6 de la Ley 2/2010.
+de la LOE y con el artículo 6 de la [Ley 2/2010](../01_marco_normativo_general_y_organico/L2_2010_autoridad_profesor_comunidad_madrid.md).
 2.
 Para determinar la aplicación de medidas correctoras correspondientes a la comi-
 sión de una falta leve, será competente cualquier profesor que presencie o tenga cono-

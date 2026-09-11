@@ -28,8 +28,16 @@ tags:
 - pruebas_acceso
 - ordenacion_acceso
 - madrid
+fundamentos_derecho:
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-mad-d-187-2021
+- norma_id: norm-es-l-39-2015
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-2001-7022
+- norma_id: norm-es-lo-3-2018
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
 ---
-
 # Resolución de 30 de noviembre de 2022, de la Dirección General de Educación Secundaria, Formación Profesional y Régimen Especial, por la que se convocan en la Comunidad de Madrid en el curso académico 2022-2023 las pruebas de acceso a ciclos formativos de formación profesional y a las enseñanzas profesionales de artes plásticas y diseño, así como la prueba sustitutiva de los requisitos académicos establecidos para el acceso a las enseñanzas deportivas de régimen especial y a las formaciones deportivas en período transitorio
 
 ## Preámbulo
@@ -43,7 +51,7 @@ bas de acceso a ciclos formativos de formación profesional y a las enseñanzas
 profesionales de artes plásticas y diseño, así como la prueba sustitutiva de los
 requisitos académicos establecidos para el acceso a las enseñanzas deportivas
 de régimen especial y a las formaciones deportivas en período transitorio.
-El Decreto 187/2021, de 21 de julio, del Consejo de Gobierno, por el que se regulan
+El [Decreto 187/2021](./D187_2021_pruebas_acceso_ciclos_formativos_fp_artes_plasticas_madrid.md), de 21 de julio, del Consejo de Gobierno, por el que se regulan
 las pruebas de acceso a ciclos formativos de formación profesional y a las enseñanzas pro-
 fesionales de artes plásticas y diseño y la prueba sustitutiva de los requisitos académicos es-
 tablecidos para el acceso a las enseñanzas deportivas de régimen especial y a las formacio-
@@ -59,7 +67,7 @@ profesional, la prueba o, en su caso, parte específica de la prueba de acceso a
 tivos de grado medio de artes plásticas y diseño y la prueba o, en su caso, parte específica
 de la prueba de acceso a ciclos formativos de grado superior de artes plásticas y diseño.
 Las pruebas se desarrollarán de acuerdo con lo dispuesto en la presente resolución y
-en el Decreto 187/2021, de 21 de julio.
+en el [Decreto 187/2021](./D187_2021_pruebas_acceso_ciclos_formativos_fp_artes_plasticas_madrid.md), de 21 de julio.
 El Decreto 236/2021, de 17 de noviembre, del Consejo de Gobierno, por el que se es-
 tablece la estructura orgánica de la Consejería de Educación, Universidades, Ciencia y Por-
 tavocía, en relación con el Decreto 38/2022, de 15 de junio, del Consejo de Gobierno, por
@@ -116,7 +124,7 @@ sonas interesadas se inscribirán en la prueba común de acceso a ciclos formati
 superior por la vía de enseñanzas de formación profesional, así como en la parte específica
 de la prueba de acceso a ciclos formativos de grado superior de formación profesional
 vinculada a la misma, por una de las opciones establecidas.
-De conformidad con lo dispuesto en el artículo 37 del Decreto 187/2021, de 21 de ju-
+De conformidad con lo dispuesto en el artículo 37 del [Decreto 187/2021](./D187_2021_pruebas_acceso_ciclos_formativos_fp_artes_plasticas_madrid.md), de 21 de ju-
 lio, del Consejo de Gobierno, por el que se regulan las pruebas de acceso a ciclos formati-
 vos de formación profesional y a las enseñanzas profesionales de artes plásticas y diseño y
 la prueba sustitutiva de los requisitos académicos establecidos para el acceso a las enseñan-
@@ -174,7 +182,7 @@ común, así como, en su caso, la exención de la parte específica.
 Cuarto
 Requisitos para la inscripción
 1.
-De conformidad con lo establecido en el artículo 5 del Decreto 187/2021, de 21
+De conformidad con lo establecido en el artículo 5 del [Decreto 187/2021](./D187_2021_pruebas_acceso_ciclos_formativos_fp_artes_plasticas_madrid.md), de 21
 de julio, son requisitos para la inscripción:
 a)
 En la prueba común de acceso a ciclos formativos de grado medio, tener una edad
@@ -203,7 +211,7 @@ sistema educativo. La Comunidad de Madrid invalidará los resultados obtenidos e
 pruebas de acceso a ciclos formativos de formación profesional convocadas en la presente
 resolución a quienes incumplan esta condición.
 3.
-De conformidad con lo establecido en el artículo 7.8 del Decreto 187/2021, de 21
+De conformidad con lo establecido en el artículo 7.8 del [Decreto 187/2021](./D187_2021_pruebas_acceso_ciclos_formativos_fp_artes_plasticas_madrid.md), de 21
 de julio, las personas interesadas podrán solicitar su inscripción en la prueba común de ac-
 ceso a ciclos formativos de grado medio o, en su caso, de grado superior, en todas las vías
 que desee siempre que cumplan con los requisitos establecidos en cada caso.
@@ -257,11 +265,11 @@ de grado superior (código I.03.1.01) es de 25 euros.
 En caso de que la inscripción en esta prueba se realice por la vía de enseñanzas de for-
 mación profesional, el abono de este precio público incluirá la inscripción en la parte especí-
 fica de la prueba de acceso a ciclos formativos de grado superior de formación profesional, de
-conformidad con lo establecido en el artículo 10 del Decreto 187/2021, de 21 de julio.
+conformidad con lo establecido en el artículo 10 del [Decreto 187/2021](./D187_2021_pruebas_acceso_ciclos_formativos_fp_artes_plasticas_madrid.md), de 21 de julio.
 Asimismo, en caso de que la inscripción en esta prueba se realice por la vía de artes plás-
 ticas y diseño, el abono de este precio público incluirá la inscripción en la parte específica
 de la prueba de acceso a ciclos formativos de grado superior de artes plásticas y diseño, de
-conformidad con lo establecido en el artículo 10 del Decreto 187/2021, de 21 de julio.
+conformidad con lo establecido en el artículo 10 del [Decreto 187/2021](./D187_2021_pruebas_acceso_ciclos_formativos_fp_artes_plasticas_madrid.md), de 21 de julio.
 Los precios públicos referidos estarán sujetos al régimen de bonificaciones y exencio-
 nes detallado en el anexo I de la Orden 359/2010, de 1 de febrero, por la que se dictan nor-
 mas para la aplicación de los precios públicos correspondientes a la prueba de acceso a ci-
@@ -277,7 +285,7 @@ ro de 2023, ambos inclusive.
 La presentación de solicitudes podrá efectuarse:
 a)
 Preferentemente, de forma telemática, mediante tramitación electrónica, en los regis-
-tros electrónicos previstos en el artículo 16.4.a) de la Ley 39/2015, de 1 de octubre.
+tros electrónicos previstos en el artículo 16.4.a) de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre.
 La presentación de la solicitud de forma telemática se realizará a través de la Secre-
 taría Virtual del Sistema Integral de Gestión Educativa de la Comunidad de Madrid
 (RAÍCES) desde el siguiente enlace: https://raices.madrid.org/secretariavirtual
@@ -307,7 +315,7 @@ grado medio y el anexo V para la prueba común de acceso a ciclos formativos de
 grado superior y parte específica de la prueba de acceso a ciclos formativos de gra-
 do superior de formación profesional.
 Asimismo, se podrá presentar de forma presencial en cualquiera de los lugares pre-
-vistos en el artículo 16.4 apartados b), c), d) y e) de la Ley 39/2015, de 1 de octubre,
+vistos en el artículo 16.4 apartados b), c), d) y e) de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre,
 del Procedimiento Administrativo Común de las Administraciones Públicas, de-
 biendo, en todo caso, indicarse como destinatario el centro educativo al que se diri-
 ge la solicitud, así como la Dirección del Área Territorial a la que pertenece.
@@ -357,7 +365,7 @@ en el momento de su presentación, en caso de que la persona interesada se opong
 ma expresa a la consulta de los datos contenidos en dicha documentación o, excepcional-
 mente, no fuera posible recabar la misma electrónicamente a través de las redes corporati-
 vas o de consulta a las plataformas de intermediación de datos u otros sistemas electrónicos
-habilitados al efecto, de acuerdo con lo establecido en el artículo 28.3 de la Ley 39/2015,
+habilitados al efecto, de acuerdo con lo establecido en el artículo 28.3 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md),
 de 1 de octubre.
 
 BOCM-20221216-32
@@ -416,11 +424,11 @@ bio de centro tramitada por los interesados.
 4.
 Contra esta resolución la persona interesada podrá interponer recurso de alzada ante
 la Dirección de Área Territorial correspondiente a dicho centro, en el plazo de un mes desde
-su notificación en los términos previstos en los artículos 115, 121 y 122 de la Ley 39/2015,
+su notificación en los términos previstos en los artículos 115, 121 y 122 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md),
 de 1 de octubre. Esta resolución, que será motivada, pondrá fin a la vía administrativa.
 Octavo
 Desistimiento de la solicitud
-De conformidad con lo establecido en el artículo 7.10 del Decreto 187/2021, de 21 de
+De conformidad con lo establecido en el artículo 7.10 del [Decreto 187/2021](./D187_2021_pruebas_acceso_ciclos_formativos_fp_artes_plasticas_madrid.md), de 21 de
 julio, la persona interesada podrá desistir de su solicitud de inscripción en las pruebas de
 acceso a las que se refiere esta convocatoria, mediante escrito dirigido a la dirección del
 centro donde se inscribió antes del 27 de abril de 2023, sin que este desistimiento suponga
@@ -454,7 +462,7 @@ Aprendizaje (DEA), en el que se indiquen las necesidades educativas que justifiq
 la adaptación solicitada, así como las medidas de adaptación para la realización de
 pruebas de evaluación que se hayan aplicado durante su escolarización.
 2.
-De conformidad con el artículo 52 del Decreto 187/2021, de 21 de julio, las me-
+De conformidad con el artículo 52 del [Decreto 187/2021](./D187_2021_pruebas_acceso_ciclos_formativos_fp_artes_plasticas_madrid.md), de 21 de julio, las me-
 didas de adaptación de las pruebas aplicables a quienes presenten alguna discapacidad o ne-
 cesidad educativa específica podrán ser las siguientes:
 a)
@@ -488,7 +496,7 @@ Cualesquiera otras que, por la particularidad de las necesidades alegadas, no se
 contemplen en los apartados anteriores, siempre que exista disponibilidad en el
 centro examinador para su aplicación.
 3.
-En aplicación de lo dispuesto en el artículo 53.1 del Decreto 187/2021, de 21 de
+En aplicación de lo dispuesto en el artículo 53.1 del [Decreto 187/2021](./D187_2021_pruebas_acceso_ciclos_formativos_fp_artes_plasticas_madrid.md), de 21 de
 julio, el director del centro receptor de la solicitud resolverá la estimación o desestimación
 de las solicitudes de adaptación contempladas en este decreto, notificándolas a los intere-
 sados antes del 26 de abril de 2023.
@@ -497,7 +505,7 @@ ción que desea recibir las notificaciones por medios electrónicos deberá esta
 mente dado de alta en el servicio de Notificaciones Electrónicas de la Comunidad de
 Madrid. En caso de silencio administrativo, este se considerará desestimatorio.
 4.
-De conformidad con lo dispuesto en el artículo 53.4 de la Decreto 187/2021, de 21 de
+De conformidad con lo dispuesto en el artículo 53.4 de la [Decreto 187/2021](./D187_2021_pruebas_acceso_ciclos_formativos_fp_artes_plasticas_madrid.md), de 21 de
 julio, las solicitudes que acrediten circunstancias no contempladas en el punto anterior se-
 rán remitidas por el centro receptor de la solicitud a la Dirección General de Educación Se-
 cundaria, Formación Profesional y Régimen Especial antes del 14 de febrero de 2023. En
@@ -517,7 +525,7 @@ rrespondiente cuando la resolución haya sido adoptada por el director del centr
 o ante la Viceconsejería de Política Educativa cuando la resolución haya sido adoptada por
 la Dirección General de Educación Secundaria, Formación Profesional y Régimen Especial,
 que resolverán lo que proceda en los términos previstos en los artículos 115, 121 y 122 de la
-Ley 39/2015, de 1 de octubre. Esta resolución, que será motivada, pondrá fin a la vía admi-
+[Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre. Esta resolución, que será motivada, pondrá fin a la vía admi-
 nistrativa.
 Décimo
 Solicitud y resolución de la exención de alguna o algunas de las partes de la prueba
@@ -641,7 +649,7 @@ dio por la vía de formación profesional.
 Contra la resolución adoptada, la persona interesada podrá interponer, en el plazo de un
 mes a partir de su notificación, recurso de alzada ante la Dirección del Área Territorial correspon-
 diente, que resolverá lo que proceda en los términos previstos en los artículos 115, 121 y 122 de
-la Ley 39/2015, de 1 de octubre. Esta resolución, que será motivada, pondrá fin a la vía
+la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre. Esta resolución, que será motivada, pondrá fin a la vía
 administrativa.
 
 BOCM-20221216-32
@@ -683,7 +691,7 @@ mación profesional.
 Contra la resolución adoptada, la persona interesada podrá interponer, en el plazo de un
 mes a partir de su notificación, recurso de alzada ante la Dirección del Área Territorial correspon-
 diente, que resolverá lo que proceda en los términos previstos en los artículos 115, 121 y 122 de
-la Ley 39/2015, de 1 de octubre. Esta resolución, que será motivada, pondrá fin a la vía
+la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre. Esta resolución, que será motivada, pondrá fin a la vía
 administrativa.
 Duodécimo
 Solicitud y resolución de la exención de la parte específica de la prueba de acceso
@@ -753,7 +761,7 @@ mación profesional que no sea por experiencia profesional.
 Contra la resolución adoptada, la persona interesada podrá interponer, en el plazo de un
 mes a partir de su notificación, recurso de alzada ante la Dirección del Área Territorial correspon-
 diente, que resolverá lo que proceda en los términos previstos en los artículos 115, 121 y 122 de
-la Ley 39/2015, de 1 de octubre. Esta resolución, que será motivada, pondrá fin a la vía
+la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre. Esta resolución, que será motivada, pondrá fin a la vía
 administrativa.
 Decimotercero
 Solicitud y resolución de la exención de la parte específica de la prueba de acceso
@@ -762,7 +770,7 @@ por experiencia profesional
 1.
 El reconocimiento de la exención de la parte específica de la prueba de acceso a
 ciclos formativos de grado superior por experiencia profesional se efectuará por la comi-
-sión de exenciones a la que se refiere el artículo 31 del Decreto 187/2021, de 21 de julio.
+sión de exenciones a la que se refiere el artículo 31 del [Decreto 187/2021](./D187_2021_pruebas_acceso_ciclos_formativos_fp_artes_plasticas_madrid.md), de 21 de julio.
 Dicho reconocimiento requerirá acreditar una experiencia profesional de, al menos, el equi-
 valente a un año a jornada completa que se corresponda con la opción por la que se opta,
 según la vinculación de las familias profesionales y las opciones que se establecen en el
@@ -855,7 +863,7 @@ comisión de exenciones en el Área de Ordenación de la Formación Profesional 
 ción General de Educación Secundaria, Formación Profesional y Régimen Especial y se
 presentará, preferentemente, en el registro de la Vicepresidencia, Consejería de Educación y
 Universidades, situado en la calle General Díaz Porlier, número 35, CP 28013 Madrid, o en
-cualquiera de las dependencias a que se alude en el artículo 16.4 de la Ley 39/2015, de 1 de
+cualquiera de las dependencias a que se alude en el artículo 16.4 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de
 octubre.
 6.
 En respuesta a las reclamaciones presentadas en tiempo y forma, el 26 de abril de 2023
@@ -871,7 +879,7 @@ periencia profesional.
 Contra la resolución adoptada, la persona interesada podrá interponer, en el plazo
 de un mes a partir de su notificación, recurso de alzada ante la Dirección General de Edu-
 cación Secundaria, Formación Profesional y Régimen Especial, en los términos previstos
-en los artículos 115, 121 y 122 de la Ley 39/2015, de 1 de octubre, que resolverá lo que pro-
+en los artículos 115, 121 y 122 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, que resolverá lo que pro-
 ceda. Dicha resolución, que será motivada, pondrá fin a la vía administrativa.
 8.
 La documentación presentada por quienes hayan solicitado la exención, permane-
@@ -917,7 +925,7 @@ la concesión de la exención.
 Quienes hubieran superado la prueba común de acceso a ciclos formativos de grado
 medio por la vía de formación profesional en convocatorias anteriores y efectúen solicitud
 para elevar la calificación final obtenida en la misma, de conformidad con artículo 4.2 del
-Decreto 187/2021, de 21 de julio, no dispondrán de la posibilidad de solicitar el reconoci-
+[Decreto 187/2021](./D187_2021_pruebas_acceso_ciclos_formativos_fp_artes_plasticas_madrid.md), de 21 de julio, no dispondrán de la posibilidad de solicitar el reconoci-
 miento de las partes superadas en convocatorias anteriores. No obstante, sí podrán acoger-
 se al procedimiento de solicitud de la exención o del reconocimiento de la exención conce-
 dida de alguna o algunas de las partes en convocatorias anteriores.
@@ -946,7 +954,7 @@ mativos de grado medio por la vía de formación profesional.
 Contra la resolución adoptada, la persona interesada podrá interponer, en el plazo de un
 mes a partir de su notificación, recurso de alzada ante la Dirección del Área Territorial correspon-
 diente, que resolverá lo que proceda en los términos previstos en los artículos 115, 121 y 122 de
-la Ley 39/2015, de 1 de octubre. Esta resolución, que será motivada, pondrá fin a la vía
+la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre. Esta resolución, que será motivada, pondrá fin a la vía
 administrativa.
 Decimoquinto
 Solicitud y resolución del reconocimiento de la superación o de la exención
@@ -981,7 +989,7 @@ de grado superior de formación profesional.
 Quienes hubieran superado la prueba común de acceso a ciclos formativos de grado
 superior por la vía de formación profesional en convocatorias anteriores y efectúen solicitud
 para elevar la calificación final obtenida en la misma, de conformidad con artículo 4.2 del
-Decreto 187/2021, de 21 de julio, no dispondrán de la posibilidad de solicitar el reconoci-
+[Decreto 187/2021](./D187_2021_pruebas_acceso_ciclos_formativos_fp_artes_plasticas_madrid.md), de 21 de julio, no dispondrán de la posibilidad de solicitar el reconoci-
 miento de las partes superadas en convocatorias anteriores. No obstante, sí podrán acoger-
 se al procedimiento de solicitud de la exención o del reconocimiento de la exención conce-
 dida de alguna o algunas de las partes en convocatorias anteriores.
@@ -1010,7 +1018,7 @@ BOCM
 Contra la resolución adoptada, la persona interesada podrá interponer, en el plazo de un
 mes a partir de su notificación, recurso de alzada ante la Dirección del Área Territorial correspon-
 diente, que resolverá lo que proceda en los términos previstos en los artículos 115, 121 y 122 de
-la Ley 39/2015, de 1 de octubre. Esta resolución, que será motivada, pondrá fin a la vía
+la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre. Esta resolución, que será motivada, pondrá fin a la vía
 administrativa.
 Decimosexto
 Solicitud y resolución del reconocimiento de la superación o de la exención
@@ -1045,7 +1053,7 @@ cación de la parte específica superada o, en su caso, la concesión de la exen
 Quienes hubieran superado la prueba común de acceso a ciclos formativos de grado
 superior por la vía de formación profesional en convocatorias anteriores y efectúen solicitud
 para elevar la calificación final obtenida en la misma, de conformidad con artículo 4.2 del
-Decreto 187/2021, de 21 de julio, no dispondrán de la posibilidad de solicitar el reconoci-
+[Decreto 187/2021](./D187_2021_pruebas_acceso_ciclos_formativos_fp_artes_plasticas_madrid.md), de 21 de julio, no dispondrán de la posibilidad de solicitar el reconoci-
 miento de las partes superadas en convocatorias anteriores. No obstante, sí podrán acoger-
 se al procedimiento de solicitud de la exención o del reconocimiento de la exención conce-
 dida de alguna o algunas de las partes en convocatorias anteriores.
@@ -1071,7 +1079,7 @@ perior por la vía de formación profesional.
 Contra la resolución adoptada, la persona interesada podrá interponer, en el plazo de un
 mes a partir de su notificación, recurso de alzada ante la Dirección del Área Territorial correspon-
 diente, que resolverá lo que proceda en los términos previstos en los artículos 115, 121 y 122 de
-la Ley 39/2015, de 1 de octubre. Esta resolución, que será motivada, pondrá fin a la vía
+la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre. Esta resolución, que será motivada, pondrá fin a la vía
 administrativa.
 
 BOCM-20221216-32
@@ -1079,7 +1087,7 @@ BOCM
 Decimoséptimo
 Cambio de opción en la prueba de acceso a ciclos formativos
 de grado superior de formación profesional
-De conformidad con el artículo 32 del Decreto 187/2021, de 21 de julio, exclusiva-
+De conformidad con el artículo 32 del [Decreto 187/2021](./D187_2021_pruebas_acceso_ciclos_formativos_fp_artes_plasticas_madrid.md), de 21 de julio, exclusiva-
 mente para el caso de alumnado inscrito en las pruebas de acceso a ciclos formativos de gra-
 do superior de formación profesional que hayan solicitado la exención de la parte específi-
 ca por experiencia profesional por una opción determinada y se resuelva la posibilidad de
@@ -1100,11 +1108,11 @@ Comisiones de evaluación
 1.
 Todos los admitidos para participar en las pruebas tendrán asignada una comisión de
 evaluación que se nombrará de acuerdo con el procedimiento establecido en el artículo 13 del
-Decreto 187/2021, de 21 de julio, y actuarán en los centros examinadores.
+[Decreto 187/2021](./D187_2021_pruebas_acceso_ciclos_formativos_fp_artes_plasticas_madrid.md), de 21 de julio, y actuarán en los centros examinadores.
 2.
 Para una mejor distribución del alumnado en las comisiones de evaluación, podrá
 ser necesario el traslado de alumnado a otro centro examinador en los supuestos contem-
-plados en el artículo 13 del Decreto 187/2021, de 21 de julio. La Dirección General de Edu-
+plados en el artículo 13 del [Decreto 187/2021](./D187_2021_pruebas_acceso_ciclos_formativos_fp_artes_plasticas_madrid.md), de 21 de julio. La Dirección General de Edu-
 cación Secundaria, Formación Profesional y Régimen Especial celebrará un sorteo público
 el día 3 de febrero de 2023 a las 10:00 horas en la sede de la misma, en el que se determi-
 narán las dos primeras letras del primer apellido y del segundo apellido a partir de las cua-
@@ -1250,15 +1258,15 @@ Competencias, contenidos y criterios de evaluación de las pruebas
 1.
 Las competencias, contenidos y criterios de evaluación de los ejercicios corres-
 pondientes a la prueba común de acceso a ciclos formativos de grado medio son los reco-
-gidos en el anexo I del Decreto 187/2021, de 21 de julio.
+gidos en el anexo I del [Decreto 187/2021](./D187_2021_pruebas_acceso_ciclos_formativos_fp_artes_plasticas_madrid.md), de 21 de julio.
 2.
 Las competencias, contenidos y criterios de evaluación de los ejercicios corres-
 pondientes a la prueba común de acceso a ciclos formativos de grado superior son los reco-
-gidos en el anexo IV del Decreto 187/2021, de 21 de julio.
+gidos en el anexo IV del [Decreto 187/2021](./D187_2021_pruebas_acceso_ciclos_formativos_fp_artes_plasticas_madrid.md), de 21 de julio.
 3.
 Las competencias, contenidos y criterios de evaluación de los ejercicios correspon-
 dientes a la parte específica de la prueba de acceso a ciclos formativos de grado superior de for-
-mación profesional son los recogidos en el anexo VII del Decreto 187/2021, de 21 de julio.
+mación profesional son los recogidos en el anexo VII del [Decreto 187/2021](./D187_2021_pruebas_acceso_ciclos_formativos_fp_artes_plasticas_madrid.md), de 21 de julio.
 4.
 Esta información se hará pública, para conocimiento de las personas interesadas,
 en los tablones de anuncios y páginas web de los centros examinadores desde el día en que
@@ -1268,21 +1276,21 @@ Vigésimo tercero
 Calificaciones y reclamaciones a las mismas
 1.
 La calificación de la prueba común de acceso a ciclos formativos de grado medio se
-efectuará conforme a lo establecido en el artículo 19 del Decreto 187/2021, de 21 de julio.
+efectuará conforme a lo establecido en el artículo 19 del [Decreto 187/2021](./D187_2021_pruebas_acceso_ciclos_formativos_fp_artes_plasticas_madrid.md), de 21 de julio.
 2.
 La calificación de la prueba común de acceso a ciclos formativos de grado superior se
-efectuará conforme a lo establecido en el artículo 24 del Decreto 187/2021, de 21 de julio.
+efectuará conforme a lo establecido en el artículo 24 del [Decreto 187/2021](./D187_2021_pruebas_acceso_ciclos_formativos_fp_artes_plasticas_madrid.md), de 21 de julio.
 3.
 La calificación de la parte específica de la prueba de acceso a ciclos formativos de
 grado superior de formación profesional se efectuará conforme a lo establecido en el artícu-
-lo 33 del Decreto 187/2021, de 21 de julio.
+lo 33 del [Decreto 187/2021](./D187_2021_pruebas_acceso_ciclos_formativos_fp_artes_plasticas_madrid.md), de 21 de julio.
 4.
 El 25 de mayo de 2023 se publicará el listado con las calificaciones obtenidas en
 las pruebas de acceso a ciclos formativos. Dichas calificaciones podrán ser consultadas por
 las personas interesadas a través de la secretaría virtual y, presencialmente, en los tablones
 de anuncios o en la secretaría de los centros examinadores.
 5.
-De conformidad con lo establecido en el artículo 46 del Decreto 187/2021, de 21 de
+De conformidad con lo establecido en el artículo 46 del [Decreto 187/2021](./D187_2021_pruebas_acceso_ciclos_formativos_fp_artes_plasticas_madrid.md), de 21 de
 julio, el alumnado inscrito en las pruebas, o sus representantes, que estén en desacuerdo con
 las calificaciones obtenidas, podrán presentar escrito de alegaciones dirigido al presidente
 de la correspondiente comisión de evaluación solicitando la revisión de las calificaciones
@@ -1302,7 +1310,7 @@ Madrid. El silencio administrativo tendrá efecto desestimatorio.
 Contra la resolución adoptada, la persona interesada, o su representante, podrá pre-
 sentar recurso de alzada en el centro examinador, para que se eleve a la Dirección de Área
 Territorial correspondiente, en el plazo de un mes a partir de su notificación, en los términos
-previstos en los artículos 115, 121 y 122 de la Ley 39/2015, de 1 de octubre, que resolverá
+previstos en los artículos 115, 121 y 122 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, que resolverá
 lo que proceda. Esta resolución, que será motivada, pondrá fin a la vía administrativa.
 Vigésimo cuarto
 Aplicación y ejecución
@@ -1351,9 +1359,9 @@ BOCM
 a los ciclos formativos de grado superior.
 b)
 Ciclos formativos de grado superior de las enseñanzas de formación profesional:
-— Estar en posesión del Título de Bachiller establecido en la Ley Orgánica 2/2006,
+— Estar en posesión del Título de Bachiller establecido en la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md),
 de 3 de mayo.
-— Estar en posesión del Título de Bachiller establecido en la Ley Orgánica 1/1990,
+— Estar en posesión del Título de Bachiller establecido en la [Ley Orgánica 1/1990](../../../estatal/02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md),
 de 3 de octubre, de Ordenación General del Sistema Educativo.
 — Estar en posesión del título de Bachiller expedido tras cursar el antiguo Bachi-
 llerato Unificado y Polivalente.
@@ -1396,9 +1404,9 @@ micos con alguno de los anteriores.
 a los ciclos formativos de grado superior.
 d)
 Ciclos formativos de grado superior de las enseñanzas de artes plásticas y diseño:
-— Estar en posesión del Título de Bachiller determinado en la Ley Orgánica 2/2006,
+— Estar en posesión del Título de Bachiller determinado en la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md),
 de 3 de mayo.
-— Estar en posesión del Título de Bachiller establecido en la Ley Orgánica 1/1990,
+— Estar en posesión del Título de Bachiller establecido en la [Ley Orgánica 1/1990](../../../estatal/02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md),
 de 3 de octubre, de Ordenación General del Sistema Educativo.
 — Estar en posesión del Título de Graduado en Artes Aplicadas y Oficios Artís-
 ticos correspondiente al plan de estudios de 1963 o del plan experimental.
@@ -1441,9 +1449,9 @@ f)
 Ciclos de grado superior de las enseñanzas deportivas: estar en posesión del título
 de Técnico Deportivo, en la modalidad o especialidad deportiva que se determine
 por vía reglamentaria, y poseer, al menos, uno de los siguientes requisitos:
-— Estar en posesión del Título de Bachiller establecido en la Ley Orgánica 2/2006,
+— Estar en posesión del Título de Bachiller establecido en la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md),
 de 3 de mayo.
-— Estar en posesión del Título de Bachiller establecido en la Ley Orgánica 1/1990,
+— Estar en posesión del Título de Bachiller establecido en la [Ley Orgánica 1/1990](../../../estatal/02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md),
 de 3 de octubre, de Ordenación General del Sistema Educativo.
 — Estar en posesión del título de Bachiller expedido tras cursar el antiguo Bachi-
 llerato Unificado y Polivalente.
@@ -1673,7 +1681,7 @@ La Comunidad de Madrid consultará, por medios electrónicos, los datos de los s
 Documento nacional de identidad (DNI/NIE).
 Certificado de discapacidad expedido por la Comunidad de Madrid
 (*) Puede oponerse a la consulta por motivos que deberá justificar. En este caso, deberá aportar la documentación a cuya consulta se opone (artículo 28.2
-de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas). Todo ello sin perjuicio de la potestad de
+de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas). Todo ello sin perjuicio de la potestad de
 verificación de la Administración.
 □ Me opongo a la consulta de los siguientes datos por los motivos que se expresan a continuación:
 
@@ -1739,14 +1747,14 @@ En cumplimiento de lo establecido por el Reglamento (UE) 2016/679, de Protecció
 las siguientes finalidades:
 - Solicitud de inscripción en las pruebas de acceso a ciclos formativos de grado medio
 3. ¿Cuál es la legitimación en la cual se basa la licitud del tratamiento?
-Ley Orgánica 2/2006, de 3 de mayo, de Educación,
+[Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación,
 RGPD 6.1 e) el tratamiento es necesario para el cumplimiento de una misión realizada en interés público o en el ejercicio de poderes
 públicos conferidos al responsable del tratamiento.
 4. ¿Cómo ejercer sus derechos? ¿Cuáles son sus derechos cuando nos facilita sus datos?
 Puede ejercer, si lo desea, los derechos de acceso, rectificación y supresión de datos, así como solicitar que se limite el tratamiento de sus
 datos personales, oponerse al mismo, solicitar en su caso la portabilidad de sus datos, así como a no ser objeto de una decisión individual
 basada únicamente en el tratamiento automatizado, incluida la elaboración de perfiles.
-Según la Ley 39/2015, el RGPD (UE) y la Ley Orgánica 3/2018, puede ejercitar sus derechos por Registro Electrónico o Registro Presencial,
+Según la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), el RGPD (UE) y la [Ley Orgánica 3/2018](../../../estatal/02_gestion_y_administracion_centros/LO3_2018_proteccion_datos_personales_garantia_derechos_digitales.md), puede ejercitar sus derechos por Registro Electrónico o Registro Presencial,
 en ambos casos haciendo constar la referencia 'Ejercicio de derechos de protección de datos personales'.
 5. Tratamientos que incluyen decisiones automatizadas, incluida la elaboración de perfiles, con efectos jurídicos o relevantes.
 No se realizan
@@ -2044,7 +2052,7 @@ Comunidad Autónoma (**): ________________________________
 Categoría (***): ___________________________
 Certificado de discapacidad expedido por la Comunidad de Madrid
 (*) Puede oponerse a la consulta por motivos que deberá justificar. En este caso, deberá aportar la documentación a cuya consulta se opone (artículo
-28.2 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas). Todo ello sin perjuicio de
+28.2 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas). Todo ello sin perjuicio de
 la potestad de verificación de la Administración.
 (**) A efectos de la consulta del título de familia numerosa, se deberá indicar la Comunidad Autónoma que haya expedido dicho título.
 (***) Indicar categoría especial o general.
@@ -2108,14 +2116,14 @@ En cumplimiento de lo establecido por el Reglamento (UE) 2016/679, de Protecció
 para las siguientes finalidades:
 - Solicitud de inscripción en las pruebas de acceso a ciclos formativos de grado superior
 3. ¿Cuál es la legitimación en la cual se basa la licitud del tratamiento?
-Ley Orgánica 2/2006, de 3 de mayo, de Educación,
+[Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación,
 RGPD 6.1 e) el tratamiento es necesario para el cumplimiento de una misión realizada en interés público o en el ejercicio de poderes
 públicos conferidos al responsable del tratamiento.
 4. ¿Cómo ejercer sus derechos? ¿Cuáles son sus derechos cuando nos facilita sus datos?
 Puede ejercitar, si lo desea, los derechos de acceso, rectificación y supresión de datos, así como solicitar que se limite el tratamiento
 de sus datos personales, oponerse al mismo, solicitar en su caso la portabilidad de sus datos, así como a no ser objeto de una decisión
 individual basada únicamente en el tratamiento automatizado, incluida la elaboración de perfiles.
-Según la Ley 39/2015, el RGPD (UE) y la Ley Orgánica 3/2018, puede ejercitar sus derechos por Registro Electrónico o Registro
+Según la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), el RGPD (UE) y la [Ley Orgánica 3/2018](../../../estatal/02_gestion_y_administracion_centros/LO3_2018_proteccion_datos_personales_garantia_derechos_digitales.md), puede ejercitar sus derechos por Registro Electrónico o Registro
 Presencial, en ambos casos haciendo constar la referencia 'Ejercicio de derechos de protección de datos.
 5. Tratamientos que incluyen decisiones automatizadas, incluida la elaboración de perfiles, con efectos jurídicos o relevantes.
 No se realizan
@@ -2511,9 +2519,9 @@ OPCIÓN DE LA PRUEBA DE
 ACCESO A CICLOS FORMATIVOS
 DE GRADO SUPERIOR
 FAMILIAS PROFESIONALES
-Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+[Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación.
 (LOE)
-Ley Orgánica 1/1990, de 3 de
+[Ley Orgánica 1/1990](../../../estatal/02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md), de 3 de
 octubre, de Ordenación
 General del Sistema
 Educativo.
@@ -2839,7 +2847,7 @@ En cumplimiento de lo establecido por el Reglamento (UE) 2016/679, de Protecció
 serán tratados para las siguientes finalidades:
 - Solicitud de cambio de opción
 3. ¿Cuál es la legitimación en la cual se basa la licitud del tratamiento?
-Ley Orgánica 2/2006, de 3 de mayo, de Educación,
+[Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación,
 RGPD 6.1 e) el tratamiento es necesario para el cumplimiento de una misión realizada en interés público o en el
 ejercicio de poderes públicos conferidos al responsable del tratamiento.
 4. ¿Cómo ejercer sus derechos? ¿Cuáles son sus derechos cuando nos facilita sus datos?
@@ -2847,7 +2855,7 @@ Puede ejercitar, si lo desea, los derechos de acceso, rectificación y supresió
 el tratamiento de sus datos personales, oponerse al mismo, solicitar en su caso la portabilidad de sus datos, así como
 a no ser objeto de una decisión individual basada únicamente en el tratamiento automatizado, incluida la elaboración
 de perfiles.
-Según la Ley 39/2015, el RGPD (UE) y la Ley Orgánica 3/2018, puede ejercitar sus derechos por Registro Electrónico
+Según la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), el RGPD (UE) y la [Ley Orgánica 3/2018](../../../estatal/02_gestion_y_administracion_centros/LO3_2018_proteccion_datos_personales_garantia_derechos_digitales.md), puede ejercitar sus derechos por Registro Electrónico
 o Registro Presencial, en ambos casos haciendo constar la referencia 'Ejercicio de derechos de protección de datos'.
 5. Tratamientos que incluyen decisiones automatizadas, incluida la elaboración de perfiles, con efectos jurídicos
 o relevantes.

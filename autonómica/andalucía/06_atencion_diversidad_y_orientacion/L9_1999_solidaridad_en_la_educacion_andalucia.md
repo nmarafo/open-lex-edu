@@ -15,8 +15,14 @@ estado: Vigente
 redaccion: original
 fuente_oficial: http://www.juntadeandalucia.es/boja/1999/140/1
 fuente_pdf_oficial: http://www.juntadeandalucia.es/boja/pdf/1999/140/1
+clasificacion:
+  categoria_canonica: 06_atencion_diversidad_y_orientacion
+  subcategoria: Atención a la diversidad y NEAE
+fundamentos_derecho:
+- norma_id: norm-es-2001-7022
+- norma_id: norm-es-lo-8-1985
+- norma_id: norm-es-2002-4371
 ---
-
 # LEY 9/1999, de 18 de noviembre, de Solidaridad en la Educación.
 
 ## Preámbulo
@@ -72,7 +78,7 @@ niveles y grados, modalidades y especialidades, sin perjuicio
 de lo dispuesto en el artículo 27 de la Constitución y las leyes
 orgánicas que lo desarrollan, así como las competencias en
 materia de régimen local y asistencia y servicios sociales.
-Posteriormente, la Ley Orgánica 8/1985, de 3 de julio,
+Posteriormente, la [Ley Orgánica 8/1985](../../../estatal/02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md), de 3 de julio,
 reguladora del Derecho a la Educación, ratifica, en su artículo
 primero, el derecho de todos los españoles a una educación
 básica que les permita el desarrollo de su propia personalidad
@@ -87,7 +93,7 @@ ventaja derivadas de factores sociales, culturales, geográficos
 o de pertenencia a minorías étnicas. Tales actuaciones han
 sido el instrumento solidario que el sistema educativo ha puesto
 al servicio de la construcción de una sociedad más justa.
-La Ley Orgánica 1/1990, de 3 de octubre, de Ordenación
+La [Ley Orgánica 1/1990](../../../estatal/02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md), de 3 de octubre, de Ordenación
 General del Sistema Educativo, ha consolidado las actuaciones
 compensatorias, atribuyendo a la educación un papel esencial
 en el desarrollo de los individuos y de la sociedad en la medida
@@ -347,7 +353,7 @@ ción de las características del alumnado y de los Centros.
 2. Adopción de medidas para garantizar que los Centros
 que escolaricen alumnado con necesidades educativas espe-
 ciales apliquen, además de las medidas curriculares estable-
-cidas en la Ley Orgánica 1/1990, de 3 de octubre, de Orde-
+cidas en la [Ley Orgánica 1/1990](../../../estatal/02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md), de 3 de octubre, de Orde-
 nación General del Sistema Educativo, programas y acciones
 de compensación educativa en sus respectivos proyectos de
 Centro, que aseguren la continuidad del proceso educativo
@@ -845,7 +851,7 @@ ORDEN de 12 de noviembre de 1999, por la que
 se regulan los procedimientos relativos a las forma-
 ciones en materia deportiva que pretendan impartir
 las federaciones deportivas al amparo de la disposición
-transitoria primera del Real Decreto 1913/1997, de
+transitoria primera del [Real Decreto 1913/1997](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD454_2002_ecd_establecen_elementos_basicos_informes_evaluacion.md), de
 19 de diciembre, y la Orden del Ministerio de Educación
 y Cultura de 5 de julio de 1999.
 La disposición transitoria primera del Real Decre-

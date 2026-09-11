@@ -116,8 +116,11 @@ relaciones:
   - norma_id: norm-es-1995-25444
   - norma_id: norm-es-lo-1-1996
   - norma_id: norm-es-1999-23750
+fundamentos_derecho:
+- norma_id: norm-es-1995-25444
+- norma_id: norm-es-lo-1-1996
+- norma_id: norm-es-1999-23750
 ---
-
 # Ley Orgánica 5/2000, de 12 de enero, reguladora de la responsabilidad penal de los menores.
 
 ## Preámbulo

@@ -29,8 +29,20 @@ tags:
 relaciones:
   fundamenta:
   - norma_id: norm-mad-i-29-07-2026-bachillerato-personas-adultas
+fundamentos_derecho:
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-mad-d-52-2021
+- norma_id: norm-mad-d64-2022
+- norma_id: norm-mad-d32-2019
+- norma_id: norm-es-l-39-2015
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-lo-3-2018
+- norma_id: norm-es-lo-8-1985
+- norma_id: norm-es-2016-3229
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-rd-243-2022
+- norma_id: norm-es-2010-12201
 ---
-
 ## Preámbulo
 
 I. COMUNIDAD DE MADRID
@@ -39,19 +51,19 @@ Vicepresidencia, Consejería de Educación y Universidades
 15 ORDEN 2034/2023, de 9 de junio, de la Vicepresidencia, Consejería de Educación
 y Universidades, por la que se regula la ordenación y organización de la oferta es-
 pecífica del Bachillerato para las personas adultas en la Comunidad de Madrid.
-El artículo 67.2 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, establece que
+El artículo 67.2 de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, establece que
 la organización y la metodología de las enseñanzas para las personas adultas se basarán en
 el autoaprendizaje y tendrán en cuenta sus experiencias, necesidades e intereses, pudiendo
 desarrollarse a través de la enseñanza presencial y también mediante la educación a distan-
 cia. Asimismo, en el apartado 7 del citado artículo se refiere que las enseñanzas para las per-
 sonas adultas se organizarán con una metodología flexible y abierta, de modo que respon-
 dan a sus capacidades, necesidades e intereses.
-La disposición adicional tercera del Real Decreto 243/2022, de 5 de abril, por el que
+La disposición adicional tercera del [Real Decreto 243/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD243_2022_establecen_ordenacion_ensenanzas_minimas_bachillerato.md), de 5 de abril, por el que
 se establece la ordenación y las enseñanzas mínimas del Bachillerato, establece que corres-
 ponde a las Administraciones educativas adoptar las medidas oportunas para que las perso-
 nas adultas dispongan de una oferta específica de estos estudios organizada de acuerdo con
 sus características.
-En el ámbito de la Comunidad de Madrid se promulgó el Decreto 64/2022, de 20 de ju-
+En el ámbito de la Comunidad de Madrid se promulgó el [Decreto 64/2022](./D64_2022_ordenacion_curriculo_bachillerato_madrid.md), de 20 de ju-
 lio, del Consejo de Gobierno, por el que se establece el currículo del Bachillerato para la Co-
 munidad de Madrid, que ha establecido la ordenación curricular de esta etapa educativa, de
 conformidad con lo establecido en la normativa básica. El citado decreto determina las carac-
@@ -64,7 +76,7 @@ porte, por la que se ordenan y organizan para las personas adultas las enseñanz
 llerato en los regímenes nocturno y a distancia en la Comunidad de Madrid, modificada por
 la Orden 873/2018, de 26 de marzo, ha establecido la oferta específica del Bachillerato para
 las personas adultas en la Comunidad de Madrid, bajo el anterior sistema educativo regula-
-do en la Ley Orgánica 8/2013, de 9 de diciembre, para la mejora de la calidad educativa. No
+do en la [Ley Orgánica 8/2013](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md), de 9 de diciembre, para la mejora de la calidad educativa. No
 obstante, la nueva ordenación del Bachillerato requiere una revisión de esta oferta, así como
 su adaptación a los nuevos retos y oportunidades de la sociedad actual. Por este motivo, la
 Comunidad de Madrid plantea una oferta específica de Bachillerato para las personas adul-
@@ -92,9 +104,9 @@ alumnado y el profesorado.
 La presente Orden regula la adaptación de la oferta de Bachillerato para las personas
 adultas, con el fin de favorecer el aprendizaje a lo largo de la vida y facilitar a este colecti-
 vo una oferta flexible y adecuada a sus necesidades.
-De acuerdo con lo dispuesto en el artículo 129 de la Ley 39/2015, de 1 de octubre, del Pro-
+De acuerdo con lo dispuesto en el artículo 129 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Pro-
 cedimiento Administrativo Común de las Administraciones Públicas, y de conformidad con el
-#### artículo 2 del Decreto 52/2021, de 24 de marzo, del Consejo de Gobierno, por el que se regu-
+#### artículo 2 del [Decreto 52/2021](../01_marco_normativo_general_y_organico/D52_2021_procedimiento_elaboracion_disposiciones_normativas_madrid.md), de 24 de marzo, del Consejo de Gobierno, por el que se regu-
 la y simplifica el procedimiento de elaboración de las disposiciones normativas de carácter ge-
 neral en la Comunidad de Madrid, la presente disposición normativa se ajusta a las exigencias
 de los principios de necesidad y de eficacia, puesto que regula una oferta específica para las
@@ -102,9 +114,9 @@ personas adultas que les permita obtener el título de Bachiller, adaptando esta
 cesidades y facilitando su formación con las posibilidades que ofrece la educación a distancia
 y la enseñanza semipresencial. La promulgación de esta Orden es la forma más adecuada para
 atender a las razones de interés general que suponen la concreción de esta oferta específica,
-que, de conformidad con la disposición adicional tercera del Real Decreto 243/2022, de 5 de
+que, de conformidad con la disposición adicional tercera del [Real Decreto 243/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD243_2022_establecen_ordenacion_ensenanzas_minimas_bachillerato.md), de 5 de
 abril, corresponde a las Administraciones educativas, y que se dicta de acuerdo con lo previs-
-to en la disposición adicional tercera del Decreto 64/2022, de 20 de julio.
+to en la disposición adicional tercera del [Decreto 64/2022](./D64_2022_ordenacion_curriculo_bachillerato_madrid.md), de 20 de julio.
 La norma contiene la regulación imprescindible para cumplir los objetivos pretendi-
 dos, no estableciendo ninguna obligación ni requisito adicional para sus destinatarios res-
 pecto de los previstos en la normativa básica estatal, cumpliendo con el principio de pro-
@@ -118,11 +130,11 @@ rias o accesorias.
 También se cumple el principio de transparencia, conforme a lo establecido en la
 Ley 10/2019, de 10 de abril, de Transparencia y de Participación de la Comunidad de Madrid,
 habiéndose realizado el trámite de audiencia e información públicas, a través del Portal de Trans-
-parencia de la Comunidad de Madrid, según lo dispuesto en el artículo 9 del Decreto 52/2021,
+parencia de la Comunidad de Madrid, según lo dispuesto en el artículo 9 del [Decreto 52/2021](../01_marco_normativo_general_y_organico/D52_2021_procedimiento_elaboracion_disposiciones_normativas_madrid.md),
 de 24 de marzo, y mediante la publicación de la orden y de los documentos de su proceso
 de elaboración en el portal de transparencia de la Comunidad de Madrid.
-El calendario de implantación de las modificaciones derivadas del Real Decreto 243/2022,
-de 5 de abril, desarrolladas por el Decreto 64/2022, de 20 de julio, requiere que el cur-
+El calendario de implantación de las modificaciones derivadas del [Real Decreto 243/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD243_2022_establecen_ordenacion_ensenanzas_minimas_bachillerato.md),
+de 5 de abril, desarrolladas por el [Decreto 64/2022](./D64_2022_ordenacion_curriculo_bachillerato_madrid.md), de 20 de julio, requiere que el cur-
 so 2023-2024 se inicie con la implantación de las mismas en toda la etapa del Bachillerato.
 En la tramitación de la presente disposición se ha emitido dictamen por el Consejo Esco-
 lar de la Comunidad de Madrid y ha sido informada por la Abogacía General de la Comunidad
@@ -133,7 +145,7 @@ noviembre, del Consejo de Gobierno, por el que se establece la estructura orgán
 Consejería de Educación, Universidades, Ciencia y Portavocía de la Comunidad de Madrid,
 en relación con el Decreto 38/2022, de 15 de junio, del Consejo de Gobierno, por el que se
 crea la Vicepresidencia, Consejería de Educación y Universidades y el primer apartado de
-la disposición adicional tercera del Decreto 64/2022, de 20 de julio,
+la disposición adicional tercera del [Decreto 64/2022](./D64_2022_ordenacion_curriculo_bachillerato_madrid.md), de 20 de julio,
 DISPONE
 ### Capítulo I
 Disposiciones generales
@@ -178,7 +190,7 @@ Organización y ordenación
 #### Artículo 4
 Ordenación y currículo
 1. La ordenación y el currículo de la oferta específica para personas adultas del Ba-
-chillerato en la Comunidad de Madrid atenderá lo dispuesto en el Decreto 64/2022, de 20
+chillerato en la Comunidad de Madrid atenderá lo dispuesto en el [Decreto 64/2022](./D64_2022_ordenacion_curriculo_bachillerato_madrid.md), de 20
 de julio, del Consejo de Gobierno, por el que se establece el currículo de Bachillerato para
 la Comunidad de Madrid, salvo, de conformidad con lo establecido en su disposición adi-
 cional tercera, los apartados del 1 al 5 del artículo 23 del citado decreto, referidos a las con-
@@ -396,7 +408,7 @@ Acceso y matrícula
 #### Artículo 10
 Requisitos de acceso para cursar el Bachillerato para personas adultas
 1. Además de los requisitos académicos de acceso al Bachillerato recogidos en el ar-
-tículo 3.2 del Decreto 64/2022, de 20 de julio, para acceder a la oferta específica del Bachi-
+tículo 3.2 del [Decreto 64/2022](./D64_2022_ordenacion_curriculo_bachillerato_madrid.md), de 20 de julio, para acceder a la oferta específica del Bachi-
 llerato para personas adultas será requisito tener cumplidos los dieciocho años en el año en
 que comience el curso.
 2. Excepcionalmente, podrán cursar la oferta específica del Bachillerato para perso-
@@ -434,7 +446,7 @@ tarlo en el régimen ordinario del Bachillerato de forma simultánea.
 alumnos se formalice con las garantías suficientes respecto de la acreditación documental
 de los requisitos previos, tanto académicos como personales, que esta responde a una de las
 ofertas del Bachillerato establecidas para las personas adultas, así como que se respetan las
-condiciones de continuidad establecidas en el artículo 23.6 del Decreto 64/2022, de 20 de
+condiciones de continuidad establecidas en el artículo 23.6 del [Decreto 64/2022](./D64_2022_ordenacion_curriculo_bachillerato_madrid.md), de 20 de
 julio, en relación con las materias recogidas en su anexo III y las materias en las que se ma-
 tricula responden a un itinerario válido en una de las modalidades o, en su caso, vías del Ba-
 chillerato.
@@ -468,20 +480,20 @@ Evaluación y titulación
 #### Artículo 12
 Evaluación
 En lo que se refiere a la evaluación de los alumnos se estará a lo dispuesto en el capí-
-tulo IV del Decreto 64/2022, de 20 de julio, salvo en los apartados del 1 al 5 del artículo 23,
+tulo IV del [Decreto 64/2022](./D64_2022_ordenacion_curriculo_bachillerato_madrid.md), de 20 de julio, salvo en los apartados del 1 al 5 del artículo 23,
 en relación con las condiciones de promoción.
 #### Artículo 13
 Promoción y permanencia
 1. En la oferta específica del Bachillerato para personas adultas no se tendrán en con-
 sideración los criterios de promoción de curso establecido en el régimen ordinario, ni tam-
 poco se tendrá en cuenta la limitación temporal de permanencia establecida en el artículo 3.3
-del Decreto 64/2022, de 20 de julio.
-2. Conforme al artículo 23.6 del Decreto 64/2022, de 20 de julio, la superación de las
+del [Decreto 64/2022](./D64_2022_ordenacion_curriculo_bachillerato_madrid.md), de 20 de julio.
+2. Conforme al artículo 23.6 del [Decreto 64/2022](./D64_2022_ordenacion_curriculo_bachillerato_madrid.md), de 20 de julio, la superación de las
 materias del segundo curso estará condicionada a la superación de las correspondientes ma-
 terias del primer curso indicadas en el anexo III del citado decreto, por implicar continuidad.
 No obstante, el alumnado podrá matricularse de la materia de segundo curso sin haber
 cursado la correspondiente materia del primer curso del Bachillerato, siempre que el profe-
-sor que la imparta, de conformidad con el artículo 23.6 del Decreto 64/2022, de 20 de ju-
+sor que la imparta, de conformidad con el artículo 23.6 del [Decreto 64/2022](./D64_2022_ordenacion_curriculo_bachillerato_madrid.md), de 20 de ju-
 lio, considere que reúne las condiciones necesarias para poder seguir con aprovechamien-
 to la materia de segundo. En ningún caso la consideración de que un alumno pueda cursar
 con aprovechamiento una materia del segundo curso supondrá que se considere superada la
@@ -496,7 +508,7 @@ haber superado la materia del primer curso.
 #### Artículo 14
 Título Bachiller
 La obtención del título de Bachiller atenderá lo dispuesto en el apartado tercero de la
-#### disposición adicional tercera del Decreto 64/2022, de 20 de julio.
+#### disposición adicional tercera del [Decreto 64/2022](./D64_2022_ordenacion_curriculo_bachillerato_madrid.md), de 20 de julio.
 ### Capítulo VI
 Enseñanza semipresencial
 #### Artículo 15
@@ -533,7 +545,7 @@ lectivas programadas para cada materia. Si los alumnos registran un número de f
 asistencia igual o superior al 25 por 100 del horario lectivo presencial total para la materia,
 que les impida poder realizar una evaluación continua de su progreso académico, se segui-
 rá el mismo procedimiento que el centro haya establecido para el régimen ordinario.
-De conformidad con el artículo 36.2 del Decreto 32/2019, de 9 de abril, del Consejo
+De conformidad con el artículo 36.2 del [Decreto 32/2019](../07_convivencia_bienestar_y_protocolos/D32_2019_marco_regulador_convivencia_centros_docentes_madrid.md), de 9 de abril, del Consejo
 de Gobierno, por el que se establece el marco regulador de la convivencia en los centros do-
 centes de la Comunidad de Madrid, los procedimientos extraordinarios de evaluación para
 los alumnos que no se les puede aplicar la evaluación continua se concretarán para cada ma-
@@ -651,7 +663,7 @@ Los centros privados adecuarán a su organización y sus normas de funcionamient
 referencias a los órganos de gobierno y coordinación docente recogidas en esta Orden. En
 su caso, podrán ejercer en aquellos aspectos en que sea de aplicación la autonomía recogi-
 
-da en el artículo veinticinco de la Ley Orgánica 8/1985, de 3 de julio, reguladora del Dere-
+da en el artículo veinticinco de la [Ley Orgánica 8/1985](../../../estatal/02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md), de 3 de julio, reguladora del Dere-
 cho a la Educación.
 #### DISPOSICIÓN ADICIONAL QUINTA
 Datos personales del alumno y tratamiento de los datos personales en los documentos
@@ -660,7 +672,7 @@ En lo referente a la obtención de los datos personales del alumnado, a la cesi�
 mismos de unos centros a otros y a la seguridad y confidencialidad de estos, se estará a lo
 dispuesto en el Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo, de 27
 de abril de 2016, relativo a la protección de las personas físicas en lo que respecta al trata-
-miento de datos personales y en lo establecido en la Ley Orgánica 3/2018, de 5 de diciem-
+miento de datos personales y en lo establecido en la [Ley Orgánica 3/2018](../../../estatal/02_gestion_y_administracion_centros/LO3_2018_proteccion_datos_personales_garantia_derechos_digitales.md), de 5 de diciem-
 bre, de Protección de Datos Personales y garantía de los derechos digitales.
 #### DISPOSICIÓN TRANSITORIA ÚNICA
 Movilidad del alumnado entre en el régimen nocturno de Bachillerato

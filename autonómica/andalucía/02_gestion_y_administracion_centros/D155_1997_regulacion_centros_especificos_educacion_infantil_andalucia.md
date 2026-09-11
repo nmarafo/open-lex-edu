@@ -33,13 +33,15 @@ relaciones:
   - norma_id: norm-and-l17-2007
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-l-39-2015
+fundamentos_derecho:
+- norma_id: norm-and-l17-2007
+- norma_id: norm-es-2001-7022
 ---
-
 # Decreto 155/1997, de 10 de junio, por el que se regulan los centros que imparten el primer ciclo de Educación Infantil.
 
 ## Preámbulo
 
-La Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo (LOGSE), configura la Educación Infantil como una etapa educativa única, constituida por dos ciclos, de cero a tres años y de tres a seis años. La atención al primer ciclo de la educación infantil exige adecuar los requisitos de los centros, las instalaciones y las titulaciones del personal a las necesidades específicas del desarrollo de los niños y niñas de cero a tres años en Andalucía.
+La [Ley Orgánica 1/1990](../../../estatal/02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md), de 3 de octubre, de Ordenación General del Sistema Educativo (LOGSE), configura la Educación Infantil como una etapa educativa única, constituida por dos ciclos, de cero a tres años y de tres a seis años. La atención al primer ciclo de la educación infantil exige adecuar los requisitos de los centros, las instalaciones y las titulaciones del personal a las necesidades específicas del desarrollo de los niños y niñas de cero a tres años en Andalucía.
 
 En su virtud, a propuesta de la Consejera de Educación y Ciencia, de acuerdo con el Consejo Consultivo de Andalucía y previa deliberación del Consejo de Gobierno en su reunión del día 10 de junio de 1997,
 

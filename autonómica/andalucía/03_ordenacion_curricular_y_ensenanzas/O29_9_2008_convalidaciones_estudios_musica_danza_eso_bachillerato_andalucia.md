@@ -39,8 +39,14 @@ relaciones:
   - norma_id: norm-and-l17-2007
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-l-39-2015
+fundamentos_derecho:
+- norma_id: norm-and-l17-2007
+- norma_id: norm-and-l6-2006-gobierno-comunidad-autonoma-andalucia
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
 ---
-
 # Orden de 9 de septiembre de 2008, por la que se deroga la de 21 de julio de 2006, por la que se regula el procedimiento para la elaboración, solicitud, aprobación, aplicación, seguimiento y evaluación de los planes y proyectos educativos que puedan desarrollar los centros docentes sostenidos con fondos públicos y que precisen de aprobación por la administración educativa.
 
 ## Preámbulo
@@ -52,18 +58,18 @@ ción, aplicación, seguimiento y evaluación de los planes y
 proyectos educativos que puedan desarrollar los centros 
 docentes sostenidos con fondos públicos y que precisen 
 de aprobación por la administración educativa.
-Con la aprobación de la Ley 17/2007, de 10 de diciem-
+Con la aprobación de la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciem-
 bre, de Educación de Andalucía, nuestro sistema educativo 
 apuesta decididamente por la modernización y la proyección 
 educativa hacia un futuro que integre los nuevos retos sociales 
-que recoge la Ley Orgánica 2/2006, de 3 de mayo, de Educa-
+que recoge la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educa-
 ción, en consonancia con las estrategias y objetivos trazados 
 por la Unión Europea en materia educativa.
 En este nuevo marco, la Consejería de Educación tiene 
 como objetivo generalizar el acceso progresivo de los centros 
 a planes y programas educativos considerados de importancia 
 estratégica, directamente relacionados con los objetivos reco-
-gidos en el artículo 5 de la Ley 17/2007, de 10 de diciembre, 
+gidos en el artículo 5 de la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre, 
 como son la incorporación de las tecnologías de la informa-
 
 Página núm. 6 
@@ -92,7 +98,7 @@ en coordinación con otras Consejerías, son de marcado ca-
 rácter funcional y significación lógica, por lo que contribuyen 
 al desarrollo de las competencias básicas y la motivación por 
 los aprendizajes en el alumnado, en concordancia con lo re-
-cogido los artículos 38, 39 y 40 de la Ley 17/2007, de 10 
+cogido los artículos 38, 39 y 40 de la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 
 de diciembre. Todo ello justifica que sean los propios centros, 
 en virtud de su autonomía pedagógica, organizativa y de ges-
 tión, quienes, de forma autónoma y no sujeta a convocatorias, 
@@ -100,9 +106,9 @@ opten por la programación e implementación de los mismos,
 mediante su integración en el Plan de Centro, sometiéndose 
 al procedimiento y al marco general que en su momento esta-
 blezca la Consejería de Educación, conforme a lo previsto en 
-el artículo 126 de la Ley 17/2007, de 10 de diciembre.
+el artículo 126 de la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre.
 Por todo ello, en virtud de lo dispuesto en el artículo 44.2 
-de la Ley 6/2006, de 24 de octubre, del Gobierno de la Comu-
+de la [Ley 6/2006](../01_marco_normativo_general_y_organico/L6_2006_gobierno_comunidad_autonoma_andalucia.md), de 24 de octubre, del Gobierno de la Comu-
 nidad Autónoma de Andalucía, y a propuesta de la Dirección 
 General de Innovación Educativa,
 D I S P O N G O

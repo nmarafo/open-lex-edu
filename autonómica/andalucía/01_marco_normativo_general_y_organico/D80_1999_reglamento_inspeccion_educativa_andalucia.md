@@ -33,8 +33,9 @@ relaciones:
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-l-39-2015
   - norma_id: norm-es-l-40-2015
+fundamentos_derecho:
+- norma_id: norm-and-l17-2007
 ---
-
 # Decreto 80/1999, de 30 de marzo, por el que se aprueba el Reglamento de la Inspección Educativa de Andalucía.
 
 ## Preámbulo

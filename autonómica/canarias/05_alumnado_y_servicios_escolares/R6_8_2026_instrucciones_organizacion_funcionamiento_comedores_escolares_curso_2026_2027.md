@@ -59,8 +59,18 @@ relaciones:
   - norma_id: norm-es-l-39-2015
     articulos_destino:
     - Art. 14
+fundamentos_derecho:
+- norma_id: norm-can-d-123-2023
+- norma_id: norm-can-d-212-1991
+- norma_id: norm-can-l-14-1990
+- norma_id: norm-can-res-boc-2026-077-49
+- norma_id: norm-can-res-boc-2026-075-85
+- norma_id: norm-can-o-24-4-2009
+- norma_id: norm-can-o-25-2-2003
+- norma_id: norm-can-d-114-2011
+- norma_id: norm-mad-r17-3-2026-programa-actividades-artisticas-culturales-centros-madrid
+- norma_id: norm-es-l-39-2015
 ---
-
 # Resolución de 6 de agosto de 2026, por la que se aprueban las instrucciones de organización y funcionamiento de los comedores escolares de los centros docentes públicos no universitarios para el curso escolar 2026-2027.
 
 ## Preámbulo
@@ -86,7 +96,7 @@ que se establece el calendario escolar, las instrucciones complementarias del pr
 de admisión del alumnado comensal y los criterios de concesión de las subvenciones en 
 el que se autoriza la oferta de plazas de comensales de los centros docentes públicos no 
 universitarios para el curso escolar 2026-2027, en cumplimiento de lo preceptuado en el 
-artículo 2 de la Orden de 24 de abril de 2009, por la que se establece el procedimiento 
+artículo 2 de la [Orden de 24 de abril de 2009](./O24_4_2009_procedimiento_subvenciones_comedores_escolares_canarias.md), por la que se establece el procedimiento 
 de obtención de plazas y se aprueban las bases de la concesión de subvenciones para 
 comedores escolares en los centros públicos docentes no universitarios, dependientes de 
 esta Consejería.
@@ -95,7 +105,7 @@ al inicio del curso escolar, debe dictarse una resolución que contenga las inst
 organización y funcionamiento de los comedores escolares de los centros docentes públicos 
 no universitarios.
 FUNDAMENTOS JURÍDICOS
-Primero.- La Orden de 25 de febrero de 2003, por la que se regula la organización y 
+Primero.- La [Orden de 25 de febrero de 2003](./O25_2_2003_regula_organizacion_funcionamiento_comedores_escolares_centros.md), por la que se regula la organización y 
 funcionamiento de los comedores escolares en los centros públicos docentes no universitarios 
 dependientes de la Consejería de Educación, Cultura y Deportes y se establecen las bases de 
 la convocatoria de plazas y ayudas con destino al alumnado comensal, recoge en su artículo 
@@ -131,7 +141,7 @@ Complementarios, por la que se establece el calendario escolar, las instruccione
 complementarias del procedimiento de admisión del alumnado comensal y los criterios de 
 concesión de las subvenciones y por la que se autoriza la oferta de plazas de comensales de 
 los centros docentes públicos no universitarios para el curso escolar 2026-2027.
-Cuarto.- Conforme a lo dispuesto en el artículo 19.1 del Decreto 212/1991, de 11 de 
+Cuarto.- Conforme a lo dispuesto en el artículo 19.1 del [Decreto 212/1991](../01_marco_normativo_general_y_organico/D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md), de 11 de 
 septiembre, de organización de los Departamentos de la Administración Autonómica de 
 Canarias,
 “Los directores generales, en el área de actividad que tengan encomendada, desempeñan 
@@ -142,10 +152,10 @@ adscritos o, en su defecto, los titulares de los Departamentos”.
 De conformidad con lo dispuesto en el Reglamento Orgánico de la Consejería de 
 Educación, Formación Profesional, Actividad Física y Deportes, aprobado por el Decreto 
 84/2024, de 10 de junio, y en línea con lo anterior, de acuerdo con lo previsto en el artículo 5 
-del vigente Decreto 123/2023, de 17 de julio, por el que se determina la estructura orgánica 
+del vigente [Decreto 123/2023](../01_marco_normativo_general_y_organico/D123_2023_determina_estructura_organica_sedes_consejerias_gobierno.md), de 17 de julio, por el que se determina la estructura orgánica 
 y las sedes de las Consejerías del Gobierno de Canarias, así como con la Orden de 27 
 de mayo de 2024, por la que se delegan determinadas competencias, y en relación con 
-lo establecido en el artículo 29, apartado 1, letra j), de la Ley 14/1990, de 26 de julio, de 
+lo establecido en el artículo 29, apartado 1, letra j), de la [Ley 14/1990](../01_marco_normativo_general_y_organico/L14_1990_regimen_juridico_administraciones_publicas_canarias.md), de 26 de julio, de 
 Régimen Jurídico de las Administraciones Públicas de Canarias, así como con la restante 
 normativa de general aplicación, se procede a dictar la presente Resolución.
 En base a los preceptos anteriormente señalados, corresponde al Director General de 
@@ -185,10 +195,10 @@ de Educación, Formación Profesional, Actividad Física y Deportes, mediante la
 de la DGACESC de aprobación del Calendario Escolar, no excediendo su puesta en marcha 
 transcurridos tres días del inicio lectivo. Su finalización coincidirá con el último día lectivo 
 del curso escolar.
-El periodo lectivo se fijó en la Resolución de 17 de marzo de 2026, de la DGACESC, 
+El periodo lectivo se fijó en la [Resolución de 17 de marzo de 2026](../../madrid/02_gestion_y_administracion_centros/R17_3_2026_programa_actividades_artisticas_culturales_centros_madrid.md), de la DGACESC, 
 por la que se establece el calendario escolar y se dictan instrucciones para la organización 
 y desarrollo de las actividades de comienzo y finalización del curso 2026-2027, modificada 
-por la Resolución de 10 de abril de 2026, por la que se corrige error en la citada Resolución de 
+por la [Resolución de 10 de abril de 2026](../03_ordenacion_curricular_y_ensenanzas/R10_4_2026_convocan_pruebas_certificacion_ensenanzas_idiomas_regimen.md), por la que se corrige error en la citada Resolución de 
 17 de marzo de 2026, relativa al calendario escolar y a las instrucciones para la organización 
 y desarrollo de las actividades de comienzo y finalización del curso 2026-2027, para los 
 centros de enseñanzas no universitarias de la Comunidad Autónoma de Canarias.
@@ -278,7 +288,7 @@ en la cuenta de percepción de sus haberes.
 Quinta.- Personal laboral al servicio de cada comedor, en atención al número 
 de plazas de comensales autorizadas que se ofertan por los centros educativos 
 correspondientes.
-Con arreglo a lo previsto en el artículo 9.1 de la Orden de 25 de febrero de 2003, por la 
+Con arreglo a lo previsto en el artículo 9.1 de la [Orden de 25 de febrero de 2003](./O25_2_2003_regula_organizacion_funcionamiento_comedores_escolares_centros.md), por la 
 que se regula la organización y funcionamiento de los comedores escolares en los centros 
 públicos docentes no universitarios dependientes de la Consejería de Educación, Cultura 
 y Deportes, al inicio de cada curso escolar, la DGACESC publicará una Resolución con el 
@@ -335,12 +345,12 @@ la  elaboración del menú, y en los centros docentes públicos con gestión co
 cuota/día vendrá determinada por el certificado de la empresa contratada.
 Séptima.- Otras normas de funcionamiento del servicio.
 1. La pérdida de la condición de comensal por causas distintas a las especificadas en 
-la base vigésima primera, apartado 3, del Anexo II de la Orden de 24 de abril de 2009, “falta 
+la base vigésima primera, apartado 3, del Anexo II de la [Orden de 24 de abril de 2009](./O24_4_2009_procedimiento_subvenciones_comedores_escolares_canarias.md), “falta 
 de abono de cuotas en el plazo establecido o falseamiento de datos para obtener la subvención”, 
-requerirá la aplicación del procedimiento que establece el Decreto 114/2011, de 11 de mayo, 
+requerirá la aplicación del procedimiento que establece el [Decreto 114/2011](../07_convivencia_bienestar_y_protocolos/D114_2011_regula_convivencia_ambito_educativo_comunidad_autonoma.md), de 11 de mayo, 
 por el que se regula la convivencia en el ámbito educativo de la Comunidad Autónoma de 
 Canarias y en la legislación vigente reguladora del procedimiento administrativo común.
-2. Con arreglo a lo previsto en el artículo 9.3 de la Orden de 25 de febrero de 2003, 
+2. Con arreglo a lo previsto en el artículo 9.3 de la [Orden de 25 de febrero de 2003](./O25_2_2003_regula_organizacion_funcionamiento_comedores_escolares_centros.md), 
 por la que se regula la organización y funcionamiento de los comedores escolares en los 
 centros públicos docentes no universitarios dependientes de la Consejería de Educación, 
 Cultura y Deportes, el Consejo Escolar garantizará la seguridad de los comensales y el 
@@ -393,7 +403,7 @@ alimentarias y/o la adaptación de los menús cuando estas respondan a necesidad
 debidamente acreditadas o a razones de carácter ético o religioso.
 9. El Consejo Escolar se asegurará de que exista una programación adecuada de 
 menús, teniendo en cuenta que los mismos sean equilibrados, variados y adaptados a los 
-comensales, conforme al artículo 9.3 de la Orden de 25 de febrero de 2003.
+comensales, conforme al artículo 9.3 de la [Orden de 25 de febrero de 2003](./O25_2_2003_regula_organizacion_funcionamiento_comedores_escolares_centros.md).
 
 Jueves 20 de agosto de 2026
 10. Con carácter general, deberán tenerse en cuenta los objetivos recogidos en el Decreto 
@@ -458,7 +468,7 @@ Guía pediátrica de la alimentación. Pautas de alimentación y actividad físi
 años. https://www.programapipo.com/wp-content/uploads/2012/05/GUIA-ALIMENTACION-
 INFANTIL.pdf
 Novena.- Aumento de módulo.
-La Orden de 25 de febrero de 2003, por la que se regula la organización y funcionamiento 
+La [Orden de 25 de febrero de 2003](./O25_2_2003_regula_organizacion_funcionamiento_comedores_escolares_centros.md), por la que se regula la organización y funcionamiento 
 de los comedores escolares en los centros públicos docentes no universitarios dependientes 
 de la Consejería de Educación, Cultura y Deportes, y se establecen las bases de la 
 convocatoria de plazas y ayudas con destino al alumnado comensal, establece en el artículo 
@@ -491,7 +501,7 @@ El plazo establecido para presentar la solicitud de aumento de módulo en el cur
 2026-2027 por puesta en funcionamiento de nuevas Aulas Enclave con concreción curricular 
 en Educación Infantil y Primaria en CEIP o para el alumnado de nueva incorporación en 
 Centros de Educación Especial, estará abierto a lo largo de todo el curso escolar.
-Asimismo, y de acuerdo a la Orden de 25 de febrero de 2003, el centro educativo deberá 
+Asimismo, y de acuerdo a la [Orden de 25 de febrero de 2003](./O25_2_2003_regula_organizacion_funcionamiento_comedores_escolares_centros.md), el centro educativo deberá 
 seguir funcionando con el módulo que tiene autorizado hasta que, desde esta Dirección 
 General, se autorice el aumento de módulo solicitado.
 Décima.- Gestión, planificación y justificación de los comedores escolares.
@@ -591,7 +601,7 @@ por Hiperreg
 (LPA:47.35.40.10 y 
 TFE:47.35.45.10)
 6. Todas las certificaciones y documentación remitidas a esta Dirección General 
-deberán estar firmadas con firma electrónica, tal y como establece la Ley 39/2015, de 1 de 
+deberán estar firmadas con firma electrónica, tal y como establece la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de 
 octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, en su 
 artículo 14.2.e).
 
@@ -636,7 +646,7 @@ municipio
 ________________________, isla de______________, teléfono ___________.
 CERTIFICA: que según los datos que obran en los archivos de este centro, el número de solicitantes de plaza de 
 comedor admitidos que, de acuerdo con los criterios objetivos que han de servir de base a la concesión de las 
-mismas, establecidos en la Orden de 24 de abril de 2009, dentro de la renta familiar máxima fijada por la Dirección 
+mismas, establecidos en la [Orden de 24 de abril de 2009](./O24_4_2009_procedimiento_subvenciones_comedores_escolares_canarias.md), dentro de la renta familiar máxima fijada por la Dirección 
 General de Ordenación, Innovación y Promoción Educativa, reuniendo los requisitos necesarios para la obtención 
 de la subvención y cumpliendo con el procedimiento previsto en la Resolución de admisión del presente curso, son 
 los siguientes: 
@@ -653,7 +663,7 @@ ser beneficiario de  subvención. (Ingresos superiores a 21.600,00 euros)
 (f) Alumnado Cuota Cero
 Suma de b, c. d, e y f
 Suma de a, b, c, d, e y f
-Y para que conste, a los efectos previstos en la Orden de 24 de abril de 2009 y Resoluciones posteriores, expido el 
+Y para que conste, a los efectos previstos en la [Orden de 24 de abril de 2009](./O24_4_2009_procedimiento_subvenciones_comedores_escolares_canarias.md) y Resoluciones posteriores, expido el 
 presente certificado con el Vº Bº de D/Dña._______________________, que ejerce la presidencia del Consejo 
 Escolar a la fecha de la firma electrónica.
 DIRECTOR GENERAL DE ADMINISTRACIÓN DE CENTROS, ESCOLARIZACIÓN Y SERVICIOS 
@@ -707,7 +717,7 @@ Disponibilidad de menaje y utensilios adecuados para ofrecer el servicio que se 
 Tiene alumnado en lista de espera actualmente: Sí / No
 •
 El personal de servicio de comedor es suficiente para dar respuesta al aumento que se solicita: Sí / No
-Y para que conste, a los efectos previstos en la Orden de 24 de abril de 2009, expido el presente 
+Y para que conste, a los efectos previstos en la [Orden de 24 de abril de 2009](./O24_4_2009_procedimiento_subvenciones_comedores_escolares_canarias.md), expido el presente 
 certificado con el Vº Bº de D/Dña._______________________, que ejerce la presidencia del 
 Consejo Escolar y los Servicios de Inspección Educativa a la fecha de la firma electrónica.
 DIRECTOR GENERAL DE ADMINISTRACIÓN DE CENTROS, ESCOLARIZACIÓN Y SERVICIOS 
@@ -763,7 +773,7 @@ TOTAL GASTOS
 TOTAL DE INGRESOS - TOTAL DE GASTOS = REMANENTE  A JUNIO 2027
 De este remanente, el generado por falta de aplicación de la asignación concedida por la Dirección General de 
 Administración de Centros, Escolarización y Servicios Complementarios, y que será detraído en su totalidad del 
-importe de la asignación correspondiente al siguiente curso escolar (Orden de 24 de abril de 2009) es:
+importe de la asignación correspondiente al siguiente curso escolar ([Orden de 24 de abril de 2009](./O24_4_2009_procedimiento_subvenciones_comedores_escolares_canarias.md)) es:
 REMANENTE ASIGNACIÓN SUBVENCIÓN CONSEJERÍA 
 Asimismo CERTIFICA que:
 1) El Consejo Escolar ha aprobado los ingresos y gastos que anteriormente se detallan, así como que la
@@ -814,7 +824,7 @@ MAYO
 JUNIO
 TOTALES ANUALES
 Y que el Consejo Escolar, por delegación de la Consejería de Educación, Universidades, Cultura y Deportes, en 
-virtud de la Orden de 24 de abril de 2009, y de conformidad con lo dispuesto en la misma, ha concedido, dentro de 
+virtud de la [Orden de 24 de abril de 2009](./O24_4_2009_procedimiento_subvenciones_comedores_escolares_canarias.md), y de conformidad con lo dispuesto en la misma, ha concedido, dentro de 
 los límites establecidos por la Dirección General de Administración de Centros, Escolarización y Servicios 
 Complementarios para el curso 2026/2027, constando en el Libro de Actas del Consejo Escolar los criterios de 
 baremación utilizados, las siguientes subvenciones:
@@ -827,7 +837,7 @@ SEXO
 Asimismo, que han sido expuestos los listados de alumnado admitido y excluido; así como las subvenciones 
 concedidas y cuota asignada a los comensales, con indicación del coste del servicio/día/comensal; quedando 
 constancia literal de todo ello en el libro de actas del Consejo Escolar o anexo del mismo.
-Y para que conste, a los efectos previstos en  la Orden de 24 de abril de 2009 expido el presente con el Vº Bº de 
+Y para que conste, a los efectos previstos en  la [Orden de 24 de abril de 2009](./O24_4_2009_procedimiento_subvenciones_comedores_escolares_canarias.md) expido el presente con el Vº Bº de 
 D/Dña._______________________, que ejerce la presidencia del Consejo Escolar a la fecha de la firma 
 electrónica.
 DIRECTOR GENERAL DE ADMINISTRACIÓN DE CENTROS, ESCOLARIZACIÓN Y SERVICIOS 

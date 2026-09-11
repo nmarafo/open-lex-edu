@@ -17,9 +17,22 @@ estado: Vigente
 redaccion: original
 fuente_oficial: http://www.juntadeandalucia.es/boja/2011/132/1
 fuente_pdf_oficial: http://www.juntadeandalucia.es/boja/pdf/2011/132/1
+clasificacion:
+  categoria_canonica: 07_convivencia_bienestar_y_protocolos
+  subcategoria: Convivencia y mediación escolar
+fundamentos_derecho:
+- norma_id: norm-and-l17-2007
+- norma_id: norm-and-l6-2006-gobierno-comunidad-autonoma-andalucia
+- norma_id: norm-and-d285-2010-regulacion-sistema-informacion-seneca-andalucia
+- norma_id: norm-and-d327-2010
+- norma_id: norm-and-d328-2010
+- norma_id: norm-and-d19-2007
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-lo-5-2000
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
 ---
-
-
 # Orden de 20 de junio de 2011, por la que se adoptan medidas para la promoción de la convivencia en los centros docentes sostenidos con fondos públicos y se regula el derecho de las familias a participar en el proceso educativo de sus hijos e hijas.
 
 ## Preámbulo
@@ -29,7 +42,7 @@ adoptan medidas para la promoción de la convivencia
 en los centros docentes sostenidos con fondos públicos 
 y se regula el derecho de las familias a participar en el 
 proceso educativo de sus hijos e hijas.
-La Ley Orgánica 2/2006, de 3 de mayo, de Educación, 
+La [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, 
 establece como un fin del sistema educativo la educación en 
 el ejercicio de la tolerancia y de la libertad dentro de los princi-
 pios democráticos de convivencia, así como en la prevención 
@@ -37,7 +50,7 @@ de conflictos y la resolución pacífica de los mismos y señala
 como un principio del mismo la participación de la comunidad 
 educativa en la organización, gobierno y funcionamiento de los 
 centros docentes.
-La Ley 17/2007, de 10 de diciembre, de Educación de 
+La [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre, de Educación de 
 Andalucía, establece, entre los principios del sistema educa-
 tivo andaluz, la convivencia como meta y condición necesaria 
 para el buen desarrollo del trabajo del alumnado y del profeso-
@@ -77,8 +90,8 @@ nico de las escuelas infantiles de segundo ciclo, de los colegios
 de educación primaria, de los colegios de educación infantil y 
 primaria y de los centros públicos específicos de educación es-
 pecial, así como el de los institutos de educación secundaria, 
-aprobados respectivamente por el Decreto 328/2010, de 13 
-de julio, y por el Decreto 327/2010, de 13 de julio, regulan los 
+aprobados respectivamente por el [Decreto 328/2010](../04_organizacion_escolar_y_funcionamiento/D328_2010_reglamento_organico_escuelas_infantiles_colegios_primaria_andalucia.md), de 13 
+de julio, y por el [Decreto 327/2010](../04_organizacion_escolar_y_funcionamiento/D327_2010_reglamento_organico_institutos_educacion_secundaria_andalucia.md), de 13 de julio, regulan los 
 derechos y deberes del alumnado y la colaboración y participa-
 ción de las familias. Asimismo, se establece la posibilidad de 
 crear aulas de convivencia para el tratamiento individualizado 
@@ -87,7 +100,7 @@ de la comisión de convivencia del Consejo Escolar, a fin de
 promover la cultura de paz y la resolución pacífica de los con-
 flictos, y se reconoce la figura de los delegados o delegadas de 
 los padres y madres del alumnado.
-El Decreto 19/2007, de 23 de enero, por el que se adop-
+El [Decreto 19/2007](./D19_2007_promocion_cultura_paz_mejora_convivencia_centros_andalucia.md), de 23 de enero, por el que se adop-
 tan medidas para la promoción de la cultura de paz y la me-
 jora de la convivencia en los centros educativos sostenidos 
 con fondos públicos, establece como principios de actuación 
@@ -114,8 +127,8 @@ ejerzan la dirección de los centros educativos y los consejos
 escolares adoptarán los protocolos de actuación y las medidas 
 necesarias para la detección y atención a los actos de violen-
 cia de género dentro del ámbito escolar.
-En su disposición derogatoria única, el Decreto 327/2010, 
-de 13 de julio, deroga los Títulos II y III del Decreto 19/2007, 
+En su disposición derogatoria única, el [Decreto 327/2010](../04_organizacion_escolar_y_funcionamiento/D327_2010_reglamento_organico_institutos_educacion_secundaria_andalucia.md), 
+de 13 de julio, deroga los Títulos II y III del [Decreto 19/2007](./D19_2007_promocion_cultura_paz_mejora_convivencia_centros_andalucia.md), 
 de 23 de enero, y la Orden de la Consejería de Educación de 
 18 de julio de 2007, por la que se regula el procedimiento 
 para la elaboración y aprobación del plan de convivencia de 
@@ -128,7 +141,7 @@ de acoso escolar, agresión hacia el profesorado o el personal
 de administración y servicios, o maltrato infantil.
 En su virtud, a propuesta de la Dirección General de 
 Participación e Innovación Educativa, y de acuerdo con las fa-
-cultades que me confiere el artículo 44.2 de la Ley 6/2006, 
+cultades que me confiere el artículo 44.2 de la [Ley 6/2006](../01_marco_normativo_general_y_organico/L6_2006_gobierno_comunidad_autonoma_andalucia.md), 
 de 24 de octubre, del Gobierno de la Comunidad Autónoma 
 de Andalucía, así como la disposición final sexta del Decreto 
 327/2010, de 13 de julio, y la disposición final quinta del De-
@@ -227,7 +240,7 @@ cuela: Espacio de Paz».
 la actividad de coordinación a solicitud de las personas intere-
 sadas, una vez finalizado el curso escolar. A tal fin, el modelo 
 de certificación estará disponible en el Sistema de Información 
-Séneca, regulado en el Decreto 285/2010, de 11 de mayo, 
+Séneca, regulado en el [Decreto 285/2010](../02_gestion_y_administracion_centros/D285_2010_regulacion_sistema_informacion_seneca_andalucia.md), de 11 de mayo, 
 por el que se regula el Sistema de Información Séneca y se 
 establece su utilización para la gestión del sistema educativo 
 andaluz.
@@ -319,9 +332,9 @@ cia y efectividad de las mismas.
 ### Artículo 6. Funciones de la comisión de convivencia.
 
 1. De conformidad con lo recogido en el artículo 66.4 del 
-Decreto 327/2010, de 13 de julio, por el que se aprueba el 
+[Decreto 327/2010](../04_organizacion_escolar_y_funcionamiento/D327_2010_reglamento_organico_institutos_educacion_secundaria_andalucia.md), de 13 de julio, por el que se aprueba el 
 Reglamento Orgánico de los Institutos de Educación Secunda-
-ria, y en el artículo 64.4 del Decreto 328/2010, de 13 de julio, 
+ria, y en el artículo 64.4 del [Decreto 328/2010](../04_organizacion_escolar_y_funcionamiento/D328_2010_reglamento_organico_escuelas_infantiles_colegios_primaria_andalucia.md), de 13 de julio, 
 por el que se aprueba el Reglamento Orgánico de las escuelas 
 infantiles de segundo ciclo, de los colegios de educación pri-
 maria, de los colegios de educación infantil y primaria, y de los 
@@ -392,7 +405,7 @@ los cambios de clase.
 ### Artículo 8. Aula de convivencia.
 
  1. De conformidad con lo recogido en el artículo 25 del 
-Decreto 327/2010 y en el artículo 23 del Decreto 328/2010, 
+[Decreto 327/2010](../04_organizacion_escolar_y_funcionamiento/D327_2010_reglamento_organico_institutos_educacion_secundaria_andalucia.md) y en el artículo 23 del [Decreto 328/2010](../04_organizacion_escolar_y_funcionamiento/D328_2010_reglamento_organico_escuelas_infantiles_colegios_primaria_andalucia.md), 
 ambos de 13 de julio, los centros docentes podrán crear aulas 
 de convivencia, garantizándose en todo caso que la atención 
 educativa del alumnado que asista a las mismas se realice 
@@ -415,8 +428,8 @@ el alumnado.
 4. En el aula de convivencia será atendido el alumnado 
 que, como consecuencia de la imposición de una corrección o 
 medida disciplinaria por alguna de las conductas tipificadas en 
-los artículos 34 y 37 del Decreto 327/2010 y en los artículos 
-33 y 36 del Decreto 328/2010, ambos de 13 de julio, se vea 
+los artículos 34 y 37 del [Decreto 327/2010](../04_organizacion_escolar_y_funcionamiento/D327_2010_reglamento_organico_institutos_educacion_secundaria_andalucia.md) y en los artículos 
+33 y 36 del [Decreto 328/2010](../04_organizacion_escolar_y_funcionamiento/D328_2010_reglamento_organico_escuelas_infantiles_colegios_primaria_andalucia.md), ambos de 13 de julio, se vea 
 privado de su derecho a participar en el normal desarrollo de 
 las actividades lectivas.
 5. El plan de convivencia incluirá, en relación con el aula 
@@ -453,7 +466,7 @@ en la misma.
 
 delegadas de padres y madres del alumnado.
 1. De conformidad con lo dispuesto en el artículo 24.2 del 
-Decreto 327/2010 y en el artículo 22.2 del Decreto 328/2010, 
+[Decreto 327/2010](../04_organizacion_escolar_y_funcionamiento/D327_2010_reglamento_organico_institutos_educacion_secundaria_andalucia.md) y en el artículo 22.2 del [Decreto 328/2010](../04_organizacion_escolar_y_funcionamiento/D328_2010_reglamento_organico_escuelas_infantiles_colegios_primaria_andalucia.md), 
 ambos de 13 de julio, el plan de convivencia contemplará la 
 figura del delegado o delegada de los padres y madres del 
 alumnado en cada uno de los grupos.
@@ -557,7 +570,7 @@ su inclusión, en su caso, en el plan de actuación del mismo.
 
 vencia.
 1. De conformidad con lo dispuesto en el artículo 13.1.d) 
-del Decreto 285/2010, de 11 de mayo, los centros docentes 
+del [Decreto 285/2010](../02_gestion_y_administracion_centros/D285_2010_regulacion_sistema_informacion_seneca_andalucia.md), de 11 de mayo, los centros docentes 
 públicos y privados concertados facilitarán a la Administra-
 ción educativa, a través del Sistema de Información Séneca, 
 la información referida al seguimiento de las conductas con-
@@ -599,7 +612,7 @@ miento para asegurar la comunicación de la aplicación de esta
 medida a la comisión de convivencia del centro, al profesorado 
 que ejerza la tutoría y a las familias del alumnado implicado.
 4. De conformidad con lo dispuesto en el artículo 72.1.g) 
-del Decreto 327/2010 y en el artículo 70.1.g) del Decreto 
+del [Decreto 327/2010](../04_organizacion_escolar_y_funcionamiento/D327_2010_reglamento_organico_institutos_educacion_secundaria_andalucia.md) y en el artículo 70.1.g) del Decreto 
 328/2010, ambos de 13 de julio, la dirección del centro garan-
 tizará la posibilidad de recurrir a la mediación en la resolución 
 de los conflictos que pudieran plantearse.
@@ -645,7 +658,7 @@ misos asumidos y del plazo para su ejecución.
 acoso escolar, maltrato infantil, violencia de género en el ám-
 bito educativo, o agresión.
 De conformidad con lo establecido en el artículo 34 del 
-Decreto 19/2007, de 23 de enero, se establecen los protoco-
+[Decreto 19/2007](./D19_2007_promocion_cultura_paz_mejora_convivencia_centros_andalucia.md), de 23 de enero, se establecen los protoco-
 los de actuación que se recogen como Anexos I, II, III y IV, en 
 los supuestos de acoso escolar, maltrato infantil, violencia de 
 género en el ámbito educativo, y agresión al profesorado o el 
@@ -685,8 +698,8 @@ con el profesorado que integra el equipo docente que imparte
 docencia en el grupo y para ser oídas en las decisiones que 
 afecten a la evolución escolar de los hijos e hijas.
 f) Derechos y obligaciones de las familias, de acuerdo con 
-lo recogido en los artículos 12 y 13 del Decreto 327/2010 y 
-en los artículos 10 y 11 del Decreto 328/2010, ambos de 13 
+lo recogido en los artículos 12 y 13 del [Decreto 327/2010](../04_organizacion_escolar_y_funcionamiento/D327_2010_reglamento_organico_institutos_educacion_secundaria_andalucia.md) y 
+en los artículos 10 y 11 del [Decreto 328/2010](../04_organizacion_escolar_y_funcionamiento/D328_2010_reglamento_organico_escuelas_infantiles_colegios_primaria_andalucia.md), ambos de 13 
 de julio.
 g) Funciones de las personas delegadas de los padres y 
 madres en cada grupo.
@@ -703,7 +716,7 @@ personales, académicas y profesionales.
 ### Artículo 16. Tutoría electrónica.
 
 1. De conformidad con lo recogido en el artículo 16 del 
-Decreto 285/2010, de 11 de mayo, los centros docentes y las 
+[Decreto 285/2010](../02_gestion_y_administracion_centros/D285_2010_regulacion_sistema_informacion_seneca_andalucia.md), de 11 de mayo, los centros docentes y las 
 familias intercambiarán información mediante la utilización del 
 Sistema de Información Séneca para apoyar el proceso de en-
 señanza y aprendizaje del alumnado.
@@ -746,7 +759,7 @@ de la comunidad educativa en la vida de los centros.
 ### Artículo 18. Compromisos educativos.
 
 1. De conformidad con lo dispuesto en el artículo 12.g) 
-del Decreto 327/2010 y en el artículo 10.g) Decreto 328/2010, 
+del [Decreto 327/2010](../04_organizacion_escolar_y_funcionamiento/D327_2010_reglamento_organico_institutos_educacion_secundaria_andalucia.md) y en el artículo 10.g) [Decreto 328/2010](../04_organizacion_escolar_y_funcionamiento/D328_2010_reglamento_organico_escuelas_infantiles_colegios_primaria_andalucia.md), 
 ambos de 13 de julio, las familias tienen derecho a suscribir 
 con el centro un compromiso educativo para procurar un ade-
 cuado seguimiento del proceso de aprendizaje de sus hijos e 
@@ -768,7 +781,7 @@ terias no superadas tras la primera o la segunda evaluación.
 ### Artículo 19. Compromisos de convivencia.
 
 1. De conformidad con lo dispuesto en el artículo 12.k) del 
-Decreto 327/2010 y en el artículo 10.k) del Decreto 328/2010, 
+[Decreto 327/2010](../04_organizacion_escolar_y_funcionamiento/D327_2010_reglamento_organico_institutos_educacion_secundaria_andalucia.md) y en el artículo 10.k) del [Decreto 328/2010](../04_organizacion_escolar_y_funcionamiento/D328_2010_reglamento_organico_escuelas_infantiles_colegios_primaria_andalucia.md), 
 ambos de 13 de julio, las familias tienen derecho a suscribir 
 con el centro un compromiso de convivencia.
 2. El compromiso de convivencia está indicado para el 
@@ -789,7 +802,7 @@ prevenir su agravamiento.
 
 compromisos educativos y de convivencia.
 1. De conformidad con lo dispuesto en el artículo 23.i) del 
-Decreto 327/2010 y en el artículo 21.i) del Decreto 328/2010, 
+[Decreto 327/2010](../04_organizacion_escolar_y_funcionamiento/D327_2010_reglamento_organico_institutos_educacion_secundaria_andalucia.md) y en el artículo 21.i) del [Decreto 328/2010](../04_organizacion_escolar_y_funcionamiento/D328_2010_reglamento_organico_escuelas_infantiles_colegios_primaria_andalucia.md), 
 ambos de 13 de julio, el proyecto educativo establecerá el pro-
 cedimiento para suscribir compromisos educativos y de convi-
 vencia con las familias. Asimismo, recogerá el procedimiento 
@@ -1766,8 +1779,8 @@ agredido vía telefónica.
 En el caso del personal de centros públicos, el inspector 
 o inspectora de referencia del centro le ofrecerá asistencia ju-
 rídica, según lo establecido en los artículos 11.5 y 16.2 del 
-Decreto 327/2010, de 13 de julio, en los artículos 9.5 y 14.2 
-del Decreto 328/2010, de 13 de julio, y en la Orden de 27 de 
+[Decreto 327/2010](../04_organizacion_escolar_y_funcionamiento/D327_2010_reglamento_organico_institutos_educacion_secundaria_andalucia.md), de 13 de julio, en los artículos 9.5 y 14.2 
+del [Decreto 328/2010](../04_organizacion_escolar_y_funcionamiento/D328_2010_reglamento_organico_escuelas_infantiles_colegios_primaria_andalucia.md), de 13 de julio, y en la Orden de 27 de 
 febrero de 2007, por la que se regula la asistencia jurídica al 
 personal docente de todos los niveles educativos, a excepción 
 del universitario, dependiente de la Consejería de Educación, 
@@ -1890,12 +1903,12 @@ A estos efectos, y según lo dispuesto en la Ley Orgánica
 nal de los menores, hay que distinguir dentro del alumnado 
 dos franjas de edad:
 - Hasta 14 años no se les exigirá responsabilidad con 
-arreglo a la Ley Orgánica 5/2000, de 12 de enero, sino que 
+arreglo a la [Ley Orgánica 5/2000](../../../estatal/01_marco_normativo_general_y_organico/LO5_2000_reguladora_responsabilidad_penal_menores.md), de 12 de enero, sino que 
 se les aplicará lo dispuesto en las normas sobre protección 
 de menores previstas en el Código Civil y demás disposiciones 
 vigentes.
 - De 14 a 18 años son responsables penalmente conforme 
-a la Ley Orgánica 5/2000, de 12 de enero, correspondiendo la 
+a la [Ley Orgánica 5/2000](../../../estatal/01_marco_normativo_general_y_organico/LO5_2000_reguladora_responsabilidad_penal_menores.md), de 12 de enero, correspondiendo la 
 instrucción del expediente a la Fiscalía de Menores y su enjui-
 ciamiento al Juez de Menores.
 En el caso de personas de 18 o más años su instrucción 

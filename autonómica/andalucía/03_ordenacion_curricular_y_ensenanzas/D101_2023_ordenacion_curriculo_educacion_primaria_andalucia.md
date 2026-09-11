@@ -16,8 +16,23 @@ estado: Vigente
 redaccion: original
 fuente_oficial: http://www.juntadeandalucia.es/boja/2023/90/2
 fuente_pdf_oficial: http://www.juntadeandalucia.es/boja/pdf/2023/90/2
+clasificacion:
+  categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+  subcategoria: Educación Primaria
+fundamentos_derecho:
+- norma_id: norm-and-l12-2007-promocion-igualdad-genero-andalucia
+- norma_id: norm-and-l17-2007
+- norma_id: norm-and-l6-2006-gobierno-comunidad-autonoma-andalucia
+- norma_id: norm-and-d285-2010-regulacion-sistema-informacion-seneca-andalucia
+- norma_id: norm-and-d93-2013-regulacion-formacion-profesorado-sistema-andaluz-andalucia
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-es-l-39-2015
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-lo-3-2018
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-rd-157-2022
+- norma_id: norm-es-2010-12201
 ---
-
 # Decreto 101/2023, de 9 de mayo, por el que se establece la ordenación y el currículo de la etapa de Educación Primaria en la Comunidad Autónoma de Andalucía.
 
 ## Preámbulo
@@ -65,7 +80,7 @@ etapas y ciclos en el uso de su autonomía, tal y como se recoge en la citada le
 La Ley Orgánica 3/2020, de 29 de diciembre, por tanto, ha venido a establecer un 
 nuevo marco legislativo para la regulación de las enseñanzas, por lo que se considera 
 necesario regular en un nuevo decreto la ordenación y el currículo de la etapa de 
-Educación Primaria, de acuerdo con el referido marco y el Real Decreto 157/2022, de 
+Educación Primaria, de acuerdo con el referido marco y el [Real Decreto 157/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD157_2022_establecen_ordenacion_ensenanzas_minimas_educacion_primaria.md), de 
 1 de marzo, por el que se establecen la ordenación y las enseñanzas mínimas de la 
 Educación Primaria.
 
@@ -145,7 +160,7 @@ que atienden.
 El currículo andaluz de la etapa ha de tomar como eje estratégico y vertebrador del 
 proceso de enseñanza y aprendizaje el desarrollo de las capacidades del alumnado y la 
 integración de las competencias clave en el currículo educativo y en las prácticas docentes. 
-La Ley 17/2007, de 10 de diciembre, de Educación de Andalucía y las orientaciones de 
+La [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre, de Educación de Andalucía y las orientaciones de 
 la Unión Europea inciden en la necesidad de la adquisición de las competencias clave 
 por parte de la ciudadanía como condición indispensable para lograr que las personas 
 puedan alcanzar su pleno desarrollo personal, social y profesional. El aprendizaje basado 
@@ -162,7 +177,7 @@ y se establecen las funciones de los coordinadores de área de los Equipos Técn
 Provinciales, que viene a reducir los requisitos de acceso a un puesto de personal 
 docente en los Equipos Especializados, con la finalidad de flexibilizar dicho acceso.
 El presente decreto se ha elaborado atendiendo a los principios de buena regulación 
-contenidos en el artículo 129 de la Ley 39/2015, de 1 de octubre, del Procedimiento 
+contenidos en el artículo 129 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento 
 Administrativo Común de las Administraciones Públicas: principios de necesidad, eficacia, 
 proporcionalidad, seguridad jurídica, transparencia y eficiencia, en tanto que persigue un 
 interés general al proporcionar a la ciudadanía un marco normativo de las enseñanzas 
@@ -175,14 +190,14 @@ permitiendo una gestión más eficiente de los recursos públicos, por lo que qu
 justificados los objetivos que persigue la citada ley. Además, en el procedimiento de 
 elaboración de este decreto se ha permitido y facilitado la participación y las aportaciones 
 de las personas potenciales destinatarias a través de los procedimientos de audiencia 
-e información pública regulados en el artículo 133 de la citada Ley 39/2015, de 1 de 
+e información pública regulados en el artículo 133 de la citada [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de 
 octubre. Asimismo, se ha tenido en cuenta en la elaboración de esta norma lo dispuesto 
 en el artículo 7.2 del Decreto 622/2019, de 27 de diciembre, de administración electrónica, 
 simplificación de procedimientos y racionalización organizativa de la Junta de Andalucía. 
 Por ello, contiene la regulación imprescindible para atender la necesidad a cubrir con la 
 norma y se dicta en coherencia con el ordenamiento jurídico autonómico.
 En su virtud, a propuesta de la Consejera de Desarrollo Educativo y Formación 
-Profesional, conforme a los artículos 21.3 y 27.8 de la Ley 6/2006, de 24 de octubre, 
+Profesional, conforme a los artículos 21.3 y 27.8 de la [Ley 6/2006](../01_marco_normativo_general_y_organico/L6_2006_gobierno_comunidad_autonoma_andalucia.md), de 24 de octubre, 
 del Gobierno de la Comunidad Autónoma de Andalucía, de acuerdo con el Consejo 
 Consultivo de Andalucía y previa deliberación del Consejo de Gobierno, en su reunión del 
 día 9 de mayo de 2023,
@@ -230,7 +245,7 @@ Secundaria Obligatoria.
 ### Artículo 3. Definiciones.
 
 1. A efectos de los elementos que articulan el currículo, y teniendo en cuenta el artículo 
-2 del Real Decreto 157/2022, de 1 de marzo, por el que se establecen la ordenación y las 
+2 del [Real Decreto 157/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD157_2022_establecen_ordenacion_ensenanzas_minimas_educacion_primaria.md), de 1 de marzo, por el que se establecen la ordenación y las 
 enseñanzas mínimas de la Educación Primaria, se entenderá por:
 a) Objetivos: logros que se espera que el alumnado haya alcanzado al finalizar la 
 etapa y cuya consecución está vinculada a la adquisición de las competencias clave.
@@ -262,7 +277,7 @@ https://www.juntadeandalucia.es/eboja
 f) Situaciones de aprendizaje: Situaciones y actividades que implican el despliegue 
 por parte del alumnado de actuaciones asociadas a competencias clave y competencias 
 específicas y que contribuyen a la adquisición y desarrollo de las mismas.
-2. Asimismo, según lo establecido en el artículo 9.2 del Real Decreto 157/2022, de 1 
+2. Asimismo, según lo establecido en el artículo 9.2 del [Real Decreto 157/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD157_2022_establecen_ordenacion_ensenanzas_minimas_educacion_primaria.md), de 1 
 de marzo, el Perfil de salida identifica y define las competencias clave que el alumnado 
 debe haber desarrollado al finalizar la Educación Básica e introduce orientaciones sobre 
 el nivel de desempeño esperado al término de la etapa de Educación Primaria.
@@ -369,7 +384,7 @@ encuentro de culturas.
 
 ### Artículo 6. Principios pedagógicos.
 
-Sin perjuicio de lo dispuesto en el artículo 6 del Real Decreto 157/2022, de 1 de marzo, 
+Sin perjuicio de lo dispuesto en el artículo 6 del [Real Decreto 157/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD157_2022_establecen_ordenacion_ensenanzas_minimas_educacion_primaria.md), de 1 de marzo, 
 el currículo de la etapa de Educación Primaria responderá a los siguientes principios:
 a) La lectura constituye un factor fundamental para el desarrollo de las competencias 
 clave. Las programaciones didácticas de todas las áreas incluirán actividades y tareas 
@@ -415,7 +430,7 @@ folclore, las distintas variedades de la modalidad lingüística andaluza, la di
 sus manifestaciones artísticas como el flamenco, la música, la literatura o la pintura, entre 
 ellas, tanto tradicionales como actuales, así como las contribuciones de su ciudadanía a 
 la construcción del acervo cultural andaluz, formarán parte del desarrollo del currículo.
-h) Atendiendo a lo recogido en el capítulo I del título II de la Ley 12/2007, de 26 de 
+h) Atendiendo a lo recogido en el capítulo I del título II de la [Ley 12/2007](../01_marco_normativo_general_y_organico/L12_2007_promocion_igualdad_genero_andalucia.md), de 26 de 
 noviembre, para la promoción de la igualdad de género en Andalucía, se favorecerá la 
 resolución pacífica de conflictos y modelos de convivencia basados en la diversidad, la 
 tolerancia y el respeto a la igualdad de derechos y oportunidades de mujeres y hombres.
@@ -459,7 +474,7 @@ Ordenación de la etapa
 
 ### Artículo 8. Ordenación general.
 
-1. De conformidad con lo establecido en el artículo 8 del Real Decreto 157/2022, de 1 
+1. De conformidad con lo establecido en el artículo 8 del [Real Decreto 157/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD157_2022_establecen_ordenacion_ensenanzas_minimas_educacion_primaria.md), de 1 
 de marzo, las áreas de la etapa de Educación Primaria son las siguientes:
 a) Conocimiento del Medio Natural, Social y Cultural.
 b) Educación Artística.
@@ -471,7 +486,7 @@ g) Segunda Lengua Extranjera en el tercer ciclo.
 2. A las áreas incluidas en el apartado 1, se añadirá en el tercer ciclo el área de 
 Educación en Valores Cívicos y Éticos.
 3. El horario de autonomía del centro, según lo regulado en el artículo 120.4 de la 
-Ley Orgánica 2/2006, de 3 de mayo, de Educación, será establecido por orden de la 
+[Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, será establecido por orden de la 
 Consejería competente en materia de educación, quien podrá autorizar la impartición de 
 distintas áreas en dicho tiempo.
 4. La tutoría podrá ser trabajada de manera integrada con el resto de áreas o podrá 
@@ -486,7 +501,7 @@ estas edades.
 7. Los centros docentes podrán integrar las áreas en ámbitos. El currículo de los 
 mismos incluirá las competencias específicas, los criterios de evaluación y los saberes 
 básicos de las áreas que lo conforman.
-8. Teniendo en cuenta el artículo 16.6 del Real Decreto 157/2022, de 1 de marzo, 
+8. Teniendo en cuenta el artículo 16.6 del [Real Decreto 157/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD157_2022_establecen_ordenacion_ensenanzas_minimas_educacion_primaria.md), de 1 de marzo, 
 con objeto de asegurar que el alumnado con necesidades específicas de apoyo 
 educativo pueda alcanzar los objetivos de la etapa, así como las competencias del Perfil 
 competencial, se favorecerá, en la enseñanza y en la evaluación, la flexibilización y el 
@@ -558,7 +573,7 @@ Lengua Extranjera junto con el área en cuestión de manera que se conforme un �
 3. Los centros que impartan una parte de las áreas del currículo en lenguas extranjeras 
 aplicarán, en todo caso, los criterios para la admisión del alumnado establecidos en el 
 
-### artículo 84 de la Ley Orgánica 2/2006, de 3 de mayo. Entre tales criterios no se incluirán
+### artículo 84 de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo. Entre tales criterios no se incluirán
 
 requisitos lingüísticos.
 
@@ -576,7 +591,7 @@ Evaluación y promoción
 
 ### Artículo 11. Evaluación.
 
-1. Según lo establecido en el artículo 14 del Real Decreto 157/2022, de 1 de marzo, la 
+1. Según lo establecido en el artículo 14 del [Real Decreto 157/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD157_2022_establecen_ordenacion_ensenanzas_minimas_educacion_primaria.md), de 1 de marzo, la 
 evaluación del alumnado será global, continua y formativa.
 2. La evaluación tendrá en cuenta el grado de desarrollo de las competencias clave y 
 su progreso en el conjunto de los procesos de aprendizaje.
@@ -607,13 +622,13 @@ educación.
 
 ### Artículo 12. Promoción.
 
-1. Sin perjuicio de lo establecido en el artículo 15.1 del Real Decreto 157/2022, de 1 
+1. Sin perjuicio de lo establecido en el artículo 15.1 del [Real Decreto 157/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD157_2022_establecen_ordenacion_ensenanzas_minimas_educacion_primaria.md), de 1 
 de marzo, al finalizar cada uno de los ciclos, el equipo docente adoptará las decisiones 
 relativas a la promoción del alumnado de manera colegiada, tomando como referencia, 
 además del grado de consecución de las competencias específicas de cada una de las 
 áreas, el grado de desarrollo de los descriptores operativos del Perfil competencial del 
 ciclo para cada uno de los alumnos y alumnas.
-2. Según lo dispuesto en el artículo 15.3 del Real Decreto 157/2022, de 1 de marzo, 
+2. Según lo dispuesto en el artículo 15.3 del [Real Decreto 157/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD157_2022_establecen_ordenacion_ensenanzas_minimas_educacion_primaria.md), de 1 de marzo, 
 si en algún caso y tras haber aplicado las medidas generales de atención a la diversidad 
 y a las diferencias individuales suficientes, adecuadas y personalizadas para atender 
 al desfase curricular o las dificultades de aprendizaje del alumno o alumna, el equipo 
@@ -622,7 +637,7 @@ más adecuada para favorecer su desarrollo, se organizará un programa de refuer
 del aprendizaje para que, durante ese curso, pueda alcanzar el grado esperado de las 
 competencias correspondientes. Esta decisión solo se podrá adoptar una vez durante la 
 etapa y tendrá, en todo caso, carácter excepcional.
-3. De conformidad con el artículo 15.4 del Real Decreto 157/2022, de 1 de marzo, al 
+3. De conformidad con el artículo 15.4 del [Real Decreto 157/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD157_2022_establecen_ordenacion_ensenanzas_minimas_educacion_primaria.md), de 1 de marzo, al 
 finalizar cada uno de los ciclos, el tutor o la tutora emitirá un informe sobre el grado de 
 adquisición de las competencias clave de cada alumno o alumna, indicando, en su caso, 
 
@@ -646,7 +661,7 @@ por orden de la Consejería competente en materia de educación.
 1. El alumnado, en el cuarto curso de Educación Primaria, realizará una evaluación 
 de diagnóstico de las competencias adquiridas, según lo dispuesto por la Consejería 
 competente en materia de educación. Esta evaluación, de conformidad con el artículo 
-22 del Real Decreto 157/2022, de 1 de marzo, no tendrá efectos académicos para el 
+22 del [Real Decreto 157/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD157_2022_establecen_ordenacion_ensenanzas_minimas_educacion_primaria.md), de 1 de marzo, no tendrá efectos académicos para el 
 alumnado y tendrá carácter informativo, formativo y orientador para los centros, para el 
 profesorado, para el alumnado y sus familias o personas que ejerzan la tutela legal y para 
 el conjunto de la comunidad educativa.
@@ -666,7 +681,7 @@ académico, el historial académico, el informe final de etapa y, en su caso, el
 personal por traslado.
 2. Por orden de la persona titular de la Consejería competente en materia de 
 educación, se establecerán los modelos y contenidos de estos documentos sin perjuicio 
-de lo recogido en el artículo 25 del Real Decreto 157/2022, de 1 de marzo.
+de lo recogido en el artículo 25 del [Real Decreto 157/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD157_2022_establecen_ordenacion_ensenanzas_minimas_educacion_primaria.md), de 1 de marzo.
 3. El historial académico y, en su caso, el informe personal por traslado se consideran 
 documentos básicos para garantizar la movilidad del alumnado por todo el territorio 
 nacional.
@@ -676,7 +691,7 @@ nacional.
 1. Mediante orden de la Consejería competente en materia de educación se 
 establecerán las características de los informes finales de ciclo a los que se refiere el 
 
-### artículo 15.4 del Real Decreto 157/2022, de 1 de marzo.
+### artículo 15.4 del [Real Decreto 157/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD157_2022_establecen_ordenacion_ensenanzas_minimas_educacion_primaria.md), de 1 de marzo.
 
 2. Además, se considerarán informes de evaluación los boletines de calificaciones y 
 las actas de las sesiones de evaluación continua.
@@ -700,8 +715,8 @@ BOJA
 Depósito Legal: SE-410/1979. ISSN: 2253-802X	
 https://www.juntadeandalucia.es/eboja
 personal y, en todo caso, a lo establecido en la disposición adicional vigesimotercera de 
-la Ley Orgánica 2/2006, de 3 de mayo.
-3. De conformidad con lo establecido en el artículo 13.1 del Decreto 285/2010, de 
+la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo.
+3. De conformidad con lo establecido en el artículo 13.1 del [Decreto 285/2010](../02_gestion_y_administracion_centros/D285_2010_regulacion_sistema_informacion_seneca_andalucia.md), de 
 11 de mayo, por el que se regula el Sistema de Información Séneca y se establece su 
 utilización para la gestión del Sistema Educativo andaluz, los centros docentes sostenidos 
 con fondos públicos cumplimentarán electrónicamente los documentos oficiales de 
@@ -731,7 +746,7 @@ competente en materia de educación. Los centros docentes dispondrán de autonom
 para organizar medidas generales y específicas, así como programas de atención a la 
 diversidad y a las diferencias individuales.
 3. La escolarización del alumnado que se incorpora tardíamente al Sistema Educativo, 
-al que se refiere el artículo 78 de la Ley Orgánica 2/2006, de 3 de mayo, se realizará 
+al que se refiere el artículo 78 de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, se realizará 
 atendiendo a sus circunstancias, conocimientos, edad e historial académico, de modo 
 que se pueda incorporar al curso más adecuado a sus características y conocimientos 
 previos, con los apoyos oportunos, y de esta forma continuar con aprovechamiento su 
@@ -761,7 +776,7 @@ BOJA
 BOJA
 Depósito Legal: SE-410/1979. ISSN: 2253-802X	
 https://www.juntadeandalucia.es/eboja
-se refiere el artículo 73.1 de la Ley Orgánica 2/2006, de 3 de mayo, establecerá los 
+se refiere el artículo 73.1 de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, establecerá los 
 procedimientos oportunos cuando sea necesario realizar adaptaciones que se aparten 
 significativamente de los elementos del currículo.
 
@@ -831,7 +846,7 @@ Tutoría y orientación
 1. La tutoría y la orientación forman parte de la función docente. Corresponderá a los 
 centros docentes la programación, desarrollo y evaluación de la acción tutorial que será 
 recogida en el Plan de orientación y acción tutorial, incluido en su Proyecto educativo, de 
-acuerdo con lo establecido en el artículo 121.2 de la Ley Orgánica 2/2006, de 3 de mayo.
+acuerdo con lo establecido en el artículo 121.2 de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo.
 2. En la etapa de Educación Primaria, la tutoría personal del alumnado y la orientación 
 educativa y psicopedagógica constituirán un elemento fundamental en la ordenación de 
 la etapa y orientarán el proceso educativo individual y colectivo del alumnado.
@@ -842,7 +857,7 @@ Autonomía de los centros y participación en el proceso educativo
 
 ### Artículo 20. Autonomía de los centros docentes.
 
-1. De acuerdo con lo establecido en el artículo 125.1 de la Ley 17/2007, de 10 de 
+1. De acuerdo con lo establecido en el artículo 125.1 de la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de 
 diciembre, de Educación de Andalucía, los centros docentes contarán con autonomía 
 pedagógica, de organización y de gestión para poder llevar a cabo modelos de 
 funcionamiento propios, en el marco de la legislación vigente y en los términos recogidos 
@@ -853,7 +868,7 @@ los centros docentes desarrollarán y concretarán, en su caso, el currículo en
 educativo y lo adaptarán a las necesidades de su alumnado y a las características 
 específicas del entorno social y cultural en el que se encuentra, configurando así su 
 oferta formativa.
-3. De conformidad con lo dispuesto en el artículo 120.4 de la Ley Orgánica 2/2006, 
+3. De conformidad con lo dispuesto en el artículo 120.4 de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), 
 de 3 de mayo, los centros docentes, en el ejercicio de su autonomía, podrán adoptar 
 experimentaciones, innovaciones pedagógicas, programas educativos, planes de trabajo, 
 formas de organización, normas de convivencia o ampliación del calendario escolar o 
@@ -867,7 +882,7 @@ evolución positiva desde la etapa de Educación Infantil a la etapa de Educaci�
 y desde ésta a la etapa de Educación Secundaria Obligatoria, los centros establecerán 
 mecanismos para favorecer la coordinación entre las mismas, de acuerdo con lo que se 
 establezca por orden de la Consejería competente en materia de educación.
-5. Conforme a lo dispuesto en el artículo 110.4 de la Ley Orgánica 2/2006, de 3 
+5. Conforme a lo dispuesto en el artículo 110.4 de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 
 de mayo, los centros docentes, como espacios abiertos a la sociedad de los que son 
 elemento nuclear, promoverán el trabajo y la coordinación con las administraciones, 
 entidades y asociaciones de su entorno inmediato, creando comunidades educativas 
@@ -889,14 +904,14 @@ https://www.juntadeandalucia.es/eboja
 ### Artículo 21. Participación de los padres, madres o personas que ejerzan la tutela legal
 
 del alumnado en el proceso educativo.
-De conformidad con el artículo 24 del Real Decreto 157/2022, de 1 de marzo, los 
+De conformidad con el artículo 24 del [Real Decreto 157/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD157_2022_establecen_ordenacion_ensenanzas_minimas_educacion_primaria.md), de 1 de marzo, los 
 padres, madres o personas que ejerzan la tutela legal del alumnado deberán participar 
 y apoyar la evolución del proceso educativo del mismo, colaborando en las medidas de 
 atención a la diversidad y a las diferencias individuales que adopten los centros para 
 facilitar su progreso. Tendrán, además, derecho a conocer las decisiones relativas a su 
 evaluación y a su promoción, así como a acceder a las pruebas y documentos de las 
 evaluaciones que se realicen a sus hijos, hijas, tutelados o tuteladas, sin perjuicio del 
-respeto a las garantías establecidas en la Ley Orgánica 3/2018, de 5 de diciembre, de 
+respeto a las garantías establecidas en la [Ley Orgánica 3/2018](../../../estatal/02_gestion_y_administracion_centros/LO3_2018_proteccion_datos_personales_garantia_derechos_digitales.md), de 5 de diciembre, de 
 Protección de Datos Personales y garantía de los derechos digitales, y en el Reglamento 
 (UE) 2016/679 del Parlamento Europeo y del Consejo, de 27 de abril de 2016, relativo a la 
 protección de las personas físicas en lo que respecta al tratamiento de datos personales 
@@ -914,8 +929,8 @@ la implantación de las enseñanzas contempladas en el presente decreto, a la de
 efectuada por los centros docentes y a las necesidades que se desprendan de los 
 programas educativos y de los resultados de la evaluación del alumnado.
 2. Las actividades de formación permanente del profesorado se desarrollarán dentro 
-del marco regulado en el artículo 19 de la Ley 17/2007, de 10 de diciembre, y en el 
-Decreto 93/2013, de 27 de agosto, por el que se regula la formación inicial y permanente 
+del marco regulado en el artículo 19 de la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre, y en el 
+[Decreto 93/2013](../08_personal_docente/D93_2013_regulacion_formacion_profesorado_sistema_andaluz_andalucia.md), de 27 de agosto, por el que se regula la formación inicial y permanente 
 del profesorado en la Comunidad Autónoma de Andalucía, así como el Sistema Andaluz 
 de Formación Permanente del Profesorado y normas que lo desarrollen.
 
@@ -925,7 +940,7 @@ de Formación Permanente del Profesorado y normas que lo desarrollen.
 experimentación y la innovación educativa, incentivando la creación de equipos docentes, 
 así como la colaboración con las Universidades y con otras instituciones, organizaciones 
 y entidades.
-2. Sin perjuicio de lo recogido en el Real Decreto 157/2022, de 1 de marzo, la 
+2. Sin perjuicio de lo recogido en el [Real Decreto 157/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD157_2022_establecen_ordenacion_ensenanzas_minimas_educacion_primaria.md), de 1 de marzo, la 
 Consejería competente en materia de educación podrá flexibilizar la ordenación de 
 la etapa propuesta en el presente decreto, para desarrollar proyectos de excelencia 
 educativa previamente autorizados.
@@ -1004,7 +1019,7 @@ o parcialmente, normas dictadas por el Estado al amparo del artículo 149.1.30.�
 Constitución Española, recogidas en los artículos 17 de los «Objetivos de la Educación 
 Primaria», 19.5 de los «Principios pedagógicos», 20.3, 20.4, 20.5 de la «Evaluación 
 durante la etapa», primer párrafo del artículo 21 de la «Evaluación de diagnóstico», 78.2 
-de la «Escolarización» y 121.1 del «Proyecto educativo», de la Ley Orgánica 2/2006, de 
+de la «Escolarización» y 121.1 del «Proyecto educativo», de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 
 3 de mayo.
 2. El contenido de los artículos 2.1, 2.2, 2.5, 4, 5, 6, 8.2, 8.6, 8.7, 9, 10, 11.2, 11.4, 
 11.5, 11.6, 11.7, 11.8, 12.4, 14.1, 14.3, 16.1, 16.2, 17.3, 17.4, 17.5, 18.1, 18.2, 18.3, 20.4, 
@@ -1028,7 +1043,7 @@ español», 20 del «Alumnado con altas capacidades intelectuales», 21.6, 21.7 
 25.1, 25.2 de los «Documentos e informes de evaluación», 30.1, 30.2 de la «Autenticidad, 
 seguridad y confidencialidad», así como de la «Disposición adicional primera. Enseñanzas 
 de religión» y de la «disposición adicional segunda. Enseñanzas del sistema educativo 
-español impartidas en lenguas extranjeras», del Real Decreto 157/2022, de 1 de marzo.
+español impartidas en lenguas extranjeras», del [Real Decreto 157/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD157_2022_establecen_ordenacion_ensenanzas_minimas_educacion_primaria.md), de 1 de marzo.
 
 ### Disposición final tercera. Desarrollo y ejecución.
 

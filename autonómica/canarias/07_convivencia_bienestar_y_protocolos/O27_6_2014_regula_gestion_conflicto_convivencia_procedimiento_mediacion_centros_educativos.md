@@ -29,8 +29,10 @@ relaciones:
   - norma_id: norm-es-1999-23750
     articulos_origen:
     - D. Adicional Primera. Fichero de datos de carácter personal.
+fundamentos_derecho:
+- norma_id: norm-and-l9-2007-administracion-junta-andalucia-laja
+- norma_id: norm-es-1999-23750
 ---
-
 # Orden de 27 de junio de 2014, por la que se regula la gestión del conflicto de convivencia por el procedimiento de mediación para gestionar conflictos surgidos en los centros educativos de Canarias.
 
 ## Preámbulo
@@ -73,7 +75,7 @@ canarias constituidos por el Cuerpo General de Policía Canaria, que la mentada 
 
 los Cuerpos de Policía Local dependientes de los Ayuntamientos canarios.
 
-La citada Ley, en su artículo 6, y remitiéndose a su vez a la Ley 9/2007, de 13 de abril,
+La citada Ley, en su artículo 6, y remitiéndose a su vez a la [Ley 9/2007](../../andalucía/01_marco_normativo_general_y_organico/L9_2007_administracion_junta_andalucia_laja.md), de 13 de abril,
 
 del Sistema Canario de Seguridad y Emergencias y de modificación de la Ley 6/1997, de 4
 
@@ -307,7 +309,7 @@ Mediante Orden de la persona titular del Departamento de la Administración Púb
 
 la Comunidad Autónoma de Canarias competente en materia de seguridad se creará el fiche-
 
-ro correspondiente al tratamiento de datos personales, conforme a la Ley Orgánica 15/1999,
+ro correspondiente al tratamiento de datos personales, conforme a la [Ley Orgánica 15/1999](../../../estatal/02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md),
 
 de 13 de diciembre, de Protección de Datos de Carácter Personal.
 

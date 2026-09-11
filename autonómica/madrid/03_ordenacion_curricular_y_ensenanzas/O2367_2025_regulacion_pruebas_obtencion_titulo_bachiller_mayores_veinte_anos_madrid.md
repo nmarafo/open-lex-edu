@@ -28,8 +28,22 @@ tags:
 relaciones:
   fundamenta:
   - norma_id: norm-mad-r20-1-2026
+fundamentos_derecho:
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-mad-d248-2023
+- norma_id: norm-mad-d-52-2021
+- norma_id: norm-mad-l1-1983-gobierno-administracion-comunidad-madrid
+- norma_id: norm-mad-d64-2022
+- norma_id: norm-mad-o2067-2023
+- norma_id: norm-es-l-39-2015
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-2001-7022
+- norma_id: norm-es-lo-3-2018
+- norma_id: norm-es-2016-3229
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-rd-243-2022
+- norma_id: norm-es-2010-12201
 ---
-
 ## Preámbulo
 
 I. COMUNIDAD DE MADRID
@@ -38,14 +52,14 @@ Consejería de Educación, Ciencia y Universidades
 22 ORDEN 2367/2025, de 2 de julio, de la Consejería de Educación, Ciencia y Univer-
 sidades, por la que se regulan las pruebas para la obtención del título de Bachiller
 destinadas a personas mayores de veinte años en la Comunidad de Madrid.
-El artículo 69.4 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, establece que
+El artículo 69.4 de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, establece que
 corresponde a las administraciones educativas, en el ámbito de sus competencias, organi-
 zar periódicamente pruebas para que las personas mayores de veinte años puedan obtener
 directamente el título de Bachiller. Además, las administraciones educativas velarán por
 que se adopten las medidas necesarias para asegurar la igualdad de oportunidades, no dis-
 criminación y accesibilidad universal de las personas con discapacidad que se presenten a
 dichas pruebas.
-Como desarrollo reglamentario de esta norma se publicó el Real Decreto 243/2022, de 5 de
+Como desarrollo reglamentario de esta norma se publicó el [Real Decreto 243/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD243_2022_establecen_ordenacion_ensenanzas_minimas_bachillerato.md), de 5 de
 abril, por el que se establecen la ordenación y las enseñanzas mínimas del Bachillerato, que
 en el apartado sexto de su disposición adicional tercera establece que “corresponderá a las
 administraciones educativas la organización de pruebas para que las personas mayores de
@@ -55,16 +69,16 @@ contar con las medidas de accesibilidad universal y las adaptaciones que precise
 alumnos con necesidades educativas especiales, se organizarán de manera diferenciada se-
 gún las modalidades del Bachillerato”.
 Para su concreción en el ámbito territorial de la Comunidad de Madrid, se publicó el
-Decreto 64/2022, de 20 de julio, del Consejo de Gobierno, por el que se establecen para la
+[Decreto 64/2022](./D64_2022_ordenacion_curriculo_bachillerato_madrid.md), de 20 de julio, del Consejo de Gobierno, por el que se establecen para la
 Comunidad de Madrid la ordenación y el currículo del Bachillerato, que, en el apartado
 quinto de su disposición adicional tercera, recoge que “el titular de la Consejería competen-
 te en materia de Educación regulará las pruebas a las que se refiere el apartado 6 de la dis-
-posición adicional tercera del Real Decreto 243/2022, de 5 de abril, que periódicamente se
+posición adicional tercera del [Real Decreto 243/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD243_2022_establecen_ordenacion_ensenanzas_minimas_bachillerato.md), de 5 de abril, que periódicamente se
 organizarán para que las personas mayores de veinte años puedan obtener directamente el
 título de Bachiller. Dichas pruebas contarán con las medidas de accesibilidad universal y
 las adaptaciones que precisen todos los alumnos con necesidades educativas especiales y se
 organizarán de manera diferenciada según las modalidades del Bachillerato”. Asimismo, la
-Orden 2067/2023, de 11 de junio, de la Vicepresidencia, Consejería de Educación y Uni-
+[Orden 2067/2023](./O2067_2023_organizacion_funcionamiento_evaluacion_bachillerato_madrid.md), de 11 de junio, de la Vicepresidencia, Consejería de Educación y Uni-
 versidades, por la que se regulan determinados aspectos de organización, funcionamiento y
 evaluación en el Bachillerato, desarrolla la organización y evaluación de esta etapa educa-
 tiva y resultará de aplicación en aquellos aspectos no regulados en la presente orden, espe-
@@ -80,8 +94,8 @@ ción y desarrollo de las pruebas y regular los términos y condiciones en los q
 lizarse las convocatorias de las mismas, así como para adaptar estas a la ordenación y
 currículo establecidos para el Bachillerato.
 Esta orden cumple con los principios de buena regulación que recoge el artículo 129 de
-la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Adminis-
-traciones Públicas, y el artículo 2 del Decreto 52/2021, de 24 de marzo, del Consejo de Go-
+la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Administrativo Común de las Adminis-
+traciones Públicas, y el artículo 2 del [Decreto 52/2021](../01_marco_normativo_general_y_organico/D52_2021_procedimiento_elaboracion_disposiciones_normativas_madrid.md), de 24 de marzo, del Consejo de Go-
 bierno, por el que se regula y simplifica el procedimiento de elaboración de las disposicio-
 nes normativas de carácter general de la Comunidad de Madrid.
 Así, esta disposición normativa se ajusta a las exigencias de los principios de necesi-
@@ -99,7 +113,7 @@ tonómico sólido y coherente en materia de ordenación académica que garantiza
 pio de seguridad jurídica, en tanto que regula las condiciones que deben cumplirse en una
 de las posibles vías de obtención del título de Bachiller.
 En aplicación del principio de transparencia, se han celebrado los trámites de audiencia
-e información pública, de conformidad con los artículos 9 del Decreto 52/2021, de 24 de mar-
+e información pública, de conformidad con los artículos 9 del [Decreto 52/2021](../01_marco_normativo_general_y_organico/D52_2021_procedimiento_elaboracion_disposiciones_normativas_madrid.md), de 24 de mar-
 zo, y 60.2 de la Ley 10/2019, de 10 de abril, de Transparencia y de Participación de la Comu-
 nidad de Madrid, y, una vez aprobada, la norma será objeto de publicación en el Portal de
 Transparencia de la Comunidad de Madrid.
@@ -110,11 +124,11 @@ En la tramitación de la norma se han emitido, entre otros, dictamen por el Cons
 Escolar de la Comunidad de Madrid e informe por la Abogacía General de la Comunidad
 de Madrid.
 El titular de la Consejería de Educación, Ciencia y Universidades es competente para dic-
-tar esta orden, de acuerdo con lo establecido en el artículo 41.d) de la Ley 1/1983, de 13 de di-
+tar esta orden, de acuerdo con lo establecido en el artículo 41.d) de la [Ley 1/1983](../01_marco_normativo_general_y_organico/L1_1983_gobierno_administracion_comunidad_madrid.md), de 13 de di-
 ciembre, de Gobierno y Administración de la Comunidad de Madrid, y en la disposición final
-segunda del Decreto 64/2022, de 20 de julio.
+segunda del [Decreto 64/2022](./D64_2022_ordenacion_curriculo_bachillerato_madrid.md), de 20 de julio.
 En su virtud, a propuesta de la Dirección General de Educación Secundaria, Formación
-Profesional y Régimen Especial, de conformidad con lo dispuesto en el Decreto 248/2023,
+Profesional y Régimen Especial, de conformidad con lo dispuesto en el [Decreto 248/2023](../01_marco_normativo_general_y_organico/D248_2023_estructura_organica_consejeria_educacion_ciencia_universidades_madrid.md),
 de 11 de octubre, del Consejo de Gobierno, por el que se establece la estructura orgánica de
 la Consejería de Educación, Ciencia y Universidades,
 DISPONGO
@@ -140,9 +154,9 @@ cualquiera de los títulos de Técnico o Técnico Superior de Formación Profesi
 o de Artes Plásticas y Diseño o Técnico Deportivo o Técnico Deportivo Superior,
 así como de aquellos títulos declarados equivalentes a efectos académicos.
 
-b) No estar en posesión del título de Bachiller regulado en la Ley Orgánica 2/2006,
+b) No estar en posesión del título de Bachiller regulado en la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md),
 de 3 de mayo, de Educación, ni en posesión del título de Bachiller regulado por la
-Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Edu-
+[Ley Orgánica 1/1990](../../../estatal/02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md), de 3 de octubre, de Ordenación General del Sistema Edu-
 cativo, o haber superado el Curso de Orientación Universitaria (COU) regulado en
 la Ley 14/1970, de 4 de agosto, General de Educación y Financiamiento de la Re-
 forma Educativa.
@@ -182,7 +196,7 @@ validaciones de distintas materias a las que se refiere el artículo 8.
 lidad, y en su caso vía, por la que se concurre a las pruebas, así como las materias de las que
 se desea examinar, incluidas aquellas en las que se solicita convalidación o exención, con
 indicación como destinatario, el centro examinador.
-3. De conformidad con lo dispuesto en el artículo 23.6 del Decreto 64/2022, de 20 de
+3. De conformidad con lo dispuesto en el artículo 23.6 del [Decreto 64/2022](./D64_2022_ordenacion_curriculo_bachillerato_madrid.md), de 20 de
 julio, del Consejo de Gobierno, por el que se establecen para la Comunidad de Madrid la or-
 denación y el currículo del Bachillerato, la inscripción por parte de los aspirantes en alguna
 materia del segundo curso que implique continuidad, exigirá la correcta acreditación de la su-
@@ -197,13 +211,13 @@ tegral de Gestión Educativa de la Comunidad de Madrid (RAÍCES), cuyo acceso se
 
 detallará en la resolución anual de convocatoria, sin perjuicio de los restantes regis-
 tros electrónicos de cualesquiera otros sujetos a los que se refiere el artículo 2.1 de
-la Ley 39/2015, de 1 de octubre, del Procedimiento Administración Común de las
+la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Administración Común de las
 Administraciones Públicas. Igualmente, podrán aportarse documentos durante la
 tramitación del expediente a través de la citada secretaría virtual.
 b) De forma presencial, en la secretaría de alguno de los centros públicos donde, de
 conformidad con la resolución de convocatoria anual, tendrán lugar las pruebas ese
 año, o en cualquiera de los lugares previstos en el artículo 16.4 apartados b), c) y d)
-de la Ley 39/2015, de 1 de octubre. Si la solicitud se presentase en la secretaría de
+de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre. Si la solicitud se presentase en la secretaría de
 alguno de los centros públicos indicados en la convocatoria, esta entregará al solici-
 tante una copia fechada y sellada de la solicitud presentada. Si la solicitud se presen-
 tase en una oficina de Correos, deberá llevarse en un sobre abierto para que la mis-
@@ -218,7 +232,7 @@ Administración actuante o hayan sido elaborados por cualquier otra Administraci
 administración actuante podrá consultar o recabar dichos documentos salvo que el intere-
 sado se opusiera a ello, en cuyo caso el interesado estará obligado con carácter general a
 aportar copia de los documentos correspondientes, de acuerdo con lo establecido en el 28.3 de
-la Ley 39/2015, de 1 de octubre. Excepcionalmente, si las Administraciones Públicas no pu-
+la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre. Excepcionalmente, si las Administraciones Públicas no pu-
 dieran recabar los citados documentos, podrán solicitar al interesado su aportación.
 2. En caso de oponerse a su consulta por parte de la Comunidad de Madrid, el inte-
 resado deberá aportar junto a la solicitud, una copia del Documento Nacional de Identidad
@@ -236,11 +250,11 @@ c) Certificación oficial de las calificaciones obtenidas en las materias supera
 convalidadas o exentas en convocatorias anteriores de las pruebas libres para la
 obtención del título de Bachillerato para mayores de veinte años.
 d) Documentación que acredite alguna de las condiciones para la convalidación de mate-
-rias del Bachillerato, conforme al capítulo V de la Orden 2067/2023, de 11 de junio, de
+rias del Bachillerato, conforme al capítulo V de la [Orden 2067/2023](./O2067_2023_organizacion_funcionamiento_evaluacion_bachillerato_madrid.md), de 11 de junio, de
 la Consejería de Educación, Ciencia y Universidades, por la que se regulan determina-
 dos aspectos de organización, funcionamiento y evaluación en el Bachillerato.
 e) Documentación que acredite alguna de las condiciones para estar exento de la materia
-de Educación Física, conforme al artículo 42 de la Orden 2067/2023, de 11 de junio.
+de Educación Física, conforme al artículo 42 de la [Orden 2067/2023](./O2067_2023_organizacion_funcionamiento_evaluacion_bachillerato_madrid.md), de 11 de junio.
 4. Quienes soliciten la adaptación en las condiciones de realización de las pruebas,
 por presentar algún tipo de discapacidad o necesidad educativa específica, deberán acredi-
 tar los motivos que les impiden realizarlas con los medios ordinarios, mediante alguno de
@@ -308,19 +322,19 @@ los diez días hábiles siguientes, el director del centro resolverá la admisi�
 tivada definitiva y lo notificará al interesado.
 9. Contra la resolución de exclusión definitiva de participación en las pruebas las per-
 sonas interesadas podrán interponer recurso de alzada en los términos previstos en los artícu-
-los 112, 115, 121 y 122 de la Ley 39/2015, de 1 de octubre, ante el titular de la dirección del
+los 112, 115, 121 y 122 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, ante el titular de la dirección del
 área territorial a la que esté adscrito el centro receptor de las solicitudes, en cualquiera de los
 
-lugares a los que se refiere el artículo 16.4 de la Ley 39/2015, de 1 de octubre. La resolución
+lugares a los que se refiere el artículo 16.4 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre. La resolución
 del recurso de alzada, que será motivada, pondrá fin a la vía administrativa.
 #### Artículo 8
 Reconocimiento convalidaciones y exenciones
 1. El reconocimiento de la convalidación de materias, su consignación en los docu-
 mentos de evaluación del alumno y sus efectos atenderán a lo dispuesto en el artículo 41 de
-la Orden 2067/2023, de 11 de junio.
+la [Orden 2067/2023](./O2067_2023_organizacion_funcionamiento_evaluacion_bachillerato_madrid.md), de 11 de junio.
 2. El reconocimiento de la exención de materias, su consignación en los documen-
 tos de evaluación del alumno y sus efectos atenderán a lo dispuesto en el artículo 42 de la
-Orden 2067/2023, de 11 de junio.
+[Orden 2067/2023](./O2067_2023_organizacion_funcionamiento_evaluacion_bachillerato_madrid.md), de 11 de junio.
 3. La solicitud de convalidación o exención requerirá la inscripción del aspirante en
 la correspondiente materia. Los aspirantes deberán aportar, junto a la solicitud debidamen-
 te cumplimentada, la documentación académica oportuna que acredite que reúnen los re-
@@ -334,9 +348,9 @@ dentro de los quince días siguientes al último día habilitado para la inscrip
 conforme al calendario establecido en la resolución anual de convocatoria de las mismas.
 6. Contra la resolución denegatoria de la convalidación o exención, las personas intere-
 sadas podrán interponer recurso de alzada, en el plazo de un mes en los términos previstos en
-los artículos 112, 115, 121 y 122 de la Ley 39/2015, de 1 de octubre, ante el titular de la direc-
+los artículos 112, 115, 121 y 122 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, ante el titular de la direc-
 ción del área territorial a la que esté adscrito el centro receptor de las solicitudes, en cualquie-
-ra de los lugares a los que se refiere el artículo 16.4 de la Ley 39/2015, de 1 de octubre. La reso-
+ra de los lugares a los que se refiere el artículo 16.4 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre. La reso-
 lución del recurso de alzada, que será motivada, pondrá fin a la vía administrativa.
 #### Artículo 9
 Reconocimiento de materias superadas con anterioridad
@@ -352,7 +366,7 @@ en las pruebas conforme al calendario establecido en la resolución anual de con
 las mismas.
 #### Artículo 10
 Adaptaciones en las condiciones de realización de las pruebas
-1. De conformidad con lo dispuesto en el artículo 74.5 de la Ley Orgánica 2/2006,
+1. De conformidad con lo dispuesto en el artículo 74.5 de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md),
 de 3 de mayo, se adoptarán las medidas oportunas para adaptar las condiciones de realiza-
 ción de las pruebas para quienes acrediten debidamente alguna discapacidad o necesidad
 específica de apoyo educativo que les impida realizarlas de modo ordinario.
@@ -380,9 +394,9 @@ teriormente, con al menos quince días hábiles de antelación a la fecha de cel
 pruebas. En caso de silencio administrativo este se considerará desestimatorio.
 6. Las resoluciones desestimatorias adoptadas por el director del centro examinador
 podrán ser recurridas en alzada, en el plazo de un mes a partir de su notificación, en los tér-
-minos previstos en los artículos 112, 115, 121 y 122 de la Ley 39/2015, de 1 de octubre,
+minos previstos en los artículos 112, 115, 121 y 122 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre,
 ante la dirección de área territorial correspondiente, en cualquiera de los lugares a los que
-se refiere el artículo 16.4 de la Ley 39/2015, de 1 de octubre, que emitirá resolución moti-
+se refiere el artículo 16.4 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, que emitirá resolución moti-
 vada y pondrá fin a la vía administrativa. En caso de silencio administrativo, este tendrá
 efecto desestimatorio.
 7. En el supuesto de tener que resolver una solicitud no contemplada en el apartado
@@ -395,9 +409,9 @@ siderará desestimatorio.
 8. La resoluciones desestimatorias adoptadas por el titular de la dirección general
 competente en materia de ordenación académica del Bachillerato podrán ser recurridas en
 alzada, en el plazo de un mes a partir de su notificación en los términos previstos en los ar-
-tículos 112, 115, 121 y 122 de la Ley 39/2015, de 1 de octubre, ante el titular de la vicecon-
+tículos 112, 115, 121 y 122 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, ante el titular de la vicecon-
 sejería de la que forme parte dicha dirección general, en cualquiera de los lugares a los que
-se refiere el artículo 16.4 de la Ley 39/2015, de 1 de octubre. La resolución del recurso de
+se refiere el artículo 16.4 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre. La resolución del recurso de
 alzada, que será motivada, pondrá fin a la vía administrativa. En caso de silencio adminis-
 trativo este se considerará desestimatorio.
 ### Capítulo IV
@@ -411,7 +425,7 @@ to el alumno.
 que se hayan inscrito podrán ser las mismas que las programadas por los departamentos de
 coordinación didáctica para la evaluación final de los alumnos que hayan cursado la mate-
 ria en el centro examinador y se elaborarán conforme al currículo de Bachillerato estable-
-cido en el Decreto 64/2022, de 20 de julio. En caso contrario, los departamentos didácticos
+cido en el [Decreto 64/2022](./D64_2022_ordenacion_curriculo_bachillerato_madrid.md), de 20 de julio. En caso contrario, los departamentos didácticos
 diseñarán las pruebas de evaluación para estos alumnos atendiendo a los criterios y estruc-
 tura recogidos en las programaciones didácticas para la elaboración de las pruebas de la
 evaluación extraordinaria de la materia correspondiente.
@@ -480,7 +494,7 @@ se ajustará al modelo que determine la dirección general con competencias en l
 académica del Bachillerato. Las actas deberán ir firmadas por todos los jefes de los depar-
 tamentos de coordinación didáctica implicados y por el director del centro.
 4. La consignación de las calificaciones de las materias objeto de las pruebas será la
-establecida en el artículo 27.2 del Decreto 64/2022, de 20 de junio, expresándose median-
+establecida en el artículo 27.2 del [Decreto 64/2022](./D64_2022_ordenacion_curriculo_bachillerato_madrid.md), de 20 de junio, expresándose median-
 te un número de cero a diez sin decimales, considerándose negativas las calificaciones in-
 feriores a cinco.
 5. En el caso de que un alumno no se presente a la prueba de alguna materia, sin que
@@ -493,7 +507,7 @@ municará a los alumnos las calificaciones obtenidas y, en su caso, la propuesta
 Bachiller.
 8. La revisión y reclamación a los resultados de la evaluación final obtenida se rea-
 lizará por los alumnos conforme a lo dispuesto en los artículos 38 y 39, respectivamente, de
-la Orden 2067/2023, de 11 de junio.
+la [Orden 2067/2023](./O2067_2023_organizacion_funcionamiento_evaluacion_bachillerato_madrid.md), de 11 de junio.
 9. La secretaría del centro trasladará los resultados de la evaluación obtenidos a los
 expedientes e historiales académicos de los alumnos. Estos resultados tendrán validez en
 posteriores convocatorias de estas pruebas, así como si el alumno decide matricularse en la
@@ -523,7 +537,7 @@ los alumnos que, concluidas las pruebas para la obtención de dicho título, hay
 una evaluación positiva en todas las materias de los dos cursos del Bachillerato, siempre
 que configuren un itinerario válido.
 2. La nota media de la etapa educativa del Bachillerato se obtendrá, con carácter ge-
-neral, según lo establecido en el artículo 24.7 del Decreto 64/2022, de 20 de julio, como la
+neral, según lo establecido en el artículo 24.7 del [Decreto 64/2022](./D64_2022_ordenacion_curriculo_bachillerato_madrid.md), de 20 de julio, como la
 media aritmética con precisión de dos cifras decimales de las materias que conforman un
 itinerario de la modalidad, y en su caso vía, válido. En dicho cálculo se tendrá en cuenta lo
 siguiente:
@@ -539,7 +553,7 @@ nota media que figure en la credencial de convalidación y homologación de estu
 y títulos extranjeros del primer curso y la media aritmética de las calificaciones co-
 rrespondientes a cada una de las materias cursadas del segundo curso.
 d) Para los alumnos que acrediten, como consecuencia de haber cursado enseñanzas
-anteriores a la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del
+anteriores a la [Ley Orgánica 1/1990](../../../estatal/02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md), de 3 de octubre, de Ordenación General del
 Sistema Educativo, la equivalencia de sus estudios con el primer curso del Bachi-
 llerato, la media se obtendrá exclusivamente con las materias superadas del segun-
 do curso de Bachillerato.
@@ -601,7 +615,7 @@ dalidad de Bachillerato elegida, sin perjuicio de otras posibles convalidaciones
 Obtención del título de Bachiller en una nueva modalidad
 Quienes se encuentren en posesión de un título de Bachiller obtenido en el marco de las
 modificaciones introducidas por la Ley Orgánica 3/2020, de 29 de diciembre, por la que se
-modifica la Ley Orgánica 2/2006, de 3 de mayo, de Educación, en una determinada modali-
+modifica la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, en una determinada modali-
 dad, podrán obtenerlo por cualquiera de las otras modalidades mediante la superación de las
 materias de modalidad de primer y segundo curso requeridas para conformar un itinerario vá-
 lido en la modalidad elegida y que no hubieran superado anteriormente. Para ello podrán ser
@@ -609,11 +623,11 @@ admitidos en las pruebas para la obtención del título de Bachiller destinadas 
 yores de veinte años si reúnen los requisitos establecidos en el artículo 3.1.a) y c).
 #### DISPOSICIÓN ADICIONAL QUINTA
 Obtención del título de Bachiller por personas que cursaron el segundo curso
-del Bachillerato en el marco de la Ley Orgánica 8/2013, de 9 de diciembre,
+del Bachillerato en el marco de la [Ley Orgánica 8/2013](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md), de 9 de diciembre,
 para la Mejora de la Calidad Educativa, en cualquiera de sus modalidades
 en el año escolar 2023-2024 o anteriores
 Aquellos aspirantes que acrediten haber cursado el segundo curso del Bachillerato
-conforme a la Ley Orgánica 8/2013, de 9 de diciembre, completo el año escolar 2023-2024
+conforme a la [Ley Orgánica 8/2013](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md), de 9 de diciembre, completo el año escolar 2023-2024
 o anteriores, sin haber obtenido el título de Bachiller, y siempre que no soliciten examinar-
 se de una modalidad diferente a la cursada, podrán solicitar presentarse en las pruebas a las
 materias que tengan pendientes de superar del primer y segundo curso del Bachiller, pu-
@@ -629,7 +643,7 @@ quienes soliciten su participación en las pruebas, se estará a lo dispuesto en
 (UE) 2016/679 del Parlamento Europeo y el Consejo de 27 de abril de 2016, relativo a la
 protección de las personas físicas en lo que respecta al tratamiento de datos personales y a
 la libre circulación de estos datos y por el que se deroga la Directiva 95/46/UE, y en lo es-
-tablecido en la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Persona-
+tablecido en la [Ley Orgánica 3/2018](../../../estatal/02_gestion_y_administracion_centros/LO3_2018_proteccion_datos_personales_garantia_derechos_digitales.md), de 5 de diciembre, de Protección de Datos Persona-
 les y garantía de los derechos digitales, así como en la normativa de desarrollo, cuyo deta-
 lle podrá consultarse en el Registro de Actividades de Tratamiento de la consejería
 competente en materia de Educación de la Comunidad de Madrid.
@@ -638,7 +652,7 @@ competente en materia de Educación de la Comunidad de Madrid.
 Régimen de supletoriedad
 En aquellos aspectos no contemplados en esta orden y que resulten de aplicación en el
 marco de las pruebas para la obtención del título de Bachiller destinadas a personas mayo-
-res de veinte años, se atenderá lo dispuesto en la Orden 2067/2023, de 11 de junio.
+res de veinte años, se atenderá lo dispuesto en la [Orden 2067/2023](./O2067_2023_organizacion_funcionamiento_evaluacion_bachillerato_madrid.md), de 11 de junio.
 #### DISPOSICIÓN DEROGATORIA ÚNICA
 Derogación normativa
 Queda derogada la Orden 2435/2017, de 3 de julio, por la que se regulan las pruebas
@@ -666,7 +680,7 @@ hubieran sido superadas por los aspirantes y tengan idéntica denominación LOML
 Asimismo, se tendrán en cuenta las siguientes correspondencias:
 Conforme a lo dispuesto en el Real Decreto 205/2023, de 28 de marzo, por el que se establecen medidas
 relativas a la transición entre planes de estudios, como consecuencia de la aplicación de la Ley Orgánica
-3/2020, de 29 de diciembre, por la que se modifica la Ley Orgánica 2/2006, de 3 de mayo, de Educación:
+3/2020, de 29 de diciembre, por la que se modifica la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación:
 Bachillerato (todas las modalidades)
 Materia superada del bloque de asignaturas
 troncales LOMCE Correspondencia con materia común LOMLOE
@@ -787,18 +801,18 @@ modalidad LOMLOE
 Economía de la Empresa Empresa y Diseño de Modelos de Negocio
 Conforme a lo dispuesto en la Orden ECD/462/2016, de 31 de marzo, por la que se regula el procedimiento
 de incorporación del alumnado a un curso de Educación Secundaria Obligatoria o de Bachillerato definido
-en la Ley Orgánica 8/2013, de 9 de diciembre, para la mejora de la calidad educativa, con materias no
+en la [Ley Orgánica 8/2013](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md), de 9 de diciembre, para la mejora de la calidad educativa, con materias no
 superadas del currículo anterior a su implantación, o bien con la disposición transitoria única de la Orden
 2582/2016, de 17 de agosto, de la Consejería de Educación, Juventud y Deporte de la Comunidad de
 Madrid, por la que se regulan determinados aspectos de organización, funcionamiento y evaluación en el
 Bachillerato:
 Materias anteriores a la implantación de las
-modificaciones introducidas en la Ley Orgánica 2/2006, de
-3 de mayo, de Educación, por la Ley Orgánica 8/2013, de
+modificaciones introducidas en la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de
+3 de mayo, de Educación, por la [Ley Orgánica 8/2013](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md), de
 9 de diciembre, para la mejora de la calidad educativa,
 según su disposición final quinta
 Materias posteriores a la implantación de las
-modificaciones introducidas en la Ley Orgánica 2/2006,
+modificaciones introducidas en la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md),
 de 3 de mayo, de Educación, por la Ley Orgánica
 8/2013, de 9 de diciembre, para la mejora de la calidad
 educativa, según su disposición final quinta
@@ -812,8 +826,8 @@ Ciencias de la tierra y medioambientales Ciencias de la Tierra y del Medio Ambie
 Ciencias para el mundo contemporáneo Cultura Científica
 Tecnologías de la Información y la Comunicación Tecnologías de la Información y la Comunicación I
 Conforme a lo dispuesto en la Orden EDU/2395/2009, de 9 de septiembre, por la que se regula la promoción
-de un curso incompleto del sistema educativo definido por la Ley Orgánica 1/1990, de 3 de octubre, de
-Ordenación General del Sistema Educativo, a otro de la Ley Orgánica 2/2006, de 3 de mayo, de Educación:
+de un curso incompleto del sistema educativo definido por la [Ley Orgánica 1/1990](../../../estatal/02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md), de 3 de octubre, de
+Ordenación General del Sistema Educativo, a otro de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación:
 Materia del Bachillerato LOGSE Materia del Bachillerato LOE
 Economía y organización de empresas Economía de la empresa
 Filosofía I Filosofía y ciudadanía

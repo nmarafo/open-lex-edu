@@ -26,8 +26,10 @@ tags:
 - servicios_escolares
 - centros_publicos
 - madrid
+fundamentos_derecho:
+- norma_id: norm-mad-l1-1983-gobierno-administracion-comunidad-madrid
+- norma_id: norm-es-l-39-2015
 ---
-
 # Orden 3136/2020, de 1 de diciembre, de la Consejería de Educación y Juventud, por la que se regula la gestión económica del servicio de comedor escolar en Colegios Públicos de Educación Infantil y Primaria en caso de confinamiento de alumnos por causa del COVID-19 durante el curso 2020-2021
 
 ## Preámbulo
@@ -98,7 +100,7 @@ ción excepcional descrita. Esta norma debe tener rango de orden de la consejer�
 dose en el ordenamiento jurídico con el mismo rango que la norma a la que viene a comple-
 mentar, y dictándose en virtud de las competencias previstas en la normativa aplicable.
 La presente norma se adecua a los principios de buena regulación, de acuerdo con lo
-previsto en el artículo 129 de la Ley 39/2015, de 1 de octubre, del Procedimiento Adminis-
+previsto en el artículo 129 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Adminis-
 trativo Común de las Administraciones Públicas, respondiendo a los principios de necesidad
 y eficacia, proporcionalidad, seguridad jurídica, transparencia y eficiencia. Así, es necesaria
 para poder establecer que sea la consejería competente en materia de educación quien asu-
@@ -120,7 +122,7 @@ materia de orientación sexual, identidad o expresión de género y en materia d
 fancia y adolescencia, así como el informe de la Dirección General de Presupuestos y el de
 la Abogacía General de la Comunidad de Madrid, además de haberse sometido al trámite
 de audiencia e información pública, ya mencionado.
-En su virtud, de conformidad con lo dispuesto en el artículo 41.d), de la Ley 1/1983,
+En su virtud, de conformidad con lo dispuesto en el artículo 41.d), de la [Ley 1/1983](../01_marco_normativo_general_y_organico/L1_1983_gobierno_administracion_comunidad_madrid.md),
 de 13 de diciembre, de Gobierno y Administración de la Comunidad de Madrid, y con lo
 establecido en el Decreto 288/2019, de 12 de noviembre, del Consejo de Gobierno, por el
 que se establece la estructura orgánica de la Consejería de Educación y Juventud,

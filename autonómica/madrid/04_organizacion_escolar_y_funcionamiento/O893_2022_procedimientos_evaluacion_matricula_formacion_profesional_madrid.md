@@ -44,8 +44,25 @@ relaciones:
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-l-40-2015
   - norma_id: norm-mad-d-29-2013
+fundamentos_derecho:
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-can-res-134
+- norma_id: norm-mad-d-52-2021
+- norma_id: norm-mad-l12-1999-creacion-consejo-escolar-comunidad-madrid
+- norma_id: norm-mad-l1-1983-gobierno-administracion-comunidad-madrid
+- norma_id: norm-mad-d-63-2019
+- norma_id: norm-mad-d32-2019
+- norma_id: norm-es-l-39-2015
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-2001-7022
+- norma_id: norm-es-lo-3-2018
+- norma_id: norm-es-lo-3-2022
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2021-979
+- norma_id: norm-es-2020-17274
+- norma_id: norm-es-2021-18812
+- norma_id: norm-es-2010-12201
 ---
-
 # Orden 893/2022, de 21 de abril, de la Consejería de Educación, Universidades, Ciencia y Portavocía, por la que se regulan los procedimientos de evaluación, matrícula y acreditación académica en las enseñanzas de Formación Profesional en la Comunidad de Madrid
 
 ## Preámbulo
@@ -290,20 +307,20 @@ académica de formación profesional.
 
 #### Disposición adicional cuarta. Procedimiento de extinción de ciclos formativos regu-
 
-lados al amparo de la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sis-
+lados al amparo de la [Ley Orgánica 1/1990](../../../estatal/02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md), de 3 de octubre, de Ordenación General del Sis-
 tema Educativo.
 
 #### Disposición transitoria primera. Modelos de impresos de solicitud y resolución.
 
 #### Disposición transitoria segunda. Aplicación de los procedimientos de evaluación en
 
-los ciclos formativos regulados al amparo de la Ley Orgánica 1/1990, de 3 de octubre.
+los ciclos formativos regulados al amparo de la [Ley Orgánica 1/1990](../../../estatal/02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md), de 3 de octubre.
 
 #### Disposición derogatoria única. #### Disposición final primera.—Habilitación.
 
 #### Disposición final segunda. Entrada en vigor.
 
-La Ley Orgánica 2/2006, de 3 de mayo, de Educación, dedica el capítulo V de su títu-
+La [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, dedica el capítulo V de su títu-
 lo I a las enseñanzas de formación profesional del sistema educativo. En su artículo 39 re-
 coge los principios generales y establece que la formación profesional en el sistema educa-
 tivo comprende los ciclos formativos de grado básico, de grado medio y de grado superior,
@@ -312,7 +329,7 @@ duración variable, que integre los contenidos teórico-prácticos adecuados a l
 campos profesionales y el Gobierno podrá aprobar la inclusión en la formación profesional
 del sistema educativo de otros programas formativos. Asimismo, en su artículo 42 estable-
 ce que corresponde a las Administraciones educativas, en el ámbito de sus competencias,
-programar la oferta de las enseñanzas de formación profesional. La Ley Orgánica 3/2022,
+programar la oferta de las enseñanzas de formación profesional. La [Ley Orgánica 3/2022](../../canarias/08_personal_docente/R30_6_2023_ordenacion_gestion_determinadas_listas_empleo_tras.md),
 de 31 de marzo, de ordenación e integración de la Formación Profesional tiene por objeto
 la constitución y ordenación de un sistema único e integrado de formación profesional.
 Actualmente, el desarrollo reglamentario básico de aplicación se encuentra, por un
@@ -324,16 +341,16 @@ Decreto 127/2014, de 28 de febrero, por el que se regulan aspectos específicos 
 ción Profesional Básica de las enseñanzas de formación profesional del sistema educativo,
 se aprueban catorce títulos profesionales básicos, se fijan sus currículos básicos y se modi-
 fica el Real Decreto 1850/2009, de 4 de diciembre, sobre expedición de títulos académicos
-y profesionales correspondientes a las enseñanzas establecidas en la Ley Orgánica 2/2006,
+y profesionales correspondientes a las enseñanzas establecidas en la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md),
 de 3 de mayo de Educación, que recoge la ordenación de estas enseñanzas, no contemplada
 en el Real Decreto 1147/2011, de 29 de julio.
-Asimismo, el Gobierno ha promulgado el Real Decreto 1085/2020, de 9 de diciembre,
+Asimismo, el Gobierno ha promulgado el [Real Decreto 1085/2020](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1085_2020_correccion_errores_real_decreto_establecen_convalidaciones.md), de 9 de diciembre,
 por el que se establecen convalidaciones de módulos profesionales de los títulos de Forma-
 ción Profesional del sistema educativo español y las medidas para su aplicación, y se modi-
 fica el Real Decreto 1147/2011, de 29 de julio, por el que se establece la ordenación general
 de la formación profesional del sistema educativo, que exige un desarrollo reglamentario de
 los procedimientos de convalidación para su aplicación efectiva en la Comunidad de Madrid.
-En el ámbito de la Comunidad de Madrid se promulgó el Decreto 63/2019, de 16 de
+En el ámbito de la Comunidad de Madrid se promulgó el [Decreto 63/2019](../03_ordenacion_curricular_y_ensenanzas/D63_2019_ordenacion_organizacion_formacion_profesional_madrid.md), de 16 de
 julio, del Consejo de Gobierno, por el que se regula la ordenación y organización de la for-
 mación profesional en la Comunidad de Madrid, que ha establecido los principios rectores
 en la organización y ordenación de la oferta de enseñanzas de formación profesional en
@@ -351,7 +368,7 @@ Actualmente, existe un cuerpo normativo disperso constituido, ente otras, por la
 den 2694/2009, de 9 de junio, por la que se regula el acceso, la matriculación, el proceso de
 evaluación y la acreditación académica de los alumnos que cursen en la Comunidad de
 Madrid la modalidad presencial de la formación profesional del sistema educativo estable-
-cida en la Ley Orgánica 2/2006, de 3 de mayo, de Educación, la Orden 1406/2015, de 18
+cida en la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, la Orden 1406/2015, de 18
 de mayo, de la Consejería de Educación, Juventud y Deporte, por la que se regulan en la
 Comunidad de Madrid las enseñanzas de formación profesional en régimen a distancia, la
 Orden 1409/2015, de 18 de mayo, de la Consejería de Educación, Juventud y Deporte, por
@@ -409,8 +426,8 @@ nales, establece el procedimiento, plazo y condiciones en que pueden solicitarse
 solverse las convalidaciones y, en su caso, las exenciones, reconocidas en la normativa de
 aplicación.
 La presente Orden cumple con los principios de buena regulación que recoge el artícu-
-lo 129 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las
-Administraciones Públicas, y en el artículo 2 del Decreto 52/2021, de 24 de marzo, del Con-
+lo 129 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Administrativo Común de las
+Administraciones Públicas, y en el artículo 2 del [Decreto 52/2021](../01_marco_normativo_general_y_organico/D52_2021_procedimiento_elaboracion_disposiciones_normativas_madrid.md), de 24 de marzo, del Con-
 sejo de Gobierno, por el que se regula y simplifica el procedimiento de elaboración de las
 disposiciones normativas de carácter general en la Comunidad de Madrid. Así, se ajusta a
 las exigencias de los principios de necesidad y eficacia, puesto que regula los procedimien-
@@ -420,11 +437,11 @@ cidades que corresponden a cada régimen o modalidad en los que se impartan. Es 
 la promulgación de esta Orden la forma más adecuada de atender a las razones de interés
 general que suponen la adaptación de los procedimientos a los cambios normativos que se
 han ido aprobando, y la extensión de su aplicación a toda la oferta de formación profesio-
-nal recogida en el Decreto 63/2019, de 16 de julio. Asimismo, se dicta conforme al princi-
+nal recogida en el [Decreto 63/2019](../03_ordenacion_curricular_y_ensenanzas/D63_2019_ordenacion_organizacion_formacion_profesional_madrid.md), de 16 de julio. Asimismo, se dicta conforme al princi-
 pio de proporcionalidad, puesto que recoge todos los aspectos imprescindibles para el ade-
 cuado desarrollo de las enseñanzas de formación profesional que componen la oferta
 formativa, y no se extralimita en sus disposiciones respecto a lo establecido en la normati-
-va básica de aplicación y en el Decreto 63/2019, de 16 de julio. El cumplimiento de estos
+va básica de aplicación y en el [Decreto 63/2019](../03_ordenacion_curricular_y_ensenanzas/D63_2019_ordenacion_organizacion_formacion_profesional_madrid.md), de 16 de julio. El cumplimiento de estos
 principios contribuye a lograr un ordenamiento autonómico sólido y coherente en materia
 de ordenación académica, que garantiza el principio de seguridad jurídica. Asimismo, se
 cumple con el principio de eficiencia evitando cargas administrativas innecesarias o acce-
@@ -436,18 +453,18 @@ en el portal de transparencia de la Comunidad de Madrid y en el BOLETÍN OFICIAL
 COMUNIDAD DE MADRID.
 Por lo que respecta a la tramitación, en la elaboración de la presente disposición nor-
 mativa ha emitido dictamen el Consejo Escolar de la Comunidad de Madrid, de acuerdo con
-lo establecido en el artículo 2.1 de la Ley 12/1999, de 29 de abril, de creación del Consejo
+lo establecido en el artículo 2.1 de la [Ley 12/1999](../01_marco_normativo_general_y_organico/L12_1999_creacion_consejo_escolar_comunidad_madrid.md), de 29 de abril, de creación del Consejo
 Escolar de la Comunidad de Madrid, y se han recabado los informes en materia de impac-
 to por razón de género, por razón de orientación sexual e identidad y expresión de género,
 y de impacto en materia de familia, infancia y adolescencia, así como el de la Abogacía Ge-
 neral, de conformidad con lo dispuesto en el artículo 4.1.a) de la Ley 3/1999, de 30 de mar-
 zo, de Ordenación de los Servicios Jurídicos de la Comunidad de Madrid.
 Por todo ello, en el ejercicio de las competencias que le atribuye el artículo 41.d), de
-la Ley 1/1983, de 13 de diciembre, de Gobierno y Administración de la Comunidad de
+la [Ley 1/1983](../01_marco_normativo_general_y_organico/L1_1983_gobierno_administracion_comunidad_madrid.md), de 13 de diciembre, de Gobierno y Administración de la Comunidad de
 Madrid, y de conformidad con lo establecido en el Decreto 236/2021, de 17 de noviembre,
 del Consejo de Gobierno, por el que se establece la estructura orgánica de la Consejería de
 Educación, Universidades, Ciencia y Portavocía, así como en la disposición final primera
-del Decreto 63/2019, de 16 de julio,
+del [Decreto 63/2019](../03_ordenacion_curricular_y_ensenanzas/D63_2019_ordenacion_organizacion_formacion_profesional_madrid.md), de 16 de julio,
 DISPONGO:
 
 #### Artículo . #### Artículo . #### Capítulo I
@@ -468,7 +485,7 @@ BOCM
 2.
 Esta Orden será de aplicación en los centros docentes públicos y privados de la
 Comunidad de Madrid que, debidamente autorizados, impartan alguna de las enseñanzas de
-formación profesional a las que se refiere el capítulo III del Decreto 63/2019, de 16 de ju-
+formación profesional a las que se refiere el capítulo III del [Decreto 63/2019](../03_ordenacion_curricular_y_ensenanzas/D63_2019_ordenacion_organizacion_formacion_profesional_madrid.md), de 16 de ju-
 lio, del Consejo de Gobierno, por el que se regula la ordenación y la organización de la for-
 mación profesional en la Comunidad de Madrid.
 
@@ -489,7 +506,7 @@ La formación profesional en el sistema educativo comprende también los ciclos
 de formación profesional básica.
 3.
 Asimismo, dentro de la oferta de las enseñanzas de la Comunidad de Madrid, de
-conformidad con lo establecido en el artículo 26 del Decreto 63/2019, de 16 de julio, se in-
+conformidad con lo establecido en el artículo 26 del [Decreto 63/2019](../03_ordenacion_curricular_y_ensenanzas/D63_2019_ordenacion_organizacion_formacion_profesional_madrid.md), de 16 de julio, se in-
 corporan los cursos de formación modular y otros programas formativos, así como los pro-
 gramas de especialización a los que se refiere el artículo 24 del citado decreto.
 SECCIÓN 2.a
@@ -533,7 +550,7 @@ En los ciclos formativos que se oferten en modalidad de formación profesional
 dual, el módulo profesional de FCT se impartirá de forma integrada junto con los módulos
 de formación dual en el período de formación en la empresa. Las actividades correspondien-
 tes al módulo profesional de FCT estarán definidas en el programa formativo correspondien-
-te de conformidad con lo dispuesto en el artículo 15 del Decreto 63/2019, de 16 de julio.
+te de conformidad con lo dispuesto en el artículo 15 del [Decreto 63/2019](../03_ordenacion_curricular_y_ensenanzas/D63_2019_ordenacion_organizacion_formacion_profesional_madrid.md), de 16 de julio.
 5.
 Los cursos de especialización y los cursos de formación modular podrán incorpo-
 rar un módulo profesional de FCT cuyo currículo quedará definido en la norma por la que
@@ -857,7 +874,7 @@ las actividades formativas que permita valorar, con los alumnos que realizan el
 módulo profesional de FCT, el desarrollo de las mismas.
 f)
 Evaluar y calificar el módulo profesional o unidad formativa de FCT de acuerdo
-con los referentes establecidos en el artículo 39 del Decreto 63/2019, de 16 de ju-
+con los referentes establecidos en el artículo 39 del [Decreto 63/2019](../03_ordenacion_curricular_y_ensenanzas/D63_2019_ordenacion_organizacion_formacion_profesional_madrid.md), de 16 de ju-
 lio, y lo dispuesto en esta Orden.
 g)
 Elaborar una memoria anual sobre el módulo profesional o unidad formativa de
@@ -1017,7 +1034,7 @@ asistencia obligatoria y se desarrollarán conforme a lo dispuesto en la secció
 
 ### Capítulo I. 5.
 
-De conformidad con el artículo 16 del Decreto 63/2019, de 16 de julio, dentro del
+De conformidad con el artículo 16 del [Decreto 63/2019](../03_ordenacion_curricular_y_ensenanzas/D63_2019_ordenacion_organizacion_formacion_profesional_madrid.md), de 16 de julio, dentro del
 régimen a distancia se encuentra la modalidad semipresencial, que incluirá actividades for-
 mativas prácticas presenciales de asistencia obligatoria para el alumnado.
 6.
@@ -1137,7 +1154,7 @@ tutoriales, de evaluación y, en el caso de impartirse en modalidad semipresenci
 de las actividades prácticas de asistencia obligatoria.
 b)
 Las programaciones didácticas de cada módulo profesional, que se elaborarán de con-
-formidad con lo establecido en el artículo 32.4 del Decreto 63/2019, de 16 de julio.
+formidad con lo establecido en el artículo 32.4 del [Decreto 63/2019](../03_ordenacion_curricular_y_ensenanzas/D63_2019_ordenacion_organizacion_formacion_profesional_madrid.md), de 16 de julio.
 
 BOCM
 c)
@@ -1447,7 +1464,7 @@ mer mes contado desde el comienzo de las actividades lectivas de cada una de las
 #### Artículo 23. Convocatorias
 
 1.
-En virtud de lo establecido en el artículo 40 del Decreto 63/2019, de 16 de julio,
+En virtud de lo establecido en el artículo 40 del [Decreto 63/2019](../03_ordenacion_curricular_y_ensenanzas/D63_2019_ordenacion_organizacion_formacion_profesional_madrid.md), de 16 de julio,
 y en la normativa básica de aplicación, cada módulo profesional que se curse en el marco
 de la oferta correspondiente a los ciclos formativos de grado medio y grado superior podrá
 ser objeto de evaluación en un máximo de cuatro convocatorias durante todo el tiempo que
@@ -1486,7 +1503,7 @@ obtención de los títulos de Técnico y Técnico Superior de formación profesi
 #### Artículo 24. Convocatorias extraordinarias
 
 1.
-De conformidad con el artículo 40.3 del Decreto 63/2019, de 16 de julio, en el caso
+De conformidad con el artículo 40.3 del [Decreto 63/2019](../03_ordenacion_curricular_y_ensenanzas/D63_2019_ordenacion_organizacion_formacion_profesional_madrid.md), de 16 de julio, en el caso
 de que el alumno hubiera agotado el número de convocatorias en uno o varios módulos pro-
 fesionales establecidas en el plan de estudios de un ciclo formativo para la Comunidad de
 Madrid, por motivos de enfermedad, discapacidad u otras causas debidamente acreditadas
@@ -1535,7 +1552,7 @@ copia de la resolución adoptada se adjuntará al expediente académico del alum
 Contra la resolución adoptada, que no agota la vía administrativa, el alumno o su
 representante legal podrá interponer, en el plazo de un mes a partir de su notificación, re-
 curso de alzada ante el órgano jerárquico superior en los términos previstos en los artícu-
-los 115, 121 y 122 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo
+los 115, 121 y 122 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Administrativo
 común de las Administraciones Públicas.
 
 #### Artículo 25. Procedimiento de renuncia a las convocatorias
@@ -1624,7 +1641,7 @@ En caso de silencio administrativo, este tendrá carácter desestimatorio. Contr
 resoluciones adoptadas por el director del centro, el alumno o su representante legal podrá
 interponer, en el plazo de un mes a partir de su notificación, recurso de alzada ante la Direc-
 ción de Área Territorial correspondiente, en los términos previstos en los artículos 115, 121
-y 122 de la Ley 39/2015, de 1 de octubre, que agotará la vía administrativa.
+y 122 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, que agotará la vía administrativa.
 SECCIÓN 2.a
 Disposiciones específicas en las enseñanzas de Formación Profesional ofertadas
 en régimen presencial
@@ -1743,7 +1760,7 @@ del centro dictará resolución de anulación de matrícula, que deberá ser not
 no o a su representante legal en caso de ser menor de edad. Contra esta resolución el alum-
 no o su representante legal podrán interponer recurso de alzada ante la Dirección de Área
 Territorial correspondiente, en el plazo de un mes desde su notificación, en los términos
-previstos en los artículos 115, 121 y 122 de la Ley 39/2015, de 1 de octubre.
+previstos en los artículos 115, 121 y 122 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre.
 Tras la resolución que acuerde la anulación de la matrícula, el centro cursará la baja de
 oficio del alumno. Si en el proceso de admisión realizado para estas enseñanzas se hubiera
 conformado lista de espera por haber superado la demanda a la oferta de plazas, se proce-
@@ -1788,7 +1805,7 @@ En caso de no presentar alegaciones o que estas no sea estimadas, el director di
 rá y notificará la resolución de anulación de la matrícula. Dicha resolución será
 notificada al alumno o a su representante legal, en caso de menores de edad. La
 notificación deberá efectuarse antes de la evaluación final ordinaria en todos los
-casos. De conformidad con el artículo 41.5 de la Ley 39/2015, de 1 de octubre,
+casos. De conformidad con el artículo 41.5 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre,
 cuando el interesado o su representante rechace la notificación, se hará constar en
 el expediente, especificándose las circunstancias del intento de notificación y el
 medio, dando por efectuado el trámite y siguiéndose el procedimiento.
@@ -1796,7 +1813,7 @@ e)
 Contra esta resolución, que no agota la vía administrativa, el alumno o su repre-
 sentante legal podrá interponer recurso de alzada ante la Dirección de Área Terri-
 torial correspondiente, en el plazo de un mes desde su notificación, en los térmi-
-nos previstos en los artículos 115, 121 y 122 de la Ley 39/2015, de 1 de octubre.
+nos previstos en los artículos 115, 121 y 122 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre.
 6.
 El alumnado cuya matrícula sea anulada por inasistencia perderá la condición de
 alumno del centro en las enseñanzas correspondientes y, en consecuencia, no será incluido
@@ -1818,7 +1835,7 @@ en régimen a distancia
 
 en régimen a distancia
 1.
-De conformidad con el artículo 17 del Decreto 63/2019, de 16 de julio, la oferta
+De conformidad con el artículo 17 del [Decreto 63/2019](../03_ordenacion_curricular_y_ensenanzas/D63_2019_ordenacion_organizacion_formacion_profesional_madrid.md), de 16 de julio, la oferta
 de formación profesional en régimen a distancia tiene entre sus fines contribuir a mejorar
 la cualificación profesional de las personas adultas y su formación permanente, de tal for-
 ma que se favorezca la compatibilidad del estudio y la formación con la actividad laboral u
@@ -1920,7 +1937,7 @@ la competencia general de las enseñanzas correspondientes.
 
 BOCM
 3.
-De conformidad con el artículo 39 del Decreto 63/2019, de 16 de julio, se toma-
+De conformidad con el artículo 39 del [Decreto 63/2019](../03_ordenacion_curricular_y_ensenanzas/D63_2019_ordenacion_organizacion_formacion_profesional_madrid.md), de 16 de julio, se toma-
 rán como referentes para la evaluación de los módulos profesionales y, en su caso, unida-
 des formativas y ámbitos, los objetivos expresados en términos de resultados de aprendiza-
 je y los criterios de evaluación establecidos en la normativa básica y autonómica que regule
@@ -2150,7 +2167,7 @@ hábiles, que en caso de ser desestimatoria deberá estar motivada. Dicha resolu
 tará al expediente académico del alumno y se notificará al mismo o a sus representantes le-
 gales. Contra esta resolución el alumno o sus representantes legales podrán interponer recur-
 so de alzada en el plazo de un mes ante la Dirección de Área Territorial en los términos y
-condiciones recogidos en los artículos 115, 121 y 122 de la Ley 39/2015, de 1 de octubre.
+condiciones recogidos en los artículos 115, 121 y 122 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre.
 6.
 En los ciclos formativos de grado superior, el aplazamiento de la calificación del
 módulo profesional de FCT implicará a su vez el aplazamiento de la calificación del módu-
@@ -2196,7 +2213,7 @@ zar las actividades correspondientes a la elaboración del proyecto.
 
 1.
 Las sesiones de evaluación, que tendrán por objeto lo previsto en el artículo 41 del
-Decreto 63/2019, de 16 de julio, son las reuniones que celebra el equipo docente, constitui-
+[Decreto 63/2019](../03_ordenacion_curricular_y_ensenanzas/D63_2019_ordenacion_organizacion_formacion_profesional_madrid.md), de 16 de julio, son las reuniones que celebra el equipo docente, constitui-
 do por los profesores que imparten enseñanzas a un determinado grupo de alumnos y que
 serán coordinadas por el profesor tutor del grupo y, en el caso de las enseñanzas impartidas
 en régimen a distancia por el coordinador de las enseñanzas a distancia al que se refiere el
@@ -2301,14 +2318,14 @@ Se considerará superado un módulo profesional o unidad formativa en el caso de
 que la calificación obtenida sea igual o superior a cinco puntos, o para el módulo profesio-
 nal de FCT se califique como “Apto”.
 4.
-De conformidad con el artículo 43.1 del Decreto 63/2019, de 16 de julio, el pro-
+De conformidad con el artículo 43.1 del [Decreto 63/2019](../03_ordenacion_curricular_y_ensenanzas/D63_2019_ordenacion_organizacion_formacion_profesional_madrid.md), de 16 de julio, el pro-
 fesor responsable de la evaluación de un módulo profesional podrá otorgar al alumnado que
 obtenga la calificación de 10 en dicho módulo profesional una “Mención honorífica” que
 se calificará con la expresión “10-mh”. Para ello la programación didáctica recogerá de for-
 ma expresa los criterios objetivos que den lugar a esta calificación.
 5.
 En aquellos módulos profesionales en los que el alumno haya solicitado convali-
-dación aportando estudios anteriores a los derivados de la Ley Orgánica 1/1990, de 3 de oc-
+dación aportando estudios anteriores a los derivados de la [Ley Orgánica 1/1990](../../../estatal/02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md), de 3 de oc-
 tubre, de Ordenación General del Sistema Educativo, estudios universitarios, acreditación
 de competencias profesionales o certificaciones académicas oficiales de nivel de idiomas y
 esta haya sido resuelta de forma estimatoria, se indicará en los documentos de evaluación
@@ -2362,7 +2379,7 @@ tase ser igual o superior a 5. En dicho cálculo, no se tendrán en cuenta las c
 3.
 Se podrá conceder Matrícula de Honor cuando la calificación final a la que se re-
 fiere el apartado anterior sea igual o superior a nueve en los términos y condiciones esta-
-blecidos en el artículo 43.2 del Decreto 63/2019, de 16 de julio. Las matrículas de honor se-
+blecidos en el artículo 43.2 del [Decreto 63/2019](../03_ordenacion_curricular_y_ensenanzas/D63_2019_ordenacion_organizacion_formacion_profesional_madrid.md), de 16 de julio. Las matrículas de honor se-
 rán otorgadas por acuerdo del departamento didáctico o departamentos de familia
 profesional al que pertenezca el ciclo formativo o, en el caso de los centros privados, por la
 unidad que realice sus funciones, a propuesta del equipo docente que determine la califica-
@@ -2641,7 +2658,7 @@ BOCM
 Contra la resolución del director a la que se refiere el apartado anterior el alumno
 o sus representantes legales podrán interponer recurso alzada ante la Dirección de Área Te-
 rritorial correspondiente, en el plazo de un mes desde su notificación en los términos pre-
-vistos en los artículos 115, 121 y 122 de la Ley 39/2015, de 1 de octubre.
+vistos en los artículos 115, 121 y 122 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre.
 
 #### Artículo 44. Procedimiento de evaluación en ciclos de formación profesional básica
 
@@ -2744,7 +2761,7 @@ perados, siempre que no hayan agotado la permanencia máxima establecida en el
 
 Obligatoria para el alumnado propuesto para la obtención de un título
 Profesional Básico
-De conformidad con el artículo 18 del Real Decreto 984/2021, de 16 de noviembre,
+De conformidad con el artículo 18 del [Real Decreto 984/2021](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD984_2021_regulan_evaluacion_promocion_educacion_primaria_asi.md), de 16 de noviembre,
 por el que se regulan la evaluación y la promoción en la Educación Primaria, así como la
 evaluación, la promoción y la titulación en la Educación Secundaria Obligatoria, el Bachi-
 llerato y la Formación Profesional, la superación de la totalidad de los módulos incluidos
@@ -2939,7 +2956,7 @@ El alumnado que finalizadas las sesiones de evaluación final o, en su caso, de 
 ficación final, no haya sido propuesto para la obtención de la certificación académica oficial
 correspondiente, podrá solicitar por escrito en la secretaría del centro docente un certificado
 académico oficial de estudios incompletos, conforme a los términos establecidos en el ar-
-tículo 44.3 del Decreto 63/2019, de 16 de julio, en el que figurarán los resultados obtenidos.
+tículo 44.3 del [Decreto 63/2019](../03_ordenacion_curricular_y_ensenanzas/D63_2019_ordenacion_organizacion_formacion_profesional_madrid.md), de 16 de julio, en el que figurarán los resultados obtenidos.
 
 #### Artículo 49. Procedimiento de evaluación en enseñanzas de formación profesional impartidas
 
@@ -3007,12 +3024,12 @@ les que se aplicarán para la evaluación y la calificación de los aprendizajes
 2.
 Los criterios de evaluación y calificación que se concreten en las programaciones
 didácticas y las programaciones de los módulos profesionales a los que se refiere el artícu-
-lo 32 del Decreto 63/2019, de 16 de julio, deberán perseguir la valoración objetiva del gra-
+lo 32 del [Decreto 63/2019](../03_ordenacion_curricular_y_ensenanzas/D63_2019_ordenacion_organizacion_formacion_profesional_madrid.md), de 16 de julio, deberán perseguir la valoración objetiva del gra-
 do de consecución de la competencia general del título y las competencias profesionales co-
 rrespondientes, así como facilitar la observación en la consecución de los resultados de
 aprendizaje del módulo profesional o, en su caso, unidad formativa. En ningún caso podrán
 establecerse criterios de calificación que valoren la asistencia a clase, comportamientos ob-
-jeto de sanción disciplinaria conforme al Decreto 32/2019, de 9 de abril, del Consejo de Go-
+jeto de sanción disciplinaria conforme al [Decreto 32/2019](../07_convivencia_bienestar_y_protocolos/D32_2019_marco_regulador_convivencia_centros_docentes_madrid.md), de 9 de abril, del Consejo de Go-
 bierno, por el que se establece el marco regulador de la convivencia en los centros docen-
 tes de la Comunidad de Madrid u otras cuestiones que no guarden relación con los
 resultados de aprendizaje que deba adquirir el alumnado.
@@ -3447,7 +3464,7 @@ el que se regulan aspectos específicos de la Formación Profesional Básica de 
 zas de formación profesional del sistema educativo, se aprueban catorce títulos profesiona-
 les básicos, se fijan sus currículos básicos y se modifica el Real Decreto 1850/2009, de 4
 de diciembre, sobre expedición de títulos académicos y profesionales correspondientes a las
-enseñanzas establecidas en la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+enseñanzas establecidas en la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación.
 2.
 Los módulos profesionales propios de la Comunidad de Madrid podrán ser obje-
 to de convalidación siempre quede garantizada la adquisición por parte del alumno de los
@@ -3474,7 +3491,7 @@ dual, los alumnos deberán realizar toda la formación planificada en la empresa
 módulos profesionales.
 5.
 Los módulos profesionales propios de un centro docente, autorizados en el marco
-de los proyectos de autonomía a los que se refiere el artículo 30 del Decreto 63/2019, de 16
+de los proyectos de autonomía a los que se refiere el artículo 30 del [Decreto 63/2019](../03_ordenacion_curricular_y_ensenanzas/D63_2019_ordenacion_organizacion_formacion_profesional_madrid.md), de 16
 de julio, no podrán ser objeto de convalidación.
 6.
 En los ciclos formativos que se impartan en el marco de un proyecto bilingüe de
@@ -3504,7 +3521,7 @@ evaluación y acreditación de competencias profesionales establecido en el Real
 to 1224/2009, de 17 de julio, de reconocimiento de competencias profesionales adquiridas
 por experiencia laboral, certificación académica oficial de estudios universitarios cursados,
 certificación académica oficial de estudios de formación profesional correspondientes a tí-
-tulos anteriores a la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sis-
+tulos anteriores a la [Ley Orgánica 1/1990](../../../estatal/02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md), de 3 de octubre, de Ordenación General del Sis-
 tema Educativo o certificados académicos oficiales de nivel en lengua extranjera.
 Para la convalidación de los módulos profesionales incorporados por la Comunidad de
 Madrid en los planes de estudios de enseñanzas de formación profesional únicamente se po-
@@ -3569,7 +3586,7 @@ rá ser motivada y que no agota la vía administrativa, el alumno podrá interpo
 BOCM
 de un mes desde la notificación, recurso de alzada ante la correspondiente Dirección de Área
 Territorial que resolverá lo que proceda en los términos previstos en los artículos 115, 121
-y 122 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las
+y 122 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Administrativo Común de las
 Administraciones Públicas.
 
 #### Artículo 65. Resolución de convalidación de módulos profesionales que corresponden a la dirección
@@ -3588,7 +3605,7 @@ resolución dictada al efecto.
 1.
 Las solicitudes de convalidación de los módulos profesionales cuya resolución co-
 rresponda al ministerio competente en materia de Educación, deberán remitirse al mismo,
-siguiendo el procedimiento establecido en el Real Decreto 1085/2020, de 9 de diciembre,
+siguiendo el procedimiento establecido en el [Real Decreto 1085/2020](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1085_2020_correccion_errores_real_decreto_establecen_convalidaciones.md), de 9 de diciembre,
 en la forma y los plazos previstos en dicha norma.
 En caso de que el Ministerio con competencia en materia de educación emita resolu-
 ción estimatoria de la convalidación solicitada, si el alumno desea hacer efectiva dicha con-
@@ -3626,7 +3643,7 @@ tablecido en el artículo 37.5.
 En caso de resolución desestimatoria de la convalidación, esta será notificada al
 alumno, quien, en el plazo de un mes, podrá presentar recurso de alzada ante la Di-
 rección de Área Territorial correspondiente al centro en el que se encuentre matricu-
-lado, en los términos previstos en los artículos 115, 121 y 122 de la Ley 39/2015,
+lado, en los términos previstos en los artículos 115, 121 y 122 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md),
 de 1 de octubre.
 c)
 Cuando corresponda a la dirección general con competencia en materia de ordena-
@@ -3652,7 +3669,7 @@ do del mismo.
 En caso de resolución desestimatoria de la convalidación, esta será notificada al
 alumno, quien, en el plazo de un mes, podrá presentar recurso de alzada ante el ór-
 gano jerárquicamente superior, en los términos previstos en los artículos 115, 121
-y 122 de la Ley 39/2015, de 1 de octubre.
+y 122 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre.
 3.
 El alumno estará obligado a asistir a las actividades formativas y de evaluación de
 los módulos profesionales cuya convalidación solicitó, cuando estas tengan carácter de
@@ -3676,7 +3693,7 @@ En caso de producirse silencio administrativo, este tendrá carácter desestimat
 #### Artículo 67. Exención del módulo profesional de FCT
 
 1.
-De conformidad con lo establecido en el artículo 3.4 del Real Decreto 1085/2020,
+De conformidad con lo establecido en el artículo 3.4 del [Real Decreto 1085/2020](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1085_2020_correccion_errores_real_decreto_establecen_convalidaciones.md),
 de 9 de diciembre, el módulo profesional de FCT nunca será objeto de convalidación, sino
 de exención total o parcial, que será determinada por su correspondencia con la experien-
 cia laboral.
@@ -3809,7 +3826,7 @@ formación planificada en la empresa.
 En lo referente a la obtención y tratamiento de los datos personales de los alumnos se
 atenderá al Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo, de 27 de
 abril de 2016, relativo a la protección de las personas físicas en lo que respecta al tratamien-
-to de datos personales y se respetará lo establecido en la Ley Orgánica 3/2018, de 5 de di-
+to de datos personales y se respetará lo establecido en la [Ley Orgánica 3/2018](../../../estatal/02_gestion_y_administracion_centros/LO3_2018_proteccion_datos_personales_garantia_derechos_digitales.md), de 5 de di-
 ciembre, de Protección de Datos Personales y garantía de los derechos digitales, y demás
 normativa que resulte de aplicación.
 
@@ -3834,9 +3851,9 @@ BOCM
 Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo
 1.
 Tras la aprobación del Real Decreto por el que se establezca cada uno de los títu-
-los de formación profesional regulados al amparo de la Ley Orgánica 2/2006, de 3 de mayo,
+los de formación profesional regulados al amparo de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo,
 de Educación, que sustituyan a uno o varios ciclos formativos regulados al amparo de la
-Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema del Sistema Edu-
+[Ley Orgánica 1/1990](../../../estatal/02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md), de 3 de octubre, de Ordenación General del Sistema del Sistema Edu-
 cativo que formen parte de la oferta educativa de la Comunidad de Madrid, se establecerá
 por Decreto del Consejo de Gobierno de la Comunidad de Madrid el plan de estudios del
 nuevo ciclo formativo con indicación del curso académico en el que comenzará su implan-
@@ -3846,7 +3863,7 @@ micos dejará de impartirse el ciclo formativo que se extingue, regulado al ampa
 Orgánica 1/1990, de 3 de octubre.
 2.
 Una vez que deje de impartirse el ciclo formativo, objeto de extinción, regulado
-al amparo de la Ley Orgánica 1/1990, de 3 de octubre, se garantizará que los alumnos que
+al amparo de la [Ley Orgánica 1/1990](../../../estatal/02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md), de 3 de octubre, se garantizará que los alumnos que
 hayan iniciado con anterioridad el ciclo formativo objeto de extinción y tengan aún módu-
 los profesionales pendientes de superar, puedan presentarse a las pruebas para la obtención
 de los títulos de Técnico y Técnico Superior durante los dos cursos académicos siguientes,
@@ -3863,7 +3880,7 @@ rridas las convocatorias de evaluación a las que se refieren los apartados ante
 permitan finalizar estas enseñanzas, ya no podrá ser propuesto para la obtención del título
 correspondiente al ciclo formativo extinguido. No obstante, podrá solicitar un certificado
 de estudios incompleto e incorporarse en el ciclo formativo que lo sustituye, regulado al
-amparo de la Ley Orgánica 2/2006, de 3 de mayo, de tal forma que podrá acogerse al siste-
+amparo de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de tal forma que podrá acogerse al siste-
 ma de convalidaciones establecido.
 4.
 Al alumnado que curse un ciclo formativo regulado al amparo de la Ley Orgáni-
@@ -3948,7 +3965,7 @@ blecidos por vía reglamentaria.
 
 #### Disposición TRANSITORIA SEGUNDA. Aplicación de los procedimientos de evaluación en los ciclos formativos regulados
 
-al amparo de la Ley Orgánica 1/1990, de 3 de octubre
+al amparo de la [Ley Orgánica 1/1990](../../../estatal/02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md), de 3 de octubre
 1.
 Mientras mantengan su vigencia los títulos regulados al amparo de la Ley Orgá-
 nica 1/1990, de 3 de octubre, y formen parte de la oferta educativa de la Comunidad de Madrid,
@@ -4031,7 +4048,7 @@ a)
 Orden 2694/2009, de 9 de junio, por la que se regula el acceso, la matriculación, el
 proceso de evaluación y la acreditación académica de los alumnos que cursen en la
 Comunidad de Madrid la modalidad presencial de la formación profesional del sis-
-tema educativo establecida en la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+tema educativo establecida en la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación.
 b)
 Orden 1409/2015, de 18 de mayo, de la Consejería de Educación, Juventud y De-
 porte, por la que se regulan aspectos específicos de la Formación Profesional Bá-

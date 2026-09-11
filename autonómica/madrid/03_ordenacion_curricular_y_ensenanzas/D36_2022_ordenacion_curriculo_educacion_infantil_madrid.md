@@ -87,8 +87,16 @@ relaciones:
     - Art. 60
     - Art. 14
   - norma_id: norm-es-lo-2-2006
+fundamentos_derecho:
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-mad-d-52-2021
+- norma_id: norm-mad-d17-2008-desarrollo-ensenanzas-educacion-infantil-madrid
+- norma_id: norm-es-l-39-2015
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-rd-95-2022
+- norma_id: norm-es-2010-12201
 ---
-
 # Decreto 36/2022, de 8 de junio, del Consejo de Gobierno, por el que se establece para la Comunidad de Madrid el currículo de Infantil.
 
 ## Preámbulo
@@ -100,8 +108,8 @@ Ciencia y Portavocía
 DECRETO 36/2022, de 8 de junio, del Consejo de Gobierno, por el que se esta-
 blece para la Comunidad de Madrid la ordenación y el currículo de la etapa de
 Educación Infantil.
-La Ley Orgánica 2/2006, de 3 de mayo, de Educación, tras su modificación por la Ley
-Orgánica 3/2020, de 29 de diciembre, por la que se modifica la Ley Orgánica 2/2006, de 3 de
+La [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, tras su modificación por la Ley
+Orgánica 3/2020, de 29 de diciembre, por la que se modifica la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de
 mayo, de Educación, define el currículo como el conjunto de objetivos, competencias, conte-
 nidos, métodos pedagógicos y criterios de evaluación de cada una de las enseñanzas. El capí-
 tulo III del título preliminar, referido al currículo y a la distribución de competencias, dispo-
@@ -109,7 +117,7 @@ ne que, con el fin de asegurar una formación común y garantizar la validez de 
 correspondientes, el Gobierno fijará, en relación con los objetivos, competencias, contenidos
 y criterios de evaluación, los aspectos básicos del currículo, que constituyen las enseñanzas
 mínimas. En desarrollo de este imperativo legal, el Ministerio de Educación y Formación Pro-
-fesional ha publicado, en el “Boletín Oficial del Estado”, el Real Decreto 95/2022, de 1 de fe-
+fesional ha publicado, en el “Boletín Oficial del Estado”, el [Real Decreto 95/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD95_2022_establece_ordenacion_ensenanzas_minimas_educacion_infantil.md), de 1 de fe-
 brero, por el que se establece la ordenación y las enseñanzas mínimas de la Educación Infan-
 til y en el que se dispone que las administraciones educativas establecerán el currículo de toda
 la etapa de Educación Infantil, del que formarán parte, en todo caso, las enseñanzas mínimas
@@ -152,15 +160,15 @@ rario, la evaluación, la atención a las diferencias individuales o la autonom�
 BOCM
 El presente decreto se adecúa a los principios de buena regulación: necesidad, efica-
 cia, proporcionalidad, seguridad jurídica y transparencia previstos en el artículo 129 de la
-Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Adminis-
-traciones Públicas, y en el artículo 2 del Decreto 52/2021, de 24 de marzo, del Consejo de
+[Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Administrativo Común de las Adminis-
+traciones Públicas, y en el artículo 2 del [Decreto 52/2021](../01_marco_normativo_general_y_organico/D52_2021_procedimiento_elaboracion_disposiciones_normativas_madrid.md), de 24 de marzo, del Consejo de
 Gobierno, por el que se regula y simplifica el procedimiento de elaboración de las disposi-
 ciones normativas de carácter general de la Comunidad de Madrid. Atiende, además, a ra-
 zones de interés general, pues el objeto de esta norma es determinar, conforme a lo dispues-
-to en el Real Decreto 95/2022, de 1 de febrero, la ordenación y el currículo de la Educación
+to en el [Real Decreto 95/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD95_2022_establece_ordenacion_ensenanzas_minimas_educacion_infantil.md), de 1 de febrero, la ordenación y el currículo de la Educación
 Infantil de la Comunidad de Madrid.
 La necesidad y la eficacia se acreditan por la nueva redacción dada al artículo 6.5 de
-la Ley Orgánica 2/2006, de 3 de mayo, de Educación, tras su modificación por la Ley Or-
+la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, tras su modificación por la Ley Or-
 gánica 3/2020, de 29 de diciembre, y su desarrollo posterior en el artículo 10.1 del Real De-
 creto 95/2022, de 1 de febrero, en el que se determina que las administraciones educativas
 establecerán el currículo de la Educación Infantil. Por su parte, la disposición final tercera
@@ -229,9 +237,9 @@ proyecto educativo y, en su caso, a su carácter propio.
 
 #### Artículo 4. Elementos curriculares
 
-El artículo 6.1 de la Ley Orgánica 2/2006, de 3 de mayo, establece que el currículo lo
+El artículo 6.1 de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, establece que el currículo lo
 conforman el conjunto de objetivos, competencias, contenidos, métodos pedagógicos y cri-
-terios de evaluación de cada una de las enseñanzas. El artículo 2 del Real Decreto 95/2022,
+terios de evaluación de cada una de las enseñanzas. El artículo 2 del [Real Decreto 95/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD95_2022_establece_ordenacion_ensenanzas_minimas_educacion_infantil.md),
 de 1 de febrero, define objetivos, competencias clave, competencias específicas y criterios
 de evaluación.
 A los efectos de este decreto, se entiende por:
@@ -367,7 +375,7 @@ BOCM
 Se incorpora una primera aproximación a una lengua extranjera en el currículo del
 segundo ciclo de la etapa. A tales efectos, en el área III “Comunicación y representación de
 la realidad”, se añade el bloque J “Lengua extranjera” a los establecidos y reconocidos en
-el Real Decreto 95/2022, de 1 de febrero.
+el [Real Decreto 95/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD95_2022_establece_ordenacion_ensenanzas_minimas_educacion_infantil.md), de 1 de febrero.
 2.
 Se dedicará en todos los cursos del segundo ciclo al menos 1,5 horas semanales al
 tratamiento del bloque J “Lengua extranjera”. Esa dedicación horaria se repartirá en un mí-
@@ -378,7 +386,7 @@ profesorado que cuente con la debida especialización o habilitación para impar
 en el idioma correspondiente. En el caso de centros públicos, de acuerdo con lo estipulado
 en el Real Decreto 1594/2011, de 4 de noviembre, por el que se establecen las especialida-
 des docentes del Cuerpo de Maestros que desempeñen sus funciones en las etapas de Edu-
-cación Infantil y de Educación Primaria reguladas en la Ley Orgánica 2/2006, de 3 de mayo,
+cación Infantil y de Educación Primaria reguladas en la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo,
 los maestros con la especialidad de Lengua extranjera del idioma correspondiente serán los
 encargados de esta función educativa.
 4.
@@ -615,7 +623,7 @@ en las medidas que adopten los centros para facilitar su desarrollo formativo.
 
 1.
 Los centros dispondrán de autonomía pedagógica, de organización y de gestión,
-en los términos recogidos en la Ley Orgánica 2/2006 de 3 de mayo, en las normas que la
+en los términos recogidos en la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md) de 3 de mayo, en las normas que la
 desarrollan, así como en lo dispuesto en este decreto y en su normativa de desarrollo.
 2.
 Los centros fijarán la concreción del currículo establecido en este decreto en uni-
@@ -689,11 +697,11 @@ El procedimiento de solicitud y autorización de la permanencia de un año más 
 la etapa de Educación Infantil se regulará mediante orden del consejero competente en ma-
 teria de Educación.
 
-#### Disposición TRANSITORIA PRIMERA. Aplicación del Decreto 17/2008, de 6 de marzo, del Consejo de Gobierno,
+#### Disposición TRANSITORIA PRIMERA. Aplicación del [Decreto 17/2008](./D17_2008_desarrollo_ensenanzas_educacion_infantil_madrid.md), de 6 de marzo, del Consejo de Gobierno,
 
 por el que se desarrollan para la Comunidad de Madrid las enseñanzas
 de la Educación Infantil
-El Decreto 17/2008, de 6 de marzo, del Consejo de Gobierno, por el que se desarrollan
+El [Decreto 17/2008](./D17_2008_desarrollo_ensenanzas_educacion_infantil_madrid.md), de 6 de marzo, del Consejo de Gobierno, por el que se desarrollan
 para la Comunidad de Madrid las enseñanzas de la Educación Infantil, mantendrá sus efec-
 tos y será de aplicación hasta el fin del curso escolar 2021-2022.
 
@@ -711,7 +719,7 @@ A partir de la total implantación de las enseñanzas reguladas en el presente d
 to, quedan derogadas las normas de igual o inferior rango que se opongan a lo establecido
 en esta norma.
 2.
-De manera expresa, queda derogado el Decreto 17/2008, de 6 de marzo, del Con-
+De manera expresa, queda derogado el [Decreto 17/2008](./D17_2008_desarrollo_ensenanzas_educacion_infantil_madrid.md), de 6 de marzo, del Con-
 sejo de Gobierno, por el que se desarrollan para la Comunidad de Madrid las enseñanzas de
 la Educación Infantil.
 
@@ -839,7 +847,7 @@ España, así como de Europa y otros lugares del mundo.
 
 Con independencia de lo establecido en el presente anexo, el desarrollo curricular que
 compete a los centros educativos incorporará los elementos curriculares de las enseñanzas
-mínimas del segundo ciclo de educación infantil establecidos en el Real Decreto 95/2022,
+mínimas del segundo ciclo de educación infantil establecidos en el [Real Decreto 95/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD95_2022_establece_ordenacion_ensenanzas_minimas_educacion_infantil.md),
 de 1 febrero.
 Área I. Crecimiento en armonía
 Esta área atiende al desarrollo físico-motor, la construcción de la identidad, los hábi-
@@ -888,7 +896,7 @@ posibilidades perceptivas y motrices, a identificar las sensaciones que experime
 virse de las posibilidades expresivas del cuerpo para manifestarlas. La adquisición de una
 mayor seguridad y autonomía afirma su individualidad e impulsa el desarrollo de su perso-
 nalidad.
-El Anexo II del Real Decreto 95/2022, de 1 de febrero, por el que se establece la orde-
+El Anexo II del [Real Decreto 95/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD95_2022_establece_ordenacion_ensenanzas_minimas_educacion_infantil.md), de 1 de febrero, por el que se establece la orde-
 nación y las enseñanzas mínimas de la Educación Infantil recoge y describe cada una las
 competencias específicas de esta área.
 En la tabla siguiente se relacionan cada una de las competencias específicas con los
@@ -1240,7 +1248,7 @@ mentos del entorno más cercano, lo que le supone la capacidad de hacer pregunta
 futuros aprendizajes. Los centros docentes deben garantizar, por tanto, un entorno escolar
 que estimule la curiosidad por entender lo que les rodea, y les anime a ofrecer soluciones
 que inviten a la búsqueda de respuestas adecuadas.
-El Anexo II del Real Decreto 95/2022, de 1 de febrero, por el que se establece la orde-
+El Anexo II del [Real Decreto 95/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD95_2022_establece_ordenacion_ensenanzas_minimas_educacion_infantil.md), de 1 de febrero, por el que se establece la orde-
 nación y las enseñanzas mínimas de la Educación Infantil recoge y describe cada una las
 competencias específicas de esta área.
 En la tabla siguiente se relacionan las competencias específicas con los criterios de
@@ -1591,7 +1599,7 @@ plementaria, al desarrollo integral del alumnado. A través de los lenguajes, de
 imaginación y creatividad, se estructura su personalidad y conocen el mundo, amplían sus
 experiencias y se conocen distintos códigos comunicativos, lo que contribuye a facilitar la
 entrada en la Educación Primaria y despertar el interés por continuar aprendiendo.
-El Anexo II del Real Decreto 95/2022, de 1 de febrero, por el que se establece la orde-
+El Anexo II del [Real Decreto 95/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD95_2022_establece_ordenacion_ensenanzas_minimas_educacion_infantil.md), de 1 de febrero, por el que se establece la orde-
 nación y las enseñanzas mínimas de la Educación Infantil recoge y describe las competen-
 cias específicas del área III.
 En la tabla siguiente se relacionan cada una de esas competencias con los criterios de

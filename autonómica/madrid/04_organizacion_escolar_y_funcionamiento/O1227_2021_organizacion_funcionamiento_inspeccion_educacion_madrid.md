@@ -26,9 +26,12 @@ tags:
 - organizacion_inspeccion
 - inspectores
 - madrid
+fundamentos_derecho:
+- norma_id: norm-mad-d61-2019-organizacion-estructura-funcionamiento-inspeccion-educativa-madrid
+- norma_id: norm-mad-o732-2021-desarrollo-decreto-inspeccion-educativa-madrid
+- norma_id: norm-es-l-39-2015
 ---
-
-# Orden 1227/2021, de 5 de mayo, del Consejero de Educación y Juventud, por la que se corrigen los errores materiales de la Orden 732/2021, de 24 de marzo, de la Consejería de Educación y Juventud, por la que se desarrolla el Decreto 61/2019, de 9 de julio, del Consejo de Gobierno, por el que se regula la organización, estructura y funcionamiento de la Inspección Educativa de la Comunidad de Madrid
+# Orden 1227/2021, de 5 de mayo, del Consejero de Educación y Juventud, por la que se corrigen los errores materiales de la [Orden 732/2021](./O732_2021_desarrollo_decreto_inspeccion_educativa_madrid.md), de 24 de marzo, de la Consejería de Educación y Juventud, por la que se desarrolla el [Decreto 61/2019](./D61_2019_organizacion_estructura_funcionamiento_inspeccion_educativa_madrid.md), de 9 de julio, del Consejo de Gobierno, por el que se regula la organización, estructura y funcionamiento de la Inspección Educativa de la Comunidad de Madrid
 
 ## Preámbulo
 
@@ -36,18 +39,18 @@ BOCM
 Consejería de Educación y Juventud
 17
 ORDEN 1227/2021, de 5 de mayo, del Consejero de Educación y Juventud, por
-la que se corrigen los errores materiales de la Orden 732/2021, de 24 de mar-
+la que se corrigen los errores materiales de la [Orden 732/2021](./O732_2021_desarrollo_decreto_inspeccion_educativa_madrid.md), de 24 de mar-
 zo, de la Consejería de Educación y Juventud, por la que se desarrolla el De-
 creto 61/2019, de 9 de julio, del Consejo de Gobierno, por el que se regula la
 organización, estructura y funcionamiento de la Inspección Educativa de la Co-
 munidad de Madrid.
-Advertidos errores materiales en la Orden 732/2021, de 24 de marzo, de la Consejería
-de Educación y Juventud, por la que se desarrolla el Decreto 61/2019, de 9 de julio, del
+Advertidos errores materiales en la [Orden 732/2021](./O732_2021_desarrollo_decreto_inspeccion_educativa_madrid.md), de 24 de marzo, de la Consejería
+de Educación y Juventud, por la que se desarrolla el [Decreto 61/2019](./D61_2019_organizacion_estructura_funcionamiento_inspeccion_educativa_madrid.md), de 9 de julio, del
 Consejo de Gobierno, por el que se regula la organización, estructura y funcionamiento de
 la Inspección Educativa de la Comunidad de Madrid, publicada en el BOLETÍN OFICIAL DE
 LA COMUNIDAD DE MADRID de 7 de abril de 2021, de conformidad con lo previsto en el
 
-#### Artículo 109. 2 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Co-
+#### Artículo 109. 2 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Administrativo Co-
 
 mún de las Administraciones Públicas, procede su corrección en el siguiente sentido:
 Uno.
@@ -61,7 +64,7 @@ to y su ámbito de aplicación y especifica el ejercicio de la función inspecto
 Dos.
 En el artículo 22.7.
 — Donde dice:
-“De acuerdo con lo establecido en el artículo 8.g. del Decreto 61/2019, de 9 de julio”.
+“De acuerdo con lo establecido en el artículo 8.g. del [Decreto 61/2019](./D61_2019_organizacion_estructura_funcionamiento_inspeccion_educativa_madrid.md), de 9 de julio”.
 — Debe decir:
 “De acuerdo con lo establecido en el artículo 8.1.g del Decreto 61/ 2019, de 9 de julio”.
 Tres.
@@ -81,14 +84,14 @@ te Orden”.
 Cinco.
 En el artículo 41.2.e).
 — Donde dice:
-“De conformidad con lo establecido en el artículo 9.2 del Decreto 61/2019, de 9 de
+“De conformidad con lo establecido en el artículo 9.2 del [Decreto 61/2019](./D61_2019_organizacion_estructura_funcionamiento_inspeccion_educativa_madrid.md), de 9 de
 julio y en el artículo 46 de la presente Orden.”
 
 http://www.bocm.es
 D. L.: M. 19.462-1983 ISSN 1989-4791
 BOCM
 — Debe decir:
-“De conformidad con lo establecido en el artículo 9.2 del Decreto 61/2019, de 9 de
+“De conformidad con lo establecido en el artículo 9.2 del [Decreto 61/2019](./D61_2019_organizacion_estructura_funcionamiento_inspeccion_educativa_madrid.md), de 9 de
 julio y en el artículo 44 de la presente Orden”.
 Seis.
 En el artículo 44.2.

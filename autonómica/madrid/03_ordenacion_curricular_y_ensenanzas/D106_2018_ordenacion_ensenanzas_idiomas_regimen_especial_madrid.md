@@ -25,8 +25,17 @@ tags:
 - regimen_especial
 - curriculo_eoi
 - madrid
+fundamentos_derecho:
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-mad-l12-1999-creacion-consejo-escolar-comunidad-madrid
+- norma_id: norm-mad-l1-1983-gobierno-administracion-comunidad-madrid
+- norma_id: norm-es-l-39-2015
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-2016-3229
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-rd-1041-2017
+- norma_id: norm-es-2010-12201
 ---
-
 # Implantación enseñanzas– Decreto 106/2018, de 19 de junio, del Consejo de Gobierno, por el que se ordenan las enseñanzas de idiomas de régimen especial y se establecen los currículos de los niveles básico, intermedio y avanzado en la Comunidad de Madrid
 
 ## Preámbulo
@@ -37,10 +46,10 @@ Consejería de Educación e Investigación
 DECRETO 106/2018, de 19 de junio, del Consejo de Gobierno, por el que se or-
 denan las enseñanzas de idiomas de régimen especial y se establecen los currícu-
 los de los niveles básico, intermedio y avanzado en la Comunidad de Madrid.
-La Ley Orgánica 2/2006, de 3 de mayo, de Educación, ha visto modificados algunos
+La [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, ha visto modificados algunos
 aspectos de las Enseñanzas de Idiomas de régimen especial como resultado de la publica-
-ción de la Ley Orgánica 8/2013, de 9 de diciembre, para la mejora de la calidad educativa.
-En su artículo 59.1, la citada Ley Orgánica 2/2006, de 3 de mayo, establece que las En-
+ción de la [Ley Orgánica 8/2013](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md), de 9 de diciembre, para la mejora de la calidad educativa.
+En su artículo 59.1, la citada [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, establece que las En-
 señanzas de idiomas tienen por objeto capacitar al alumnado para el uso adecuado de los
 diferentes idiomas fuera de las etapas ordinarias del sistema educativo, que se organizan en
 los niveles: básico, intermedio y avanzado. Estos niveles se corresponden, respectivamen-
@@ -49,7 +58,7 @@ a su vez, se subdividen en los niveles A1, A2, B1, B2, C1 y C2. Asimismo, señal
 enseñanzas del nivel básico tendrán las características y la organización que las Adminis-
 traciones educativas determinen.
 En desarrollo de estas modificaciones, a propuesta del Ministerio de Educación, Cul-
-tura y Deporte, el Gobierno ha aprobado el Real Decreto 1041/2017, de 22 de diciembre,
+tura y Deporte, el Gobierno ha aprobado el [Real Decreto 1041/2017](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1041_2017_exigencias_minimas_curriculo_basico_idiomas_regimen_especial.md), de 22 de diciembre,
 por el que se fijan las exigencias mínimas del nivel básico a efectos de certificación, se es-
 tablece el currículo básico de los niveles Intermedio B1, Intermedio B2, Avanzado C1, y
 Avanzado C2, de las Enseñanzas de idiomas de régimen especial reguladas por la Ley Or-
@@ -57,7 +66,7 @@ gánica 2/2006, de 3 de mayo, de Educación, y se establecen las equivalencias e
 señanzas de idiomas de régimen especial reguladas en diversos planes de estudios y las de
 este real decreto.
 Corresponde a la Administración educativa de la Comunidad de Madrid, de acuerdo
-con el artículo 6.bis.3, de la LOE, y los artículos 4 y 5 del Real Decreto 1041/2017, de 22
+con el artículo 6.bis.3, de la LOE, y los artículos 4 y 5 del [Real Decreto 1041/2017](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1041_2017_exigencias_minimas_curriculo_basico_idiomas_regimen_especial.md), de 22
 de diciembre, completar el currículo de estas enseñanzas, del que formarán parte los aspec-
 tos básicos establecidos por el Ministerio de Educación, Cultura y Deporte en el citado Real
 Decreto 1041/2017, de 22 de diciembre. Dicho currículo se concretará en los niveles bási-
@@ -67,7 +76,7 @@ La Comunidad de Madrid propone una distribución y duración de cursos por nivel
 que atienda al grado de dificultad en el aprendizaje de los distintos idiomas, según sea la
 proximidad lingüística de las lenguas y a la exposición de los interesados a las mismas.
 Los centros que imparten estas enseñanzas, en el uso de la autonomía que les confiere
-la Ley Orgánica 2/2006, de 3 de mayo, de Educación, en sus artículos 6.bis.5 y 120, desa-
+la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, en sus artículos 6.bis.5 y 120, desa-
 rrollarán y complementarán el currículo establecido en este decreto.
 Con esta norma, la Comunidad de Madrid regula las enseñanzas de idiomas con la in-
 tención de que, dado que forman parte de lo que se denomina “aprendizaje a lo largo de toda
@@ -84,7 +93,7 @@ las enseñanzas de las Escuelas Oficiales de Idiomas de la Comunidad de Madrid; 
 creto 98/2008, de 17 de julio, del Consejo de Gobierno, por el que se establece el currículo
 del nivel avanzado de las enseñanzas de las Escuelas Oficiales de Idiomas de la Comuni-
 dad de Madrid y sus normas de desarrollo.
-Además, en el marco de flexibilidad establecido por la citada Ley Orgánica 2/2006, de 3
+Además, en el marco de flexibilidad establecido por la citada [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3
 de mayo, y con el fin de permitir a los ciudadanos la transición de la formación al trabajo y
 
 BOCM
@@ -95,7 +104,7 @@ feccionamiento y la especialización de competencias en idiomas dirigidos al pro
 otros colectivos profesionales y, en general, a personas adultas con necesidades específicas de
 aprendizaje de idiomas.
 En el ejercicio de la iniciativa legislativa y la potestad reglamentaria, que se recoge en
-el artículo 129 de la Ley 39/2015, de 1 de octubre, en la elaboración del presente decreto la
+el artículo 129 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, en la elaboración del presente decreto la
 Comunidad de Madrid ha actuado de acuerdo con el principio de necesidad y eficacia por
 razón de interés general, al tratarse del desarrollo de una norma básica que sustituye a la re-
 glamentación hasta ahora vigente de las enseñanzas de idiomas de régimen especial; con el
@@ -103,21 +112,21 @@ principio de proporcionalidad, ya que este decreto contiene la regulación impre
 para establecer la ordenación y el currículo de las citadas enseñanzas y al no existir otras
 medidas menos restrictivas de derechos y porque además, no imponen obligaciones a los
 destinatarios; con el principio de seguridad jurídica, por cuanto respeta lo contenido en el
-citado Real Decreto 1041/2017, de 22 de diciembre, y porque habilita al Consejero compe-
+citado [Real Decreto 1041/2017](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1041_2017_exigencias_minimas_curriculo_basico_idiomas_regimen_especial.md), de 22 de diciembre, y porque habilita al Consejero compe-
 tente en materia de Educación de la Comunidad de Madrid para el desarrollo y aplicación
 de lo contenido en la norma; con el principio de transparencia, por cuanto se ha dado cum-
 plimiento al trámite de audiencia e información pública a través del Portal de Transparen-
 cia de la Comunidad de Madrid, conforme a lo dispuesto en los artículos 133.2 de la citada
-Ley 39/2015, de 1 de octubre, y del artículo 26.6 de la Ley 50/1997, de 27 de noviembre,
+[Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, y del artículo 26.6 de la Ley 50/1997, de 27 de noviembre,
 de Gobierno; así como, con el principio de eficiencia pues la norma evita cargas adminis-
 trativas innecesarias o accesorias y racionaliza, en su aplicación, la gestión de los recursos
 públicos.
 Asimismo, ha emitido dictamen el Consejo Escolar de la Comunidad de Madrid, de
-acuerdo con el artículo 2.1.b) de la Ley 12/1999, de 29 de abril, de creación del Consejo
+acuerdo con el artículo 2.1.b) de la [Ley 12/1999](../01_marco_normativo_general_y_organico/L12_1999_creacion_consejo_escolar_comunidad_madrid.md), de 29 de abril, de creación del Consejo
 Escolar de la Comunidad de Madrid y se ha recabado informe de la Abogacía General y de
 la Comisión Jurídica Asesora de la Comunidad de Madrid.
 El Consejo de Gobierno de la Comunidad de Madrid es competente para dictar el pre-
-sente Decreto, de acuerdo con lo establecido en el artículo 21 de la Ley 1/1983, de 13 de di-
+sente Decreto, de acuerdo con lo establecido en el artículo 21 de la [Ley 1/1983](../01_marco_normativo_general_y_organico/L1_1983_gobierno_administracion_comunidad_madrid.md), de 13 de di-
 ciembre, de Gobierno y Administración de la Comunidad de Madrid.
 En virtud de lo anterior, a propuesta del Consejero de Educación e Investigación, de
 acuerdo con la Comisión Jurídica Asesora de la Comunidad de Madrid, el Consejo de Go-
@@ -218,7 +227,7 @@ rencia el nivel C del MCER, se establece en el anexo III. Los currículos de los
 
 BOCM
 mas tienen como referencia el currículo básico de los niveles intermedio B1, intermedio B2,
-avanzado C1 y avanzado C2 que recoge el anexo I del Real Decreto 1041/2017, de 22 de di-
+avanzado C1 y avanzado C2 que recoge el anexo I del [Real Decreto 1041/2017](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1041_2017_exigencias_minimas_curriculo_basico_idiomas_regimen_especial.md), de 22 de di-
 ciembre.
 3.
 Los currículos de los distintos niveles incluyen todas las actividades de lengua,
@@ -446,7 +455,7 @@ tar con el visto bueno del Jefe del Departamento.
 
 1.
 El alumnado podrá trasladarse de centro sin haber concluido el curso, para lo que
-se seguirá el procedimiento señalado en el artículo 3 del Real Decreto 1041/2017, de 22 de
+se seguirá el procedimiento señalado en el artículo 3 del [Real Decreto 1041/2017](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1041_2017_exigencias_minimas_curriculo_basico_idiomas_regimen_especial.md), de 22 de
 diciembre. Para ello, los interesados deberán aportar una certificación académica expedida
 por la EOI de procedencia.
 2.
@@ -802,11 +811,11 @@ de régimen especial reguladas por la Ley Orgánica 10/2002, de 23 de diciembre,
 dad de la Educación; y 1629/2006, de 29 de diciembre, por el que se fijan los aspectos bá-
 sicos del currículo de las enseñanzas de idiomas de régimen especial reguladas por la Ley
 Orgánica 2/2006, de 3 de mayo, de Educación, son las que se determinan en el anexo II del
-Real Decreto 1041/2017, de 22 de diciembre.
+[Real Decreto 1041/2017](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1041_2017_exigencias_minimas_curriculo_basico_idiomas_regimen_especial.md), de 22 de diciembre.
 
 #### Disposición ADICIONAL TERCERA. Correspondencia con otras enseñanzas
 
-Según establece el Real Decreto 1041/2017, de 22 de diciembre, la consejería con
+Según establece el [Real Decreto 1041/2017](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1041_2017_exigencias_minimas_curriculo_basico_idiomas_regimen_especial.md), de 22 de diciembre, la consejería con
 competencias en Educación facilitará la realización de pruebas homologadas para obtener
 el Certificado de nivel en el idioma cursado, del alumnado de la Educación Secundaria y de
 Formación Profesional.
@@ -816,7 +825,7 @@ Formación Profesional.
 por el presente decreto
 La incorporación del alumnado procedente de las enseñanzas reguladas por el Real
 Decreto 1629/2006, de 29 de diciembre, por el que se fijan los aspectos básicos del currícu-
-lo de las enseñanzas de idiomas de régimen especial reguladas por la Ley Orgánica 2/2006,
+lo de las enseñanzas de idiomas de régimen especial reguladas por la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md),
 de 3 de mayo, de Educación, modificado por el Real Decreto 999/2012, de 29 de junio, se
 hará al curso que corresponda, según se indica en el anexo VI.
 
@@ -833,7 +842,7 @@ ciales de Idiomas de la Comunidad de Madrid.
 3.
 Quedan derogadas las Órdenes 3661/2007, de 6 de julio, de la Consejera de Educa-
 ción, por la que se regula para la Comunidad de Madrid la implantación y la organización de
-las enseñanzas de idiomas de régimen especial derivadas de la Ley Orgánica 2/2006, de 3 de
+las enseñanzas de idiomas de régimen especial derivadas de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de
 mayo, de Educación; 1798/2008, de 7 de abril, de la Consejería de Educación, por la que se
 regula para la Comunidad de Madrid la evaluación en las Enseñanzas de Idiomas de Régimen
 Especial; 2318/2008, de 29 de abril, por la que se regula para la Comunidad de Madrid la prue-

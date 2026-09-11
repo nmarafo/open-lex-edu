@@ -25,8 +25,9 @@ tags:
 - maestros
 - centros_publicos
 - madrid
+fundamentos_derecho:
+- norma_id: norm-mad-l1-1983-gobierno-administracion-comunidad-madrid
 ---
-
 # Orden 2293/2013, de 15 de julio, por la que se establecen y/o modifican las plantillas de maestros, la composición de unidades y otros datos de determinados colegios de Educación Infantil y Primaria y de Educación Especial
 
 ## Preámbulo
@@ -41,7 +42,7 @@ Analizadas las necesidades de escolarización para el próximo curso académico 
 y realizadas las previsiones correspondientes, se hace necesario modificar la composición actual
 de determinados colegios de Educación Infantil y Primaria y de Educación Especial.
 Por ello, y en ejercicio de la competencia que me atribuye el artículo 41.d) de la
-Ley 1/1983, de 13 de diciembre, del Gobierno y Administración de la Comunidad de Madrid,
+[Ley 1/1983](../01_marco_normativo_general_y_organico/L1_1983_gobierno_administracion_comunidad_madrid.md), de 13 de diciembre, del Gobierno y Administración de la Comunidad de Madrid,
 y en virtud de lo dispuesto en el Decreto 126/2012, de 25 de octubre, del Consejo de Gobier-
 no, por el que se establece la estructura orgánica de la Consejería de Educación, Juventud y
 Deporte,

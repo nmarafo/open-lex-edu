@@ -35,8 +35,19 @@ relaciones:
   - norma_id: norm-and-l17-2007
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-l-39-2015
+fundamentos_derecho:
+- norma_id: norm-and-l12-2007-promocion-igualdad-genero-andalucia
+- norma_id: norm-and-l17-2007
+- norma_id: norm-and-l6-2006-gobierno-comunidad-autonoma-andalucia
+- norma_id: norm-and-l9-2007-administracion-junta-andalucia-laja
+- norma_id: norm-and-d285-2010-regulacion-sistema-informacion-seneca-andalucia
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-es-l-39-2015
+- norma_id: norm-es-l-40-2015
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
 ---
-
 # Orden de 19 de octubre de 2020, por la que se establece la ordenación de la evaluación del proceso de aprendizaje del alumnado de las enseñanzas artísticas superiores y se regula el sistema de reconocimiento y transferencia de créditos de estas enseñanzas.
 
 ## Preámbulo
@@ -45,17 +56,17 @@ Orden de 19 de octubre de 2020, por la que se establece la ordenación de
 la evaluación del proceso de aprendizaje del alumnado de las enseñanzas 
 artísticas superiores y se regula el sistema de reconocimiento y transferencia de 
 créditos de estas enseñanzas.
-La Ley Orgánica 2/2006, de 3 de mayo, de Educación, establece en la sección tercera 
+La [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, establece en la sección tercera 
 del Capítulo VI las enseñanzas artísticas superiores que agrupan los estudios superiores 
 de música y danza, las enseñanzas de arte dramático, las enseñanzas de conservación y 
 restauración de bienes culturales y los estudios superiores de artes plásticas y diseño. 
 El Real Decreto 1614/2009, de 26 de octubre, por el que se establece la ordenación 
-de las enseñanzas artísticas superiores reguladas por la Ley Orgánica 2/2006, de 3 de 
+de las enseñanzas artísticas superiores reguladas por la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de 
 mayo, de Educación, estipula ciertas disposiciones relativas al sistema de calificaciones 
 y al reconocimiento y transferencia de créditos. Algunos de estos aspectos han sido 
 objeto de revisión en el Real Decreto 21/2015, de 23 de enero, por el que se modifica el 
 Real Decreto 1614/2009, de 26 de octubre, por el que se establece la ordenación de las 
-enseñanzas artísticas superiores reguladas por la Ley Orgánica 2/2006, de 3 de mayo, 
+enseñanzas artísticas superiores reguladas por la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, 
 de Educación.
 Los Reales Decretos 630, 631, 632, 633, 634 y 635, de 14 de mayo de 2010, por 
 los que se regula el contenido básico, respectivamente, de las enseñanzas artísticas 
@@ -75,7 +86,7 @@ en el que se otorga un tratamiento integral al reconocimiento de estudios en ese
 basándose en el principio de que el reconocimiento de estudios debe partir de la similitud 
 entre las competencias, conocimientos y resultados de aprendizaje que proporcionan los 
 estudios superados y los que se pretenden cursar.
-La Ley 17/2007, de 10 de diciembre, de Educación de Andalucía, regula en la sección 
+La [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre, de Educación de Andalucía, regula en la sección 
 tercera del Capítulo VI las enseñanzas artísticas superiores.
 Los Decretos 258, 259 y 260, de 16 de julio de 2011, por los que se establecen, 
 respectivamente, las enseñanzas artísticas superiores de Danza, de Arte Dramático y de 
@@ -140,7 +151,7 @@ de él. Por último, mediante la presente orden se determina que los documentos 
 de evaluación de las enseñanzas artísticas superiores son el expediente académico 
 personal y las actas de calificación.
 La presente orden se ha elaborado atendiendo a los principios de buena regulación 
-contenidos en el artículo 129 de la Ley 39/2015, de 1 de octubre, del Procedimiento 
+contenidos en el artículo 129 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento 
 Administrativo Común de las Administraciones Públicas, así como en el artículo 7 del 
 Decreto 622/2019, de 27 de diciembre, de administración electrónica, simplificación de 
 procedimientos y racionalización organizativa de la Junta de Andalucía sobre los principios 
@@ -155,13 +166,13 @@ con el ordenamiento jurídico y permitiendo una gestión más eficiente de los r
 públicos, por lo que quedan justificados los objetivos que persigue la Ley. Además, en el 
 procedimiento de elaboración de esta orden se ha permitido y facilitado la participación y 
 las aportaciones de las personas potenciales destinatarias a través de los procedimientos 
-de audiencia e información pública regulados en el artículo 133 de la citada Ley 39/2015, 
+de audiencia e información pública regulados en el artículo 133 de la citada [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), 
 de 1 de octubre.
 Por todo ello, a propuesta de la persona titular de la Dirección General de Ordenación 
 y Evaluación Educativa, de conformidad con lo previsto en el artículo 10.2.b) del Decreto 
 102/2019, de 12 de febrero, por el que se establece la estructura orgánica de la Consejería 
 de Educación y Deporte, y en uso de las atribuciones conferidas por el artículo 44.2 de la 
-Ley 6/2006, de 24 de octubre, del Gobierno de la Comunidad Autónoma de Andalucía, 
+[Ley 6/2006](../01_marco_normativo_general_y_organico/L6_2006_gobierno_comunidad_autonoma_andalucia.md), de 24 de octubre, del Gobierno de la Comunidad Autónoma de Andalucía, 
 D I S P O N G O
  CAPÍTULO I
 Disposiciones generales
@@ -176,7 +187,7 @@ Danza, de Diseño y de Música, así como el sistema de reconocimiento y transfe
 créditos de estas enseñanzas.
 2. Conforme al artículo 4.1 del Real Decreto 1614/2009, de 26 de octubre, por el que 
 se establece la ordenación de las enseñanzas artísticas superiores reguladas por la 
-Ley Orgánica 2/2006, de 3 de mayo, de Educación, el haber académico que representa 
+[Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, el haber académico que representa 
 el cumplimiento de los objetivos previstos en los planes de estudios conducentes a la 
 obtención de títulos oficiales de enseñanzas artísticas superiores se medirá en créditos 
 ECTS. En esta unidad de medida se integran las enseñanzas teóricas y prácticas, así 
@@ -280,7 +291,7 @@ TFE, son los especificados en los correspondientes planes de estudios.
 para cada asignatura, de conformidad con lo establecido en los planes de estudio 
 correspondientes.
 3. Realizada la evaluación correspondiente, y según con lo dispuesto en el artículo 
-13 d) de la Ley 39/2015, de 1 de octubre, referido a los derechos de las personas en 
+13 d) de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, referido a los derechos de las personas en 
 sus relaciones con las Administraciones Públicas, el profesorado deberá facilitar en los 
 términos establecidos en la guía docente, a petición del alumnado, toda la información 
 que se derive de los documentos, registros, anotaciones o pruebas utilizados para la 
@@ -338,7 +349,7 @@ Información Séneca y podrá ser consultada a través del módulo Pasen por el 
 la dirección del centro formados por un número impar de miembros, con un mínimo de 
 tres y un máximo de cinco. A fin de garantizar la representación equilibrada de mujeres y 
 hombres en la composición de los tribunales se actuará de acuerdo con lo previsto en el 
-artículo 11.2 de la Ley 12/2007, de 26 de noviembre, para la promoción de la igualdad de 
+artículo 11.2 de la [Ley 12/2007](../01_marco_normativo_general_y_organico/L12_2007_promocion_igualdad_genero_andalucia.md), de 26 de noviembre, para la promoción de la igualdad de 
 género en Andalucía.
 2. La composición de los citados tribunales será la siguiente:
 a) La Presidencia, que será ostentada por el jefe o jefa del departamento correspondiente, 
@@ -363,9 +374,9 @@ parte del tribunal que evalúe el TFE de su alumnado.
 en los que una misma persona podrá ejercer la presidencia.
 5. Aquellos aspectos de funcionamiento de los tribunales no regulados en la presente 
 orden se regirán por lo establecido en la subsección 1.ª, sección 3.ª, del Capítulo II del 
-Título Preliminar de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector 
+Título Preliminar de la [Ley 40/2015](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md), de 1 de octubre, de Régimen Jurídico del Sector 
 Público, y por lo dispuesto en el artículo 19 y en la sección 1.ª del Capítulo II del Título IV, 
-así como, en el artículo 91.3 de la Ley 9/2007, de 22 de octubre, de la Administración de 
+así como, en el artículo 91.3 de la [Ley 9/2007](../01_marco_normativo_general_y_organico/L9_2007_administracion_junta_andalucia_laja.md), de 22 de octubre, de la Administración de 
 la Junta de Andalucía.
 #### Artículo 9. Convocatorias ordinarias de pruebas de evaluación.
 1. El alumnado tendrá derecho a dos convocatorias de pruebas de evaluación, por 
@@ -414,15 +425,15 @@ suficiente antelación.
 2. La solicitud de la convocatoria extraordinaria se presentará en la secretaría del 
 centro docente donde se estén cursando las enseñanzas pudiendo hacerlo también, a 
 través de medios electrónicos, en consideración con lo dispuesto en el artículo 14.1 de 
-la Ley 39/2015, de 1 de octubre. La persona titular de la dirección del centro resolverá y 
+la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre. La persona titular de la dirección del centro resolverá y 
 notificará la resolución de la solicitud en un plazo máximo de 10 días hábiles contados 
 desde la fecha de entrada de esta solicitud en el registro del centro. Contra dicha 
 resolución, las personas interesadas podrán interponer en el plazo máximo de un mes, a 
 partir del día siguiente a aquel en que tenga lugar la notificación, recurso de alzada ante 
 la persona titular de la Delegación Territorial que tenga adscritos los servicios periféricos 
 de la Consejería competente en materia de educación, conforme a lo establecido en los 
-artículos 112.1, 121 y 122 de la Ley 39/2015, de 1 de octubre, y en el artículo 115.1 de la 
-Ley 9/2007, de 22 de octubre.
+artículos 112.1, 121 y 122 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, y en el artículo 115.1 de la 
+[Ley 9/2007](../01_marco_normativo_general_y_organico/L9_2007_administracion_junta_andalucia_laja.md), de 22 de octubre.
 3. Únicamente podrán participar en la convocatoria extraordinaria de alguna 
 asignatura aquellos alumnos y alumnas que, estando matriculados en la misma durante 
 el curso actual, también lo hubieran estado anteriormente. No obstante lo anterior, en 
@@ -468,7 +479,7 @@ enfermedad grave.
 de cada año, en la secretaría del centro docente donde la persona solicitante cursó por 
 última vez la asignatura o asignaturas para las que solicita convocatoria adicional, sin 
 perjuicio de que solicite o tenga concedido un traslado de matrícula. Asimismo, podrá 
-presentarse en los registros y oficinas indicados en el artículo 16 de la Ley 39/2015, de 1 de 
+presentarse en los registros y oficinas indicados en el artículo 16 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de 
 octubre. Dicha solicitud se cumplimentará según el modelo que figura en el Anexo I de esta 
 orden e irá acompañada de la documentación, especificada a continuación, que acredite 
 la concurrencia de alguna de las circunstancias señaladas en el apartado anterior: 
@@ -499,8 +510,8 @@ procedimientos y racionalización organizativa de la Junta de Andalucía. Contra
 resolución, las personas interesadas podrán interponer en el plazo máximo de un mes, 
 contado a partir del día siguiente a aquel en que tenga lugar la notificación, recurso de 
 alzada ante la persona titular de la Delegación Territorial competente en materia de 
-educación, conforme a lo establecido en los artículos 112.1, 121 y 122 de la Ley 39/2015, 
-de 1 de octubre, y en el artículo 115.1 de la Ley 9/2007, de 22 de octubre. 
+educación, conforme a lo establecido en los artículos 112.1, 121 y 122 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), 
+de 1 de octubre, y en el artículo 115.1 de la [Ley 9/2007](../01_marco_normativo_general_y_organico/L9_2007_administracion_junta_andalucia_laja.md), de 22 de octubre. 
 5. Una vez concedida la convocatoria adicional, el alumnado formalizará la matrícula 
 correspondiente, debiendo presentarse a la prueba de evaluación en cualquiera de las 
 convocatorias pertenecientes al curso académico a la concesión de la convocatoria 
@@ -529,7 +540,7 @@ las enseñanzas artísticas superiores, se presentará antes del 30 de octubre d
 académico en el que quiera continuar cursando las enseñanzas, en el centro docente 
 en el que el alumnado hubiera estado matriculado, adjuntándose la documentación que 
 justifique las circunstancias que motivan dicha solicitud. No obstante, podrá presentarse 
-dicha solicitud en los registros y oficinas indicados en el artículo 16 de la Ley 39/2015, de 
+dicha solicitud en los registros y oficinas indicados en el artículo 16 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 
 1 de octubre.
 5. La persona titular de la dirección del centro, una vez comprobado que la 
 documentación presentada acredita la circunstancia alegada, remitirá la documentación 
@@ -543,7 +554,7 @@ del Decreto 622/2019, de 27 de diciembre. Contra dicha resolución, las personas
 interesadas podrán presentar en el plazo máximo de un mes, contado a partir de la fecha 
 de su notificación recurso de alzada ante la persona titular de la Secretaría General de 
 Educación y Formación Profesional, conforme a lo establecido en los artículos 112.1, 121 
-y 122 de la Ley 39/2015, de 1 de octubre, y en el artículo 115.1 de la Ley 9/2007, de 22 de 
+y 122 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, y en el artículo 115.1 de la [Ley 9/2007](../01_marco_normativo_general_y_organico/L9_2007_administracion_junta_andalucia_laja.md), de 22 de 
 octubre.
 6. El vencimiento del plazo máximo de un mes sin haberse notificado resolución 
 expresa legitima a la persona interesada para entenderla desestimada por silencio 
@@ -565,7 +576,7 @@ aquel en que se produjo su comunicación.
 alegaciones justifiquen la disconformidad con la calificación final obtenida. Dicho trámite 
 podrá realizarse igualmente a través de la Secretaria Virtual de los Centros Educativos de 
 la Consejería competente en materia de educación. Asimismo, podrá presentarse dicha 
-solicitud en los registros y oficinas indicados en el artículo 16 de la Ley 39/2015, de 1 de 
+solicitud en los registros y oficinas indicados en el artículo 16 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de 
 octubre.
 3. La solicitud de revisión será tramitada por la jefatura de estudios, quien la trasladará 
 al jefe o jefa del departamento correspondiente y comunicará tal circunstancia al profesor 
@@ -603,7 +614,7 @@ del alumno o alumna. Así mismo podrán incluirse cuantas nuevas alegaciones pud
 presentar la persona reclamante, en cuyo caso se acompañará informe de la persona que 
 desempeñe la dirección del centro.
 3. A tal efecto se creará, de acuerdo con lo dispuesto en la Sección 1.ª del Capítulo II 
-del Título IV de la Ley 9/2007, de 22 de octubre, la Comisión Técnica de Reclamaciones 
+del Título IV de la [Ley 9/2007](../01_marco_normativo_general_y_organico/L9_2007_administracion_junta_andalucia_laja.md), de 22 de octubre, la Comisión Técnica de Reclamaciones 
 de Enseñanzas Artísticas Superiores, que estará compuesta al menos por tres miembros: 
 un inspector o inspectora de educación, a quien corresponderá la Presidencia de la 
 Comisión, y por al menos dos profesores o profesoras especialistas, actuando como 
@@ -613,7 +624,7 @@ serán designados por el Delegado o Delegada Territorial con competencias en mat
 educación. En los casos de vacante, ausencia o enfermedad, los miembros de la Comisión 
 serán sustituidos por las personas suplentes que, al tiempo de su nombramiento, se hayan 
 designado. En dicha designación, a fin de garantizar la representación equilibrada de 
-mujeres y hombres, deberá observar lo preceptuado en el artículo 11.2 de la Ley 12/2007, 
+mujeres y hombres, deberá observar lo preceptuado en el artículo 11.2 de la [Ley 12/2007](../01_marco_normativo_general_y_organico/L12_2007_promocion_igualdad_genero_andalucia.md), 
 de 26 de noviembre.
 En el caso de que el profesorado especialista necesario no pertenezca al ámbito 
 de gestión de la Delegación Territorial competente, los miembros de la citada Comisión 
@@ -780,7 +791,7 @@ estudiantil, solidarias y de cooperación».
 1. La solicitud de reconocimiento de créditos se cumplimentará según el modelo que 
 figura en el Anexo III y se presentará preferentemente en el lugar de la realización de la 
 matrícula del curso correspondiente. No obstante, podrá presentarse dicha solicitud en 
-los registros y oficinas indicados en el artículo 16 de la Ley 39/2015, de 1 de octubre. 
+los registros y oficinas indicados en el artículo 16 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre. 
 2. La solicitud de reconocimiento de créditos deberá dirigirse a la persona titular de la 
 dirección del centro en el que se encuentre matriculado el alumnado.
 3. Con carácter general, únicamente se admitirán a trámite las solicitudes presentadas 
@@ -859,8 +870,8 @@ a lo regulado en el artículo 17 y 18.6. Actuará como secretario o secretaria e
 profesora de menor edad, de entre los miembros de la Comisión.
 2. Aquellos aspectos de funcionamiento de las comisiones no regulados en la presente 
 orden se regirán por lo establecido en la subsección 1.ª, sección 3.ª, del Capítulo II del 
-Título Preliminar de la Ley 40/2015, de 1 de octubre, y por lo dispuesto en el artículo 19 y 
-en la sección 1.ª del Capítulo II del Título IV, así como, en el artículo 91.3 de la Ley 9/2007, 
+Título Preliminar de la [Ley 40/2015](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md), de 1 de octubre, y por lo dispuesto en el artículo 19 y 
+en la sección 1.ª del Capítulo II del Título IV, así como, en el artículo 91.3 de la [Ley 9/2007](../01_marco_normativo_general_y_organico/L9_2007_administracion_junta_andalucia_laja.md), 
 de 22 de octubre.
 4. Esta Comisión resolverá el reconocimiento de:
 a) Asignaturas pertenecientes a las enseñanzas que se imparten en el centro:
@@ -911,7 +922,7 @@ interesadas podrán interponer en el plazo máximo de un mes, a partir del día 
 a aquel en que tenga lugar la notificación recurso de alzada ante la persona titular de 
 la Delegación Territorial que tenga adscritos los servicios periféricos de la Consejería 
 competente en materia de educación, conforme a lo establecido en los artículos 112.1, 
-121 y 122 de la Ley 39/2015, de 1 de octubre, y en el artículo 115.1 de la Ley 9/2007, de 
+121 y 122 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, y en el artículo 115.1 de la [Ley 9/2007](../01_marco_normativo_general_y_organico/L9_2007_administracion_junta_andalucia_laja.md), de 
 22 de octubre. 
 3. El vencimiento del plazo máximo de tres meses sin haberse notificado resolución 
 expresa legitima a la persona interesada para entenderla desestimada por silencio 
@@ -977,8 +988,8 @@ persona interesada y quedará recogida en su expediente académico.
 máximo de un mes, a partir del día siguiente a aquel en que tenga lugar la notificación 
 recurso de alzada ante la persona titular de la Delegación Territorial que tenga adscritos 
 los servicios periféricos de la Consejería competente en materia de educación, conforme 
-a lo establecido en los artículos 112.1, 121 y 122 de la Ley 39/2015, de 1 de octubre, y en 
-el artículo 115.1 de la Ley 9/2007, de 22 de octubre.
+a lo establecido en los artículos 112.1, 121 y 122 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, y en 
+el artículo 115.1 de la [Ley 9/2007](../01_marco_normativo_general_y_organico/L9_2007_administracion_junta_andalucia_laja.md), de 22 de octubre.
 5. El vencimiento del plazo máximo de tres meses sin haberse notificado resolución 
 expresa legítima a la persona interesada para entenderla desestimada por silencio 
 administrativo.
@@ -1049,7 +1060,7 @@ de la titulación; información adicional; certificación del suplemento e infor
 sistema nacional de educación superior.
 5. De conformidad con el artículo 8 del Real Decreto 1850/2009, de 4 de diciembre, 
 sobre expedición de títulos académicos y profesionales correspondientes a las 
-enseñanzas establecidas por la Ley Orgánica 2/2006, de 3 de mayo, de Educación, una 
+enseñanzas establecidas por la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, una 
 vez expedido un Suplemento Europeo al Título, en el caso de superarse otros itinerarios 
 del mismo título y especialidad, la información correspondiente a las enseñanzas de 
 cada nuevo itinerario superado se incorporará al Suplemento mediante la adición de un 
@@ -1067,7 +1078,7 @@ evaluación.
 1. Los centros docentes cumplimentarán electrónicamente los documentos oficiales 
 de evaluación recogidos en la presente orden, a través de los módulos correspondientes 
 incorporados al sistema de información Séneca, en aplicación de lo establecido en el 
-artículo 13.1 del Decreto 285/2010, de 11 de mayo, por el que se regula el Sistema de 
+artículo 13.1 del [Decreto 285/2010](../02_gestion_y_administracion_centros/D285_2010_regulacion_sistema_informacion_seneca_andalucia.md), de 11 de mayo, por el que se regula el Sistema de 
 Información Séneca y se establece su utilización para la gestión del sistema educativo 
 andaluz. 
 2. Los procedimientos de validación de estos documentos garantizarán su 
@@ -1122,7 +1133,7 @@ Información Séneca, podrá ser consultada a través del módulo Pasen por los 
 madres o personas que ejerzan su tutela legal del alumnado, en caso de minoría de 
 edad.
 ### Disposición adicional quinta. Secretaria virtual y ventanilla electrónica.
-En virtud del artículo 14.1 de la Ley 39/2015, de 1 de octubre, los centros docentes 
+En virtud del artículo 14.1 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, los centros docentes 
 facilitarán la tramitación electrónica de todos aquellos procedimientos que deban realizar 
 el alumnado o las familias. Asimismo, en aplicación del artículo 29 del Decreto 622/2019, 
 de 27 de diciembre, los procesos de intercambio de información entre la Administración 

@@ -34,8 +34,9 @@ relaciones:
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-l-39-2015
   - norma_id: norm-es-l-40-2015
+fundamentos_derecho:
+- norma_id: norm-and-l17-2007
 ---
-
 # Resolución de la Viceconsejería de Desarrollo Educativo y Formación Profesional, por la que se dictan instrucciones sobre la organización y funcionamiento de los centros docentes públicos no universitarios para el curso escolar 2025-2026.
 
 ## Preámbulo

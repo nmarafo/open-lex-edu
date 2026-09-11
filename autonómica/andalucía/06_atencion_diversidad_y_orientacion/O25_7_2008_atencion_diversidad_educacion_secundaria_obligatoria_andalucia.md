@@ -33,8 +33,9 @@ relaciones:
   - norma_id: norm-and-l17-2007
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-lo-1-1996
+fundamentos_derecho:
+- norma_id: norm-and-l17-2007
 ---
-
 # Orden de 25 de julio de 2008, por la que se regula la atención a la diversidad del alumnado que cursa la Educación Secundaria Obligatoria.
 
 ## Preámbulo

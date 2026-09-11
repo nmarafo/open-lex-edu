@@ -66,15 +66,17 @@ relaciones:
   - norma_id: norm-can-l-4-2023
 anexos_extraidos_pdf: true
 ocr_procesado: true
+fundamentos_derecho:
+- norma_id: norm-can-l-4-2023
+- norma_id: norm-mad-l4-2023
 ---
-
 # Decreto 123/2023, de 17 de julio, por el que se determina la estructura orgánica y las sedes de las Consejerías del Gobierno de Canarias.
 
 ## Preámbulo
 
-El artículo 31 de la Ley 4/2023, de 23 de marzo, de la Presidencia y del Gobierno de Canarias, atribuye al Gobierno la competencia para aprobar la estructura orgánica y las sedes de las Consejerías.
+El artículo 31 de la [Ley 4/2023](./L4_2023_presidencia_gobierno_canarias.md), de 23 de marzo, de la Presidencia y del Gobierno de Canarias, atribuye al Gobierno la competencia para aprobar la estructura orgánica y las sedes de las Consejerías.
 
-Al amparo de dicha habilitación y una vez determinado el número, denominación, competencias y orden de precedencia de las Consejerías por el Decreto 41/2023, de 14 de julio, del Presidente, con el presente Decreto se procede, por una parte, a la determinación de la estructura orgánica de las mismas, sin perjuicio de su ulterior desarrollo por los Reglamentos Orgánicos, y por otra, dado el cambio de denominación y del ámbito funcional de varias Consejerías, se procede a la determinación de las sedes de las mismas, de acuerdo con los principios y criterios de la citada Ley 4/2023, de 23 de marzo.
+Al amparo de dicha habilitación y una vez determinado el número, denominación, competencias y orden de precedencia de las Consejerías por el Decreto 41/2023, de 14 de julio, del Presidente, con el presente Decreto se procede, por una parte, a la determinación de la estructura orgánica de las mismas, sin perjuicio de su ulterior desarrollo por los Reglamentos Orgánicos, y por otra, dado el cambio de denominación y del ámbito funcional de varias Consejerías, se procede a la determinación de las sedes de las mismas, de acuerdo con los principios y criterios de la citada [Ley 4/2023](./L4_2023_presidencia_gobierno_canarias.md), de 23 de marzo.
 
 En su virtud, a propuesta del Presidente y previa deliberación del Gobierno en su reunión celebrada el día 17 de julio de 2023,
 

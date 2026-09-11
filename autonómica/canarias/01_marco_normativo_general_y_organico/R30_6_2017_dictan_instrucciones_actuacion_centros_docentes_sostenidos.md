@@ -91,8 +91,22 @@ relaciones:
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2017-132-3376.pdf
 anexos_extraidos_pdf: true
 ocr_procesado: true
+fundamentos_derecho:
+- norma_id: norm-can-l-6-2014
+- norma_id: norm-can-d-106-2009
+- norma_id: norm-can-d-81-2010
+- norma_id: norm-can-o-2013-10-09
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-can-o-2007-03-27
+- norma_id: norm-can-d-114-2011
+- norma_id: norm-can-o-2014-06-27
+- norma_id: norm-es-2015-8470
+- norma_id: norm-es-l-40-2015
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-2015-8222
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
 ---
-
 # Resolución de 30 de junio de 2017, de la Dirección General de Centros e Infraestructura Educativa, por la que se dictan instrucciones para la actuación de los centros docentes sostenidos con fondos públicos, en los casos de padres, madres, separados, divorciados, que hayan finalizado su convivencia, o representantes legales, respecto a sus descendientes o representados, menores de edad, en el ámbito de las enseñanzas no universitarias de la Comunidad Autónoma de Canarias (BOC n.º 132, de 11 de julio).
 
 ## Preámbulo
@@ -107,8 +121,8 @@ Estas instrucciones pretenden guiar, fundamentalmente, al personal de los centro
 3) [Decreto 106/2009](../04_organizacion_escolar_y_funcionamiento/D106_2009_regula_funcion_directiva_centros_docentes_publicos.md), de 28 de julio, por el que se regula la función directiva en los centros docentes públicos no universitarios dependientes de la Comunidad Autónoma de Canarias (BOC nº 165, de 11 de agosto).
 4) [Decreto 81/2010](../04_organizacion_escolar_y_funcionamiento/D81_2010_aprueba_reglamento_organico_centros_docentes_publicos.md), de 8 de julio, por el que se aprueba el Reglamento Orgánico de los centros docentes públicos no universitarios de la Comunidad Autónoma de Canarias (BOC nº 143, de 22 de julio).
 5) [Decreto 114/2011](../07_convivencia_bienestar_y_protocolos/D114_2011_regula_convivencia_ambito_educativo_comunidad_autonoma.md), de 11 de mayo, por el que se regula la convivencia en el ámbito educativo de la Comunidad Autónoma de Canarias (BOC nº 108, de 2 de junio).
-6) Orden de 27 de marzo de 2007, por la que se desarrolla el procedimiento de admisión del alumnado en las enseñanzas no universitarias en los centros docentes públicos y privados concertados de la Comunidad Autónoma de Canarias (BOC nº 70, de 9 de abril).
-7) Orden de 15 de marzo de 2017, por la que se modifica la Orden de 27 de marzo de 2007, que desarrolla el procedimiento de admisión del alumnado en las enseñanzas no universitarias en los centros docentes públicos y privados concertados de la Comunidad Autónoma de Canarias (BOC nº 58, de 23 de marzo).
+6) [Orden de 27 de marzo de 2007](../05_alumnado_y_servicios_escolares/O27_3_2007_desarrolla_procedimiento_admision_alumnado_ensenanzas_no_universitarias.md), por la que se desarrolla el procedimiento de admisión del alumnado en las enseñanzas no universitarias en los centros docentes públicos y privados concertados de la Comunidad Autónoma de Canarias (BOC nº 70, de 9 de abril).
+7) Orden de 15 de marzo de 2017, por la que se modifica la [Orden de 27 de marzo de 2007](../05_alumnado_y_servicios_escolares/O27_3_2007_desarrolla_procedimiento_admision_alumnado_ensenanzas_no_universitarias.md), que desarrolla el procedimiento de admisión del alumnado en las enseñanzas no universitarias en los centros docentes públicos y privados concertados de la Comunidad Autónoma de Canarias (BOC nº 58, de 23 de marzo).
 8) [Orden de 9 de octubre de 2013](../04_organizacion_escolar_y_funcionamiento/O9_10_2013_desarrolla_decreto_aprueba_reglamento_organico_centros.md), por la que se desarrolla el [Decreto 81/2010](../04_organizacion_escolar_y_funcionamiento/D81_2010_aprueba_reglamento_organico_centros_docentes_publicos.md), de 8 de julio, por el que se aprueba el Reglamento Orgánico de los centros docentes públicos no universitarios de la Comunidad Autónoma de Canarias, en lo referente a su organización y funcionamiento (BOC nº 200, de 16 de octubre).
 
 Considerando todo lo expuesto anteriormente, consultadas la Inspección de Educación y las Direcciones Territoriales de Educación; y en uso de las atribuciones que me son propias, conforme al artículo 10 l [Decreto.
@@ -223,7 +237,7 @@ Si la custodia es compartida o convive por igual con ambos progenitores, o el r�
 
 #### Sexta. Derecho de información de los padres, las madres o las personas representantes legales.
 
-1. Regulación. Los padres, las madres o las personas representantes legales tienen el derecho a recibir información sobre el proceso escolar y la integración socioeducativa de sus hijos, hijas o alumnado representado, siempre que mantengan la patria potestad sobre ellos. En los casos de separación, divorcio o nulidad, se aplicará el artículo 51 de la referida Orden de 9 de octubre de 2013, que establece lo siguiente:
+1. Regulación. Los padres, las madres o las personas representantes legales tienen el derecho a recibir información sobre el proceso escolar y la integración socioeducativa de sus hijos, hijas o alumnado representado, siempre que mantengan la patria potestad sobre ellos. En los casos de separación, divorcio o nulidad, se aplicará el artículo 51 de la referida [Orden de 9 de octubre de 2013](../04_organizacion_escolar_y_funcionamiento/O9_10_2013_desarrolla_decreto_aprueba_reglamento_organico_centros.md), que establece lo siguiente:
 a) El padre o la madre que no tenga la guarda y custodia legal de sus hijos o hijas y desee recibir dicha información deberá solicitarla al centro educativo mediante escrito, dirigido a la dirección, que acompañará de una copia fehaciente de la resolución judicial (auto o sentencia) de separación, divorcio o nulidad en lo que concierne únicamente a los elementos conclusivos de la misma.
 b) Si la resolución judicial contuviera una declaración expresa sobre aspectos que incidan en el proceso escolar, los centros se atendrán estrictamente a lo que en ella se disponga.
 c) Si la resolución judicial no contuviera ninguna limitación, el centro deberá remitir información sobre el rendimiento escolar de su hijo o hija al progenitor que no tiene encomendada su guarda y custodia, siempre que no haya sido privado de la patria potestad, en cuyo caso, no se le entregará información, salvo por orden judicial.
@@ -312,7 +326,7 @@ presenta con un documento emitido por un Juzgado o Tribunal se estará a lo que 
 a) **Patria Potestad.** Conjunto de facultades y deberes que corresponden a los padres, las madres y las personas representantes legales para el cumplimiento de su función de asistencia, educación y cuidado de los menores. Se ejerce conjuntamente por ambos progenitores o por uno solo, con el consentimiento expreso o tácito del otro. Además, serán válidos aquellos actos que realice uno de ellos conforme al uso social y a las circunstancias de urgente necesidad. En caso de desacuerdo, cualquiera de los dos podría acudir al juez.
 b) **Guarda y custodia.** La guarda y custodia es uno de los elementos que componen las obligaciones de la patria potestad. Es el derecho-deber de tener a los hijos o las hijas en su compañía, y prestarle la atención inmediata en las necesidades de la vida diaria. En los casos de nulidad, divorcio o separación, serán los juzgados y tribunales los que establezcan si la guarda y custodia la tiene uno solo de los progenitores o esta se establece, de manera compartida, además del régimen de visitas o convivencia con el otro progenitor.
 c) **Violencia de género.** Toda acción de naturaleza física, psíquica, sexual o económica, directa o indirecta, sobre las mujeres, no deseada por estas, que tiene como resultado real o posible un daño físico, sexual o psicológico de la víctima, tanto si se ejerce en el ámbito público como en el privado, independientemente de la relación que la víctima guarde con el agresor y del lugar en el que se produzca la violencia, que se ejerce prevaliéndose de una relación de dominación-sometimiento del agresor respecto a la víctima, o de poder-dependencia, basada en la desigualdad de roles de género.
-d) **Mediación.** Es un procedimiento establecido en la Orden de 27 de junio de 2014, por la que se regula la gestión del conflicto de convivencia por el procedimiento de mediación para gestionar conflictos surgidos en los centros educativos y que puede ser aplicado para facilitar la solución a las controversias entre los progenitores del alumnado que incidan directamente en el ámbito escolar. Se basa en el diálogo a través de un encuentro voluntario entre las partes implicadas y la persona mediadora, quien siendo ajena al conflicto y actuando de forma imparcial les ayuda a comunicarse. El objetivo es que las partes encuentren y decidan
+d) **Mediación.** Es un procedimiento establecido en la [Orden de 27 de junio de 2014](../07_convivencia_bienestar_y_protocolos/O27_6_2014_regula_gestion_conflicto_convivencia_procedimiento_mediacion_centros_educativos.md), por la que se regula la gestión del conflicto de convivencia por el procedimiento de mediación para gestionar conflictos surgidos en los centros educativos y que puede ser aplicado para facilitar la solución a las controversias entre los progenitores del alumnado que incidan directamente en el ámbito escolar. Se basa en el diálogo a través de un encuentro voluntario entre las partes implicadas y la persona mediadora, quien siendo ajena al conflicto y actuando de forma imparcial les ayuda a comunicarse. El objetivo es que las partes encuentren y decidan
 
 de común acuerdo la manera de solucionar el problema que les mantenía en conflicto. El acuerdo alcanzado debe ser satisfactorio para ambas partes.
 e) Documentos judiciales con decisiones que pueden afectar a los menores en el centro. Los centros educativos pueden tener conocimiento de resoluciones de los jueces y tribunales de justicia en forma de autos o sentencias, que pueden afectar a su alumnado y ser dictadas, sobre todo, en procedimientos civiles.

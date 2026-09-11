@@ -259,8 +259,10 @@ relaciones:
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2014-152-3511.pdf
 anexos_extraidos_pdf: true
 ocr_procesado: true
+fundamentos_derecho:
+- norma_id: norm-can-l-13-2003
+- norma_id: norm-es-2002-12018
 ---
-
 # Ley 6/2014, de 25 de julio, Canaria de Educación no Universitaria.
 
 ## Preámbulo
@@ -1079,7 +1081,7 @@ e) Otras manifestaciones artísticas que el Gobierno determine.
 
 2. Para el logro de la finalidad propuesta, la administración educativa podrá colaborar con otras administraciones públicas con competencias en la formación de personas adultas y, en especial, con la administración laboral, así como con las corporaciones locales y los diversos agentes sociales.
 
-3. Los objetivos de estas enseñanzas, su organización y el acceso, la evaluación y la obtención del título correspondiente se realizarán de acuerdo con lo recogido en la normativa básica del Estado, así como con lo dispuesto en Ley 13/2003, de 4 de abril , de Educación y Formación Permanente de Personas Adultas de Canarias
+3. Los objetivos de estas enseñanzas, su organización y el acceso, la evaluación y la obtención del título correspondiente se realizarán de acuerdo con lo recogido en la normativa básica del Estado, así como con lo dispuesto en [Ley 13/2003](./L13_2003_educacion_formacion_permanente_personas_adultas_canarias.md), de 4 de abril , de Educación y Formación Permanente de Personas Adultas de Canarias
 
 [Bloque 52: #a3-11]
 

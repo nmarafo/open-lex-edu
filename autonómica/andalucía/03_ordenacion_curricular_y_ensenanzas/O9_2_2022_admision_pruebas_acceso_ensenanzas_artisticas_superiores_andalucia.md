@@ -35,8 +35,20 @@ relaciones:
   - norma_id: norm-and-l17-2007
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-l-39-2015
+fundamentos_derecho:
+- norma_id: norm-and-l17-2007
+- norma_id: norm-and-l9-2007-administracion-junta-andalucia-laja
+- norma_id: norm-and-d-152-2020
+- norma_id: norm-and-o-9-11-2020
+- norma_id: norm-and-o-19-10-2020
+- norma_id: norm-and-d-21-2020
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-es-l-39-2015
+- norma_id: norm-es-l-40-2015
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
 ---
-
 # Orden de 9 de febrero de 2022, por la que se regulan en la Comunidad Autónoma de Andalucía el acceso, los criterios, los procedimientos de admisión y matriculación del alumnado de enseñanzas artísticas superiores en los centros docentes públicos, así como las pruebas de acceso a las mismas.
 
 ## Preámbulo
@@ -45,7 +57,7 @@ Orden de 9 de febrero de 2022, por la que se regulan en la Comunidad
 Autónoma de Andalucía el acceso, los criterios, los procedimientos de admisión 
 y matriculación del alumnado de enseñanzas artísticas superiores en los centros 
 docentes públicos, así como las pruebas de acceso a las citadas enseñanzas.
-La Ley Orgánica 2/2006, de 3 de mayo, de Educación, establece en sus artículos 54, 55, 
+La [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, establece en sus artículos 54, 55, 
 56 y 57, las condiciones de acceso, respectivamente, a los estudios superiores de Grado 
 en música y danza, a las enseñanzas artísticas superiores de Grado en arte dramático, 
 a las enseñanzas de conservación y restauración de bienes culturales y a los estudios 
@@ -54,9 +66,9 @@ superado la prueba específica de acceso a la universidad para mayores de 25 añ
 algunos casos, así como la superación de las correspondientes pruebas específicas a 
 que se refieren los citados artículos. Dichas condiciones quedan igualmente establecidas 
 en el Real Decreto 1614/2009, de 26 de octubre, por el que se establece la ordenación 
-de las enseñanzas artísticas superiores reguladas por la Ley Orgánica 2/2006, de 3 de 
+de las enseñanzas artísticas superiores reguladas por la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de 
 mayo, de Educación.
-Por otra parte, la mencionada Ley Orgánica 2/2006, de 3 de mayo, dispone en su 
+Por otra parte, la mencionada [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, dispone en su 
 artículo 69.5 que los mayores de dieciocho años de edad podrán acceder directamente 
 a las enseñanzas artísticas superiores mediante la superación de una prueba específica, 
 regulada y organizada por las Administraciones educativas, que acredite que el 
@@ -65,7 +77,7 @@ aprovechamiento las correspondientes enseñanzas. Asimismo, dispone que la edad
 mínima de acceso a los estudios superiores de música o de danza es de dieciséis años.
 Este requisito queda también regulado en la disposición adicional octava del 
 Real Decreto 1614/2009, de 26 de octubre, donde se establece que, con carácter de 
-excepcionalidad y de acuerdo con el artículo 69.5 de la Ley Orgánica 2/2006, de 3 de 
+excepcionalidad y de acuerdo con el artículo 69.5 de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de 
 mayo, las Administraciones educativas podrán establecer el acceso directo de los 
 mayores de 18 años de edad a las enseñanzas artísticas superiores en general mediante 
 la superación de una prueba específica, regulada y organizada por las Administraciones 
@@ -75,13 +87,13 @@ así como el acceso directo a los estudios superiores de música o de danza de l
 de 16 años en las mismas condiciones.
 Además, tanto el Real Decreto 631/2010, de 14 de mayo, por el que se regula el 
 contenido básico de las enseñanzas artísticas superiores de Grado en Música establecidas 
-en la Ley Orgánica 2/2006, de 3 de mayo, de Educación como el Real Decreto 632/2010, 
+en la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación como el Real Decreto 632/2010, 
 de 14 de mayo, por el que se regula el contenido básico de las enseñanzas artísticas 
-superiores de Grado en Danza establecidas en la Ley Orgánica 2/2006, de 3 de mayo, de 
+superiores de Grado en Danza establecidas en la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de 
 Educación, recogen lo establecido en los Reales Decretos 1577/2006, de 22 de diciembre, 
 y 85/2007, de 26 de enero, por los que se fijan, respectivamente, los aspectos básicos 
 del currículo de las enseñanzas profesionales de música y de danza reguladas por la 
-Ley Orgánica 2/2006, de 3 de mayo, de Educación, que establecen en su disposición 
+[Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, que establecen en su disposición 
 adicional segunda, en el caso de música, y disposición adicional primera, en el de danza, 
 que corresponde a las Administraciones educativas la concreción del tanto por ciento que 
 tendrá la nota media del expediente de los estudios profesionales de danza y de música 
@@ -90,13 +102,13 @@ cualquier caso, dicha nota media del expediente de los estudios profesionales co
 como máximo el 50% de la nota de la prueba.
 Asimismo, el Real Decreto 633/2010, de 14 de mayo, por el que se regula el contenido 
 básico de las enseñanzas artísticas superiores de Grado de Diseño establecidas en la 
-Ley Orgánica 2/2006, de 3 de mayo, de Educación; el Real Decreto 634/2010, de 14 de 
+[Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación; el Real Decreto 634/2010, de 14 de 
 mayo, por el que se regula el contenido básico de las enseñanzas artísticas superiores 
 de Grado en Artes Plásticas en las especialidades de Cerámica y Vidrio establecidas 
-en la Ley Orgánica 2/2006, de 3 de mayo, de Educación, y el Real Decreto 635/2010, 
+en la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, y el Real Decreto 635/2010, 
 de 14 de mayo, por el que se regula el contenido básico de las enseñanzas artísticas 
 superiores de Grado en Conservación y Restauración de Bienes Culturales establecidas 
-en la Ley Orgánica 2/2006, de 3 de mayo, de Educación, contemplan la posibilidad de 
+en la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, contemplan la posibilidad de 
 acceder directamente a las enseñanzas artísticas de grado en Diseño sin necesidad 
 de realizar la prueba específica de acceso, a quienes estén en posesión del Título de 
 Técnico Superior de Artes Plásticas y Diseño, en el porcentaje que las Administraciones 
@@ -123,7 +135,7 @@ de 26 de julio, y 260/2011, de 26 de julio, en el artículo 12.6 del Decreto 111
 de julio, y en el artículo 12.7 de los Decretos 603/2019, de 3 de diciembre, y 604/2019, 
 de 3 de diciembre, a los únicos efectos de ingreso en los centros docentes que imparten 
 enseñanzas artísticas superiores, estos centros se constituirán en un distrito único.
-Por su parte, la disposición adicional octava del Decreto 21/2020, de 17 de febrero, 
+Por su parte, la disposición adicional octava del [Decreto 21/2020](../05_alumnado_y_servicios_escolares/D21_2020_criterios_admision_alumnado_centros_docentes_andalucia.md), de 17 de febrero, 
 por el que se regulan los criterios y el procedimiento de admisión del alumnado en 
 los centros docentes públicos y privados concertados para cursar las enseñanzas de 
 segundo ciclo de educación infantil, educación primaria, educación especial, educación 
@@ -145,16 +157,16 @@ marco jurídico. Por otra parte, la experiencia acumulada en la práctica de lo 
 la normativa y las necesidades detectadas en estos últimos años, requieren especificar 
 y modificar determinados aspectos y matices del procedimiento que faciliten una mayor 
 operatividad en la aplicación de la misma.
-El nuevo desarrollo normativo de la Ley Orgánica 2/2006, de 3 de mayo, de 
+El nuevo desarrollo normativo de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de 
 Educación, en lo referente a las competencias de la dirección de los centros públicos, 
 el procedimiento de selección de los directores y las directoras y el reconocimiento de 
-la función directiva, hace necesario modificar la Orden de 9 de noviembre de 2020, por 
+la función directiva, hace necesario modificar la [Orden de 9 de noviembre de 2020](../02_gestion_y_administracion_centros/O9_11_2020_acceso_evaluacion_formacion_equipos_directivos_andalucia.md), por 
 la que se desarrolla el procedimiento de acceso a la función directiva y la evaluación, 
 formación y reconocimiento de los directores, las directoras y los equipos directivos de 
 los centros docentes públicos no universitarios de los que es titular la Junta de Andalucía, 
 adaptando los aspectos referidos a las modificaciones introducidas en dicha Ley.
 La presente orden se ha elaborado atendiendo a los principios de buena regulación 
-contenidos en el artículo 129 de la Ley 39/2015, de 1 de octubre, del Procedimiento 
+contenidos en el artículo 129 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento 
 Administrativo Común de las Administraciones Públicas. Se atienden los principios de 
 necesidad, eficacia, proporcionalidad, seguridad jurídica, transparencia y eficiencia, en 
 tanto que persigue un interés general al proporcionar a la ciudadanía un marco normativo 
@@ -169,7 +181,7 @@ o accesoria, por lo que quedan justificados los objetivos que persigue tanto la 
 el Decreto. Además, en el procedimiento de elaboración de esta orden se ha permitido 
 y facilitado la participación y las aportaciones de las personas potenciales destinatarias 
 a través de los procedimientos de audiencia e información pública regulados en el 
-artículo 133 de la citada Ley 39/2015, de 1 de octubre.
+artículo 133 de la citada [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre.
 En su virtud, a propuesta de la Directora General de Ordenación y Evaluación 
 Educativa, y de acuerdo con las atribuciones conferidas por el artículo 44.2 de la Ley 
 6/2006, de 24 de octubre, del Gobierno de la Comunidad Autónoma de Andalucía,
@@ -228,10 +240,10 @@ quienes cumplan con los siguientes requisitos:
 a) Estar en posesión del título de Bachiller o haber superado la prueba de acceso a la 
 Universidad para mayores de 25 años.
 b) Superar la prueba específica de acceso a las enseñanzas artísticas superiores a 
-que se refieren los artículos 54, 55, 56 y 57 de la Ley Orgánica 2/2006, de 3 de mayo, de 
+que se refieren los artículos 54, 55, 56 y 57 de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de 
 Educación, de acuerdo con lo establecido en la Sección 2.ª del Capítulo III.
 2. La Consejería competente en materia de educación, de conformidad con lo 
-establecido en el artículo 69.5 de la Ley Orgánica 2/2006, de 3 de mayo, establecerá 
+establecido en el artículo 69.5 de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, establecerá 
 una prueba específica de acceso a las enseñanzas artísticas superiores para el acceso 
 directo de los mayores de 18 años de edad, que consistirá en la superación de la prueba 
 de madurez académica prevista en la Sección 1.ª del Capítulo III y de la prueba específica 
@@ -325,7 +337,7 @@ públicos y tramitación de las mismas.
 admisión en centros docentes públicos se presentará preferentemente de forma 
 telemática en la Secretaría Virtual de los Centros docentes de la Consejería competente 
 en materia de educación, o bien de manera presencial en la secretaría de los centros o 
-en cualquiera de los medios relacionados en el artículo 16.4 de la Ley 39/2015, de 1 de 
+en cualquiera de los medios relacionados en el artículo 16.4 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de 
 octubre, en cuyo caso, con la finalidad de agilizar el procedimiento, podrá remitirse copia 
 al centro docente al que se dirige la solicitud.
 No producirán efectos ante la Administración las tachaduras, alteraciones o 
@@ -453,7 +465,7 @@ seleccionado como primera o única opción, o del centro docente público al que
 dirigido la solicitud, en caso de solicitar solo realización de la prueba específica de acceso, 
 requerirá a la persona interesada para que, en el plazo de diez días hábiles, subsane la 
 falta o acompañe los documentos preceptivos, de conformidad con el artículo 68.1 de la 
-Ley 39/2015, de 1 de octubre, con indicación de que, si así no lo hiciera, se le tendrá por 
+[Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, con indicación de que, si así no lo hiciera, se le tendrá por 
 desistida de su petición, previa resolución que deberá ser dictada por la persona titular de la 
 dirección del centro docente en los términos previstos en el artículo 21.1 de la referida Ley.
 2. La persona titular de la dirección hará el requerimiento referido en el apartado 
@@ -492,7 +504,7 @@ superiores.
 Todas Las alegaciones se presentarán preferentemente a través de Secretaría Virtual 
 de los Centros docentes de la Consejería competente en materia de educación, o bien 
 de manera presencial en la secretaría de los centros o en cualquiera de los medios 
-relacionados en el artículo 16.4 de la Ley 39/2015, de 1 de octubre, en cuyo caso, con la 
+relacionados en el artículo 16.4 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, en cuyo caso, con la 
 finalidad de agilizar el procedimiento, podrá remitirse copia al centro docente al que se 
 dirige la solicitud.
 4. Las citadas resoluciones serán publicadas tanto en la página web de la Consejería 
@@ -515,11 +527,11 @@ resolución será dictada por la persona titular del órgano directivo central c
 en materia de ordenación de enseñanzas artísticas superiores, agotando la vía 
 administrativa. Contra la citada resolución las personas interesadas podrán interponer 
 recurso potestativo de reposición, conforme a lo establecido en los artículos 123 y 124 de 
-la Ley 39/2015, de 1 de octubre.
+la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre.
 3. En el caso de enseñanzas cuyos centros no están constituidos en distrito único, la 
 resolución será dictada por la persona titular de la dirección del centro. Contra la citada 
 resolución, que no agota la vía administrativa, las personas interesadas podrán interponer 
-recurso de alzada, conforme a lo establecido en los artículos 121 y 122 de la Ley 39/2015, 
+recurso de alzada, conforme a lo establecido en los artículos 121 y 122 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), 
 de 1 de octubre.
 4. Las citadas resoluciones serán publicadas tanto en la página web de la Consejería 
 competente en materia de educación como en el tablón de anuncios del centro 
@@ -579,9 +591,9 @@ miembros de los tribunales se nombrará una persona suplente.
 3. Las actuaciones de los tribunales estarán coordinadas por el órgano directivo 
 central competente en ordenación de enseñanzas artísticas superiores.
 4. Aquellos aspectos de funcionamiento de los tribunales no regulados en esta orden 
-se regirán por lo establecido en los artículos del 15 al 18 de la Ley 40/2015, de 1 de 
+se regirán por lo establecido en los artículos del 15 al 18 de la [Ley 40/2015](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md), de 1 de 
 octubre, de Régimen Jurídico del Sector Público, y en el Capítulo II del Título IV de la 
-Ley 9/2007, de 22 de octubre, de la Administración de la Junta de Andalucía, y demás 
+[Ley 9/2007](../01_marco_normativo_general_y_organico/L9_2007_administracion_junta_andalucia_laja.md), de 22 de octubre, de la Administración de la Junta de Andalucía, y demás 
 normativa de aplicación.
 #### Artículo 17. Estructura y contenidos de la prueba de madurez académica.
 1. La prueba constará de tres ejercicios y estará basada en los contenidos de las 
@@ -666,7 +678,7 @@ partir del siguiente al de su publicación. Dichas alegaciones, dirigidas a la p
 tribunal, se presentarán preferentemente a través de la Secretaría Virtual de los Centros 
 Docentes de la Consejería competente en materia de educación, o bien de manera 
 presencial en la secretaría de los centros o en cualquiera de los medios relacionados 
-en el artículo 16.4 de la Ley 39/2015, de 1 de octubre, en cuyo caso, con la finalidad 
+en el artículo 16.4 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, en cuyo caso, con la finalidad 
 de agilizar el procedimiento, podrá remitirse copia al centro docente al que se dirige la 
 solicitud.
 3. El día siguiente al de la finalización del plazo de presentación de alegaciones el 
@@ -693,8 +705,8 @@ al que se refiere el apartado siguiente y observará la normativa vigente en mat
 protección de datos.
 5. Contra la resolución de las actas de las calificaciones definitivas, que no pone 
 fin a la vía administrativa, podrá presentarse recurso de alzada en el plazo de un mes, 
-conforme a lo establecido en los artículos 112.1, 121 y 122 de la Ley 39/2015, de 1 de 
-octubre, y en el artículo 115.1 de la Ley 9/2007, de 22 de octubre, cuya resolución pone fin 
+conforme a lo establecido en los artículos 112.1, 121 y 122 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de 
+octubre, y en el artículo 115.1 de la [Ley 9/2007](../01_marco_normativo_general_y_organico/L9_2007_administracion_junta_andalucia_laja.md), de 22 de octubre, cuya resolución pone fin 
 a la vía administrativa.
 ### Sección 2.ª Pruebas específicas de acceso en los centros docentes públicos
 #### Artículo 20. Consideraciones generales de la prueba específica de acceso.
@@ -825,8 +837,8 @@ acceso de carácter específico.
 g) Cualesquiera otras que les sean encomendadas por la Administración educativa 
 en el ámbito de sus competencias.
 7. Aquellos aspectos de funcionamiento de los tribunales no regulados en esta orden 
-se regirán por lo establecido en los artículos del 15 al 18 de la Ley 40/2015, de 1 de 
-octubre, y en el Capítulo II del Título IV de la Ley 9/2007, de 22 de octubre, y demás 
+se regirán por lo establecido en los artículos del 15 al 18 de la [Ley 40/2015](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md), de 1 de 
+octubre, y en el Capítulo II del Título IV de la [Ley 9/2007](../01_marco_normativo_general_y_organico/L9_2007_administracion_junta_andalucia_laja.md), de 22 de octubre, y demás 
 normativa de aplicación.
 #### Artículo 25. Calificación de la prueba.
 1. La prueba específica de acceso, se calificará entre cero y diez puntos, expresándose 
@@ -899,8 +911,8 @@ al que se refiere el apartado siguiente y observará la normativa vigente en mat
 protección de datos.
 5. Contra la resolución de las actas de las calificaciones definitivas, que no pone 
 fin a la vía administrativa, podrá presentarse recurso de alzada en el plazo de un mes, 
-conforme a lo establecido en los artículos 112.1, 121 y 122 de la Ley 39/2015, de 1 de 
-octubre, y en el artículo 115.1 de la Ley 9/2007, de 22 de octubre, cuya resolución pone 
+conforme a lo establecido en los artículos 112.1, 121 y 122 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de 
+octubre, y en el artículo 115.1 de la [Ley 9/2007](../01_marco_normativo_general_y_organico/L9_2007_administracion_junta_andalucia_laja.md), de 22 de octubre, cuya resolución pone 
 fin a la vía administrativa. En el caso de los centros que no estén constituidos en distrito 
 único, podrá presentarse recurso de alzada ante la persona titular de la correspondiente 
 Delegación Territorial con competencias en materia de educación.
@@ -929,7 +941,7 @@ prueba específica de acceso, en las condiciones establecidas en la presente ord
 procedimiento podrán desistir de su solicitud preferentemente a través de la Secretaría 
 Virtual de los Centros Docentes de la Consejería competente en materia de educación, o 
 bien de manera presencial en la secretaría de los centros o en cualquiera de los medios 
-relacionados en el artículo 16.4 de la Ley 39/2015, de 1 de octubre, durante los periodos 
+relacionados en el artículo 16.4 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, durante los periodos 
 de alegaciones establecidos en el calendario al que se refiere el artículo 6, de forma que 
 las posibles plazas vacantes se puedan incorporar a las distintas fases de adjudicación.
 4. En ningún caso podrán adjudicarse plazas en una especialidad, itinerario/estilo o 
@@ -972,7 +984,7 @@ a las personas interesadas. La citada resolución contendrá la relación ordena
 de las personas que han obtenido plaza como de las personas que no la han obtenido. 
 Contra la citada resolución, que agota la vía administrativa, podrá interponerse recurso 
 potestativo de reposición de acuerdo con lo establecido en los artículos 123 y 124 de la 
-Ley 39/2015, de 1 de octubre.
+[Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre.
 Subsección 2.ª Segunda fase de adjudicación de plazas de primer curso
 #### Artículo 31. Consideraciones generales.
 1. En la segunda fase de adjudicación se incorporarán a la oferta inicial de plazas 
@@ -987,14 +999,14 @@ Subsección 3.ª Opciones de adjudicación de plazas de primer curso
 la persona aspirante que haya obtenido la plaza que solicitó en primer lugar, deberá 
 realizar la matrícula correspondiente preferentemente a través de la Secretaría Virtual 
 de los Centros Docentes, o bien de manera presencial en la secretaría de los centros o 
-en cualquiera de los medios relacionados en el artículo 16.4 de la Ley 39/2015, de 1 de 
+en cualquiera de los medios relacionados en el artículo 16.4 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de 
 octubre, o en su defecto, se entenderá que renuncia a dicha plaza.
 No producirán efectos ante la Administración las tachaduras, alteraciones o 
 correcciones manuales de los datos que figuren en el impreso de la solicitud presentada.
 2. Las personas que no hayan obtenido la plaza solicitada en primer lugar en la 
 primera fase de adjudicación podrán optar, preferentemente a través de la Secretaría 
 Virtual de los Centros Docentes, o bien de manera presencial en la secretaría de los 
-centros o en cualquiera de los medios relacionados en el artículo 16.4 de la Ley 39/2015, 
+centros o en cualquiera de los medios relacionados en el artículo 16.4 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), 
 de 1 de octubre, por:
 a) Matricularse en la plaza adjudicada.
 b) Realizar reserva de plaza en el plazo fijado en el calendario de la convocatoria, en 
@@ -1019,7 +1031,7 @@ cuenta la nota media obtenida en el módulo del Proyecto final o Proyecto integr
 ciclo formativo de grado superior conducente al título. En caso de persistir el empate, tras 
 la aplicación de los criterios de desempate establecidos en este artículo, se resolverá 
 por sorteo que ejecutará el Sistema de Información Séneca según el procedimiento 
-estipulado en el artículo 30 del Decreto 21/2020, de 17 de febrero.
+estipulado en el artículo 30 del [Decreto 21/2020](../05_alumnado_y_servicios_escolares/D21_2020_criterios_admision_alumnado_centros_docentes_andalucia.md), de 17 de febrero.
 #### Artículo 34. Resolución del procedimiento de adjudicación de plazas de primer curso.
 1. Una vez adjudicadas las plazas de acuerdo con lo establecido en el artículo anterior, 
 las personas titulares de la dirección de los centros emitirán resolución con la relación 
@@ -1049,8 +1061,8 @@ interesadas y deberá permanecer expuesta en el citado tablón de anuncios hasta
 terminación del plazo de presentación de recurso de alzada al que se refiere el apartado 4.
 4. Contra la citada resolución de las personas titulares de la dirección de los centros, 
 que no pone fin a la vía administrativa, cabe interponer recurso de alzada, en el plazo de 
-un mes, conforme a lo establecido en los artículos 112.1, 121 y 122 de la Ley 39/2015, de 
-1 de octubre, y en el artículo 115.1 de la Ley 9/2007, de 22 de octubre, cuya resolución 
+un mes, conforme a lo establecido en los artículos 112.1, 121 y 122 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 
+1 de octubre, y en el artículo 115.1 de la [Ley 9/2007](../01_marco_normativo_general_y_organico/L9_2007_administracion_junta_andalucia_laja.md), de 22 de octubre, cuya resolución 
 pone fin a la vía administrativa.
 5. En el caso de existir plazas vacantes tras el proceso de matriculación, y con carácter 
 previo a la convocatoria del procedimiento extraordinario de adjudicación al que se refiere 
@@ -1232,7 +1244,7 @@ en la convocatoria extraordinaria de noviembre, o antes del 15 de marzo en el ca
 que se haya superado la asignatura en la convocatoria extraordinaria de febrero.
 b) Tras la notificación de la resolución de reconocimiento de créditos se podrá 
 modificar la matrícula inicialmente efectuada en los términos y plazos establecidos en 
-los apartados 8 y 9 del artículo 21 de la Orden de 19 de octubre de 2020, por la que se 
+los apartados 8 y 9 del artículo 21 de la [Orden de 19 de octubre de 2020](./O19_10_2020_ordenacion_evaluacion_reconocimiento_creditos_ensenanzas_artisticas_superiores_andalucia.md), por la que se 
 establece la ordenación de la evaluación del proceso de aprendizaje del alumnado de las 
 enseñanzas artísticas superiores y se regula el sistema de reconocimiento y transferencia 
 de créditos de estas enseñanzas.
@@ -1275,8 +1287,8 @@ precios públicos y no se computará la citada matrícula a efectos de permanenc
 alumnado para futuras matrículas.
 6. Contra la resolución de anulación, que no pone fin a la vía administrativa, las 
 personas interesadas podrán interponer recurso de alzada en el plazo de un mes, 
-conforme a lo establecido en los artículos 112.1, 121 y 122 de la Ley 39/2015, de 1 de 
-octubre, y en el artículo 115.1 de la Ley 9/2007, de 22 de octubre, cuya resolución pone fin 
+conforme a lo establecido en los artículos 112.1, 121 y 122 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de 
+octubre, y en el artículo 115.1 de la [Ley 9/2007](../01_marco_normativo_general_y_organico/L9_2007_administracion_junta_andalucia_laja.md), de 22 de octubre, cuya resolución pone fin 
 a la vía administrativa.
 7. Al alumno o alumna que tenga una resolución favorable de anulación de matrícula 
 se le mantendrá la reserva de plaza hasta el curso académico inmediatamente posterior 
@@ -1299,7 +1311,7 @@ personas solicitantes.
 2. Instruidos los procedimientos, e inmediatamente antes de redactar la propuesta 
 de resolución, las personas titulares de la dirección de los centros darán audiencia a las 
 personas interesadas durante el plazo de diez días hábiles en los términos establecidos 
-en el artículo 82 de la Ley 39/2015, de 1 de octubre.
+en el artículo 82 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre.
 3. La anulación de oficio de la matrícula supone el cese de los efectos académicos 
 de la matrícula realizada con la consiguiente pérdida del derecho a la evaluación, no 
 computándose a efectos de permanencia del alumnado.
@@ -1318,7 +1330,7 @@ precios públicos y no se computará a efectos de permanencia del alumnado para 
 matrículas.
 6. Contra la resolución de anulación, las personas interesadas podrán interponer el 
 recurso de alzada en el plazo de un mes, conforme a lo establecido en los artículos 112.1, 
-121 y 122 de la Ley 39/2015, de 1 de octubre, y en el artículo 115.1 de la Ley 9/2007, de 
+121 y 122 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, y en el artículo 115.1 de la [Ley 9/2007](../01_marco_normativo_general_y_organico/L9_2007_administracion_junta_andalucia_laja.md), de 
 22 de octubre, cuya resolución pone fin a la vía administrativa.
 #### Artículo 46. Anulación completa de matrícula del alumnado de primer curso.
 1. El alumnado de primer curso podrá anular la matrícula completa en las condiciones, 
@@ -1416,7 +1428,7 @@ o instrumento, sin perjuicio de lo establecido en el apartado tercero de este ar
 instrumento en todos aquellos casos en los que el alumnado esté cursando en el plazo 
 de presentación de la solicitud de acceso regulado en el artículo 6 una especialidad, 
 itinerario/estilo o instrumento de las mismas enseñanzas artísticas superiores reguladas 
-por la Ley Orgánica 2/2006, de 3 de mayo, en cualquier centro de la Comunidad Autónoma 
+por la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, en cualquier centro de la Comunidad Autónoma 
 de Andalucía.
 3. El alumnado que curse enseñanzas artísticas superiores de Diseño, de Artes 
 Plásticas o de Conservación y Restauración de Bienes Culturales podrá utilizar la nota de 
@@ -1616,9 +1628,9 @@ específica de acceso en las debidas condiciones de garantía según las necesid
 reflejadas en los informes de valoración aportados en el periodo de inscripción a las 
 pruebas.
 e) Aquellos aspectos de funcionamiento de los tribunales no regulados en esta orden 
-se regirán por lo establecido en los artículos del 15 al 18 de la Ley 40/2015, de 1 de 
+se regirán por lo establecido en los artículos del 15 al 18 de la [Ley 40/2015](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md), de 1 de 
 octubre, de Régimen Jurídico del Sector Público, y en el Capítulo II del Título IV de la 
-Ley 9/2007, de 22 de octubre, de la Administración de la Junta de Andalucía, y demás 
+[Ley 9/2007](../01_marco_normativo_general_y_organico/L9_2007_administracion_junta_andalucia_laja.md), de 22 de octubre, de la Administración de la Junta de Andalucía, y demás 
 normativa de aplicación.
 5. Calificación de la prueba. Para todos los aspectos relativos a la estructura y contenidos 
 de las pruebas específicas de acceso, se estará a lo dispuesto en el artículo 25.
@@ -1652,9 +1664,9 @@ alzada al que se refiere el apartado siguiente y observará la normativa vigente
 de protección de datos.
 e) Contra la resolución de las actas de las calificaciones definitivas, que no pone 
 fin a la vía administrativa, podrá presentarse recurso de alzada en el plazo de un mes, 
-conforme a lo establecido en los artículos 112.1, 121 y 122 de la Ley 39/2015, de 1 de 
+conforme a lo establecido en los artículos 112.1, 121 y 122 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de 
 octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, y en 
-el artículo 115.1 de la Ley 9/2007, de 22 de octubre, de la Administración de la Junta de 
+el artículo 115.1 de la [Ley 9/2007](../01_marco_normativo_general_y_organico/L9_2007_administracion_junta_andalucia_laja.md), de 22 de octubre, de la Administración de la Junta de 
 Andalucía, cuya resolución pone fin a la vía administrativa.
 ### Disposición adicional segunda. Reconocimiento de materias superadas para la 
 exención de ejercicios de la prueba de madurez académica.
@@ -1691,8 +1703,8 @@ de acceso a las enseñanzas artísticas superiores y la admisión del alumnado e
 centros públicos que imparten estas enseñanzas.
 2. Asimismo, quedan derogadas cuantas disposiciones de igual o inferior rango se 
 opongan a lo establecido en la presente orden.
-### Disposición final primera. Modificación de la Orden de 9 de noviembre de 2020.
-Se modifica la Orden de 9 de noviembre de 2020, por la que se desarrolla el 
+### Disposición final primera. Modificación de la [Orden de 9 de noviembre de 2020](../02_gestion_y_administracion_centros/O9_11_2020_acceso_evaluacion_formacion_equipos_directivos_andalucia.md).
+Se modifica la [Orden de 9 de noviembre de 2020](../02_gestion_y_administracion_centros/O9_11_2020_acceso_evaluacion_formacion_equipos_directivos_andalucia.md), por la que se desarrolla el 
 procedimiento de acceso a la función directiva y la evaluación, formación y reconocimiento 
 de los directores, las directoras y los equipos directivos de los centros docentes públicos 
 no universitarios de los que es titular la Junta de Andalucía, que queda redactada en los 
@@ -1701,7 +1713,7 @@ Uno. Se modifica la redacción del apartado 1 del artículo 9, que queda redacta
 como sigue:
 «1. La Comisión de Selección en la que se integrarán representantes de la 
 Administración educativa y representantes del centro docente según la proporcionalidad 
-establecida en el artículo 135.3 de la Ley Orgánica 2/2006, de 3 de mayo, estará 
+establecida en el artículo 135.3 de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, estará 
 compuesta por un total de seis miembros, con la siguiente distribución:
 a) Representantes de la Administración educativa:
 1.º Un inspector o una inspectora de educación del equipo de inspección de zona 
@@ -1716,7 +1728,7 @@ correspondientes suplentes.
 2.º Dos miembros del Consejo Escolar elegidos por y entre los miembros del mismo 
 que no pertenezcan al Claustro de Profesorado, en sesión convocada al efecto, en 
 la que se elegirán, asimismo, a los correspondientes suplentes. De conformidad 
-con lo establecido en el artículo 126.5 de la Ley Orgánica 2/2006, de 3 de mayo, el 
+con lo establecido en el artículo 126.5 de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, el 
 alumnado de los dos primeros cursos de la Educación Secundaria Obligatoria que 
 forme parte del Consejo Escolar del centro no podrá participar en la selección o el 
 cese del director o de la directora.»
@@ -1790,7 +1802,7 @@ Séneca, al correspondiente órgano territorial provincial de la Administración
 de Andalucía competente en materia de educación los nombres de los miembros elegidos 
 como representantes y suplentes para formar parte de la Comisión de Selección.»
 Cuatro. Se modifica la disposición transitoria primera, que queda redactada como sigue:
-«En desarrollo de la disposición adicional cuarta del Decreto 152/2020, de 15 de 
+«En desarrollo de la disposición adicional cuarta del [Decreto 152/2020](../02_gestion_y_administracion_centros/D152_2020_acceso_funcion_directiva_equipos_directivos_centros_docentes_andalucia.md), de 15 de 
 septiembre, los directores y las directoras, que hayan sido nombrados con carácter 
 extraordinario o en funciones para los cursos 2014/15, 2015/16, 2016/17 y 2017/18, podrán 
 solicitar su valoración positiva a la Dirección General con competencias en materia de 
@@ -1809,7 +1821,7 @@ los trámites establecidos en los apartados 5 y 6 del artículo 24, en los plazo
 determinen por resolución de la persona titular de la Dirección General con competencias 
 en materia de Evaluación.
 A estos directores y directoras les será de aplicación lo establecido en el Capítulo VI 
-del Decreto 152/2020, de 15 de septiembre, a efectos del reconocimiento del ejercicio 
+del [Decreto 152/2020](../02_gestion_y_administracion_centros/D152_2020_acceso_funcion_directiva_equipos_directivos_centros_docentes_andalucia.md), de 15 de septiembre, a efectos del reconocimiento del ejercicio 
 de la función directiva y de los requisitos y porcentaje para la consolidación parcial del 
 complemento específico del cargo directivo.»
 ### Disposición final segunda. Habilitación y desarrollo.

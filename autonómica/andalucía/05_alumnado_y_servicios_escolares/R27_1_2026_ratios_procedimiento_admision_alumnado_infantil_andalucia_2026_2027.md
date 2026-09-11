@@ -1,6 +1,10 @@
 ---
 id: norm-and-r27-1-2026-ratios-procedimiento-admision-alumnado-infantil-andalucia-2026-2027
-titulo: Resolución de 27 de enero de 2026, de la Dirección General de Planificación, Centros y Enseñanza Concertada, por la que se establece la ratio por unidad en el procedimiento de admisión del primer curso del segundo ciclo de educación infantil (tres años) en los centros educativos sostenidos con fondos públicos en el curso escolar 2026/2027.
+titulo: Resolución de 27 de enero de 2026, de la Dirección General de Planificación,
+  Centros y Enseñanza Concertada, por la que se establece la ratio por unidad en el
+  procedimiento de admisión del primer curso del segundo ciclo de educación infantil
+  (tres años) en los centros educativos sostenidos con fondos públicos en el curso
+  escolar 2026/2027.
 jurisdiccion: Andalucía
 ambito: Autonómico
 organo_emisor: Dirección General de Profesorado y Gestión de Recursos Humanos
@@ -17,8 +21,17 @@ fuente_pdf_oficial: http://www.juntadeandalucia.es/boja/2026/21/BOJA26-021-00002
 clasificacion:
   categoria_canonica: 05_alumnado_y_servicios_escolares
   subcategoria: Admisión y escolarización
+fundamentos_derecho:
+- norma_id: norm-and-l9-2007-administracion-junta-andalucia-laja
+- norma_id: norm-and-d-21-2020
+- norma_id: norm-and-o-20-2-2020
+- norma_id: norm-and-d-167-2003
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-es-l-39-2015
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
 ---
-
 # Resolución de 27 de enero de 2026, de la Dirección General de Planificación, Centros y Enseñanza Concertada, por la que se establece la ratio por unidad en el procedimiento de admisión del primer curso del segundo ciclo de educación infantil (tres años) en los centros educativos sostenidos con fondos públicos en el curso escolar 2026/2027.
 
 ## Preámbulo
@@ -30,12 +43,12 @@ Centros y Enseñanza Concertada, por la que se establece la ratio por unidad en
 el procedimiento de admisión del primer curso del segundo ciclo de educación 
 infantil (tres años) en los centros educativos sostenidos con fondos públicos en 
 el curso escolar 2026/2027.
-El Decreto 21/2020, de 17 de febrero, por el que se regulan los criterios y el 
+El [Decreto 21/2020](./D21_2020_criterios_admision_alumnado_centros_docentes_andalucia.md), de 17 de febrero, por el que se regulan los criterios y el 
 procedimiento de admisión del alumnado en los centros docentes públicos y privados 
 concertados para cursar las enseñanzas de segundo ciclo de educación infantil, 
 educación primaria, educación especial, educación secundaria obligatoria y bachillerato, 
 establece en el artículo 5 el número máximo de alumnos y alumnas a considerar por 
-unidad escolar, acorde a lo dispuesto en el artículo 157.1 de la Ley Orgánica 2/2006, de 3 
+unidad escolar, acorde a lo dispuesto en el artículo 157.1 de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 
 de mayo, de Educación.
 En cumplimiento del Acuerdo de 16 de julio de 2025, sobre la mejora del sistema 
 educativo y las condiciones laborales del personal funcionario docente no universitario de 
@@ -57,12 +70,12 @@ secundaria obligatoria y bachillerato (BOJA núm. 9, de 15 de enero de 2026), co
 adecuar su contenido a las nuevas previsiones sobre determinación de plazas escolares 
 y ratios de alumnado. 
 En virtud de lo anterior, y a los efectos de dar cumplimiento a lo regulado en la citada 
-Orden de 20 de febrero de 2020,
+[Orden de 20 de febrero de 2020](./O20_2_2020_procedimiento_admision_alumnado_centros_docentes_andalucia.md),
 HE RESUELTO
 Primero. La ratio por unidad en el procedimiento de admisión del primer curso del 
 segundo ciclo de educación infantil será de 22 alumnos o alumnas por grupo a partir del 
 curso 2026/2027. 
-Segundo. De conformidad con lo que establece el artículo 18.3 del Decreto 167/2003, 
+Segundo. De conformidad con lo que establece el artículo 18.3 del [Decreto 167/2003](../06_atencion_diversidad_y_orientacion/D167_2003_atencion_alumnado_necesidades_educativas_especiales_andalucia.md), 
 de 17 de junio, por el que se establece la ordenación de la atención educativa a los 
 alumnos y alumnas con necesidades educativas especiales asociadas a condiciones 
 sociales desfavorecidas, se podrá atender en una misma unidad alumnado de diferentes 
@@ -82,7 +95,7 @@ académicos de ciclos o etapas distintas, dicho número se reducirá a 11.
 Tercero. En aquellas zonas de escolarización en las que, debido a la insuficiencia de 
 espacios disponibles, no sea posible autorizar nuevas unidades, se podrá, con carácter 
 excepcional, autorizar el incremento del número de plazas ofertadas por unidad escolar 
-hasta el número máximo previsto en el artículo 5.1 del Decreto 21/2020, de 17 de febrero. 
+hasta el número máximo previsto en el artículo 5.1 del [Decreto 21/2020](./D21_2020_criterios_admision_alumnado_centros_docentes_andalucia.md), de 17 de febrero. 
 Para ello, se adoptarán en dichas zonas tensionadas por falta de espacios medidas 
 adicionales de carácter compensatorio, orientadas al apoyo y refuerzo educativo, 
 mediante el aumento de la plantilla de funcionamiento, que sean proporcionales a lo que 
@@ -94,7 +107,7 @@ Contra la presente resolución, que no pone fin a la vía administrativa, podrá
 interponerse recurso de alzada ante la persona titular de la Consejería de Desarrollo 
 Educativo y Formación Profesional en el plazo de un mes, a contar desde el día siguiente 
 al de su publicación en el Boletín Oficial de la Junta de Andalucía, de conformidad 
-con lo establecido en los artículos 121 y 122 de la Ley 39/2015, de 1 de octubre, del 
+con lo establecido en los artículos 121 y 122 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del 
 Procedimiento Administrativo Común de las Administraciones Públicas, y el artículo 115.1 
-de la Ley 9/2007, de 22 de octubre, de la Administración de la Junta de Andalucía.
+de la [Ley 9/2007](../01_marco_normativo_general_y_organico/L9_2007_administracion_junta_andalucia_laja.md), de 22 de octubre, de la Administración de la Junta de Andalucía.
 Sevilla, 27 de enero de 2026.- El Director General, Rafael Salas Machuca.

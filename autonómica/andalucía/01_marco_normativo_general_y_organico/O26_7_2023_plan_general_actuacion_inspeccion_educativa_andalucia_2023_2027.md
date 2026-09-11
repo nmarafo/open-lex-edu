@@ -34,22 +34,27 @@ relaciones:
   - norma_id: norm-and-l17-2007
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-l-39-2015
+fundamentos_derecho:
+- norma_id: norm-and-l17-2007
+- norma_id: norm-and-l6-2006-gobierno-comunidad-autonoma-andalucia
+- norma_id: norm-and-o-13-7-2007
+- norma_id: norm-and-115-2002
+- norma_id: norm-can-res-boc-2023-085-51
 ---
-
 # Orden de 26 de julio de 2023, por la que se establece el Plan General de Actuación de la Inspección Educativa de Andalucía para el período 2023-2027.
 
 ## Preámbulo
 
 Orden de 26 de julio de 2023, por la que se establece el Plan General de 
 Actuación de la Inspección Educativa de Andalucía para el período 2023-2027.
-El artículo 147 de la Ley 17/2007, de 10 de diciembre, de Educación de Andalucía, 
+El artículo 147 de la [Ley 17/2007](./L17_2007_educacion_andalucia_lea.md), de 10 de diciembre, de Educación de Andalucía, 
 establece que las funciones y atribuciones encomendadas a la Inspección Educativa 
 de Andalucía se desarrollarán mediante la realización de planes de actuación generales 
 y provinciales de carácter público y recogerá acciones de supervisión, evaluación, 
 asesoramiento e información que realizarán los inspectores e inspectoras de educación, 
 dirigidas a la mejora de los procesos de enseñanza, de los resultados del aprendizaje y 
 de la organización y funcionamiento de los centros.
-El artículo 26 del Decreto 115/2002, de 25 de marzo, por el que se regula la 
+El artículo 26 del [Decreto 115/2002](../04_organizacion_escolar_y_funcionamiento/D115_2002_reglamento_inspeccion_educativa_andalucia.md), de 25 de marzo, por el que se regula la 
 organización y el funcionamiento de la Inspección Educativa, y el artículo 63 de la Orden 
 de 13 de julio de 2007, por la que se desarrolla la organización y el funcionamiento de 
 la inspección educativa de Andalucía, establecen que el Plan de General de Actuación 
@@ -57,7 +62,7 @@ define las líneas de trabajo y los criterios de actuación de la inspección ed
 un determinado período, de acuerdo con las prioridades marcadas por la Consejería de 
 Desarrollo Educativo y Formación Profesional, con las necesidades y nuevas demandas 
 de los centros educativos y de la sociedad en general.
-El Capítulo VI de la Orden de 13 de julio de 2007, ya citada, sobre planes de 
+El Capítulo VI de la [Orden de 13 de julio de 2007](./O13_7_2007_organizacion_funcionamiento_inspeccion_educativa_andalucia.md), ya citada, sobre planes de 
 actuación de la inspección educativa establece el procedimiento para su elaboración, y 
 en su artículo 76 referido a la evaluación de la inspección, señala que se deben articular 
 procesos internos y externos con el fin de la mejora de su funcionamiento.
@@ -76,11 +81,11 @@ Educativa de la Consejería de Educación y Deporte (2021-2027) aprobado por Acu
 10 de noviembre de 2021, del Consejo de Gobierno, así como el Informe de fiscalización 
 operativo, con enfoque evaluador, de la gestión de los planes y programas para la 
 reducción del abandono educativo y para el incremento del éxito escolar, ordenada su 
-publicación por Resolución de 18 de abril de 2023, de la Cámara de Cuentas de Andalucía.
+publicación por [Resolución de 18 de abril de 2023](../../canarias/03_ordenacion_curricular_y_ensenanzas/R18_4_2023_dictan_instrucciones_organizacion_cursos_especializacion_idiomas.md), de la Cámara de Cuentas de Andalucía.
 Por todo ello, en virtud de lo establecido en la disposición final primera del 
 Decreto 115/2002, de 25 de marzo, por el que se regula la organización y el funcionamiento 
 de la Inspección Educativa, y conforme a las facultades que me confiere el artículo 44.2 de 
-la Ley 6/2006, de 24 de octubre, del Gobierno de la Comunidad Autónoma de Andalucía,
+la [Ley 6/2006](./L6_2006_gobierno_comunidad_autonoma_andalucia.md), de 24 de octubre, del Gobierno de la Comunidad Autónoma de Andalucía,
 D I S P O N G O
 
 ## Articulado e Instrucciones en Vigor
@@ -88,13 +93,13 @@ D I S P O N G O
 #### Artículo 1. Objeto y ámbito de aplicación.
 1. La presente orden tiene por objeto aprobar el Plan General de Actuación de la 
 Inspección Educativa de Andalucía para los cursos 2023-2024, 2024-2025, 2025-2026 y 
-2026-2027 de acuerdo con lo dispuesto en el artículos 26 del Decreto 115/2002, de 25 de 
+2026-2027 de acuerdo con lo dispuesto en el artículos 26 del [Decreto 115/2002](../04_organizacion_escolar_y_funcionamiento/D115_2002_reglamento_inspeccion_educativa_andalucia.md), de 25 de 
 marzo, por el que se regula la organización y funcionamiento de la inspección educativa 
-de Andalucía, y el artículo 63.2 de la Orden de 13 de julio de 2007, por la que se desarrolla 
+de Andalucía, y el artículo 63.2 de la [Orden de 13 de julio de 2007](./O13_7_2007_organizacion_funcionamiento_inspeccion_educativa_andalucia.md), por la que se desarrolla 
 la organización y el funcionamiento de la inspección educativa de Andalucía.
 2. El ámbito de aplicación del Plan General de Actuación de la Inspección Educativa 
 de Andalucía abarcará a todos los centros educativos comprendiendo, de acuerdo con el 
-artículo 1.3 de la Orden de 13 de julio de 2007, los siguientes:
+artículo 1.3 de la [Orden de 13 de julio de 2007](./O13_7_2007_organizacion_funcionamiento_inspeccion_educativa_andalucia.md), los siguientes:
 a) Los centros docentes públicos, concertados y privados.
 b) Los servicios educativos.
 c) Los programas, proyectos y actividades del sistema educativo.
@@ -131,7 +136,7 @@ la Ley 2/2006, de 3 de mayo, de Educación: Respeto a los derechos fundamentales
 libertades públicas, defensa del bien común y valores democráticos, profesionalidad 
 e independencia de carácter técnico, imparcialidad y eficiencia y transparencia. La 
 organización y el funcionamiento de la Inspección Educativa de Andalucía se rigen por 
-los principios recogidos en el artículo 25 de la Orden de 13 de julio de 2007: Jerarquía, 
+los principios recogidos en el artículo 25 de la [Orden de 13 de julio de 2007](./O13_7_2007_organizacion_funcionamiento_inspeccion_educativa_andalucia.md): Jerarquía, 
 planificación, especialización, profesionalidad y trabajo en equipo. 
 Para la asunción de estos valores y principios, la inspección educativa debe ser:
 - Referente de calidad y cuerpo técnico especializado que asume la actualización 
@@ -186,7 +191,7 @@ la construcción y transferencia de conocimientos, dirigidos a la mejora de las 
 funciones inspectoras, convirtiéndose en elementos de apoyo en la implementación del 
 Plan de Actuación.
 #### Artículo 5. Líneas Estratégicas y Objetivos Estratégicos del Plan.
-1. De conformidad con el artículo 64 de la Orden de 13 de julio de 2007, las líneas 
+1. De conformidad con el artículo 64 de la [Orden de 13 de julio de 2007](./O13_7_2007_organizacion_funcionamiento_inspeccion_educativa_andalucia.md), las líneas 
 estratégicas y los objetivos estratégicos del Plan General de Actuación de la Inspección 
 Educativa de Andalucía, para el período 2023-2027 permitirán orientar de manera efectiva 
 sus actuaciones para la consecución de los objetivos generales.
@@ -313,7 +318,7 @@ establecerán los indicadores que permitirán llevar a cabo la evaluación de lo
 y líneas estratégicas propuestas, así como las actuaciones desarrolladas y que se 
 incorporarán a las memorias de la inspección de cada curso escolar.
 #### Artículo 8. Actuaciones de la inspección educativa.
-De acuerdo con el artículo 65 de la Orden de 13 de julio de 2007, las actuaciones a 
+De acuerdo con el artículo 65 de la [Orden de 13 de julio de 2007](./O13_7_2007_organizacion_funcionamiento_inspeccion_educativa_andalucia.md), las actuaciones a 
 desarrollar por la Inspección Educativa de Andalucía, para dar cumplimiento a los objetivos 
 y líneas estratégicas de este Plan, serán de los siguientes tipos: prioritarias, homologadas, 
 habituales y específicas. Asimismo, se vincularán entre sí con el fin de dotarlas de un 
@@ -325,7 +330,7 @@ programas y actividades del sistema educativo, y se centrarán en la planificaci
 implantación de los procesos que se desarrollen en los mismos. Una vez supervisados y 
 evaluados, se realiza su seguimiento y asesoramiento.
 2. Las actuaciones prioritarias se focalizarán sobre los ámbitos que se recogen 
-en el artículo 130 de la Ley 17/2007, de 10 de diciembre, de Educación de Andalucía, 
+en el artículo 130 de la [Ley 17/2007](./L17_2007_educacion_andalucia_lea.md), de 10 de diciembre, de Educación de Andalucía, 
 estableciéndose para cada uno de ellos los procesos que lo desarrollan, con instrumentos 
 y guías homologadas, vinculándose con la memoria de autoevaluación de los centros.
 3. Los ámbitos de supervisión y evaluación con los procesos que se desarrollan son:
@@ -428,7 +433,7 @@ servicios, programas o actividad del sistema educativo se establecerán para cad
 escolar los criterios de la muestra, a través de las resoluciones anuales para la concreción 
 del Plan General de Actuación.
 La evaluación de los centros se centrará en los ámbitos que establece el artículo 130 
-de Ley 17/2007, de 10 de diciembre, de Educación de Andalucía, ya señalados con 
+de [Ley 17/2007](./L17_2007_educacion_andalucia_lea.md), de 10 de diciembre, de Educación de Andalucía, ya señalados con 
 anterioridad, elaborándose para su implementación instrumentos y guías homologadas.
 En esta actuación, las conclusiones y propuestas derivadas de la misma se vincularán 
 de manera directa con la Memoria de Autoevaluación y el Plan de Mejora de los centros 
@@ -493,7 +498,7 @@ Internacionalización de la Educación que está en elaboración por parte de la
 de Desarrollo Educativo y Formación Profesional, se participará en programas europeos 
 Erasmus+ a través de proyectos que se presenten desde la Inspección General.
 #### Artículo 14. Grupos de trabajo.
-En virtud de lo recogido en el Capítulo V de la Orden de 13 de julio de 2007, donde se 
+En virtud de lo recogido en el Capítulo V de la [Orden de 13 de julio de 2007](./O13_7_2007_organizacion_funcionamiento_inspeccion_educativa_andalucia.md), donde se 
 establece la organización y el funcionamiento de la Inspección Educativa de Andalucía, y al 
 objeto de posibilitar el adecuado desarrollo del presente Plan de Actuación, considerándose 
 además, los cambios producidos en los objetivos y actuaciones de la inspección educativa, 
@@ -540,7 +545,7 @@ actuación en su contexto, desde criterios que se establezcan en los Servicios P
 4. Los Servicios Provinciales de Inspección de Educación realizarán de manera permanente 
 una autoevaluación de su propio funcionamiento y de los planes de trabajo que desarrollan.
 5. El resultado de este proceso de evaluación se plasmará, de acuerdo con el 
-artículo  62.2 de la Orden de 13 de julio de 2007, al finalizar cada curso escolar, en 
+artículo  62.2 de la [Orden de 13 de julio de 2007](./O13_7_2007_organizacion_funcionamiento_inspeccion_educativa_andalucia.md), al finalizar cada curso escolar, en 
 la Memoria Anual de funcionamiento de los Servicios Provinciales de Inspección de 
 Educación, contando para ello con las aportaciones que realicen los Equipos de Inspección 
 de Zona, el Equipo de Coordinación Provincial e informada por el Consejo Provincial de 
@@ -558,9 +563,9 @@ de funcionamiento de los Servicios Provinciales de Inspección de Educación.
 1. El seguimiento del desarrollo de las actuaciones llevadas a cabo por la Inspección 
 Educativa corresponde a la persona titular de la Inspección General de Educación en el 
 seno del Consejo de Inspección de Educación, sin perjuicio del resto de actuaciones de 
-seguimiento previstas, tanto en el Decreto 115/2002, de 25 de marzo, como en la Orden 
+seguimiento previstas, tanto en el [Decreto 115/2002](../04_organizacion_escolar_y_funcionamiento/D115_2002_reglamento_inspeccion_educativa_andalucia.md), de 25 de marzo, como en la Orden 
 de 13 de julio de 2007.
-2. Según lo dispuesto en el artículo 37.2 del Decreto 115/2002, de 25 de marzo, la 
+2. Según lo dispuesto en el artículo 37.2 del [Decreto 115/2002](../04_organizacion_escolar_y_funcionamiento/D115_2002_reglamento_inspeccion_educativa_andalucia.md), de 25 de marzo, la 
 Inspección General y los Servicios Provinciales de Inspección pondrán en marcha 
 procesos de evaluación, con el fin de contribuir a la mejora de su propio funcionamiento. 
 Igualmente, en consonancia con lo establecido en el artículo 76.3 de la Orden de 13 

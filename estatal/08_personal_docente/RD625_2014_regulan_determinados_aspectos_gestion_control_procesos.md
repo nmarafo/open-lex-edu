@@ -51,9 +51,11 @@ relaciones:
   - norma_id: '1'
   - norma_id: norm-es-1999-23750
   - norma_id: norm-es-2015-6839
+fundamentos_derecho:
+- norma_id: norm-es-1999-23750
+- norma_id: norm-es-2015-6839
 ---
-
-# Real Decreto 625/2014, de 18 de julio, por el que se regulan determinados aspectos de la gestión y control de los procesos por incapacidad temporal en los primeros trescientos sesenta y cinco días de su duración.
+# [Real Decreto 625/2014](./RD1187_2015_ess_desarrolla_real_decreto_regulan_determinados.md), de 18 de julio, por el que se regulan determinados aspectos de la gestión y control de los procesos por incapacidad temporal en los primeros trescientos sesenta y cinco días de su duración.
 
 ## Preámbulo
 

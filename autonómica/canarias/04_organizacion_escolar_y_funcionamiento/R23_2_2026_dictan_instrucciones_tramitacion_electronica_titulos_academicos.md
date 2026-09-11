@@ -66,8 +66,16 @@ relaciones:
   - norma_id: norm-es-l-40-2015
   - norma_id: norm-es-2001-7022
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-045-737.pdf
+fundamentos_derecho:
+- norma_id: norm-can-d-84-2024
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-es-l-39-2015
+- norma_id: norm-es-l-40-2015
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-2001-7022
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
 ---
-
 # Resolución de 23 de febrero de 2026, por la que se dictan instrucciones para la tramitación electrónica de los títulos académicos y profesionales de las enseñanzas no universitarias en el ámbito de la Comunidad Autónoma de Canarias (BOC n.º 45, de 6 de marzo).
 
 ## Preámbulo
@@ -75,7 +83,7 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-045-737.p
 Consejería de Educación, Formación Profesional, Actividad Física y Deportes Complementarios.- Resolución de 23 de febrero de 2026, por la que se dictan instrucciones para la tramitación electrónica de los títulos académicos y profesionales de las enseñanzas no universitarias en el ámbito de la Comunidad Autónoma de Canarias. Vista la necesidad de iniciar la tramitación electrónica de la expedición y duplicados de títulos académicos y profesionales de las enseñanzas no universitarias de la Comunidad Autónoma de Canarias, es necesario dictar unas instrucciones que establezca el procedimiento a seguir, de conformidad con los siguientes ANTECEDENTE DE HECHO Único.- La [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, y la [Ley 40/2015](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md), de 1 de octubre, de Régimen Jurídico del Sector Público, han establecido que la tramitación electrónica de los procedimientos debe constituir la actuación habitual de las Administraciones Públicas, por lo que es necesario desarrollar y concretar las previsiones legales en relación con el procedimiento para la tramitación de los títulos académicos y profesionales de enseñanzas no universitarias, lo que incluye la solicitud de los títulos y duplicados a través de sede electrónica y la implantación de la firma electrónica en las propuestas de títulos por los agentes implicados, por lo que es preciso dictar unas nuevas instrucciones que actualicen el procedimiento. FUNDAMENTOS DE DERECHO
 Primero.- [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.
 Segundo.- [Ley 40/2015](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md), de 1 de octubre, de Régimen Jurídico del Sector Público.
-Tercero.- Real Decreto 1850/2009, de 4 de diciembre, sobre expedición de títulos académicos y profesionales correspondientes a las enseñanzas establecidas por la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+Tercero.- Real Decreto 1850/2009, de 4 de diciembre, sobre expedición de títulos académicos y profesionales correspondientes a las enseñanzas establecidas por la [Ley Orgánica 2/2006](../05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación.
 Cuarto.- Decreto 237/1997, de 30 de septiembre, de creación y regulación del Registro de títulos académicos y profesionales de la Comunidad Autónoma de Canarias.
 Quinto.- Orden de 10 de noviembre de 1997, por la que se regula en el ámbito de la Comunidad Autónoma de Canarias el procedimiento de expedición de los títulos académicos y profesionales correspondientes a las enseñanzas establecidas por la [Ley Orgánica 1/1990](../../../estatal/02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md), de 3 de octubre, de Ordenación General del Sistema Educativo. Por lo expuesto, y en ejercicio de las competencias atribuidas en el artículo 18.2A.c) del Reglamento Orgánico de la Consejería de Educación, Formación Profesional, Actividad Física y Deportes, aprobado por el [Decreto 84/2024](../01_marco_normativo_general_y_organico/D84_2024_aprueba_reglamento_organico_formacion_profesional_actividad.md), de 10 de junio,
 

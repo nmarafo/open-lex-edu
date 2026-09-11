@@ -24,8 +24,12 @@ tags:
 - inclusion
 - orientacion
 - canarias
+fundamentos_derecho:
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
 ---
-
 # Decreto 104/2010, de 29 de julio, por el que se regula la atención a la diversidad del alumnado en el ámbito de la enseñanza no universitaria de Canarias.
 
 ## Preámbulo
@@ -50,7 +54,7 @@ BOC-A-2010-154-4580.
             Firma electrónica-Descargar
 
 
-Este Decreto encuentra su fundamento en el reconocimiento y aceptación de las diferentes necesidades educativas que presenta la diversidad de escolares en las aulas y en el ajuste de las respuestas a las posibilidades y capacidades de cada escolar. Se sustenta, como expone la Ley Orgánica 2/2006, de 3 de mayo, de Educación (LOE), en la atención a la diversidad, que se establece como principio fundamental que debe regir toda la enseñanza básica, con el objetivo de proporcionar a todo el alumnado una educación adecuada a sus características y necesidades. El presente Decreto regula la atención a la diversidad del alumnado y, especialmente, la atención de quienes presentan necesidades específicas de apoyo educativo contempladas en los artículos 71 a 79 de la LOE.
+Este Decreto encuentra su fundamento en el reconocimiento y aceptación de las diferentes necesidades educativas que presenta la diversidad de escolares en las aulas y en el ajuste de las respuestas a las posibilidades y capacidades de cada escolar. Se sustenta, como expone la [Ley Orgánica 2/2006](../05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación (LOE), en la atención a la diversidad, que se establece como principio fundamental que debe regir toda la enseñanza básica, con el objetivo de proporcionar a todo el alumnado una educación adecuada a sus características y necesidades. El presente Decreto regula la atención a la diversidad del alumnado y, especialmente, la atención de quienes presentan necesidades específicas de apoyo educativo contempladas en los artículos 71 a 79 de la LOE.
 
 La diversidad constituye una realidad en los centros educativos que ha de ser atendida por todo el profesorado. La adecuada respuesta educativa a todo el alumnado se concibe a partir del principio de inclusión, entendiendo que únicamente de ese modo se garantiza su desarrollo, se favorece la equidad y se contribuye a una mayor cohesión social. La atención a la diversidad es una necesidad que abarca a todas las etapas educativas y a todo el alumnado. Es decir, se trata de contemplar la diversidad de los escolares como principio y no como una disposición que corresponde a las necesidades de un grupo reducido de alumnado. De este modo, las medidas y acciones para la atención a las necesidades específicas de apoyo educativo deben ajustarse, entre otros, a los principios de normalización de servicios, de flexibilidad en la respuesta educativa, de prevención en las actuaciones desde edades más tempranas y de atención personalizada.
 

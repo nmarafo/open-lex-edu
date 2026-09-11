@@ -342,8 +342,22 @@ relaciones:
   - norma_id: norm-es-2021-20113
   - norma_id: norm-es-2010-12201
   - norma_id: norm-es-lo-1-2004
+fundamentos_derecho:
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-can-l-16-2003
+- norma_id: norm-es-2015-8470
+- norma_id: norm-es-l-39-2015
+- norma_id: norm-es-l-40-2015
+- norma_id: norm-es-1995-25444
+- norma_id: norm-es-lo-1-1996
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-lo-5-2000
+- norma_id: norm-es-2015-8222
+- norma_id: norm-es-lo-3-2018
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
+- norma_id: norm-es-lo-1-2004
 ---
-
 # Ley Orgánica 8/2021, de 4 de junio, de protección integral a la infancia y la adolescencia frente a la violencia.
 
 ## Preámbulo
@@ -514,7 +528,7 @@ Por último, se crean nuevos tipos delictivos para evitar la impunidad de conduc
 
 La disposición final séptima modifica la Ley 1/1996, de 10 de enero, de asistencia jurídica gratuita, reconociendo el derecho a la asistencia jurídica gratuita a las personas menores de edad y las personas con discapacidad necesitadas de especial protección cuando sean víctimas de delitos violentos graves con independencia de sus recursos para litigar.
 
-La disposición final octava correspondiente a la modificación de la Ley Orgánica 1/1996, de 15 de enero, de Protección Jurídica del Menor, de modificación parcial del Código Civil y de la Ley de Enjuiciamiento Civil, viene a completar la revisión del sistema de protección de la infancia y adolescencia llevada a cabo en el año 2015 con la descripción de los indicadores de riesgo para la valoración de la situación de riesgo. Asimismo, se introduce un nuevo
+La disposición final octava correspondiente a la modificación de la [Ley Orgánica 1/1996](../01_marco_normativo_general_y_organico/LO1_1996_proteccion_juridica_menor_modificacion_parcial_codigo.md), de 15 de enero, de Protección Jurídica del Menor, de modificación parcial del Código Civil y de la Ley de Enjuiciamiento Civil, viene a completar la revisión del sistema de protección de la infancia y adolescencia llevada a cabo en el año 2015 con la descripción de los indicadores de riesgo para la valoración de la situación de riesgo. Asimismo, se introduce un nuevo
 
 #### Artículo 14 bis. para.
 
@@ -1224,7 +1238,7 @@ del Convenio de Relaciones Consulares de Viena y demás normativa internacional 
 
 ## Capítulo XII. De la Agencia Española de Protección de Datos artículo 52 de la Agencia Española de Protección de Datos.
 
-1. La Agencia Española de Protección de Datos ejercerá las funciones y potestades que le corresponden de acuerdo con lo previsto en el artículo 47 de la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos de Carácter Personal, con el fin de garantizar una protección específica de los datos personales de las personas menores de edad en los casos de violencia ejercida sobre la infancia y la adolescencia, especialmente cuando se realice a través de las tecnologías de la información y la comunicación.
+1. La Agencia Española de Protección de Datos ejercerá las funciones y potestades que le corresponden de acuerdo con lo previsto en el artículo 47 de la [Ley Orgánica 3/2018](../02_gestion_y_administracion_centros/LO3_2018_proteccion_datos_personales_garantia_derechos_digitales.md), de 5 de diciembre, de Protección de Datos de Carácter Personal, con el fin de garantizar una protección específica de los datos personales de las personas menores de edad en los casos de violencia ejercida sobre la infancia y la adolescencia, especialmente cuando se realice a través de las tecnologías de la información y la comunicación.
 
 2. La Agencia garantizará la disponibilidad de un canal accesible y seguro de denuncia de la existencia de contenidos ilícitos en Internet que comportaran un menoscabo grave del derecho a la protección de datos personales.
 
@@ -2308,7 +2322,7 @@ Del resultado de la exploración se levantará en todo caso, acta por el Letrado
 
 Tanto el Ministerio Fiscal en su informe como la autoridad judicial en la resolución que ponga fin al procedimiento deberán valorar motivadamente la exploración practicada.
 
-En lo no previsto en este precepto, se aplicará lo dispuesto en la Ley Orgánica 1/1996, de 15 de enero, de Protección Jurídica del Menor, de modificación parcial del Código Civil y de la Ley de Enjuiciamiento Civil.»
+En lo no previsto en este precepto, se aplicará lo dispuesto en la [Ley Orgánica 1/1996](../01_marco_normativo_general_y_organico/LO1_1996_proteccion_juridica_menor_modificacion_parcial_codigo.md), de 15 de enero, de Protección Jurídica del Menor, de modificación parcial del Código Civil y de la Ley de Enjuiciamiento Civil.»
 
 Disposición final decimosexta.... Modificación de la Ley Orgánica 7/2015, de 21 de julio, por la que se modifica la Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial.
 

@@ -29,8 +29,17 @@ relaciones:
   - norm-es-lo-2-2006
   - norm-es-rdl-5-2015
 fuente_pdf_oficial: https://www.bocm.es/boletin/CM_Orden_BOCM/2026/08/05/BOCM-20260805-6.PDF
+fundamentos_derecho:
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-mad-d248-2023
+- norma_id: norm-es-l-39-2015
+- norma_id: norm-es-l-40-2015
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
+- norma_id: norm-es-rd-276-2007
+- norma_id: norm-es-2007-5478
 ---
-
 # Resolución de 27 de julio de 2026, de la Dirección General de Recursos Humanos, por la que se regula la fase de prácticas de los aspirantes seleccionados en los procedimientos selectivos para ingreso en el Cuerpo de Maestros (BOCM n.º 186, de 5 de agosto de 2026).
 
 ## Preámbulo
@@ -44,8 +53,8 @@ manos, por la que se regula la fase de prácticas de los aspirantes seleccionado
 en el proceso selectivo para ingreso en el cuerpo de Maestros, convocado por
 Resolución de 2 de febrero de 2026.
 El Reglamento de ingreso y adquisición de nuevas especialidades en los cuerpos de
-funcionarios docentes a los que se refiere la Ley Orgánica 2/2006, de 3 de mayo, de Edu-
-cación, aprobado por el Real Decreto 276/2007, de 23 de febrero, regula en los artículos 30
+funcionarios docentes a los que se refiere la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Edu-
+cación, aprobado por el [Real Decreto 276/2007](../../../estatal/08_personal_docente/RD276_2007_aprueba_reglamento_ingreso_accesos_adquisicion_nuevas.md), de 23 de febrero, regula en los artículos 30
 y 31 la fase de prácticas del personal que resulte seleccionado en los diferentes procedi-
 mientos selectivos.
 La Resolución de 2 de febrero de 2026, de la Dirección General de Recursos Huma-
@@ -80,7 +89,7 @@ en prácticas, pudiendo dirigir un mismo tutor a funcionarios en prácticas de v
 lidades en función de la distribución de los mismos en los distintos centros públicos de en-
 señanzas no universitarias de la Comunidad de Madrid.
 Por cuanto antecede, esta Dirección General de Recursos Humanos, en virtud de las
-atribuciones conferidas en el Decreto 248/2023, de 11 de octubre, del Consejo de Gobier-
+atribuciones conferidas en el [Decreto 248/2023](../01_marco_normativo_general_y_organico/D248_2023_estructura_organica_consejeria_educacion_ciencia_universidades_madrid.md), de 11 de octubre, del Consejo de Gobier-
 no, por el que se establece la estructura orgánica de la Consejería de Educación, Ciencia y
 Universidades,
 
@@ -99,7 +108,7 @@ Segundo
 Comisión de Coordinación: Composición, constitución, funciones y sede
 2.1. Composición.
 Para organizar la fase de prácticas de conformidad con lo establecido en el artículo 30
-y 31 del Real Decreto 276/2007, de 23 de febrero, se constituirá una Comisión de Coordi-
+y 31 del [Real Decreto 276/2007](../../../estatal/08_personal_docente/RD276_2007_aprueba_reglamento_ingreso_accesos_adquisicion_nuevas.md), de 23 de febrero, se constituirá una Comisión de Coordi-
 nación integrada por el titular de:
 — Dirección General de Recursos Humanos o persona en quien delegue.
 — Dirección General de Bilingüismo y Calidad de la Enseñanza o persona en quien
@@ -116,7 +125,7 @@ en quien delegue, salvo que la propia Comisión acuerde determinarlo de otra man
 2.2. Constitución.
 La Comisión de Coordinación deberá constituirse durante el mes de septiembre
 de 2026. La constitución podrá realizarse tanto de forma presencial como telemática y se
-ajustará a lo dispuesto en el artículo 17 de la Ley 40/2015, de 1 de octubre de Régimen Ju-
+ajustará a lo dispuesto en el artículo 17 de la [Ley 40/2015](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md), de 1 de octubre de Régimen Ju-
 rídico del Sector Público. Del acto de constitución se levantará el acta correspondiente.
 2.3. Funciones.
 Son funciones de la Comisión de Coordinación, las siguientes:
@@ -182,12 +191,12 @@ siguiendo la secuencia: “Funcionarios Docentes”, “Procesos selectivos”, 
 3.3. Abstención/recusación.
 Los miembros de las Comisiones de Evaluación deberán abstenerse de intervenir
 cuando concurran en ellos cualquiera de las circunstancias previstas en el artículo 23 de la
-Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, debiendo comuni-
+[Ley 40/2015](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md), de 1 de octubre, de Régimen Jurídico del Sector Público, debiendo comuni-
 car a la Dirección General de Recursos Humanos, la causa que motive su abstención, justi-
 ficándola documentalmente.
 Asimismo, las personas interesadas podrán recusar ante la Comisión de Coordinación
 a los miembros de las Comisiones de Evaluación cuando concurran en ellos las circunstan-
-cias previstas en el artículo 24 de la mencionada Ley 40/2015, de 1 de octubre. De ser acep-
+cias previstas en el artículo 24 de la mencionada [Ley 40/2015](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md), de 1 de octubre. De ser acep-
 tadas la abstención o recusación de alguno de los miembros de la Comisión, el presidente
 de la Comisión autorizará la suplencia del mismo, teniendo en cuenta que deberá recaer en
 el suplente correspondiente.
@@ -198,7 +207,7 @@ Las Comisiones de Evaluación deberán constituirse dentro del plazo de 7 días 
 contados a partir del día siguiente al de la publicación de la resolución con el nombramien-
 to de los miembros, tanto titulares como suplentes, de las Comisiones de Evaluación, seña-
 ladas en el apartado 3.2 de esta resolución. La constitución podrá realizarse tanto de forma
-presencial como temática y se ajustará a lo dispuesto en el artículo 17 de la Ley 40/2015,
+presencial como temática y se ajustará a lo dispuesto en el artículo 17 de la [Ley 40/2015](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md),
 de 1 de octubre de Régimen Jurídico del Sector Público. De tal acto de constitución se le-
 
 BOCM-20260805-6
@@ -507,9 +516,9 @@ nado, quedarán eximidos de la evaluación de las mismas, permaneciendo en esta 
 hasta la aprobación del expediente del procedimiento selectivo y su posterior nombramien-
 to como funcionarios de carrera, de conformidad con lo dispuesto en el artículo 29 del Re-
 glamento de ingreso, accesos y adquisición de nuevas especialidades en los cuerpos docen-
-tes a que se refiere la Ley Orgánica 2/2006, de 3 de mayo, de Educación, y se regula el
+tes a que se refiere la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, y se regula el
 régimen transitorio de ingreso a que se refiere la disposición transitoria decimoséptima de
-la citada ley, aprobado por Real Decreto 276/2007, de 23 de febrero.
+la citada ley, aprobado por [Real Decreto 276/2007](../../../estatal/08_personal_docente/RD276_2007_aprueba_reglamento_ingreso_accesos_adquisicion_nuevas.md), de 23 de febrero.
 Asimismo, los aspirantes que, habiendo superado las fases de oposición y concurso,
 acrediten haber prestado servicios durante, al menos, un curso escolar como funcionarios
 docentes de carrera, estarán exentos de la evaluación de la fase de prácticas.
@@ -594,7 +603,7 @@ Todas las cuestiones de interpretación de la presente resolución serán resuel
 Dirección General de Recursos Humanos, oída la Comisión de Coordinación.
 Decimonoveno
 Recursos
-De conformidad con los artículos 121 y 122 de la Ley 39/2015, de 1 de octubre, del
+De conformidad con los artículos 121 y 122 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del
 Procedimiento Administrativo común de las Administraciones Públicas, esta Resolución,
 que no agota la vía administrativa, podrá ser recurrida en alzada ante la Viceconsejería de
 Política y Organización Educativa, en el plazo de un mes contado a partir del día siguiente

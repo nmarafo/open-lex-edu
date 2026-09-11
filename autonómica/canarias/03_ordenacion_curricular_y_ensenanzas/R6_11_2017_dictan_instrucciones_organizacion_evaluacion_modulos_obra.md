@@ -71,15 +71,22 @@ relaciones:
   - norma_id: norm-can-d-135-2016
   - norma_id: norm-can-d-212-1991
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2017-220-5354.pdf
+fundamentos_derecho:
+- norma_id: norm-can-d-135-2016
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-2016-3229
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
+- norma_id: norm-es-2007-10487
 ---
-
 # Resolución de 6 de noviembre de 2017, de la Dirección General de Formación Profesional y Educación de Adultos, por la que se dictan instrucciones para la organización y la evaluación de los módulos de obra final y de proyecto integrado de las enseñanzas profesionales de Artes Plásticas y Diseño en la Comunidad Autónoma de Canarias (BOC n.º 220, de 15 de noviembre).
 
 ## Preámbulo
 
 Primero.- El Gobierno, previa consulta a las Comunidades Autónomas, ha establecido mediante reales decretos las titulaciones correspondientes a las enseñanzas profesionales de artes plásticas y diseño, los aspectos básicos del currículo y las familias profesionales artísticas en las que se agrupan.
 Segundo.- La Comunidad Autónoma de Canarias, en el ámbito de sus competencias, ha fijado mediante decretos el currículo de ciclos formativos de grado medio y superior de artes plásticas y diseño pertenecientes a las familias profesionales artísticas de Comunicación Gráfica y Audiovisual, Cerámica Artística y Escultura, así como las directrices y determinaciones para su organización e implantación. Por todo ello, resulta procedente dictar instrucciones para la adecuada organización y evaluación de los módulos de Obra final y de Proyecto integrado en los ciclos formativos de las enseñanzas profesionales de artes plásticas y diseño en la Comunidad Autónoma de Canarias. FUNDAMENTOS DE DERECHO
-Primero.- La [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, modificada por la Ley Orgánica 8/2013, de 9 de diciembre, para la Mejora de la calidad Educativa, establece en el artículo 51 la.
+Primero.- La [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, modificada por la [Ley Orgánica 8/2013](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md), de 9 de diciembre, para la Mejora de la calidad Educativa, establece en el artículo 51 la.
 
 organización de las enseñanzas profesionales de artes plásticas y diseño. Segundo.- El [Real Decreto 596/2007](../../../estatal/05_alumnado_y_servicios_escolares/RD596_2007_establece_ordenacion_general_ensenanzas_profesionales_artes.md), de 4 de mayo, por el que se establece la ordenación general de las enseñanzas profesionales de artes plásticas y diseño (BOE nº 125, de 25 de mayo), regula en su artículo 8 aspectos referidos a los módulos de Obra final y de Proyecto integrado.
 Tercero.- El Decreto 159/2017, de 31 de mayo, por el que se establecen los currículos de los ciclos formativos de grado medio y grado superior de artes plásticas y diseño de la familia profesional artística de Comunicación Gráfica y Audiovisual en el ámbito de la Comunidad

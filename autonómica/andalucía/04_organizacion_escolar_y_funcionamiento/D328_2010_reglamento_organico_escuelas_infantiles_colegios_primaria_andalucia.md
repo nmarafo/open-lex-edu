@@ -428,8 +428,20 @@ relaciones:
   - norma_id: norm-es-l-39-2015
   - norma_id: norm-es-l-40-2015
   - norma_id: norm-and-l17-2007
+fundamentos_derecho:
+- norma_id: norm-and-l12-2007-promocion-igualdad-genero-andalucia
+- norma_id: norm-and-l17-2007
+- norma_id: norm-and-l6-2006-gobierno-comunidad-autonoma-andalucia
+- norma_id: norm-and-l9-2007-administracion-junta-andalucia-laja
+- norma_id: norm-and-d-329-2010
+- norma_id: norm-and-d-71-2009
+- norma_id: norm-and-d25-2007-prevencion-riesgos-laborales-salud-trabajo-centros-docentes-andalucia
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-lo-8-1985
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
 ---
-
 # Decreto 328/2010, de 13 de julio, por el que se aprueba el Reglamento Orgánico de las escuelas infantiles de segundo grado, de los colegios de educación primaria, de los colegios de educación infantil y primaria, y de los centros públicos específicos de educación especial.
 
 ## Preámbulo
@@ -471,13 +483,13 @@ nuestros centros, tienen hoy. Idéntica consideración hay que
 hacer de los centros públicos específicos de educación espe-
 cial a los que también resulta de aplicación el Reglamento que 
 se aprueba por el presente Decreto.
-La Ley Orgánica 2/2006, de 3 de mayo, de Educación, 
+La [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, 
 ha introducido importantes novedades en la organización, fun-
 cionamiento y gobierno de los colegios de educación infantil y 
 primaria, profundizando en los conceptos de participación de 
 la comunidad educativa y de autonomía pedagógica, organiza-
 tiva y de gestión.
-Por otra parte, la Ley 17/2007, de 10 de diciembre, de 
+Por otra parte, la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre, de 
 Educación de Andalucía, reconoce dichos principios al dedicar 
 el título I a la comunidad educativa: alumnado, profesorado, al 
 que concede el papel relevante que representa en el sistema 
@@ -496,7 +508,7 @@ su liderazgo pedagógico y organizativo. Finalmente, pone énfa-
 sis en la coordinación de las actuaciones de los distintos órga-
 nos y en el trabajo en equipo del profesorado. 
 Los cambios mencionados, junto con la necesidad de con-
-cretar y desarrollar los aspectos regulados en la Ley 17/2007, 
+cretar y desarrollar los aspectos regulados en la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), 
 de 10 de diciembre, requieren de la derogación del reglamento 
 de organización y funcionamiento de los centros de educación 
 infantil y primaria actualmente en vigor.
@@ -534,7 +546,7 @@ manera que el alumnado sea partícipe en la edificación de la
 sociedad del conocimiento.
 Por otra parte, la atribución de mayores competencias a 
 los directores y directoras, en desarrollo de lo establecido en 
-la mencionada Ley 17/2007, de 10 de diciembre, junto con 
+la mencionada [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre, junto con 
 la simplificación administrativa constituyen, indudablemente, 
 un novedoso marco regulador de la organización y funciona-
 miento de los centros docentes respecto al modelo hoy vi-
@@ -558,7 +570,7 @@ educativos y de convivencia, como forma de asunción de res-
 ponsabilidades compartidas en la tarea de educar a sus hijos 
 e hijas, entre las que cabría señalar la de colaboración en el 
 uso seguro de internet por el alumnado en consonancia con lo 
-regulado en el Decreto 25/2007, de 6 de febrero, por el que 
+regulado en el [Decreto 25/2007](./D25_2007_prevencion_riesgos_laborales_salud_trabajo_centros_docentes_andalucia.md), de 6 de febrero, por el que 
 se establecen medidas para el fomento, la prevención de ries-
 gos y la seguridad en el uso de internet y las tecnologías de la 
 
@@ -580,7 +592,7 @@ conformidad en lo establecido en el artículo 45.1.c) de la Ley
 tónoma de Andalucía.
 En su virtud, a propuesta del Consejero de Educación, 
 de conformidad con lo establecido en el artículo 27.9 de la 
-Ley 6/2006, de 24 de octubre, de acuerdo con el Consejo 
+[Ley 6/2006](../01_marco_normativo_general_y_organico/L6_2006_gobierno_comunidad_autonoma_andalucia.md), de 24 de octubre, de acuerdo con el Consejo 
 Consultivo de Andalucía y previa deliberación del Consejo de 
 Gobierno en su reunión del día 13 de julio de 2010,
 D I S P O N G O
@@ -766,7 +778,7 @@ letras c) y j), 68.1, 70.1 letras a), b), d), e), g), h), i), j), k), l), n) y
 r) y 75.1 del Reglamento Orgánico que se aprueba mediante el 
 presente Decreto, reproducen normas dictadas por el Estado 
 al amparo del artículo 149.1.1.ª y 30.ª de la Constitución Es-
-pañola y recogidas en la Ley Orgánica 8/1985, de 3 de julio, 
+pañola y recogidas en la [Ley Orgánica 8/1985](../../../estatal/02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md), de 3 de julio, 
 reguladora del Derecho a la Educación, y en la Ley Orgánica 
 2/2006, de 3 de mayo, de Educación.
 Disposición final tercera. Reproducción de la normativa 
@@ -781,9 +793,9 @@ mediante el presente Decreto, así como el apartado 1 de la
 disposición adicional segunda y el apartado 1 de la disposición 
 adicional tercera del presente Decreto, reproducen normas 
 dictadas por la Comunidad Autónoma de Andalucía y recogi-
-das en la Ley 17/2007, de 10 de diciembre, de Educación de 
-Andalucía, en la Ley 9/2007, de 22 de octubre, de la Adminis-
-tración de la Junta de Andalucía, en la Ley 12/2007, de 26 de 
+das en la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre, de Educación de 
+Andalucía, en la [Ley 9/2007](../01_marco_normativo_general_y_organico/L9_2007_administracion_junta_andalucia_laja.md), de 22 de octubre, de la Adminis-
+tración de la Junta de Andalucía, en la [Ley 12/2007](../01_marco_normativo_general_y_organico/L12_2007_promocion_igualdad_genero_andalucia.md), de 26 de 
 noviembre, para la Promoción de la Igualdad de Género en 
 Andalucía, y en la Ley 13/2007, de 26 de noviembre, de Pre-
 vención y Protección Integral contra la Violencia de Género.
@@ -1164,7 +1176,7 @@ que haya podido ser objeto, así como del Plan de Centro esta-
 blecido por el mismo.
 4. Las asociaciones de madres y padres del alumnado 
 se inscribirán en el Censo de Entidades Colaboradoras de la 
-Enseñanza, a que se refiere el Decreto 71/2009, de 31 de 
+Enseñanza, a que se refiere el [Decreto 71/2009](../02_gestion_y_administracion_centros/D71_2009_regula_censo_entidades_colaboradoras_ensenanza_andalucia.md), de 31 de 
 marzo, por el que se regula el Censo de Entidades Colabora-
 doras de la Enseñanza.
 5. Se facilitará la colaboración de las asociaciones de 
@@ -1256,7 +1268,7 @@ de lo dispuesto en el presente Reglamento.
 3. Los centros creados con arreglo a lo establecido en 
 el apartado anterior tendrán, a todos los efectos, el carácter 
 de centros públicos, de acuerdo con la disposición adicional 
-segunda de la Ley Orgánica 8/1985, de 3 de julio.
+segunda de la [Ley Orgánica 8/1985](../../../estatal/02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md), de 3 de julio.
 Artículo 17. Modificación de la red de centros.
 1. La red de los centros a los que se refiere el artícu-
 lo 15.1 podrá ser modificada por Orden de la persona titu-
@@ -1272,7 +1284,7 @@ primaria y de educación especial que se estimen necesarias
 para la atención de poblaciones con especiales características 
 sociodemográficas o escolares.
 3. De conformidad con lo establecido en el artículo 107.5 
-de la Ley Orgánica 2/2006, de 3 de mayo, la persona titular 
+de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, la persona titular 
 de la Consejería competente en materia de educación podrá 
 autorizar la agrupación de las unidades creadas, con arreglo a 
 lo dispuesto en el apartado anterior, de forma que entre ellas 
@@ -1310,8 +1322,8 @@ de educación primaria, los colegios de educación infantil y
 primaria y los centros públicos específicos de educación es-
 pecial contarán con autonomía pedagógica, de organización 
 y de gestión para poder llevar a cabo modelos de funciona-
-miento propios, en el marco de la Ley Orgánica 2/2006, de 
-3 de mayo, de la Ley 17/2007, de 10 de diciembre, en los 
+miento propios, en el marco de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 
+3 de mayo, de la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre, en los 
 términos recogidos en este Reglamento y en las normas que 
 lo desarrollen.
 2. Dichos modelos de funcionamiento propios, que po-
@@ -1379,8 +1391,8 @@ tural, hacen del centro un elemento dinamizador de la zona
 donde está ubicado.
 2. El proyecto educativo definirá los objetivos particulares 
 que el centro se propone alcanzar, partiendo de su realidad y 
-tomando como referencia la Ley Orgánica 2/2006, de 3 de 
-mayo, y la Ley 17/2007, de 10 de diciembre, acerca de los 
+tomando como referencia la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de 
+mayo, y la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre, acerca de los 
 principios que orientan cada una de las etapas educativas que 
 se imparten en el mismo y las correspondientes prescripcio-
 nes acerca del currículo.
@@ -1538,7 +1550,7 @@ de los equipos de evaluación a que se refiere el artículo 26.5.
 h) Las normas sobre la utilización en el centro de teléfo-
 nos móviles y otros aparatos electrónicos, así como el proce-
 dimiento para garantizar el acceso seguro a internet del alum-
-nado, de acuerdo con lo dispuesto en el Decreto 25/2007, 
+nado, de acuerdo con lo dispuesto en el [Decreto 25/2007](./D25_2007_prevencion_riesgos_laborales_salud_trabajo_centros_docentes_andalucia.md), 
 de 6 de febrero, por el que se establecen medidas para el 
 fomento, la prevención de riesgos y la seguridad en el uso de 
 internet y las tecnologías de la información y la comunicación 
@@ -2065,7 +2077,7 @@ director o directora en relación con las conductas del de los
 alumnos y alumnas a que se refiere el artículo 36, podrán ser 
 revisadas por el Consejo Escolar a instancia de los padres, ma-
 dres o representantes legales del alumnado, de acuerdo con 
-lo establecido en el artículo 127 de la Ley Orgánica 2/2006, 
+lo establecido en el artículo 127 de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), 
 de 3 de mayo, de Educación. A tales efectos, el director o di-
 rectora convocará una sesión extraordinaria del Consejo Esco-
 lar en el plazo máximo de dos días lectivos, contados desde 
@@ -2168,7 +2180,7 @@ miento de los órganos colegiados de gobierno.
 Para lo no previsto en los artículos 51 y 67, el régimen 
 de funcionamiento de los órganos colegiados de gobierno de 
 los centros docentes públicos será el establecido en el Capí-
-tulo II del Título IV de la Ley 9/2007, de 22 de octubre, de 
+tulo II del Título IV de la [Ley 9/2007](../01_marco_normativo_general_y_organico/L9_2007_administracion_junta_andalucia_laja.md), de 22 de octubre, de 
 la Administración de la Junta de Andalucía, en el Capítulo II 
 del Título II de la Ley 30/1992, de 26 de noviembre, y demás 
 normativa aplicable.
@@ -2290,7 +2302,7 @@ tora del centro.
 tores de la comunidad educativa en el Consejo Escolar se rea-
 lizará de forma que permita la representación equilibrada de 
 hombres y mujeres, de conformidad con lo establecido en el 
-artículo 19.2 de la Ley 9/2007, de 22 de octubre.
+artículo 19.2 de la [Ley 9/2007](../01_marco_normativo_general_y_organico/L9_2007_administracion_junta_andalucia_laja.md), de 22 de octubre.
 8. Una vez constituido el Consejo Escolar del centro, éste 
 designará una persona que impulse medidas educativas que 
 fomenten la igualdad real y efectiva entre hombres y mujeres.
@@ -2309,7 +2321,7 @@ tificación de la cuenta de gestión.
 c) Conocer las candidaturas a la dirección y los proyectos 
 de dirección presentados por las personas candidatas.
 d) Participar en la selección del director o directora del 
-centro en los términos que establece la Ley Orgánica 2/2006, 
+centro en los términos que establece la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), 
 de 3 de mayo. Ser informado del nombramiento y cese de 
 los demás miembros del equipo directivo. En su caso, previo 
 acuerdo de sus miembros, adoptado por mayoría de dos ter-
@@ -2320,7 +2332,7 @@ Sevilla, 16 de julio 2010
 cios, proponer la revocación del nombramiento del director o 
 directora.
 e) Decidir sobre la admisión del alumnado con sujeción 
-a lo establecido en la Ley Orgánica 2/2006, de 3 de mayo, y 
+a lo establecido en la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, y 
 disposiciones que la desarrollen.
 f) Realizar el seguimiento de los compromisos educati-
 vos y de convivencia suscritos en el centro, para garantizar su 
@@ -2772,7 +2784,7 @@ ción, de la innovación y de la investigación pedagógica y en la
 formación del profesorado del centro.
 f) Elegir sus representantes en el Consejo Escolar del cen-
 tro y participar en la selección del director o directora en los 
-términos establecidos en la Ley Orgánica 2/2006, de 3 de 
+términos establecidos en la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de 
 mayo, y demás normativa de aplicación.
 g) Conocer las candidaturas a la dirección y los proyectos 
 de dirección presentados por las personas candidatas.
@@ -3024,7 +3036,7 @@ La selección, nombramiento y cese de la dirección de las
 escuelas infantiles de segundo ciclo, de los colegios de educa-
 ción primaria, de los colegios de educación infantil y primaria 
 y de los centros específicos de educación especial se reali-
-zará según lo establecido en La Ley Orgánica 2/2006, de 3 de 
+zará según lo establecido en La [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de 
 mayo, y en las disposiciones que la desarrollan.
 Artículo 73. Competencias de la jefatura de estudios. 
 Son competencias de la jefatura de estudios: 
@@ -3341,7 +3353,7 @@ Artículo 86. Equipo de orientación.
 de educación primaria y los colegios de educación infantil y 
 primaria tendrán un equipo de orientación del que formará 
 parte un orientador del equipo de orientación educativa a los 
-que se refiere el artículo 144.1 de la Ley 17/2007, de 10 de 
+que se refiere el artículo 144.1 de la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de 
 diciembre, que se integrará en el Claustro de Profesorado de 
 aquel centro donde preste más horas de atención educativa. 
 Todo ello sin perjuicio de que, si lo desea, pueda integrarse en 
@@ -3601,7 +3613,7 @@ de las evaluaciones de los centros efectuadas por la Agencia
 Andaluza de Evaluación Educativa. 
  CONSEJERÍA DE ECONOMÍA, INNOVACIÓN
 Y CIENCIA
-DECRETO 329/2010, de 13 de julio, por el que se 
+[DECRETO 329/2010](../02_gestion_y_administracion_centros/D329_2010_reglamento_organico_centros_especificos_educacion_especial_andalucia.md), de 13 de julio, por el que se 
 autoriza la implantación de enseñanzas universitarias 
 de Grado, Máster y Doctorado, se actualiza el Catálogo 
 de Enseñanzas Universitarias conducentes a la expe-

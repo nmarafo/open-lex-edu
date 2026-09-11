@@ -34,8 +34,20 @@ relaciones:
   - norma_id: norm-and-l17-2007
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-l-39-2015
+fundamentos_derecho:
+- norma_id: norm-and-d154-2022
+- norma_id: norm-and-l17-2007
+- norma_id: norm-and-l9-2007-administracion-junta-andalucia-laja
+- norma_id: norm-and-d-167-2003
+- norma_id: norm-and-l9-1999-solidaridad-en-la-educacion-andalucia
+- norma_id: norm-and-d302-2010-ordenacion-funcion-publica-docente-seleccion-provision-andalucia
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-es-l-40-2015
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
+- norma_id: norm-es-lo-8-2021
 ---
-
 # Instrucciones de 28 de junio de 2024, de la Dirección General de Ordenación, Inclusión, Participación y Evaluación Educativa, por la que se regula la organización y el funcionamiento de las Aulas Hospitalarias en la Comunidad Autónoma de Andalucía.
 
 ## Preámbulo
@@ -56,7 +68,7 @@ su centro docente de referencia para preparar su regreso al Sistema Educativo or
 La Constitución Española, en el artículo 27, reconoce a todos los españoles el derecho a la educación y, en
 su artículo 9.2, encomienda a los poderes públicos que promuevan las condiciones y remuevan los
 obstáculos para que este derecho sea disfrutado en condiciones de igualdad por todos los ciudadanos.
-La Ley Orgánica 2/2006, de 3 de mayo, de Educación, regula en sus artículos 1 y 2 los principios y fines del
+La [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, regula en sus artículos 1 y 2 los principios y fines del
 Sistema Educativo, recogiendo entre ellos, la calidad y equidad de la educación, el ejercicio efectivo de los
 derechos del niño o niña y la inclusión educativa como elemento compensador de desigualdades. Para
 hacer efectivos estos principios las Administraciones públicas desarrollarán acciones dirigidas hacia las
@@ -148,14 +160,14 @@ Pk2jmLZ2ZEA44KBCKZFGD6RZ9WGGLR
 PÁGINA
 2/21
 Es copia auténtica de documento electrónico
-Conforme a lo dispuesto en el artículo 6 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector
+Conforme a lo dispuesto en el artículo 6 de la [Ley 40/2015](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md), de 1 de octubre, de Régimen Jurídico del Sector
 Público, los órganos administrativos podrán dirigir las actividades de sus órganos jerárquicamente
-dependientes mediante instrucciones y órdenes de servicio. De igual forma, la Ley 9/2007, de 22 de octubre,
+dependientes mediante instrucciones y órdenes de servicio. De igual forma, la [Ley 9/2007](../01_marco_normativo_general_y_organico/L9_2007_administracion_junta_andalucia_laja.md), de 22 de octubre,
 de la Administración de la Junta de Andalucía dispone que los órganos superiores y directivos tienen el
 deber de impulsar y dirigir la actividad administrativa mediante circulares, instrucciones y órdenes de
 servicio.
 Con la finalidad de regular la organización y funcionamiento de dichas actuaciones, y en virtud de las
-competencias que otorga el Decreto 154/2022, de 9 de agosto, por el que se establece la estructura orgánica
+competencias que otorga el [Decreto 154/2022](../01_marco_normativo_general_y_organico/D154_2022_estructura_organica_consejeria_desarrollo_educativo_andalucia.md), de 9 de agosto, por el que se establece la estructura orgánica
 de la Consejería de Desarrollo Educativo y Formación Profesional, la Dirección General de Ordenación,
 Inclusión, Participación y Evaluación Educativa dicta las siguientes
 INSTRUCCIONES
@@ -258,7 +270,7 @@ acuerdo con las necesidades en la atención educativa de dicho alumnado.
 públicos específicos, que respeten los principios de igualdad, mérito, capacidad y publicidad,
 desempeñando el profesorado seleccionado sus funciones en régimen de comisión de servicios, con reserva
 del puesto de trabajo, renovable cada año, previo informe favorable del Servicio Provincial de Inspección de
-Educación, según lo establecido en los artículos 24.1.c) y 31.3 f) del Decreto 302/2010, de 1 de junio, por el
+Educación, según lo establecido en los artículos 24.1.c) y 31.3 f) del [Decreto 302/2010](../08_personal_docente/D302_2010_ordenacion_funcion_publica_docente_seleccion_provision_andalucia.md), de 1 de junio, por el
 que se ordena la función pública docente y se regula la selección del profesorado y la provisión de los
 puestos de trabajo docentes.
 3. La Consejería con competencias en materia de educación establecerá el procedimiento de
@@ -275,7 +287,7 @@ Pk2jmLZ2ZEA44KBCKZFGD6RZ9WGGLR
 PÁGINA
 4/21
 Es copia auténtica de documento electrónico
-4. De acuerdo con lo establecido en el apartado 2 del artículo 22 de la Ley 9/1999, de 18 de noviembre, en la
+4. De acuerdo con lo establecido en el apartado 2 del artículo 22 de la [Ley 9/1999](./L9_1999_solidaridad_en_la_educacion_andalucia.md), de 18 de noviembre, en la
 atención educativa y asistencial del alumnado hospitalizado se favorecerá la participación y colaboración
 social. Para ello, la Consejería competente en materia de educación podrá formalizar convenios con
 entidades públicas y asociaciones sin ánimo de lucro. Este personal realizará sus funciones en coordinación
@@ -793,7 +805,7 @@ El informe individualizado elaborado por el equipo docente del centro (Anexo II)
 El plan de trabajo individualizado elaborado por el equipo docente (Anexo III).
 •
 Los registros de evaluación.
-5. De acuerdo con lo regulado en el artículo 33.7 del Decreto 167/2003, el alumnado hospitalizado que curse
+5. De acuerdo con lo regulado en el artículo 33.7 del [Decreto 167/2003](./D167_2003_atencion_alumnado_necesidades_educativas_especiales_andalucia.md), el alumnado hospitalizado que curse
 las enseñanzas en la modalidad a distancia, será evaluado por el equipo docente del Instituto Provincial de
 Educación Permanente correspondiente, de acuerdo con el procedimiento establecido. El profesorado
 responsable de la evaluación tendrá en cuenta las valoraciones recogidas en el informe de valoración final
@@ -814,7 +826,7 @@ establecerá los mecanismos de coordinación necesarios para unificar la actuaci
 educativos en los contextos hospitalarios.
 Decimonovena. Incorporación de las tecnologías de la información y la comunicación.
 1. El alumnado hospitalizado en los centros dependientes del sistema sanitario público de Andalucía
-dispondrá del equipamiento específico, conforme a lo establecido en el artículo 38.1 del Decreto 167/2003,
+dispondrá del equipamiento específico, conforme a lo establecido en el artículo 38.1 del [Decreto 167/2003](./D167_2003_atencion_alumnado_necesidades_educativas_especiales_andalucia.md),
 de 17 de junio, por el que se establece la ordenación de la atención educativa a los alumnos y alumnas con
 necesidades educativas especiales asociadas a condiciones sociales desfavorecidas.
 2. Para garantizar el acceso a la educación y la continuidad de los estudios del alumnado hospitalizado, las
@@ -910,7 +922,7 @@ Vigesimocuarta. Medidas para el cumplimiento de la legislación de protección d
 Para la realización de actividades de ocio, de carácter lúdico y recreativo en el tiempo libre del alumnado en
 el Aula Hospitalaria, incluidas las de las USMIJ, los profesionales que colaboren en las mismas deberán
 aportar certificación negativa del Registro Central de delincuentes sexuales conforme a lo establecido en el
-artículo 57 de la Ley Orgánica 8/2021, de 4 de junio, de protección integral a la infancia y la adolescencia
+artículo 57 de la [Ley Orgánica 8/2021](../../../estatal/07_convivencia_bienestar_y_protocolos/LO8_2021_proteccion_integral_infancia_adolescencia_frente_violencia.md), de 4 de junio, de protección integral a la infancia y la adolescencia
 frente a la violencia.
 Vigesimoquinta. Derogación.
 Quedan derogadas las Instrucciones de 2 de junio de 2007, de la Dirección General de Participación y
@@ -980,7 +992,7 @@ Viernes
 12:00-13:00
 13:00-14:00
 El horario propuesto será flexible, gestionando los momentos de descanso en función de su estado de salud
-Los datos contenidos en este Anexo se ajustan a lo establecido en los apartados 1 y 3 de la disposición adicional vigésimo tercera de la Ley Orgánica 2/2006, de 3 de
+Los datos contenidos en este Anexo se ajustan a lo establecido en los apartados 1 y 3 de la disposición adicional vigésimo tercera de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de
 mayo, de Educación, que establece que “los centros docentes podrán recabar cuantos datos personales del alumnado con necesidad específica de apoyo educativo sean
 necesarios para el ejercicio de su función educativa, así como de otras circunstancias cuyo conocimiento sea necesario para la orientación y educación de estos
 alumnos”. Asimismo, “el profesorado y el resto del personal que, en el ejercicio de sus funciones, acceda a datos personales y familiares o que afecten al honor e

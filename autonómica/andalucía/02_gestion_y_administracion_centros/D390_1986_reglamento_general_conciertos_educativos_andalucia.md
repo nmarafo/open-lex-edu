@@ -31,8 +31,9 @@ relaciones:
   - norma_id: norm-and-l17-2007
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-l-39-2015
+fundamentos_derecho:
+- norma_id: norm-and-l17-2007
 ---
-
 # Decreto 390/1986, de 10 de diciembre, por el que se aprueba el Reglamento General de Conciertos Educativos en Andalucía.
 
 ## Preámbulo

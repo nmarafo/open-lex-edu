@@ -52,8 +52,12 @@ relaciones:
   - norma_id: norm-es-2010-12201
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2014-021-349.pdf
 fuente_juriscan: http://www.gobiernodecanarias.org/juriscan/ficha.jsp?id=70096
+fundamentos_derecho:
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
 ---
-
 # Resolución de 14 de enero de 2014, por la que se determinan las características de las pruebas comunes de obtención del certificado de especialización de nivel C1 de enseñanzas de idiomas de régimen especial, en la Comunidad Autónoma de Canarias.
 
 ## Preámbulo

@@ -26,8 +26,13 @@ tags:
 - pruebas_acceso
 - ensenanzas_artisticas
 - madrid
+fundamentos_derecho:
+- norma_id: norm-mad-d248-2023
+- norma_id: norm-mad-d-17-2023
+- norma_id: norm-mad-d-187-2021
+- norma_id: norm-es-l-39-2015
+- norma_id: norm-es-lo-3-2018
 ---
-
 # Resolución de 12 de mayo de 2026, de la Dirección General de Enseñanzas Artísticas, por la que se concreta para el año 2026 la inscripción en la parte y prueba específica de acceso a ciclos formativos de grado medio y de grado superior de las enseñanzas profesionales de artes plásticas y diseño en la Comunidad de Madrid
 
 ## Preámbulo
@@ -53,7 +58,7 @@ diciones para la participación de la parte o prueba específica de las pruebas 
 rrespondientes a las enseñanzas profesionales de artes plásticas y diseño se establecerán por
 resolución de esta dirección general, que se publicará en el BOLETÍN OFICIAL DE LA CO-
 MUNIDAD DE MADRID.
-El Decreto 248/2023, de 11 de octubre, del Consejo de Gobierno, por el que se esta-
+El [Decreto 248/2023](../01_marco_normativo_general_y_organico/D248_2023_estructura_organica_consejeria_educacion_ciencia_universidades_madrid.md), de 11 de octubre, del Consejo de Gobierno, por el que se esta-
 blece la estructura orgánica de la Consejería de Educación, Ciencia y Universidades, en re-
 lación con el Decreto 76/2023, de 5 de julio, del Consejo de Gobierno, por el que se esta-
 blece la estructura orgánica básica de las Consejerías de la Comunidad de Madrid,
@@ -71,7 +76,7 @@ Destinatarios
 La parte o prueba específica de acceso a ciclos formativos de grado medio y grado su-
 perior de las enseñanzas profesionales de artes plásticas y diseño, en adelante, pruebas espe-
 cíficas, están destinadas a aquellas personas que deseen cursar estas enseñanzas y reúnan los
-requisitos de acceso indicados en los artículos 30 y 31 del Decreto 17/2023, de 15 de marzo,
+requisitos de acceso indicados en los artículos 30 y 31 del [Decreto 17/2023](./D17_2023_ordenacion_organizacion_ensenanzas_profesionales_artes_plasticas_diseno_madrid.md), de 15 de marzo,
 del Consejo de Gobierno, por el que se regula la ordenación y la organización general de las
 enseñanzas profesionales de artes plásticas y diseño en la Comunidad de Madrid.
 
@@ -242,7 +247,7 @@ https://raices.madrid.org/secretariavirtual o en los registros electrónicos pre
 
 BOCM-20260528-16
 BOCM
-en el artículo 16.4.a) de la Ley 39/2015, de 1 de octubre, del Procedimiento Admi-
+en el artículo 16.4.a) de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Admi-
 nistrativo Común de las Administraciones Públicas.
 El acceso a esta secretaría virtual podrá hacerse con uno de los certificados elec-
 trónicos reconocidos o cualificados de firma electrónica, que sean operativos en
@@ -262,7 +267,7 @@ b)
 De forma presencial, en la secretaría de los centros que figuran en el apartado se-
 gundo de esta resolución. Asimismo, se podrá presentar de forma presencial en
 cualquiera de los lugares previstos en el artículo 16.4 apartados b), c), d) y e) de
-la Ley 39/2015, de 1 de octubre.
+la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre.
 Si la solicitud se presenta en una oficina de Correos, deberá llevarse en sobre
 abierto para que la misma sea fechada y sellada por el personal de Correos antes
 de que se proceda a su certificación, y se remitirá al centro educativo donde se ce-
@@ -297,7 +302,7 @@ tiva a los solicitantes admitidos y excluidos en las pruebas el día 10 de julio
 de la Secretaría Virtual.
 Contra esta resolución la persona interesada podrá interponer recurso de alzada ante la
 Dirección de Área Territorial correspondiente a dicho centro, en el plazo de un mes desde
-su publicación en los términos previstos en los artículos 115, 121 y 122 de la Ley 39/2015,
+su publicación en los términos previstos en los artículos 115, 121 y 122 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md),
 de 1 de octubre. La resolución del titular de la Dirección de Área Territorial, que será mo-
 tivada, pondrá fin a la vía administrativa.
 4.
@@ -342,14 +347,14 @@ tes plásticas y diseño y la prueba sustitutiva de los requisitos académicos e
 el acceso a las enseñanzas deportivas de régimen especial y a las formaciones deportivas en
 período transitorio en la Comunidad de Madrid.
 3.
-En aplicación de lo dispuesto en el artículo 53.1 del Decreto 187/2021, de 21 de ju-
+En aplicación de lo dispuesto en el artículo 53.1 del [Decreto 187/2021](./D187_2021_pruebas_acceso_ciclos_formativos_fp_artes_plasticas_madrid.md), de 21 de ju-
 lio, el director del centro resolverá la solicitud de adaptación y la notificará al interesado antes
 del 14 de julio de 2026. En caso de silencio administrativo, este se considerará desestimatorio.
 4.
 Contra la resolución adoptada, la persona interesada podrá interponer, en el plazo
 de un mes a partir de su notificación, recurso de alzada ante la Dirección de Área Territo-
 rial correspondiente, que resolverá lo que proceda en los términos previstos en los artícu-
-los 115, 121 y 122 de la Ley 39/2015, de 1 de octubre. La resolución del titular de la Direc-
+los 115, 121 y 122 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre. La resolución del titular de la Direc-
 ción de Área Territorial, que será motivada, pondrá fin a la vía administrativa.
 Octavo
 Realización de las pruebas
@@ -362,7 +367,7 @@ cios de cada prueba se publicarán en los tablones de anuncios y páginas web de
 antes del día 15 de julio de 2026.
 3.
 Los contenidos de los ejercicios correspondientes a cada prueba son los establecidos
-en el anexo XIII del Decreto 187/2021, de 21 de julio, que deberán hacerse públicos en los lu-
+en el anexo XIII del [Decreto 187/2021](./D187_2021_pruebas_acceso_ciclos_formativos_fp_artes_plasticas_madrid.md), de 21 de julio, que deberán hacerse públicos en los lu-
 gares indicados en el apartado anterior desde el día en que comienza el plazo de inscripción
 hasta la fecha en que finalice el plazo de reclamación de las calificaciones obtenidas.
 4.
@@ -383,7 +388,7 @@ En lo referente a la obtención de los datos personales de los solicitantes y/o 
 sentantes legales y a la seguridad y confidencialidad de estos, se atenderá a lo dispuesto en
 el Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo, de 27 de abril
 de 2016, relativo a la protección de las personas físicas en lo que respecta al tratamiento de
-datos personales y en lo establecido en la Ley Orgánica 3/2018, de 5 de diciembre, de Pro-
+datos personales y en lo establecido en la [Ley Orgánica 3/2018](../../../estatal/02_gestion_y_administracion_centros/LO3_2018_proteccion_datos_personales_garantia_derechos_digitales.md), de 5 de diciembre, de Pro-
 tección de Datos Personales y garantía de los derechos digitales.
 Asimismo, en lo concerniente a la publicación de los listados, se estará a lo dispuesto
 en la Guía de Centros Educativos de la Agencia Española de Protección de Datos.

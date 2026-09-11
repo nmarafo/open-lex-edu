@@ -295,15 +295,23 @@ relaciones:
   - norma_id: norm-es-2021-18812
   - norma_id: norm-es-2021-20113
   - norma_id: norm-es-2010-12201
+fundamentos_derecho:
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-es-l-39-2015
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-lo-3-2018
+- norma_id: norm-es-2016-3229
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2021-18812
+- norma_id: norm-es-2010-12201
 ---
-
 # Real Decreto 243/2022, de 5 de abril, por el que se establecen la ordenación y las enseñanzas mínimas del Bachillerato.
 
 ## Preámbulo
 
 La Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, introduce importantes cambios, muchos de ellos derivados, tal y como indica la propia ley en su exposición de motivos, de la conveniencia de revisar las medidas previstas en el texto original con objeto de adaptar el sistema educativo a los retos y desafíos del siglo XXI, de acuerdo con los objetivos fijados por la Unión Europea y la UNESCO para la década 2020-2030.
 
-De acuerdo con este enfoque, el título preliminar del nuevo texto de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, incluye entre los principios y fines de la educación el cumplimiento efectivo de los derechos de la infancia según lo establecido en la Convención sobre los Derechos del Niño de Naciones Unidas, la inclusión educativa y la aplicación de los principios del Diseño Universal para el Aprendizaje.
+De acuerdo con este enfoque, el título preliminar del nuevo texto de la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, incluye entre los principios y fines de la educación el cumplimiento efectivo de los derechos de la infancia según lo establecido en la Convención sobre los Derechos del Niño de Naciones Unidas, la inclusión educativa y la aplicación de los principios del Diseño Universal para el Aprendizaje.
 
 Al mismo tiempo, la ley reformula, en primer lugar, la definición de currículo, enumerando los elementos que lo integran y señalando a continuación que su configuración deberá estar orientada a facilitar el desarrollo educativo de los alumnos y alumnas, garantizando su formación integral, contribuyendo al pleno desarrollo de su personalidad y preparándolos para el ejercicio pleno de los derechos humanos, de una ciudadanía activa y democrática en la sociedad actual, sin que en ningún caso ello pueda suponer una barrera que genere abandono escolar o impida el acceso y disfrute del derecho a la educación. En consonancia con esta visión, la ley, manteniendo el enfoque competencial que aparecía ya en el texto original, hace hincapié en el hecho de que esta formación integral necesariamente debe centrarse en el desarrollo de las competencias.
 
@@ -321,13 +329,13 @@ Los fines y principios que la ley establece para la etapa se concretan en los de
 
 Además, con el fin de facilitar al profesorado su propia práctica, se propone una definición de situación de aprendizaje y se enuncian orientaciones para su diseño.
 
-Finalmente, se establece para las diferentes materias el horario escolar que corresponde a las enseñanzas mínimas, de acuerdo con la proporción establecida en el artículo 6.4 de la Ley Orgánica 2/2006, de 3 de mayo, tras su modificación.
+Finalmente, se establece para las diferentes materias el horario escolar que corresponde a las enseñanzas mínimas, de acuerdo con la proporción establecida en el artículo 6.4 de la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, tras su modificación.
 
 Conforme a lo establecido en el apartado 5 de la disposición final quinta, de la Ley Orgánica 3/2020, de 29 de diciembre, las modificaciones introducidas por este real decreto en el currículo, la organización, objetivos y programas de Bachillerato se implantarán para el primer curso en el curso escolar 2022-2023, y para el segundo curso en el curso escolar 2023-2024. En esta norma se recogen, además, otras disposiciones referidas a aspectos esenciales de la ordenación de la etapa, como la tutoría, o la orientación, así como lo concerniente a la evaluación y los criterios para la promoción y la titulación, que, de acuerdo con la disposición final quinta de la Ley Orgánica 3/2020, de 29 de diciembre, resultan ya de aplicación para el curso 2021-2022 y han sido recogidos en el [Real Decreto 984/2021](RD984_2021_regulan_evaluacion_promocion_educacion_primaria_asi.md), de 16 de noviembre, por el que se regulan la evaluación y la promoción en la Educación Primaria, así como la evaluación, la promoción y la titulación en la Educación Secundaria Obligatoria, el Bachillerato y la Formación Profesional. Se determinan también las condiciones en las que se puede realizar una modificación y adaptación del currículo para las personas adultas, así como para el alumnado con necesidad específica de apoyo educativo.
 
-El presente real decreto se adecúa a los principios de buena regulación previstos en el artículo 129 de la [Ley 39/2015](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas. En lo que se refiere a los principios de necesidad y eficacia, se trata de una norma necesaria para la regulación de las enseñanzas de Bachillerato conforme a la nueva redacción de la Ley Orgánica 2/2006, de 3 de mayo, tras las modificaciones introducidas por la Ley Orgánica 3/2020, de 29 de diciembre. De acuerdo con el principio de proporcionalidad, contiene la regulación imprescindible de la estructura de estas enseñanzas al no existir ninguna alternativa regulatoria menos restrictiva de derechos. Conforme a los principios de seguridad jurídica y eficiencia, resulta coherente con el ordenamiento jurídico y permite una gestión más eficiente de los recursos públicos. Cumple también con el principio de transparencia, ya que identifica claramente su propósito y, durante el procedimiento de elaboración de la norma, se ha permitido la participación activa de los potenciales destinatarios a través del trámite de audiencia e información pública.
+El presente real decreto se adecúa a los principios de buena regulación previstos en el artículo 129 de la [Ley 39/2015](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas. En lo que se refiere a los principios de necesidad y eficacia, se trata de una norma necesaria para la regulación de las enseñanzas de Bachillerato conforme a la nueva redacción de la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, tras las modificaciones introducidas por la Ley Orgánica 3/2020, de 29 de diciembre. De acuerdo con el principio de proporcionalidad, contiene la regulación imprescindible de la estructura de estas enseñanzas al no existir ninguna alternativa regulatoria menos restrictiva de derechos. Conforme a los principios de seguridad jurídica y eficiencia, resulta coherente con el ordenamiento jurídico y permite una gestión más eficiente de los recursos públicos. Cumple también con el principio de transparencia, ya que identifica claramente su propósito y, durante el procedimiento de elaboración de la norma, se ha permitido la participación activa de los potenciales destinatarios a través del trámite de audiencia e información pública.
 
-El presente real decreto tiene carácter de norma básica y se dicta al amparo de las competencias que atribuye al Estado el artículo 149.1.30.ª de la Constitución Española, para la regulación de las condiciones de obtención, expedición y homologación de los títulos académicos y profesionales y normas básicas para el desarrollo del artículo 27 de la Constitución, a fin de garantizar el cumplimiento de las obligaciones de los poderes públicos en esta materia. Se recoge al mismo tiempo el mandato del artículo 6.3 de la Ley Orgánica 2/2006, de 3 de mayo, que encomienda al Gobierno, previa consulta a las comunidades autónomas, la determinación de los aspectos básicos del currículo, que constituyen las enseñanzas mínimas.
+El presente real decreto tiene carácter de norma básica y se dicta al amparo de las competencias que atribuye al Estado el artículo 149.1.30.ª de la Constitución Española, para la regulación de las condiciones de obtención, expedición y homologación de los títulos académicos y profesionales y normas básicas para el desarrollo del artículo 27 de la Constitución, a fin de garantizar el cumplimiento de las obligaciones de los poderes públicos en esta materia. Se recoge al mismo tiempo el mandato del artículo 6.3 de la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, que encomienda al Gobierno, previa consulta a las comunidades autónomas, la determinación de los aspectos básicos del currículo, que constituyen las enseñanzas mínimas.
 
 De acuerdo con la jurisprudencia del Tribunal Constitucional, procede en este caso establecer la extensión del carácter básico a una norma reglamentaria, ya que, conforme a la excepcionalidad admitida por dicho tribunal, entre otras, en las SSTC 25/1983, 32/1983 y 48/1988, «resulta complemento indispensable en determinados supuestos para asegurar el mínimo común denominador establecido en las normas legales básicas».
 
@@ -579,7 +587,7 @@ f) Matemáticas Aplicadas a las Ciencias Sociales II.
 
 #### Artículo 15. Organización del Bachillerato en tres años académicos.
 
-1. Conforme a lo previsto en el artículo 32.3 de la Ley Orgánica 2/2006, de 3 de mayo, las administraciones educativas dispondrán las medidas que posibiliten que un alumno o alumna realice el Bachillerato en tres años académicos, en régimen ordinario, siempre que sus circunstancias personales, permanentes o transitorias, lo aconsejen. En estos casos se contemplará la posibilidad de que el alumnado curse simultáneamente materias de ambos cursos de Bachillerato.
+1. Conforme a lo previsto en el artículo 32.3 de la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, las administraciones educativas dispondrán las medidas que posibiliten que un alumno o alumna realice el Bachillerato en tres años académicos, en régimen ordinario, siempre que sus circunstancias personales, permanentes o transitorias, lo aconsejen. En estos casos se contemplará la posibilidad de que el alumnado curse simultáneamente materias de ambos cursos de Bachillerato.
 
 2. Podrán acogerse a esta medida quienes se encuentren en alguna de las siguientes circunstancias:
 
@@ -627,7 +635,7 @@ h) Competencia en conciencia y expresión culturales.
 
 1. El conjunto de objetivos, competencias, contenidos enunciados en forma de saberes básicos, métodos pedagógicos y criterios de evaluación del Bachillerato constituyen el currículo de esta etapa.
 
-2. El presente real decreto fija los aspectos básicos del currículo que constituyen las enseñanzas mínimas del Bachillerato a los que se refiere el artículo 6.3 de la Ley Orgánica 2/2006, de 3 de mayo.
+2. El presente real decreto fija los aspectos básicos del currículo que constituyen las enseñanzas mínimas del Bachillerato a los que se refiere el artículo 6.3 de la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo.
 
 3. Las administraciones educativas establecerán, conforme a lo dispuesto en este real decreto, el currículo del Bachillerato, del que formarán parte en todo caso las enseñanzas mínimas fijadas en el mismo, que requerirán el 60 por ciento de los horarios escolares para las comunidades autónomas que no tengan lengua cooficial y el 50 por ciento para aquellas que la tengan.
 
@@ -721,7 +729,7 @@ b) El 40 % de la nota media obtenida en las enseñanzas mediante las que se ac
 
 #### Artículo 26. Autonomía de los centros.
 
-1. Al establecer el currículo de Bachillerato, las administraciones educativas facilitarán a los centros el ejercicio de su autonomía pedagógica, de organización y de gestión, en los términos recogidos en la Ley Orgánica 2/2006, de 3 de mayo, y en las normas que la desarrollan, favorecerán el trabajo en equipo del profesorado y estimularán su actividad investigadora a partir de la práctica docente.
+1. Al establecer el currículo de Bachillerato, las administraciones educativas facilitarán a los centros el ejercicio de su autonomía pedagógica, de organización y de gestión, en los términos recogidos en la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, y en las normas que la desarrollan, favorecerán el trabajo en equipo del profesorado y estimularán su actividad investigadora a partir de la práctica docente.
 
 2. Corresponde a las administraciones educativas contribuir al desarrollo y adaptación del currículo por parte de los centros, favoreciendo la elaboración de modelos abiertos de programación docente y de materiales didácticos que atiendan a las distintas necesidades de los alumnos y alumnas, y del profesorado, con el fin de adecuarlo a sus diferentes realidades educativas bajo los principios del Diseño Universal para el Aprendizaje.
 
@@ -747,7 +755,7 @@ Las administraciones educativas garantizarán el derecho del alumnado a que su d
 
 2. El historial académico y, en su caso, el informe personal por traslado se consideran documentos básicos para garantizar la movilidad del alumnado por todo el territorio nacional.
 
-3. Los documentos oficiales de evaluación deberán recoger siempre la norma de la administración educativa que establece el currículo correspondiente. Cuando hayan de surtir efectos fuera del ámbito de una comunidad autónoma cuya lengua tenga estatutariamente atribuido carácter oficial, se estará a lo dispuesto en el artículo 15.3 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.
+3. Los documentos oficiales de evaluación deberán recoger siempre la norma de la administración educativa que establece el currículo correspondiente. Cuando hayan de surtir efectos fuera del ámbito de una comunidad autónoma cuya lengua tenga estatutariamente atribuido carácter oficial, se estará a lo dispuesto en el artículo 15.3 de la [Ley 39/2015](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.
 
 #### Artículo 30. Actas de evaluación.
 
@@ -787,17 +795,17 @@ Las administraciones educativas garantizarán el derecho del alumnado a que su d
 
 1. Las administraciones educativas establecerán los procedimientos oportunos para garantizar la autenticidad de los documentos oficiales de evaluación, la integridad de los datos recogidos en los mismos y su supervisión y custodia, así como su conservación y traslado en caso de supresión o extinción del centro.
 
-2. En lo referente a la obtención de los datos personales del alumnado, a la cesión de los mismos de unos centros a otros y a la seguridad y confidencialidad de estos, se estará a lo dispuesto en la legislación vigente en materia de protección de datos de carácter personal y, en todo caso, a lo establecido en la disposición adicional vigésima tercera de la Ley Orgánica 2/2006, de 3 de mayo.
+2. En lo referente a la obtención de los datos personales del alumnado, a la cesión de los mismos de unos centros a otros y a la seguridad y confidencialidad de estos, se estará a lo dispuesto en la legislación vigente en materia de protección de datos de carácter personal y, en todo caso, a lo establecido en la disposición adicional vigésima tercera de la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo.
 
-3. Los documentos oficiales de evaluación y sus procedimientos de validación descritos en los apartados anteriores podrán ser sustituidos por sus equivalentes realizados por medios electrónicos, informáticos o telemáticos, siempre que quede garantizada su autenticidad, integridad, conservación, y se cumplan las garantías y los requisitos establecidos por la Ley Orgánica 3/2018, de 5 de diciembre, y por la Ley 39/2015, de 1 de octubre, así como por la normativa que las desarrolla.
+3. Los documentos oficiales de evaluación y sus procedimientos de validación descritos en los apartados anteriores podrán ser sustituidos por sus equivalentes realizados por medios electrónicos, informáticos o telemáticos, siempre que quede garantizada su autenticidad, integridad, conservación, y se cumplan las garantías y los requisitos establecidos por la [Ley Orgánica 3/2018](../02_gestion_y_administracion_centros/LO3_2018_proteccion_datos_personales_garantia_derechos_digitales.md), de 5 de diciembre, y por la [Ley 39/2015](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, así como por la normativa que las desarrolla.
 
 4. El expediente electrónico del alumnado estará constituido, al menos, por los datos contenidos en los documentos oficiales de evaluación, y cumplirá con lo establecido en el Real Decreto 4/2010, de 8 de enero, por el que se regula el Esquema Nacional de Interoperabilidad en el ámbito de la Administración Electrónica.
 
-5. El Ministerio de Educación y Formación Profesional, previa consulta a las comunidades autónomas, en el marco de la Conferencia Sectorial de Educación, establecerá la estructura y formato de, al menos, los datos contenidos en los documentos oficiales de evaluación del expediente electrónico del alumnado enumerados en el presente artículo, de acuerdo con lo previsto en el artículo 111.bis y en el apartado 4 de la disposición adicional vigesimotercera de la Ley Orgánica 2/2006, de 3 de mayo, que, junto con otros, garanticen la interoperabilidad entre los distintos sistemas de información utilizados en el sistema educativo español.
+5. El Ministerio de Educación y Formación Profesional, previa consulta a las comunidades autónomas, en el marco de la Conferencia Sectorial de Educación, establecerá la estructura y formato de, al menos, los datos contenidos en los documentos oficiales de evaluación del expediente electrónico del alumnado enumerados en el presente artículo, de acuerdo con lo previsto en el artículo 111.bis y en el apartado 4 de la disposición adicional vigesimotercera de la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, que, junto con otros, garanticen la interoperabilidad entre los distintos sistemas de información utilizados en el sistema educativo español.
 
 #### Disposición adicional primera. Enseñanzas de religión.
 
-1. Las enseñanzas de religión se incluirán en el Bachillerato de acuerdo con lo establecido en la disposición adicional segunda de la Ley Orgánica 2/2006, de 3 de mayo.
+1. Las enseñanzas de religión se incluirán en el Bachillerato de acuerdo con lo establecido en la disposición adicional segunda de la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo.
 
 2. Las administraciones educativas garantizarán que, al inicio del curso, los alumnos y alumnas mayores de edad y los padres, madres, tutores o tutoras del alumnado menor de edad puedan manifestar su voluntad de recibir o no enseñanzas de religión.
 
@@ -811,7 +819,7 @@ Las administraciones educativas garantizarán el derecho del alumnado a que su d
 
 1. Las administraciones educativas podrán autorizar que una parte de las materias del currículo se impartan en lenguas extranjeras sin que ello suponga modificación de los aspectos básicos del currículo regulados en este real decreto. En este caso, procurarán que a lo largo de ambos cursos los alumnos y alumnas adquieran la terminología propia de las materias en la lengua extranjera y en la lengua o lenguas oficiales de la comunidad autónoma.
 
-2. El hecho de que los centros públicos y privados concertados impartan sus enseñanzas conforme a lo previsto en el apartado anterior en ningún caso podrá suponer modificación de los criterios para la admisión del alumnado establecidos en el artículo 86 de la Ley Orgánica 2/2006, de 3 de mayo.
+2. El hecho de que los centros públicos y privados concertados impartan sus enseñanzas conforme a lo previsto en el apartado anterior en ningún caso podrá suponer modificación de los criterios para la admisión del alumnado establecidos en el artículo 86 de la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo.
 
 #### Disposición adicional tercera. Educación de personas adultas.
 
@@ -849,9 +857,9 @@ En el marco de lo establecido en este real decreto, las administraciones educati
 
 2. Asimismo, las pruebas que hasta el inicio del curso 2023-2024 realicen las administraciones educativas para la obtención directa del título de Bachiller se organizarán basándose en la configuración curricular desarrollada a partir del citado real decreto.
 
-#### Disposición transitoria segunda. Aplicabilidad del Real Decreto 984/2021, de 16 de noviembre, por el que se regulan la evaluación y la promoción en la Educación Primaria, así como la evaluación, la promoción y la titulación en la Educación Secundaria Obligatoria, el Bachillerato y la Formación Profesional.
+#### Disposición transitoria segunda. Aplicabilidad del [Real Decreto 984/2021](./RD984_2021_regulan_evaluacion_promocion_educacion_primaria_asi.md), de 16 de noviembre, por el que se regulan la evaluación y la promoción en la Educación Primaria, así como la evaluación, la promoción y la titulación en la Educación Secundaria Obligatoria, el Bachillerato y la Formación Profesional.
 
-En el curso escolar 2022-2023, seguirá siendo de aplicación para segundo curso de Bachillerato lo dispuesto en los capítulos I y V del Real Decreto 984/2021, de 16 de noviembre, por el que se regulan la evaluación y la promoción en la Educación Primaria, así como la evaluación, la promoción y la titulación en la Educación Secundaria Obligatoria, el Bachillerato y la Formación Profesional.
+En el curso escolar 2022-2023, seguirá siendo de aplicación para segundo curso de Bachillerato lo dispuesto en los capítulos I y V del [Real Decreto 984/2021](./RD984_2021_regulan_evaluacion_promocion_educacion_primaria_asi.md), de 16 de noviembre, por el que se regulan la evaluación y la promoción en la Educación Primaria, así como la evaluación, la promoción y la titulación en la Educación Secundaria Obligatoria, el Bachillerato y la Formación Profesional.
 
 #### Disposición derogatoria única. Derogación normativa.
 
@@ -859,7 +867,7 @@ En el curso escolar 2022-2023, seguirá siendo de aplicación para segundo curso
 
 2. Queda derogado el Real Decreto 562/2017, de 2 de junio, por el que se regulan las condiciones para la obtención de los títulos de Graduado en Educación Secundaria Obligatoria y de Bachiller, de acuerdo con lo dispuesto en el Real Decreto-ley 5/2016, de 9 de diciembre, de medidas urgentes para la ampliación del calendario de implantación de la [Ley Orgánica 8/2013](LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md), de 9 de diciembre, para la mejora de la calidad educativa.
 
-3. Asimismo, queda derogado el Real Decreto 984/2021, de 16 de noviembre, por el que se regulan la evaluación y la promoción en la Educación Primaria, así como la evaluación, la promoción y la titulación en la Educación Secundaria Obligatoria, el Bachillerato y la Formación Profesional.
+3. Asimismo, queda derogado el [Real Decreto 984/2021](./RD984_2021_regulan_evaluacion_promocion_educacion_primaria_asi.md), de 16 de noviembre, por el que se regulan la evaluación y la promoción en la Educación Primaria, así como la evaluación, la promoción y la titulación en la Educación Secundaria Obligatoria, el Bachillerato y la Formación Profesional.
 
 4. Queda derogada también la Orden ECD/65/2015, de 21 de enero, por la que se describen las relaciones entre las competencias, los contenidos y los criterios de evaluación de la educación primaria, la educación secundaria obligatoria y el bachillerato.
 
@@ -867,7 +875,7 @@ En el curso escolar 2022-2023, seguirá siendo de aplicación para segundo curso
 
 #### Disposición final primera. Prueba de acceso a la universidad.
 
-El Gobierno, previa consulta a las comunidades autónomas, a la Conferencia General de Política Universitaria, y con informe previo del Consejo de Universidades y del Consejo Escolar del Estado, establecerá las características básicas de la prueba de acceso a la universidad que establece el artículo 38 de la Ley Orgánica 2/2006, de 3 de mayo.
+El Gobierno, previa consulta a las comunidades autónomas, a la Conferencia General de Política Universitaria, y con informe previo del Consejo de Universidades y del Consejo Escolar del Estado, establecerá las características básicas de la prueba de acceso a la universidad que establece el artículo 38 de la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo.
 
 #### Disposición final segunda. Título competencial.
 
@@ -913,7 +921,7 @@ Para cumplir estos fines, es preciso que esta etapa contribuya a que el alumnado
 
 − Competencia en conciencia y expresión culturales.
 
-Estas competencias clave son la adaptación al sistema educativo español de las establecidas en la Recomendación del Consejo de la Unión Europea, de 22 de mayo de 2018, relativa a las competencias clave para el aprendizaje permanente. Esta adaptación responde a la necesidad de vincular dichas competencias a los retos y desafíos del siglo XXI, así como al contexto de la educación formal y, más concretamente, a los principios y fines del sistema educativo establecidos en la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+Estas competencias clave son la adaptación al sistema educativo español de las establecidas en la Recomendación del Consejo de la Unión Europea, de 22 de mayo de 2018, relativa a las competencias clave para el aprendizaje permanente. Esta adaptación responde a la necesidad de vincular dichas competencias a los retos y desafíos del siglo XXI, así como al contexto de la educación formal y, más concretamente, a los principios y fines del sistema educativo establecidos en la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación.
 
 Si bien la Recomendación se refiere al aprendizaje permanente, que debe producirse a lo largo de toda la vida, el Perfil de salida remite al momento preciso del final de la enseñanza básica. Del mismo modo, y dado que las competencias clave se adquieren necesariamente de forma secuencial y progresiva a lo largo de toda la vida, resulta necesario adecuar las mismas a ese otro momento del desarrollo personal, social y formativo del alumnado que supone el final del Bachillerato. Consecuentemente, en el presente anexo, se definen para cada una de las competencias clave un conjunto de descriptores operativos, que dan continuidad, profundizan y amplían los niveles de desempeño previstos al final de la enseñanza básica, con el fin de adaptarlos a las necesidades y fines de esta etapa postobligatoria.
 
@@ -9396,8 +9404,8 @@ Continuidad entre materias de Bachillerato
 - **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (D. Adicional segunda) desde *(D. Adicional primera. Enseñanzas de religión.)*
 - **Cita a**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (D. Adicional segunda) desde *(D. Adicional primera. Enseñanzas de religión.)*
 - **Cita a**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (D. Adicional segunda) desde *(D. Adicional primera. Enseñanzas de religión.)*
-- **Cita a**: [**BOE-A-2021-18812**](./RD984_2021_regulan_evaluacion_promocion_educacion_primaria_asi.md) (D. Transitoria segunda) desde *(D. Transitoria segunda. Aplicabilidad del Real Decreto 984/2021, de 16 de noviembre, por el que se regulan la evaluación y la promoción en la Educación Primaria, así como la evaluación, la promoción y la titulación en la Educación Secundaria Obligatoria, el Bachillerato y la Formación Profesional.)*
-- **Cita a**: [**BOE-A-2021-18812**](./RD984_2021_regulan_evaluacion_promocion_educacion_primaria_asi.md) desde *(D. Transitoria segunda. Aplicabilidad del Real Decreto 984/2021, de 16 de noviembre, por el que se regulan la evaluación y la promoción en la Educación Primaria, así como la evaluación, la promoción y la titulación en la Educación Secundaria Obligatoria, el Bachillerato y la Formación Profesional.)*
+- **Cita a**: [**BOE-A-2021-18812**](./RD984_2021_regulan_evaluacion_promocion_educacion_primaria_asi.md) (D. Transitoria segunda) desde *(D. Transitoria segunda. Aplicabilidad del [Real Decreto 984/2021](./RD984_2021_regulan_evaluacion_promocion_educacion_primaria_asi.md), de 16 de noviembre, por el que se regulan la evaluación y la promoción en la Educación Primaria, así como la evaluación, la promoción y la titulación en la Educación Secundaria Obligatoria, el Bachillerato y la Formación Profesional.)*
+- **Cita a**: [**BOE-A-2021-18812**](./RD984_2021_regulan_evaluacion_promocion_educacion_primaria_asi.md) desde *(D. Transitoria segunda. Aplicabilidad del [Real Decreto 984/2021](./RD984_2021_regulan_evaluacion_promocion_educacion_primaria_asi.md), de 16 de noviembre, por el que se regulan la evaluación y la promoción en la Educación Primaria, así como la evaluación, la promoción y la titulación en la Educación Secundaria Obligatoria, el Bachillerato y la Formación Profesional.)*
 - **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 38) desde *(D. Final primera. Prueba de acceso a la universidad.)*
 - **Cita a**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 38) desde *(D. Final primera. Prueba de acceso a la universidad.)*
 - **Cita a**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Art. 38) desde *(D. Final primera. Prueba de acceso a la universidad.)*

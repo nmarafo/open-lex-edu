@@ -19,13 +19,31 @@ estado: Vigente
 redaccion: original
 fuente_oficial: http://www.juntadeandalucia.es/boja/2021/514/1
 fuente_pdf_oficial: http://www.juntadeandalucia.es/boja/pdf/2021/514/1
+clasificacion:
+  categoria_canonica: 05_alumnado_y_servicios_escolares
+  subcategoria: Admisión y escolarización del alumnado
+fundamentos_derecho:
+- norma_id: norm-and-l17-2007
+- norma_id: norm-and-l6-2006-gobierno-comunidad-autonoma-andalucia
+- norma_id: norm-and-d-21-2020
+- norma_id: norm-and-o-20-2-2020
+- norma_id: norm-can-l-13-2003
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-can-l-16-2003
+- norma_id: norm-es-l-39-2015
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-1985-5392
+- norma_id: norm-es-lo-8-1985
+- norma_id: norm-es-2016-3229
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
+- norma_id: norm-es-2021-11382
 ---
-
-# Decreto-ley 2/2021, de 2 de febrero, por el que se modifican, con carácter urgente, la normativa de admisión del alumnado en los centros docentes públicos y privados concertados de la Comunidad Autónoma de Andalucía y otras disposiciones normativas, y se regulan los estudios con finalidad de diagnóstico precoz o de detección de casos de infección activa (cribados) dentro de la Comunidad Autónoma de Andalucía.
+# Decreto-[ley 2/2021](../../../estatal/07_convivencia_bienestar_y_protocolos/L2_2021_igualdad_social_no_discriminacion_razon_identidad.md), de 2 de febrero, por el que se modifican, con carácter urgente, la normativa de admisión del alumnado en los centros docentes públicos y privados concertados de la Comunidad Autónoma de Andalucía y otras disposiciones normativas, y se regulan los estudios con finalidad de diagnóstico precoz o de detección de casos de infección activa (cribados) dentro de la Comunidad Autónoma de Andalucía.
 
 ## Preámbulo
 
-Decreto-ley 2/2021, de 2 de febrero, por el que se modifican, con carácter 
+Decreto-[ley 2/2021](../../../estatal/07_convivencia_bienestar_y_protocolos/L2_2021_igualdad_social_no_discriminacion_razon_identidad.md), de 2 de febrero, por el que se modifican, con carácter 
 urgente, la normativa de admisión del alumnado en los centros docentes 
 públicos y privados concertados de la Comunidad Autónoma de Andalucía y 
 otras disposiciones normativas, y se regulan los estudios con finalidad de 
@@ -50,7 +68,7 @@ derivado de las especialidades de la organización propia de la Comunidad Autón
 respetando, en todo caso, lo dispuesto en el artículo 149.1.18.ª de la Constitución, 
 que faculta al Estado para fijar las bases del régimen jurídico de las Administraciones 
 públicas.
-Del mismo modo, la Ley 17/2007, de 10 de diciembre, de Educación de Andalucía, 
+Del mismo modo, la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre, de Educación de Andalucía, 
 establece en su artículo 3 que la planificación del Sistema Educativo Público de Andalucía, 
 compuesto, entre otros, por los centros docentes públicos y los centros docentes privados 
 concertados, corresponde a la Consejería competente en materia de educación. Por su 
@@ -65,10 +83,10 @@ establece en su artículo 9.20.b) que los municipios andaluces asistirán a la C
 competente en materia de educación en la aplicación de los criterios de admisión del 
 alumnado en los centros docentes sostenidos con fondos públicos.
 La normativa básica que ha venido regulando la admisión del alumnado en los centros 
-docentes públicos y privados concertados es la Ley Orgánica 2/2006, de 3 de mayo, de 
-Educación, la cual fue modificada por la Ley Orgánica 8/2013, de 9 de diciembre, para la 
+docentes públicos y privados concertados es la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de 
+Educación, la cual fue modificada por la [Ley Orgánica 8/2013](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md), de 9 de diciembre, para la 
 Mejora de la Calidad Educativa.
-En este contexto normativo se aprobó el Decreto 21/2020, de 17 de febrero, por el 
+En este contexto normativo se aprobó el [Decreto 21/2020](./D21_2020_criterios_admision_alumnado_centros_docentes_andalucia.md), de 17 de febrero, por el 
 que se regulan los criterios y el procedimiento de admisión del alumnado en los centros 
 docentes públicos y privados concertados para cursar las enseñanzas de segundo ciclo 
 de educación infantil, educación primaria, educación especial, educación secundaria 
@@ -79,7 +97,7 @@ página 
 Depósito Legal: SE-410/1979. ISSN: 2253 - 802X	
 http://www.juntadeandalucia.es/eboja
 BOJA
-obligatoria y bachillerato, y la Orden de 20 de febrero de 2020, por la que se desarrolla 
+obligatoria y bachillerato, y la [Orden de 20 de febrero de 2020](./O20_2_2020_procedimiento_admision_alumnado_centros_docentes_andalucia.md), por la que se desarrolla 
 el procedimiento de admisión del alumnado en los centros docentes públicos y privados 
 concertados para cursar las enseñanzas de segundo ciclo de educación infantil, educación 
 primaria, educación especial, educación secundaria obligatoria y bachillerato.
@@ -90,7 +108,7 @@ como prioritario y casi el 98% en alguno de los centros docentes solicitados.
 II
 La normativa básica que regula los procedimientos de admisión del alumnado en los 
 centros docentes públicos y privados concertados ha sido modificada por la Ley Orgánica 
-3/2020, de 29 de diciembre, por la que se modifica la Ley Orgánica 2/2006, de 3 de mayo. 
+3/2020, de 29 de diciembre, por la que se modifica la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo. 
 Dicha ley orgánica que, de acuerdo con lo dispuesto en su disposición final sexta, ha 
 entrado en vigor el pasado día 19 de enero de 2021, dispone en su disposición final quinta 
 que las modificaciones relativas a la admisión del alumnado se aplicarán a la entrada en 
@@ -104,11 +122,11 @@ acometer las modificaciones precisas que permitan adaptar la normativa andaluza 
 requerimientos recogidos en la mencionada norma básica.
 La regulación que se introduce en este decreto-ley no afecta a los derechos de la 
 ciudadanía establecidos en la Constitución Española y en el Estatuto de Autonomía para 
-Andalucía, toda vez que los mismos están garantizados por la Ley Orgánica 2/2006, 
-de 3 de mayo, el Decreto 21/2020, de 17 de febrero, y la Orden de 20 de febrero de 2020, 
+Andalucía, toda vez que los mismos están garantizados por la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), 
+de 3 de mayo, el [Decreto 21/2020](./D21_2020_criterios_admision_alumnado_centros_docentes_andalucia.md), de 17 de febrero, y la [Orden de 20 de febrero de 2020](./O20_2_2020_procedimiento_admision_alumnado_centros_docentes_andalucia.md), 
 limitándose la presente norma a adaptar la regulación autonómica sobre la admisión 
 del alumnado a las modificaciones introducidas por la Ley Orgánica 3/2020, de 29 de 
-diciembre, en preceptos básicos de la Ley Orgánica 2/2006, de 3 de mayo, así como a 
+diciembre, en preceptos básicos de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, así como a 
 establecer ciertos aspectos organizativos derivados de dichas modificaciones y a concretar 
 alguna cuestión que la experiencia obtenida en el procedimiento de escolarización del 
 curso 2020/21 puso de manifiesto que no estaba suficientemente aclarada.
@@ -137,7 +155,7 @@ http://www.juntadeandalucia.es/eboja
 BOJA
 De esta forma, teniendo en cuenta que los plazos habituales de tramitación de las 
 disposiciones reglamentarias hacen del todo imposible que esta Consejería pueda 
-tramitar la normativa que modifique el Decreto 21/2020, de 17 de febrero, y la Orden de 
+tramitar la normativa que modifique el [Decreto 21/2020](./D21_2020_criterios_admision_alumnado_centros_docentes_andalucia.md), de 17 de febrero, y la Orden de 
 20 de febrero de 2020 con anterioridad al inicio del plazo de presentación de solicitudes 
 establecido para el 1 de marzo de 2021, toda vez que las materias a las que afecta y el 
 breve período de tiempo que discurre desde la entrada en vigor de la citada Ley Orgánica 
@@ -157,7 +175,7 @@ medidas de control individual y colectivo.
 El Real Decreto-ley 21/2020, de 9 de junio, de medidas urgentes de prevención, 
 contención y coordinación para hacer frente a la crisis sanitaria ocasionada por el 
 COVID-19, en su artículo 5, dispone que con arreglo a lo previsto por el artículo 65 de la 
-Ley 16/2003, de 28 de mayo, de cohesión y calidad del Sistema Nacional de Salud, se 
+[Ley 16/2003](../../canarias/07_convivencia_bienestar_y_protocolos/L16_2003_prevencion_proteccion_integral_mujeres_contra_violencia.md), de 28 de mayo, de cohesión y calidad del Sistema Nacional de Salud, se 
 procederá a la adopción de planes y estrategias de actuación para afrontar emergencias 
 sanitarias, mediante actuaciones coordinadas en salud pública, atendiendo a los distintos 
 niveles de riesgo de exposición y de transmisión comunitaria de la enfermedad COVID-19 
@@ -326,7 +344,7 @@ obligatorio, a diferencia de la cooperación que reviste carácter voluntario, l
 al coordinador fijar directrices de obligado cumplimiento para todas las autoridades 
 implicadas. El Tribunal Constitucional ha expresado que toda coordinación conlleva un 
 cierto poder de dirección, consecuencia de la posición de superioridad en que se encuentra 
-el que coordina respecto al coordinado. Conforme al artículo 10.2 de la Ley 7/1985, de 2 
+el que coordina respecto al coordinado. Conforme al artículo 10.2 de la [Ley 7/1985](../../../estatal/02_gestion_y_administracion_centros/L7_1985_reguladora_bases_regimen_local.md), de 2 
 de abril, reguladora de las Bases del Régimen Local «procederá la coordinación de las 
 competencias de las entidades locales entre sí y, especialmente, con las de las restantes 
 Administraciones Públicas, cuando las actividades o los servicios locales trasciendan el 
@@ -530,7 +548,7 @@ de Andalucía, en relación con la Ley 3/2016, de 9 de junio, que, a pesar del t
 transcurrido, no han tenido reflejo en una modificación normativa hasta la fecha. Se trata, 
 en concreto, de los reseñados como C), I), segundo párrafo, y K).
 En el compromiso reseñado en la letra C), se acuerda la modificación del artículo 3 
-de la Ley 13/2003, de 17 de diciembre, de Defensa y Protección de los Consumidores y 
+de la [Ley 13/2003](../../canarias/01_marco_normativo_general_y_organico/L13_2003_educacion_formacion_permanente_personas_adultas_canarias.md), de 17 de diciembre, de Defensa y Protección de los Consumidores y 
 Usuarios de Andalucía, para adaptarlo al concepto de consumidor contemplado en el Real 
 Decreto Legislativo 1/2007, de 16 de noviembre, de carácter básico. En el compromiso 
 reseñado en la letra I), segundo párrafo, se acuerda que la Junta de Andalucía promoverá 
@@ -726,7 +744,7 @@ a que el presente instrumento normativo se erija en el instrumento de que dispon
 este Gobierno para dar respuesta, en tiempo, a una situación que requiere de una 
 actuación inmediata, dando con ello cumplimiento a los principios de necesidad, eficacia, 
 proporcionalidad, seguridad jurídica, transparencia, y eficiencia, tal y como exige la 
-Ley 39/2015, de 1 de octubre. En este sentido, esta regulación es necesaria y eficaz 
+[Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre. En este sentido, esta regulación es necesaria y eficaz 
 por cuanto es preciso introducir en este momento los cambios más acuciantes para 
 subvenir a estas necesidades y no existe otro mecanismo más que el de una norma con 
 rango de ley. En cuanto al principio de transparencia, dado que se trata de un decreto-
@@ -748,7 +766,7 @@ Autonomía para Andalucía, a propuesta del Consejero de la Presidencia, Adminis
 Pública e Interior, el Consejero de Educación y Deporte, la Consejera de Agricultura, 
 Ganadería, Pesca y Desarrollo Sostenible, el Consejero de Salud y Familias y la Consejera 
 de Cultura y Patrimonio Histórico, de conformidad con lo previsto en el artículo 27.3 de 
-la Ley 6/2006, de 24 de octubre, del Gobierno de la Comunidad Autónoma de Andalucía, 
+la [Ley 6/2006](../01_marco_normativo_general_y_organico/L6_2006_gobierno_comunidad_autonoma_andalucia.md), de 24 de octubre, del Gobierno de la Comunidad Autónoma de Andalucía, 
 previa deliberación del Consejo de Gobierno, en su reunión celebrada el día 2 de febrero 
 de 2021,
 D I S P O N G O
@@ -758,12 +776,12 @@ D I S P O N G O
 Admisión del alumnado en los centros docentes públicos y privados concertados
 de la Comunidad Autónoma de Andalucía
 
-### Artículo 1. Modificación del Decreto 21/2020, de 17 de febrero, por el que se regulan los
+### Artículo 1. Modificación del [Decreto 21/2020](./D21_2020_criterios_admision_alumnado_centros_docentes_andalucia.md), de 17 de febrero, por el que se regulan los
 
 criterios y el procedimiento de admisión del alumnado en los centros docentes públicos y 
 privados concertados para cursar las enseñanzas de segundo ciclo de educación infantil, 
 educación primaria, educación especial, educación secundaria obligatoria y bachillerato.
-El Decreto 21/2020, de 17 de febrero, se modifica en los siguientes términos:
+El [Decreto 21/2020](./D21_2020_criterios_admision_alumnado_centros_docentes_andalucia.md), de 17 de febrero, se modifica en los siguientes términos:
 Uno. Los apartados 3, 4, 6 y 11 del artículo 2 quedan redactados de la siguiente 
 forma:
 «3. En ningún caso habrá discriminación en la admisión del alumnado por razón de 
@@ -786,7 +804,7 @@ imponer a las familias la obligación de hacer aportaciones a fundaciones o asoc
 ni establecer servicios obligatorios, asociados a las enseñanzas, que requieran aportación 
 económica, por parte de las familias del alumnado. En el marco de lo dispuesto en el 
 
-### artículo 51 de la Ley Orgánica 8/1985, de 3 de julio, reguladora del Derecho a la Educación,
+### artículo 51 de la [Ley Orgánica 8/1985](../../../estatal/02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md), de 3 de julio, reguladora del Derecho a la Educación,
 
 quedan excluidas de esta categoría las actividades extraescolares y los servicios escolares 
 que, en todo caso, tendrán carácter voluntario. Las actividades complementarias que se 
@@ -796,10 +814,10 @@ de forma que no supongan discriminación por motivos económicos.
 supondrá respetar su Plan de Centro y, en su caso, su carácter propio, sin perjuicio de 
 los derechos reconocidos al alumnado y a sus familias en las leyes y lo recogido en el 
 apartado 3 de este artículo.
-11. De acuerdo con el artículo 74.1 de la Ley Orgánica 2/2006, de 3 de mayo, la 
+11. De acuerdo con el artículo 74.1 de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, la 
 escolarización del alumnado con necesidades educativas especiales, a que se refiere el 
 
-### artículo 73 de dicha Ley Orgánica y el artículo 113.2 de la Ley 17/2007, de 10 de diciembre,
+### artículo 73 de dicha Ley Orgánica y el artículo 113.2 de la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre,
 
 de Educación de Andalucía, en los centros docentes específicos de educación especial 
 y en los centros docentes de educación secundaria, cursando la enseñanza básica en 
@@ -837,7 +855,7 @@ página 17
 Depósito Legal: SE-410/1979. ISSN: 2253 - 802X	
 http://www.juntadeandalucia.es/eboja
 BOJA
-2/2006, de 3 de mayo, y el artículo 113.2 de la Ley 17/2007, de 10 de diciembre, y de los 
+2/2006, de 3 de mayo, y el artículo 113.2 de la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre, y de los 
 servicios complementarios que tengan autorizados.»
 Cuatro. Se añade un nuevo apartado 5 al artículo 9 con la siguiente redacción:
 «5. Las áreas de influencia se determinarán, oídas las administraciones locales, de 
@@ -892,7 +910,7 @@ Once. Los apartados 2 y 3 del artículo 31 quedan redactados de la siguiente for
 «2. Se considera alumnado con necesidades específicas de apoyo educativo aquel 
 que requiere una atención educativa diferente a la ordinaria por presentar necesidades 
 educativas especiales, en los términos establecidos en el artículo 73 de la Ley Orgánica 
-2/2006, de 3 de mayo, y en el artículo 113.2 de la Ley 17/2007, de 10 de diciembre, por 
+2/2006, de 3 de mayo, y en el artículo 113.2 de la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre, por 
 retraso madurativo, por trastornos del desarrollo del lenguaje y la comunicación, por 
 trastornos de atención o de aprendizaje, por desconocimiento grave de la lengua de 
 aprendizaje, por encontrarse en situación de vulnerabilidad socioeducativa, por sus altas 
@@ -933,7 +951,7 @@ supongan una necesidad específica de apoyo educativo.»
 Trece. Los apartados 1 y 2 del artículo 33 quedan redactados de la siguiente forma:
 «1. Con objeto de garantizar las condiciones más favorables para la escolarización 
 del alumnado con necesidades educativas especiales a que se refiere el artículo 73 de 
-la Ley Orgánica 2/2006, de 3 de mayo, y el artículo 113.2 de la Ley 17/2007, de 10 de 
+la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, y el artículo 113.2 de la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de 
 diciembre, la admisión de este alumnado se llevará a cabo, en función de la identificación 
 y valoración de sus necesidades que realice el personal con la debida cualificación, en 
 centros docentes ordinarios o, preceptivamente informados y oídos los representantes 
@@ -952,12 +970,12 @@ titularidad del centro privado concertado, previo informe del Consejo Escolar, r
 la admisión de este alumnado junto con la de los demás alumnos o alumnas cuando 
 dispongan de recursos para su escolarización.»
 Catorce. El apartado 1 del artículo 34 queda redactado de la siguiente forma:
-«1. De conformidad con lo establecido en el artículo 127.e) de la Ley Orgánica 2/2006, 
+«1. De conformidad con lo establecido en el artículo 127.e) de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), 
 de 3 de mayo, el Consejo Escolar de los centros docentes públicos decidirá sobre la 
 admisión del alumnado en los términos recogidos en el presente Decreto y en su normativa 
 de desarrollo.»
 Quince. El artículo 35 queda redactado de la siguiente forma:
-«De conformidad con lo dispuesto en el artículo 132.i) de la Ley Orgánica 2/2006, de 
+«De conformidad con lo dispuesto en el artículo 132.i) de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 
 3 de mayo, corresponde a la persona que ejerza la dirección del centro docente público, 
 en relación con la admisión del alumnado, ejecutar los acuerdos que adopte el Consejo 
 Escolar, en el ámbito de sus competencias, con sujeción a lo establecido en el presente 
@@ -965,7 +983,7 @@ Decreto y en su normativa de desarrollo.»
 Dieciséis. El apartado 1 del artículo 43 queda redactado de la siguiente forma:
 «1. La solicitud de plaza escolar será única y se presentará en el centro docente 
 en el que el alumno o alumna pretende ser admitido prioritariamente, sin perjuicio de 
-lo establecido en el artículo 16 de la Ley 39/2015, de 1 de octubre, en cuyo caso, para 
+lo establecido en el artículo 16 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, en cuyo caso, para 
 agilizar el  procedimiento, podrá remitirse una copia al centro docente al que se dirige 
 la solicitud. Asimismo, podrá presentarse ante la comisión territorial de garantías de 
 admisión  correspondiente o ante la Administración educativa. Los centros docentes 
@@ -1007,7 +1025,7 @@ de los miembros de la misma o por adopción o por el inicio o modificación de o
 de protección de menores se presentarán en el centro docente en el que el alumno o 
 alumna pretende ser admitido o en el correspondiente órgano territorial provincial de 
 la Administración de la Junta de Andalucía competente en materia de educación, sin 
-perjuicio de lo dispuesto en el artículo 16 de la Ley 39/2015, de 1 de octubre.»
+perjuicio de lo dispuesto en el artículo 16 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre.»
 Veinte. La disposición final primera queda redactada de la siguiente forma:
 «Los artículos 2.1, 2.2, 2.3, primer párrafo, 2.4, 2.6, 2.7, primer párrafo, 2.8, 4.2, 4.4, 
 5.2, 9.5, 10.2, párrafos a), b), c) y d), 10.3, 20.1, 20.3, 31.2, 32.4bis, y 46.1, así como la 
@@ -1021,20 +1039,20 @@ específicas de admisión de alumnos en las etapas postobligatorias”, 86.1 y 8
 “Igualdad en la aplicación de las normas de admisión”, 87.2, 87.3 y 87.4 del “Equilibrio 
 en la admisión de alumnos”, 88.1 de las “Garantías de gratuidad”, 109.1 y 109.2 de la 
 “Programación de la red de centros”, 115.2 del “Carácter propio de los centros docentes 
-privados” y en la disposición adicional vigesimoprimera de la Ley Orgánica 2/2006, de 3 
+privados” y en la disposición adicional vigesimoprimera de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 
 de mayo, de Educación.»
 
-### Artículo 2. Modificación de la Orden de 20 de febrero de 2020, por la que se desarrolla
+### Artículo 2. Modificación de la [Orden de 20 de febrero de 2020](./O20_2_2020_procedimiento_admision_alumnado_centros_docentes_andalucia.md), por la que se desarrolla
 
 el procedimiento de admisión del alumnado en los centros docentes públicos y privados 
 concertados para cursar las enseñanzas de segundo ciclo de educación infantil, educación 
 primaria, educación especial, educación secundaria obligatoria y bachillerato.
-La Orden de 20 de febrero de 2020 se modifica en los siguientes términos:
+La [Orden de 20 de febrero de 2020](./O20_2_2020_procedimiento_admision_alumnado_centros_docentes_andalucia.md) se modifica en los siguientes términos:
 Uno. El párrafo f) del apartado 1 del artículo 5 queda redactada de la siguiente 
 forma:
 «f) Los recursos autorizados para la atención del alumnado con necesidades 
-educativas especiales a que se refiere el artículo 73 de la Ley Orgánica 2/2006, de 3 de 
-mayo, y el artículo 113.2 de la Ley 17/2007, de 10 de diciembre.»
+educativas especiales a que se refiere el artículo 73 de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de 
+mayo, y el artículo 113.2 de la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre.»
 Dos. Se añade un nuevo artículo 15 bis que queda redactado de la siguiente forma:
 «Artículo 15 bis. Acreditación de nacimiento de parto múltiple.
 1. A efectos de acreditación de la circunstancia de haber nacido de parto múltiple, la 
@@ -1069,16 +1087,16 @@ de los miembros de la unidad familiar, a que se refiere el artículo 20.4 del De
 solicitud siempre que la discapacidad haya sobrevenido con posterioridad al inicio del 
 curso escolar en que se presenta la misma.»
 Cuatro. El apartado 1 del artículo 18 queda redactado de la siguiente forma:
-«1. A los efectos de lo dispuesto en el artículo 32.5 del Decreto 21/2020, de 17 de 
+«1. A los efectos de lo dispuesto en el artículo 32.5 del [Decreto 21/2020](./D21_2020_criterios_admision_alumnado_centros_docentes_andalucia.md), de 17 de 
 febrero, el padre, madre, tutor o guardador legal del alumno o alumna menor de edad o el 
 alumnado mayor de edad declarará en la solicitud de admisión que presenta necesidades 
 educativas especiales, en los términos previstos en el artículo 73 de la Ley Orgánica 
-2/2006, de 3 de mayo, y en el artículo 113.2 de la Ley 17/2007, de 10 de diciembre, o 
+2/2006, de 3 de mayo, y en el artículo 113.2 de la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre, o 
 altas capacidades intelectuales y que ha sido emitido el correspondiente dictamen de 
 escolarización.»
 Cinco. El apartado 1 del artículo 24 queda redactado de la siguiente forma:
 «1. Tras la finalización del trámite de audiencia, y de conformidad con lo establecido 
-en el artículo 47.3 del Decreto 21/2020, de 17 de febrero, el Consejo Escolar de cada 
+en el artículo 47.3 del [Decreto 21/2020](./D21_2020_criterios_admision_alumnado_centros_docentes_andalucia.md), de 17 de febrero, el Consejo Escolar de cada 
 centro público tomará el correspondiente acuerdo sobre la estimación, desestimación 
 o inadmisión de las alegaciones presentadas y establecerá el orden de admisión y 
 adjudicación de las plazas escolares, comenzando por los cursos en los que haya plazas 
@@ -1222,7 +1240,7 @@ período desde el 1 de agosto al 31 de diciembre de 2020 de al menos un 20% de l
 de ingresos por ventas del mismo período de referencia, en los tres años anteriores al 
 2020, o al año anterior si se trata de una empresa con menos de tres años de actividad.»
 
-### Disposición final segunda. Modificación de la Ley 13/2003, de 17 de diciembre, de
+### Disposición final segunda. Modificación de la [Ley 13/2003](../../canarias/01_marco_normativo_general_y_organico/L13_2003_educacion_formacion_permanente_personas_adultas_canarias.md), de 17 de diciembre, de
 
 Defensa y Protección de los Consumidores y Usuarios de Andalucía.
 Se modifica el apartado a) del artículo 3 queda redactado del siguiente modo:
@@ -1250,7 +1268,7 @@ consumidoras y usuarias en la contratación de préstamos y créditos hipotecari
 vivienda, queda modificada como sigue:
 Uno. La letra a) del artículo 4 queda redactada del siguiente modo:
 «a) Persona consumidora y usuaria: toda persona física, jurídica y entidad sin 
-personalidad jurídica, en los términos del artículo 3 de la Ley 13/2003, de 17 de diciembre, 
+personalidad jurídica, en los términos del artículo 3 de la [Ley 13/2003](../../canarias/01_marco_normativo_general_y_organico/L13_2003_educacion_formacion_permanente_personas_adultas_canarias.md), de 17 de diciembre, 
 que contrate o se proponga contratar un préstamo hipotecario sobre una vivienda, 
 considerando como tal cualquier inmueble de uso residencial.»
 Dos. El apartado 5 del artículo 15 queda redactado del siguiente modo:
@@ -1262,7 +1280,7 @@ modo:
 «2. Las personas prestatarias y garantes que tengan la condición de consumidoras 
 y usuarias tienen derecho a ser informadas, conforme al artículo 17.1 del texto refundido 
 de la Ley General para la Defensa de los Consumidores y Usuarios y otras Leyes 
-complementarias, y al artículo 17.1 de la Ley 13/2003, de 17 de diciembre, de toda 
+complementarias, y al artículo 17.1 de la [Ley 13/2003](../../canarias/01_marco_normativo_general_y_organico/L13_2003_educacion_formacion_permanente_personas_adultas_canarias.md), de 17 de diciembre, de toda 
 transmisión, cesión, ejecución de garantía, emisión de participaciones hipotecarias o 
 certificados de transmisión de hipoteca, y cualquier otro acto o negocio jurídico, voluntario 
 o no, susceptible de alterar total o parcialmente la titularidad del contrato de préstamo 
@@ -1316,7 +1334,7 @@ de duración se sujetarán al mismo.
 vigencia a las de las propias disposiciones reglamentarias que se modifican.
 4. Las previsiones contenidas en el Capítulo II del presente decreto-ley mantendrán 
 su vigencia hasta la finalización de la crisis sanitaria ocasionada por el COVID-19.
-5. La modificación que se efectúa en el presente decreto-ley de la Ley 13/2003, 
+5. La modificación que se efectúa en el presente decreto-ley de la [Ley 13/2003](../../canarias/01_marco_normativo_general_y_organico/L13_2003_educacion_formacion_permanente_personas_adultas_canarias.md), 
 de 17 de diciembre, de Defensa y Protección de los Consumidores y Usuarios de Andalucía 
 por la disposición final segunda y de la Ley 3/2016, de 9 de junio, para la protección de 
 los derechos de las personas consumidoras y usuarias en la contratación de préstamos 

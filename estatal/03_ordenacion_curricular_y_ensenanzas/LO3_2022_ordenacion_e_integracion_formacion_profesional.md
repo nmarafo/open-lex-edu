@@ -530,9 +530,18 @@ relaciones:
   - norma_id: norm-es-2002-12018
   - norma_id: norm-es-2021-20113
   - norma_id: norm-es-2010-12201
+fundamentos_derecho:
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-can-res-134
+- norma_id: norm-es-l-39-2015
+- norma_id: norm-es-l-40-2015
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-lo-8-1985
+- norma_id: norm-es-2002-12018
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
 ---
-
-# Ley Orgánica 3/2022, de 31 de marzo, de ordenación e integración de la Formación Profesional.
+# [Ley Orgánica 3/2022](../../autonómica/canarias/08_personal_docente/R30_6_2023_ordenacion_gestion_determinadas_listas_empleo_tras.md), de 31 de marzo, de ordenación e integración de la Formación Profesional.
 
 ## Preámbulo
 
@@ -714,7 +723,7 @@ El sistema, tal y como se había venido desarrollando hasta ahora, no había alc
 
 Así pues, este deja de depender de convocatorias de las administraciones para convertirse en un procedimiento abierto de manera permanente y referido constantemente a cualquier competencia, sea cual sea el ámbito profesional en que la persona haya mantenido su experiencia profesional.
 
-En el Título VII se aborda el proceso de orientación como un servicio de acompañamiento obligado al del aprendizaje a lo largo de la vida. En este sentido, se definen su cometido, objetivos, fines, y condiciones de la prestación, sin perjuicio de las regulaciones que, sobre esta materia, se establecen en la [Ley Orgánica 8/1985](../02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md), de 3 de julio, reguladora del Derecho a la Educación, y de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+En el Título VII se aborda el proceso de orientación como un servicio de acompañamiento obligado al del aprendizaje a lo largo de la vida. En este sentido, se definen su cometido, objetivos, fines, y condiciones de la prestación, sin perjuicio de las regulaciones que, sobre esta materia, se establecen en la [Ley Orgánica 8/1985](../02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md), de 3 de julio, reguladora del Derecho a la Educación, y de la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación.
 
 A este mismo fin, las diferentes administraciones implicadas promoverán la coordinación para garantizar la calidad y complementariedad del servicio de información y orientación profesional facilitado desde el Sistema de Formación Profesional y el sistema nacional de empleo.
 
@@ -744,15 +753,15 @@ En las disposiciones adicionales se regula lo siguiente: la primera, la particip
 
 En las disposiciones transitorias, se regula: primera, los centros y entidades acreditadas para impartir acciones de Formación Profesional para el Empleo; segunda, la ordenación de las enseñanzas y acciones formativas existentes hasta la entrada en vigor de esta ley; tercera, el Catálogo Nacional de Cualificaciones Profesionales; cuarta, el profesorado de formación profesional del sistema educativo; quinta, transición del sistema de beca a contrato de formación en el régimen de formación profesional intensiva; y sexta, adaptación del periodo de formación en empresa.
 
-En la disposición derogatoria única, se derogan la Ley Orgánica 5/2002, de 19 de junio de las Cualificaciones y de la Formación Profesional, así como las disposiciones de la Ley 30/2015, de 9 de septiembre, por la que se regula el Sistema de Formación Profesional para el empleo en el ámbito laboral, en aquellos aspectos que se opongan a lo regulado en la presente ley, y también cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en esta ley.
+En la disposición derogatoria única, se derogan la [Ley Orgánica 5/2002](./LO5_2002_cualificaciones_formacion_profesional.md), de 19 de junio de las Cualificaciones y de la Formación Profesional, así como las disposiciones de la Ley 30/2015, de 9 de septiembre, por la que se regula el Sistema de Formación Profesional para el empleo en el ámbito laboral, en aquellos aspectos que se opongan a lo regulado en la presente ley, y también cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en esta ley.
 
-En las disposiciones finales, primera, se modifica la Ley Orgánica 2/2006, de 3 de mayo, de Educación; segunda, se modifica la Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la Ley Orgánica 2/2006, de 3 de mayo, de Educación; tercera, se dedica a la ordenación de las enseñanzas de formación profesional de la Ley Orgánica 2/2006, de 3 de mayo, de Educación; cuarta, a la salvaguardia del rango reglamentario de la disposición adicional quinta; quinta, contiene el calendario de implantación; sexta, el título competencial; séptima, el carácter de ley orgánica de la presente ley; octava, el desarrollo de la presente ley; y novena, la entrada en vigor.
+En las disposiciones finales, primera, se modifica la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación; segunda, se modifica la Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación; tercera, se dedica a la ordenación de las enseñanzas de formación profesional de la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación; cuarta, a la salvaguardia del rango reglamentario de la disposición adicional quinta; quinta, contiene el calendario de implantación; sexta, el título competencial; séptima, el carácter de ley orgánica de la presente ley; octava, el desarrollo de la presente ley; y novena, la entrada en vigor.
 
 **VI**
 
 Por todo lo dicho anteriormente, esta ley es coherente con los principios de buena regulación establecidos en el artículo 129 de la [Ley 39/2015](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas: necesidad y eficacia, proporcionalidad, seguridad jurídica, transparencia y eficiencia.
 
-En primer lugar, se adecua a los principios de necesidad y eficacia. Su necesidad viene indicada por las razones de interés general que se han mencionado al principio. Por un lado, dotar a las personas de los derechos, capacidades y habilidades necesarias para lograr una ciudadanía plena. Por otro, fortalecer la capacidad del sistema productivo. Su eficacia viene asegurada por el hecho de que esta ley establece un sistema ágil y flexible de formación y aprendizaje a lo largo de la vida, que da respuesta de forma fiable en un espacio de tiempo suficientemente corto, a las necesidades de formación de los perfiles profesionales de los distintos sectores productivos y de prestación de servicios en nuestro país. La norma es además eficaz, en tanto establece un sistema que permite a cualquier ciudadano, en cualquier situación, tener el acceso a una oferta formativa adecuada a sus capacidades y expectativas. Por otra parte, y como complementos a los principios de eficacia y de seguridad jurídica, se establece un marco normativo claro que integra en la misma norma las modificaciones que desde 2002 y 2006 han afectado respectivamente a la Ley Orgánica 5/2002, de 19 de junio, de las Cualificaciones y de la Formación Profesional, así como a la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+En primer lugar, se adecua a los principios de necesidad y eficacia. Su necesidad viene indicada por las razones de interés general que se han mencionado al principio. Por un lado, dotar a las personas de los derechos, capacidades y habilidades necesarias para lograr una ciudadanía plena. Por otro, fortalecer la capacidad del sistema productivo. Su eficacia viene asegurada por el hecho de que esta ley establece un sistema ágil y flexible de formación y aprendizaje a lo largo de la vida, que da respuesta de forma fiable en un espacio de tiempo suficientemente corto, a las necesidades de formación de los perfiles profesionales de los distintos sectores productivos y de prestación de servicios en nuestro país. La norma es además eficaz, en tanto establece un sistema que permite a cualquier ciudadano, en cualquier situación, tener el acceso a una oferta formativa adecuada a sus capacidades y expectativas. Por otra parte, y como complementos a los principios de eficacia y de seguridad jurídica, se establece un marco normativo claro que integra en la misma norma las modificaciones que desde 2002 y 2006 han afectado respectivamente a la [Ley Orgánica 5/2002](./LO5_2002_cualificaciones_formacion_profesional.md), de 19 de junio, de las Cualificaciones y de la Formación Profesional, así como a la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación.
 
 La adecuación al principio de proporcionalidad se logra en la medida en que la ley contiene la regulación imprescindible para la consecución de los objetivos anteriormente mencionados, a la vez que no contiene restricciones de derechos ni impone obligaciones a sus destinarios.
 
@@ -1102,9 +1111,9 @@ A tal fin deberá incorporar contenidos culturales, científicos, tecnológicos 
 
 2. El contenido básico del currículo, que deberá mantenerse actualizado por el procedimiento que reglamentariamente se establezca, definirá las enseñanzas mínimas y tendrá por finalidad asegurar una formación común y garantizar la validez estatal de los títulos, certificados y acreditaciones correspondientes.
 
-No obstante lo dispuesto en el párrafo anterior, el currículo de las ofertas de Grado D y E se regirá por lo dispuesto en la Ley Orgánica 2/2006, de 3 de mayo, de Educación, siendo de aplicación, en todo caso, las siguientes reglas:
+No obstante lo dispuesto en el párrafo anterior, el currículo de las ofertas de Grado D y E se regirá por lo dispuesto en la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, siendo de aplicación, en todo caso, las siguientes reglas:
 
-a) Podrán exceptuarse los cursos de especialización de los porcentajes fijados por la Ley Orgánica 2/2006, de 3 de mayo, de Educación, en cuanto a enseñanzas mínimas y horarios, pudiendo efectuarse ofertas de cursos de especialización con una duración a partir del número de horas previsto en el currículo básico de cada uno de ellos.
+a) Podrán exceptuarse los cursos de especialización de los porcentajes fijados por la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, en cuanto a enseñanzas mínimas y horarios, pudiendo efectuarse ofertas de cursos de especialización con una duración a partir del número de horas previsto en el currículo básico de cada uno de ellos.
 
 b) En el contexto de la cooperación internacional, se podrán establecer currículos básicos que constituyan un currículo mixto de enseñanzas de formación profesional del sistema educativo español y de otros sistemas educativos.
 
@@ -1214,7 +1223,7 @@ d) La referencia al estándar o estándares de competencia o elementos de compet
 
 2. Las ofertas de formación deberán diseñarse por módulos profesionales, a partir del Catálogo Modular de Formación Profesional, sin perjuicio de poder añadirse a ellos, en su caso, otros módulos profesionales no vinculados a estándares de competencia considerados necesarios para dar cobertura a la totalidad de las competencias generales previstas.
 
-3. Las ofertas de formación profesional integradas como enseñanzas del sistema educativo se atendrán, a efectos de duración, currículo y enseñanzas mínimas, a la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+3. Las ofertas de formación profesional integradas como enseñanzas del sistema educativo se atendrán, a efectos de duración, currículo y enseñanzas mínimas, a la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación.
 
 4. Las ofertas de formación profesional prestarán especial atención al establecimiento de medidas de flexibilización y alternativas organizativas y metodológicas para facilitar la igualdad de oportunidades en el acceso a los currículos de las personas con necesidad específica de apoyo educativo, permanente o transitoria y suficientemente acreditada, pudiendo incluir, a tal efecto, adaptaciones técnicas, materiales o de ampliación del periodo de formación o de permanencia.
 
@@ -1376,7 +1385,7 @@ c) Para el Grado C de nivel 3 se requiere el título de Técnico, de Bachiller o
 
 #### Artículo 39. Reglas generales.
 
-1. El Grado D del Sistema de Formación Profesional se corresponde con los ciclos formativos de formación profesional que forman parte del sistema educativo español en los términos establecidos en la Ley Orgánica 2/2006, de 3 de mayo, de Educación, debiendo contribuir, además de a los objetivos del Sistema de Formación Profesional, a los previstos para este tipo de enseñanzas en dicha ley orgánica para cada uno de los grados básico, medio y superior.
+1. El Grado D del Sistema de Formación Profesional se corresponde con los ciclos formativos de formación profesional que forman parte del sistema educativo español en los términos establecidos en la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, debiendo contribuir, además de a los objetivos del Sistema de Formación Profesional, a los previstos para este tipo de enseñanzas en dicha ley orgánica para cada uno de los grados básico, medio y superior.
 
 2. Los ciclos formativos de formación profesional:
 
@@ -1444,7 +1453,7 @@ Los ciclos formativos y cursos de especialización estarán referenciados al niv
 
 1. Son ciclos formativos de grado básico, con carácter general, los vinculados a estándares de competencia de nivel 1 del Catálogo Nacional de Estándares de Competencias Profesionales.
 
-2. Conforme a la Ley Orgánica 2/2006, de 3 de mayo, de Educación, los ciclos formativos de grado básico constarán de tres ámbitos y el proyecto siguientes:
+2. Conforme a la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, los ciclos formativos de grado básico constarán de tres ámbitos y el proyecto siguientes:
 
 a) Ámbito de Comunicación y Ciencias Sociales, que incluirá las siguientes materias: 1.º Lengua castellana. 2.º Lengua extranjera de iniciación profesional. 3.º Ciencias sociales. 4.º En su caso, lengua cooficial.
 
@@ -1456,7 +1465,7 @@ d) Proyecto anual de aprendizaje colaborativo vinculado a los tres ámbitos ante
 
 Estos ciclos podrán incluir, además, otros complementos de formación que contribuyan al desarrollo de las competencias de la educación secundaria obligatoria.
 
-3. Para el acceso a los ciclos formativos de grado básico regirán los requisitos establecidos en el artículo 41.1 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+3. Para el acceso a los ciclos formativos de grado básico regirán los requisitos establecidos en el artículo 41.1 de la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación.
 
 Excepcionalmente, no regirán los requisitos de acceso vinculados a la escolarización para jóvenes entre 15 y 18 años que no hayan estado escolarizados en el sistema educativo español y cuyo itinerario educativo aconseje su incorporación a un ciclo formativo de grado básico como el itinerario más adecuado y en las condiciones que reglamentariamente se determinen.
 
@@ -1506,7 +1515,7 @@ b) Autorizar, a propuesta de los centros de formación profesional y en el conte
 
 #### Artículo 46. Acceso a los ciclos de grado medio y superior.
 
-1. Podrán acceder a los ciclos de grado medio y superior quienes reúnan los requisitos exigidos en el artículo 41 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, o quienes cuenten con un Certificado Profesional contenido en el ciclo formativo.
+1. Podrán acceder a los ciclos de grado medio y superior quienes reúnan los requisitos exigidos en el artículo 41 de la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, o quienes cuenten con un Certificado Profesional contenido en el ciclo formativo.
 
 2. Las administraciones educativas deberán:
 
@@ -1526,9 +1535,9 @@ La superación de la totalidad o de parte de estos cursos dependientes de las ad
 
 #### Artículo 47. Itinerarios formativos de los ciclos de grado medio y superior.
 
-1. Los itinerarios formativos se ajustarán a los requisitos establecidos en la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+1. Los itinerarios formativos se ajustarán a los requisitos establecidos en la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación.
 
-2. El título de Técnico de Formación Profesional permitirá el acceso a los ciclos formativos de grado superior de la formación profesional y de las enseñanzas profesionales de artes plásticas y diseño, sin perjuicio de la superación de la prueba específica que para estas enseñanzas establece la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+2. El título de Técnico de Formación Profesional permitirá el acceso a los ciclos formativos de grado superior de la formación profesional y de las enseñanzas profesionales de artes plásticas y diseño, sin perjuicio de la superación de la prueba específica que para estas enseñanzas establece la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación.
 
 3. Se entenderá, a los efectos de la presente ley, la equivalencia genérica regulada con el título de Técnico y Técnico Superior de las titulaciones de Técnico auxiliar y Técnico especialista.
 
@@ -1578,7 +1587,7 @@ c) Podrán estar asociados a los mismos o a distintos estándares de competencia
 
 1. Los cursos de especialización tendrán una duración básica de entre 300 y 900 horas y, en su caso, podrán desarrollarse con carácter dual.
 
-2. Se determinará la duración de los cursos de especialización teniendo en cuenta el régimen excepcional previsto en el artículo 6.5 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+2. Se determinará la duración de los cursos de especialización teniendo en cuenta el régimen excepcional previsto en el artículo 6.5 de la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación.
 
 #### Artículo 53. Acceso.
 
@@ -1860,7 +1869,7 @@ b) Utilizarán los recursos de las tecnologías de la información y la comunica
 
 Excepcionalmente, se podrán autorizar centros que, contando con la autorización previa para la impartición de las ofertas formativas en modalidad presencial pero sin disponer de la misma simultáneamente, establezcan un acuerdo, mediante convenio o cualquier otra forma jurídica ajustada a derecho, con un centro de formación profesional que cumpla este requisito y garantice la presencialidad en los casos necesarios. Quedarán exceptuados los centros designados por las administraciones como centros especializados en innovación en metodologías no presenciales, de acuerdo con las condiciones que reglamentariamente se desarrollen.
 
-5. Las enseñanzas de formación profesional pertenecientes al sistema educativo en las modalidades semipresencial y virtual se adaptarán a lo dispuesto en el apartado 8 del artículo 42 de la Ley Orgánica 2/2006 de 3 de mayo, de Educación.
+5. Las enseñanzas de formación profesional pertenecientes al sistema educativo en las modalidades semipresencial y virtual se adaptarán a lo dispuesto en el apartado 8 del artículo 42 de la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md) de 3 de mayo, de Educación.
 
 6. Las administraciones públicas deberán:
 
@@ -2050,7 +2059,7 @@ Los centros no podrán emplear denominación o dato identificativo otro alguno d
 
 Los registros autonómicos deberán mantenerse actualizados y trasferir la inscripción de cualquier centro en los plazos que se establezcan reglamentariamente.
 
-c) Deberán participar en los controles y procesos de calidad que acuerde la administración competente, en el marco de los sistemas de evaluación y calidad del Sistema de Formación Profesional, sin perjuicio de las atribuciones asignadas a la inspección educativa en la Ley Orgánica 2/2006, de 3 de mayo, de Educación en los centros del sistema educativo no universitario.
+c) Deberán participar en los controles y procesos de calidad que acuerde la administración competente, en el marco de los sistemas de evaluación y calidad del Sistema de Formación Profesional, sin perjuicio de las atribuciones asignadas a la inspección educativa en la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación en los centros del sistema educativo no universitario.
 
 2. Los centros y entidades que desarrollen ofertas formativas sostenidas con fondos públicos deberán:
 
@@ -2062,7 +2071,7 @@ c) Fomentar activamente la igualdad efectiva de trato y de oportunidades, así c
 
 3. Los centros privados de formación profesional decidirán sobre la concesión de los certificados y títulos para los que estén autorizados y estarán adscritos a centros públicos de formación profesional, a efectos de solicitud de la expedición de certificados de competencia, certificados profesionales, títulos de grado básico, grado medio y grado superior, sin perjuicio de sus plenas facultades académicas, especialista y Máster de Formación Profesional. Reglamentariamente se regulará la adscripción de los centros privados autorizados para impartir formación profesional a los centros públicos.
 
-4. Los centros que ofrezcan enseñanzas reguladas en esta ley y que consten en el Registro Estatal de Centros Docentes No Universitarios se regirán por lo dispuesto en la Ley Orgánica 8/1985, de 3 de julio, reguladora del Derecho a la Educación, esta ley y las disposiciones que la desarrollen y las demás normas que les sean de aplicación.
+4. Los centros que ofrezcan enseñanzas reguladas en esta ley y que consten en el Registro Estatal de Centros Docentes No Universitarios se regirán por lo dispuesto en la [Ley Orgánica 8/1985](../02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md), de 3 de julio, reguladora del Derecho a la Educación, esta ley y las disposiciones que la desarrollen y las demás normas que les sean de aplicación.
 
 5. Las administraciones públicas competentes en la materia:
 
@@ -2154,7 +2163,7 @@ b) Facilitarán, en la mayor medida posible, las estancias formativas de docente
 
 #### Artículo 85. Profesorado de formación profesional perteneciente a los cuerpos docentes del sistema educativo.
 
-1. Para impartir docencia en enseñanzas de Formación Profesional integradas en el sistema educativo se exigirán los requisitos de titulación y formación establecidos en la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+1. Para impartir docencia en enseñanzas de Formación Profesional integradas en el sistema educativo se exigirán los requisitos de titulación y formación establecidos en la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación.
 
 2. Podrán impartir docencia en Formación Profesional del sistema educativo:
 
@@ -2166,7 +2175,7 @@ ii. El de profesores especialistas en sectores singulares de formación profes
 
 iii. El cuerpo a extinguir de profesores técnicos de formación profesional.
 
-b) Quienes dispongan, además del título de Grado universitario, Licenciado o Licenciada, Ingeniero o Ingeniera y Arquitecto o Arquitecta o, en su caso, titulación de Técnico Superior de Formación Profesional o Técnico Especialista, declarada equivalente a efectos de docencia, de la formación pedagógica y didáctica de nivel de postgrado o la establecida para la capacitación pedagógica y didáctica de Técnicos Superiores o equivalente, de acuerdo con lo dispuesto en la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+b) Quienes dispongan, además del título de Grado universitario, Licenciado o Licenciada, Ingeniero o Ingeniera y Arquitecto o Arquitecta o, en su caso, titulación de Técnico Superior de Formación Profesional o Técnico Especialista, declarada equivalente a efectos de docencia, de la formación pedagógica y didáctica de nivel de postgrado o la establecida para la capacitación pedagógica y didáctica de Técnicos Superiores o equivalente, de acuerdo con lo dispuesto en la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación.
 
 c) Los que para la docencia en determinadas especialidades, se determinen reglamentariamente, previa consulta a las comunidades autónomas.
 
@@ -2528,7 +2537,7 @@ Los centros de formación profesional podrán llevar a cabo proyectos de ofertas
 
 1. La evaluación de la calidad del Sistema de Formación Profesional se realizará con arreglo a los indicadores establecidos en el Marco Europeo de Garantía de la Calidad de la Formación Profesional (EQAVET).
 
-2. Todas las administraciones públicas con competencia en la materia velarán por la calidad de todas las acciones y los servicios del Sistema de Formación Profesional, en especial la orientación profesional, la formación impartida en los dos regímenes, en todos sus entornos de aprendizaje y en todas sus modalidades, y la acreditación de competencias profesionales. A estos efectos, se contará con la alta inspección de educación y la inspección educativa para las actuaciones de inspección, supervisión y evaluación del Sistema de Formación Profesional, en los términos establecidos en la Ley Orgánica 2/2006, de 3 de mayo, de Educación, y sin perjuicio de las competencias de otros órganos.
+2. Todas las administraciones públicas con competencia en la materia velarán por la calidad de todas las acciones y los servicios del Sistema de Formación Profesional, en especial la orientación profesional, la formación impartida en los dos regímenes, en todos sus entornos de aprendizaje y en todas sus modalidades, y la acreditación de competencias profesionales. A estos efectos, se contará con la alta inspección de educación y la inspección educativa para las actuaciones de inspección, supervisión y evaluación del Sistema de Formación Profesional, en los términos establecidos en la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, y sin perjuicio de las competencias de otros órganos.
 
 3. La Administración General del Estado establecerá y coordinará un sistema de evaluación del Sistema de Formación Profesional para asegurar su mejora e innovación continuas, en colaboración con las administraciones con competencias en la materia, y las organizaciones empresariales y sindicales más representativas.
 
@@ -2652,7 +2661,7 @@ El Gobierno realizará las modificaciones necesarias del Reglamento del Consejo 
 
 El Consejo Escolar del Estado, adscrito al Ministerio de Educación y Formación Profesional, llevará a cabo las competencias asignadas por su normativa constitutiva en materia de formación profesional.
 
-Quedan excluidas del trámite preceptivo a que hace referencia el artículo 32 de la Ley Orgánica 8/1985, de 3 de julio, reguladora del Derecho a la Educación, las normas y reglamentos de ordenación del Sistema de Formación Profesional que no conduzcan directamente a la obtención de titulaciones del sistema educativo.
+Quedan excluidas del trámite preceptivo a que hace referencia el artículo 32 de la [Ley Orgánica 8/1985](../02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md), de 3 de julio, reguladora del Derecho a la Educación, las normas y reglamentos de ordenación del Sistema de Formación Profesional que no conduzcan directamente a la obtención de titulaciones del sistema educativo.
 
 #### Disposición adicional cuarta. Competencias de otros departamentos.
 
@@ -2734,7 +2743,7 @@ Las disposiciones de la presente ley referidas a los diversos registros del ámb
 
 #### Disposición adicional octava.
 
-El profesorado de los cuerpos docentes que pueden impartir docencia en formación profesional, sin perjuicio de lo establecido en el artículo 95 de la Ley Orgánica 2/2006 de 3 de mayo, de Educación, podrá impartir todos los grados de formación profesional establecidos en esta ley de conformidad con su perfil académico y profesional.
+El profesorado de los cuerpos docentes que pueden impartir docencia en formación profesional, sin perjuicio de lo establecido en el artículo 95 de la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md) de 3 de mayo, de Educación, podrá impartir todos los grados de formación profesional establecidos en esta ley de conformidad con su perfil académico y profesional.
 
 Las administraciones competentes podrán contemplar, entre sus actuaciones, tanto la docencia como la evaluación y acreditación de las competencias profesionales.
 
@@ -2760,7 +2769,7 @@ La ordenación académica de las enseñanzas de Formación Profesional del Siste
 
 #### Disposición transitoria cuarta. Profesorado de formación profesional del sistema educativo.
 
-Se habilita a las administraciones educativas para que, en tanto no se complete el desarrollo reglamentario que proceda de las disposiciones sobre el profesorado de formación profesional, establecidas en la presente ley y en la Ley Orgánica 2/2006, de 3 de mayo, de Educación, puedan realizar selección de funcionarios de carrera de las convocatorias derivadas de las ofertas de empleo público aprobadas, en el Cuerpo de Profesores Técnicos de Formación Profesional, así como nombramientos de personal interino en ese cuerpo, con los requisitos que existían para el mismo.
+Se habilita a las administraciones educativas para que, en tanto no se complete el desarrollo reglamentario que proceda de las disposiciones sobre el profesorado de formación profesional, establecidas en la presente ley y en la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, puedan realizar selección de funcionarios de carrera de las convocatorias derivadas de las ofertas de empleo público aprobadas, en el Cuerpo de Profesores Técnicos de Formación Profesional, así como nombramientos de personal interino en ese cuerpo, con los requisitos que existían para el mismo.
 
 #### Disposición transitoria quinta. Transición del sistema de beca a contrato de formación en el régimen de formación profesional intensiva.
 
@@ -2772,7 +2781,7 @@ Se habilita un periodo transitorio hasta el 31 de diciembre de 2024 para la adec
 
 #### Disposición derogatoria única. Derogación normativa.
 
-1. Queda derogada la Ley Orgánica 5/2002, de 19 de junio, de las Cualificaciones y de la Formación Profesional.
+1. Queda derogada la [Ley Orgánica 5/2002](./LO5_2002_cualificaciones_formacion_profesional.md), de 19 de junio, de las Cualificaciones y de la Formación Profesional.
 
 2. Quedan derogadas cuantas disposiciones de la Ley 30/2015, de 9 de septiembre, por la que se regula el Sistema de Formación Profesional para el empleo en el ámbito laboral se opongan a lo establecido en la presente ley.
 
@@ -2782,9 +2791,9 @@ El Gobierno modificará las disposiciones de la Ley 30/2015, de 9 de septiembre,
 
 4. Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en la presente ley.
 
-#### Disposición final primera. Modificación de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+#### Disposición final primera. Modificación de la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación.
 
-Se modifica la Ley Orgánica 2/2006, de 3 de mayo, de Educación, en los siguientes términos:
+Se modifica la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, en los siguientes términos:
 
 Uno. El artículo 95 queda.
 
@@ -2804,9 +2813,9 @@ Tres. Se añade un apartado 2 bis en la disposición adicional novena, redacta
 
 «2 bis. Para el ingreso en el cuerpo de profesores especialistas en sectores singulares de formación profesional será necesario estar en posesión de la titulación de Diplomado, Arquitecto Técnico, Ingeniero Técnico o el título de Grado, Licenciado o Licenciada, Ingeniero o Ingeniera y Arquitecto o Arquitecta, correspondiente u otros títulos de Técnico Superior de Formación Profesional declarados equivalentes, a efectos de docencia, además de la formación pedagógica y didáctica a la que se refiere el artículo 100.2 de esta ley, o la establecida para la capacitación pedagógica y didáctica de Técnicos Superiores o equivalente, así como superar el correspondiente proceso selectivo.»
 
-#### Disposición final segunda. Modificación de la Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+#### Disposición final segunda. Modificación de la Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación.
 
-Se modifica la disposición adicional undécima de la Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la Ley Orgánica 2/2006, de 3 de mayo, de Educación, en los siguientes términos:
+Se modifica la disposición adicional undécima de la Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, en los siguientes términos:
 
 #### «Disposición adicional undécima. Integración de profesorado del Cuerpo a extinguir de Profesores Técnicos de Formación Profesional en el Cuerpo de Profesores de Enseñanza Secundaria.
 
@@ -2818,9 +2827,9 @@ Se modifica la disposición adicional undécima de la Ley Orgánica 3/2020, de 2
 
 4. El profesorado del cuerpo a extinguir de profesores técnicos de formación profesional que no quedase integrado en el cuerpo de profesores de enseñanza secundaria, permanecerá en el cuerpo a extinguir de profesores técnicos de formación profesional, manteniendo su atribución docente y todos los derechos inherentes a su condición de funcionario. No obstante lo anterior este profesorado podrá participar en los procesos de promoción interna que se convoquen.»
 
-#### Disposición final tercera. Ordenación de las enseñanzas de formación profesional de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+#### Disposición final tercera. Ordenación de las enseñanzas de formación profesional de la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación.
 
-La ordenación de las enseñanzas de formación profesional comprendidas en el articulado del capítulo V, del Título I, de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, se entenderá efectuada de acuerdo con lo que se dispone en esta ley, y todas las referencias que se realicen en la normativa a estos preceptos, se entenderán asimismo efectuadas de acuerdo con lo que se dispone en la presente ley.
+La ordenación de las enseñanzas de formación profesional comprendidas en el articulado del capítulo V, del Título I, de la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, se entenderá efectuada de acuerdo con lo que se dispone en esta ley, y todas las referencias que se realicen en la normativa a estos preceptos, se entenderán asimismo efectuadas de acuerdo con lo que se dispone en la presente ley.
 
 #### Disposición final cuarta. Salvaguardia del rango reglamentario de la disposición adicional quinta.
 
@@ -2929,20 +2938,20 @@ PEDRO SÁNCHEZ PÉREZ-CASTEJÓN
 - **Modifica**: [**BOE-A-2002-12018**](./LO5_2002_cualificaciones_formacion_profesional.md)
 - **Modifica**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
 - **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
-- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (D. Final primera) desde *(Título XI, D. Final primera. Modificación de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.)*
-- **Modifica**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (D. Final primera) desde *(Título XI, D. Final primera. Modificación de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.)*
-- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (D. Final primera) desde *(Título XI, D. Final primera. Modificación de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.)*
-- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) desde *(Título XI, D. Final primera. Modificación de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.)*
-- **Modifica**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) desde *(Título XI, D. Final primera. Modificación de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.)*
-- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) desde *(Título XI, D. Final primera. Modificación de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.)*
-- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (D. Final segunda) desde *(Título XI, D. Final segunda. Modificación de la Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la Ley Orgánica 2/2006, de 3 de mayo, de Educación.)*
-- **Modifica**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (D. Final segunda) desde *(Título XI, D. Final segunda. Modificación de la Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la Ley Orgánica 2/2006, de 3 de mayo, de Educación.)*
-- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (D. Final segunda) desde *(Título XI, D. Final segunda. Modificación de la Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la Ley Orgánica 2/2006, de 3 de mayo, de Educación.)*
-- **Modifica**: `norm-es-lo-3-2020` (D. Final segunda) desde *(Título XI, D. Final segunda. Modificación de la Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la Ley Orgánica 2/2006, de 3 de mayo, de Educación.)*
-- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) desde *(Título XI, D. Final segunda. Modificación de la Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la Ley Orgánica 2/2006, de 3 de mayo, de Educación.)*
-- **Modifica**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) desde *(Título XI, D. Final segunda. Modificación de la Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la Ley Orgánica 2/2006, de 3 de mayo, de Educación.)*
-- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) desde *(Título XI, D. Final segunda. Modificación de la Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la Ley Orgánica 2/2006, de 3 de mayo, de Educación.)*
-- **Modifica**: `norm-es-lo-3-2020` desde *(Título XI, D. Final segunda. Modificación de la Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la Ley Orgánica 2/2006, de 3 de mayo, de Educación.)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (D. Final primera) desde *(Título XI, D. Final primera. Modificación de la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación.)*
+- **Modifica**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (D. Final primera) desde *(Título XI, D. Final primera. Modificación de la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación.)*
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (D. Final primera) desde *(Título XI, D. Final primera. Modificación de la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación.)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) desde *(Título XI, D. Final primera. Modificación de la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación.)*
+- **Modifica**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) desde *(Título XI, D. Final primera. Modificación de la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación.)*
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) desde *(Título XI, D. Final primera. Modificación de la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación.)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (D. Final segunda) desde *(Título XI, D. Final segunda. Modificación de la Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación.)*
+- **Modifica**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (D. Final segunda) desde *(Título XI, D. Final segunda. Modificación de la Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación.)*
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (D. Final segunda) desde *(Título XI, D. Final segunda. Modificación de la Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación.)*
+- **Modifica**: `norm-es-lo-3-2020` (D. Final segunda) desde *(Título XI, D. Final segunda. Modificación de la Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación.)*
+- **Modifica**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) desde *(Título XI, D. Final segunda. Modificación de la Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación.)*
+- **Modifica**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) desde *(Título XI, D. Final segunda. Modificación de la Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación.)*
+- **Modifica**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) desde *(Título XI, D. Final segunda. Modificación de la Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación.)*
+- **Modifica**: `norm-es-lo-3-2020` desde *(Título XI, D. Final segunda. Modificación de la Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación.)*
 - **Deroga**: [**BOE-A-2002-12018**](./LO5_2002_cualificaciones_formacion_profesional.md) (D. Derogatoria única)
 - **Deroga**: [**BOE-A-2002-12018**](./LO5_2002_cualificaciones_formacion_profesional.md) desde *(Título XI, D. Derogatoria única. Derogación normativa.)*
 - **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 6) desde *(Título II, Capítulo II. Tipología de ofertas y grados de formación., Art. 52)*
@@ -3015,9 +3024,9 @@ PEDRO SÁNCHEZ PÉREZ-CASTEJÓN
 - **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) desde *(Título XI, D. Transitoria cuarta. Profesorado de formación profesional del sistema educativo.)*
 - **Cita a**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) desde *(Título XI, D. Transitoria cuarta. Profesorado de formación profesional del sistema educativo.)*
 - **Cita a**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) desde *(Título XI, D. Transitoria cuarta. Profesorado de formación profesional del sistema educativo.)*
-- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (D. Final tercera) desde *(Título XI, D. Final tercera. Ordenación de las enseñanzas de formación profesional de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.)*
-- **Cita a**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (D. Final tercera) desde *(Título XI, D. Final tercera. Ordenación de las enseñanzas de formación profesional de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.)*
-- **Cita a**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (D. Final tercera) desde *(Título XI, D. Final tercera. Ordenación de las enseñanzas de formación profesional de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.)*
-- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Título I, Capítulo V) desde *(Título XI, D. Final tercera. Ordenación de las enseñanzas de formación profesional de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.)*
-- **Cita a**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Título I, Capítulo V) desde *(Título XI, D. Final tercera. Ordenación de las enseñanzas de formación profesional de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.)*
-- **Cita a**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Título I, Capítulo V) desde *(Título XI, D. Final tercera. Ordenación de las enseñanzas de formación profesional de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.)*
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (D. Final tercera) desde *(Título XI, D. Final tercera. Ordenación de las enseñanzas de formación profesional de la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación.)*
+- **Cita a**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (D. Final tercera) desde *(Título XI, D. Final tercera. Ordenación de las enseñanzas de formación profesional de la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación.)*
+- **Cita a**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (D. Final tercera) desde *(Título XI, D. Final tercera. Ordenación de las enseñanzas de formación profesional de la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación.)*
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Título I, Capítulo V) desde *(Título XI, D. Final tercera. Ordenación de las enseñanzas de formación profesional de la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación.)*
+- **Cita a**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Título I, Capítulo V) desde *(Título XI, D. Final tercera. Ordenación de las enseñanzas de formación profesional de la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación.)*
+- **Cita a**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) (Título I, Capítulo V) desde *(Título XI, D. Final tercera. Ordenación de las enseñanzas de formación profesional de la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación.)*

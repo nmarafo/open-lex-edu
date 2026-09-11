@@ -215,9 +215,17 @@ relaciones:
   - norma_id: norm-es-2016-3229
   - norma_id: norm-es-2021-20113
   - norma_id: norm-es-2010-12201
+fundamentos_derecho:
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-mad-d-126-2014
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-1999-23750
+- norma_id: norm-es-lo-8-1985
+- norma_id: norm-es-2016-3229
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
 ---
-
-# Real Decreto 126/2014, de 28 de febrero, por el que se establece el currículo básico de la Educación Primaria.
+# Real [Decreto 126/2014](../../autonómica/madrid/05_alumnado_y_servicios_escolares/D126_2014_precios_publicos_servicios_comedor_escuelas_infantiles_madrid.md), de 28 de febrero, por el que se establece el currículo básico de la Educación Primaria.
 
 ## Preámbulo
 
@@ -225,7 +233,7 @@ La [Ley Orgánica 8/2013](LO462_2016_ecd_regula_procedimiento_incorporacion_alum
 
 Según el nuevo artículo 6 bis de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, corresponde al Gobierno, entre otros, el diseño del currículo básico, en relación con los objetivos, competencias, contenidos, estándares y resultados de aprendizaje evaluables y criterios de evaluación, que garantice el carácter oficial y la validez en todo el territorio nacional de las titulaciones a que se refiere esta Ley Orgánica.
 
-Uno de los pilares centrales de la reforma educativa operada por la Ley Orgánica 8/2013, de 9 de diciembre, descansa sobre una nueva configuración del currículo de Educación Primaria, Educación Secundaria Obligatoria y Bachillerato. En el bloque de asignaturas troncales se garantizan los conocimientos y competencias que permitan adquirir una formación sólida y continuar con aprovechamiento las etapas posteriores en aquellas asignaturas que deben ser comunes a todo el alumnado, y que en todo caso deben ser evaluadas en las evaluaciones finales de etapa. El bloque de asignaturas específicas permite una mayor autonomía a la hora de fijar horarios y contenidos de las asignaturas, así como para conformar su oferta. El bloque de asignaturas de libre configuración autonómica supone el mayor nivel de autonomía, en el que las Administraciones educativas y en su caso los centros pueden ofrecer asignaturas de diseño propio, entre las que se encuentran las ampliaciones de las materias troncales o específicas. Esta distribución no obedece a la importancia o carácter instrumental o fundamental de las asignaturas sino a la distribución de competencias entre el Estado y las Comunidades Autónomas, acorde con la Constitución española.
+Uno de los pilares centrales de la reforma educativa operada por la [Ley Orgánica 8/2013](./LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md), de 9 de diciembre, descansa sobre una nueva configuración del currículo de Educación Primaria, Educación Secundaria Obligatoria y Bachillerato. En el bloque de asignaturas troncales se garantizan los conocimientos y competencias que permitan adquirir una formación sólida y continuar con aprovechamiento las etapas posteriores en aquellas asignaturas que deben ser comunes a todo el alumnado, y que en todo caso deben ser evaluadas en las evaluaciones finales de etapa. El bloque de asignaturas específicas permite una mayor autonomía a la hora de fijar horarios y contenidos de las asignaturas, así como para conformar su oferta. El bloque de asignaturas de libre configuración autonómica supone el mayor nivel de autonomía, en el que las Administraciones educativas y en su caso los centros pueden ofrecer asignaturas de diseño propio, entre las que se encuentran las ampliaciones de las materias troncales o específicas. Esta distribución no obedece a la importancia o carácter instrumental o fundamental de las asignaturas sino a la distribución de competencias entre el Estado y las Comunidades Autónomas, acorde con la Constitución española.
 
 Esta nueva configuración curricular supone un importante incremento en la autonomía de las Administraciones educativas y de los centros, que pueden decidir las opciones y vías en las que se especializan y fijar la oferta de asignaturas de los bloques de asignaturas específicas y de libre configuración autonómica, en el marco de la programación de las enseñanzas que establezca cada Administración educativa. El sistema es más flexible porque permite ajustar la oferta formativa y sus itinerarios a la demanda de las familias y a la proximidad de facultades o escuelas universitarias y otros centros docentes, y favorece la especialización de los centros en función de los itinerarios ofrecidos.
 

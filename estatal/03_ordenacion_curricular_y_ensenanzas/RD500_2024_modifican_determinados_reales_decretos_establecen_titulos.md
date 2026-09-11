@@ -266,8 +266,22 @@ relaciones:
   - norma_id: norm-es-2007-5478
   - norma_id: norm-es-2022-16194
   - norma_id: norm-es-rd-276-2007
+fundamentos_derecho:
+- norma_id: norm-can-res-boc-2024-230-25
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-can-res-134
+- norma_id: norm-es-l-39-2015
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-lo-3-2022
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2021-979
+- norma_id: norm-es-2020-17274
+- norma_id: norm-es-rd-659-2023
+- norma_id: norm-es-2010-12201
+- norma_id: norm-es-rd-276-2007
+- norma_id: norm-es-2007-5478
+- norma_id: norm-es-2022-16194
 ---
-
 # Real Decreto 500/2024, de 21 de mayo, por el que se modifican determinados reales decretos por los que se establecen títulos de Formación Profesional de grado superior y se fijan sus enseñanzas mínimas.
 
 ## Preámbulo
@@ -504,7 +518,7 @@ Para canalizar todas las expectativas, la ley orgánica requiere ser desarrollad
 
 Establecida la ordenación del sistema por el [Real Decreto 659/2023](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, por el que se desarrolla la ordenación del Sistema de Formación Profesional, procede realizar los cambios normativos mínimos e imprescindibles para garantizar la transición y adaptación al nuevo sistema de las titulaciones y ofertas formativas reguladas con anterioridad, con plena seguridad jurídica para la ciudadanía y de las administraciones competentes de las comunidades autónomas.
 
-A este objetivo responde la presente norma en la que se establecen los cambios de ordenación necesarios de los títulos de Formación Profesional de grado superior para permitir su oferta en el marco de la nueva estructura establecida en el Real Decreto 659/2023, de 18 de julio. Concretamente, se procede a la actualización de la nómina de los módulos profesionales que forman parte del plan de estudios de cada ciclo formativo, se adapta el antiguo proyecto a la intermodularidad requerida, se adaptan los cuerpos del profesorado tras la publicación del [Real Decreto 800/2022](../08_personal_docente/RD800_2022_regula_integracion_profesorado_cuerpo_extinguir_profesores.md), de 4 de octubre, por el que se regula la integración del profesorado del Cuerpo, a extinguir, de Profesores Técnicos de Formación Profesional en el Cuerpo de Profesores de Enseñanza Secundaria, y se modifican diversos reales decretos relativos al profesorado de enseñanzas no universitarias, y se actualiza el contenido del artículo 6 de algunos reales decretos y por consiguiente se actualiza el anexo relativo a la correspondencia de los módulos profesionales con las unidades de competencia.
+A este objetivo responde la presente norma en la que se establecen los cambios de ordenación necesarios de los títulos de Formación Profesional de grado superior para permitir su oferta en el marco de la nueva estructura establecida en el [Real Decreto 659/2023](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio. Concretamente, se procede a la actualización de la nómina de los módulos profesionales que forman parte del plan de estudios de cada ciclo formativo, se adapta el antiguo proyecto a la intermodularidad requerida, se adaptan los cuerpos del profesorado tras la publicación del [Real Decreto 800/2022](../08_personal_docente/RD800_2022_regula_integracion_profesorado_cuerpo_extinguir_profesores.md), de 4 de octubre, por el que se regula la integración del profesorado del Cuerpo, a extinguir, de Profesores Técnicos de Formación Profesional en el Cuerpo de Profesores de Enseñanza Secundaria, y se modifican diversos reales decretos relativos al profesorado de enseñanzas no universitarias, y se actualiza el contenido del artículo 6 de algunos reales decretos y por consiguiente se actualiza el anexo relativo a la correspondencia de los módulos profesionales con las unidades de competencia.
 
 En relación con el contenido de carácter básico de este real decreto, se ha recurrido a una norma reglamentaria para establecer bases estatales conforme con el Tribunal Constitucional, que admite «excepcionalmente», que las bases puedan establecerse mediante normas reglamentarias en determinados supuestos, cuando, como ocurre en el presente caso, «resulta complemento indispensable para asegurar el mínimo común denominador establecido en las normas legales básicas» (así, entre otras, en las Sentencias del Tribunal Constitucional 25/1983, de 7 de abril, 32/1983, de 28 de abril, 48/1988, de 22 de marzo, y 49/1988, de 22 de marzo).
 
@@ -512,7 +526,7 @@ Asimismo, cabe mencionar que este real decreto se ajusta a los principios de bue
 
 Este real decreto se dicta al amparo de las competencias que atribuye al Estado el artículo 149.1.30.ª de la Constitución Española, para la regulación de las condiciones de obtención, expedición y homologación de los títulos académicos y profesionales y normas básicas para el desarrollo del artículo 27 de la Constitución Española, a fin de garantizar el cumplimiento de las obligaciones de los poderes públicos en esta materia.
 
-En la tramitación de este real decreto se han cumplido los trámites establecidos en la Ley 50/1997, de 27 de noviembre, del Gobierno, y en la Ley 39/2015, de 1 de octubre. Ha emitido dictamen el Consejo Escolar del Estado y ha sido informado el Ministerio de Política Territorial y Memoria Democrática.
+En la tramitación de este real decreto se han cumplido los trámites establecidos en la Ley 50/1997, de 27 de noviembre, del Gobierno, y en la [Ley 39/2015](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre. Ha emitido dictamen el Consejo Escolar del Estado y ha sido informado el Ministerio de Política Territorial y Memoria Democrática.
 
 En su virtud, a propuesta de la Ministra de Educación, Formación Profesional y Deportes, y previa deliberación del Consejo de Ministros en su reunión del día 21 de mayo de 2024,
 
@@ -520,7 +534,7 @@ En su virtud, a propuesta de la Ministra de Educación, Formación Profesional y
 
 #### Artículo primero. Objeto y ámbito de aplicación.
 
-Uno. El presente real decreto tiene por objeto la modificación de determinados reales decretos por los que se establecen títulos de Formación Profesional de grado superior y se fijan sus enseñanzas mínimas para su adaptación a lo establecido en el Real Decreto 659/2023, de 18 de julio, por el que se desarrolla la ordenación del Sistema de Formación Profesional.
+Uno. El presente real decreto tiene por objeto la modificación de determinados reales decretos por los que se establecen títulos de Formación Profesional de grado superior y se fijan sus enseñanzas mínimas para su adaptación a lo establecido en el [Real Decreto 659/2023](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, por el que se desarrolla la ordenación del Sistema de Formación Profesional.
 
 Dos. Las modificaciones contenidas en este real decreto serán de aplicación, en los términos que se indica en cada caso, a la ordenación de los títulos de Formación Profesional de grado superior establecidos en los siguientes reales decretos:
 
@@ -1944,7 +1958,7 @@ UC1014_3: Organizar el almacén de acuerdo a los criterios y niveles de activida
 
 UC1015_2: Gestionar y coordinar las operaciones del almacén.
 
-Nota: las personas matriculadas en este ciclo formativo que tengan acreditadas todas las unidades de competencia incluidas en el título, de acuerdo con el procedimiento de acreditación de competencias profesionales adquiridas a través de la experiencia laboral u otras vías formales o informales recogido en el Real Decreto 659/2023, de 18 de julio, por el que se desarrolla la ordenación del Sistema de Formación Profesional, tendrán convalidado el módulo profesional 0827. Comercio digital internacional.
+Nota: las personas matriculadas en este ciclo formativo que tengan acreditadas todas las unidades de competencia incluidas en el título, de acuerdo con el procedimiento de acreditación de competencias profesionales adquiridas a través de la experiencia laboral u otras vías formales o informales recogido en el [Real Decreto 659/2023](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, por el que se desarrolla la ordenación del Sistema de Formación Profesional, tendrán convalidado el módulo profesional 0827. Comercio digital internacional.
 
 ## Anexo V. B)
 
@@ -2014,7 +2028,7 @@ UC0795_3: Gestionar las actividades desarrolladas en empresas de Imagen Personal
 
 UC0352_2: Vender productos y servicios para la Imagen Personal.
 
-NOTA: Las personas matriculadas en este ciclo formativo que tengan acreditadas todas las unidades de competencia incluidas en el título, de acuerdo con el procedimiento de acreditación de competencias profesionales adquiridas a través de la experiencia laboral u otras vías formales o informales recogido en el Real Decreto 659/2023, de 18 de julio, por el que se desarrolla la ordenación del Sistema de Formación Profesional, tendrán convalidados los módulos profesionales "1072. Peluquería en cuidados especiales" y "1070. Estudio de la imagen".
+NOTA: Las personas matriculadas en este ciclo formativo que tengan acreditadas todas las unidades de competencia incluidas en el título, de acuerdo con el procedimiento de acreditación de competencias profesionales adquiridas a través de la experiencia laboral u otras vías formales o informales recogido en el [Real Decreto 659/2023](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, por el que se desarrolla la ordenación del Sistema de Formación Profesional, tendrán convalidados los módulos profesionales "1072. Peluquería en cuidados especiales" y "1070. Estudio de la imagen".
 
 ## Anexo IV. B)
 
@@ -2614,7 +2628,7 @@ UC1993_3: Gestionar el mantenimiento de embarcaciones deportivas y de recreo.
 
 0802. Organización de la asistencia sanitaria a bordo.
 
-Nota: las personas matriculadas en este ciclo formativo que tengan acreditadas todas las unidades de competencia incluidas en el título, de acuerdo con el procedimiento establecido en el Real Decreto 659/2023, de 18 de julio, de reconocimiento de las competencias profesionales adquiridas por experiencia laboral, tendrán convalidado el módulo profesional "1314. Organización de la guardia de máquinas".
+Nota: las personas matriculadas en este ciclo formativo que tengan acreditadas todas las unidades de competencia incluidas en el título, de acuerdo con el procedimiento establecido en el [Real Decreto 659/2023](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, de reconocimiento de las competencias profesionales adquiridas por experiencia laboral, tendrán convalidado el módulo profesional "1314. Organización de la guardia de máquinas".
 
 ## Anexo V. B)
 
@@ -2698,7 +2712,7 @@ UC1537_3: Obtener e intercambiar datos biotecnológicos usando redes telemática
 
 UC1557_3: Organizar la fabricación de productos de base biológica y el desarrollo de servicios biotecnológicos.
 
-Nota: Las personas matriculadas en este ciclo formativo que tengan acreditadas todas las unidades de competencia incluidas en el título, de acuerdo con el procedimiento de acreditación de competencias profesionales adquiridas a través de la experiencia laboral u otras vías formales o informales recogido en el Real Decreto 659/2023, de 18 de julio, por el que se desarrolla la ordenación del Sistema de Formación Profesional, tendrán convalidado el módulo profesional "0191. Mantenimiento electromecánico en industrias de proceso".
+Nota: Las personas matriculadas en este ciclo formativo que tengan acreditadas todas las unidades de competencia incluidas en el título, de acuerdo con el procedimiento de acreditación de competencias profesionales adquiridas a través de la experiencia laboral u otras vías formales o informales recogido en el [Real Decreto 659/2023](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, por el que se desarrolla la ordenación del Sistema de Formación Profesional, tendrán convalidado el módulo profesional "0191. Mantenimiento electromecánico en industrias de proceso".
 
 ## Anexo V. B)
 
@@ -2826,7 +2840,7 @@ UC2145_3: Controlar la ejecución de firmes y elementos complementarios en obra 
 
 1292. Control de ejecución en obra civil.
 
-Nota: Las personas matriculadas en este ciclo formativo que tengan acreditadas todas las unidades de competencia incluidas en el título, de acuerdo con el procedimiento de acreditación de competencias profesionales adquiridas a través de la experiencia laboral u otras vías formales o informales recogido en el Real Decreto 659/2023, de 18 de julio, por el que se desarrolla la ordenación del Sistema de Formación Profesional, tendrán convalidado el módulo profesional "0562. Estructuras de construcción".
+Nota: Las personas matriculadas en este ciclo formativo que tengan acreditadas todas las unidades de competencia incluidas en el título, de acuerdo con el procedimiento de acreditación de competencias profesionales adquiridas a través de la experiencia laboral u otras vías formales o informales recogido en el [Real Decreto 659/2023](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, por el que se desarrolla la ordenación del Sistema de Formación Profesional, tendrán convalidado el módulo profesional "0562. Estructuras de construcción".
 
 ## Anexo V. B)
 
@@ -3030,7 +3044,7 @@ UC1094_3: Organizar y desarrollar actividades lúdicas y físico-recreativas en 
 
 UC1096_3: Organizar y desarrollar veladas y espectáculos con fines de animación.
 
-Nota: las personas matriculadas en este ciclo formativo que tengan acreditadas todas las unidades de competencia incluidas en el título, de acuerdo con el procedimiento establecido en el Real Decreto 659/2023, de 18 de julio de reconocimiento de las competencias profesionales adquiridas por experiencia laboral, tendrá convalidado el módulo profesional "1143. Metodología de la enseñanza de actividades físico-deportivas".
+Nota: las personas matriculadas en este ciclo formativo que tengan acreditadas todas las unidades de competencia incluidas en el título, de acuerdo con el procedimiento establecido en el [Real Decreto 659/2023](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio de reconocimiento de las competencias profesionales adquiridas por experiencia laboral, tendrá convalidado el módulo profesional "1143. Metodología de la enseñanza de actividades físico-deportivas".
 
 ## Anexo V. B)
 
@@ -3278,7 +3292,7 @@ a) Se da una nueva redacción al primer párrafo del apartado 1, que queda redac
 
 b) Se da una nueva redacción al apartado 1.a), cuya redacción queda como sigue:
 
-«a) Quedan desarrollados en el Anexo I del presente real decreto, cumpliendo lo previsto en el Real Decreto 659/2023, de 18 de julio, por el que se desarrolla la ordenación del Sistema de Formación Profesional.»
+«a) Quedan desarrollados en el Anexo I del presente real decreto, cumpliendo lo previsto en el [Real Decreto 659/2023](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, por el que se desarrolla la ordenación del Sistema de Formación Profesional.»
 
 c) Se modifica el listado del apartado 1.b) en los siguientes términos:
 
@@ -3292,19 +3306,19 @@ d) Se modifica el apartado 2 del artículo 10, que queda redactado como sigue:
 
 «2. Las Administraciones educativas establecerán los currículos correspondientes, respetando lo establecido en este real decreto y de acuerdo con lo dispuesto en el artículo 7 l.
 
-Real Decreto 659/2023, de 18 de julio.»
+[Real Decreto 659/2023](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio.»
 
 e) Se incluye un nuevo apartado 3, con la siguiente redacción:
 
-«3. Los ciclos formativos de grado superior tendrán estructura modular y se organizarán en los bloques previstos en el artículo 96.1 del Real Decreto 659/2023, de 18 de julio. Así mismo, las administraciones educativas incluirán el módulo profesional de carácter optativo con una duración de currículo básico de 80 horas. Este podrá desarrollarse durante un curso completo, o en dos cuatrimestres. En este segundo caso, será posible su distribución en dos módulos cuatrimestrales en diferentes cursos.»
+«3. Los ciclos formativos de grado superior tendrán estructura modular y se organizarán en los bloques previstos en el artículo 96.1 del [Real Decreto 659/2023](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio. Así mismo, las administraciones educativas incluirán el módulo profesional de carácter optativo con una duración de currículo básico de 80 horas. Este podrá desarrollarse durante un curso completo, o en dos cuatrimestres. En este segundo caso, será posible su distribución en dos módulos cuatrimestrales en diferentes cursos.»
 
 f) Se incluye un nuevo apartado 4, con la siguiente redacción:
 
-«4. De acuerdo con lo establecido en los artículos 12.3 y 12.4 del Real Decreto 659/2023, de 18 de julio, y sin perjuicio de lo señalado en el artículo 6 de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, los contenidos básicos que figuran en los anexos I correspondientes a los módulos profesionales y proyecto intermodular que conforman los diferentes ciclos formativos de grado superior a los que se refiere el presente real decreto tendrán la consideración de carácter orientativo.»
+«4. De acuerdo con lo establecido en los artículos 12.3 y 12.4 del [Real Decreto 659/2023](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, y sin perjuicio de lo señalado en el artículo 6 de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, los contenidos básicos que figuran en los anexos I correspondientes a los módulos profesionales y proyecto intermodular que conforman los diferentes ciclos formativos de grado superior a los que se refiere el presente real decreto tendrán la consideración de carácter orientativo.»
 
 g) Se incluye un nuevo apartado 5, con la siguiente redacción:
 
-«5. Todos los ciclos formativos a que hace referencia el artículo 1.2 incluirán un periodo de formación en empresa u organismo equiparado en los términos regulados en el título IV del Real Decreto 659/2023, de 18 de julio.»
+«5. Todos los ciclos formativos a que hace referencia el artículo 1.2 incluirán un periodo de formación en empresa u organismo equiparado en los términos regulados en el título IV del [Real Decreto 659/2023](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio.»
 
 Dos. En los reales decretos a que hace referencia el artículo primero.Dos.b), se modifica el artículo 10 en.
 
@@ -3316,7 +3330,7 @@ a) Se da una nueva redacción al primer párrafo del apartado 1, que queda redac
 
 b) Se da una nueva redacción al apartado 1.a), cuya redacción queda como sigue:
 
-«a) Quedan desarrollados en el Anexo I del presente real decreto, cumpliendo lo previsto en el Real Decreto 659/2023, de 18 de julio, por el que se desarrolla la ordenación del Sistema de Formación Profesional.»
+«a) Quedan desarrollados en el Anexo I del presente real decreto, cumpliendo lo previsto en el [Real Decreto 659/2023](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, por el que se desarrolla la ordenación del Sistema de Formación Profesional.»
 
 c) Se modifica el apartado 1.b) en los siguientes términos:
 
@@ -3324,7 +3338,7 @@ c) Se modifica el apartado 1.b) en los siguientes términos:
 
 2.º El módulo de «Proyecto», con la denominación específica que corresponda, pasa a denominarse «Proyecto intermodular», manteniendo el resto de la denominación y número de código específico que tuviera en cada uno de los reales decretos afectados.
 
-3.º El módulo de 0179. Inglés pasa a denominarse 0179. Inglés Profesional (GS), cambiando el currículo básico a lo establecido en el anexo X del Real Decreto 659/2023, de 18 de julio.
+3.º El módulo de 0179. Inglés pasa a denominarse 0179. Inglés Profesional (GS), cambiando el currículo básico a lo establecido en el anexo X del [Real Decreto 659/2023](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio.
 
 4.º Se incluyen los siguientes módulos profesionales al final del listado del artículo 10: 1709. Itinerario personal para la empleabilidad I, 1710. Itinerario personal para la empleabilidad II, 1665. Digitalización aplicada a los sectores productivos (GS), 1708. Sostenibilidad aplicada al sistema productivo y Módulo profesional optativo.
 
@@ -3332,19 +3346,19 @@ d) Se modifica el apartado 2 del artículo 10, que queda redactado como sigue:
 
 «2. Las Administraciones educativas establecerán los currículos correspondientes, respetando lo establecido en este real decreto y de acuerdo con lo dispuesto en el artículo 7 l.
 
-Real Decreto 659/2023, de 18 de julio.»
+[Real Decreto 659/2023](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio.»
 
 e) Se incluye un nuevo apartado 3, con la siguiente redacción:
 
-«3. Los ciclos formativos de grado superior tendrán estructura modular y se organizarán en los bloques previstos en el artículo 96.1 del Real Decreto 659/2023, de 18 de julio. Así mismo, las administraciones educativas incluirán el módulo profesional de carácter optativo con una duración de currículo básico de 80 horas. Este podrá desarrollarse durante un curso completo, o en dos cuatrimestres. En este segundo caso, será posible su distribución en dos módulos cuatrimestrales en diferentes cursos.»
+«3. Los ciclos formativos de grado superior tendrán estructura modular y se organizarán en los bloques previstos en el artículo 96.1 del [Real Decreto 659/2023](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio. Así mismo, las administraciones educativas incluirán el módulo profesional de carácter optativo con una duración de currículo básico de 80 horas. Este podrá desarrollarse durante un curso completo, o en dos cuatrimestres. En este segundo caso, será posible su distribución en dos módulos cuatrimestrales en diferentes cursos.»
 
 f) Se incluye un nuevo apartado 4, con la siguiente redacción:
 
-«4. De acuerdo con lo establecido en los artículos 12.3 y 12.4 del Real Decreto 659/2023, de 18 de julio, y sin perjuicio de lo señalado en el artículo 6 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, los contenidos básicos que figuran en los anexos I correspondientes a los módulos profesionales y proyecto intermodular que conforman los diferentes ciclos formativos de grado superior a los que se refiere el presente real decreto tendrán la consideración de carácter orientativo.»
+«4. De acuerdo con lo establecido en los artículos 12.3 y 12.4 del [Real Decreto 659/2023](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, y sin perjuicio de lo señalado en el artículo 6 de la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, los contenidos básicos que figuran en los anexos I correspondientes a los módulos profesionales y proyecto intermodular que conforman los diferentes ciclos formativos de grado superior a los que se refiere el presente real decreto tendrán la consideración de carácter orientativo.»
 
 g) Se incluye un nuevo apartado 5, con la siguiente redacción:
 
-«5. Todos los ciclos formativos a que hace referencia el artículo 1.2 incluirán un periodo de formación en empresa u organismo equiparado en los términos regulados en el título IV del Real Decreto 659/2023, de 18 de julio.»
+«5. Todos los ciclos formativos a que hace referencia el artículo 1.2 incluirán un periodo de formación en empresa u organismo equiparado en los términos regulados en el título IV del [Real Decreto 659/2023](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio.»
 
 Tres. En los reales decretos a que hace referencia el artículo primero.Dos.c), se modifica el artículo 10 en.
 
@@ -3356,7 +3370,7 @@ a) Se da una nueva redacción al primer párrafo del apartado 1, que queda redac
 
 b) Se da una nueva redacción al apartado 1.a), cuya redacción queda como sigue:
 
-«a) Quedan desarrollados en el Anexo I del presente real decreto, cumpliendo lo previsto en el Real Decreto 659/2023, de 18 de julio, por el que se desarrolla la ordenación del Sistema de Formación Profesional.»
+«a) Quedan desarrollados en el Anexo I del presente real decreto, cumpliendo lo previsto en el [Real Decreto 659/2023](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, por el que se desarrolla la ordenación del Sistema de Formación Profesional.»
 
 c) Se modifica el apartado 1.b) en los siguientes términos:
 
@@ -3364,7 +3378,7 @@ c) Se modifica el apartado 1.b) en los siguientes términos:
 
 2.º El módulo de «Proyecto», con la denominación específica que corresponda, pasa a denominarse «Proyecto intermodular», manteniendo el resto de la denominación y número de código específico que tuviera en cada uno de los reales decretos afectados.
 
-3.º El módulo de 0179. Inglés pasa a denominarse 0179. Inglés Profesional (GS), cambiando el currículo básico a lo establecido en el anexo X del Real Decreto 659/2023, de 18 de julio.
+3.º El módulo de 0179. Inglés pasa a denominarse 0179. Inglés Profesional (GS), cambiando el currículo básico a lo establecido en el anexo X del [Real Decreto 659/2023](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio.
 
 4.º Se incluyen los siguientes módulos profesionales al final del listado del artículo 10: 1709. Itinerario personal para la empleabilidad I, 1710. Itinerario personal para la empleabilidad II, 1665. Digitalización aplicada a los sectores productivos (GS), 1708. Sostenibilidad aplicada al sistema productivo y Módulo profesional optativo.
 
@@ -3372,19 +3386,19 @@ d) Se modifica el apartado 2, que queda redactado como sigue:
 
 «2. Las Administraciones educativas establecerán los currículos correspondientes, respetando lo establecido en este real decreto y de acuerdo con lo dispuesto en el artículo 7 l.
 
-Real Decreto 659/2023, de 18 de julio.»
+[Real Decreto 659/2023](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio.»
 
 e) Se incluye un nuevo apartado 3, con la siguiente redacción:
 
-«3. Los ciclos formativos de grado superior tendrán estructura modular y se organizarán en los bloques previstos en el artículo 96.1 del Real Decreto 659/2023, de 18 de julio. Así mismo, las administraciones educativas incluirán el módulo profesional de carácter optativo con una duración de currículo básico de 80 horas. Este podrá desarrollarse durante un curso completo, o en dos cuatrimestres. En este segundo caso, será posible su distribución en dos módulos cuatrimestrales en diferentes cursos.»
+«3. Los ciclos formativos de grado superior tendrán estructura modular y se organizarán en los bloques previstos en el artículo 96.1 del [Real Decreto 659/2023](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio. Así mismo, las administraciones educativas incluirán el módulo profesional de carácter optativo con una duración de currículo básico de 80 horas. Este podrá desarrollarse durante un curso completo, o en dos cuatrimestres. En este segundo caso, será posible su distribución en dos módulos cuatrimestrales en diferentes cursos.»
 
 f) Se incluye un nuevo apartado 4, con la siguiente redacción:
 
-«4. De acuerdo con lo establecido en los artículos 12.3 y 12.4 del Real Decreto 659/2023, de 18 de julio, y sin perjuicio de lo señalado en el artículo 6 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, los contenidos básicos que figuran en los anexos I correspondientes a los módulos profesionales y proyecto intermodular que conforman los diferentes ciclos formativos de grado superior a los que se refiere el presente real decreto tendrán la consideración de carácter orientativo.»
+«4. De acuerdo con lo establecido en los artículos 12.3 y 12.4 del [Real Decreto 659/2023](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, y sin perjuicio de lo señalado en el artículo 6 de la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, los contenidos básicos que figuran en los anexos I correspondientes a los módulos profesionales y proyecto intermodular que conforman los diferentes ciclos formativos de grado superior a los que se refiere el presente real decreto tendrán la consideración de carácter orientativo.»
 
 g) Se incluye un nuevo apartado 5, con la siguiente redacción:
 
-«5. Todos los ciclos formativos a que hace referencia el artículo 1.2 incluirán un periodo de formación en empresa u organismo equiparado en los términos regulados en el título IV del Real Decreto 659/2023, de 18 de julio.»
+«5. Todos los ciclos formativos a que hace referencia el artículo 1.2 incluirán un periodo de formación en empresa u organismo equiparado en los términos regulados en el título IV del [Real Decreto 659/2023](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio.»
 
 Cuatro. En los reales decretos a que hace referencia el artículo primero.Dos.d), se modifica el artículo 9 en.
 
@@ -3396,7 +3410,7 @@ a) Se da una nueva redacción al primer párrafo del apartado 1, que queda redac
 
 b) Se da una nueva redacción al apartado 1.a), cuya redacción queda como sigue:
 
-«a) Quedan desarrollados en el Anexo I del presente real decreto, cumpliendo lo previsto en el Real Decreto 659/2023, de 18 de julio, por el que se desarrolla la ordenación del Sistema de Formación Profesional.»
+«a) Quedan desarrollados en el Anexo I del presente real decreto, cumpliendo lo previsto en el [Real Decreto 659/2023](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, por el que se desarrolla la ordenación del Sistema de Formación Profesional.»
 
 c) Se modifica el apartado 1.b) en los siguientes términos:
 
@@ -3412,7 +3426,7 @@ d) Se modifica el apartado 2, cuya redacción queda como sigue:
 
 e) Se incluye un nuevo apartado 2 bis, con la siguiente redacción:
 
-«2. bis. Los ciclos formativos de grado superior tendrán estructura modular y se organizarán en los bloques previstos en el artículo 96.1 del Real Decreto 659/2023, de 18 de julio, sin perjuicio de que en este ciclo los resultados de aprendizaje y criterios de evaluación del módulo de Itinerario personal para la empleabilidad I quedan integrados en el módulo profesional de Factores humanos. Las administraciones educativas incluirán el módulo profesional de carácter optativo con una duración de currículo básico de 80 horas. Este podrá desarrollarse durante un curso completo, o en dos cuatrimestres. En este segundo caso, será posible su distribución en dos módulos cuatrimestrales en diferentes cursos.»
+«2. bis. Los ciclos formativos de grado superior tendrán estructura modular y se organizarán en los bloques previstos en el artículo 96.1 del [Real Decreto 659/2023](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, sin perjuicio de que en este ciclo los resultados de aprendizaje y criterios de evaluación del módulo de Itinerario personal para la empleabilidad I quedan integrados en el módulo profesional de Factores humanos. Las administraciones educativas incluirán el módulo profesional de carácter optativo con una duración de currículo básico de 80 horas. Este podrá desarrollarse durante un curso completo, o en dos cuatrimestres. En este segundo caso, será posible su distribución en dos módulos cuatrimestrales en diferentes cursos.»
 
 f) Se modifica el apartado 7, cuya redacción queda como sigue:
 
@@ -3420,11 +3434,11 @@ f) Se modifica el apartado 7, cuya redacción queda como sigue:
 
 g) Se incluye un nuevo apartado 8, con la siguiente redacción:
 
-«8. De acuerdo con lo establecido en los artículos 12.3 y 12.4 del Real Decreto 659/2023, de 18 de julio, y sin perjuicio de lo señalado en el artículo 6 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, los contenidos básicos que figuran en los anexos I correspondientes a los módulos profesionales y proyecto intermodular que conforman los diferentes ciclos formativos de grado superior a los que se refiere el presente real decreto tendrán la consideración de carácter orientativo.»
+«8. De acuerdo con lo establecido en los artículos 12.3 y 12.4 del [Real Decreto 659/2023](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, y sin perjuicio de lo señalado en el artículo 6 de la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, los contenidos básicos que figuran en los anexos I correspondientes a los módulos profesionales y proyecto intermodular que conforman los diferentes ciclos formativos de grado superior a los que se refiere el presente real decreto tendrán la consideración de carácter orientativo.»
 
 h) Se incluye un nuevo apartado 9, con la siguiente redacción:
 
-«9. Todos los ciclos formativos a que hace referencia el artículo 1.2 incluirán un periodo de formación en empresa u organismo equiparado en los términos regulados en el título IV del Real Decreto 659/2023, de 18 de julio.»
+«9. Todos los ciclos formativos a que hace referencia el artículo 1.2 incluirán un periodo de formación en empresa u organismo equiparado en los términos regulados en el título IV del [Real Decreto 659/2023](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio.»
 
 #### Artículo quinto. Modificación del artículo relativo al profesorado.
 
@@ -3432,13 +3446,13 @@ Uno. En los reales decretos a que hace referencia el artículo primero.Dos.a),
 
 redactado como sigue:
 
-«1. La docencia de los módulos profesionales que constituyen las enseñanzas de este ciclo formativo corresponde al profesorado de las especialidades establecidas en el Anexo III pertenecientes a los cuerpos indicados en dicho anexo, sin perjuicio de lo establecido en la disposición transitoria sexta del Reglamento de ingreso, accesos y adquisición de nuevas especialidades en los cuerpos docentes a que se refiere la Ley Orgánica 2/2006, de 3 de mayo, de Educación, aprobado por el [Real Decreto 276/2007](../08_personal_docente/RD592_2007_eci_aprueba_temario_ha_regir_procedimiento.md), de 23 de febrero.
+«1. La docencia de los módulos profesionales que constituyen las enseñanzas de este ciclo formativo corresponde al profesorado de las especialidades establecidas en el Anexo III pertenecientes a los cuerpos indicados en dicho anexo, sin perjuicio de lo establecido en la disposición transitoria sexta del Reglamento de ingreso, accesos y adquisición de nuevas especialidades en los cuerpos docentes a que se refiere la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, aprobado por el [Real Decreto 276/2007](../08_personal_docente/RD592_2007_eci_aprueba_temario_ha_regir_procedimiento.md), de 23 de febrero.
 
-2. Las condiciones de acceso a los cuerpos a que se refiere el apartado anterior serán las recogidas en el Real Decreto 276/2007, de 23 de febrero.
+2. Las condiciones de acceso a los cuerpos a que se refiere el apartado anterior serán las recogidas en el [Real Decreto 276/2007](../08_personal_docente/RD276_2007_aprueba_reglamento_ingreso_accesos_adquisicion_nuevas.md), de 23 de febrero.
 
 3. Para la impartición de módulos profesionales en centros de titularidad privada o de titularidad pública de otras administraciones distintas de las educativas, las titulaciones requeridas y los requisitos necesarios para el profesorado serán los mismos que los exigidos para el acceso a las especialidades de los cuerpos docentes a que se refiere el apartado anterior, según la atribución docente que se establece para cada módulo en el Anexo III. En todo caso, se exigirá que las enseñanzas conducentes a las titulaciones citadas engloben los resultados de aprendizaje de los módulos profesionales y, si dichos elementos citados no estuvieran incluidos, además de la titulación, deberá acreditarse, mediante certificación, una experiencia laboral de, al menos, tres años en el sector vinculado a la familia profesional, realizando actividades productivas en empresas relacionadas implícitamente con los resultados de aprendizaje.
 
-4. En caso de contar con otros perfiles colaboradores, estos deberán cumplir los requisitos indicados en el capítulo IV del título V del Real Decreto 659/2023, de 18 de julio.
+4. En caso de contar con otros perfiles colaboradores, estos deberán cumplir los requisitos indicados en el capítulo IV del título V del [Real Decreto 659/2023](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio.
 
 5. Corresponderá a las administraciones competentes determinar la atribución docente del módulo o módulos optativos en consonancia con su diseño curricular.»
 
@@ -3446,13 +3460,13 @@ Dos. En los reales decretos a que hace referencia el artículo primero.Dos.d),
 
 redactado como sigue:
 
-«1. La docencia de los módulos profesionales que constituyen las enseñanzas de este ciclo formativo corresponde al profesorado de las especialidades establecidas en el Anexo III pertenecientes a los cuerpos indicados en dicho anexo, sin perjuicio de lo establecido en la disposición transitoria sexta del Reglamento de ingreso, accesos y adquisición de nuevas especialidades en los cuerpos docentes a que se refiere la Ley Orgánica 2/2006, de 3 de mayo, de Educación, aprobado por el Real Decreto 276/2007, de 23 de febrero.
+«1. La docencia de los módulos profesionales que constituyen las enseñanzas de este ciclo formativo corresponde al profesorado de las especialidades establecidas en el Anexo III pertenecientes a los cuerpos indicados en dicho anexo, sin perjuicio de lo establecido en la disposición transitoria sexta del Reglamento de ingreso, accesos y adquisición de nuevas especialidades en los cuerpos docentes a que se refiere la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, aprobado por el [Real Decreto 276/2007](../08_personal_docente/RD276_2007_aprueba_reglamento_ingreso_accesos_adquisicion_nuevas.md), de 23 de febrero.
 
-2. Las condiciones de acceso a los cuerpos a que se refiere el apartado anterior serán las recogidas en el Real Decreto 276/2007, de 23 de febrero.
+2. Las condiciones de acceso a los cuerpos a que se refiere el apartado anterior serán las recogidas en el [Real Decreto 276/2007](../08_personal_docente/RD276_2007_aprueba_reglamento_ingreso_accesos_adquisicion_nuevas.md), de 23 de febrero.
 
 3. Para la impartición de módulos profesionales en centros de titularidad privada o de titularidad pública de otras administraciones distintas de las educativas, las titulaciones requeridas y los requisitos necesarios para el profesorado serán los mismos que los exigidos para el acceso a las especialidades de los cuerpos docentes a que se refiere el apartado anterior, según la atribución docente que se establece para cada módulo en el Anexo III. En todo caso, se exigirá que las enseñanzas conducentes a las titulaciones citadas engloben los resultados de aprendizaje de los módulos profesionales y, si dichos elementos citados no estuvieran incluidos, además de la titulación, deberá acreditarse, mediante certificación, una experiencia laboral de, al menos, tres años en el sector vinculado a la familia profesional, realizando actividades productivas en empresas relacionadas implícitamente con los resultados de aprendizaje.
 
-4. En caso de contar con otros perfiles colaboradores, estos deberán cumplir los requisitos indicados en el capítulo IV del título V del Real Decreto 659/2023, de 18 de julio.
+4. En caso de contar con otros perfiles colaboradores, estos deberán cumplir los requisitos indicados en el capítulo IV del título V del [Real Decreto 659/2023](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio.
 
 5. Corresponderá a las administraciones competentes determinar la atribución docente del módulo o módulos optativos en consonancia con su diseño curricular.»
 
@@ -3464,19 +3478,19 @@ redactado como sigue:
 
 «1. Las condiciones de convalidación de módulos profesionales del presente título se atendrán a lo establecido en el artículo 126 l.
 
-Real Decreto 659/2023, de 18 de julio.
+[Real Decreto 659/2023](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio.
 
 2. La convalidación de módulos profesionales entre formaciones del Sistema de Formación Profesional y formaciones propias de regulaciones previas del mismo se regirá por lo señalado en el artículo 127 l.
 
-Real Decreto 659/2023, de 18 de julio.
+[Real Decreto 659/2023](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio.
 
-a) Para aquellos títulos establecidos con anterioridad al 5 de marzo de 2017, será de aplicación lo dispuesto en el Real Decreto 1085/2020, de 9 de diciembre, por el que se establecen convalidaciones de módulos profesionales de los títulos de Formación Profesional del sistema educativo español y las medidas para su aplicación, y se modifica el Real Decreto 1147/2011, de 29 de julio, por el que se establece la ordenación general de la formación profesional del sistema educativo.
+a) Para aquellos títulos establecidos con anterioridad al 5 de marzo de 2017, será de aplicación lo dispuesto en el [Real Decreto 1085/2020](./RD1085_2020_correccion_errores_real_decreto_establecen_convalidaciones.md), de 9 de diciembre, por el que se establecen convalidaciones de módulos profesionales de los títulos de Formación Profesional del sistema educativo español y las medidas para su aplicación, y se modifica el Real Decreto 1147/2011, de 29 de julio, por el que se establece la ordenación general de la formación profesional del sistema educativo.
 
-b) Para aquellos títulos establecidos con posterioridad al 5 de marzo de 2017, será de aplicación lo dispuesto en el Anexo IV de cada uno de los respectivos reales decretos y complementariamente el Real Decreto 1085/2020, de 9 de diciembre.
+b) Para aquellos títulos establecidos con posterioridad al 5 de marzo de 2017, será de aplicación lo dispuesto en el Anexo IV de cada uno de los respectivos reales decretos y complementariamente el [Real Decreto 1085/2020](./RD1085_2020_correccion_errores_real_decreto_establecen_convalidaciones.md), de 9 de diciembre.
 
 3. La convalidación de módulos profesionales mediante la acreditación de estándares de competencias profesionales adquiridos a través de la experiencia laboral u otras vías no formales e informales se atendrá, si procede, a lo establecido en el artículo 128 l.
 
-Real Decreto 659/2023, de 18 de julio. Para ello, serán de aplicación las tablas de «correspondencia entre unidades de competencia acreditadas con los módulos profesionales para su convalidación». A estos efectos, si en la misma celda aparecieran dos o más unidades de competencia acreditadas deberá entenderse que para la convalidación será necesario poseer todas ellas de manera simultánea.
+[Real Decreto 659/2023](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio. Para ello, serán de aplicación las tablas de «correspondencia entre unidades de competencia acreditadas con los módulos profesionales para su convalidación». A estos efectos, si en la misma celda aparecieran dos o más unidades de competencia acreditadas deberá entenderse que para la convalidación será necesario poseer todas ellas de manera simultánea.
 
 4. Para la acreditación de estándares de competencias profesionales mediante la superación de módulos profesionales, serán de aplicación las tablas de «correspondencia de los módulos profesionales superados con las unidades de competencia para su acreditación». A estos efectos, si en la misma celda aparecieran dos o más módulos profesionales superados, deberá entenderse que para la acreditación será necesario poseer todos ellos de manera simultánea.
 
@@ -3486,7 +3500,7 @@ Real Decreto 659/2023, de 18 de julio. Para ello, serán de aplicación las tabl
 
 7. La exención del periodo de formación en empresa u organismo equiparado podrá efectuarse en los términos recogidos en el artículo 131 l.
 
-Real Decreto 659/2023, de 18 de julio.
+[Real Decreto 659/2023](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio.
 
 8. Quedan exceptuados de la posible exención del periodo de formación u organismo equiparado los ciclos formativos de grado superior de la familia profesional de Sanidad establecidos en los siguientes reales decretos: Real Decreto 1685/2007, de 14 de diciembre; Real Decreto 1687/2011, de 18 de noviembre; Real Decreto 905/2013, de 22 de noviembre; Real Decreto 767/2014, de 12 de septiembre; Real Decreto 768/2014, de 12 de septiembre; Real Decreto 769/2014, de 12 de septiembre; Real Decreto 770/2014, de 12 de septiembre; Real Decreto 771/2014, de 12 de septiembre y Real Decreto 772/2014, de 12 de septiembre.»
 
@@ -3496,19 +3510,19 @@ redactado como sigue:
 
 «1. Las condiciones de convalidación de módulos profesionales del presente título se atendrán a lo establecido en el artículo 126 l.
 
-Real Decreto 659/2023, de 18 de julio.
+[Real Decreto 659/2023](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio.
 
 2. La convalidación de módulos profesionales entre formaciones del Sistema de Formación Profesional y formaciones propias de regulaciones previas del mismo se regirá por lo señalado en el artículo 127 l.
 
-Real Decreto 659/2023, de 18 de julio.
+[Real Decreto 659/2023](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio.
 
-a) Para aquellos títulos establecidos con anterioridad al 5 de marzo de 2017, será de aplicación lo dispuesto en el Real Decreto 1085/2020, de 9 de diciembre, por el que se establecen convalidaciones de módulos profesionales de los títulos de Formación Profesional del sistema educativo español y las medidas para su aplicación, y se modifica el Real Decreto 1147/2011, de 29 de julio, por el que se establece la ordenación general de la formación profesional del sistema educativo.
+a) Para aquellos títulos establecidos con anterioridad al 5 de marzo de 2017, será de aplicación lo dispuesto en el [Real Decreto 1085/2020](./RD1085_2020_correccion_errores_real_decreto_establecen_convalidaciones.md), de 9 de diciembre, por el que se establecen convalidaciones de módulos profesionales de los títulos de Formación Profesional del sistema educativo español y las medidas para su aplicación, y se modifica el Real Decreto 1147/2011, de 29 de julio, por el que se establece la ordenación general de la formación profesional del sistema educativo.
 
-b) Para aquellos títulos establecidos con posterioridad al 5 de marzo de 2017, será de aplicación lo dispuesto en el Anexo IV de cada uno de los respectivos reales decretos y complementariamente el Real Decreto 1085/2020, de 9 de diciembre.
+b) Para aquellos títulos establecidos con posterioridad al 5 de marzo de 2017, será de aplicación lo dispuesto en el Anexo IV de cada uno de los respectivos reales decretos y complementariamente el [Real Decreto 1085/2020](./RD1085_2020_correccion_errores_real_decreto_establecen_convalidaciones.md), de 9 de diciembre.
 
 3. La convalidación de módulos profesionales mediante la acreditación de estándares de competencias profesionales adquiridos a través de la experiencia laboral u otras vías no formales e informales se atendrá, si procede, a lo establecido en el artículo 128 l.
 
-Real Decreto 659/2023, de 18 de julio. Para ello, serán de aplicación las tablas de «correspondencia entre unidades de competencia acreditadas con los módulos profesionales para su convalidación». A estos efectos, si en la misma celda aparecieran dos o más unidades de competencia acreditadas deberá entenderse que para la convalidación será necesario poseer todas ellas de manera simultánea.
+[Real Decreto 659/2023](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio. Para ello, serán de aplicación las tablas de «correspondencia entre unidades de competencia acreditadas con los módulos profesionales para su convalidación». A estos efectos, si en la misma celda aparecieran dos o más unidades de competencia acreditadas deberá entenderse que para la convalidación será necesario poseer todas ellas de manera simultánea.
 
 4. Para la acreditación de estándares de competencias profesionales mediante la superación de módulos profesionales, serán de aplicación las tablas de «correspondencia de los módulos profesionales superados con las unidades de competencia para su acreditación». A estos efectos, si en la misma celda aparecieran dos o más módulos profesionales superados, deberá entenderse que para la acreditación será necesario poseer todos ellos de manera simultánea.
 
@@ -3518,7 +3532,7 @@ Real Decreto 659/2023, de 18 de julio. Para ello, serán de aplicación las tabl
 
 7. La exención del periodo de formación en empresa u organismo equiparado podrá efectuarse en los términos recogidos en el artículo 131 l.
 
-Real Decreto 659/2023, de 18 de julio.
+[Real Decreto 659/2023](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio.
 
 8. Quedan exceptuados de la posible exención del periodo de formación u organismo equiparado los ciclos formativos de grado superior de la familia profesional de Sanidad establecidos en los siguientes reales decretos: Real Decreto 1685/2007, de 14 de diciembre; Real Decreto 1687/2011, de 18 de noviembre; Real Decreto 905/2013, de 22 de noviembre; Real Decreto 767/2014, de 12 de septiembre; Real Decreto 768/2014, de 12 de septiembre; Real Decreto 769/2014, de 12 de septiembre; Real Decreto 770/2014, de 12 de septiembre; Real Decreto 771/2014, de 12 de septiembre y Real Decreto 772/2014, de 12 de septiembre.»
 
@@ -3530,15 +3544,15 @@ a) **Se suprimen los siguientes módulos profesionales.** Formación y Orientaci
 
 b) Se incluyen los siguientes módulos profesionales:
 
-1.º 0179. Inglés Profesional (GS), cuyo código, duración del currículo básico, equivalencia en créditos ECTS y resultados de aprendizaje y criterios de evaluación figuran como anexo X del Real Decreto 659/2023, de 18 de julio.
+1.º 0179. Inglés Profesional (GS), cuyo código, duración del currículo básico, equivalencia en créditos ECTS y resultados de aprendizaje y criterios de evaluación figuran como anexo X del [Real Decreto 659/2023](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio.
 
-2.º 1709. Itinerario personal para la empleabilidad I, cuyo código, duración del currículo básico, equivalencia en créditos ECTS y resultados de aprendizaje y criterios de evaluación figuran como anexo V del Real Decreto 659/2023, de 18 de julio.
+2.º 1709. Itinerario personal para la empleabilidad I, cuyo código, duración del currículo básico, equivalencia en créditos ECTS y resultados de aprendizaje y criterios de evaluación figuran como anexo V del [Real Decreto 659/2023](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio.
 
-3.º 1710. Itinerario personal para la empleabilidad II, cuyo código, duración del currículo básico, equivalencia en créditos ECTS y resultados de aprendizaje y criterios de evaluación figuran como anexo V del Real Decreto 659/2023, de 18 de julio.
+3.º 1710. Itinerario personal para la empleabilidad II, cuyo código, duración del currículo básico, equivalencia en créditos ECTS y resultados de aprendizaje y criterios de evaluación figuran como anexo V del [Real Decreto 659/2023](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio.
 
-4.º 1665. Digitalización aplicada a los sectores productivos (GS), cuyo código, duración del currículo básico, equivalencia en créditos ECTS y resultados de aprendizaje y criterios de evaluación figuran como anexo VII del Real Decreto 659/2023, de 18 de julio.
+4.º 1665. Digitalización aplicada a los sectores productivos (GS), cuyo código, duración del currículo básico, equivalencia en créditos ECTS y resultados de aprendizaje y criterios de evaluación figuran como anexo VII del [Real Decreto 659/2023](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio.
 
-5.º 1708. Sostenibilidad aplicada al sistema productivo cuyo código, duración del currículo básico, equivalencia en créditos ECTS y resultados de aprendizaje y criterios de evaluación figuran como anexo VIII del Real Decreto 659/2023, de 18 de julio.
+5.º 1708. Sostenibilidad aplicada al sistema productivo cuyo código, duración del currículo básico, equivalencia en créditos ECTS y resultados de aprendizaje y criterios de evaluación figuran como anexo VIII del [Real Decreto 659/2023](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio.
 
 c) Se sustituye la denominación «Proyecto» por la de «Proyecto intermodular».
 
@@ -3546,17 +3560,17 @@ Dos. En los reales decretos a que hace referencia el artículo primero.Dos.b),
 
 a) **Se suprimen los siguientes módulos profesionales.** Formación y Orientación Laboral, Empresa e iniciativa emprendedora y Formación en centros de trabajo, incluyendo sus resultados de aprendizaje, criterios de evaluación, duración, equivalencia en créditos ECTS, contenidos básicos y orientaciones pedagógicas.
 
-b) **Se modifica el módulo de 0179.** Inglés, que pasa a denominarse 0179. Inglés Profesional (GS), cuyo código, duración del currículo básico, equivalencia en créditos ECTS y resultados de aprendizaje y criterios de evaluación figuran como anexo X del Real Decreto 659/2023, de 18 de julio.
+b) **Se modifica el módulo de 0179.** Inglés, que pasa a denominarse 0179. Inglés Profesional (GS), cuyo código, duración del currículo básico, equivalencia en créditos ECTS y resultados de aprendizaje y criterios de evaluación figuran como anexo X del [Real Decreto 659/2023](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio.
 
 c) Se incluyen los siguientes módulos profesionales:
 
-1.º 1709. Itinerario personal para la empleabilidad I, cuyo código, duración del currículo básico, equivalencia en créditos ECTS y resultados de aprendizaje y criterios de evaluación figuran como anexo V del Real Decreto 659/2023, de 18 de julio.
+1.º 1709. Itinerario personal para la empleabilidad I, cuyo código, duración del currículo básico, equivalencia en créditos ECTS y resultados de aprendizaje y criterios de evaluación figuran como anexo V del [Real Decreto 659/2023](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio.
 
-2.º 1710. Itinerario personal para la empleabilidad II, cuyo código, duración del currículo básico, equivalencia en créditos ECTS y resultados de aprendizaje y criterios de evaluación figuran como anexo V del Real Decreto 659/2023, de 18 de julio.
+2.º 1710. Itinerario personal para la empleabilidad II, cuyo código, duración del currículo básico, equivalencia en créditos ECTS y resultados de aprendizaje y criterios de evaluación figuran como anexo V del [Real Decreto 659/2023](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio.
 
-3.º 1665. Digitalización aplicada a los sectores productivos (GS), cuyo código, duración del currículo básico, equivalencia en créditos ECTS y resultados de aprendizaje y criterios de evaluación figuran como anexo VII del Real Decreto 659/2023, de 18 de julio.
+3.º 1665. Digitalización aplicada a los sectores productivos (GS), cuyo código, duración del currículo básico, equivalencia en créditos ECTS y resultados de aprendizaje y criterios de evaluación figuran como anexo VII del [Real Decreto 659/2023](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio.
 
-4.º 1708. Sostenibilidad aplicada al sistema productivo cuyo código, duración del currículo básico, equivalencia en créditos ECTS y resultados de aprendizaje y criterios de evaluación figuran como anexo VIII del Real Decreto 659/2023, de 18 de julio.
+4.º 1708. Sostenibilidad aplicada al sistema productivo cuyo código, duración del currículo básico, equivalencia en créditos ECTS y resultados de aprendizaje y criterios de evaluación figuran como anexo VIII del [Real Decreto 659/2023](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio.
 
 c) Se sustituye la denominación «Proyecto» por la de «Proyecto intermodular».
 
@@ -3564,17 +3578,17 @@ Tres. En los reales decretos a que hace referencia el artículo primero.Dos.c)
 
 a) **Se eliminan los siguientes módulos profesionales.** Formación y Orientación Laboral, y Formación en centros de trabajo, incluyendo sus resultados de aprendizaje, criterios de evaluación, duración, contenidos básicos, equivalencia en créditos ECTS y orientaciones pedagógicas.
 
-b) **Se modifica el módulo de 0179.** Inglés, que pasa a denominarse 0179. Inglés Profesional (GS) cuyo código, duración del currículo básico, equivalencia en créditos ECTS y resultados de aprendizaje y criterios de evaluación figuran como anexo X del Real Decreto 659/2023, de 18 de julio.
+b) **Se modifica el módulo de 0179.** Inglés, que pasa a denominarse 0179. Inglés Profesional (GS) cuyo código, duración del currículo básico, equivalencia en créditos ECTS y resultados de aprendizaje y criterios de evaluación figuran como anexo X del [Real Decreto 659/2023](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio.
 
 c) Se incluyen los siguientes módulos profesionales:
 
-1.º 1709. Itinerario personal para la empleabilidad I, cuyo código, duración del currículo básico, equivalencia en créditos ECTS y resultados de aprendizaje y criterios de evaluación figuran como anexo V del Real Decreto 659/2023, de 18 de julio.
+1.º 1709. Itinerario personal para la empleabilidad I, cuyo código, duración del currículo básico, equivalencia en créditos ECTS y resultados de aprendizaje y criterios de evaluación figuran como anexo V del [Real Decreto 659/2023](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio.
 
-2.º 1710. Itinerario personal para la empleabilidad II, cuyo código, duración del currículo básico, equivalencia en créditos ECTS y resultados de aprendizaje y criterios de evaluación figuran como anexo V del Real Decreto 659/2023, de 18 de julio.
+2.º 1710. Itinerario personal para la empleabilidad II, cuyo código, duración del currículo básico, equivalencia en créditos ECTS y resultados de aprendizaje y criterios de evaluación figuran como anexo V del [Real Decreto 659/2023](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio.
 
-3.º 1665. Digitalización aplicada a los sectores productivos (GS), cuyo código, duración del currículo básico, equivalencia en créditos ECTS y resultados de aprendizaje y criterios de evaluación figuran como anexo VII del Real Decreto 659/2023, de 18 de julio.
+3.º 1665. Digitalización aplicada a los sectores productivos (GS), cuyo código, duración del currículo básico, equivalencia en créditos ECTS y resultados de aprendizaje y criterios de evaluación figuran como anexo VII del [Real Decreto 659/2023](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio.
 
-4.º 1708. Sostenibilidad aplicada al sistema productivo cuyo código, duración del currículo básico, equivalencia en créditos ECTS y resultados de aprendizaje y criterios de evaluación figuran como anexo VIII del Real Decreto 659/2023, de 18 de julio.
+4.º 1708. Sostenibilidad aplicada al sistema productivo cuyo código, duración del currículo básico, equivalencia en créditos ECTS y resultados de aprendizaje y criterios de evaluación figuran como anexo VIII del [Real Decreto 659/2023](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio.
 
 c) Se sustituye la denominación «Proyecto» por la de «Proyecto intermodular».
 
@@ -3584,13 +3598,13 @@ a) **Se eliminan los siguientes módulos profesionales.** Empresa e iniciativa e
 
 b) Se incluyen los siguientes módulos profesionales:
 
-1.º 0179. Inglés Profesional (GS), cuyo código, duración del currículo básico, equivalencia en créditos ECTS y resultados de aprendizaje y criterios de evaluación figuran como anexo X del Real Decreto 659/2023, de 18 de julio.
+1.º 0179. Inglés Profesional (GS), cuyo código, duración del currículo básico, equivalencia en créditos ECTS y resultados de aprendizaje y criterios de evaluación figuran como anexo X del [Real Decreto 659/2023](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio.
 
-2.º 1710. Itinerario personal para la empleabilidad II, cuyo código, duración del currículo básico, equivalencia en créditos ECTS y resultados de aprendizaje y criterios de evaluación figuran como anexo V del Real Decreto 659/2023, de 18 de julio.
+2.º 1710. Itinerario personal para la empleabilidad II, cuyo código, duración del currículo básico, equivalencia en créditos ECTS y resultados de aprendizaje y criterios de evaluación figuran como anexo V del [Real Decreto 659/2023](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio.
 
-3.º 1665. Digitalización aplicada a los sectores productivos (GS), cuyo código, duración del currículo básico, equivalencia en créditos ECTS y resultados de aprendizaje y criterios de evaluación figuran como anexo VII del Real Decreto 659/2023, de 18 de julio.
+3.º 1665. Digitalización aplicada a los sectores productivos (GS), cuyo código, duración del currículo básico, equivalencia en créditos ECTS y resultados de aprendizaje y criterios de evaluación figuran como anexo VII del [Real Decreto 659/2023](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio.
 
-4.º 1708. Sostenibilidad aplicada al sistema productivo cuyo código, duración del currículo básico, equivalencia en créditos ECTS y resultados de aprendizaje y criterios de evaluación figuran como anexo VIII del Real Decreto 659/2023, de 18 de julio.
+4.º 1708. Sostenibilidad aplicada al sistema productivo cuyo código, duración del currículo básico, equivalencia en créditos ECTS y resultados de aprendizaje y criterios de evaluación figuran como anexo VIII del [Real Decreto 659/2023](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio.
 
 c) Se sustituye la denominación «Proyecto» por la de «Proyecto intermodular».
 
@@ -3782,11 +3796,11 @@ En el Real Decreto 1448/2018, de 14 de diciembre, por el que se establece el tí
 
 #### Artículo décimo. Modalidad destinada al personal militar.
 
-Los centros docentes militares podrán adaptar los currículos correspondientes a las circunstancias singulares del entorno profesional de las Fuerzas Armadas, en los términos establecidos en los artículos 40-42 del Real Decreto 659/2023, de 18 de julio. Las ofertas formativas de formación profesional en esta modalidad podrán adaptar su organización temporal, en función de las necesidades de desempeño profesional o de compatibilidad con otras formaciones, sin perjuicio del cumplimiento de la duración prescriptiva del currículo establecido.
+Los centros docentes militares podrán adaptar los currículos correspondientes a las circunstancias singulares del entorno profesional de las Fuerzas Armadas, en los términos establecidos en los artículos 40-42 del [Real Decreto 659/2023](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio. Las ofertas formativas de formación profesional en esta modalidad podrán adaptar su organización temporal, en función de las necesidades de desempeño profesional o de compatibilidad con otras formaciones, sin perjuicio del cumplimiento de la duración prescriptiva del currículo establecido.
 
 #### Disposición adicional primera. Horas del currículo básico.
 
-En cumplimiento de lo dispuesto en el artículo 6.4 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, las horas del currículo básico de cada uno de los módulos profesionales incluidos en los reales decretos a que hace referencia el artículo primero.Dos del presente real decreto, para las comunidades autónomas con lengua cooficial se minorarán, proporcionalmente, de acuerdo con lo establecido en la tabla que figura como anexo I. En ningún caso, esta reducción afectará a las horas de currículo básico del Proyecto intermodular, Inglés profesional (GS), Sostenibilidad aplicada al sistema productivo, Digitalización aplicada a los sectores productivos (GS), Itinerario personal para la empleabilidad I, Itinerario personal para la empleabilidad II ni al módulo(s) optativo(s).
+En cumplimiento de lo dispuesto en el artículo 6.4 de la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, las horas del currículo básico de cada uno de los módulos profesionales incluidos en los reales decretos a que hace referencia el artículo primero.Dos del presente real decreto, para las comunidades autónomas con lengua cooficial se minorarán, proporcionalmente, de acuerdo con lo establecido en la tabla que figura como anexo I. En ningún caso, esta reducción afectará a las horas de currículo básico del Proyecto intermodular, Inglés profesional (GS), Sostenibilidad aplicada al sistema productivo, Digitalización aplicada a los sectores productivos (GS), Itinerario personal para la empleabilidad I, Itinerario personal para la empleabilidad II ni al módulo(s) optativo(s).
 
 #### Disposición adicional segunda. Créditos ECTS.
 
@@ -3816,23 +3830,23 @@ En todos los reales decretos objeto de la presente norma, las referencias conten
 
 De acuerdo con el calendario establecido en el artículo 11 l.
 
-Real Decreto 278/2023, de 11 de abril, por el que se establece el calendario de implantación del Sistema de Formación Profesional establecido por la Ley Orgánica 3/2022, de 31 de marzo, de ordenación e integración de la Formación Profesional, en el curso 2024-2025 se completará la implantación del primer curso de todos los ciclos formativos. Durante dicho curso académico, para el segundo curso permanecerá en vigor la ordenación de los ciclos formativos de grado superior previa a la entrada en vigor del presente real decreto.
+Real Decreto 278/2023, de 11 de abril, por el que se establece el calendario de implantación del Sistema de Formación Profesional establecido por la [Ley Orgánica 3/2022](../../autonómica/canarias/08_personal_docente/R30_6_2023_ordenacion_gestion_determinadas_listas_empleo_tras.md), de 31 de marzo, de ordenación e integración de la Formación Profesional, en el curso 2024-2025 se completará la implantación del primer curso de todos los ciclos formativos. Durante dicho curso académico, para el segundo curso permanecerá en vigor la ordenación de los ciclos formativos de grado superior previa a la entrada en vigor del presente real decreto.
 
-#### Disposición final primera. Modificación del Real Decreto 1085/2020, de 9 de diciembre.
+#### Disposición final primera. Modificación del [Real Decreto 1085/2020](./RD1085_2020_correccion_errores_real_decreto_establecen_convalidaciones.md), de 9 de diciembre.
 
-Se modifica el Real Decreto 1085/2020, de 9 de diciembre, por el que se establecen convalidaciones de módulos profesionales de los títulos de Formación Profesional del sistema educativo español y las medidas para su aplicación, y se modifica el Real Decreto 1147/2011, de 29 de julio, por el que se establece la ordenación general de la formación profesional del sistema educativo, en los siguientes términos.
+Se modifica el [Real Decreto 1085/2020](./RD1085_2020_correccion_errores_real_decreto_establecen_convalidaciones.md), de 9 de diciembre, por el que se establecen convalidaciones de módulos profesionales de los títulos de Formación Profesional del sistema educativo español y las medidas para su aplicación, y se modifica el Real Decreto 1147/2011, de 29 de julio, por el que se establece la ordenación general de la formación profesional del sistema educativo, en los siguientes términos.
 
 Uno. Se modifica la disposición adicional primera, añadiendo el siguiente texto:
 
-«Los títulos de Técnico Auxiliar de la Ley 14/1970, de 4 de agosto, General de Educación y Financiamiento de la Reforma Educativa que no tengan declarada la equivalencia a efectos profesionales a un título de Técnico en la correspondiente profesión, además de tener los efectos académicos que el título de Graduado en Educación Secundaria Obligatoria establecido en la Ley Orgánica 2/2006, de 3 de mayo, de Educación, tendrán los mismos efectos profesionales que correspondan al título genérico de Técnico de formación profesional del sistema educativo.
+«Los títulos de Técnico Auxiliar de la Ley 14/1970, de 4 de agosto, General de Educación y Financiamiento de la Reforma Educativa que no tengan declarada la equivalencia a efectos profesionales a un título de Técnico en la correspondiente profesión, además de tener los efectos académicos que el título de Graduado en Educación Secundaria Obligatoria establecido en la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, tendrán los mismos efectos profesionales que correspondan al título genérico de Técnico de formación profesional del sistema educativo.
 
 Los títulos de Técnico Especialista de la Ley 14/1970, de 4 de agosto, General de Educación y Financiamiento de la Reforma Educativa que no tengan declarada la equivalencia a un título de Técnico Superior en la correspondiente especialidad, tendrán los mismos efectos académicos y profesionales que el título genérico de Técnico Superior de la formación profesional del sistema educativo.»
 
 Dos. Se añade una disposición adicional sexta, cuya redacción es la que sigue:
 
-«1. A los efectos previstos en este real decreto, cuando una relación de convalidación dé como resultado que la formación a convalidar sea el módulo profesional de Formación y Orientación Laboral (Ley Orgánica 2/2006, de 3 de mayo), dicha convalidación deberá entenderse igualmente hecha al módulo de Itinerario personal para la empleabilidad I.
+«1. A los efectos previstos en este real decreto, cuando una relación de convalidación dé como resultado que la formación a convalidar sea el módulo profesional de Formación y Orientación Laboral ([Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo), dicha convalidación deberá entenderse igualmente hecha al módulo de Itinerario personal para la empleabilidad I.
 
-2. A los efectos previstos en este real decreto, cuando una relación de convalidación dé como resultado que la formación a convalidar sea el módulo profesional de Empresa e Iniciativa Emprendedora (Ley Orgánica 2/2006, de 3 de mayo), dicha convalidación deberá entenderse igualmente hecha al módulo de Itinerario personal para la empleabilidad II.»
+2. A los efectos previstos en este real decreto, cuando una relación de convalidación dé como resultado que la formación a convalidar sea el módulo profesional de Empresa e Iniciativa Emprendedora ([Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo), dicha convalidación deberá entenderse igualmente hecha al módulo de Itinerario personal para la empleabilidad II.»
 
 Tres. Se sustituye la tabla denominada «Para todos los ciclos formativos con empresa e iniciativa emprendedora» del anexo III por la que figura a continuación:
 
@@ -13807,10 +13821,10 @@ Adaptación de los créditos ECTS de los módulos profesionales y proyecto inter
 - **Modifica**: [**BOE-A-2021-979**](./RD1085_2020_correccion_errores_real_decreto_establecen_convalidaciones.md) desde *(D. Final tercera. Entrada en vigor.)*
 - **Modifica**: [**BOE-A-2020-17274**](./RD1085_2020_establecen_convalidaciones_modulos_profesionales_titulos_formacion.md) desde *(D. Final tercera. Entrada en vigor.)*
 - **Modifica**: [**RD659_2023 Ordenacion General de la Formacion Profesional**](./RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md) desde *(D. Final tercera. Entrada en vigor.)*
-- **Modifica**: [**BOE-A-2021-979**](./RD1085_2020_correccion_errores_real_decreto_establecen_convalidaciones.md) (D. Final primera) desde *(D. Final primera. Modificación del Real Decreto 1085/2020, de 9 de diciembre.)*
-- **Modifica**: [**BOE-A-2020-17274**](./RD1085_2020_establecen_convalidaciones_modulos_profesionales_titulos_formacion.md) (D. Final primera) desde *(D. Final primera. Modificación del Real Decreto 1085/2020, de 9 de diciembre.)*
-- **Modifica**: [**BOE-A-2021-979**](./RD1085_2020_correccion_errores_real_decreto_establecen_convalidaciones.md) desde *(D. Final primera. Modificación del Real Decreto 1085/2020, de 9 de diciembre.)*
-- **Modifica**: [**BOE-A-2020-17274**](./RD1085_2020_establecen_convalidaciones_modulos_profesionales_titulos_formacion.md) desde *(D. Final primera. Modificación del Real Decreto 1085/2020, de 9 de diciembre.)*
+- **Modifica**: [**BOE-A-2021-979**](./RD1085_2020_correccion_errores_real_decreto_establecen_convalidaciones.md) (D. Final primera) desde *(D. Final primera. Modificación del [Real Decreto 1085/2020](./RD1085_2020_correccion_errores_real_decreto_establecen_convalidaciones.md), de 9 de diciembre.)*
+- **Modifica**: [**BOE-A-2020-17274**](./RD1085_2020_establecen_convalidaciones_modulos_profesionales_titulos_formacion.md) (D. Final primera) desde *(D. Final primera. Modificación del [Real Decreto 1085/2020](./RD1085_2020_correccion_errores_real_decreto_establecen_convalidaciones.md), de 9 de diciembre.)*
+- **Modifica**: [**BOE-A-2021-979**](./RD1085_2020_correccion_errores_real_decreto_establecen_convalidaciones.md) desde *(D. Final primera. Modificación del [Real Decreto 1085/2020](./RD1085_2020_correccion_errores_real_decreto_establecen_convalidaciones.md), de 9 de diciembre.)*
+- **Modifica**: [**BOE-A-2020-17274**](./RD1085_2020_establecen_convalidaciones_modulos_profesionales_titulos_formacion.md) desde *(D. Final primera. Modificación del [Real Decreto 1085/2020](./RD1085_2020_correccion_errores_real_decreto_establecen_convalidaciones.md), de 9 de diciembre.)*
 - **Fundamentado en**: `norm-es-c-1978` (Art. 149, Art. 27) desde *(D. Final tercera. Entrada en vigor.)*
 - **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) (Art. 6) desde *(D. Adicional primera. Horas del currículo básico.)*
 - **Fundamentado en**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) (Art. 6) desde *(D. Adicional primera. Horas del currículo básico.)*
@@ -13845,6 +13859,6 @@ Adaptación de los créditos ECTS de los módulos profesionales y proyecto inter
 - **Cita a**: [**RD659_2023 Ordenacion General de la Formacion Profesional**](./RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md) (Título V, Capítulo IV) desde *(D. Final tercera. Entrada en vigor.)*
 - **Cita a**: [**RD659_2023 Ordenacion General de la Formacion Profesional**](./RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md) (Art. 40, Art. 41, Art. 42) desde *(D. Final tercera. Entrada en vigor.)*
 - **Cita a**: [**LO3_2022 Ley de Ordenacion e Integracion de la FP**](./LO3_2022_ordenacion_e_integracion_formacion_profesional.md) desde *(D. Transitoria única. Aplicación de los reales decretos por los que se establecen títulos de formación profesional de grado superior de acuerdo con el calendario establecido en el Real Decreto 278/2023, de 11 de abril.)*
-- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) desde *(D. Final primera. Modificación del Real Decreto 1085/2020, de 9 de diciembre.)*
-- **Cita a**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) desde *(D. Final primera. Modificación del Real Decreto 1085/2020, de 9 de diciembre.)*
-- **Cita a**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) desde *(D. Final primera. Modificación del Real Decreto 1085/2020, de 9 de diciembre.)*
+- **Cita a**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) desde *(D. Final primera. Modificación del [Real Decreto 1085/2020](./RD1085_2020_correccion_errores_real_decreto_establecen_convalidaciones.md), de 9 de diciembre.)*
+- **Cita a**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md) desde *(D. Final primera. Modificación del [Real Decreto 1085/2020](./RD1085_2020_correccion_errores_real_decreto_establecen_convalidaciones.md), de 9 de diciembre.)*
+- **Cita a**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md) desde *(D. Final primera. Modificación del [Real Decreto 1085/2020](./RD1085_2020_correccion_errores_real_decreto_establecen_convalidaciones.md), de 9 de diciembre.)*

@@ -119,8 +119,13 @@ relaciones:
     - D. Derogatoria única
     - D. Adicional tercera
     - D. Final única
+fundamentos_derecho:
+- norma_id: norm-and-dl2-2021-procedimientos-admision-alumnado-centros-docentes-andalucia
+- norma_id: norm-es-l-19-2013
+- norma_id: norm-es-l-39-2015
+- norma_id: norm-es-rdl-5-2015
+- norma_id: norm-es-2021-11382
 ---
-
 # Decreto 128/2026, de 27 de julio, que modifica el Decreto 74/2023, de 11 de mayo, por el que se regula la respuesta educativa integral al alumnado con Necesidades Específicas de Apoyo Educativo (NEAE) en la Comunidad Autónoma de Canarias.
 
 ## Preámbulo
@@ -174,7 +179,7 @@ particular en ámbitos laborales de planificación, dirección y gestión por ob
 novedosos, requieren de un previo contacto presencial en la organización.
 En cuanto a la redacción del presente Decreto, y por lo que respecta a la igualdad de 
 género y de expresión de género, se ha dado cumplimiento, respectivamente, a la Ley 
-1/2010, de 26 de febrero, Canaria de Igualdad entre Mujeres y Hombres, y a la Ley 2/2021, 
+1/2010, de 26 de febrero, Canaria de Igualdad entre Mujeres y Hombres, y a la [Ley 2/2021](../../andalucía/05_alumnado_y_servicios_escolares/DL2_2021_procedimientos_admision_alumnado_centros_docentes_andalucia.md), 
 de 7 de junio, de igualdad social y no discriminación por razón de identidad de género, 
 expresión de género y características sexuales. Esta disposición, por tanto, no contempla 
 ni prevé condiciones discriminatorias que supongan impacto negativo alguno en la igualdad de 
@@ -188,12 +193,12 @@ su forma y estructura, en relación con el uso no sexista del lenguaje.
 Este Decreto ha sido objeto de negociación en la Mesa General de Negociación de 
 Empleados Públicos de la Administración Pública de la Comunidad Autónoma de Canarias 
 del artículo 34 del texto refundido de la Ley del Estatuto Básico del Empleado Público, 
-aprobado por el Real Decreto Legislativo 5/2015, de 30 de octubre, celebrada el día 26 
+aprobado por el [Real Decreto Legislativo 5/2015](../../../estatal/01_marco_normativo_general_y_organico/RDL5_2015_aprueba_texto_refundido_ley_estatuto_basico.md), de 30 de octubre, celebrada el día 26 
 de febrero de 2026, de conformidad con lo dispuesto en el Capítulo IV del Título III del 
 citado texto refundido, así como en el apartado 2 del artículo 47 bis de dicho cuerpo legal. 
 Igualmente, los documentos propios de su proceso de elaboración han sido publicados en 
 el Portal de Transparencia del Gobierno de Canarias, en los términos establecidos en el 
-artículo 7 de la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información 
+artículo 7 de la [Ley 19/2013](../../../estatal/01_marco_normativo_general_y_organico/L19_2013_transparencia_acceso_informacion_publica_buen_gobierno.md), de 9 de diciembre, de transparencia, acceso a la información 
 pública y buen gobierno.
 Esta norma cumple con los principios de necesidad, adaptando la norma a las 
 innovaciones legales que sobre la materia se han producido (cambio de sentido del silencio) 
@@ -209,7 +214,7 @@ través de un mejor control del procedimiento de autorización del teletrabajo; 
 a través de la participación de los representantes de los trabajadores en la negociación 
 del proyecto normativo; y eficiencia, en el sentido de que ninguna de las medidas que 
 se adoptan suponen incremento del gasto ni del esfuerzo del personal responsable de 
-la gestión de estas solicitudes, previstos en el artículo 129 de la Ley 39/2015, de 1 de 
+la gestión de estas solicitudes, previstos en el artículo 129 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de 
 octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, que 
 se recogen en la norma que modifica. En este sentido, la norma, sobre la base del principio 
 de proporcionalidad, contiene la regulación imprescindible para atender los requerimientos 

@@ -54,8 +54,12 @@ relaciones:
   - norma_id: norm-es-l-39-2015
   - norma_id: norm-can-res-boc-2022-158-132
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2025-094-1775.pdf
+fundamentos_derecho:
+- norma_id: norm-can-d-84-2024
+- norma_id: norm-can-l-6-2014
+- norma_id: norm-can-res-boc-2022-158-132
+- norma_id: norm-es-l-39-2015
 ---
-
 # Resolución de 29 de abril de 2025, de la Viceconsejería de Educación, por la que se adoptan las medidas necesarias para la aplicación del Acuerdo de 8 de abril de 2025, que modifica el Acuerdo de mejora del Sistema Público Educativo de Canarias, de 18 de julio de 2022, entre Administración y Sindicatos (BOC nº 94, de 13 de mayo).
 
 ## Preámbulo

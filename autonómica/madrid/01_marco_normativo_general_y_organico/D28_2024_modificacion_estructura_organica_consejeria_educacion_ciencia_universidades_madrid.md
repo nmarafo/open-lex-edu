@@ -27,32 +27,37 @@ tags:
 relaciones:
   modifica:
   - norma_id: norm-mad-d248-2023
+fundamentos_derecho:
+- norma_id: norm-mad-d248-2023
+- norma_id: norm-mad-d-52-2021
+- norma_id: norm-mad-l1-1983-gobierno-administracion-comunidad-madrid
+- norma_id: norm-mad-d61-2019-organizacion-estructura-funcionamiento-inspeccion-educativa-madrid
+- norma_id: norm-es-l-39-2015
 ---
-
 ## Preámbulo
 
 I. COMUNIDAD DE MADRID
 A) Disposiciones Generales
 Consejería de Educación, Ciencia y Universidades
 1 DECRETO 28/2024, de 24 de abril, del Consejo de Gobierno, por el que se modi-
-fica el Decreto 248/2023, de 11 de octubre, del Consejo de Gobierno, por el que
+fica el [Decreto 248/2023](./D248_2023_estructura_organica_consejeria_educacion_ciencia_universidades_madrid.md), de 11 de octubre, del Consejo de Gobierno, por el que
 se establece la estructura orgánica de la Consejería de Educación, Ciencia y
 Universidades.
-Mediante el Decreto 248/2023, de 11 de octubre, del Consejo de Gobierno, se estable-
+Mediante el [Decreto 248/2023](./D248_2023_estructura_organica_consejeria_educacion_ciencia_universidades_madrid.md), de 11 de octubre, del Consejo de Gobierno, se estable-
 ció la estructura orgánica de la Consejería de Educación, Ciencia y Universidades.
 Por razones de eficiencia y simplificación organizativa, se considera necesario intro-
 ducir su modificación, suprimiendo la Viceconsejería de Política Educativa, cuyas compe-
 tencias se asumen por la Viceconsejería de Política y Organización Educativa.
 Tanto el contenido como la tramitación seguida por este decreto se ajustan a los prin-
-cipios de buena regulación contenidos en el artículo 129 de la Ley 39/2015, de 1 de octu-
+cipios de buena regulación contenidos en el artículo 129 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octu-
 bre, del Procedimiento Administrativo Común de las Administraciones Públicas, y en el ar-
-tículo 2 del Decreto 52/2021, de 24 de marzo, por el que se regula y simplifica el
+tículo 2 del [Decreto 52/2021](./D52_2021_procedimiento_elaboracion_disposiciones_normativas_madrid.md), de 24 de marzo, por el que se regula y simplifica el
 procedimiento de elaboración de las disposiciones normativas de carácter general en la Co-
 munidad de Madrid.
 Conforme a los principios de necesidad y eficacia se trata de una norma necesaria para
 el desarrollo de la organización administrativa recogida en el Decreto 38/2023, de 23 de ju-
 nio, de la Presidenta de la Comunidad de Madrid, por el que se establece el número y deno-
-minación de las Consejerías de la Comunidad de Madrid y en el Decreto 248/2023, de 11 de
+minación de las Consejerías de la Comunidad de Madrid y en el [Decreto 248/2023](./D248_2023_estructura_organica_consejeria_educacion_ciencia_universidades_madrid.md), de 11 de
 octubre, y es el instrumento más adecuado para garantizar la consecución de ese objetivo.
 De acuerdo con el principio de proporcionalidad contiene la regulación imprescindi-
 ble para modificar la estructura de la Consejería de Educación, Ciencia y Universidades.
@@ -72,7 +77,7 @@ normativa, de los análisis de los impactos de carácter social, de las Direccio
 de Presupuestos y de Recursos Humanos de la Consejería de Economía, Hacienda y Em-
 pleo, así como de las Secretarías Generales Técnicas de las Consejerías.
 El Consejo de Gobierno es competente para dictar este decreto, de acuerdo con lo es-
-tablecido en los artículos 21.u) y 40 de la Ley 1/1983, de 13 de diciembre, de Gobierno y
+tablecido en los artículos 21.u) y 40 de la [Ley 1/1983](./L1_1983_gobierno_administracion_comunidad_madrid.md), de 13 de diciembre, de Gobierno y
 Administración de la Comunidad de Madrid.
 En su virtud, a propuesta del Consejero de Educación, Ciencia y Universidades, pre-
 vio informe favorable de la Consejería de Economía, Hacienda y Empleo, el Consejo de
@@ -80,9 +85,9 @@ Gobierno, previa deliberación en su reunión del día 24 de abril de 2024,
 
 DISPONE
 Artículo único
-Modificación del Decreto 248/2023, de 11 de octubre, del Consejo de Gobierno, por el que
+Modificación del [Decreto 248/2023](./D248_2023_estructura_organica_consejeria_educacion_ciencia_universidades_madrid.md), de 11 de octubre, del Consejo de Gobierno, por el que
 se establece la estructura orgánica de la Consejería de Educación, Ciencia y Universidades
-El Decreto 248/2023, de 11 de octubre, del Consejo de Gobierno, por el que se esta-
+El [Decreto 248/2023](./D248_2023_estructura_organica_consejeria_educacion_ciencia_universidades_madrid.md), de 11 de octubre, del Consejo de Gobierno, por el que se esta-
 blece la estructura orgánica de la Consejería de Educación, Ciencia y Universidades queda
 modificado del siguiente modo:
 Uno. Se modifica el artículo 2, que queda redactado del siguiente modo:
@@ -113,7 +118,7 @@ Competencias de la Viceconsejería de Política y Organización Educativa.
 Cuatro. Se modifica el apartado 1 del artículo 5 que queda redactado del siguiente
 modo:
 1. Corresponde al titular de la Viceconsejería de Política y Organización Educativa,
-además de las competencias previstas en el artículo 44 de la Ley 1/1983, de 13 de diciem-
+además de las competencias previstas en el artículo 44 de la [Ley 1/1983](./L1_1983_gobierno_administracion_comunidad_madrid.md), de 13 de diciem-
 bre, y bajo la dirección del titular de la consejería, la directa responsabilidad de la ejecución
 de la acción del Gobierno en los sectores de actividad siguientes:
 a) La coordinación, apoyo y supervisión de las actividades que competen a la conse-
@@ -157,7 +162,7 @@ el desempeño de la función inspectora en materia de educación, en orden a gar
 tizar el cumplimiento de las leyes y la mejora de la calidad del sistema educativo
 y, en particular, la dirección de la inspección educativa, así como el estable-
 cimiento de los planes de actuación de la misma para el cumplimiento de las fun-
-ciones que tiene encomendadas, tal y como establece el Decreto 61/2019, de 9 de
+ciones que tiene encomendadas, tal y como establece el [Decreto 61/2019](../04_organizacion_escolar_y_funcionamiento/D61_2019_organizacion_estructura_funcionamiento_inspeccion_educativa_madrid.md), de 9 de
 julio, por el que se regula la organización, estructura y funcionamiento de la Ins-
 pección Educativa en la Comunidad de Madrid.
 n) La coordinación y el conocimiento de las propuestas de implantación de las tecno-

@@ -33,8 +33,25 @@ relaciones:
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-l-39-2015
   - norma_id: norm-es-l-40-2015
+fundamentos_derecho:
+- norma_id: norm-and-d154-2022
+- norma_id: norm-and-l12-2007-promocion-igualdad-genero-andalucia
+- norma_id: norm-and-l17-2007
+- norma_id: norm-and-l9-2007-administracion-junta-andalucia-laja
+- norma_id: norm-and-115-2002
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-mad-l1-2022
+- norma_id: norm-es-l-39-2015
+- norma_id: norm-es-l-40-2015
+- norma_id: norm-es-1995-25444
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-rdl-5-2015
+- norma_id: norm-es-lo-3-2018
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
+- norma_id: norm-es-rd-276-2007
+- norma_id: norm-es-2007-5478
 ---
-
 # Orden de 20 de febrero de 2023, por la que la que se realiza convocatoria pública de concurso-oposición para el acceso al Cuerpo de Inspectores de Educación en plazas vacantes del ámbito de gestión de la Comunidad Autónoma de Andalucía.
 
 ## Preámbulo
@@ -54,26 +71,26 @@ siendo las convocatorias de procedimientos selectivos un instrumento adecuado pa
 alcanzarla en tanto que permiten incrementar el número de personal funcionario de 
 carrera. La modificación del anexo de puestos de trabajo en la inspección educativa 
 operada mediante el Decreto 264/2021, de 21 de diciembre, por el que se modifica el 
-Decreto 115/2002, de 25 de marzo, por el que se regula la organización y funcionamiento 
+[Decreto 115/2002](./D115_2002_reglamento_inspeccion_educativa_andalucia.md), de 25 de marzo, por el que se regula la organización y funcionamiento 
 de la Inspección Educativa junto con la reciente aprobación de la Oferta de Empleo 
 Público para el Cuerpo de Inspectores de Educación a través del Decreto 549/2022, 
 de 29 noviembre, facilitan que, a la conclusión de la convocatoria de procedimientos 
 selectivos que se opera con la presente orden este cuerpo pueda alcanzar la estabilidad 
 en su plantilla. 
-La disposición adicional duodécima, punto 4, de la Ley Orgánica 2/2006, de 3 de 
-mayo, de Educación, y el artículo 42 del Real Decreto 276/2007, de 23 de febrero, 
+La disposición adicional duodécima, punto 4, de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de 
+mayo, de Educación, y el artículo 42 del [Real Decreto 276/2007](../../../estatal/08_personal_docente/RD276_2007_aprueba_reglamento_ingreso_accesos_adquisicion_nuevas.md), de 23 de febrero, 
 por el que se aprueba el Reglamento de ingreso, accesos y adquisición de nuevas 
-especialidades en los cuerpos docentes a que se refiere la Ley Orgánica 2/2006, de 3 
+especialidades en los cuerpos docentes a que se refiere la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 
 de mayo, de Educación, y se regula el régimen transitorio de ingreso a que se refiere 
 la disposición transitoria decimoséptima de la citada Ley, establecen que el sistema de 
 acceso al Cuerpo de Inspectores de Educación será el de concurso-oposición, previa 
 convocatoria pública.
-La Ley 17/2007, de 10 de diciembre, de Educación de Andalucía, en su artículo 15.1, 
+La [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre, de Educación de Andalucía, en su artículo 15.1, 
 establece que la selección del personal funcionario para el ingreso en los distintos 
-cuerpos docentes a que se refiere la Ley Orgánica 2/2006, de 3 mayo, se llevará a cabo 
-en la forma establecida en esta, en la referida Ley 17/2007, de 10 de diciembre, y en las 
+cuerpos docentes a que se refiere la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 mayo, se llevará a cabo 
+en la forma establecida en esta, en la referida [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre, y en las 
 normas que se dicten en desarrollo de las mismas.
-El artículo 3 del citado Real Decreto 276/2007, de 23 de febrero, dispone que el 
+El artículo 3 del citado [Real Decreto 276/2007](../../../estatal/08_personal_docente/RD276_2007_aprueba_reglamento_ingreso_accesos_adquisicion_nuevas.md), de 23 de febrero, dispone que el 
 órgano competente de las Comunidades Autónomas convocantes, una vez aprobadas 
 sus respectivas ofertas de empleo, procederán a realizar las convocatorias para la 
 provisión de las plazas autorizadas en dichas ofertas de empleo, con sujeción en todo 
@@ -107,25 +124,25 @@ discapacidad se acumularán a las restantes plazas ofertadas.
 Al presente procedimiento selectivo le serán de aplicación las bases contenidas en 
 esta convocatoria, la normativa que a continuación se relaciona, así como las demás 
 disposiciones de carácter general que sean de aplicación:
- • Ley Orgánica 2/2006, de 3 de mayo, de Educación, modificada por la Ley Orgánica 
+ • [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, modificada por la Ley Orgánica 
 3/2020, de 29 de diciembre.
  • Ley Orgánica 2/2007, de 19 de marzo, por la que se aprueba la reforma del Estatuto 
 de Autonomía para Andalucía. 
- • Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y 
+ • [Ley Orgánica 3/2018](../../../estatal/02_gestion_y_administracion_centros/LO3_2018_proteccion_datos_personales_garantia_derechos_digitales.md), de 5 de diciembre, de Protección de Datos Personales y 
 garantía de los derechos digitales.
- • Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las 
+ • [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Administrativo Común de las 
 Administraciones Públicas.
- • Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público. 
- • Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto 
+ • [Ley 40/2015](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md), de 1 de octubre, de Régimen Jurídico del Sector Público. 
+ • [Real Decreto Legislativo 5/2015](../../../estatal/01_marco_normativo_general_y_organico/RDL5_2015_aprueba_texto_refundido_ley_estatuto_basico.md), de 30 de octubre, por el que se aprueba el texto 
 refundido de la Ley del Estatuto Básico del Empleado Público.
  • Real Decreto 456/1986, de 10 de febrero, por el que se fijan las retribuciones de los 
 funcionarios en prácticas.
  • Real Decreto 240/2007, de 16 de febrero, sobre entrada, libre circulación y residencia 
 en España de ciudadanos de 	 los Estados miembros de la Unión Europea y de otros 
 Estados parte en el Acuerdo sobre el Espacio Económico Europeo.
- • Real Decreto 276/2007, de 23 de febrero, por el que se aprueba el Reglamento 
+ • [Real Decreto 276/2007](../../../estatal/08_personal_docente/RD276_2007_aprueba_reglamento_ingreso_accesos_adquisicion_nuevas.md), de 23 de febrero, por el que se aprueba el Reglamento 
 de ingreso, accesos y adquisición de nuevas especialidades en los Cuerpos docentes 
-a que se refiere la Ley Orgánica 2/2006, de 3 de mayo, de Educación, y se regula el 
+a que se refiere la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, y se regula el 
 régimen transitorio de ingreso a que se refiere la disposición transitoria decimoséptima 
 de la citada ley. 
  • Orden PRE/1822/2006, de 9 de junio, por la que se establecen criterios generales 
@@ -134,16 +151,16 @@ empleo público de personas con discapacidad.
  • Orden EDU/3429/2009, de 11 de diciembre, por la que se aprueba el temario de 
 la fase de oposición del procedimiento selectivo de acceso al Cuerpo de Inspectores de 
 Educación. 
- • Ley 9/2007, de 22 de octubre, de la Administración de la Junta de Andalucía.
- • Ley 12/2007, de 26 de noviembre, para la igualdad de género en Andalucía.
- • Ley 17/2007, de 10 de diciembre, de Educación de Andalucía.
+ • [Ley 9/2007](../01_marco_normativo_general_y_organico/L9_2007_administracion_junta_andalucia_laja.md), de 22 de octubre, de la Administración de la Junta de Andalucía.
+ • [Ley 12/2007](../01_marco_normativo_general_y_organico/L12_2007_promocion_igualdad_genero_andalucia.md), de 26 de noviembre, para la igualdad de género en Andalucía.
+ • [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre, de Educación de Andalucía.
  • Ley 4/2017, de 25 de septiembre, de los Derechos y la Atención a las Personas con 
 Discapacidad de Andalucía.
- • Ley 1/2022, de 27 de diciembre, del Presupuesto de la Comunidad Autónoma de 
+ • [Ley 1/2022](../../madrid/01_marco_normativo_general_y_organico/L1_2022_maestra_libertad_eleccion_educativa_madrid.md), de 27 de diciembre, del Presupuesto de la Comunidad Autónoma de 
 Andalucía para el año 2023.
  • Ley 10/2021, de 28 de diciembre, de tasas y precios públicos de la Comunidad 
 Autónoma de Andalucía.
- • Decreto 115/2002, de 25 de marzo, por el que se regula la organización y el 
+ • [Decreto 115/2002](./D115_2002_reglamento_inspeccion_educativa_andalucia.md), de 25 de marzo, por el que se regula la organización y el 
 funcionamiento de la Inspección Educativa.
 
 00278819
@@ -265,7 +282,7 @@ para que sean aportados en un plazo de diez días hábiles.
 Tercera. Solicitudes, documentación, derechos de examen, lugar, forma y plazo de 
 presentación.
 3.1. Solicitudes.
-De conformidad con lo establecido en el artículo 14.2.e) de la Ley 39/2015, de 1 de 
+De conformidad con lo establecido en el artículo 14.2.e) de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de 
 octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, 
 
 00278819
@@ -384,7 +401,7 @@ a la finalización del plazo de presentación de solicitudes establecido en el a
 consten debidamente acreditados documentalmente.
 g) Respecto de las publicaciones no susceptibles de ser escaneadas, solo se 
 escaneará la página donde aparece el ISBN, debiendo presentar la publicación completa 
-conforme a lo previsto en el artículo 16.4 de la Ley 39/2015, de 1 de octubre, del 
+conforme a lo previsto en el artículo 16.4 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del 
 Procedimiento Administrativo Común de las Administraciones Públicas.
 h) Acreditación de los derechos de examen. El ejemplar para la Administración 
 del documento 046, salvo que presente la correspondiente autoliquidación y realice el 
@@ -419,7 +436,7 @@ artículo 3.a) de la Ley 10/2010, de 15 de noviembre, relativa a medidas para la
 y atención a las víctimas del terrorismo de la Comunidad Autónoma de Andalucía.
  c) Las víctimas de violencia de género, doméstica o de ambas. A estos efectos, 
 tendrán la consideración de víctima de violencia doméstica las personas a que se refiere 
-el artículo 173.2 de la Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal, 
+el artículo 173.2 de la [Ley Orgánica 10/1995](../../../estatal/01_marco_normativo_general_y_organico/LO10_1995_codigo_penal.md), de 23 de noviembre, del Código Penal, 
 que cuenten con orden de protección en vigor e inscrita en el Registro Central para la 
 Protección de las Víctimas de la Violencia Doméstica, o con sentencia judicial firme por 
 tal motivo en los últimos diez años.
@@ -463,7 +480,7 @@ https://www.juntadeandalucia.es/eboja
  3.4. Lugar y forma de presentación.
 Quienes aspiren a participar en este procedimiento deberán presentar obligatoriamente 
 las solicitudes y los méritos a través de medios electrónicos, de conformidad con 
-lo dispuesto en el artículo 14.2.e) y 14.3 de la Ley 39/2015, de 1 de octubre, del 
+lo dispuesto en el artículo 14.2.e) y 14.3 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del 
 Procedimiento Administrativo Común de las Administraciones Públicas, y en el artículo 39 
 del Decreto 622/2019, de 27 de diciembre, de administración electrónica, simplificación 
 de procedimientos y racionalización organizativa de la Junta de Andalucía.
@@ -482,7 +499,7 @@ En ningún caso en esta convocatoria se podrá participar por el turno general y
 de reserva de personas con discapacidad.
 El requerimiento para la aportación de documentos que, habiendo sido alegados no 
 consten en la Consejería de Desarrollo Educativo y Formación Profesional, conforme a 
-lo previsto en el artículo 68 de la Ley 39/2015, de 1 de octubre, se efectuará mediante 
+lo previsto en el artículo 68 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, se efectuará mediante 
 la resolución, por la que se declare aprobada el listado provisional de personal admitido 
 y excluido para participar en el presente procedimiento selectivo, haciendo constar el 
 motivo de exclusión.
@@ -509,7 +526,7 @@ así como para aportar la documentación omitida y, en su caso, corregir errores
 datos personales. El personal aspirante que dentro del plazo señalado no subsane 
 la causa de exclusión o no alegue la omisión será definitivamente excluido del 
 procedimiento, decayendo en todos sus derechos relacionados con la participación en el 
-proceso selectivo, de conformidad con lo previsto en el artículo 68.1 de la Ley 39/2015, de 
+proceso selectivo, de conformidad con lo previsto en el artículo 68.1 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 
 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas. 
 Las alegaciones se dirigirán a la persona titular de la Dirección General del Profesorado 
 
@@ -523,7 +540,7 @@ Depósito Legal: SE-410/1979. ISSN: 2253-802X
 https://www.juntadeandalucia.es/eboja
 y Gestión de Recursos Humanos al ser este el órgano competente para la gestión y 
 tramitación de los procedimientos selectivos, en virtud de lo dispuesto en el artículo 9 
-del Decreto 154/2022, de 9 de agosto, por el que se establece la estructura orgánica 
+del [Decreto 154/2022](../01_marco_normativo_general_y_organico/D154_2022_estructura_organica_consejeria_desarrollo_educativo_andalucia.md), de 9 de agosto, por el que se establece la estructura orgánica 
 de la Consejería de Desarrollo Educativo y Formación Profesional, y se presentarán por 
 vía telemática, a través del aplicativo dispuesto al efecto, para lo cual los aspirantes se 
 identificarán con el código identificador de solicitud (CIS) que se les proporcionó cuando 
@@ -558,8 +575,8 @@ la Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-Admin
 o, potestativamente, recurso de reposición, ante la Dirección General del Profesorado y 
 Gestión de Recursos Humanos, en el plazo de un mes a contar desde el día siguiente 
 al de su publicación, conforme a lo establecido en los artículos 112.1, 123 y 124 de 
-la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las 
-Administraciones Públicas, y en el artículo 115.2 de la Ley 9/2007, de 22 de octubre, de la 
+la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Administrativo Común de las 
+Administraciones Públicas, y en el artículo 115.2 de la [Ley 9/2007](../01_marco_normativo_general_y_organico/L9_2007_administracion_junta_andalucia_laja.md), de 22 de octubre, de la 
 Administración de la Junta de Andalucía.
 Quinta. Tribunal calificador y comisión de baremación de méritos.
 5.1. La selección del personal aspirante la realizará el tribunal calificador, que será 
@@ -597,7 +614,7 @@ suplentes, excepto en caso de fuerza mayor debidamente justificada.
 5.4. Abstención y recusación.
 Los miembros del tribunal deberán abstenerse de intervenir, notificándolo a la 
 Dirección General del Profesorado y Gestión de Recursos Humanos, cuando concurran 
-en ellos alguna circunstancia de las previstas en el artículo 23.2 de la Ley 40/2015, de 
+en ellos alguna circunstancia de las previstas en el artículo 23.2 de la [Ley 40/2015](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md), de 
 1 de octubre, de Régimen Jurídico del Sector Público, o si hubiesen realizado tareas de 
 preparación de aspirantes a pruebas selectivas para el mismo cuerpo en los cinco años 
 anteriores a la publicación de la presente convocatoria.
@@ -607,7 +624,7 @@ La abstención se planteará con carácter inmediato en el momento en que se ten
 conocimiento de la concurrencia de alguna de las circunstancias que dan lugar a la misma.
 Asimismo, el personal aspirante podrá recusar a los miembros del tribunal en cualquier 
 momento de la tramitación del procedimiento, de acuerdo con lo previsto en el artículo 24 
-de la citada Ley 40/2015, de 1 de octubre, ante la persona titular de la Dirección General 
+de la citada [Ley 40/2015](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md), de 1 de octubre, ante la persona titular de la Dirección General 
 del Profesorado y Gestión de Recursos Humanos, que resolverá lo que proceda.
 5.5. Una vez constituido el tribunal, para actuar válidamente se requerirá la asistencia 
 de al menos tres de sus miembros, entre los que deberán estar presentes quienes 
@@ -632,9 +649,9 @@ elevación de la misma a la Dirección General del Profesorado y Gestión de Rec
 Humanos de la Consejería de Desarrollo Educativo y Formación Profesional.
 h) La conformación del expediente administrativo del procedimiento selectivo.
 5.7. Asimismo, el tribunal resolverá todas las dudas que pudieran surgir en la aplicación 
-de estas normas, debiendo ajustarse su actuación a lo dispuesto en la Ley 39/2015, de 1 
+de estas normas, debiendo ajustarse su actuación a lo dispuesto en la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 
 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, la 
-Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, y en la Ley 9/2007, 
+[Ley 40/2015](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md), de 1 de octubre, de Régimen Jurídico del Sector Público, y en la [Ley 9/2007](../01_marco_normativo_general_y_organico/L9_2007_administracion_junta_andalucia_laja.md), 
 de 22 de octubre, de Administración de la Junta de Andalucía.
 
 00278819
@@ -679,7 +696,7 @@ Edificio Torretriana, C/ Juan A. de Vizarrón, s/n, 41071 Sevilla.
 de aspirantes superior al de plazas convocadas. Cualquier propuesta que contravenga lo 
 anteriormente establecido será nula de pleno derecho.
 5.13. Comisión de baremación de méritos.
-5.13.1. De conformidad con lo previsto en el artículo 6.5 del Real Decreto 276/2007, 
+5.13.1. De conformidad con lo previsto en el artículo 6.5 del [Real Decreto 276/2007](../../../estatal/08_personal_docente/RD276_2007_aprueba_reglamento_ingreso_accesos_adquisicion_nuevas.md), 
 de 23 de febrero, la valoración de los méritos del procedimiento relativos al baremo del 
 Anexo II de esta orden, será atribuida a una comisión de baremación que realizará, por 
 delegación del tribunal, las tareas materiales y puramente regladas de la aplicación del 
@@ -841,7 +858,7 @@ la lista del personal seleccionado.
 6.5.1. En la fase de concurso se valorará la trayectoria profesional del personal 
 aspirante y sus méritos específicos como docente, el desempeño de cargos directivos 
 con evaluación positiva y la pertenencia a alguno de los cuerpos de catedráticos a que 
-se refiere la Ley Orgánica 2/2006, de 3 de mayo, y el ejercicio, en su caso, de la función 
+se refiere la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, y el ejercicio, en su caso, de la función 
 inspectora, de conformidad con lo dispuesto en el Anexo II de la presente orden, que 
 incorpora las especificaciones básicas establecidas en el Anexo III del Real Decreto 
 276/2007, de 23 de febrero.
@@ -853,7 +870,7 @@ presentación de solicitudes fijado en el apartado 3.5 y que consten acreditados
 a la forma establecida en el Anexo II de esta convocatoria.
 6.5.4. En su caso, deberán acompañarse de su traducción al castellano los 
 documentos que se presenten redactados en la lengua cooficial de otra Comunidad 
-Autónoma conforme a lo dispuesto en el artículo 15 de la Ley 39/2015, de 1 de octubre, 
+Autónoma conforme a lo dispuesto en el artículo 15 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, 
 del Procedimiento Administrativo Común de las Administraciones Públicas.
 6.5.5. Los documentos expedidos en el extranjero deberán ser oficiales, suscritos por 
 autoridades competentes, legalizados por vía diplomática y acompañados, en su caso, 
@@ -929,7 +946,7 @@ de provincias indicadas en la solicitud. En caso de empates de la puntuación, e
 resolverán siguiendo los criterios del apartado 7.2 de esta convocatoria.
 8.2. La fase de prácticas tendrá la duración de un curso académico o de diez meses 
 en el ejercicio de la función inspectora como personal funcionario en prácticas, de 
-conformidad con lo dispuesto en el artículo 15.2 de la Ley 17/2007, de 10 de diciembre, de 
+conformidad con lo dispuesto en el artículo 15.2 de la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre, de 
 Educación de Andalucía.
 8.3. El personal nombrado funcionario en prácticas quedará obligado a incorporarse 
 al destino adjudicado, en el plazo de tres días hábiles a partir del día siguiente al de la 
@@ -1035,7 +1052,7 @@ del examen de la documentación se dedujera que carecen de alguno de los requisi
 señalados en la base segunda de esta orden, sin perjuicio de la responsabilidad en que 
 hubieran podido incurrir, en su caso, por falsedad en la solicitud inicial.
 Undécima. Obtención de destino definitivo.
-De conformidad con lo previsto en el artículo 10.1.d), del Real Decreto 276/2007, de 
+De conformidad con lo previsto en el artículo 10.1.d), del [Real Decreto 276/2007](../../../estatal/08_personal_docente/RD276_2007_aprueba_reglamento_ingreso_accesos_adquisicion_nuevas.md), de 
 23 de febrero, quienes superen el proceso selectivo están obligados, para obtener su 
 primer destino definitivo, a participar en el primer concurso de traslados que se convoque.
 Base final.
@@ -1052,8 +1069,8 @@ establecido en los artículos 8.2.a), 14 y 46.1 de la Ley 29/1998, de 13 de juli
 de la Jurisdicción Contencioso-Administrativa, o, potestativamente, recurso de reposición, 
 ante el mismo órgano que dicta la presente orden, en el plazo de un mes a contar desde 
 el día siguiente al de su publicación, conforme a lo establecido en los artículos 112.1, 123 
-y 124 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las 
-Administraciones Públicas, y en el artículo 115.2 de la Ley 9/2007, de 22 de octubre, de la 
+y 124 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Administrativo Común de las 
+Administraciones Públicas, y en el artículo 115.2 de la [Ley 9/2007](../01_marco_normativo_general_y_organico/L9_2007_administracion_junta_andalucia_laja.md), de 22 de octubre, de la 
 Administración de la Junta de Andalucía.	
 Sevilla, 20 de febrero de 2023
 PATRICIA DEL POZO FERNÁNDEZ

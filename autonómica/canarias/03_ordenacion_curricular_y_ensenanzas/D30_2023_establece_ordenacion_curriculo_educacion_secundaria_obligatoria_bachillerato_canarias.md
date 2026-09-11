@@ -44,8 +44,24 @@ relaciones:
   - norma_id: norm-es-rd-217-2022
   - norma_id: norm-es-rd-243-2022
   - norma_id: norm-es-lo-2-2006
+fundamentos_derecho:
+- norma_id: norm-and-dl2-2021-procedimientos-admision-alumnado-centros-docentes-andalucia
+- norma_id: norm-can-l-1-1997
+- norma_id: norm-can-l-6-2014
+- norma_id: norm-can-lo-1-2018
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-mad-l1-1983-gobierno-administracion-comunidad-madrid
+- norma_id: norm-es-l-39-2015
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-lo-3-2018
+- norma_id: norm-es-lo-8-1985
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-rd-217-2022
+- norma_id: norm-es-rd-243-2022
+- norma_id: norm-es-2010-12201
+- norma_id: norm-es-2010-4518
+- norma_id: norm-es-2021-11382
 ---
-
 # Decreto 30/2023, de 16 de marzo, por el que se establece la ordenación y el currículo de la Educación Secundaria Obligatoria y del Bachillerato en la Comunidad Autónoma de Canarias.
 
 ## Preámbulo
@@ -53,11 +69,11 @@ relaciones:
 
 ### I
 
-La Ley Orgánica 1/2018, de 5 de noviembre, de reforma del Estatuto de Autonomía de Canarias, en su artículo 133.1 confiere a esta Comunidad Autónoma, la competencia de desarrollo legislativo y de ejecución en materia de enseñanza no universitaria, con relación a las enseñanzas obligatorias y no obligatorias que conducen a la obtención de un título académico o profesional con validez en todo el Estado, dejando a salvo lo dispuesto en los artículos 27 y 149.1.30.ª de la Constitución.
+La [Ley Orgánica 1/2018](../01_marco_normativo_general_y_organico/LO1_2018_reforma_estatuto_autonomia_canarias.md), de 5 de noviembre, de reforma del Estatuto de Autonomía de Canarias, en su artículo 133.1 confiere a esta Comunidad Autónoma, la competencia de desarrollo legislativo y de ejecución en materia de enseñanza no universitaria, con relación a las enseñanzas obligatorias y no obligatorias que conducen a la obtención de un título académico o profesional con validez en todo el Estado, dejando a salvo lo dispuesto en los artículos 27 y 149.1.30.ª de la Constitución.
 
-Consecuentemente, el presente Decreto está en consonancia con la Ley 6/2014, de 25 de julio, Canaria de Educación no Universitaria, conforme se contempla en el artículo 31 relativo a la Educación Secundaria Obligatoria, y en el artículo 32 concerniente al Bachillerato; con el Real Decreto 217/2022, de 29 de marzo, por el que se establece la ordenación y las enseñanzas mínimas de la Educación Secundaria Obligatoria, y con el Real Decreto 243/2022, de 5 de abril, por el que se establecen la ordenación y las enseñanzas mínimas del Bachillerato; con la Estrategia Canaria de Infancia, Adolescencia y Familia, en la que se definen las líneas de política social de la Comunidad Autónoma de Canarias en materia de Infancia y Familia para el periodo de 2019-2023, con la finalidad de promover e impulsar el bienestar de la infancia y la adolescencia en Canarias con la colaboración de las familias y de todos los agentes e instituciones implicadas, y cuyo antecedente fue el Plan Integral del Menor de Canarias (PIMC), tras publicarse la Ley 1/1997, de 7 de febrero, de Atención Integral a los Menores; y con la Agenda Canaria de Desarrollo Sostenible 2030, al buscar el logro de una vida digna y feliz del alumnado de la Educación Secundaria que le permita desarrollarse en un entorno seguro, sano, justo y que propicie la igualdad de oportunidades.
+Consecuentemente, el presente Decreto está en consonancia con la [Ley 6/2014](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md), de 25 de julio, Canaria de Educación no Universitaria, conforme se contempla en el artículo 31 relativo a la Educación Secundaria Obligatoria, y en el artículo 32 concerniente al Bachillerato; con el [Real Decreto 217/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD217_2022_establece_ordenacion_ensenanzas_minimas_educacion_secundaria.md), de 29 de marzo, por el que se establece la ordenación y las enseñanzas mínimas de la Educación Secundaria Obligatoria, y con el [Real Decreto 243/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD243_2022_establecen_ordenacion_ensenanzas_minimas_bachillerato.md), de 5 de abril, por el que se establecen la ordenación y las enseñanzas mínimas del Bachillerato; con la Estrategia Canaria de Infancia, Adolescencia y Familia, en la que se definen las líneas de política social de la Comunidad Autónoma de Canarias en materia de Infancia y Familia para el periodo de 2019-2023, con la finalidad de promover e impulsar el bienestar de la infancia y la adolescencia en Canarias con la colaboración de las familias y de todos los agentes e instituciones implicadas, y cuyo antecedente fue el Plan Integral del Menor de Canarias (PIMC), tras publicarse la [Ley 1/1997](../01_marco_normativo_general_y_organico/L1_1997_atencion_integral_menores.md), de 7 de febrero, de Atención Integral a los Menores; y con la Agenda Canaria de Desarrollo Sostenible 2030, al buscar el logro de una vida digna y feliz del alumnado de la Educación Secundaria que le permita desarrollarse en un entorno seguro, sano, justo y que propicie la igualdad de oportunidades.
 
-La Ley Orgánica 2/2006, de 3 de mayo, de Educación (en lo sucesivo, LOE), modificada por la Ley Orgánica 3/2020, de 29 de diciembre (en adelante, LOMLOE), determina en su artículo 6 que corresponde a las Comunidades Autónomas que no tengan lengua cooficial establecer el 40% de los horarios escolares para la impartición de sus incorporaciones propias; asimismo, se indica que las Administraciones educativas establecerán el currículo de las distintas enseñanzas reguladas en la dicha Ley del que formarán parte los aspectos básicos del currículo que constituyen las enseñanzas mínimas. De esta forma, teniendo en cuenta la actual distribución de competencias, la Comunidad Autónoma de Canarias es la responsable de establecer la ordenación específica y el currículo para Canarias, del que forman parte los objetivos, las competencias clave, los saberes básicos y los criterios de evaluación, que constituyen las enseñanzas mínimas. Por otro lado, corresponderá a los centros educativos, dentro de su autonomía pedagógica y de acuerdo a su proyecto y entorno educativo, desarrollarlo y completarlo, en su caso.
+La [Ley Orgánica 2/2006](../05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación (en lo sucesivo, LOE), modificada por la Ley Orgánica 3/2020, de 29 de diciembre (en adelante, LOMLOE), determina en su artículo 6 que corresponde a las Comunidades Autónomas que no tengan lengua cooficial establecer el 40% de los horarios escolares para la impartición de sus incorporaciones propias; asimismo, se indica que las Administraciones educativas establecerán el currículo de las distintas enseñanzas reguladas en la dicha Ley del que formarán parte los aspectos básicos del currículo que constituyen las enseñanzas mínimas. De esta forma, teniendo en cuenta la actual distribución de competencias, la Comunidad Autónoma de Canarias es la responsable de establecer la ordenación específica y el currículo para Canarias, del que forman parte los objetivos, las competencias clave, los saberes básicos y los criterios de evaluación, que constituyen las enseñanzas mínimas. Por otro lado, corresponderá a los centros educativos, dentro de su autonomía pedagógica y de acuerdo a su proyecto y entorno educativo, desarrollarlo y completarlo, en su caso.
 
 La LOMLOE introduce, además, en la anterior redacción de la norma, importantes cambios, muchos de ellos derivados, tal y como indica la propia ley, en su exposición de motivos, de la conveniencia de revisar las medidas previstas en el texto original con objeto de adaptar el sistema educativo a los retos y desafíos del siglo XXI, de acuerdo con los objetivos fijados por la Unión Europea y la UNESCO para la década 2020/2030. Teniendo en cuenta este enfoque, el nuevo texto de la LOE incorpora entre los principios y fines de la educación el cumplimiento efectivo de los derechos de la infancia según lo establecido en la Convención sobre los Derechos del Niño de Naciones Unidas, la inclusión educativa y la aplicación de los principios del Diseño Universal para el Aprendizaje (en adelante, DUA).
 
@@ -68,7 +84,7 @@ En este sentido, la atención individualizada al alumnado deberá determinar la 
 
 En consecuencia, la Comunidad Autónoma de Canarias, en el uso de las citadas competencias, es la responsable de establecer la ordenación específica de las enseñanzas de la ESO y el Bachillerato, y de concretar sus objetivos, fines y principios generales y pedagógicos, que se recogen en el Perfil de salida del alumnado al término de la enseñanza básica y en los descriptores operativos de las competencias clave para el Bachillerato, respectivamente. A través de estos marcos referenciales, se identifican las competencias clave que necesariamente deberán haberse adquirido y desarrollado al finalizar las enseñanzas obligatoria y postobligatoria, así como los descriptores operativos que orientan sobre el nivel de desempeño esperado al completar ambas etapas educativas.
 
-Por otro lado, para cada una de las materias se fijan las competencias específicas previstas para las dos etapas, así como los criterios de evaluación y los contenidos, enunciados en forma de saberes básicos, para cada curso o nivel, en consonancia con los citados Real Decreto 217/2022, de 29 de marzo, y Real Decreto 243/2022, de 5 de abril.
+Por otro lado, para cada una de las materias se fijan las competencias específicas previstas para las dos etapas, así como los criterios de evaluación y los contenidos, enunciados en forma de saberes básicos, para cada curso o nivel, en consonancia con los citados [Real Decreto 217/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD217_2022_establece_ordenacion_ensenanzas_minimas_educacion_secundaria.md), de 29 de marzo, y [Real Decreto 243/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD243_2022_establecen_ordenacion_ensenanzas_minimas_bachillerato.md), de 5 de abril.
 
 Junto con la Educación Primaria y los Ciclos Formativos de Grado Básico, la ESO constituye la enseñanza básica, siendo la segunda etapa del sistema educativo con carácter obligatorio. Esta precisa una estrecha coordinación con la etapa anterior, con el propósito de favorecer la coherencia y el tránsito entre ellas, garantizar la continuidad escolar en la formación del alumnado y prevenir el absentismo escolar y el abandono escolar temprano. Con el mismo objetivo es determinante, asimismo, prestar una especial atención a la transición desde la ESO al Bachillerato.
 
@@ -79,7 +95,7 @@ Consecuentemente, los principios que han guiado la concreción de los currículo
 
 ### Iii
 
-Los cambios introducidos por la LOMLOE modifican significativamente la ordenación y la organización de las enseñanzas de la ESO y del Bachillerato. De esta forma, la nueva ordenación educativa de la ESO, de acuerdo con lo previsto en los artículos 8, 9 y 10 del Real Decreto 217/2022, de 29 de marzo, plantea una organización común en los tres primeros cursos de la etapa. Por su parte, el cuarto curso se configura con un carácter propedéutico de etapas posteriores: Bachillerato o Formación Profesional.
+Los cambios introducidos por la LOMLOE modifican significativamente la ordenación y la organización de las enseñanzas de la ESO y del Bachillerato. De esta forma, la nueva ordenación educativa de la ESO, de acuerdo con lo previsto en los artículos 8, 9 y 10 del [Real Decreto 217/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD217_2022_establece_ordenacion_ensenanzas_minimas_educacion_secundaria.md), de 29 de marzo, plantea una organización común en los tres primeros cursos de la etapa. Por su parte, el cuarto curso se configura con un carácter propedéutico de etapas posteriores: Bachillerato o Formación Profesional.
 
 Es por ello, también, por lo que desde esta Comunidad Autónoma se han determinado una serie de líneas estratégicas, en consonancia con la Agenda Canaria de Desarrollo Sostenible 2030, que han marcado la propuesta de ordenación y currículo de esta etapa, partiendo de un enfoque globalizador y transversal: “Educación inclusiva”, “Educación del patrimonio natural, social y cultural canario”, “Desarrollo sostenible”, “Perspectiva de género y coeducación”, “Emocionalidad competente” y “Sentido cultural de la educación”.
 
@@ -106,11 +122,11 @@ Las tres disposiciones transitorias atienden al calendario de implantación; a l
 
 La disposición derogatoria única afecta a cuantas disposiciones de igual o inferior rango se opongan a lo regulado en este Decreto; y, por último, las dos disposiciones finales, atienden, respectivamente, a la habilitación para el desarrollo reglamentario y a la entrada en vigor de la norma.
 
-En cuanto a la redacción del presente Decreto y en lo que respecta a la igualdad de género y de expresión de género, se ha dado cumplimiento, respectivamente, a la Ley 1/2010, de 26 de febrero, canaria de igualdad entre mujeres y hombres, y a la Ley 2/2021, de 7 de junio, de igualdad social y no discriminación por razón de identidad de género, expresión de género y características sexuales.
+En cuanto a la redacción del presente Decreto y en lo que respecta a la igualdad de género y de expresión de género, se ha dado cumplimiento, respectivamente, a la [Ley 1/2010](../../../estatal/07_convivencia_bienestar_y_protocolos/L1_2010_canaria_igualdad_entre_mujeres_hombres.md), de 26 de febrero, canaria de igualdad entre mujeres y hombres, y a la [Ley 2/2021](../../andalucía/05_alumnado_y_servicios_escolares/DL2_2021_procedimientos_admision_alumnado_centros_docentes_andalucia.md), de 7 de junio, de igualdad social y no discriminación por razón de identidad de género, expresión de género y características sexuales.
 
-El presente Decreto se adecúa a los principios de buena regulación previstos en el artículo 129 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.
+El presente Decreto se adecúa a los principios de buena regulación previstos en el artículo 129 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.
 
-En lo que se refiere a los principios de necesidad y eficacia, se trata de una norma necesaria para la regulación de las enseñanzas de la ESO y del Bachillerato, conforme a la nueva redacción de la LOE, tras las modificaciones introducidas por la LOMLOE, al ser competencia de esta Comunidad establecer la ordenación específica y el currículo para su ámbito de actuación, una vez se han fijado la ordenación general y las enseñanzas mínimas correspondientes a la ESO y al Bachillerato, a través del Real Decreto 217/2022, de 29 de marzo, por el que se establece la ordenación y las enseñanzas mínimas de la Educación Secundaria Obligatoria, y con el Real Decreto 243/2022, de 5 de abril, por el que se establecen la ordenación y las enseñanzas mínimas del Bachillerato, respectivamente.
+En lo que se refiere a los principios de necesidad y eficacia, se trata de una norma necesaria para la regulación de las enseñanzas de la ESO y del Bachillerato, conforme a la nueva redacción de la LOE, tras las modificaciones introducidas por la LOMLOE, al ser competencia de esta Comunidad establecer la ordenación específica y el currículo para su ámbito de actuación, una vez se han fijado la ordenación general y las enseñanzas mínimas correspondientes a la ESO y al Bachillerato, a través del [Real Decreto 217/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD217_2022_establece_ordenacion_ensenanzas_minimas_educacion_secundaria.md), de 29 de marzo, por el que se establece la ordenación y las enseñanzas mínimas de la Educación Secundaria Obligatoria, y con el [Real Decreto 243/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD243_2022_establecen_ordenacion_ensenanzas_minimas_bachillerato.md), de 5 de abril, por el que se establecen la ordenación y las enseñanzas mínimas del Bachillerato, respectivamente.
 
 De acuerdo con el principio de proporcionalidad contiene la regulación imprescindible de la estructura de estas enseñanzas al no existir ninguna alternativa regulatoria menos restrictiva de derechos.
 
@@ -214,7 +230,7 @@ h) Competencia en conciencia y expresión culturales (CCEC).
 
 Asimismo, se fomentará el respeto mutuo y la cooperación entre iguales, y se incorporará la perspectiva de género al ámbito de la orientación educativa y profesional. La acción tutorial formará parte de la actividad docente y su programación anual corresponde a los centros educativos.
 
-3. Por otra parte, se mantendrá una relación permanente con las madres, los padres, las tutoras o los tutores legales del alumnado, a fin de facilitar el ejercicio de los derechos reconocidos en el artículo 4.1.d) y g) de la Ley Orgánica 8/1985, de 3 de julio, reguladora del Derecho a la Educación, o normativa que la sustituya.
+3. Por otra parte, se mantendrá una relación permanente con las madres, los padres, las tutoras o los tutores legales del alumnado, a fin de facilitar el ejercicio de los derechos reconocidos en el artículo 4.1.d) y g) de la [Ley Orgánica 8/1985](../../../estatal/02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md), de 3 de julio, reguladora del Derecho a la Educación, o normativa que la sustituya.
 
 4. El profesorado tutor de cada grupo, en colaboración con el departamento de orientación y de acuerdo con los planes de acción tutorial y de orientación académica y profesional del centro, coordinará la intervención educativa del conjunto del profesorado que incide sobre su grupo, especialmente, en lo que se refiere a la planificación y evaluación de los procesos de enseñanza y aprendizaje, a la orientación personal del alumnado y a las relaciones entre el centro educativo, las familias y el entorno social.
 
@@ -265,7 +281,7 @@ Igualmente, establecerá medidas de apoyo educativo para el alumnado con dificul
 
 2. Cuando el alumnado sea menor de edad, las madres, los padres, las tutoras o los tutores legales, deberán participar y apoyar la evolución del proceso educativo de sus hijos, hijas, tutelados o tuteladas, colaborando en las medidas de apoyo o refuerzo que adopten los centros para facilitar su progreso. En este sentido, la Consejería competente en materia de educación fomentará el ejercicio efectivo de la participación de dichos agentes en las decisiones que afecten a los procesos educativos de sus hijos e hijas, tutelados o tuteladas, constituyéndose en agentes fundamentales para la construcción de una escuela inclusiva y participativa.
 
-3. Tendrán, además, derecho a conocer las decisiones relativas a su evaluación y promoción, a través de un boletín individualizado respecto del alumnado de la ESO, así como a acceder a los documentos oficiales de evaluación y a las pruebas y los documentos empleados en las evaluaciones que se le realicen, en la parte referida al alumno o la alumna de que se trate, sin perjuicio del respeto a las garantías establecidas en la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales (en adelante, Ley Orgánica 3/2018, de 5 de diciembre), o normativa que la sustituya; y demás preceptos aplicables en materia de protección de datos de carácter personal.
+3. Tendrán, además, derecho a conocer las decisiones relativas a su evaluación y promoción, a través de un boletín individualizado respecto del alumnado de la ESO, así como a acceder a los documentos oficiales de evaluación y a las pruebas y los documentos empleados en las evaluaciones que se le realicen, en la parte referida al alumno o la alumna de que se trate, sin perjuicio del respeto a las garantías establecidas en la [Ley Orgánica 3/2018](../../../estatal/02_gestion_y_administracion_centros/LO3_2018_proteccion_datos_personales_garantia_derechos_digitales.md), de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales (en adelante, [Ley Orgánica 3/2018](../../../estatal/02_gestion_y_administracion_centros/LO3_2018_proteccion_datos_personales_garantia_derechos_digitales.md), de 5 de diciembre), o normativa que la sustituya; y demás preceptos aplicables en materia de protección de datos de carácter personal.
 
 A tal fin, el acceso a las actas de evaluación podrá sustituirse por el mencionado boletín individualizado que recoge la información del acta referida al alumno o la alumna de que se trate.
 
@@ -359,7 +375,7 @@ Deberá figurar, asimismo, en el caso de la ESO, la indicación de las materias 
 
 3. La cumplimentación, el archivo y la custodia de los expedientes académicos del alumnado corresponde a los centros docentes en los que se hayan realizado los estudios de las enseñanzas correspondientes, y la Inspección de Educación velará por su cumplimiento.
 
-4. Los documentos oficiales de evaluación y sus procedimientos de validación descritos en los apartados anteriores, podrán ser sustituidos por sus equivalentes realizados por medios electrónicos, informáticos o telemáticos, siempre que quede garantizada su autenticidad, integridad y conservación, y se cumplan las garantías y los requisitos establecidos por la citada Ley Orgánica 3/2018, de 5 de diciembre, por la mencionada la Ley 39/2015, de 1 de octubre, o normativa que las sustituyan, así como por la normativa que las desarrolle.
+4. Los documentos oficiales de evaluación y sus procedimientos de validación descritos en los apartados anteriores, podrán ser sustituidos por sus equivalentes realizados por medios electrónicos, informáticos o telemáticos, siempre que quede garantizada su autenticidad, integridad y conservación, y se cumplan las garantías y los requisitos establecidos por la citada [Ley Orgánica 3/2018](../../../estatal/02_gestion_y_administracion_centros/LO3_2018_proteccion_datos_personales_garantia_derechos_digitales.md), de 5 de diciembre, por la mencionada la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, o normativa que las sustituyan, así como por la normativa que las desarrolle.
 
 5. El expediente electrónico estará constituido, al menos, por los datos contenidos en los documentos oficiales de evaluación y cumplirá con lo establecido en el Real Decreto 4/2010, de 8 de enero, por el que se regula el Esquema Nacional de Interoperabilidad en el ámbito de la Administración Electrónica, modificado por el Real Decreto 203/2021, de 30 de marzo, por el que se aprueba el Reglamento de actuación y funcionamiento del sector público por medios electrónicos, o normativa que los sustituyan.
 
@@ -635,7 +651,7 @@ f) Educación Emocional y para la Creatividad.
 
 #### Artículo 26. Horario.
 
-1. En el Anexo 5 del presente Decreto se establece el horario escolar semanal para las diferentes materias de la ESO. La Consejería competente en materia de educación podrá modificar dicho horario, atendiendo a las necesidades organizativas de las distintas materias y respetando lo regulado en el currículo autonómico y, en todo caso, el límite previsto en los artículos 13.3 y 14.1 del Real Decreto 217/2022, de 29 de marzo, o normativa que lo sustituya.
+1. En el Anexo 5 del presente Decreto se establece el horario escolar semanal para las diferentes materias de la ESO. La Consejería competente en materia de educación podrá modificar dicho horario, atendiendo a las necesidades organizativas de las distintas materias y respetando lo regulado en el currículo autonómico y, en todo caso, el límite previsto en los artículos 13.3 y 14.1 del [Real Decreto 217/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD217_2022_establece_ordenacion_ensenanzas_minimas_educacion_secundaria.md), de 29 de marzo, o normativa que lo sustituya.
 
 2. El horario escolar correspondiente al currículo de los ámbitos será el resultante de la suma del asignado a las materias que se integren en estos.
 
@@ -1089,7 +1105,7 @@ d) Que alegue otras circunstancias debidamente acreditadas que, a juicio de la C
 
 1. En el Anexo 6 del presente Decreto se establece el horario escolar semanal para las diferentes materias de la etapa de Bachillerato.
 
-2. La Consejería competente en materia de educación podrá modificar dicho horario, atendiendo a las necesidades organizativas de las distintas materias y respetando lo regulado en el currículo autonómico y, en todo caso, el límite previsto en los artículos 18.3 y 19 del Real Decreto 243/2022, de 5 de abril, o normativa que lo sustituya.
+2. La Consejería competente en materia de educación podrá modificar dicho horario, atendiendo a las necesidades organizativas de las distintas materias y respetando lo regulado en el currículo autonómico y, en todo caso, el límite previsto en los artículos 18.3 y 19 del [Real Decreto 243/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD243_2022_establecen_ordenacion_ensenanzas_minimas_bachillerato.md), de 5 de abril, o normativa que lo sustituya.
 
 
 #### Artículo 49. Evaluación de los procesos de enseñanza y aprendizaje.
@@ -1203,7 +1219,7 @@ c) Que el alumnado se haya presentado a las pruebas y realizado las actividades 
 
 d) Que la media aritmética de las calificaciones obtenidas en todas las materias de la etapa sea igual o superior a cinco.
 
-7. Asimismo, el alumnado que curse estas enseñanzas y se encuentre en posesión de alguno de los títulos a los que se refiere el artículo 23 del Real Decreto 243/2022, de 5 de abril, o normativa que lo sustituya, podrá obtener el título de Bachiller mediante el procedimiento previsto en el citado artículo.
+7. Asimismo, el alumnado que curse estas enseñanzas y se encuentre en posesión de alguno de los títulos a los que se refiere el artículo 23 del [Real Decreto 243/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD243_2022_establecen_ordenacion_ensenanzas_minimas_bachillerato.md), de 5 de abril, o normativa que lo sustituya, podrá obtener el título de Bachiller mediante el procedimiento previsto en el citado artículo.
 
 8. Corresponderá a la Consejería competente en materia de educación la organización de pruebas para que las personas mayores de veinte años puedan obtener directamente el título de Bachiller, siempre que demuestren haber alcanzado los objetivos y las competencias del Bachillerato. Dichas pruebas, que deberán contar con las medidas de accesibilidad universal y las adaptaciones que precise todo el alumnado con NEE, se organizarán de manera diferenciada según las modalidades del Bachillerato.
 
@@ -1225,7 +1241,7 @@ En los casos de exención o convalidación de asignaturas y materias, se estará
 
 ### Disposición adicional sexta. Prueba de Acceso a la Universidad.
 
-La Consejería competente en materia de educación, junto con las universidades correspondientes, organizará las pruebas de acceso a la universidad, teniendo en consideración lo establecido en el artículo 38 de la LOE y la disposición final primera del Real Decreto 243/2022, de 5 de abril, o normativa que los sustituyan.
+La Consejería competente en materia de educación, junto con las universidades correspondientes, organizará las pruebas de acceso a la universidad, teniendo en consideración lo establecido en el artículo 38 de la LOE y la disposición final primera del [Real Decreto 243/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD243_2022_establecen_ordenacion_ensenanzas_minimas_bachillerato.md), de 5 de abril, o normativa que los sustituyan.
 
 
 ### Disposición transitoria primera. Calendario de implantación.
@@ -1266,7 +1282,7 @@ Dado en Canarias, a 16 de marzo de 2023.
 EL PRESIDENTE
 DEL GOBIERNO,
 p.s. EL VICEPRESIDENTE
-(artículo 10 de la Ley 1/1983, de 14 de abril,
+(artículo 10 de la [Ley 1/1983](../../madrid/01_marco_normativo_general_y_organico/L1_1983_gobierno_administracion_comunidad_madrid.md), de 14 de abril,
 del Gobierno y de la Administración
 Pública de la Comunidad de Canarias),
 Román Rodríguez Rodríguez.

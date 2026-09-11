@@ -59,8 +59,13 @@ relaciones:
   - norma_id: norm-es-2021-20113
   - norma_id: norm-es-2010-12201
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2021-114-2852.pdf
+fundamentos_derecho:
+- norma_id: norm-can-l-13-2003
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
 ---
-
 # Resolución de 24 de mayo de 2021, por la que se actualizan las instrucciones para la impartición de los cursos de preparación de pruebas de acceso a ciclos formativos de grado medio y superior de Formación Profesional (BOC n.º 114, de 4 de junio).
 
 ## Preámbulo
@@ -68,7 +73,7 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2021-114-2852.
 Primero.- La Consejería de Educación, Universidades, Cultura y Deportes convoca anualmente pruebas de acceso a los estudios de Formación Profesional para las personas que, careciendo de la titulación requerida, desean cursar ciclos formativos de los grados medio o superior.
 Segundo.- Mediante la Resolución de la Dirección General de Formación Profesional y Educación de Adultos, de 22 de octubre de 2007, se modificaron las instrucciones que regulan la organización de los cursos de preparación para las pruebas de acceso a los ciclos formativos de los grados medio y superior de Formación Profesional, que se ofertan en los centros de educación de personas adultas y centros de educación a distancia a partir del curso 2007-2008. A estos hechos les son de aplicación los siguientes FUNDAMENTOS DE DERECHO
 Primero.- La [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación (LOE), establece en su artículo 41 4 que las Administraciones educativas convocarán periódicamente las pruebas. de acceso a los ciclos formativos, tanto de grado medio como de grado superior.
-Segundo.- La Ley 13/2003, de 4 de abril, de Educación y Formación Permanente de Personas Adultas de Canarias, establece que uno de los fines de estas enseñanzas es desarrollar ofertas formativas específicas en función de las necesidades e intereses de las personas adultas.
+Segundo.- La [Ley 13/2003](../01_marco_normativo_general_y_organico/L13_2003_educacion_formacion_permanente_personas_adultas_canarias.md), de 4 de abril, de Educación y Formación Permanente de Personas Adultas de Canarias, establece que uno de los fines de estas enseñanzas es desarrollar ofertas formativas específicas en función de las necesidades e intereses de las personas adultas.
 Tercero.- La Orden de 22 de febrero de 2008, por la que se regula el acceso a la formación profesional del sistema educativo y a las enseñanzas deportivas de régimen especial, establece en su artículo 9 que se podrán ofertar cursos de preparación de las pruebas de acceso a la formación profesional o a las enseñanzas deportivas de grado medio y superior y que al finalizar dichos cursos se evaluará el rendimiento del alumnado. Por todo lo expuesto, y en el ejercicio de las competencias atribuidas a la Dirección General de Formación Profesional y Educación de Adultos en el artículo 18 del Decreto Página
 
 7/2021, de 18 de febrero, por el que se aprueba el Reglamento Orgánico de la Consejería de Educación, Universidades, Cultura y Deportes,

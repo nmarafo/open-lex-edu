@@ -27,8 +27,10 @@ relaciones:
   - norm-can-l-2-2021
   - norm-es-lo-2-2006
 fuente_pdf_oficial: https://www.gobiernodecanarias.org/cmsgob1/export/sites/educacion/web/_galerias/descargas/normativa-internas/resolucion-5-instrucciones-cambio-de-nombre-alumnado-veud.pdf
+fundamentos_derecho:
+- norma_id: norm-can-d-212-1991
+- norma_id: norm-es-l-40-2015
 ---
-
 # Resolución n.º 5/2022, de 19 de enero, de la Viceconsejería de Educación, Universidades y Deportes, por la que se establecen las instrucciones para la tramitación del cambio de nombre, apellidos o sexo, en las bases de datos de alumnado y representantes legales del alumnado de las enseñanzas regladas no universitarias de Canarias.
 
 ## Preámbulo
@@ -79,8 +81,8 @@ Civil y posteriormente en el DNI, o documentación equivalente en el caso de per
 Por todo ello, en virtud de las competencias atribuidas a la Viceconsejería de Educación, Universidades y  
 Deportes, por el artículo 10 del Reglamento Orgánico de la Consejería de Educación, Universidades,  
 Cultura y Deportes, aprobado por el Decreto 7/2021, de 18 de febrero, y en ejercicio de las potestades  
-atribuidas por el artículo 6 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público y  
-por el artículo 4 del Decreto 212/1991, de 11 de septiembre, de organización de los Departamentos de la  
+atribuidas por el artículo 6 de la [Ley 40/2015](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md), de 1 de octubre, de Régimen Jurídico del Sector Público y  
+por el artículo 4 del [Decreto 212/1991](../01_marco_normativo_general_y_organico/D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md), de 11 de septiembre, de organización de los Departamentos de la  
 Administración Autonómica de Canarias,
 
 ## Texto Articulado

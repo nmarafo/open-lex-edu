@@ -28,8 +28,12 @@ relaciones:
   - norm-es-lo-2-2006
   - norm-es-lo-3-2022
 fuente_pdf_oficial: https://www.comunidad.madrid/transparencia/sites/default/files/regulation/documents/2026-07-17_instrucciones_fpb_cepa_admision_2026-2027_vfinal.pdf
+fundamentos_derecho:
+- norma_id: norm-can-res-boc-2024-230-25
+- norma_id: norm-mad-d-27-2025
+- norma_id: norm-mad-d-9-2025
+- norma_id: norm-es-rd-659-2023
 ---
-
 # Instrucciones de 17 de julio de 2026, de la Dirección General de Educación Secundaria, Formación Profesional y Régimen Especial, relativas al acceso y admisión de alumnos para cursar Ciclos Formativos de Grado Básico en Centros Públicos de Educación de Personas Adultas curso 2026-2027.
 
 ## Preámbulo
@@ -40,14 +44,14 @@ Instrucciones de la Dirección General de Educación Secundaria, Formación
 Profesional y Régimen Especial relativas al acceso y admisión de alumnos para 
 cursar Ciclos Formativos de Grado Básico  en Centros Públicos de Educación de 
 Personas Adultas en el curso escolar 2026-2027. 
-El artículo  89 del Real Decreto 659/2023, de 18 de julio, por el que se desarrolla la 
+El artículo  89 del [Real Decreto 659/2023](../../canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, por el que se desarrolla la 
 ordenación del Sistema de Formación Profesional , recoge que se podrán  ofertar ciclos 
 formativos de grado básico dirigidos a quienes hayan cumplido al menos diecisiete años, 
 cuando su historia escolar así lo aconseje. 
-El Decreto 9/2025, de 26 de marzo, del Consejo de Gobierno, establece para la 
+El [Decreto 9/2025](../03_ordenacion_curricular_y_ensenanzas/D9_2025_planes_estudio_titulos_formacion_profesional_grado_basico_madrid.md), de 26 de marzo, del Consejo de Gobierno, establece para la 
 Comunidad de Madrid los planes de estudios de veinticinco títulos de formación 
 profesional de grado básico. 
-Los artículos 9.2 y 10.3 del Decreto 27/2025 de 21 de mayo, del Consejo de Gobierno, 
+Los artículos 9.2 y 10.3 del [Decreto 27/2025](../03_ordenacion_curricular_y_ensenanzas/D27_2025_ordenacion_organizacion_sistema_formacion_profesional_madrid.md) de 21 de mayo, del Consejo de Gobierno, 
 por el que se regula la ordenación y organización del Sistema de Formación Profesional 
 de la Comunidad de Madrid,  prevé la posibilidad de ofertar ciclos de formación 
 profesional básica a las personas adultas. 
@@ -149,7 +153,7 @@ Cualificación Profesional Inicial o la Educación Secundaria Obligatoria, sin
 haberlos superado. 
 • Certificado de haber superado un Programa Profesional de Modalidad General o 
 Especial de los establecidos por la Co munidad de Madrid en aplicación  del 
-Decreto 27/2025, de 21 de mayo. 
+[Decreto 27/2025](../03_ordenacion_curricular_y_ensenanzas/D27_2025_ordenacion_organizacion_sistema_formacion_profesional_madrid.md), de 21 de mayo. 
 • Certificado de ser perceptor de renta mínima de inserción o pertenencia a 
 unidad familiar perceptora de renta mínima de inserción. 
 • Título acreditativo de familia numerosa de categoría general o especial. 

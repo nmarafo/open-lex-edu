@@ -37,13 +37,29 @@ relaciones:
   - norma_id: norm-and-l17-2007
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-l-39-2015
+fundamentos_derecho:
+- norma_id: norm-and-l12-2007-promocion-igualdad-genero-andalucia
+- norma_id: norm-and-l17-2007
+- norma_id: norm-and-l6-2006-gobierno-comunidad-autonoma-andalucia
+- norma_id: norm-and-d101-2023-ordenacion-curriculo-educacion-primaria-andalucia
+- norma_id: norm-and-d102-2023-ordenacion-curriculo-educacion-secundaria-obligatoria-andalucia
+- norma_id: norm-and-o-30-5-2023-bachillerato
+- norma_id: norm-and-o-30-5-2023-eso
+- norma_id: norm-and-o-30-5-2023-infantil
+- norma_id: norm-and-d328-2010
+- norma_id: norm-and-o15-1-2021-atencion-diversidad-orientacion-educativa-andalucia
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-es-l-39-2015
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-rd-157-2022
+- norma_id: norm-es-2010-12201
 ---
-
-# Orden de 30 de mayo de 2023, por la que se desarrolla el currículo correspondiente a la etapa de Educación Primaria en la Comunidad Autónoma de Andalucía, se regulan determinados aspectos de la atención a la diversidad y a las diferencias individuales, se establece la ordenación de la evaluación del proceso de aprendizaje del alumnado y se determina el proceso de tránsito entre las diferentes etapas educativas.
+# [Orden de 30 de mayo de 2023](./O30_5_2023_desarrollo_curriculo_evaluacion_bachillerato_andalucia.md), por la que se desarrolla el currículo correspondiente a la etapa de Educación Primaria en la Comunidad Autónoma de Andalucía, se regulan determinados aspectos de la atención a la diversidad y a las diferencias individuales, se establece la ordenación de la evaluación del proceso de aprendizaje del alumnado y se determina el proceso de tránsito entre las diferentes etapas educativas.
 
 ## Preámbulo
 
-Orden de 30 de mayo de 2023, por la que se desarrolla el currículo 
+[Orden de 30 de mayo de 2023](./O30_5_2023_desarrollo_curriculo_evaluacion_bachillerato_andalucia.md), por la que se desarrolla el currículo 
 correspondiente a la etapa de Educación Primaria en la Comunidad Autónoma 
 de Andalucía, se regulan determinados aspectos de la atención a la diversidad 
 y a las diferencias individuales, se establece la ordenación de la evaluación 
@@ -52,7 +68,7 @@ entre las diferentes etapas educativas.
 La Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la Ley Orgánica 
 2/2006, de 3 de mayo, de Educación, ha introducido cambios que afectan a la etapa 
 de Educación Primaria. En cumplimiento de estas previsiones legales, el Gobierno ha 
-regulado esta etapa mediante el Real Decreto 157/2022, de 1 de marzo, por el que se 
+regulado esta etapa mediante el [Real Decreto 157/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD157_2022_establecen_ordenacion_ensenanzas_minimas_educacion_primaria.md), de 1 de marzo, por el que se 
 establecen la ordenación y las enseñanzas mínimas de la Educación Primaria.
 La Comunidad Autónoma de Andalucía ostenta la competencia compartida para el 
 establecimiento de los planes de estudio, incluida la ordenación curricular, de conformidad 
@@ -61,19 +77,19 @@ perjuicio de lo recogido en el artículo 149.1.30.ª de la Constitución Españo
 cual corresponde al Estado dictar las normas básicas para el desarrollo de su artículo 27, 
 a fin de garantizar el cumplimiento de las obligaciones de los poderes públicos en esta 
 materia.
-En el ejercicio de esta competencia se ha publicado el Decreto 101/2023, de 9 de 
+En el ejercicio de esta competencia se ha publicado el [Decreto 101/2023](./D101_2023_ordenacion_curriculo_educacion_primaria_andalucia.md), de 9 de 
 mayo, por el que se establece la ordenación y el currículo de la etapa de Educación 
 Primaria en la Comunidad Autónoma de Andalucía, de conformidad con lo dispuesto en 
-la Ley Orgánica 2/2006, de 3 de mayo, de Educación, y en el Real Decreto 157/2022, de 1 
+la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, y en el [Real Decreto 157/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD157_2022_establecen_ordenacion_ensenanzas_minimas_educacion_primaria.md), de 1 
 de marzo, quedando derogado el Decreto 97/2015, de 3 de marzo, por el que se establece 
 la ordenación y el currículo de la Educación Primaria en la Comunidad Autónoma de 
 Andalucía.
-Como desarrollo del Decreto 101/2023, de 9 de mayo, se hace necesario disponer de 
+Como desarrollo del [Decreto 101/2023](./D101_2023_ordenacion_curriculo_educacion_primaria_andalucia.md), de 9 de mayo, se hace necesario disponer de 
 un nuevo marco normativo, mediante la presente Orden, que regule en Andalucía la etapa 
 de Educación Primaria en aspectos curriculares y organizativos, así como en lo referente 
 al ámbito de la atención a la diversidad y a las diferencias individuales, a la evaluación, a 
 la promoción y al proceso de coordinación en el tránsito entre etapas educativas.
-La Ley 17/2007, de 10 de diciembre, de Educación de Andalucía y las orientaciones 
+La [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre, de Educación de Andalucía y las orientaciones 
 de la Unión Europea inciden en la necesidad de la adquisición de las competencias clave 
 por parte de la ciudadanía como condición indispensable para lograr que las personas 
 puedan alcanzar su pleno desarrollo personal, social y profesional. El aprendizaje basado 
@@ -81,13 +97,13 @@ en competencias incluye, además del «saber», el «saber hacer» y el «saber 
 Se trata de formar una ciudadanía competente a través de una educación que tenga en 
 cuenta las competencias clave que demanda la construcción de una sociedad plural, 
 dinámica, emprendedora, democrática y solidaria. Además, la educación debe fomentar 
-una igualdad real entre hombres y mujeres, tal y como se establece en la Ley 12/2007, de 
+una igualdad real entre hombres y mujeres, tal y como se establece en la [Ley 12/2007](../01_marco_normativo_general_y_organico/L12_2007_promocion_igualdad_genero_andalucia.md), de 
 26 de noviembre, para la promoción de la igualdad de género en Andalucía.
 En este sentido, la lectura se constituye como un factor didáctico y pedagógico 
 fundamental para el desarrollo y adquisición de los aprendizajes. Por ello, todos los 
 centros, al organizar su práctica docente, deberán garantizar la incorporación de un 
 tiempo diario de lectura planificada, no inferior a treinta minutos, a lo largo de todos los 
-cursos de la etapa, según lo recogido en el artículo 6 del Decreto 101/2023, de 9 de mayo.
+cursos de la etapa, según lo recogido en el artículo 6 del [Decreto 101/2023](./D101_2023_ordenacion_curriculo_educacion_primaria_andalucia.md), de 9 de mayo.
 El currículo de esta etapa en Andalucía ordena, organiza y relaciona los elementos 
 que determinan los procesos de enseñanza y aprendizaje. Este currículo concreta 
 las competencias específicas, los criterios de evaluación y los saberes básicos para 
@@ -154,7 +170,7 @@ la herramienta clave que ha de dar continuidad, coherencia y cohesión a la prog
 el desempeño competencial a lo largo del período que conforma la etapa de Educación 
 Primaria, ya que marcan los niveles de desempeño de las competencias clave.
 La presente orden se ha elaborado atendiendo a los principios de buena regulación 
-contenidos en el artículo 129 de la Ley 39/2015, de 1 de octubre, del Procedimiento 
+contenidos en el artículo 129 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento 
 Administrativo Común de las Administraciones Públicas: Principios de necesidad, 
 eficacia, proporcionalidad, seguridad jurídica, transparencia y eficiencia, en tanto que 
 persigue un interés general al proporcionar a la ciudadanía un marco normativo de las 
@@ -167,13 +183,13 @@ ordenamiento jurídico y permitiendo una gestión más eficiente de los recursos
 por lo que quedan justificados los objetivos que persigue la citada Ley. Además, en el 
 procedimiento de elaboración de esta Orden se ha permitido y facilitado la participación y 
 las aportaciones de las personas potenciales destinatarias a través de los procedimientos 
-de audiencia e información pública regulados en el artículo 133 de la citada Ley 39/2015, 
+de audiencia e información pública regulados en el artículo 133 de la citada [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), 
 de 1 de octubre. Por ello, contiene la regulación imprescindible para atender la necesidad 
 a cubrir con la norma y se dicta en coherencia con el ordenamiento jurídico autonómico.
 En su virtud, a propuesta de la Directora General de Ordenación, Inclusión, 
 Participación y Evaluación Educativa, de conformidad con lo previsto en la disposición 
-final tercera del Decreto 101/2023, de 9 de mayo, y en uso de las atribuciones conferidas 
-por el artículo 44.2 de la Ley 6/2006, de 24 de octubre, del Gobierno de la Comunidad 
+final tercera del [Decreto 101/2023](./D101_2023_ordenacion_curriculo_educacion_primaria_andalucia.md), de 9 de mayo, y en uso de las atribuciones conferidas 
+por el artículo 44.2 de la [Ley 6/2006](../01_marco_normativo_general_y_organico/L6_2006_gobierno_comunidad_autonoma_andalucia.md), de 24 de octubre, del Gobierno de la Comunidad 
 Autónoma de Andalucía,
 D I S P O N G O
 CAPÍTULO I
@@ -193,7 +209,7 @@ de Educación Primaria en la Comunidad Autónoma de Andalucía.
 que impartan estas enseñanzas.
 #### Artículo 2. Elementos y estructura del currículo.
 1. La definición y los elementos del currículo son los establecidos en el artículo 3 del 
-Decreto 101/2023, de 9 de mayo.
+[Decreto 101/2023](./D101_2023_ordenacion_curriculo_educacion_primaria_andalucia.md), de 9 de mayo.
 2. El currículo de Educación Primaria, incorporando lo dispuesto en el Real Decreto 
 157/2022, de 1 de marzo, por el que se establecen la ordenación y las enseñanzas 
 mínimas de la Educación Primaria, se fija en los Anexos I, II y III, con el siguiente desglose:
@@ -209,7 +225,7 @@ docentes puedan agrupar las distintas áreas en ámbitos, en función de la nece
 adecuación a su contexto específico, así como a su alumnado, teniendo en cuenta lo 
 recogido en su Proyecto educativo.
 4. El profesorado integrante de los distintos equipos de ciclo elaborará las 
-programaciones didácticas, según lo dispuesto en el artículo 27 del Decreto 328/2010, 
+programaciones didácticas, según lo dispuesto en el artículo 27 del [Decreto 328/2010](../04_organizacion_escolar_y_funcionamiento/D328_2010_reglamento_organico_escuelas_infantiles_colegios_primaria_andalucia.md), 
 de 13 de julio, por el que se aprueba el Reglamento Orgánico de las escuelas infantiles 
 de segundo ciclo, de los colegios de educación primaria, de los colegios de educación 
 infantil y primaria, y de los centros públicos específicos de educación especial, de las 
@@ -218,7 +234,7 @@ mediante la concreción de las competencias específicas, de los criterios de ev
 de la adecuación de los saberes básicos y de su vinculación con dichos criterios de 
 evaluación, así como el establecimiento de situaciones de aprendizaje que integren estos 
 elementos y contribuyan a la adquisición de las competencias, respetando los principios 
-pedagógicos regulados en el artículo 6 del Decreto 101/2023, de 9 de mayo.
+pedagógicos regulados en el artículo 6 del [Decreto 101/2023](./D101_2023_ordenacion_curriculo_educacion_primaria_andalucia.md), de 9 de mayo.
 #### Artículo 3. Situaciones de aprendizaje.
 1. Las programaciones didácticas contemplarán situaciones de aprendizaje en las 
 que se integren los elementos curriculares de las distintas áreas para garantizar que 
@@ -226,7 +242,7 @@ la práctica educativa atienda a la diversidad, a las características personale
 necesidades, a los intereses, a la igualdad efectiva entre hombres y mujeres y al estilo 
 cognitivo del alumnado.
 2. Para el desarrollo de las situaciones de aprendizaje se tendrá en consideración lo 
-recogido en el artículo 7 del Decreto 101/2023, de 9 de mayo, así como las orientaciones 
+recogido en el artículo 7 del [Decreto 101/2023](./D101_2023_ordenacion_curriculo_educacion_primaria_andalucia.md), de 9 de mayo, así como las orientaciones 
 del Anexo IV.
 #### Artículo 4. Autonomía de los centros docentes.
 1. Los centros docentes desarrollarán y concretarán, en su caso, el currículo en su 
@@ -239,7 +255,7 @@ educativo las programaciones didácticas de cada una de las áreas.
 las líneas de actuación en la programación didáctica, incluyendo las distintas medidas 
 de atención a la diversidad y a las diferencias individuales que deban llevarse a cabo de 
 acuerdo con las necesidades del alumnado y en el marco establecido en el capítulo V del 
-Decreto 101/2023, de 9 de mayo.
+[Decreto 101/2023](./D101_2023_ordenacion_curriculo_educacion_primaria_andalucia.md), de 9 de mayo.
 4. El profesorado concretará para cada curso la programación didáctica, planificando, 
 de esa forma, su actividad educativa.
 5. Los centros docentes promoverán compromisos educativos con los padres, madres 
@@ -255,7 +271,7 @@ decoración, de lectura, entre otros de naturaleza análoga.
 CAPÍTULO II
 Ordenación de la etapa y oferta educativa
 #### Artículo 5. Organización general de Educación Primaria.
-1. De acuerdo con lo establecido en el artículo 8.1 del Decreto 101/2023, de 9 de 
+1. De acuerdo con lo establecido en el artículo 8.1 del [Decreto 101/2023](./D101_2023_ordenacion_curriculo_educacion_primaria_andalucia.md), de 9 de 
 mayo, el alumnado debe cursar las siguientes áreas:
 a) Conocimiento del Medio Natural, Social y Cultural.
 b) Educación Artística.
@@ -266,7 +282,7 @@ f) Matemáticas.
 g) Segunda Lengua Extranjera en el tercer ciclo.
 2. A las áreas incluidas en el apartado 1, se añadirá en sexto curso el área de 
 Educación en Valores Cívicos y Éticos.
-3. De acuerdo con lo establecido en el artículo 9 del Decreto 101/2023, de 9 de mayo, 
+3. De acuerdo con lo establecido en el artículo 9 del [Decreto 101/2023](./D101_2023_ordenacion_curriculo_educacion_primaria_andalucia.md), de 9 de mayo, 
 el alumnado podrá cursar enseñanzas de Religión en cada uno de los cursos de la etapa 
 a elección de los padres, madres o personas que ejerzan su tutela legal. Asimismo, aquel 
 alumnado que no haya optado por cursar dichas enseñanzas recibirá la debida atención 
@@ -303,7 +319,7 @@ Programa.
 ciclo, podrán configurar en su oferta educativa el desarrollo de Proyectos interdisciplinares. 
 Todo ello, para garantizar el desarrollo integrado de todas las competencias de la etapa 
 y la incorporación de los valores enunciados en los principios pedagógicos recogidos 
-en el artículo 6 del Decreto 101/2023, de 9 de mayo, según se determine en su Proyecto 
+en el artículo 6 del [Decreto 101/2023](./D101_2023_ordenacion_curriculo_educacion_primaria_andalucia.md), de 9 de mayo, según se determine en su Proyecto 
 educativo de centro.
 2. Los Proyectos interdisciplinares tendrán un carácter eminentemente práctico.
 3. El equipo de ciclo presentará los Proyectos interdisciplinares al Claustro para su 
@@ -326,7 +342,7 @@ que, por tanto, no implica aumento de plantilla del mismo.
 centros docentes comunicarán al Servicio de Inspección de la Delegación Territorial con 
 competencias en materia de educación sus Proyectos interdisciplinares aprobados.
 #### Artículo 7. Área Lingüística de carácter transversal.
-1. Según lo establecido en el artículo 8.9 del Decreto 101/2023, de 9 de mayo, el 
+1. Según lo establecido en el artículo 8.9 del [Decreto 101/2023](./D101_2023_ordenacion_curriculo_educacion_primaria_andalucia.md), de 9 de mayo, el 
 Área Lingüística de carácter transversal se impartirá para el alumnado que presente 
 dificultades en la adquisición de la competencia en comunicación lingüística.
 2. Se podrá acceder al Área Lingüística de carácter transversal al inicio de curso en 
@@ -386,7 +402,7 @@ grado de desarrollo de las mismas.
 4. La evaluación será continua y global por estar inmersa en el proceso de enseñanza 
 y aprendizaje y por tener en cuenta el progreso del alumnado, con el fin de detectar 
 las dificultades en el momento en que se produzcan, averiguar sus causas y, en 
-consecuencia, de acuerdo con lo dispuesto en el Capítulo V del Decreto 101/2023, de 
+consecuencia, de acuerdo con lo dispuesto en el Capítulo V del [Decreto 101/2023](./D101_2023_ordenacion_curriculo_educacion_primaria_andalucia.md), de 
 9 de mayo, adoptar las medidas necesarias dirigidas a garantizar la adquisición de las 
 competencias clave, que le permita continuar adecuadamente su proceso de aprendizaje.
 5. El carácter formativo de la evaluación propiciará la mejora constante del proceso 
@@ -512,7 +528,7 @@ cada área decidirá la calificación de la misma. Esta calificación ha de ser 
 tomando como referencia la superación de las competencias específicas del área. Para 
 ello, se tendrán como referentes los criterios de evaluación, a través de los cuales se 
 valorará el grado de consecución de las competencias específicas.
-4. Teniendo en cuenta lo establecido en el artículo 26.3 del Real Decreto 157/2022, 
+4. Teniendo en cuenta lo establecido en el artículo 26.3 del [Real Decreto 157/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD157_2022_establecen_ordenacion_ensenanzas_minimas_educacion_primaria.md), 
 de 1 de marzo, en el caso de los ámbitos que integren distintas áreas, el resultado de la 
 evaluación se expresará mediante una única calificación, sin perjuicio de los procedimientos 
 que puedan establecerse para mantener informados de su evolución en las diferentes 
@@ -541,7 +557,7 @@ etapa, así como en el Expediente y en el Historial académico del alumnado. Los
 docentes establecerán en su Proyecto educativo el procedimiento de concesión de la 
 Mención Honorífica.
 #### Artículo 14. Evaluación de diagnóstico.
-1. De conformidad con lo establecido en el artículo 13 del Decreto 101/2023, 
+1. De conformidad con lo establecido en el artículo 13 del [Decreto 101/2023](./D101_2023_ordenacion_curriculo_educacion_primaria_andalucia.md), 
 de 9 de mayo, en el cuarto curso de Educación Primaria todos los centros realizarán 
 una Evaluación de diagnóstico de las competencias adquiridas por el alumnado. Esta 
 evaluación no tendrá efectos académicos y tendrá carácter informativo, formativo 
@@ -559,7 +575,7 @@ normalización e inclusión, y asegurará su no discriminación, así como la ig
 en el acceso y la permanencia en el Sistema Educativo, para lo cual se tendrán en cuenta 
 las medidas de atención a la diversidad y a las diferencias individuales contempladas en 
 esta Orden y en el resto de la normativa que resulte de aplicación.
-2. En función de lo establecido en el artículo 18 del Decreto 101/2023, de 9 de mayo, 
+2. En función de lo establecido en el artículo 18 del [Decreto 101/2023](./D101_2023_ordenacion_curriculo_educacion_primaria_andalucia.md), de 9 de mayo, 
 se establecerán las medidas más adecuadas, tanto de acceso como de adaptación de 
 las condiciones de realización de las evaluaciones, para que las mismas se apliquen al 
 alumnado con necesidad específica de apoyo educativo conforme a lo recogido en su 
@@ -585,14 +601,14 @@ y que, por presentar graves carencias en la comunicación lingüística en lengu
 reciba una atención específica en este ámbito, se tendrá en cuenta los informes que, a 
 tales efectos, elabore el profesorado responsable de dicha atención.
 6. El alumnado escolarizado en el curso inmediatamente inferior al que le 
-correspondería por edad, al que se refiere el artículo 17.3 del Decreto 101/2023, de 9 
+correspondería por edad, al que se refiere el artículo 17.3 del [Decreto 101/2023](./D101_2023_ordenacion_curriculo_educacion_primaria_andalucia.md), de 9 
 de mayo, se podrá incorporar al grupo correspondiente a su edad, cuando a juicio de la 
 persona que ejerza la tutoría, con el acuerdo del equipo docente y asesorado por el equipo 
 de orientación educativa, haya superado el desfase curricular que presentaba. En caso de 
 desacuerdo del equipo docente, la decisión se tomará por mayoría simple de votos.
 ### Sección 4.ª Promoción del alumnado
 #### Artículo 16. Promoción del alumnado.
-1. Según lo establecido en el artículo 12 del Decreto 101/2023, de 9 de mayo, al finalizar 
+1. Según lo establecido en el artículo 12 del [Decreto 101/2023](./D101_2023_ordenacion_curriculo_educacion_primaria_andalucia.md), de 9 de mayo, al finalizar 
 cada uno de los ciclos de la etapa y como consecuencia del proceso de evaluación, el 
 equipo docente, de manera colegiada, adoptará las decisiones correspondientes sobre 
 la promoción del alumnado, tomando especialmente en consideración la información 
@@ -633,7 +649,7 @@ aprendizaje del alumnado.
 procedimientos de evaluación y promoción a los que se refiere el artículo 9.7, incluyendo 
 la forma en la que los padres, madres o personas que ejerzan la tutela legal del alumnado 
 puedan ser oídos para la adopción de la decisión de promoción.
-9. Tal y como establece el artículo 17.5 del Decreto 101/2023, de 9 de mayo, la 
+9. Tal y como establece el artículo 17.5 del [Decreto 101/2023](./D101_2023_ordenacion_curriculo_educacion_primaria_andalucia.md), de 9 de mayo, la 
 escolarización del alumnado con altas capacidades intelectuales se flexibilizará de 
 conformidad con la normativa vigente, de forma que pueda reducirse la duración de 
 la misma, cuando se prevea que dicha medida es la más adecuada para su desarrollo 
@@ -642,7 +658,7 @@ personal y social.
 #### Artículo 17. Documentos oficiales de evaluación.
 1. Los documentos oficiales de evaluación son: las actas de evaluación, el expediente 
 académico, el historial académico, el Informe final de etapa y, en su caso, el informe personal 
-por traslado, de conformidad con el artículo 14 del Decreto 101/2023, de 9 de mayo.
+por traslado, de conformidad con el artículo 14 del [Decreto 101/2023](./D101_2023_ordenacion_curriculo_educacion_primaria_andalucia.md), de 9 de mayo.
 2. El historial académico y, en su caso, el informe personal por traslado se consideran 
 documentos básicos para garantizar la movilidad del alumnado por todo el territorio nacional.
 3. En los documentos oficiales de evaluación y en lo referente a la obtención, 
@@ -661,7 +677,7 @@ teniendo en cuenta lo dispuesto sobre gestión documental en el Decreto 622/2019
 racionalización organizativa de la Junta de Andalucía. Estos documentos oficiales serán 
 supervisados por la Inspección educativa.
 #### Artículo 18. Actas de evaluación.
-1. Las actas de evaluación, reguladas en el artículo 26 del Real Decreto 157/2022, de 
+1. Las actas de evaluación, reguladas en el artículo 26 del [Real Decreto 157/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD157_2022_establecen_ordenacion_ensenanzas_minimas_educacion_primaria.md), de 
 1 de marzo, se ajustarán a los modelos que se incluyen como Anexo VI.a, se extenderán 
 para cada uno de los cursos y se cerrarán al término del período lectivo ordinario.
 2. Las actas de evaluación comprenderán la relación nominal del alumnado que 
@@ -682,7 +698,7 @@ dicha área.
 grupo, con el visto bueno de la persona que ejerza la dirección, y serán archivadas y 
 custodiadas en la secretaría del centro.
 #### Artículo 19. Expediente académico.
-1. El expediente académico, regulado en el artículo 27 del Real Decreto 157/2022, 
+1. El expediente académico, regulado en el artículo 27 del [Real Decreto 157/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD157_2022_establecen_ordenacion_ensenanzas_minimas_educacion_primaria.md), 
 de 1 de marzo, se ajustará al modelo que se incluye como Anexo VI.b y es el documento 
 oficial que refleja la información relativa al proceso de evaluación y promoción.
 2. El expediente académico incluirá los datos de identificación del centro docente y del 
@@ -715,7 +731,7 @@ alumna, previa petición de dicho centro.
 #### Artículo 21. Informe final de etapa.
 Los centros docentes emitirán un informe final de etapa, cumplimentado por la 
 persona que ejerza la tutoría de cada grupo, según lo establecido en el artículo 15.5 del 
-Real Decreto 157/2022, de 1 de marzo, y el artículo 12.4 del Decreto 101/2023, de 9 de 
+[Real Decreto 157/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD157_2022_establecen_ordenacion_ensenanzas_minimas_educacion_primaria.md), de 1 de marzo, y el artículo 12.4 del [Decreto 101/2023](./D101_2023_ordenacion_curriculo_educacion_primaria_andalucia.md), de 9 de 
 mayo, que se ajustará al modelo que se incluye como Anexo VI.d e incluirá los datos de 
 identificación del centro docente y del alumnado, las calificaciones obtenidas en cada una 
 de las áreas a lo largo de la etapa, así como el grado de desarrollo de las competencias 
@@ -742,7 +758,7 @@ se hubieran realizado, la aplicación, en su caso, de medidas de atención a la 
 y a las diferencias individuales y todas aquellas observaciones que se consideren 
 oportunas acerca del progreso general del alumno o alumna.
 #### Artículo 23. Informe final de ciclo.
-1. Teniendo en cuenta el artículo 12.3 del Decreto 101/2023, de 9 de mayo, al finalizar 
+1. Teniendo en cuenta el artículo 12.3 del [Decreto 101/2023](./D101_2023_ordenacion_curriculo_educacion_primaria_andalucia.md), de 9 de mayo, al finalizar 
 cada uno de los ciclos, la persona que ejerza la tutoría emitirá un informe sobre el 
 grado de adquisición de las competencias clave del alumnado, indicando en su caso las 
 medidas de refuerzo que se deben contemplar en el ciclo o etapa siguiente.
@@ -776,7 +792,7 @@ CAPÍTULO IV
 Atención a la diversidad y a las diferencias individuales
 ### Sección 1.ª Disposiciones de carácter general
 #### Artículo 26. Concepto y principios generales de actuación.
-1. Atendiendo al artículo 17 del Decreto 101/2023, de 9 de mayo, la atención a la 
+1. Atendiendo al artículo 17 del [Decreto 101/2023](./D101_2023_ordenacion_curriculo_educacion_primaria_andalucia.md), de 9 de mayo, la atención a la 
 diversidad y a las diferencias individuales en la etapa de Educación Primaria se orientará 
 a garantizar una educación de calidad que asegurará la equidad e inclusión educativa y a 
 atender a la compensación de los efectos que las desigualdades de origen cultural, social 
@@ -788,7 +804,7 @@ cuenta sus capacidades de expresión y comprensión y asegurando la motivación 
 compromiso y la cooperación mutua.
 2. Los principios generales de actuación para la atención a la diversidad y a las 
 diferencias individuales son los establecidos con carácter general en el artículo 18 del 
-Decreto 101/2023, de 9 de mayo.
+[Decreto 101/2023](./D101_2023_ordenacion_curriculo_educacion_primaria_andalucia.md), de 9 de mayo.
 3. Los centros docentes deberán dar prioridad a la organización de las medidas 
 de atención a la diversidad y a las diferencias individuales respecto a otras opciones 
 organizativas para la configuración de las enseñanzas de esta etapa en el ámbito de su 
@@ -868,7 +884,7 @@ d) Alumnado que presente necesidades específicas de apoyo educativo que le
 impidan seguir con aprovechamiento su proceso de aprendizaje. En este caso, el 
 alumno o la alumna deberá contar con una evaluación psicopedagógica que refleje tal 
 circunstancia, así como la necesidad de un Programa individualizado de refuerzo del 
-aprendizaje, incluyendo al alumnado referenciado en el artículo 8.8 del Decreto 101/2023, 
+aprendizaje, incluyendo al alumnado referenciado en el artículo 8.8 del [Decreto 101/2023](./D101_2023_ordenacion_curriculo_educacion_primaria_andalucia.md), 
 de 9 de mayo.
 2. Como medida organizativa, se podrán desarrollar los programas de refuerzo del 
 aprendizaje, posibilitando cursarlos en niveles inferiores al que se encuentre el alumnado. 
@@ -943,7 +959,7 @@ f) La atención educativa al alumnado por situaciones personales de hospitalizac
 de convalecencia domiciliaria u objeto de medidas judiciales.
 4. Asimismo, se consideran medidas específicas de carácter temporal aquellas que 
 inciden en la flexibilización temporal para el desarrollo curricular, de conformidad con lo 
-previsto en los apartados 3, 4 y 5 del artículo 17 del Decreto 101/2023, de 9 de mayo.
+previsto en los apartados 3, 4 y 5 del artículo 17 del [Decreto 101/2023](./D101_2023_ordenacion_curriculo_educacion_primaria_andalucia.md), de 9 de mayo.
 ### Sección 5.ª Programas de adaptación curricular
 #### Artículo 34. Programas de adaptación curricular.
 1. La escolarización del alumnado que siga programas de adaptación curricular se 
@@ -1007,7 +1023,7 @@ Coordinación en el tránsito entre etapas
 ### Sección 1.ª Coordinación entre la etapa de Educación Infantil y la etapa de Educación 
 Primaria
 #### Artículo 38. Proceso de tránsito.
-De conformidad con lo establecido en el artículo 20.4 del Decreto 101/2023, de 9 de 
+De conformidad con lo establecido en el artículo 20.4 del [Decreto 101/2023](./D101_2023_ordenacion_curriculo_educacion_primaria_andalucia.md), de 9 de 
 mayo, con objeto de garantizar una adecuada transición del alumnado de la etapa de 
 Educación Infantil a la etapa de Educación Primaria y facilitar la continuidad de su proceso 
 educativo y, en su caso, de las medidas educativas encaminadas a alcanzar el máximo 
@@ -1082,7 +1098,7 @@ educativo.
 ### Sección 2.ª Coordinación entre la etapa de Educación Primaria y la etapa de Educación 
 Secundaria Obligatoria
 #### Artículo 42. Proceso de tránsito.
-De conformidad con lo establecido en el artículo 27.4 del Decreto 102/2023, de 9 
+De conformidad con lo establecido en el artículo 27.4 del [Decreto 102/2023](./D102_2023_ordenacion_curriculo_educacion_secundaria_obligatoria_andalucia.md), de 9 
 de mayo, por el que se establece la ordenación y el currículo de la etapa de Educación 
 Secundaria Obligatoria en la Comunidad Autónoma de Andalucía, con el fin de garantizar 
 la adecuada transición del alumnado de la etapa de Educación Primaria a la etapa de 
@@ -1197,7 +1213,7 @@ centros docentes, teniendo en cuenta las especialidades de su legislación espec
 Disposición transitoria única. Calendario de aplicación.
 La presente orden será de aplicación a partir del curso escolar 2023/2024.
 Disposición derogatoria única. Derogación normativa.
-1. Queda derogada la Orden de 15 de enero de 2021, por la que se desarrolla el 
+1. Queda derogada la [Orden de 15 de enero de 2021](../06_atencion_diversidad_y_orientacion/O15_1_2021_atencion_diversidad_orientacion_educativa_andalucia.md), por la que se desarrolla el 
 currículo correspondiente a la etapa de Educación Primaria en la Comunidad Autónoma 
 de Andalucía, se regulan determinados aspectos de la atención a la diversidad, se 
 establece la ordenación de la evaluación del proceso de aprendizaje del alumnado y se 
@@ -1214,7 +1230,7 @@ o parcialmente, normas dictadas por el Estado al amparo del artículo 149.1.30.�
 Constitución Española, recogidas en los artículos 18.2, 18.3 de «Organización», 20.1, 
 20.3 de «Evaluación durante la etapa», 21 de la «Evaluación de diagnóstico», 75.2 de 
 «Inclusión educativa, social y laboral» y de la Disposición adicional Vigesimotercera de 
-los «Datos personales de los alumnos», de la Ley Orgánica 2/2006, de 3 de mayo.
+los «Datos personales de los alumnos», de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo.
 2. El contenido de los artículos 4.1, 4.5, 5.1, 5.2, 5.3, 5.6, 8.3, 8.4, 9.4, 9.6, 10.7, 12.5, 
 14.1, 15.1, 15.4, 15.5, 15.6, 16.1, 16.4, 16.7, 16.9, 17.1, 17.2, 17.3, 18.2, 18.4, 18.6, 19.2, 
 19.3, 20.2, 20.3, 20.4, 22.3, 22.4, 23.1, 27.3, 28.2, 36.2, 37.1, 38 y 42 reproduce, total 
@@ -1230,7 +1246,7 @@ evaluación objetiva», 25.1, 25.2 de los «Documentos e informes de evaluación
 26.3, 26.4 de las «Actas de evaluación», 27.1, 27.2 del «Expediente académico», 28.2, 
 28.3 del «Historial académico», 29.1, 29.2 del «Informe personal por traslado», 30.2 de 
 la «Autenticidad, seguridad y confidencialidad» y de la «Disposición adicional primera. 
-Enseñanzas de religión», del Real Decreto 157/2022, de 1 de marzo.
+Enseñanzas de religión», del [Real Decreto 157/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD157_2022_establecen_ordenacion_ensenanzas_minimas_educacion_primaria.md), de 1 de marzo.
 ### Disposición final tercera. Entrada en vigor.
 La presente orden entrará en vigor el día siguiente al de su publicación en el Boletín 
 Oficial de la Junta de Andalucía.
@@ -16857,7 +16873,7 @@ Hoja 1 de 2
 ANEXO VI
 Documentos oficiales de evaluación
 EVALUACIÓN DEL PROCESO DE APRENDIZAJE DEL ALUMNADO DE EDUCACIÓN PRIMARIA
-(Enseñanzas reguladas en el Decreto 101/2023, de 9 de mayo, por el que se establece la ordenación y el currículo de la etapa de Educación Primaria en la Comunidad Autónoma de Andalucía)
+(Enseñanzas reguladas en el [Decreto 101/2023](./D101_2023_ordenacion_curriculo_educacion_primaria_andalucia.md), de 9 de mayo, por el que se establece la ordenación y el currículo de la etapa de Educación Primaria en la Comunidad Autónoma de Andalucía)
 ACTA DE EVALUACIÓN DEL PERIODO LECTIVO ORDINARIO DE    ☐ 1º     ☐ 2º      ☐ 3º      ☐ 4º      ☐ 5º     ☐ 6º   CURSO          
                
 GRUPO: ______     CURSO ACADÉMICO: _____/_____
@@ -16937,7 +16953,7 @@ Hoja 170 de 209
 ANEXO VI.b
 Hoja 1 de 14
 EVALUACIÓN DEL PROCESO DE APRENDIZAJE DEL ALUMNADO DE EDUCACIÓN PRIMARIA 
-(Enseñanzas reguladas en el Decreto 101/2023, de 9 de mayo, por el que se establece la ordenación y el currículo de la etapa de Educación
+(Enseñanzas reguladas en el [Decreto 101/2023](./D101_2023_ordenacion_curriculo_educacion_primaria_andalucia.md), de 9 de mayo, por el que se establece la ordenación y el currículo de la etapa de Educación
 Primaria en la Comunidad Autónoma de Andalucía)
 EXPEDIENTE ACADÉMICO
 1
@@ -17607,7 +17623,7 @@ OTRAS OBSERVACIONES:
 ANEXO VI.c
 Hoja 1 de 15
 EVALUACIÓN DEL PROCESO DE APRENDIZAJE DEL ALUMNADO DE EDUCACIÓN PRIMARIA
-(Enseñanzas reguladas en el Decreto 101/2023, de 9 de mayo, por el que se establece la ordenación y el currículo de la etapa de Educación
+(Enseñanzas reguladas en el [Decreto 101/2023](./D101_2023_ordenacion_curriculo_educacion_primaria_andalucia.md), de 9 de mayo, por el que se establece la ordenación y el currículo de la etapa de Educación
 Primaria en la Comunidad Autónoma de Andalucía)
 HISTORIAL ACADÉMICO
 1
@@ -18255,7 +18271,7 @@ Fdo.: ..........................................................
 ANEXO VI.d
 Hoja 1 de 5
 EVALUACIÓN DEL PROCESO DE APRENDIZAJE DEL ALUMNADO DE EDUCACIÓN PRIMARIA
-(Enseñanzas reguladas en el Decreto 101/2023, de 9 de mayo, por el que se establece la ordenación y el currículo de la etapa de Educación
+(Enseñanzas reguladas en el [Decreto 101/2023](./D101_2023_ordenacion_curriculo_educacion_primaria_andalucia.md), de 9 de mayo, por el que se establece la ordenación y el currículo de la etapa de Educación
 Primaria en la Comunidad Autónoma de Andalucía)
 INFORME FINAL DE ETAPA
 1
@@ -18450,7 +18466,7 @@ Fdo.: __________________________                                                
 ANEXO VI.e
 Hoja 1 de 3
 EVALUACIÓN DEL PROCESO DE APRENDIZAJE DEL ALUMNADO DE EDUCACIÓN PRIMARIA
-(Enseñanzas reguladas en el Decreto 101/2023, de 9 de mayo, por el que se establece la ordenación y el currículo de la etapa de Educación
+(Enseñanzas reguladas en el [Decreto 101/2023](./D101_2023_ordenacion_curriculo_educacion_primaria_andalucia.md), de 9 de mayo, por el que se establece la ordenación y el currículo de la etapa de Educación
 Primaria en la Comunidad Autónoma de Andalucía)
 I  NFORME PERSONAL POR TRASLADO
  

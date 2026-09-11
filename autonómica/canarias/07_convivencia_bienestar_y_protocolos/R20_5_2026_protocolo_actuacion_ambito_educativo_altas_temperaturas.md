@@ -29,8 +29,10 @@ relaciones:
   - norm-can-l-6-2014
   - norm-es-lo-2-2006
 fuente_pdf_oficial: https://www.gobiernodecanarias.org/cmsgob1/export/sites/educacion/web/_galerias/descargas/otros/20260520_protocolo_actuacion_altas_temperaturas_abril_2026.pdf
+fundamentos_derecho:
+- norma_id: norm-can-l-6-2014
+- norma_id: norm-can-lo-1-2018
 ---
-
 # Protocolo de actuación en el ámbito educativo ante situaciones de altas temperaturas (Versión 3, Mayo 2026), de la Consejería de Educación, Formación Profesional, Actividad Física y Deportes.
 
 ## Cuerpo Dispositivo
@@ -99,11 +101,11 @@ Los poderes públicos tienen el inexcusable deber de garantizar un estado de bie
 ciudadanos y ciudadanas. La Constitución Española, en sus artículos 39 y 43, versa sobre la 
 protección social y el derecho a la protección de la salud. Estos vertebran los principios recto-
 res de la política social y económica, los cuales tienen un desarrollo legislativo posterior. Clara 
-muestra de ello es la Ley Orgánica 1/2018, de 5 de noviembre, de reforma del Estatuto de Au-
+muestra de ello es la [Ley Orgánica 1/2018](../01_marco_normativo_general_y_organico/LO1_2018_reforma_estatuto_autonomia_canarias.md), de 5 de noviembre, de reforma del Estatuto de Au-
 tonomía de Canarias, que establece en su artículo 13, los derechos de las personas menores 
 de edad en el contexto social y familiar; el artículo 19, que recoge el derecho a la protección  
 de la salud y el artículo 149, que refiere la competencia en materia de protección civil.
-Del mismo modo, la Ley 6/2014, de 25 de julio, Canaria de Educación no Universitaria , en 
+Del mismo modo, la [Ley 6/2014](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md), de 25 de julio, Canaria de Educación no Universitaria , en 
 su artículo 8, dispone que la Administración educativa establecerá medidas específicas des-
 tinadas a promover el bienestar y la mejora de la salud. 
 La prevención es indiscutiblemente, una herramienta esencial para minimizar de forma sig -

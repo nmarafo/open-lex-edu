@@ -17,8 +17,14 @@ estado: Vigente
 redaccion: original
 fuente_oficial: http://www.juntadeandalucia.es/boja/2002/58/3
 fuente_pdf_oficial: http://www.juntadeandalucia.es/boja/pdf/2002/58/3
+clasificacion:
+  categoria_canonica: 06_atencion_diversidad_y_orientacion
+  subcategoria: Atención a la diversidad y NEAE
+fundamentos_derecho:
+- norma_id: norm-and-l9-1999-solidaridad-en-la-educacion-andalucia
+- norma_id: norm-es-2001-7022
+- norma_id: norm-es-1998-10720
 ---
-
 # DECRETO 147/2002, de 14 de mayo, por el que se establece la ordenación de la atención educativa a los alumnos y alumnas con necesidades educativas especiales asociadas a sus capacidades personales.
 
 ## Preámbulo
@@ -117,7 +123,7 @@ en los principios de normalización, integración y atención indi-
 vidualizada, que han presidido la atención a las necesidades
 educativas especiales de los escolares en estas dos últimas
 décadas.
-En la Ley Orgánica 1/1990, de 3 de octubre, de Orde-
+En la [Ley Orgánica 1/1990](../../../estatal/02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md), de 3 de octubre, de Orde-
 nación General del Sistema Educativo, se consolidaron y actua-
 lizaron los principios por los cuales se ordena y regula la aten-
 ción educativa a los alumnos y alumnas con necesidades edu-
@@ -144,7 +150,7 @@ nomía, en lo referido a los alumnos y las alumnas con nece-
 sidades educativas especiales, ha sido ratificado y consolidado
 mediante la aprobación de dos leyes en las que se han esta-
 blecido las directrices a seguir en la atención a las personas
-con discapacidad. En la Ley 9/1999, de 18 de noviembre,
+con discapacidad. En la [Ley 9/1999](./L9_1999_solidaridad_en_la_educacion_andalucia.md), de 18 de noviembre,
 de Solidaridad en la Educación, se establece el objetivo general
 de mejorar y de complementar las condiciones de escolari-
 zación de los alumnos y alumnas con necesidades educativas
@@ -187,7 +193,7 @@ ciales debidas a los diferentes tipos y grados de capacidades
 personales de orden físico, psíquico, cognitivo o sensorial,
 mediante un conjunto de acciones que desarrollan y concretan
 las actuaciones previstas para este tipo de alumnado en la
-Ley 9/1999, de 18 de noviembre, de Solidaridad en la
+[Ley 9/1999](./L9_1999_solidaridad_en_la_educacion_andalucia.md), de 18 de noviembre, de Solidaridad en la
 Educación.
 
 ### Artículo 2. Ambito de aplicación.
@@ -292,7 +298,7 @@ b) Propuesta razonada de las ayudas, los apoyos y las
 adaptaciones que el alumno o alumna requiera.
 c) Propuesta de la modalidad de escolarización más ade-
 cuada a las características y necesidades del alumno o alumna.
-3. A los efectos previstos en el artículo 7 de la Ley 9/1999,
+3. A los efectos previstos en el artículo 7 de la [Ley 9/1999](./L9_1999_solidaridad_en_la_educacion_andalucia.md),
 de 18 de noviembre, el dictamen de escolarización se realizará
 al inicio de la escolarización y se revisará con carácter ordinario
 tras la conclusión de una etapa educativa y con carácter
@@ -460,7 +466,7 @@ en los centros docentes públicos y privados concertados de
 la Comunidad Autónoma de Andalucía, a excepción de los
 universitarios.
 2. Según lo establecido en el artículo 8.1 de la
-Ley 9/1999, de 18 de noviembre, el alumnado con disca-
+[Ley 9/1999](./L9_1999_solidaridad_en_la_educacion_andalucia.md), de 18 de noviembre, el alumnado con disca-
 pacidad psíquica, física o sensorial se escolarizará preferen-
 temente en los centros educativos ordinarios ubicados en su
 entorno, de acuerdo con la planificación educativa y garan-
@@ -473,7 +479,7 @@ a) En un grupo ordinario a tiempo completo.
 b) En un grupo ordinario con apoyos en períodos variables.
 c) En un aula de educación especial.
 4. De conformidad con lo establecido en el artículo 8.3
-de la Ley 9/1999, de 18 de noviembre, la escolarización del
+de la [Ley 9/1999](./L9_1999_solidaridad_en_la_educacion_andalucia.md), de 18 de noviembre, la escolarización del
 alumnado con discapacidad sólo se realizará en centros espe-
 cíficos de educación especial cuando, por sus especiales carac-
 terísticas o grado de discapacidad, sus necesidades educativas
@@ -499,7 +505,7 @@ escolares vacantes en los centros docentes sostenidos con fon-
 dos públicos, la Consejería de Educación y Ciencia podrá reser-
 var tres de ellos por unidad escolar para la atención del alum-
 nado con discapacidad, respetando en todo caso lo establecido
-en el artículo 5.1 de la Ley 9/1999, de 18 de noviembre,
+en el artículo 5.1 de la [Ley 9/1999](./L9_1999_solidaridad_en_la_educacion_andalucia.md), de 18 de noviembre,
 de Solidaridad en la Educación.
 
 ### Artículo 16. Atención especializada en educación infantil.
@@ -615,7 +621,7 @@ la consecución de los aprendizajes necesarios para obtener
 la titulación.
 4. De conformidad con el artículo 16 del Real Decre-
 to 676/1993, de 7 de mayo, y con la disposición adicional
-undécima del Real Decreto 777/1998, de 30 de abril, la Con-
+undécima del [Real Decreto 777/1998](../../../estatal/08_personal_docente/RD777_1998_desarrollan_determinados_aspectos_ordenacion_formacion_profesional.md), de 30 de abril, la Con-
 sejería de Educación y Ciencia establecerá las condiciones
 y el procedimiento para realizar adaptaciones curriculares que
 permitan al alumnado con necesidades educativas especiales
@@ -743,7 +749,7 @@ modalidad.
 
 tan en aulas o en centros específicos de educación especial.
 Conforme a lo establecido en el artículo 9 de la
-Ley 9/1999, de 18 de noviembre, las enseñanzas que se
+[Ley 9/1999](./L9_1999_solidaridad_en_la_educacion_andalucia.md), de 18 de noviembre, las enseñanzas que se
 impartan en aulas o centros específicos de educación especial
 habrán de organizarse del siguiente modo:
 1. Con carácter general, las enseñanzas en las aulas o
@@ -1015,7 +1021,7 @@ docentes que se acojan a lo establecido en el apar-
 tado 4 de la disposición transitoria novena de la Ley
 Orgánica 1/1990, de 3 de octubre, de Ordenación
 General del Sistema Educativo.
-La Ley Orgánica 1/1990, de 3 de octubre, de Ordenación
+La [Ley Orgánica 1/1990](../../../estatal/02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md), de 3 de octubre, de Ordenación
 General del Sistema Educativo, estableció en el apartado 4
 de su disposición transitoria novena que los funcionarios
 docentes que se jubilen voluntariamente al amparo de la misma
@@ -1031,13 +1037,13 @@ disposición concluía en 1996, la disposición transitoria pri-
 mera de la Ley Orgánica 9/1995, de 20 de noviembre, de
 la Participación, la Evaluación y el Gobierno de los Centros
 Docentes, prorrogó su vigencia durante el período de aplicación
-de la Ley Orgánica 1/1990, de 3 de octubre, es decir, hasta el
+de la [Ley Orgánica 1/1990](../../../estatal/02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md), de 3 de octubre, es decir, hasta el
 año 2002, de acuerdo con el calendario de implantación de
 la Ley. A su vez, el artículo 51 de la Ley 24/2001, de 27
 de diciembre, de Medidas Fiscales, Administrativas y de Orden
 Social, ha prorrogado de nuevo, por un período de cuatro
 años a partir del día 4 de octubre de 2002, la vigencia de
-la disposición transitoria novena de la Ley Orgánica 1/1990,
+la disposición transitoria novena de la [Ley Orgánica 1/1990](../../../estatal/02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md),
 de 3 de octubre.
 Con fecha 9 de abril de 2002 fue suscrito el Acuerdo
 que se incorpora como Anexo I, en el que se recogen deter-

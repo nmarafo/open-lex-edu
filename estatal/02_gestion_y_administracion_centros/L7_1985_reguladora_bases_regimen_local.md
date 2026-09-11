@@ -145,8 +145,9 @@ relaciones:
   articulos:
   - norma_id: '27'
   - norma_id: norm-es-1984-17387
+fundamentos_derecho:
+- norma_id: norm-es-1984-17387
 ---
-
 # Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local
 
 ## Preámbulo

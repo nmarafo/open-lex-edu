@@ -36,13 +36,28 @@ relaciones:
   - norma_id: norm-and-l17-2007
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-l-39-2015
+fundamentos_derecho:
+- norma_id: norm-and-l12-2007-promocion-igualdad-genero-andalucia
+- norma_id: norm-and-l17-2007
+- norma_id: norm-and-l6-2006-gobierno-comunidad-autonoma-andalucia
+- norma_id: norm-and-d149-2009-regulacion-centros-primer-ciclo-educacion-infantil-andalucia
+- norma_id: norm-and-d100-2023-ordenacion-curriculo-educacion-infantil-andalucia
+- norma_id: norm-and-o-30-5-2023-bachillerato
+- norma_id: norm-and-o-30-5-2023-eso
+- norma_id: norm-and-o-30-5-2023-primaria
+- norma_id: norm-and-d328-2010
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-es-l-39-2015
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-rd-95-2022
+- norma_id: norm-es-2010-12201
 ---
-
-# Orden de 30 de mayo de 2023, por la que se desarrolla el currículo correspondiente a la etapa de Educación Infantil en la Comunidad Autónoma de Andalucía, se regulan determinados aspectos de la atención a la diversidad y a las diferencias individuales, se establece la ordenación de la evaluación del proceso de aprendizaje del alumnado y se determinan los procesos de tránsito entre ciclos y con Educación Primaria.
+# [Orden de 30 de mayo de 2023](./O30_5_2023_desarrollo_curriculo_evaluacion_bachillerato_andalucia.md), por la que se desarrolla el currículo correspondiente a la etapa de Educación Infantil en la Comunidad Autónoma de Andalucía, se regulan determinados aspectos de la atención a la diversidad y a las diferencias individuales, se establece la ordenación de la evaluación del proceso de aprendizaje del alumnado y se determinan los procesos de tránsito entre ciclos y con Educación Primaria.
 
 ## Preámbulo
 
-Orden de 30 de mayo de 2023, por la que se desarrolla el currículo 
+[Orden de 30 de mayo de 2023](./O30_5_2023_desarrollo_curriculo_evaluacion_bachillerato_andalucia.md), por la que se desarrolla el currículo 
 correspondiente a la etapa de Educación Infantil en la Comunidad Autónoma 
 de Andalucía, se regulan determinados aspectos de la atención a la diversidad 
 y a las diferencias individuales, se establece la ordenación de la evaluación del 
@@ -51,7 +66,7 @@ entre ciclos y con Educación Primaria.
 La Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la Ley Orgánica 
 2/2006, de 3 de mayo, de Educación, ha introducido cambios que afectan a la etapa de 
 Educación Infantil. En cumplimiento de estas previsiones legales, el Gobierno ha regulado 
-esta etapa mediante el Real Decreto 95/2022, de 1 de febrero, por el que se establece la 
+esta etapa mediante el [Real Decreto 95/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD95_2022_establece_ordenacion_ensenanzas_minimas_educacion_infantil.md), de 1 de febrero, por el que se establece la 
 ordenación y las enseñanzas mínimas de la Educación Infantil.
 La Comunidad Autónoma de Andalucía ostenta la competencia compartida para el 
 establecimiento de los planes de estudio, incluida la ordenación curricular, de conformidad 
@@ -60,18 +75,18 @@ perjuicio de lo recogido en el artículo 149.1.30.ª de la Constitución Españo
 cual corresponde al Estado dictar las normas básicas para el desarrollo de su artículo 27, 
 a fin de garantizar el cumplimiento de las obligaciones de los poderes públicos en esta 
 materia.
-En el ejercicio de esta competencia se ha publicado el Decreto 100/2023, de 9 de 
+En el ejercicio de esta competencia se ha publicado el [Decreto 100/2023](./D100_2023_ordenacion_curriculo_educacion_infantil_andalucia.md), de 9 de 
 mayo, por el que se establece la ordenación y el currículo de la etapa de Educación 
 Infantil en la Comunidad Autónoma de Andalucía, de conformidad con lo dispuesto en la 
-Ley Orgánica 2/2006, de 3 de mayo, de Educación, y en el Real Decreto 95/2022, de 1 de 
+[Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, y en el [Real Decreto 95/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD95_2022_establece_ordenacion_ensenanzas_minimas_educacion_infantil.md), de 1 de 
 febrero, quedando derogado el Decreto 428/2008, de 29 de julio, por el que se establece 
 la ordenación y las enseñanzas correspondientes a la Educación Infantil en Andalucía.
-Como desarrollo del Decreto 100/2023, de 9 de mayo, se hace necesario disponer de 
+Como desarrollo del [Decreto 100/2023](./D100_2023_ordenacion_curriculo_educacion_infantil_andalucia.md), de 9 de mayo, se hace necesario disponer de 
 un nuevo marco normativo, mediante la presente orden, que regule en Andalucía la etapa 
 de Educación Infantil en aspectos curriculares y organizativos, así como en lo referente al 
 ámbito de la atención a la diversidad y a las diferencias individuales, a la evaluación y al 
 proceso de coordinación en el tránsito entre ciclos y etapas educativas.
-La Ley 17/2007, de 10 de diciembre, de Educación de Andalucía, y las orientaciones 
+La [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre, de Educación de Andalucía, y las orientaciones 
 de la Unión Europea inciden en la necesidad de la adquisición de las competencias clave 
 por parte de la ciudadanía como condición indispensable para lograr que las personas 
 puedan alcanzar su pleno desarrollo personal, social y profesional. El aprendizaje basado 
@@ -79,7 +94,7 @@ en competencias incluye, además del «saber», el «saber hacer» y el «saber 
 Se trata de formar una ciudadanía competente a través de una educación que tenga en 
 cuenta las competencias clave que demanda la construcción de una sociedad plural, 
 dinámica, emprendedora, democrática y solidaria. Además, la educación debe fomentar 
-una igualdad real entre hombres y mujeres, tal y como se establece en la Ley 12/2007, de 
+una igualdad real entre hombres y mujeres, tal y como se establece en la [Ley 12/2007](../01_marco_normativo_general_y_organico/L12_2007_promocion_igualdad_genero_andalucia.md), de 
 26 de noviembre, para la promoción de la igualdad de género en Andalucía. 
 El currículo de esta etapa en Andalucía ordena, organiza y relaciona los elementos 
 que determinan los procesos de enseñanza y aprendizaje. Este currículo concreta 
@@ -142,7 +157,7 @@ el desempeño competencial a lo largo del período que conforma la etapa de Educ
 Infantil, ya que marcan los niveles de desempeño de las competencias clave al finalizar 
 cada ciclo.
 Esta orden se ha elaborado atendiendo a los principios de buena regulación 
-contenidos en el artículo 129 de la Ley 39/2015, de 1 de octubre, del Procedimiento 
+contenidos en el artículo 129 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento 
 Administrativo Común de las Administraciones Públicas: principios de necesidad, eficacia, 
 proporcionalidad, seguridad jurídica, transparencia y eficiencia, en tanto que persigue un 
 interés general al proporcionar a la ciudadanía un marco normativo de las enseñanzas 
@@ -155,13 +170,13 @@ permitiendo una gestión más eficiente de los recursos públicos, por lo que qu
 justificados los objetivos que persigue la citada ley. Además, en el procedimiento de 
 elaboración de esta orden se ha permitido y facilitado la participación y las aportaciones 
 de las personas potenciales destinatarias a través de los procedimientos de audiencia 
-e información pública regulados en el artículo 133 de la citada Ley 39/2015, de 1 de 
+e información pública regulados en el artículo 133 de la citada [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de 
 octubre. Por ello, contiene la regulación imprescindible para atender la necesidad a cubrir 
 con la norma y se dicta en coherencia con el ordenamiento jurídico autonómico.
 En su virtud, a propuesta de la Directora General de Ordenación, Inclusión, 
 Participación y Evaluación Educativa, de conformidad con lo previsto en la disposición 
-final segunda del Decreto 100/2023, de 9 de mayo, y en uso de las atribuciones conferidas 
-por el artículo 44.2 de la Ley 6/2006, de 24 de octubre, del Gobierno de la Comunidad 
+final segunda del [Decreto 100/2023](./D100_2023_ordenacion_curriculo_educacion_infantil_andalucia.md), de 9 de mayo, y en uso de las atribuciones conferidas 
+por el artículo 44.2 de la [Ley 6/2006](../01_marco_normativo_general_y_organico/L6_2006_gobierno_comunidad_autonoma_andalucia.md), de 24 de octubre, del Gobierno de la Comunidad 
 Autónoma de Andalucía,
 D I S P O N G O
 CAPÍTULO I 
@@ -175,14 +190,14 @@ de Educación Infantil en la Comunidad Autónoma de Andalucía, regular determin
 aspectos de la atención a la diversidad y a las diferencias individuales, establecer la 
 ordenación de la evaluación del proceso de aprendizaje del alumnado y determinar el 
 proceso de tránsito entre Educación Infantil y Educación Primaria, así como entre los dos 
-ciclos de la etapa de Educación Infantil, de conformidad con el Decreto 100/2023, de 9 
+ciclos de la etapa de Educación Infantil, de conformidad con el [Decreto 100/2023](./D100_2023_ordenacion_curriculo_educacion_infantil_andalucia.md), de 9 
 de mayo, por el que se establece la ordenación y el currículo de la etapa de Educación 
 Infantil en la Comunidad Autónoma de Andalucía.
 2. Esta orden se aplicará en todos los centros educativos de la Comunidad Autónoma 
 que impartan estas enseñanzas.
 #### Artículo 2. Elementos y estructura del currículo.
 1. La definición y los elementos del currículo son los establecidos en el artículo 3 del 
-Decreto 100/2023, de 9 de mayo.
+[Decreto 100/2023](./D100_2023_ordenacion_curriculo_educacion_infantil_andalucia.md), de 9 de mayo.
 2. El currículo de Educación Infantil, incorporando lo dispuesto en el Real Decreto 
 95/2022, de 1 de febrero, por el que se establece la ordenación y las enseñanzas mínimas 
 de la Educación Infantil, se fija en los Anexos I y II con el siguiente desglose: 
@@ -190,7 +205,7 @@ a) En el Anexo I se formulan para cada una de las áreas, las competencias espec
 los criterios de evaluación y los saberes básicos. Estos elementos curriculares se 
 establecen con carácter orientativo para el primer ciclo y conforman, junto con los 
 Objetivos de la etapa, las enseñanzas mínimas del segundo ciclo, tal y como se indica en 
-el artículo 9.2 del Real Decreto 95/2022, de 1 de febrero.
+el artículo 9.2 del [Real Decreto 95/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD95_2022_establece_ordenacion_ensenanzas_minimas_educacion_infantil.md), de 1 de febrero.
 b) Con el fin de establecer las relaciones entre las competencias clave y los Objetivos 
 de la etapa se incluye el Anexo II, que determina la vinculación entre dichos Objetivos con 
 los descriptores operativos del Perfil competencial.
@@ -200,10 +215,10 @@ mediante la concreción de las competencias específicas, de los criterios de ev
 de la adecuación de los saberes básicos y de su vinculación con dichos criterios de 
 evaluación, así como el establecimiento de situaciones de aprendizaje que integren 
 estos elementos y contribuyan a la adquisición de las competencias, respetando los 
-principios pedagógicos regulados en el artículo 6 del Decreto 100/2023, de 9 de mayo. 
-Todo ello, conforme a lo establecido en el artículo 18.2 del Decreto 149/2009, de 12 
+principios pedagógicos regulados en el artículo 6 del [Decreto 100/2023](./D100_2023_ordenacion_curriculo_educacion_infantil_andalucia.md), de 9 de mayo. 
+Todo ello, conforme a lo establecido en el artículo 18.2 del [Decreto 149/2009](../02_gestion_y_administracion_centros/D149_2009_regulacion_centros_primer_ciclo_educacion_infantil_andalucia.md), de 12 
 de mayo, por el que se regulan los centros que imparten el primer ciclo de educación 
-infantil, al artículo 28 del Decreto 328/2010, de 13 de julio, por el que se aprueba el 
+infantil, al artículo 28 del [Decreto 328/2010](../04_organizacion_escolar_y_funcionamiento/D328_2010_reglamento_organico_escuelas_infantiles_colegios_primaria_andalucia.md), de 13 de julio, por el que se aprueba el 
 Reglamento Orgánico de las escuelas infantiles de segundo ciclo, de los colegios de 
 educación primaria, de los colegios de educación infantil y primaria, y de los centros 
 públicos específicos de educación especial, según corresponda al primer o segundo 
@@ -215,7 +230,7 @@ la práctica educativa atienda a la diversidad, a las características personale
 necesidades, a los intereses, a la igualdad efectiva entre hombres y mujeres y al estilo 
 cognitivo del alumnado. 
 2. Para el desarrollo de las situaciones de aprendizaje se tendrá en consideración lo 
-recogido en el artículo 7 del Decreto 100/2023, de 9 de mayo, así como las orientaciones 
+recogido en el artículo 7 del [Decreto 100/2023](./D100_2023_ordenacion_curriculo_educacion_infantil_andalucia.md), de 9 de mayo, así como las orientaciones 
 del Anexo III.
 #### Artículo 4. Autonomía de los centros educativos. 
 1. Los centros docentes desarrollarán y concretarán, en su caso, el currículo en su 
@@ -229,7 +244,7 @@ los ciclos.
 las líneas de actuación en una Propuesta pedagógica, incluyendo las distintas medidas 
 de atención a la diversidad y a las diferencias individuales que deban llevarse a cabo de 
 acuerdo con las necesidades del alumnado y en el marco establecido en el Capítulo IV 
-del Decreto 100/2023, de 9 de mayo.
+del [Decreto 100/2023](./D100_2023_ordenacion_curriculo_educacion_infantil_andalucia.md), de 9 de mayo.
 4. El profesorado y el personal educador de Educación Infantil concretarán para cada 
 curso la Propuesta pedagógica, planificando, de esta forma, su actividad educativa. 
 5. Los profesionales que ejerzan la tutoría del alumnado mantendrán una relación 
@@ -244,14 +259,14 @@ simbólicos, de animación a la lectura, entre otros de naturaleza análoga.
 CAPÍTULO II
 Ordenación de la etapa y oferta educativa
 #### Artículo 5. Organización general de Educación Infantil.
-1. De acuerdo con lo establecido en el artículo 2 del Decreto 100/2023, de 9 de 
+1. De acuerdo con lo establecido en el artículo 2 del [Decreto 100/2023](./D100_2023_ordenacion_curriculo_educacion_infantil_andalucia.md), de 9 de 
 mayo, esta etapa se ordena en dos ciclos. El primero comprende hasta los tres años y el 
 segundo desde los tres a los seis años de edad.
 2. El alumnado debe cursar las siguientes áreas en cada uno de los ciclos: Crecimiento 
 en Armonía, Descubrimiento y Exploración del Entorno y Comunicación y Representación 
 de la Realidad. En el Anexo I se recogen los elementos del currículo correspondientes a 
 las áreas de Educación Infantil en Andalucía.
-3. De acuerdo con lo establecido en el artículo 9 del Decreto 100/2023, de 9 de mayo, 
+3. De acuerdo con lo establecido en el artículo 9 del [Decreto 100/2023](./D100_2023_ordenacion_curriculo_educacion_infantil_andalucia.md), de 9 de mayo, 
 el alumnado podrá cursar enseñanzas de Religión en el segundo ciclo de la etapa a 
 elección de los padres, madres o personas que ejerzan su tutela legal. Asimismo, aquel 
 alumnado que no haya optado por cursar dichas enseñanzas recibirá la debida atención 
@@ -267,7 +282,7 @@ las áreas para reforzar la inclusión educativa, en caso de que así lo determi
 necesidades y quede reflejado en su Proyecto educativo.
 #### Artículo 6. Horario. 
 1. El horario del primer ciclo de la etapa de Educación Infantil se regirá según lo 
-establecido en el artículo 29 del Decreto 149/2009, de 12 de mayo.
+establecido en el artículo 29 del [Decreto 149/2009](../02_gestion_y_administracion_centros/D149_2009_regulacion_centros_primer_ciclo_educacion_infantil_andalucia.md), de 12 de mayo.
 2. El horario y la jornada escolar de los centros que imparten el segundo ciclo de 
 Educación Infantil se regirán por lo recogido en los artículos 6, 12, 13, 14 y 15 del Decreto 
 301/2009, de 14 de julio, por el que se regula el calendario y la jornada escolar en los 
@@ -285,7 +300,7 @@ Evaluación
 Infantil será global, continua y formativa y tomará como referentes los criterios de 
 evaluación de las diferentes áreas curriculares, a través de los cuales se medirá el grado 
 de consecución de las competencias específicas.
-2. De acuerdo con lo dispuesto en el artículo 11.2 del Decreto 100/2023, de 9 de 
+2. De acuerdo con lo dispuesto en el artículo 11.2 del [Decreto 100/2023](./D100_2023_ordenacion_curriculo_educacion_infantil_andalucia.md), de 9 de 
 mayo, la evaluación tendrá como referente los criterios de evaluación de las diferentes 
 áreas curriculares, a través de los cuales se medirá el grado de consecución de las 
 competencias específicas.
@@ -294,7 +309,7 @@ procesos de desarrollo de los niños y niñas, así como sus aprendizajes, siemp
 función de sus características personales. A estos efectos se tomarán como referencia los 
 criterios de evaluación establecidos para cada ciclo en cada una de las áreas. Servirán 
 también de orientación los perfiles competenciales, tanto del primer como del segundo 
-ciclo, recogidos en el Anexo del Decreto 100/2023, de 9 de mayo, así como los Objetivos 
+ciclo, recogidos en el Anexo del [Decreto 100/2023](./D100_2023_ordenacion_curriculo_educacion_infantil_andalucia.md), de 9 de mayo, así como los Objetivos 
 de la etapa.
 #### Artículo 8. Procedimientos e instrumentos de evaluación.
 1. La evaluación del aprendizaje del alumnado corresponderá a la persona que ejerza 
@@ -366,7 +381,7 @@ recogerán en su Expediente personal, en la evaluación psicopedagógica, en su 
 en el Informe final de ciclo y etapa, según corresponda.
 3. Con carácter excepcional, el alumno o alumna con necesidades educativas 
 especiales podrá permanecer un año más en la etapa de Educación Infantil según lo 
-dispuesto en el artículo 14.3 del Decreto 100/2023, de 9 de mayo. Esta medida se podrá 
+dispuesto en el artículo 14.3 del [Decreto 100/2023](./D100_2023_ordenacion_curriculo_educacion_infantil_andalucia.md), de 9 de mayo. Esta medida se podrá 
 adoptar al término del primer o del segundo ciclo. 
 4. La Consejería competente en materia de educación podrá autorizar dicha 
 permanencia en el último curso del primer ciclo al alumnado con trastornos graves del 
@@ -419,7 +434,7 @@ responsabilidad de la persona que ejerza la tutoría.
 CAPÍTULO IV
 Atención a la diversidad y a las diferencias individuales
 #### Artículo 16. Concepto y principios generales de actuación.
-1. Atendiendo al artículo 14.1 del Decreto 100/2023, de 9 de mayo, la atención a la 
+1. Atendiendo al artículo 14.1 del [Decreto 100/2023](./D100_2023_ordenacion_curriculo_educacion_infantil_andalucia.md), de 9 de mayo, la atención a la 
 diversidad y a las diferencias individuales en la etapa de Educación Infantil se orientará a 
 garantizar una educación de calidad que asegurará la equidad e inclusión educativa y a 
 atender a la compensación de los efectos que las desigualdades de origen cultural, social 
@@ -431,7 +446,7 @@ cuenta sus capacidades de expresión y comprensión y asegurando la motivación 
 compromiso y la cooperación mutua.
 2. Los principios generales de actuación para la atención a la diversidad y a las 
 diferencias individuales son los establecidos con carácter general en el artículo 15 del 
-Decreto 100/2023, de 9 de mayo.
+[Decreto 100/2023](./D100_2023_ordenacion_curriculo_educacion_infantil_andalucia.md), de 9 de mayo.
 3. Los centros docentes deberán dar prioridad a la organización de las medidas 
 de atención a la diversidad y a las diferencias individuales respecto a otras opciones 
 organizativas para la configuración de las enseñanzas de esta etapa en el ámbito de su 
@@ -622,7 +637,7 @@ del equipo de orientación educativa.
 CAPÍTULO V
 Coordinación en el tránsito entre ciclos y etapas
 #### Artículo 28. Proceso de tránsito.
-De conformidad con lo establecido en el artículo 11.5 del Decreto 100/2023, de 9 de 
+De conformidad con lo establecido en el artículo 11.5 del [Decreto 100/2023](./D100_2023_ordenacion_curriculo_educacion_infantil_andalucia.md), de 9 de 
 mayo, con objeto de garantizar una adecuada transición del alumnado de un ciclo a otro y 
 de la etapa de Educación Infantil a la etapa de Educación Primaria y facilitar la continuidad 
 de su proceso educativo y, en su caso, de las medidas educativas encaminadas a alcanzar 
@@ -756,12 +771,12 @@ habrá de publicarse en el Boletín Oficial de la Junta de Andalucía.
 1. El contenido de los artículos 5.1, 5.2, 5.5 reproduce, total o parcialmente, normas 
 dictadas por el Estado al amparo del artículo 149.1.30.ª de la Constitución Española, 
 recogidas en los artículos 14 de «Ordenación y principios pedagógicos» y 75.2 de 
-«Inclusión educativa, social y laboral», de la Ley Orgánica 2/2006, de 3 de mayo.
+«Inclusión educativa, social y laboral», de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo.
 2. El contenido de los artículos 4.1, 4.2, 4.5, 5.1, 5.2, 6.3, 7.1, reproduce, total 
 o parcialmente, normas dictadas por el Estado al amparo del artículo 149.1.30.ª de la 
 Constitución Española, recogidas en los artículos 8.1, 8.2 de «Áreas», 11.2 del «Horario», 
 12.1 de la «Evaluación», 13.6 de la «Atención a las diferencias individuales», 14.1, 14.2, 
-14.3 de la «Autonomía de los centros», del Real Decreto 95/2022, de 1 de febrero.
+14.3 de la «Autonomía de los centros», del [Real Decreto 95/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD95_2022_establece_ordenacion_ensenanzas_minimas_educacion_infantil.md), de 1 de febrero.
 ### Disposición final cuarta. Entrada en vigor.
 La presente orden entrará en vigor el día siguiente al de su publicación en el Boletín 
 Oficial de la Junta de Andalucía.
@@ -871,7 +886,7 @@ potenciar una actitud cooperativa para aprender a resolver, a través de la medi
 capacidades y los posibles conflictos que puedan surgir.
 En cada área se proponen unas competencias específicas comunes para los dos ciclos de la etapa. Dichas
 competencias vienen acompañadas de unos códigos que identifican los descriptores del Perfil competencial, con los
-que se relacionan, definidos para cada uno de los ciclos en el Anexo del Decreto 100/2023, de 9 de mayo. Estos
+que se relacionan, definidos para cada uno de los ciclos en el Anexo del [Decreto 100/2023](./D100_2023_ordenacion_curriculo_educacion_infantil_andalucia.md), de 9 de mayo. Estos
 descriptores operativos concretan los niveles de desarrollo de las competencias clave, es decir, relacionan las
 competencias clave con los aprendizajes concretos e identifica las capacidades que se deben saber desplegar en
 situaciones organizadas en torno a los intereses y motivaciones del alumnado, así como al grado de desarrollo del
@@ -4029,7 +4044,7 @@ PROVINCIA
 TUTOR O TUTORA
 2
 APRECIACIÓN DEL GRADO DE ADQUISICIÓN DE LAS COMPETENCIAS AL FINALIZAR EL PRIMER CICLO
-SEGÚN EL PERFIL COMPETENCIAL (Anexo del Decreto 100/2023, de 9 de mayo, por el que se establece
+SEGÚN EL PERFIL COMPETENCIAL (Anexo del [Decreto 100/2023](./D100_2023_ordenacion_curriculo_educacion_infantil_andalucia.md), de 9 de mayo, por el que se establece
 la ordenación y el currículo de la etapa de Educación Infantil en la Comunidad Autónoma de
 Andalucía).
 APRECIACIÓN
@@ -4193,7 +4208,7 @@ PROVINCIA
 TUTOR O TUTORA
 2
 APRECIACIÓN DEL GRADO DE ADQUISICIÓN DE LAS COMPETENCIAS AL FINALIZAR LA ETAPA SEGÚN EL
-PERFIL COMPETENCIAL (Anexo del Decreto 100/2023, de 9 de mayo, por el por el que se establece la
+PERFIL COMPETENCIAL (Anexo del [Decreto 100/2023](./D100_2023_ordenacion_curriculo_educacion_infantil_andalucia.md), de 9 de mayo, por el por el que se establece la
 ordenación y el currículo de la etapa de Educación Infantil en la Comunidad Autónoma de
 Andalucía).
 APRECIACIÓN
@@ -4388,7 +4403,7 @@ PROVINCIA
 DATOS MÉDICOS Y/O PSICOPEDAGÓGICOS RELEVANTES
 4
  APRECIACIÓN DEL GRADO DE ADQUISICIÓN DE LAS COMPETENCIAS AL FINALIZAR EL PRIMER CICLO
-SEGÚN EL PERFIL COMPETENCIAL (Anexo del Decreto 100/2023, de 9 de mayo, por el por el que se
+SEGÚN EL PERFIL COMPETENCIAL (Anexo del [Decreto 100/2023](./D100_2023_ordenacion_curriculo_educacion_infantil_andalucia.md), de 9 de mayo, por el por el que se
 establece la ordenación y el currículo de la etapa de Educación Infantil en la Comunidad Autónoma
 de Andalucía).
 APRECIACIÓN DEL
@@ -4532,7 +4547,7 @@ VALORACIÓN (3)
 FECHA DE FINALIZACIÓN DEL PRIMER CICLO: __________________________________________________
 7
  APRECIACIÓN DEL GRADO DE ADQUISICIÓN DE LAS COMPETENCIAS AL FINALIZAR EL SEGUNDO CICLO
-SEGÚN EL PERFIL COMPETENCIAL (Anexo del Decreto 100/2023, de 9 de mayo, por el por el que se
+SEGÚN EL PERFIL COMPETENCIAL (Anexo del [Decreto 100/2023](./D100_2023_ordenacion_curriculo_educacion_infantil_andalucia.md), de 9 de mayo, por el por el que se
 establece la ordenación y el currículo de la etapa de Educación Infantil en la Comunidad Autónoma de
 Andalucía).
 APRECIACIÓN

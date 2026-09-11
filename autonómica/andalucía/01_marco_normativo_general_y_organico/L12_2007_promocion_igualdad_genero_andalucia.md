@@ -1,6 +1,7 @@
 ---
 id: norm-and-l12-2007-promocion-igualdad-genero-andalucia
-titulo: Ley 12/2007, de 26 de noviembre, para la promoción de la igualdad de género en Andalucía.
+titulo: Ley 12/2007, de 26 de noviembre, para la promoción de la igualdad de género
+  en Andalucía.
 jurisdiccion: Andalucía
 ambito: Autonómico
 organo_emisor: Dirección General de Profesorado y Gestión de Recursos Humanos
@@ -17,8 +18,11 @@ fuente_pdf_oficial: http://www.juntadeandalucia.es/boja/2007/247/d1.pdf
 clasificacion:
   categoria_canonica: 01_marco_normativo_general_y_organico
   subcategoria: Marco normativo general
+fundamentos_derecho:
+- norma_id: norm-and-l6-2006-gobierno-comunidad-autonoma-andalucia
+- norma_id: norm-es-lo-1-2004
+- norma_id: norm-es-2007-6115
 ---
-
 # Ley 12/2007, de 26 de noviembre, para la promoción de la igualdad de género en Andalucía.
 
 ## Preámbulo
@@ -119,7 +123,7 @@ nacionales publicados oficialmente en España; y el artículo 93,
 autorizando las transferencias de competencias constituciona-
 les a las organizaciones supranacionales mediante la aproba-
 ción de una ley orgánica.
-La Ley Orgánica 3/2007, de 22 de marzo, para la igual-
+La [Ley Orgánica 3/2007](../../../estatal/07_convivencia_bienestar_y_protocolos/LO3_2007_igualdad_efectiva_mujeres_hombres.md), de 22 de marzo, para la igual-
 dad efectiva de mujeres y hombres, constituye el marco de de-
 sarrollo del principio de igualdad de trato, incorpora sustancia-
 les modificaciones legislativas para avanzar en la igualdad real 
@@ -186,7 +190,7 @@ en los proyectos de ley y reglamentos aprobados por el Con-
 sejo de Gobierno y el enfoque de género en los presupuestos 
 de la Comunidad Autónoma, según han establecido los ar-
 tículos 139 y 140 de la Ley 18/2003, de 29 de diciembre, de 
-Medidas Fiscales y Administrativas. También la Ley 6/2006, 
+Medidas Fiscales y Administrativas. También la [Ley 6/2006](./L6_2006_gobierno_comunidad_autonoma_andalucia.md), 
 de 24 de octubre, del Gobierno de la Comunidad Autónoma 
 de Andalucía, en su artículo 18.3, establece la representación 
 equilibrada en las designaciones de las personas integrantes 
@@ -770,7 +774,7 @@ el sector empresarial.
 1. La Administración de la Junta de Andalucía fomentará 
 y prestará apoyo y asesoramiento para la elaboración de los 
 planes de igualdad en las empresas privadas que no estén 
-obligadas por la Ley Orgánica 3/2007, de 22 de marzo, para 
+obligadas por la [Ley Orgánica 3/2007](../../../estatal/07_convivencia_bienestar_y_protocolos/LO3_2007_igualdad_efectiva_mujeres_hombres.md), de 22 de marzo, para 
 la igualdad efectiva de mujeres y hombres. Dichos planes, sin 
 perjuicio de lo dispuesto en la normativa básica sobre la ma-
 teria, deberán contemplar medidas para el acceso al empleo, 
@@ -1233,7 +1237,7 @@ como mero objeto desvinculado del producto que se pretende
 promocionar, su imagen asociada a comportamientos este-
 reotipados que vulneren los fundamentos de nuestro ordena-
 miento, coadyuvando a genenar la violencia a que se refiere 
-la Ley Orgánica 1/2004, de 28 de diciembre, de Medidas de 
+la [Ley Orgánica 1/2004](../../../estatal/07_convivencia_bienestar_y_protocolos/LO1_2004_medidas_proteccion_integral_contra_violencia_genero.md), de 28 de diciembre, de Medidas de 
 Protección Integral contra la Violencia de Género.
 3. El Consejo Audiovisual de Andalucía, en el cumpli-
 miento de las funciones que tiene asignadas, contribuirá a 
@@ -1352,7 +1356,7 @@ adecuados y necesarios.
 Artículo 66. Acción de cesación y rectificación de la publi-
 cidad ilícita.
 1. De conformidad con lo dispuesto en el artículo 12 de 
-la Ley Orgánica 1/2004, de 28 de diciembre, de Medidas de 
+la [Ley Orgánica 1/2004](../../../estatal/07_convivencia_bienestar_y_protocolos/LO1_2004_medidas_proteccion_integral_contra_violencia_genero.md), de 28 de diciembre, de Medidas de 
 Protección Integral contra la Violencia de Género, el Instituto 
 Andaluz de la Mujer y las asociaciones que tengan como obje-
 tivo único la defensa de los intereses de las mujeres estarán 

@@ -34,8 +34,19 @@ relaciones:
   - norm-es-lo-2-2006
   - norm-can-l-6-2014
   - norm-can-d-114-2011
+fundamentos_derecho:
+- norma_id: norm-can-l-1-1997
+- norma_id: norm-can-l-6-2014
+- norma_id: norm-can-d-81-2010
+- norma_id: norm-can-o-2013-10-09
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-can-d-114-2011
+- norma_id: norm-mad-l1-1983-gobierno-administracion-comunidad-madrid
+- norma_id: norm-es-l-39-2015
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
 ---
-
 # Decreto 174/2018, de 3 de diciembre, de aprobación del Reglamento por el que se regula la prevención, la intervención y el seguimiento del absentismo escolar y del abandono escolar temprano en el ámbito de la Comunidad Autónoma de Canarias.
 
 ## Preámbulo
@@ -61,16 +72,16 @@ Orgánica 8/1985, de 3 de julio, reguladora del Derecho a la Educación, prevé 
 a las familias adoptar las medidas necesarias o solicitar la ayuda correspondiente en caso 
 de dificultad, para que sus hijos e hijas cursen la educación básica y asistan regularmente 
 a clase. 
-Por su parte, el artículo 80 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, 
+Por su parte, el artículo 80 de la [Ley Orgánica 2/2006](../05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, 
 establece que las Administraciones públicas deben desarrollar acciones de carácter 
 compensatorio en relación con las personas, grupos y ámbitos territoriales que se encuentren 
 en situaciones desfavorables, proveyendo, además, los recursos económicos y los apoyos 
 precisos para ello.
-Asimismo, el artículo 19 de la Ley 1/1997, de 7 de febrero, de Atención Integral a los 
+Asimismo, el artículo 19 de la [Ley 1/1997](../01_marco_normativo_general_y_organico/L1_1997_atencion_integral_menores.md), de 7 de febrero, de Atención Integral a los 
 Menores, presta atención al problema del absentismo escolar, señalando que los responsables de 
 los centros escolares, los consejos escolares y el personal educativo están obligados a colaborar 
 con los servicios municipales competentes para garantizar la escolarización obligatoria.
-En el ámbito de la Comunidad Autónoma de Canarias, la Ley 6/2014, de 25 de julio, 
+En el ámbito de la Comunidad Autónoma de Canarias, la [Ley 6/2014](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md), de 25 de julio, 
 Canaria de Educación no Universitaria, regula en su artículo 46 el absentismo escolar y 
 el abandono escolar temprano. En ella, se define el absentismo escolar como la reiterada 
 ausencia temporal injustificada, no permanente ni definitiva, del alumnado al centro educativo 
@@ -84,13 +95,13 @@ Página
 
 Viernes 14 de diciembre de 2018
 En ese contexto legal previo, y como concreción del mismo, cabe resaltar, por un lado, 
-la vigencia del Decreto 114/2011, de 11 de mayo, por el que se regula la convivencia en el 
+la vigencia del [Decreto 114/2011](../07_convivencia_bienestar_y_protocolos/D114_2011_regula_convivencia_ambito_educativo_comunidad_autonoma.md), de 11 de mayo, por el que se regula la convivencia en el 
 ámbito educativo de la Comunidad Autónoma de Canarias (BOC nº 108, de 2 de junio), cuya 
 Disposición adicional sexta se deroga. En la norma que se aprueba, por lo tanto, se define el 
 absentismo escolar, se establecen los niveles de absentismo en función de su incidencia, y 
 se pauta la colaboración entre los centros educativos y las administraciones e instituciones 
 implicadas en su reducción. 
-Por otro lado, la Orden de 9 de octubre de 2013, por la que se desarrolla el Decreto 81/2010, 
+Por otro lado, la [Orden de 9 de octubre de 2013](../04_organizacion_escolar_y_funcionamiento/O9_10_2013_desarrolla_decreto_aprueba_reglamento_organico_centros.md), por la que se desarrolla el [Decreto 81/2010](../04_organizacion_escolar_y_funcionamiento/D81_2010_aprueba_reglamento_organico_centros_docentes_publicos.md), 
 de 8 de julio, por el que se aprueba el Reglamento Orgánico de los centros docentes públicos 
 no universitarios de la Comunidad Autónoma de Canarias, en lo referente a su organización 
 y funcionamiento (BOC nº 200, de 16 de octubre), instruye a los centros educativos sobre 
@@ -104,7 +115,7 @@ específicas de cada uno e implicando a todos los sectores de la comunidad educa
 como al resto de personas y entidades de la sociedad canaria con responsabilidad en la 
 protección de la infancia, a fin de facilitar la reducción del absentismo escolar.
 En la tramitación de este decreto se ha dado cumplimiento a los principios de buena 
-regulación a los que se refiere el artículo 129.1 de la Ley 39/2015, de 1 de octubre, del 
+regulación a los que se refiere el artículo 129.1 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del 
 Procedimiento Administrativo Común de las Administraciones Públicas. Así, la disposición 
 es respetuosa con los principios de necesidad, eficacia y proporcionalidad, en tanto que con 
 ella se consigue el fin perseguido de regular la prevención, la intervención y el seguimiento 
@@ -122,8 +133,8 @@ las repercusiones y efectos del gasto público, cumpliéndose los principios de 
 presupuestaria y sostenibilidad financiera.
 En su virtud, a propuesta conjunta de las Consejeras de Empleo, Políticas Sociales y 
 Vivienda y de Educación y Universidades, de acuerdo con las competencias atribuidas por 
-el artículo 32 de la Ley 1/1983, de 14 de abril, del Gobierno y de la Administración Pública 
-de la Comunidad Autónoma de Canarias, en desarrollo de la Ley 6/2014, de 25 de julio, 
+el artículo 32 de la [Ley 1/1983](../../madrid/01_marco_normativo_general_y_organico/L1_1983_gobierno_administracion_comunidad_madrid.md), de 14 de abril, del Gobierno y de la Administración Pública 
+de la Comunidad Autónoma de Canarias, en desarrollo de la [Ley 6/2014](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md), de 25 de julio, 
 Canaria de Educación no Universitaria, previo informe del Consejo Escolar de Canarias y 
 de acuerdo con el dictamen del Consejo Consultivo de Canarias, y previa deliberación del 
 Gobierno en su reunión celebrada el día 3 de diciembre de 2018,
@@ -170,7 +181,7 @@ Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan o
 contradigan lo dispuesto en el presente Decreto. En particular, se deroga la Disposición 
 
 Viernes 14 de diciembre de 2018
-adicional sexta del Decreto 114/2011, de 11 de mayo, por el que se regula la convivencia en 
+adicional sexta del [Decreto 114/2011](../07_convivencia_bienestar_y_protocolos/D114_2011_regula_convivencia_ambito_educativo_comunidad_autonoma.md), de 11 de mayo, por el que se regula la convivencia en 
 el ámbito educativo de la Comunidad Autónoma de Canarias.
 Disposición final primera.- Desarrollo reglamentario.
 Las Consejerías competentes en materia de educación y de protección a la infancia y la 
@@ -179,7 +190,7 @@ el desarrollo de lo previsto en este Decreto.
 Disposición final segunda.- Plan Específico para la Prevención y Control del 
 Absentismo y del Abandono Escolar Temprano.
 La Consejería competente en materia de educación deberá aprobar, de conformidad con 
-lo establecido en la Ley 6/2014, de 25 de julio, Canaria de Educación no Universitaria, un 
+lo establecido en la [Ley 6/2014](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md), de 25 de julio, Canaria de Educación no Universitaria, un 
 Plan Específico de Prevención y Control del Absentismo y del Abandono Escolar Temprano 
 del alumnado en Canarias, garantizando la participación de los municipios, y de la consejería 
 competente en materia de protección de la infancia y la familia.
@@ -438,7 +449,7 @@ del alumnado menor de edad no emancipado al centro escolar.
 d) Detectar a través de la Policía Local la presencia no autorizada en lugares públicos de 
 menores de edad de escolaridad obligatoria durante el horario lectivo.
 e) Cualesquiera otras que coadyuven a la adecuada escolarización.
-3. De acuerdo con lo previsto en la Ley 6/2014, de 25 de julio, Canaria de Educación no 
+3. De acuerdo con lo previsto en la [Ley 6/2014](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md), de 25 de julio, Canaria de Educación no 
 Universitaria, las administraciones locales, en colaboración con el Gobierno de Canarias y 
 las universidades canarias, aprobarán planes de actuación para reducir el absentismo escolar 
 y mejorar las tasas de titulación del alumnado, reducir las tasas de abandono escolar temprano 
@@ -709,7 +720,7 @@ actuaciones responsables del alumnado en el ejercicio de sus derechos y
 deberes
 Manifestación de las discrepancias, que deriven en una propuesta de
 inasistencia a clase, siempre que se cumplan las condiciones establecidas
-en el Decreto 114/2011, de 11 de mayo, por el que se regula la
+en el [Decreto 114/2011](../07_convivencia_bienestar_y_protocolos/D114_2011_regula_convivencia_ambito_educativo_comunidad_autonoma.md), de 11 de mayo, por el que se regula la
 convivencia en el ámbito educativo de la Comunidad Autónoma de
 Canarias.
 Otras causas predeterminadas por el centro educativo contempladas en

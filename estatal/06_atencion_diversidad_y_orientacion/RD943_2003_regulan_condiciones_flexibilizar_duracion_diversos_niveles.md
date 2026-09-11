@@ -67,8 +67,9 @@ relaciones:
   articulos:
   - norma_id: '27'
   - norma_id: norm-es-lo-8-1985
+fundamentos_derecho:
+- norma_id: norm-es-lo-8-1985
 ---
-
 # Real Decreto 943/2003, de 18 de julio, por el que se regulan las condiciones para flexibilizar la duración de los diversos niveles y etapas del sistema educativo para los alumnos superdotados intelectualmente.
 
 ## Preámbulo

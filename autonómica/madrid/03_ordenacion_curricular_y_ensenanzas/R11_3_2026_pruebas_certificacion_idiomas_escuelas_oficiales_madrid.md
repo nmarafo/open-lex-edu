@@ -26,19 +26,27 @@ tags:
 - pruebas_idiomas
 - ensenanzas_especiales
 - madrid
+fundamentos_derecho:
+- norma_id: norm-mad-d248-2023
+- norma_id: norm-mad-d-28-2024
+- norma_id: norm-mad-d106-2018-ordenacion-ensenanzas-idiomas-regimen-especial-madrid
+- norma_id: norm-mad-o1587-2022-admision-matricula-escuelas-oficiales-idiomas-madrid
+- norma_id: norm-mad-o2414-2019-organizacion-funcionamiento-evaluacion-ensenanzas-idiomas-eoi-madrid
+- norma_id: norm-mad-r11-3-2026-evaluacion-conocimientos-competencias-centros-madrid
+- norma_id: norm-es-l-39-2015
+- norma_id: norm-es-lo-3-2018
 ---
-
-# Resolución de 11 de marzo de 2026, de la Dirección General de Educación Secundaria, Formación Profesional y Régimen Especial, sobre el procedimiento de admisión y matrícula de alumnos libres en las pruebas de certificación en las Escuelas Oficiales de Idiomas de la Comunidad de Madrid para el año 2026
+# [Resolución de 11 de marzo de 2026](./R11_3_2026_evaluacion_conocimientos_competencias_centros_madrid.md), de la Dirección General de Educación Secundaria, Formación Profesional y Régimen Especial, sobre el procedimiento de admisión y matrícula de alumnos libres en las pruebas de certificación en las Escuelas Oficiales de Idiomas de la Comunidad de Madrid para el año 2026
 
 ## Preámbulo
 
 BOCM-20260325-12
 BOCM
-RESOLUCIÓN de 11 de marzo de 2026, de la Dirección General de Educación Se-
+[RESOLUCIÓN de 11 de marzo de 2026](./R11_3_2026_evaluacion_conocimientos_competencias_centros_madrid.md), de la Dirección General de Educación Se-
 cundaria, Formación Profesional y Régimen Especial, sobre el procedimiento de
 admisión y matrícula de alumnos libres en las pruebas de certificación en las Es-
 cuelas Oficiales de Idiomas de la Comunidad de Madrid para el año 2026.
-El Decreto 106/2018, de 19 de junio, del Consejo de Gobierno, por el que se ordenan
+El [Decreto 106/2018](./D106_2018_ordenacion_ensenanzas_idiomas_regimen_especial_madrid.md), de 19 de junio, del Consejo de Gobierno, por el que se ordenan
 las enseñanzas de idiomas de régimen especial y se establecen los currículos de los niveles
 básico, intermedio y avanzado en la Comunidad de Madrid, establece en su artículo 22,
 apartado 6, que la consejería con competencias en Educación regulará las pruebas especí-
@@ -46,12 +54,12 @@ ficas para la obtención de los certificados de nivel y convocará, al menos una
 las pruebas para la obtención de los certificados de competencia general de los niveles bá-
 sico A2, intermedio B1, intermedio B2, avanzado C1 y avanzado C2 de aquellos idiomas y
 niveles que se hayan impartido en la Comunidad de Madrid en ese curso académico.
-Asimismo, la Orden 2414/2019, de 1 de agosto, de la Consejería de Educación e In-
+Asimismo, la [Orden 2414/2019](./O2414_2019_organizacion_funcionamiento_evaluacion_ensenanzas_idiomas_eoi_madrid.md), de 1 de agosto, de la Consejería de Educación e In-
 vestigación, modificada por la Orden 2475/2021, de 13 de agosto, de la Consejería de Edu-
 cación, Universidades, Ciencia y Portavocía, regula para la Comunidad de Madrid la eva-
 luación y certificación de los niveles básico, intermedio y avanzado de las enseñanzas de
 idiomas de régimen especial en la Comunidad de Madrid.
-Por otro lado, la Orden 1587/2022, de 8 de junio, de la Consejería de Educación, Uni-
+Por otro lado, la [Orden 1587/2022](./O1587_2022_admision_matricula_escuelas_oficiales_idiomas_madrid.md), de 8 de junio, de la Consejería de Educación, Uni-
 versidades, Ciencia y Portavocía, que regula el procedimiento de admisión y matrícula de
 los alumnos oficiales y libres en las Escuelas Oficiales de Idiomas de la Comunidad de
 Madrid, establece en su artículo 17 que la Dirección General competente en materia de en-
@@ -60,8 +68,8 @@ misión y matrícula para alumnos libres.
 Con el fin de organizar el procedimiento de admisión y matrícula para la realización de
 pruebas de certificación para alumnos libres en los niveles básico A2, intermedio B1, inter-
 medio B2 y avanzado C1 y avanzado C2 en las Escuelas Oficiales de Idiomas de la Comuni-
-dad de Madrid y, en virtud de las competencias atribuidas por el Decreto 28/2024, de 24 de
-abril, del Consejo de Gobierno, por el que se modifica el Decreto 248/2023, de 11 de octubre,
+dad de Madrid y, en virtud de las competencias atribuidas por el [Decreto 28/2024](../01_marco_normativo_general_y_organico/D28_2024_modificacion_estructura_organica_consejeria_educacion_ciencia_universidades_madrid.md), de 24 de
+abril, del Consejo de Gobierno, por el que se modifica el [Decreto 248/2023](../01_marco_normativo_general_y_organico/D248_2023_estructura_organica_consejeria_educacion_ciencia_universidades_madrid.md), de 11 de octubre,
 del Consejo de Gobierno, por el que se establece la estructura orgánica de la Consejería de
 Educación, Ciencia y Universidades,
 RESUELVO:
@@ -149,14 +157,14 @@ BOCM-20260325-12
 BOCM
 Sexto
 Oferta de plazas para el alumnado libre
-De acuerdo con el artículo 18 de la Orden 1587/2022, de 8 de junio, la Dirección Gene-
+De acuerdo con el artículo 18 de la [Orden 1587/2022](./O1587_2022_admision_matricula_escuelas_oficiales_idiomas_madrid.md), de 8 de junio, la Dirección Gene-
 ral de Educación Secundaria, Formación Profesional y Régimen Especial publicará en su pá-
 gina web el número de plazas por idioma para la convocatoria regulada por la presente reso-
 lución con cinco días hábiles de antelación al inicio del plazo de presentación de solicitudes.
 Séptimo
 Presentación de solicitudes de inscripción
 1.
-De acuerdo con el artículo 21 de la Orden 1587/2022, de 8 de junio, los solicitan-
+De acuerdo con el artículo 21 de la [Orden 1587/2022](./O1587_2022_admision_matricula_escuelas_oficiales_idiomas_madrid.md), de 8 de junio, los solicitan-
 tes que deseen presentarse a las pruebas de certificación deberán inscribirse del 7 al 21 de
 abril de 2026, ambas fechas incluidas.
 2.
@@ -182,7 +190,7 @@ denciales de acceso a la plataforma Roble (RAÍCES), con su usuario y contraseñ
 3.
 En aquellos casos en los que el solicitante no pueda presentar la solicitud de admisión
 por vía telemática podrá hacerlo, presencialmente, en la Escuela Oficial de Idiomas elegida
-como primera opción, o en los demás lugares previstos en el artículo 16.4 de la Ley 39/2015,
+como primera opción, o en los demás lugares previstos en el artículo 16.4 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md),
 de 1 de octubre. Estas solicitudes cuyo modelo estará a disposición de los ciudadanos en la
 sede electrónica de la Comunidad de Madrid ( http://sede.comunidad.madrid ), se dirigirán
 a la Escuela Oficial de Idiomas elegida como primera opción. El solicitante podrá incluir
@@ -235,7 +243,7 @@ de solicitantes admitidos, así como a la Escuela Oficial de Idiomas que les ha 
 da, siguiendo lo establecido en el punto 1 de este apartado. Esta lista definitiva podrá ser
 objeto de recurso de alzada en el plazo de un mes ante la Consejería de Educación, Ciencia
 y Universidades de la Comunidad de Madrid, que resolverá lo que proceda en los términos
-previstos en los artículos 115, 121 y 122 de la Ley 39/2015, de 1 de octubre. Esta resolu-
+previstos en los artículos 115, 121 y 122 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre. Esta resolu-
 ción, que será motivada, pondrá fin a la vía administrativa.
 6.
 La adjudicación de plazas se realizará en función del orden de preferencia consig-
@@ -252,7 +260,7 @@ tado es comunicado a la Agencia para la Administración Digital de la Comunidad 
 Madrid para su aplicación a través de la plataforma de Secretaría Virtual.
 Décimo
 Formalización de matrícula
-De acuerdo con el artículo 24 de la Orden 1587/2022, de 8 de junio, el procedimiento
+De acuerdo con el artículo 24 de la [Orden 1587/2022](./O1587_2022_admision_matricula_escuelas_oficiales_idiomas_madrid.md), de 8 de junio, el procedimiento
 de formalización de matrícula se ajustará a los siguientes plazos y condiciones:
 1.
 La formalización de matrícula de los solicitantes que hayan obtenido plaza se
@@ -290,7 +298,7 @@ En lo referente a la obtención de los datos personales de los solicitantes y/o 
 tantes legales y a la seguridad y confidencialidad de estos, se atenderá a lo dispuesto en el Re-
 glamento (UE) 2016/679 del Parlamento Europeo y del Consejo, de 27 de abril de 2016, re-
 lativo a la protección de las personas físicas en lo que respecta al tratamiento de datos
-personales y en lo establecido en la Ley Orgánica 3/2018, de 5 de diciembre, de Protección
+personales y en lo establecido en la [Ley Orgánica 3/2018](../../../estatal/02_gestion_y_administracion_centros/LO3_2018_proteccion_datos_personales_garantia_derechos_digitales.md), de 5 de diciembre, de Protección
 de Datos Personales y garantía de los derechos digitales.
 Madrid, a 11 de marzo de 2026.—El Director General de Educación Secundaria, For-
 mación Profesional y Régimen Especial, Jesús Manso Ayuso.

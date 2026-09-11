@@ -126,8 +126,9 @@ relaciones:
   articulos:
   - norma_id: '27'
   - norma_id: norm-es-lo-1-1996
+fundamentos_derecho:
+- norma_id: norm-es-lo-1-1996
 ---
-
 # Ley 1/1997, de 7 de febrero, de Atención Integral a los Menores.
 
 ## Preámbulo

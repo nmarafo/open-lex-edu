@@ -16,8 +16,17 @@ estado: Vigente
 redaccion: original
 fuente_oficial: http://www.juntadeandalucia.es/boja/2009/195/1
 fuente_pdf_oficial: http://www.juntadeandalucia.es/boja/pdf/2009/195/1
+clasificacion:
+  categoria_canonica: 02_gestion_y_administracion_centros
+  subcategoria: Formación Profesional
+fundamentos_derecho:
+- norma_id: norm-and-l17-2007
+- norma_id: norm-and-l6-2006-gobierno-comunidad-autonoma-andalucia
+- norma_id: norm-and-d-151-1997
+- norma_id: norm-es-l-53-1984
+- norma_id: norm-es-2002-12018
+- norma_id: norm-es-2005-21534
 ---
-
 # Decreto 334/2009, de 22 de septiembre, por el que se regulan los centros integrados de formación profesional en la Comunidad Autónoma de Andalucía.
 
 ## Preámbulo
@@ -25,7 +34,7 @@ fuente_pdf_oficial: http://www.juntadeandalucia.es/boja/pdf/2009/195/1
 DECRETO 334/2009, de 22 de septiembre, por el 
 que se regulan los centros integrados de formación pro-
 fesional en la Comunidad Autónoma de Andalucía.
-La Ley Orgánica 5/2002, 19 de junio, de las Cualifica-
+La [Ley Orgánica 5/2002](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO5_2002_cualificaciones_formacion_profesional.md), 19 de junio, de las Cualifica-
 ciones y de la Formación Profesional, tiene por objeto la or-
 denación de un sistema integrado de formación profesional, 
 cualificaciones y acreditación, que responda con eficacia y 
@@ -42,7 +51,7 @@ de las Comunidades Autónomas, en el ámbito de sus respec-
 tivas competencias, adaptarán la composición y funciones de 
 los Centros integrados de formación profesional a sus caracte-
 rísticas específicas.
-El Real Decreto 1558/2005, de 23 de diciembre, por el 
+El [Real Decreto 1558/2005](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1558_2005_regulan_requisitos_basicos_centros_integrados_formacion.md), de 23 de diciembre, por el 
 que se regulan los requisitos básicos de los Centros integrados 
 de formación profesional, establece la tipología, fines y funcio-
 nes de dichos centros, así como las condiciones que deberán 
@@ -59,14 +68,14 @@ sional para el Empleo, contemplan, entre otros, a los Centros
 integrados de formación profesional como centros que impar-
 ten tanto formación profesional del sistema educativo, como 
 formación profesional para el empleo.
-La Ley 17/2007, de 10 de diciembre, de Educación de 
+La [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre, de Educación de 
 Andalucía, establece en su artículo 73 la creación de una red 
 de Centros integrados de formación profesional que imparti-
 rán todas las ofertas correspondientes a los subsistemas de 
 formación profesional, referidas al Catálogo nacional de cua-
 lificaciones profesionales, conducentes a la obtención de los 
 títulos de formación profesional y certificados de profesiona-
-lidad a los que se refiere la Ley Orgánica 5/2002, de 19 de 
+lidad a los que se refiere la [Ley Orgánica 5/2002](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO5_2002_cualificaciones_formacion_profesional.md), de 19 de 
 junio. En colaboración con las organizaciones empresariales y 
 sindicales más representativas, la Administración de la Junta 
 de Andalucía organizará un modelo de planificación común 
@@ -134,7 +143,7 @@ Escolar de Andalucía y el Consejo Andaluz de Formación Pro-
 fesional.
 En su virtud, a propuesta del Consejero de la Presidencia, 
 de conformidad con lo establecido en el artículo 27.9 de la 
-Ley 6/2006, de 24 de octubre, de acuerdo con el Consejo 
+[Ley 6/2006](../01_marco_normativo_general_y_organico/L6_2006_gobierno_comunidad_autonoma_andalucia.md), de 24 de octubre, de acuerdo con el Consejo 
 Consultivo de Andalucía y previa deliberación del Consejo de 
 Gobierno, en su reunión del día 22 de septiembre de 2009.
 D I S P O N G O
@@ -392,7 +401,7 @@ tentes en materia de educación y de empleo.
 profesional.
 Los Centros públicos y privados integrados de formación 
 profesional se inscribirán en el Registro de Centros Docentes 
-establecido en el Decreto 151/1997, de 27 de mayo, por el que 
+establecido en el [Decreto 151/1997](./D151_1997_crea_regula_registro_centros_docentes_andalucia.md), de 27 de mayo, por el que 
 se crea y regula el Registro de Centros Docentes, así como en 
 los registros que, a tales efectos, se establezcan. 
 
@@ -419,7 +428,7 @@ desarrollo de las tareas formativas.
 e) Disponer del profesorado, formadores y expertos pro-
 fesionales suficientes para poder desarrollar las funciones que 
 tienen asignadas. Dichos profesionales habrán de reunir los 
-requisitos que se establecen en el Real Decreto 1558/2005, 
+requisitos que se establecen en el [Real Decreto 1558/2005](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1558_2005_regulan_requisitos_basicos_centros_integrados_formacion.md), 
 de 23 de diciembre, y en este Decreto y aquellos otros que 
 determinen las Administraciones competentes para su contra-
 tación. 
@@ -566,7 +575,7 @@ Laboral, cuando reúnan los requisitos específicos dispuestos
 en los certificados de profesionalidad. 
 2. El personal que preste sus servicios en centros de titu-
 laridad pública estará sujeto al régimen de incompatibilidades 
-previsto en la Ley 53/1984, de 26 de diciembre, de Incom-
+previsto en la [Ley 53/1984](../../../estatal/01_marco_normativo_general_y_organico/L53_1984_incompatibilidades_personal_servicio_administraciones_publicas.md), de 26 de diciembre, de Incom-
 patibilidades del Personal al Servicio de las Administraciones 
 Públicas, y al Decreto 254/2008, de 16 de diciembre, por el 
 que se regulan las competencias y el procedimiento en mate-
@@ -1086,8 +1095,8 @@ letras d), e), j), l), m), ñ) y o), 25.1, 25.2, 27 excepto la letra e),
 28.2 excepto la letra b), disposición adicional primera y dispo-
 sición transitoria primera, reproducen normas dictadas por el 
 Estado al amparo del artículo 149.1.1.ª y 30.ª de la Constitución 
-Española y recogidas en la Ley Orgánica 5/2002, de 19 de ju-
-nio, o en el Real Decreto 1558/2005, de 23 de diciembre.
+Española y recogidas en la [Ley Orgánica 5/2002](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO5_2002_cualificaciones_formacion_profesional.md), de 19 de ju-
+nio, o en el [Real Decreto 1558/2005](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1558_2005_regulan_requisitos_basicos_centros_integrados_formacion.md), de 23 de diciembre.
 
 ### Disposición final tercera. Desarrollo.
 

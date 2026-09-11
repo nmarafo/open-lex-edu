@@ -80,8 +80,19 @@ relaciones:
   - norma_id: norm-es-l-39-2015
   desarrolla:
   - norma_id: norm-es-lo-2-2006
+fundamentos_derecho:
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-mad-d-52-2021
+- norma_id: norm-mad-l1-1983-gobierno-administracion-comunidad-madrid
+- norma_id: norm-mad-l1-2022
+- norma_id: norm-es-l-39-2015
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-lo-3-2018
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-rd-157-2022
+- norma_id: norm-es-2021-18812
+- norma_id: norm-es-2010-12201
 ---
-
 # Decreto 61/2022, de 13 de julio, del Consejo de Gobierno, por el que se establece para la Comunidad de Madrid el currículo de Primaria.
 
 ## Preámbulo
@@ -92,8 +103,8 @@ Vicepresidencia, Consejería de Educación y Universidades
 DECRETO 61/2022, de 13 de julio, del Consejo de Gobierno, por el que se esta-
 blece para la Comunidad de Madrid la ordenación y el currículo de la etapa de
 Educación Primaria.
-La Ley Orgánica 2/2006, de 3 de mayo, de Educación, tras su modificación por la Ley
-Orgánica 3/2020, de 29 de diciembre, por la que se modifica la Ley Orgánica 2/2006, de 3
+La [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, tras su modificación por la Ley
+Orgánica 3/2020, de 29 de diciembre, por la que se modifica la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3
 de mayo, de Educación, define el currículo como el conjunto de objetivos, competencias,
 contenidos, métodos pedagógicos y criterios de evaluación de cada una de las enseñanzas.
 El capítulo III del título preliminar, referido al currículo y a la distribución de competen-
@@ -101,7 +112,7 @@ cias, dispone que con el fin de asegurar una formación común y garantizar la v
 títulos correspondientes, el Gobierno, previa consulta a las Comunidades Autónomas, fija-
 rá, en relación con los objetivos, competencias, contenidos y criterios de evaluación, los as-
 pectos básicos del currículo que constituyen las enseñanzas mínimas. En desarrollo de ese
-imperativo legal, se ha aprobado el Real Decreto 157/2022, de 1 de marzo, por el que se es-
+imperativo legal, se ha aprobado el [Real Decreto 157/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD157_2022_establecen_ordenacion_ensenanzas_minimas_educacion_primaria.md), de 1 de marzo, por el que se es-
 tablece la ordenación y las enseñanzas mínimas de la Educación Primaria. En su artícu-
 lo 11.3 dispone que las administraciones educativas establecerán, conforme a lo dispuesto
 en este Real Decreto, el currículo de la Educación Primaria, del que formarán parte las en-
@@ -114,7 +125,7 @@ De conformidad con lo anteriormente expuesto, el objeto de este Decreto es deter
 nar la ordenación y establecer el currículo de la etapa de Educación Primaria de la Comu-
 nidad de Madrid. En torno a las diferentes áreas de aprendizaje, se determinan las compe-
 tencias específicas, los criterios de evaluación y los contenidos para cada una de ellas.
-Las enseñanzas mínimas marcadas en el Real Decreto 157/2022, de 1 de marzo, re-
+Las enseñanzas mínimas marcadas en el [Real Decreto 157/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD157_2022_establecen_ordenacion_ensenanzas_minimas_educacion_primaria.md), de 1 de marzo, re-
 quieren, en la Comunidad de Madrid, el 60 por ciento de los horarios escolares, conforme
 a lo establecido en su artículo 11.3. El 40 por ciento restante, suma y configura un currícu-
 lo con contenidos indispensables y necesarios para conseguir una formación idónea en el
@@ -144,7 +155,7 @@ de Educación Física para desarrollar hábitos de vida saludable y favorecer un
 
 BOCM
 sarrollo físico y corporal, que se concreta en una dedicación horaria muy superior a la que
-establece, para la citada área, el Real Decreto 157/2022, de 1 de marzo.
+establece, para la citada área, el [Real Decreto 157/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD157_2022_establecen_ordenacion_ensenanzas_minimas_educacion_primaria.md), de 1 de marzo.
 Respecto al desarrollo curricular del área de Educación Artística, permitirá que el
 alumnado aprenda las distintas formas culturales y artísticas de la sociedad, y en cuanto al
 área de Educación en Valores Cívicos y Éticos, se impartirá en quinto curso de la etapa.
@@ -161,15 +172,15 @@ integrados, la promoción, la evaluación, la atención a las diferencias indivi
 nomía de los centros.
 El presente Decreto se adecúa a los principios de buena regulación: necesidad, efica-
 cia, proporcionalidad, seguridad jurídica y transparencia previstos en el artículo 129 de la
-Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Adminis-
-traciones Públicas, y en el artículo 2 del Decreto 52/2021, de 24 de marzo, del Consejo de
+[Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Administrativo Común de las Adminis-
+traciones Públicas, y en el artículo 2 del [Decreto 52/2021](../01_marco_normativo_general_y_organico/D52_2021_procedimiento_elaboracion_disposiciones_normativas_madrid.md), de 24 de marzo, del Consejo de
 Gobierno, por el que se regula y simplifica el procedimiento de elaboración de las disposi-
 ciones normativas de carácter general de la Comunidad de Madrid.
 Conforme a los principios de necesidad y eficacia, esta norma responde al interés ge-
-neral de ordenar, de acuerdo a lo dispuesto en el Real Decreto 157/2022, de 1 de marzo, el
+neral de ordenar, de acuerdo a lo dispuesto en el [Real Decreto 157/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD157_2022_establecen_ordenacion_ensenanzas_minimas_educacion_primaria.md), de 1 de marzo, el
 currículo de la etapa de Educación Primaria en la Comunidad de Madrid, siendo el instru-
-mento más eficaz para dar respuesta al artículo 6.5 de la Ley Orgánica 2/2006, de 3 de
-mayo, y su desarrollo posterior según indica el artículo 11.3 del Real Decreto 157/2022, de
+mento más eficaz para dar respuesta al artículo 6.5 de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de
+mayo, y su desarrollo posterior según indica el artículo 11.3 del [Real Decreto 157/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD157_2022_establecen_ordenacion_ensenanzas_minimas_educacion_primaria.md), de
 1 de marzo, en los que se determina que las administraciones educativas establecerán el
 currículo de la Educación Primaria. Se identifican, además, de forma clara, los fines perse-
 guidos y se garantiza su consecución. La disposición final primera dicta que lo dispuesto en
@@ -177,7 +188,7 @@ este Decreto se implantará para los cursos primero, tercero y quinto en el curs
 lar 2022-2023, y para los cursos segundo, cuarto y sexto en el curso escolar 2023-2024.
 Atendiendo al principio de proporcionalidad, contiene la regulación imprescindible
 para atender la necesidad a cubrir, pues su contenido se ajusta a lo referido en el citado ar-
-tículo 11.3 del Real Decreto 157/2022, de 1 de marzo, y, de acuerdo con el principio de se-
+tículo 11.3 del [Real Decreto 157/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD157_2022_establecen_ordenacion_ensenanzas_minimas_educacion_primaria.md), de 1 de marzo, y, de acuerdo con el principio de se-
 guridad jurídica, genera un marco normativo estable, predecible, integrado, claro y de cer-
 tidumbre, y se incardina, de manera coherente, en el ordenamiento jurídico. El principio de
 transparencia se cumple igualmente, al haberse garantizado en la tramitación del Decreto el
@@ -200,7 +211,7 @@ veles y grados, modalidades y especialidades, de acuerdo con lo dispuesto en el 
 de la Constitución Española y leyes orgánicas que, conforme a su artículo 81.1 lo desarro-
 llen, y sin perjuicio de las facultades que atribuye al Estado el artículo 149.
 En virtud de cuanto antecede, de conformidad con lo dispuesto en el artículo 21 g) de la
-Ley 1/1983, de 13 de diciembre, de Gobierno y Administración de la Comunidad de Madrid,
+[Ley 1/1983](../01_marco_normativo_general_y_organico/L1_1983_gobierno_administracion_comunidad_madrid.md), de 13 de diciembre, de Gobierno y Administración de la Comunidad de Madrid,
 a propuesta del vicepresidente, consejero de Educación y Universidades, de acuerdo con la
 Comisión Jurídica Asesora de la Comunidad de Madrid y previa deliberación, el Consejo de
 Gobierno, en su reunión del día 13 de julio de 2022.
@@ -236,7 +247,7 @@ ceso educativo del alumnado.
 
 #### Artículo 4. Elementos curriculares
 
-El artículo 6.1 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, establece que
+El artículo 6.1 de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, establece que
 el currículo lo conforman el conjunto de objetivos, competencias, contenidos, métodos pe-
 dagógicos y criterios de evaluación de cada una de las enseñanzas. El artículo 2 del Real
 Decreto 157/2022, de 1 de marzo, define objetivos, competencias clave, competencias es-
@@ -320,7 +331,7 @@ accidentes de tráfico.
 #### Artículo 6. Competencias clave y perfil de salida
 
 1.
-Las competencias clave, de acuerdo con el Real Decreto 157/2022, de 1 de mar-
+Las competencias clave, de acuerdo con el [Real Decreto 157/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD157_2022_establecen_ordenacion_ensenanzas_minimas_educacion_primaria.md), de 1 de mar-
 zo, a efectos de este Decreto, son las siguientes:
 a)
 Competencia en comunicación lingüística.
@@ -403,9 +414,9 @@ programaciones didácticas de cada curso.
 #### Artículo 8. Enseñanzas de religión
 
 1.
-De conformidad con el Real Decreto 157/2022, de 1 de marzo, las enseñanzas de
+De conformidad con el [Real Decreto 157/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD157_2022_establecen_ordenacion_ensenanzas_minimas_educacion_primaria.md), de 1 de marzo, las enseñanzas de
 religión se incluirán en la Educación Primaria de acuerdo con lo establecido en la disposi-
-ción adicional segunda de la Ley Orgánica 2/2006, de 3 de mayo.
+ción adicional segunda de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo.
 2.
 Al inicio de la etapa, los padres o tutores legales podrán manifestar la voluntad de
 que sus hijos reciban o no enseñanzas de religión. Dicha decisión será susceptible de ser
@@ -476,7 +487,7 @@ que a tal efecto se determine.
 #### Artículo 10. Principios pedagógicos
 
 1.
-El artículo 6 del Real Decreto 157/2022, de 1 de marzo, determina los principios
+El artículo 6 del [Real Decreto 157/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD157_2022_establecen_ordenacion_ensenanzas_minimas_educacion_primaria.md), de 1 de marzo, determina los principios
 pedagógicos de la etapa de Educación Primaria.
 2.
 En esta etapa se pondrá, además, especial énfasis en garantizar la equidad educa-
@@ -560,7 +571,7 @@ varias áreas. Su carácter interdisciplinar posibilitará la participación con
 grupos de alumnos y profesores en un mismo proyecto integrado en diferentes espacios de
 aprendizaje.
 2.
-En desarrollo del artículo 12.4 del Real Decreto 157/2022, de 1 de marzo, el por-
+En desarrollo del artículo 12.4 del [Real Decreto 157/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD157_2022_establecen_ordenacion_ensenanzas_minimas_educacion_primaria.md), de 1 de marzo, el por-
 centaje del horario lectivo del que podrán disponer los centros para el desarrollo de proyec-
 tos integrados se determina en un máximo de un 9 por ciento del total del horario lectivo
 semanal. En virtud de lo anterior, los centros podrán dedicar entre 0,75 y 2 horas semana-
@@ -620,7 +631,7 @@ En el caso de este alumnado, los referentes para la evaluación de los aprendiza
 serán los criterios de evaluación establecidos en las adaptaciones curriculares que se reali-
 cen, sin que resulte impedimento para promocionar de ciclo o etapa.
 3.
-De conformidad con el artículo 17.1 del Real Decreto 157/2022, de 1 de marzo,
+De conformidad con el artículo 17.1 del [Real Decreto 157/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD157_2022_establecen_ordenacion_ensenanzas_minimas_educacion_primaria.md), de 1 de marzo,
 se podrá flexibilizar el tiempo de permanencia en la etapa, de tal modo que cuando las cir-
 cunstancias personales del alumnado con necesidades educativas especiales lo aconsejen
 para la consecución de los objetivos de la enseñanza básica, se podrá prolongar un curso
@@ -633,7 +644,7 @@ dimiento por el que se autorice la permanencia de un curso más en la etapa de E
 Primaria para el alumnado con necesidades educativas especiales.
 5.
 Entre las medidas de atención educativa que los centros podrán determinar para
-este alumnado, se atenderá a lo dispuesto en el capítulo III del título II de la Ley 1/2022,
+este alumnado, se atenderá a lo dispuesto en el capítulo III del título II de la [Ley 1/2022](../01_marco_normativo_general_y_organico/L1_2022_maestra_libertad_eleccion_educativa_madrid.md),
 de 10 de febrero, Maestra de Libertad de Elección Educativa de la Comunidad de Madrid.
 
 #### Artículo 16. Alumnado con dificultades específicas de aprendizaje
@@ -654,7 +665,7 @@ aprendizaje.
 #### Artículo 17. Alumnado con integración tardía en el sistema educativo español
 
 1.
-De acuerdo al artículo 19 del Real Decreto 157/2022, de 1 de marzo, la escolari-
+De acuerdo al artículo 19 del [Real Decreto 157/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD157_2022_establecen_ordenacion_ensenanzas_minimas_educacion_primaria.md), de 1 de marzo, la escolari-
 zación del alumnado que se incorpora tardíamente al sistema educativo español se realiza-
 rá atendiendo a sus circunstancias, conocimientos, edad e historial académico. Cuando pre-
 senten graves carencias de conocimiento de la lengua española, recibirán una atención
@@ -674,7 +685,7 @@ pondería por edad.
 #### Artículo 18. Alumnado con altas capacidades intelectuales
 
 1.
-De conformidad con lo dispuesto en el artículo 20 del Real Decreto 157/2022, de 1
+De conformidad con lo dispuesto en el artículo 20 del [Real Decreto 157/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD157_2022_establecen_ordenacion_ensenanzas_minimas_educacion_primaria.md), de 1
 de marzo, la escolarización del alumnado con altas capacidades intelectuales se podrá fle-
 xibilizar, de tal forma que se pueda reducir un curso académico la duración de las enseñan-
 zas de Educación Primaria cuando se prevea que esta medida específica es la más adecua-
@@ -859,14 +870,14 @@ Los documentos oficiales de evaluación y procedimientos de validación asociado
 descritos en los apartados anteriores, podrán sustituirse por otros equivalentes realizados por
 medios electrónicos, informáticos o telemáticos, siempre que quede garantizada su autenti-
 cidad, integridad, conservación, y se cumplan las garantías y los requisitos establecidos por
-la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de
-los derechos digitales, por la Ley 39/2015, de 1 de octubre, del Procedimiento Administra-
+la [Ley Orgánica 3/2018](../../../estatal/02_gestion_y_administracion_centros/LO3_2018_proteccion_datos_personales_garantia_derechos_digitales.md), de 5 de diciembre, de Protección de Datos Personales y garantía de
+los derechos digitales, por la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Administra-
 tivo Común de las Administraciones Públicas, y por la normativa que las desarrolla.
 4.
 El expediente electrónico del alumnado estará constituido, al menos, por los datos
 contenidos en los documentos oficiales de evaluación, y contendrá la estructura y formato que
 determine el Ministerio con competencia educativa, según lo dispuesto en el artículo 30.5 del
-Real Decreto 157/2022, de 1 de marzo.
+[Real Decreto 157/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD157_2022_establecen_ordenacion_ensenanzas_minimas_educacion_primaria.md), de 1 de marzo.
 
 #### Artículo 27. Evaluación de diagnóstico
 
@@ -881,11 +892,11 @@ BOCM
 
 1.
 Los centros dispondrán de autonomía pedagógica, de organización y de gestión,
-en los términos recogidos en la Ley Orgánica 2/2006, de 3 de mayo, en las normas que la
+en los términos recogidos en la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, en las normas que la
 desarrollan, así como en lo dispuesto en este Decreto y en su normativa de desarrollo.
 2.
 Los centros decidirán su oferta formativa y fijarán la concreción del currículo. En
-virtud de ello, considerada la disposición transitoria primera del Real Decreto 157/2022,
+virtud de ello, considerada la disposición transitoria primera del [Real Decreto 157/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD157_2022_establecen_ordenacion_ensenanzas_minimas_educacion_primaria.md),
 de 1 de marzo, gozan de autonomía pedagógica para decidir e incorporar a sus planes de es-
 tudio las áreas de Segunda Lengua Extranjera y/o Tecnología y Robótica, en función de los
 recursos disponibles. En este caso, se ajustarán a los límites de dedicación horaria determi-
@@ -959,13 +970,13 @@ No obstante lo anterior, los estándares de aprendizaje evaluables que figuran e
 los Anexos del citado Decreto 89/2014, de 24 de julio, tendrán carácter orientativo para los
 cursos segundo, cuarto y sexto durante el curso escolar 2022-2023.
 
-#### Disposición TRANSITORIA SEGUNDA. Aplicabilidad del Real Decreto 984/2021, de 16 de noviembre,
+#### Disposición TRANSITORIA SEGUNDA. Aplicabilidad del [Real Decreto 984/2021](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD984_2021_regulan_evaluacion_promocion_educacion_primaria_asi.md), de 16 de noviembre,
 
 por el que se regulan la evaluación y la promoción en la Educación Primaria,
 así como la evaluación, la promoción y la titulación en la Educación Secundaria
 Obligatoria, el Bachillerato y la Formación Profesional
-De acuerdo con la disposición transitoria segunda del Real Decreto 157/2022, de 1 de
-marzo, el Real Decreto 984/2021, de 16 de noviembre, por el que se regulan la evaluación
+De acuerdo con la disposición transitoria segunda del [Real Decreto 157/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD157_2022_establecen_ordenacion_ensenanzas_minimas_educacion_primaria.md), de 1 de
+marzo, el [Real Decreto 984/2021](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD984_2021_regulan_evaluacion_promocion_educacion_primaria_asi.md), de 16 de noviembre, por el que se regulan la evaluación
 y la promoción en la Educación Primaria, así como la evaluación, la promoción y la titula-
 ción en la Educación Secundaria Obligatoria, el Bachillerato y la Formación Profesional,
 se aplicará, en su integridad, a los cursos de segundo, cuarto y sexto de Educación Prima-
@@ -1033,7 +1044,7 @@ adquirir el alumnado al finalizar la etapa. Estos descriptores han sido el refer
 cada área; la correlación entre los descriptores operativos y las competencias específicas conlleva que, de la valoración de estas
 últimas a través de los criterios de evaluación asociados, pueda concluirse el grado de adquisición de las competencias clave y, por
 tanto, la consecución de los objetivos previstos para la etapa de Educación Primaria.
-En el anexo I del Real Decreto 157/2022, de 1 de marzo, se describen las competencias clave y los descriptores operativos que, con
+En el anexo I del [Real Decreto 157/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD157_2022_establecen_ordenacion_ensenanzas_minimas_educacion_primaria.md), de 1 de marzo, se describen las competencias clave y los descriptores operativos que, con
 carácter prescriptivo, se exigen al término de la enseñanza básica. A continuación, para cada una de las citadas competencias, se
 presentan los descriptores operativos que orientan sobre el grado de desarrollo competencial esperado al término de la etapa de
 Educación Primaria en la Comunidad de Madrid:
@@ -1154,8 +1165,8 @@ BOCM
 ## Anexo II. Áreas de Educación Primaria
 
 Con independencia de lo establecido en el presente anexo, el desarrollo curricular que compete a los centros educativos incorporará
-los elementos curriculares de las enseñanzas mínimas establecidas en el Real Decreto 157/2022, de 1 de marzo. Los términos:
-perspectiva de género, sexista, ecosocial, ecodependencia y socioafectivo, entre otros, incluidos en el Real Decreto 157/2022, de 1
+los elementos curriculares de las enseñanzas mínimas establecidas en el [Real Decreto 157/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD157_2022_establecen_ordenacion_ensenanzas_minimas_educacion_primaria.md), de 1 de marzo. Los términos:
+perspectiva de género, sexista, ecosocial, ecodependencia y socioafectivo, entre otros, incluidos en el [Real Decreto 157/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD157_2022_establecen_ordenacion_ensenanzas_minimas_educacion_primaria.md), de 1
 de marzo, serán de aplicación de acuerdo con lo dispuesto en el apartado 4 del artículo 6 de la Ley Orgánica de Educación 2/2006,
 de 3 de mayo, de Educación.
 Ciencias de la Naturaleza
@@ -1192,7 +1203,7 @@ Por su parte, el bloque B, «Tecnología y digitalización», se centra en el de
 diseño y pensamiento computacional para que el alumnado maneje, de forma básica, herramientas y recursos digitales como medios
 de aprendizaje, y pueda comunicarse en un entorno digital de manera responsable. Las competencias específicas de esta área se
 identifican con las competencias 1, 2, 3, 4, 5 y 6 reconocidas para el área de Conocimiento del Medio Natural, Social y Cultural en
-el Real Decreto 157/2022, de 1 de marzo. Las competencias específicas 5 y 6 se comparten con el área de Ciencias Sociales, si
+el [Real Decreto 157/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD157_2022_establecen_ordenacion_ensenanzas_minimas_educacion_primaria.md), de 1 de marzo. Las competencias específicas 5 y 6 se comparten con el área de Ciencias Sociales, si
 bien en el área de Ciencias de la Naturaleza se centran en capacidades relacionadas con el entorno natural.
 A continuación, se relacionan los criterios de evaluación asociados a cada una de las seis competencias y los contenidos
 relacionados para cada ciclo.
@@ -1859,7 +1870,7 @@ presente y del entorno nacional y mundial, para entender la evolución de las so
 por otro lado, a que el alumnado conozca las interacciones entre la actividad humana y el medio y el impacto que generan en el
 medio ambiente.
 Las competencias específicas 5, 6, 7, 8 y 9 descritas para el área de Conocimiento del Medio Natural, Social y Cultural en el anexo
-I del Real Decreto 157/2022, de 1 de marzo, se identifican con las competencias específicas 1, 2, 3, 4 y 5 de esta área
+I del [Real Decreto 157/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD157_2022_establecen_ordenacion_ensenanzas_minimas_educacion_primaria.md), de 1 de marzo, se identifican con las competencias específicas 1, 2, 3, 4 y 5 de esta área
 respectivamente. Las competencias específicas 5 y 6 del citado real decreto comparten capacidades comunes del área de Ciencias
 de la Naturaleza y del área de Ciencias Sociales, aunque en el primer caso se centran en el medio natural y en el segundo en el
 social y cultural, y así se observa en la presentación del currículo adjunto:
@@ -2385,7 +2396,7 @@ el reconocimiento, recepción y observación sensitiva, visual, auditiva y corpo
 interpretación; se refiere a la expresión creativa de ideas, sentimientos y emociones mediante la exploración, el conocimiento, la
 ejecución y la utilización creativa de diferentes códigos, elementos, herramientas, instrumentos, materiales, medios, recursos,
 soportes, programas, aplicaciones y técnicas culturales y artísticas.
-En el anexo I del Real Decreto 157/2022, de 1 de marzo, se describen las competencias específicas vinculadas a esta área. A
+En el anexo I del [Real Decreto 157/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD157_2022_establecen_ordenacion_ensenanzas_minimas_educacion_primaria.md), de 1 de marzo, se describen las competencias específicas vinculadas a esta área. A
 continuación, se presentan los criterios de evaluación asociados a cada una de ellas, ordenados por ciclo, y los contenidos
 relacionados.
 
@@ -3611,7 +3622,7 @@ y proporcionada todos los contenidos incluidos en el currículo.
 De igual manera, con el objetivo de determinar el avance en el grado de adquisición de las competencias específicas del área, se
 establecen los criterios de evaluación para cada uno de los ciclos de la etapa. La respuesta a estos criterios deberá tener en cuenta
 tanto los productos finales esperados como los procesos y actitudes que acompañan su elaboración. Para ello, se utilizarán
-herramientas e instrumentos de evaluación variados. En el anexo I del Real Decreto 157/2022, de 1 de marzo, se describen las
+herramientas e instrumentos de evaluación variados. En el anexo I del [Real Decreto 157/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD157_2022_establecen_ordenacion_ensenanzas_minimas_educacion_primaria.md), de 1 de marzo, se describen las
 competencias específicas de esta área. A continuación, se presentan los criterios de evaluación asociados a cada una de ellas,
 ordenados por ciclo, y los contenidos relacionados.
 
@@ -4534,7 +4545,7 @@ de la Comunidad de Madrid, presenta los «Contenidos sintáctico-discursivos» d
 En conclusión, la adquisición de la lengua inglesa en esta etapa, debe ser un proceso ameno, divertido, práctico y de creación de la
 lengua, que amplíe las posibilidades comunicativas de los alumnos, les permita ser más autónomos en su aprendizaje y desarrolle
 la curiosidad por el conocimiento de otras realidades sociales y culturales.
-En el anexo I del Real Decreto 157/2022, de 1 de marzo, se describen las competencias específicas de esta área. A continuación,
+En el anexo I del [Real Decreto 157/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD157_2022_establecen_ordenacion_ensenanzas_minimas_educacion_primaria.md), de 1 de marzo, se describen las competencias específicas de esta área. A continuación,
 se presentan esas competencias asociadas a los criterios de evaluación por ciclo, así como los contenidos relacionados.
 
 PRIMER CICLO
@@ -5257,7 +5268,7 @@ dominio del espacio, el tiempo, la proporción, optimización de recursos, el an
 digital.
 Además de ese carácter instrumental, las matemáticas poseen un valor propio como campo de conocimiento, que se concreta en la
 determinación de un área específica en las diferentes enseñanzas, en este caso en la Educación Primaria, cuya dedicación horaria
-ha sido ampliada considerablemente por este currículo en relación con la dedicación horaria asignada por el Real Decreto 157/2022,
+ha sido ampliada considerablemente por este currículo en relación con la dedicación horaria asignada por el [Real Decreto 157/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD157_2022_establecen_ordenacion_ensenanzas_minimas_educacion_primaria.md),
 de 1 de marzo.
 El currículo del área de matemáticas se encamina a conseguir, por un lado, el desarrollo máximo de las potencialidades en todo el
 alumnado y por otra, la alfabetización matemática, es decir, la adquisición de los conocimientos, las habilidades y las herramientas
@@ -5294,7 +5305,7 @@ se inician las primeras abstracciones. Los recursos digitales representan un ali
 de situaciones de aprendizaje que propicien la reflexión, el razonamiento, el establecimiento de conexiones, la comunicación y la
 representación. El uso de diferentes metodologías didácticas que potencien en el alumnado el estímulo por aprender y generen
 curiosidad contribuirá al desarrollo efectivo de las competencias.
-La descripción de las competencias específicas de esta área se determina en el anexo I del Real Decreto 157/2022, de 1 de marzo.
+La descripción de las competencias específicas de esta área se determina en el anexo I del [Real Decreto 157/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD157_2022_establecen_ordenacion_ensenanzas_minimas_educacion_primaria.md), de 1 de marzo.
 A continuación, se presentan los criterios de evaluación asociados a cada competencia específica para cada ciclo, así como los
 contenidos relacionados.
 

@@ -26,8 +26,14 @@ tags:
 - seleccion_centros
 - bilinguismo
 - madrid
+fundamentos_derecho:
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-mad-l1-1983-gobierno-administracion-comunidad-madrid
+- norma_id: norm-es-l-39-2015
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
 ---
-
 # Selección colegios bilingües– Orden 3346/2020, de 21 de diciembre, del Consejero de Educación y Juventud, de selección de colegios públicos de Educación Infantil y Primaria de la Comunidad de Madrid en los que se llevará a cabo la implantación de la enseñanza bilingüe español-inglés en Educación Primaria en el curso 2021-2022
 
 ## Preámbulo
@@ -39,7 +45,7 @@ ORDEN 3346/2020, de 21 de diciembre, del Consejero de Educación y Juventud,
 de selección de colegios públicos de Educación Infantil y Primaria de la Comu-
 nidad de Madrid en los que se llevará a cabo la implantación de la enseñanza
 bilingüe español-inglés en Educación Primaria en el curso 2021-2022.
-La Ley Orgánica 2/2006, de 3 de marzo, de Educación, establece en su artículo 2 la ne-
+La [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de marzo, de Educación, establece en su artículo 2 la ne-
 cesidad de capacitar al alumnado para la comunicación en una o más lenguas extranjeras.
 En su artículo 17.f) se incluye, asimismo, entre los objetivos de la Educación Primaria la
 necesidad de adquirir la competencia comunicativa básica que permita al alumnado de esta
@@ -69,7 +75,7 @@ se establece la estructura orgánica de la Consejería de Educación y Juventud,
 ría es el órgano de la Comunidad de Madrid al que se atribuyen las competencias de esta
 Administración autonómica en relación con la educación, siendo, en consecuencia, la com-
 petente para aprobar la presente orden.
-A tal fin, y de conformidad con el artículo 41 de la Ley 1/1983, de 13 de diciembre, de
+A tal fin, y de conformidad con el artículo 41 de la [Ley 1/1983](../01_marco_normativo_general_y_organico/L1_1983_gobierno_administracion_comunidad_madrid.md), de 13 de diciembre, de
 Gobierno y Administración
 DISPONGO:
 
@@ -180,7 +186,7 @@ se requerirá al interesado para que complete el expediente en un plazo de diez 
 contados a partir del siguiente al de la recepción de la notificación, con la advertencia de
 que, en caso de no aportarse la totalidad de la documentación requerida durante dicho pla-
 zo, se le tendrá por desistido de su petición, previa resolución expresa, en los términos es-
-tablecidos en el artículo 68 de la Ley 39/2015, de 1 de octubre, del Procedimiento Admi-
+tablecidos en el artículo 68 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Admi-
 nistrativo Común de las Administraciones Públicas.
 La documentación requerida podrá aportarse telemáticamente durante la tramitación
 del expediente, en los plazos establecidos para ello, a través de la opción “Aportación de
@@ -264,7 +270,7 @@ partir del día en que finalice el plazo de presentación de las solicitudes. Co
 de resolución, que pone fin a la vía administrativa, podrá interponerse recurso potestativo
 de reposición ante el titular de la Consejería de Educación y Juventud en el plazo de un mes,
 desde el día siguiente a la publicación de la Resolución, de acuerdo con lo dispuesto en los
-artículos 123 y 124 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo
+artículos 123 y 124 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Administrativo
 Común de las Administraciones Públicas.
 No obstante, podrá optarse por interponer directamente recurso contencioso-adminis-
 trativo ante la Sala de lo Contencioso-Administrativo del Tribunal Superior de Justicia de
@@ -443,11 +449,11 @@ siguientes finalidades:
 -Selección de colegios públicos de Educación Infantil y Primaria en los que se llevará a cabo la implantación del Programa Bilingüe español-inglés en
 el curso 2021-2022
 3. ¿Cuál es la legitimación en la cual se basa la licitud del tratamiento?
-Base de legitimación: Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+Base de legitimación: [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación.
 Base jurídica: RGPD 6.1 e) el tratamiento es necesario para el cumplimiento de una misión realizada en interés público o en el ejercicio de poderes
 públicos conferidos al responsable del tratamiento.
 4. ¿Cómo ejercer sus derechos? ¿Cuáles son sus derechos cuando nos facilita sus datos?
-Según la Ley 39/2015, el RGPD (UE) y la Ley Orgánica 3/201, puede ejercitar, si lo desea, los derechos de acceso, rectificación y supresión de datos,
+Según la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), el RGPD (UE) y la Ley Orgánica 3/201, puede ejercitar, si lo desea, los derechos de acceso, rectificación y supresión de datos,
 así como solicitar que se limite el tratamiento de sus datos personales, oponerse al mismo, solicitar en su caso la portabilidad de sus datos, así como
 a no ser objeto de una decisión individual basada únicamente en el tratamiento automatizado, incluida la elaboración de perfiles, tanto por Registro
 Electrónico como por Registro Presencial, en ambos casos haciendo constar la referencia «Ejercicio de derechos de protección de datos».
@@ -554,11 +560,11 @@ siguientes finalidades:
 -Selección de colegios públicos de Educación Infantil y Primaria en los que se llevará a cabo la implantación del Programa Bilingüe español-inglés en
 el curso 2021-2022
 3. ¿Cuál es la legitimación en la cual se basa la licitud del tratamiento?
-Base de legitimación: Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+Base de legitimación: [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación.
 Base jurídica: RGPD 6.1 e) el tratamiento es necesario para el cumplimiento de una misión realizada en interés público o en el ejercicio de poderes
 públicos conferidos al responsable del tratamiento.
 4. ¿Cómo ejercer sus derechos? ¿Cuáles son sus derechos cuando nos facilita sus datos?
-Según la Ley 39/2015, el RGPD (UE) y la Ley Orgánica 3/201, puede ejercitar, si lo desea, los derechos de acceso, rectificación y supresión de datos,
+Según la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), el RGPD (UE) y la Ley Orgánica 3/201, puede ejercitar, si lo desea, los derechos de acceso, rectificación y supresión de datos,
 así como solicitar que se limite el tratamiento de sus datos personales, oponerse al mismo, solicitar en su caso la portabilidad de sus datos, así como
 a no ser objeto de una decisión individual basada únicamente en el tratamiento automatizado, incluida la elaboración de perfiles, tanto por Registro
 Electrónico como por Registro Presencial, en ambos casos haciendo constar la referencia «Ejercicio de derechos de protección de datos».
@@ -656,13 +662,13 @@ el curso 2021-2022
 
 3. ¿Cuál es la legitimación en la cual se basa la licitud del tratamiento?
 
-Base de legitimación: Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+Base de legitimación: [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación.
 Base jurídica: RGPD 6.1 e) el tratamiento es necesario para el cumplimiento de una misión realizada en interés público o en el ejercicio de poderes
 públicos conferidos al responsable del tratamiento.
 
 4. ¿Cómo ejercer sus derechos? ¿Cuáles son sus derechos cuando nos facilita sus datos?
 
-Según la Ley 39/2015, el RGPD (UE) y la Ley Orgánica 3/201, puede ejercitar, si lo desea, los derechos de acceso, rectificación y supresión de datos,
+Según la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), el RGPD (UE) y la Ley Orgánica 3/201, puede ejercitar, si lo desea, los derechos de acceso, rectificación y supresión de datos,
 así como solicitar que se limite el tratamiento de sus datos personales, oponerse al mismo, solicitar en su caso la portabilidad de sus datos, así como
 a no ser objeto de una decisión individual basada únicamente en el tratamiento automatizado, incluida la elaboración de perfiles, tanto por Registro
 Electrónico como por Registro Presencial, en ambos casos haciendo constar la referencia «Ejercicio de derechos de protección de datos».
@@ -776,13 +782,13 @@ curso 2021-2022
 
 3. ¿Cuál es la legitimación en la cual se basa la licitud del tratamiento?
 
-Base de legitimación: Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+Base de legitimación: [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación.
 Base jurídica: RGPD 6.1 e) el tratamiento es necesario para el cumplimiento de una misión realizada en interés público o en el ejercicio de poderes
 públicos conferidos al responsable del tratamiento.
 
 4. ¿Cómo ejercer sus derechos? ¿Cuáles son sus derechos cuando nos facilita sus datos?
 
-Según la Ley 39/2015, el RGPD (UE) y la Ley Orgánica 3/201, puede ejercitar, si lo desea, los derechos de acceso, rectificación y supresión de datos,
+Según la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), el RGPD (UE) y la Ley Orgánica 3/201, puede ejercitar, si lo desea, los derechos de acceso, rectificación y supresión de datos,
 así como solicitar que se limite el tratamiento de sus datos personales, oponerse al mismo, solicitar en su caso la portabilidad de sus datos, así como
 a no ser objeto de una decisión individual basada únicamente en el tratamiento automatizado, incluida la elaboración de perfiles, tanto por Registro
 Electrónico como por Registro Presencial, en ambos casos haciendo constar la referencia «Ejercicio de derechos de protección de datos».
@@ -884,11 +890,11 @@ siguientes finalidades:
 -Selección de institutos públicos de Educación Secundaria en los que se llevará a cabo la implantación del Programa Bilingüe español-inglés en el
 curso 2021-2022
 3. ¿Cuál es la legitimación en la cual se basa la licitud del tratamiento?
-Base de legitimación: Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+Base de legitimación: [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación.
 Base jurídica: RGPD 6.1 e) el tratamiento es necesario para el cumplimiento de una misión realizada en interés público o en el ejercicio de poderes
 públicos conferidos al responsable del tratamiento.
 4. ¿Cómo ejercer sus derechos? ¿Cuáles son sus derechos cuando nos facilita sus datos?
-Según la Ley 39/2015, el RGPD (UE) y la Ley Orgánica 3/201, puede ejercitar, si lo desea, los derechos de acceso, rectificación y supresión de datos,
+Según la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), el RGPD (UE) y la Ley Orgánica 3/201, puede ejercitar, si lo desea, los derechos de acceso, rectificación y supresión de datos,
 así como solicitar que se limite el tratamiento de sus datos personales, oponerse al mismo, solicitar en su caso la portabilidad de sus datos, así como
 a no ser objeto de una decisión individual basada únicamente en el tratamiento automatizado, incluida la elaboración de perfiles, tanto por Registro
 Electrónico como por Registro Presencial, en ambos casos haciendo constar la referencia «Ejercicio de derechos de protección de datos».
@@ -1008,13 +1014,13 @@ el curso 2021-2022
 
 3. ¿Cuál es la legitimación en la cual se basa la licitud del tratamiento?
 
-Base de legitimación: Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+Base de legitimación: [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación.
 Base jurídica: RGPD 6.1 e) el tratamiento es necesario para el cumplimiento de una misión realizada en interés público o en el ejercicio de poderes
 públicos conferidos al responsable del tratamiento.
 
 4. ¿Cómo ejercer sus derechos? ¿Cuáles son sus derechos cuando nos facilita sus datos?
 
-Según la Ley 39/2015, el RGPD (UE) y la Ley Orgánica 3/201, puede ejercitar, si lo desea, los derechos de acceso, rectificación y supresión de datos,
+Según la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), el RGPD (UE) y la Ley Orgánica 3/201, puede ejercitar, si lo desea, los derechos de acceso, rectificación y supresión de datos,
 así como solicitar que se limite el tratamiento de sus datos personales, oponerse al mismo, solicitar en su caso la portabilidad de sus datos, así como
 a no ser objeto de una decisión individual basada únicamente en el tratamiento automatizado, incluida la elaboración de perfiles, tanto por Registro
 Electrónico como por Registro Presencial, en ambos casos haciendo constar la referencia «Ejercicio de derechos de protección de datos».

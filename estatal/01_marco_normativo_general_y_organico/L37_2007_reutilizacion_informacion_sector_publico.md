@@ -54,8 +54,9 @@ relaciones:
   articulos:
   - norma_id: '1'
   - norma_id: norm-es-1999-23750
+fundamentos_derecho:
+- norma_id: norm-es-1999-23750
 ---
-
 # Ley 37/2007, de 16 de noviembre, sobre reutilización de la información del sector público.
 
 ## Preámbulo

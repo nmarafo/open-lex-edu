@@ -1,6 +1,7 @@
 ---
 id: norm-and-d285-2010-regulacion-sistema-informacion-seneca-andalucia
-titulo: Decreto 285/2010, de 11 de mayo, por el que se regula el Sistema de Información Séneca y se establece su utilización para la gestión del sistema educativo andaluz.
+titulo: Decreto 285/2010, de 11 de mayo, por el que se regula el Sistema de Información
+  Séneca y se establece su utilización para la gestión del sistema educativo andaluz.
 jurisdiccion: Andalucía
 ambito: Autonómico
 organo_emisor: Dirección General de Profesorado y Gestión de Recursos Humanos
@@ -17,8 +18,15 @@ fuente_pdf_oficial: http://www.juntadeandalucia.es/boja/2010/101/d1.pdf
 clasificacion:
   categoria_canonica: 02_gestion_y_administracion_centros
   subcategoria: Gestión telemática y sistemas de información
+fundamentos_derecho:
+- norma_id: norm-and-l12-2007-promocion-igualdad-genero-andalucia
+- norma_id: norm-and-l17-2007
+- norma_id: norm-and-l6-2006-gobierno-comunidad-autonoma-andalucia
+- norma_id: norm-and-l4-1984
+- norma_id: norm-es-2003-23399
+- norma_id: norm-es-1999-23750
+- norma_id: norm-es-2008-979
 ---
-
 # Decreto 285/2010, de 11 de mayo, por el que se regula el Sistema de Información Séneca y se establece su utilización para la gestión del sistema educativo andaluz.
 
 ## Preámbulo
@@ -78,7 +86,7 @@ como a la gestión administrativa de los centros y servicios
 educativos, velando para el cumplimiento efectivo del principio 
 de igualdad por razón de género en la aplicación y desarrollo 
 del presente Decreto. 
-La Ley 17/2007, de 10 de diciembre, de Educación de 
+La [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre, de Educación de 
 Andalucía, aborda diversos aspectos relacionados con la des-
 centralización y modernización de la Administración educativa. 
 Así, el artículo 142 regula el funcionamiento en red de los cen-
@@ -109,12 +117,12 @@ reciendo un acceso igualitario de la población a los servicios
 educativos.
 En la tramitación de la presente norma se ha cumplimen-
 tado el trámite de audiencia, de conformidad con lo estable-
-cido en el artículo 45.1.c) de la Ley 6/2006, de 24 de octubre, 
+cido en el artículo 45.1.c) de la [Ley 6/2006](../01_marco_normativo_general_y_organico/L6_2006_gobierno_comunidad_autonoma_andalucia.md), de 24 de octubre, 
 del Gobierno de la Comunidad Autónoma de Andalucía, y ha 
 emitido informe el Consejo Escolar de Andalucía.
 En su virtud, a propuesta del Consejero de Educación, 
 de conformidad con lo establecido en el artículo 27.9 de la 
-Ley 6/2006, de 24 de octubre, de acuerdo con el Consejo 
+[Ley 6/2006](../01_marco_normativo_general_y_organico/L6_2006_gobierno_comunidad_autonoma_andalucia.md), de 24 de octubre, de acuerdo con el Consejo 
 Consultivo de Andalucía y previa deliberación del Consejo de 
 Gobierno, en su reunión del día 11 de mayo de 2010,
 D I S P O N G O
@@ -149,7 +157,7 @@ g) Las escuelas de música y de danza y los centros auto-
 rizados que impartan las enseñanzas elementales de música 
 y de danza.
 h) Los servicios de apoyo a la educación a los que se 
-refiere el artículo 144 de la Ley 17/2007, de 10 de diciembre, 
+refiere el artículo 144 de la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre, 
 de Educación de Andalucía.
 i) La inspección educativa.
 j) Los servicios, programas y actividades de la Administra-
@@ -258,7 +266,7 @@ seguro, aportando el código de identificación personal y la
 contraseña correspondiente, u otros sistemas de autentica-
 ción previstos en la normativa vigente. En todo caso, se estará 
 a lo dispuesto en el artículo 93 del Reglamento de desarrollo 
-de la Ley Orgánica 15/1999, de 13 de diciembre, de protec-
+de la [Ley Orgánica 15/1999](../../../estatal/02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md), de 13 de diciembre, de protec-
 ción de datos de carácter personal, aprobado por Real Decreto 
 1720/2007, de 21 de diciembre. A las personas usuarias del 
 sistema se les asignarán distintos perfiles atendiendo a los di-
@@ -279,9 +287,9 @@ Página núm. 9
 c) La protección de los procesos informáticos frente a ma-
 nipulaciones no autorizadas.
 d) La confidencialidad de la información contenida en el 
-sistema, estando a lo dispuesto en la Ley Orgánica 15/1999, 
+sistema, estando a lo dispuesto en la [Ley Orgánica 15/1999](../../../estatal/02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md), 
 de 13 de diciembre, de protección de datos de carácter perso-
-nal, y en el Real Decreto 1720/2007, de 21 de diciembre.
+nal, y en el [Real Decreto 1720/2007](../../../estatal/02_gestion_y_administracion_centros/LO1720_2007_aprueba_reglamento_desarrollo_ley_organica_proteccion.md), de 21 de diciembre.
 e) La adecuación del sistema a las prescripciones de la 
 Ley 11/2007, de 22 de junio, de acceso electrónico de los ciu-
 dadanos a los servicios públicos, y del Decreto 183/2003, de 
@@ -310,14 +318,14 @@ recogen en el artículo 12.
 de educación la creación, modificación y supresión de los fi-
 cheros que contengan datos de carácter personal gestionados 
 en el ámbito del sistema de información SÉNECA, conforme a 
-lo dispuesto en el artículo 20 de la Ley Orgánica 15/1999, de 
+lo dispuesto en el artículo 20 de la [Ley Orgánica 15/1999](../../../estatal/02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md), de 
 13 de diciembre, así como notificar los mismos a la Agencia 
 Española de Protección de Datos.
 3. Las personas titulares de los órganos responsables de 
 cada fichero adoptarán las medidas necesarias para asegurar 
 la confidencialidad e integridad de los datos, así como las con-
 ducentes a hacer efectivos los demás derechos, obligaciones 
-y garantías reconocidos en la citada Ley Orgánica 15/1999, 
+y garantías reconocidos en la citada [Ley Orgánica 15/1999](../../../estatal/02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md), 
 de 13 de diciembre, y demás normativa que resulte de apli-
 cación.
 4. La Consejería competente en materia de educación po-
@@ -326,7 +334,7 @@ sometidos a tratamiento de disociación, a otros órganos o en-
 tidades de la Administración de la Junta de Andalucía o de 
 otras Administraciones Públicas, cuando concurra alguno de 
 los supuestos recogidos en el artículo 10.4.c) del Reglamento 
-de desarrollo de la Ley Orgánica 15/1999, de 13 de diciem-
+de desarrollo de la [Ley Orgánica 15/1999](../../../estatal/02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md), de 13 de diciem-
 bre, de protección de datos de carácter personal.
 Artículo 8. Usuarios y usuarias del sistema de información 
 SÉNECA.
@@ -347,7 +355,7 @@ de conformidad con lo establecido en el artículo 10 de la Ley
 tente en materia de educación establecerá el documento de 
 seguridad del sistema de información SÉNECA de conformi-
 dad con lo establecido en el artículo 88 del Reglamento de 
-desarrollo de la Ley Orgánica 15/1999, de 13 de diciembre, 
+desarrollo de la [Ley Orgánica 15/1999](../../../estatal/02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md), de 13 de diciembre, 
 de protección de datos de carácter personal, que obligará a 
 todos los usuarios y usuarias del mismo.
 Artículo 9. Validez y eficacia de los documentos electró-
@@ -362,13 +370,13 @@ inspección educativa que corresponda o de la persona titular
 del órgano o servicio competente para la emisión del docu-
 mento.
 2. A tales efectos, se entenderá por firma electrónica re-
-conocida la regulada en el artículo 3.3 de la Ley 59/2003, de 
+conocida la regulada en el artículo 3.3 de la [Ley 59/2003](../../../estatal/02_gestion_y_administracion_centros/L59_2003_firma_electronica.md), de 
 19 de diciembre, de firma electrónica. Las personas físicas 
 podrán, en todo caso y con carácter universal, utilizar los sis-
 tema de firma electrónica incorporados al Documento Nacio-
 nal de Identidad.
 3. De conformidad con lo establecido en el artículo 3.4 
-de la Ley 59/2003, de 19 de diciembre, la firma electrónica 
+de la [Ley 59/2003](../../../estatal/02_gestion_y_administracion_centros/L59_2003_firma_electronica.md), de 19 de diciembre, la firma electrónica 
 reconocida tendrá respecto de los datos consignados de forma 
 electrónica el mismo valor que la firma manuscrita en relación 
 con los consignados en papel.
@@ -382,7 +390,7 @@ chos datos, los derechos de acceso, rectificación, cancelación
 y oposición en los términos previstos en dicha Ley Orgánica y 
 en el Reglamento de desarrollo de la misma. 
 2. De acuerdo con lo dispuesto en el artículo 17 de la 
-Ley Orgánica 15/1999, de 13 de diciembre, el procedimiento 
+[Ley Orgánica 15/1999](../../../estatal/02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md), de 13 de diciembre, el procedimiento 
 para el ejercicio de los derechos de acceso, rectificación, can-
 celación y oposición será el establecido en el artículo 25 del 
 Reglamento de desarrollo de dicha Ley Orgánica.
@@ -428,7 +436,7 @@ cativa, en el que dejarán constancia escrita de las visitas rea-
 lizadas en el ejercicio de sus funciones a los centros docentes 
 públicos y privados, así como a los servicios e instalaciones en 
 los que se desarrollen actividades educativas, de conformidad 
-con lo recogido en el artículo 149.1 de la Ley 17/2007, de 10 
+con lo recogido en el artículo 149.1 de la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 
 de diciembre.
 Artículo 12. Información obligatoria para todos los centros 
 y servicios.
@@ -489,7 +497,7 @@ tiva se encuentre amparado por una ley estatal o autonómica.
 concertados cumplimentarán en el sistema de información SÉ-
 NECA el Plan de Centro y la memoria de autoevaluación a los 
 que se refieren los artículos 126 y 130.2, respectivamente, de 
-la Ley 17/2007, de 10 de diciembre.
+la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre.
 3. Las escuelas infantiles y los centros educativos pri-
 vados que impartan el primer ciclo de la educación infantil y 
 hayan suscrito convenio con la Administración educativa para 
@@ -621,9 +629,9 @@ ción del Decreto 332/1988, de 5 de diciembre, por el
 que se regula la composición y funcionamiento de los 
 Consejos Escolares de ámbito territorial en la Comuni-
 dad Autónoma de Andalucía.
-La disposición final primera de la Ley 17/2007, de 10 de 
+La disposición final primera de la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de 
 diciembre, de Educación de Andalucía, ha modificado en de-
-terminados aspectos la Ley 4/1984, de 9 de enero, de Con-
+terminados aspectos la [Ley 4/1984](../04_organizacion_escolar_y_funcionamiento/L4_1984_consejos_escolares_andalucia.md), de 9 de enero, de Con-
 sejos Escolares, afectando tanto a la composición del Consejo 
 Escolar de Andalucía y a los Consejos Escolares Provinciales y 
 Municipales como a la forma de designación de quienes repre-
@@ -635,10 +643,10 @@ de los Consejos Escolares de ámbito territorial de la Comu-
 nidad Autónoma de Andalucía. Así mismo, esta modificación 
 adapta la normativa sobre consejos escolares a la regulación 
 vigente en materia de igualdad entre mujeres y hombres, con-
-forme a lo establecido en la Ley 12/2007, de 26 de noviem-
+forme a lo establecido en la [Ley 12/2007](../01_marco_normativo_general_y_organico/L12_2007_promocion_igualdad_genero_andalucia.md), de 26 de noviem-
 bre, para la promoción de la igualdad de género en Andalucía.
 En su virtud, en el ejercicio de las atribuciones conferi-
-das por el artículo 27.9 de la Ley 6/2006, de 24 de octubre, 
+das por el artículo 27.9 de la [Ley 6/2006](../01_marco_normativo_general_y_organico/L6_2006_gobierno_comunidad_autonoma_andalucia.md), de 24 de octubre, 
 del Gobierno de la Comunidad Autónoma de Andalucía, a pro-
 puesta del Consejero de Educación, de acuerdo con el Con-
 sejo Consultivo de Andalucía y previa deliberación del Consejo 

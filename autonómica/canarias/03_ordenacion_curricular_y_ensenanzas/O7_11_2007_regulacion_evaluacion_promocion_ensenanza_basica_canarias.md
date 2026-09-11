@@ -34,8 +34,10 @@ relaciones:
   - norm-es-lo-2-2006
   fundamentado_en:
   - norm-es-lo-2-2006
+fundamentos_derecho:
+- norma_id: norm-can-l-14-1990
+- norma_id: norm-mad-l1-1983-gobierno-administracion-comunidad-madrid
 ---
-
 # Orden de 7 de noviembre de 2007, por la que se regula la evaluación y promoción del alumnado que cursa la enseñanza básica y se establecen los requisitos para la obtención del título de Graduado en Educación Secundaria Obligatoria.
 
 ## Preámbulo
@@ -112,10 +114,10 @@ del sistema educativo, establecida por la Ley Orgá-
 nica 2/2006, de 3 de mayo, de Educación (B.O.E. de
 14 de julio).
 En su virtud, de acuerdo con las competencias atri-
-buidas en el artículo 32 de la Ley 1/1983, de 14 de
+buidas en el artículo 32 de la [Ley 1/1983](../../madrid/01_marco_normativo_general_y_organico/L1_1983_gobierno_administracion_comunidad_madrid.md), de 14 de
 abril, del Gobierno y de la Administración Pública
 de la Comunidad Autónoma de Canarias (B.O.C. de
-30 de mayo), en el artículo 29 de la Ley 14/1990, de
+30 de mayo), en el artículo 29 de la [Ley 14/1990](../01_marco_normativo_general_y_organico/L14_1990_regimen_juridico_administraciones_publicas_canarias.md), de
 Otras Administraciones
 Juzgado de Primera Instancia nº 6 de Las Palmas de Gran Canaria
 Edicto de 13 de septiembre de 2007, relativo al fallo de la sentencia recaída en los autos

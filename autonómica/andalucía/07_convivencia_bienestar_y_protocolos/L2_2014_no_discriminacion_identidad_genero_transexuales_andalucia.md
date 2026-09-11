@@ -1,6 +1,8 @@
 ---
 id: norm-and-l2-2014-no-discriminacion-identidad-genero-transexuales-andalucia
-titulo: Ley 2/2014, de 8 de julio, integral para la no discriminación por motivos de identidad de género y reconocimiento de los derechos de las personas transexuales de Andalucía.
+titulo: Ley 2/2014, de 8 de julio, integral para la no discriminación por motivos
+  de identidad de género y reconocimiento de los derechos de las personas transexuales
+  de Andalucía.
 jurisdiccion: Andalucía
 ambito: Autonómico
 organo_emisor: Dirección General de Profesorado y Gestión de Recursos Humanos
@@ -17,8 +19,11 @@ fuente_pdf_oficial: http://www.juntadeandalucia.es/boja/2014/139/BOJA14-139-0001
 clasificacion:
   categoria_canonica: 07_convivencia_bienestar_y_protocolos
   subcategoria: Igualdad, diversidad y no discriminación
+fundamentos_derecho:
+- norma_id: norm-and-l12-2007-promocion-igualdad-genero-andalucia
+- norma_id: norm-and-l9-2007-administracion-junta-andalucia-laja
+- norma_id: norm-es-1999-23750
 ---
-
 # Ley 2/2014, de 8 de julio, integral para la no discriminación por motivos de identidad de género y reconocimiento de los derechos de las personas transexuales de Andalucía.
 
 ## Preámbulo
@@ -130,7 +135,7 @@ identidad de género» y, al mismo tiempo, prevé la obligación de los poderes 
 garantizar su ejercicio (artículo 35). Asimismo, el artículo 37.1.2.º proclama como principio rector de las políticas 
 públicas de los poderes de la Comunidad Autónoma la lucha, entre otros aspectos, contra el sexismo y la 
 homofobia, «especialmente mediante la educación en valores que fomente la igualdad, la tolerancia, la libertad y 
-la solidaridad». Y, por su parte, el artículo 43.2 de la Ley 12/2007, de 26 de noviembre, para la promoción de la 
+la solidaridad». Y, por su parte, el artículo 43.2 de la [Ley 12/2007](../01_marco_normativo_general_y_organico/L12_2007_promocion_igualdad_genero_andalucia.md), de 26 de noviembre, para la promoción de la 
 igualdad de género en Andalucía, proclama el deber de los poderes públicos de Andalucía de establecer políticas 
 que promuevan las acciones necesarias para eliminar la discriminación por opción sexual y transexualidad, 
 garantizando la libertad de decisión individual.
@@ -238,7 +243,7 @@ Toda persona tiene derecho:
 1. A recibir una atención integral y adecuada a sus necesidades sociales, sanitarias, jurídicas, laborales 
 y educativas, entre otras, en igualdad efectiva de condiciones y sin discriminación con el resto de la ciudadanía, 
 en relación con lo previsto en los artículos 35 y 37.1.2.º del Estatuto de Autonomía para Andalucía y el artículo 
-43.2 de la Ley 12/2007, de 26 de noviembre, para la promoción de la igualdad de género en Andalucía.
+43.2 de la [Ley 12/2007](../01_marco_normativo_general_y_organico/L12_2007_promocion_igualdad_genero_andalucia.md), de 26 de noviembre, para la promoción de la igualdad de género en Andalucía.
 2. Al reconocimiento de su identidad de género, libremente determinada.
 3. Al libre desarrollo de su personalidad conforme a su identidad de género, libremente determinada.
 4. A ser tratada de acuerdo con su identidad de género y, en particular, a ser identificada de ese modo 
@@ -264,8 +269,8 @@ Núm. 139  página 13
 a) La Administración de la Junta de Andalucía.
 b) Las agencias de la Administración de la Junta de Andalucía, sean administrativas, de régimen especial 
 o públicas empresariales, así como las entidades de Derecho Público a las que hace referencia la disposición 
-adicional segunda de la Ley 9/2007, de 22 de octubre, de la Administración de la Junta de Andalucía.
-c) Los consorcios a los que se hace referencia en el artículo 12.3 de la Ley 9/2007, de 22 de octubre, de 
+adicional segunda de la [Ley 9/2007](../01_marco_normativo_general_y_organico/L9_2007_administracion_junta_andalucia_laja.md), de 22 de octubre, de la Administración de la Junta de Andalucía.
+c) Los consorcios a los que se hace referencia en el artículo 12.3 de la [Ley 9/2007](../01_marco_normativo_general_y_organico/L9_2007_administracion_junta_andalucia_laja.md), de 22 de octubre, de 
 la Administración de la Junta de Andalucía.
 d) Las entidades que integran la Administración Local andaluza.
 e) Los entes instrumentales de Derecho Público vinculados o dependientes de las Administraciones 
@@ -369,7 +374,7 @@ presente Ley, eliminando toda referencia a la identificación anterior de la per
 necesarias en el historial médico confidencial a cargo del Servicio Andaluz de Salud, de conformidad con lo 
 establecido en la letra anterior.
 3. La Junta de Andalucía facilitará el asesoramiento necesario para realizar los cambios oportunos en 
-ficheros de organismos privados o de carácter estatal, de acuerdo con lo recogido en la Ley Orgánica 15/1999, 
+ficheros de organismos privados o de carácter estatal, de acuerdo con lo recogido en la [Ley Orgánica 15/1999](../../../estatal/02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md), 
 de 13 de diciembre, de Protección de Datos de Carácter Personal.
 CAPÍTULO II
 Atención sanitaria

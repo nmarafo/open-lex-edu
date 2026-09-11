@@ -26,8 +26,26 @@ relaciones:
   - norm-es-lo-1-2004
   - norm-can-l-6-2014
 fuente_pdf_oficial: https://www.gobiernodecanarias.org/cmsgob1/export/sites/educacion/web/_galerias/descargas/normativa-internas/resolucion_1736_protocolo_igualdad.pdf
+fundamentos_derecho:
+- norma_id: norm-and-dl1-2017-escolarizacion-gratuidad-primer-ciclo-educacion-infantil-andalucia
+- norma_id: norm-can-d-135-2016
+- norma_id: norm-can-d-212-1991
+- norma_id: norm-can-l-6-2014
+- norma_id: norm-can-d-106-2009
+- norma_id: norm-can-d-81-2010
+- norma_id: norm-can-o-2013-10-09
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-can-d-114-2011
+- norma_id: norm-can-l-16-2003
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-2015-8222
+- norma_id: norm-es-2016-3229
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
+- norma_id: norm-es-2010-4518
+- norma_id: norm-es-lo-1-2004
+- norma_id: norm-es-2007-6115
 ---
-
 # Resolución n.º 1736/2019, de 13 de noviembre, del Director General de Ordenación, Innovación y Calidad, por la que se publica el Protocolo de violencia de género en los centros educativos de la Comunidad Autónoma de Canarias.
 
 ## Cuerpo Dispositivo
@@ -48,7 +66,7 @@ de toda la comunidad educativa y que culminó en el Consejo Escolar de Canarias,
 Plan  para  la  Igualdad  y  prevención  de  la  violencia  de  género  2017-2020,  de  la  Consejería  de
 Educación,  Universidades, Cultura y Deportes del Gobierno de Canarias. El Plan tiene como referente
 inmediato La Estrategia para la Igualdad de mujeres y hombres 2013-2020 del Gobierno de Canarias
-que, cumpliendo el mandato de la Ley 1/2010 de 26 de febrero, Canaria de Igualdad entre mujeres y
+que, cumpliendo el mandato de la [Ley 1/2010](../../../estatal/07_convivencia_bienestar_y_protocolos/L1_2010_canaria_igualdad_entre_mujeres_hombres.md) de 26 de febrero, Canaria de Igualdad entre mujeres y
 hombres (BOC nº 45, de 5 de marzo) establece en su artículo 7 que el plan estratégico de actuación
 para  la  igualdad  efectiva  entre  mujeres  y  hombres  es  de  naturaleza  vinculante  para  todos  los
 departamentos administrativos.
@@ -90,7 +108,7 @@ la Mujer y la violencia doméstica”, elaborado en el 2011 y reconocido como el
 insta en su artículo 7.3 a los Estados a poner en práctica políticas globales y coordinadas con los
 organismos públicos, con el sistema judicial, las fuerzas del orden, los parlamentos y los poderes
 locales, regionales y nacionales.
-Cuarto.- La Ley Orgánica 1/2004 de Medidas de Protección Integral contra la Violencia de Género
+Cuarto.- La [Ley Orgánica 1/2004](../../../estatal/07_convivencia_bienestar_y_protocolos/LO1_2004_medidas_proteccion_integral_contra_violencia_genero.md) de Medidas de Protección Integral contra la Violencia de Género
 (BOE nº 313, de 29 de diciembre de 2004), dedica el Capítulo I al ámbito educativo estableciendo que
 el sistema educativo español incluirá entre sus fines la formación en el respeto de los derechos y
 libertades fundamentales y de la igualdad entre mujeres y hombres. Entre sus principios incluirá,
@@ -100,12 +118,12 @@ además, las capacidades que cada etapa educativa tiene que contribuir a desarro
 relación con la igualdad entre sexos. A su vez, las administraciones  competentes deberán prever la
 escolarización inmediata de los hijos y de las hijas que por circunstancias derivadas de actos de
 violencia de género requieren un cambio de residencia.
-Quinto.- La Ley Orgánica 2/2006, de 3 de mayo, de Educación (BOE n.º 106, de 4 de mayo),
-modificada parcialmente por la Ley Orgánica 8/2013, de 9 de diciembre para la mejora de la calidad
+Quinto.- La [Ley Orgánica 2/2006](../05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación (BOE n.º 106, de 4 de mayo),
+modificada parcialmente por la [Ley Orgánica 8/2013](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md), de 9 de diciembre para la mejora de la calidad
 educativa (BOE n.º 295, de 10 de diciembre), establece entre sus principios, en el artículo 1, “ I) El
 desarrollo, en la escuela, de los valores que fomenten la igualdad efectiva entre hombres y mujeres, así
 como la prevención de la violencia de género”.
-Sexto.- La Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres
+Sexto.- La [Ley Orgánica 3/2007](../../../estatal/07_convivencia_bienestar_y_protocolos/LO3_2007_igualdad_efectiva_mujeres_hombres.md), de 22 de marzo, para la igualdad efectiva de mujeres y hombres
 (BOE  nº  71,  de  23  de  marzo),  regula  en  su  artículo  24  una  serie  de  actuaciones  que  las
 administraciones educativas deben desarrollar para integrar el principio de igualdad en la política de
 educación relacionadas con la atención en los currículos del principio de igualdad, la eliminación y el
@@ -129,12 +147,12 @@ resto de  las  Administraciones  educativas  para  el  desarrollo de  proyectos 
 conocimiento y difusión de los principios de coeducación y de igualdad efectiva y el establecimiento
 de  medidas  educativas  destinadas al reconocimiento y enseñanza del papel  de las  mujeres  en la
 historia.
-Séptimo.- La Ley Orgánica 8/2015, de 22 de julio de modificación del sistema de protección a la
+Séptimo.- La [Ley Orgánica 8/2015](../../../estatal/01_marco_normativo_general_y_organico/LO8_2015_modificacion_sistema_proteccion_infancia_adolescencia.md), de 22 de julio de modificación del sistema de protección a la
 infancia y a la adolescencia (BOE n.º 175, 23 de julio de 2015), establece como interés superior del
 menor, la conveniencia de que su vida y desarrollo tenga lugar en un entorno familiar adecuado y libre
 de violencia. Se priorizará la permanencia en su familia de origen y se preservará el mantenimiento de
 sus relaciones familiares, siempre que sea posible y positivo para el menor. 
-Octavo.- La Ley 16/2003, de 8 de abril, de Prevención y Protección Integral de las Mujeres contra la
+Octavo.- La [Ley 16/2003](./L16_2003_prevencion_proteccion_integral_mujeres_contra_violencia.md), de 8 de abril, de Prevención y Protección Integral de las Mujeres contra la
 Violencia de Género (BOC nº 86, de 7 de mayo) reseña en el artículo 11 que las personas responsables
 de los centros escolares, los consejos escolares y el personal educativo están obligados a comunicar a
 la  Administración  competente  la  existencia  de  situaciones  acreditativas  de  violencia  contra  las
@@ -143,7 +161,7 @@ cuando no suponga un riesgo para la vida y la integridad física de la víctima 
 ésta. El incumplimiento de las obligaciones por el personal educativo de los centros escolares públicos
 será considerado falta de disciplinaria grave, sin perjuicio de la responsabilidad administrativa prevista
 en la presente Ley. 
-Noveno.- La Ley 1/2010, de 26 de febrero, Canaria de Igualdad entre mujeres y hombres (BOC nº 45,
+Noveno.- La [Ley 1/2010](../../../estatal/07_convivencia_bienestar_y_protocolos/L1_2010_canaria_igualdad_entre_mujeres_hombres.md), de 26 de febrero, Canaria de Igualdad entre mujeres y hombres (BOC nº 45,
 de 5 de marzo), dedica el Capítulo I del Título II a las Medidas para promover la igualdad de género
 en la educación y, en relación con la Enseñanza no universitaria, y establece que el principio de
 igualdad entre mujeres y hombres inspirará el sistema educativo canario y el conjunto de políticas que
@@ -155,7 +173,7 @@ embarazos no deseados y las enfermedades de transmisión sexual. En este sentido
 dispone  que  “La  Administración  Educativa  impulsará  la  elaboración  de  Planes  de  Igualdad  en
 Educación  que  posibiliten  la  puesta  en  marcha  de  acciones  para  educar  en  igualdad,  con  la
 participación de padres, madres, profesorado y alumnado.”
-Décimo.- La Ley 6/2014, de 25 de julio, Canaria de Educación no Universitaria (BOC n.º 152, de 7 de
+Décimo.- La [Ley 6/2014](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md), de 25 de julio, Canaria de Educación no Universitaria (BOC n.º 152, de 7 de
 agosto), dispone, en su artículo 23.9 que “La consejería competente en materia educativa impulsará
 acciones encaminadas a incorporar al funcionamiento del sistema educativo una educación en valores
 GREGORIO JOSE CABRERA DENIZ - DIRECTOR/A GENERAL
@@ -173,13 +191,13 @@ VIOLENCIA  DE  GÉNERO  EN  LOS  CENTROS   EDUCATIVOS  DE  LA  COMUNIDAD
 AUTÓNOMA DE CANARIAS.
 tales  como la  educación ambiental,  la  cultura  de  la  paz,  la  convivencia  y la  igualdad de  todos,
 independientemente de su identidad sexual y de género”.
-Undécimo.-  La Ley 1/2017, de 17 de marzo, de modificación de la Ley 16/2003, de 8 de abril, de
+Undécimo.-  La [Ley 1/2017](../../andalucía/05_alumnado_y_servicios_escolares/DL1_2017_escolarizacion_gratuidad_primer_ciclo_educacion_infantil_andalucia.md), de 17 de marzo, de modificación de la [Ley 16/2003](./L16_2003_prevencion_proteccion_integral_mujeres_contra_violencia.md), de 8 de abril, de
 Prevención y Proyección  Integral de las Mujeres contra la Violencia de Género (BOC nº 60, 27 de
 marzo de 2017), incorpora a la normativa autonómica las disposiciones previstas en el Convenio de
 Estambul, incluyendo dentro del ámbito de aplicación de la ley, las y los menores expuestos a todas
 las formas de violencia machistas, y que las referencias a las mujeres incluyen también a las niñas y
 adolescentes.
-Duodécimo.-  El Decreto 106/2009, de 28 de julio, por el que se regula la función directiva en los
+Duodécimo.-  El [Decreto 106/2009](../04_organizacion_escolar_y_funcionamiento/D106_2009_regula_funcion_directiva_centros_docentes_publicos.md), de 28 de julio, por el que se regula la función directiva en los
 centros docentes públicos no universitarios dependientes de la Comunidad Autónoma de Canarias
 (BOC nº 155, de 11 de agosto de 2009), establece que los equipos directivos “garantizarán  el ejercicio
 de  los  derechos  reconocidos  al  alumnado,  al  personal  docente,  a  los  representantes  legales  del
@@ -188,14 +206,14 @@ correspondientes” y en el apartado “c” añade que “impulsarán medidas y
 plena igualdad entre hombres y mujeres y fomentarán la educación para la prevención de conflictos y
 para la resolución pacífica de los mismos, como medio para mejorar la convivencia y los hábitos
 ciudadanos”.
-Decimotercero.- El Decreto 81/2010, de 8 de julio, por el que se aprueba el Reglamento Orgánico de
+Decimotercero.- El [Decreto 81/2010](../04_organizacion_escolar_y_funcionamiento/D81_2010_aprueba_reglamento_organico_centros_docentes_publicos.md), de 8 de julio, por el que se aprueba el Reglamento Orgánico de
 los centros docentes públicos no universitarios de la Comunidad Autónoma de Canarias (BOC n.º 143,
 de 22 de julio), recoge en su artículo 12 los principios de actuación de los órganos de gobierno, entre
 los que figuran favorecer las medidas de equidad que garanticen la igualdad de oportunidades, la
 inclusión educativa y la no discriminación; y actúen como elemento compensador de las desigualdades
 personales,  culturales,  económicas  y  sociales,  además  de  fomentar  la  convivencia  democrática  y
 participativa.
-Decimocuarto.- Decreto 114/2011, de 11 de mayo, por el que se regula la convivencia en el ámbito
+Decimocuarto.- [Decreto 114/2011](./D114_2011_regula_convivencia_ambito_educativo_comunidad_autonoma.md), de 11 de mayo, por el que se regula la convivencia en el ámbito
 educativo de la Comunidad Autónoma de Canarias (BOC nº 108, de 2 de junio), y en consonancia con
 la Resolución nº 67/2015, de 13 de marzo de 2015, de la Viceconsejería de Educación , Universidades,
 Cultura y Deportes por la que se dictan instrucciones sobre convivencia escolar, derechos y deberes de
@@ -234,7 +252,7 @@ igualdad efectiva entre hombres y mujeres, en todos los aspectos, y el respeto a
 sexual, eliminando los prejuicios, los estereotipos y los roles en función de su identidad de género u
 orientación sexual; la integración del saber de las mujeres y su contribución social e histórica al
 desarrollo de la humanidad; y la prevención de la violencia de género y el fomento de la coeducación.
-Decimoctavo.- El Decreto 135/2016, de 10 de octubre, por el que se aprueba el Reglamento Orgánico
+Decimoctavo.- El [Decreto 135/2016](../01_marco_normativo_general_y_organico/D135_2016_reglamento_organico_consejeria_educacion_universidades_cultura.md), de 10 de octubre, por el que se aprueba el Reglamento Orgánico
 de la Consejería de Educación, Universidades, Cultura y Deportes (BOC n.º 203, de 19 de octubre),
 recoge  en  su  artículo  13  las  Competencias  generales  y  específicas  de  la  Dirección  General  de
 Ordenación, Innovación y Calidad. En este sentido, se contempla la competencia para desarrollar e
@@ -245,7 +263,7 @@ periférica, así como las sedes de las Consejerías del Gobierno de Canarias (B
 agosto)  establece  en  el  apartado  s)  de  su  disposición  adicional  segunda  las  competencias  de  la
 Dirección General de Ordenación, Innovación y Calidad.
 En virtud de todo lo anteriormente expuesto y conforme a lo dispuesto en el Artículo 27.1 a) del
-Decreto 212/1991, de 11 de septiembre, de organización de los Departamentos de la Administración
+[Decreto 212/1991](../01_marco_normativo_general_y_organico/D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md), de 11 de septiembre, de organización de los Departamentos de la Administración
 Autonómica de Canarias (BOC nº 122, de 16.9.91) se formula la siguiente
 GREGORIO JOSE CABRERA DENIZ - DIRECTOR/A GENERAL
 FLORENTINA ROSARIO ALONSO BETANCOR - RESPONSABLE DE INNOV.EDUCATIVA

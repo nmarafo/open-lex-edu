@@ -44,8 +44,10 @@ relaciones:
   - norma_id: '1'
   - norma_id: norm-es-rd-217-2022
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2022-243-3774.pdf
+fundamentos_derecho:
+- norma_id: norm-can-o-2022-10-20-ebpa
+- norma_id: norm-es-rd-217-2022
 ---
-
 # Resolución de 28 de noviembre de 2022, por la que se adaptan los documentos oficiales de evaluación a la Educación Básica de Personas Adultas en la Comunidad Autónoma de Canarias (BOC n.º 243, de 13 de diciembre).
 
 ## Preámbulo
@@ -53,7 +55,7 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2022-243-3774.
 Primero.- Las especiales características organizativas de las enseñanzas básicas que cursan las personas adultas para la obtención de la titulación mínima y el proceso de evaluación que se realiza en esas enseñanzas hacen necesario el establecimiento de documentos específicos que recojan toda la información del itinerario educativo seguido y los resultados de la evaluación.
 Segundo.- Los documentos de evaluación que se vienen utilizando hasta el momento deben actualizarse por los cambios organizativos introducidos en la nueva normativa que regula la Educación Básica de Personas Adultas. A estos hechos les son de aplicación los siguientes FUNDAMENTOS DE DERECHO
 Primero.- El Decreto 315/2015, de 28 de agosto, por el que se establece la ordenación de la Educación Secundaria Obligatoria y del Bachillerato en la Comunidad Autónoma de Canarias, dispone, en el artículo 10, los documentos oficiales de evaluación y sus características generales. Los artículos 12, 13, 14 y 16 decriben, respectivamente, las características específicas del expediente académico, las actas de evaluación, el informe personal por traslado y el historial académico. Asimismo, el artículo 17 de este decreto desarrolla los aspectos relacionados con la tramitación electrónica, el archivo y la custodia de documentos oficiales.
-Segundo.- La Orden de 20 de octubre de 2022, por la que se regulan la oferta educativa y la evaluación de las enseñanzas que integran la Educación Básica de Personas Adultas en la Comunidad Autónoma de Canarias, establece la estructura de los periodos formativos que constituyen esta enseñanza y las características de la evaluación, aspectos que deben recogerse en los modelos de los documentos de evaluación. Por todo lo expuesto, y en el ejercicio de las competencias atribuidas a la Dirección General de Formación Profesional y Educación de Adultos en el artículo 18 l.
+Segundo.- La [Orden de 20 de octubre de 2022](./O20_10_2022_oferta_educativa_evaluacion_educacion_basica_personas_adultas_canarias.md), por la que se regulan la oferta educativa y la evaluación de las enseñanzas que integran la Educación Básica de Personas Adultas en la Comunidad Autónoma de Canarias, establece la estructura de los periodos formativos que constituyen esta enseñanza y las características de la evaluación, aspectos que deben recogerse en los modelos de los documentos de evaluación. Por todo lo expuesto, y en el ejercicio de las competencias atribuidas a la Dirección General de Formación Profesional y Educación de Adultos en el artículo 18 l.
 
 Decreto 7/2021, de 18 de febrero, por el que se aprueba el Reglamento Orgánico de la Consejería de Educación, Universidades, Cultura y Deportes,
 
@@ -125,7 +127,7 @@ Cuarto.- Encomendar a la Inspección de Educación la supervisión y asesoramien
 • A quienes se proponga para la obtención del título de Graduado en Educación Secundaria Obligatoria al finalizar el nivel II de la ESPA: la certificación de la superación de dicho período en la que se indicará la calificación obtenida (apéndice VI.6).
 
 APÉNDICE I Expediente académico EXPEDIENTE ACADÉMICO EDUCACIÓN BÁSICA DE PERSONAS ADULTAS foto• [Real Decreto 217/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD217_2022_establece_ordenacion_ensenanzas_minimas_educacion_secundaria.md), de 29 de marzo, por el que se establece la ordenación y las enseñanzas mínimas de la ESO
-• Orden de 20 de octubre de 2022, por la que se regulan la oferta educativa y la evaluación de las enseñanzas que integran la EBPA en la comunidad autónoma de Canarias CURSO ACADÉMICO Expediente n.º Fecha de ingreso en el centro: CIAL DATOS PERSONALES Apellidos Nombre DNI Teléfono Correo electrónico LUGAR Y FECHA DE NACIMIENTO Nacionalidad Natural de (País) Fecha de nacimiento Provincia Municipio DOMICILIO Domicilio Localidad Municipio Isla Código Postal CAMBIOS DE DOMICILIO (indicar nueva dirección, localidad y municipio) Domicilio Teléfono Domicilio Teléfono DATOS DEL CENTRO Centro Código Dirección CP Localidad Municipio Isla Teléfono Correo electrónico APÉNDICE I EXPEDIENTE ACADÉMICO
+• [Orden de 20 de octubre de 2022](./O20_10_2022_oferta_educativa_evaluacion_educacion_basica_personas_adultas_canarias.md), por la que se regulan la oferta educativa y la evaluación de las enseñanzas que integran la EBPA en la comunidad autónoma de Canarias CURSO ACADÉMICO Expediente n.º Fecha de ingreso en el centro: CIAL DATOS PERSONALES Apellidos Nombre DNI Teléfono Correo electrónico LUGAR Y FECHA DE NACIMIENTO Nacionalidad Natural de (País) Fecha de nacimiento Provincia Municipio DOMICILIO Domicilio Localidad Municipio Isla Código Postal CAMBIOS DE DOMICILIO (indicar nueva dirección, localidad y municipio) Domicilio Teléfono Domicilio Teléfono DATOS DEL CENTRO Centro Código Dirección CP Localidad Municipio Isla Teléfono Correo electrónico APÉNDICE I EXPEDIENTE ACADÉMICO
 
 REGISTRO DE LA V ALORACIÓN INICIAL DE LOS APRENDIZAJES CON PROPUESTA DE ADSCRIPCIÓN (se adjuntan a este expediente los apéndices VI.B, VI.C y, en su caso, VI.A de la Valoración Inicial de Aprendizajes - VIA) Centro Código Fecha NECESIDADES ESPECÍFICAS DE APOYO EDUCATIVO Indicar fecha y persona responsable de cada anotación TRASLADO DE CENTRO Fecha Código Centro de destino FECHAS DE INTERÉS Entrega del certificado de superación de EIPA Entrega al alumno/a del historial académico al término de la EBPA Entrega, al centro de destino, del informe personal por traslado Propuesta del título de Graduado en Educación Secundaria Obligatoria RESULTADOS ACADÉMICOS: SUPERACIÓN DE MÓDULOS Y ÁMBITOS EDUCACIÓN INICIAL PARA PERSONAS ADULTAS (EIPA) Nivel Ámbito Calificación(1) /Curso Módulo Calificación(1) /Curso Nivel I AGE_I. Ámbito General Módulo 1. AGE Módulo 2. AGE Nivel II ACT_II. Ámbito Científico Tecnológico Módulo 3. ACT Módulo 4. ACT ACO_II. Ámbito de Conocimiento Módulo 3. ACO Módulo 4. ACO ASO_II. Ámbito Social Módulo 3. ASO Módulo 4. ASO NOTA MEDIA DE LA EIPA
 (1) Cumplimentar solo si se ha superado. SU(5), BI(6), NT(7 u 8), SB(9 o 10)
@@ -139,7 +141,7 @@ Nivel Ámbito Calificación(1) Módulo Calificación(1) Nivel I ACT_I. Ámbito C
 PERIODO FORMATIVO ESPA CURSO
 
 APÉNDICE II Historial académico HISTORIAL ACADÉMICO EDUCACIÓN BÁSICA DE PERSONAS ADULTAS foto• [Real Decreto 217/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD217_2022_establece_ordenacion_ensenanzas_minimas_educacion_secundaria.md), de 29 de marzo, por el que se establece la ordenación y las enseñanzas mínimas de la ESO
-• Orden de 20 de octubre de 2022, por la que se regulan la oferta educativa y la evaluación de las enseñanzas que integran la EBPA en la comunidad autónoma de Canarias Expediente n.º Fecha de ingreso en el centro: CIAL DATOS PERSONALES Apellidos Nombre DNI Teléfono Correo electrónico LUGAR Y FECHA DE NACIMIENTO Nacionalidad Natural de (País) Fecha de nacimiento Provincia Municipio DOMICILIO Domicilio Localidad Municipio Isla Código Postal CAMBIOS DE DOMICILIO (indicar nueva dirección, localidad y municipio) Domicilio Teléfono Domicilio Teléfono DATOS DEL CENTRO Centro Código Dirección CP Localidad Municipio Isla Teléfono Correo electrónico APÉNDICE II HISTORIAL ACADÉMICO
+• [Orden de 20 de octubre de 2022](./O20_10_2022_oferta_educativa_evaluacion_educacion_basica_personas_adultas_canarias.md), por la que se regulan la oferta educativa y la evaluación de las enseñanzas que integran la EBPA en la comunidad autónoma de Canarias Expediente n.º Fecha de ingreso en el centro: CIAL DATOS PERSONALES Apellidos Nombre DNI Teléfono Correo electrónico LUGAR Y FECHA DE NACIMIENTO Nacionalidad Natural de (País) Fecha de nacimiento Provincia Municipio DOMICILIO Domicilio Localidad Municipio Isla Código Postal CAMBIOS DE DOMICILIO (indicar nueva dirección, localidad y municipio) Domicilio Teléfono Domicilio Teléfono DATOS DEL CENTRO Centro Código Dirección CP Localidad Municipio Isla Teléfono Correo electrónico APÉNDICE II HISTORIAL ACADÉMICO
 
 TRASLADO DE CENTRO Fecha Código Centro de destino FECHAS DE INTERÉS Inicio de la EIPA Finalización de la EIPA Entrega del certificado de superación de EIPA Inicio de la ESPA Finalización de la ESPA Entrega del historial académico al término de la EBPA Propuesta del título de Graduado en Educación Secundaria Obligatoria Entrega, por traslado, del historial académico Centro de destino Entrega, por traslado, del historial académico Centro de destino RESULTADOS ACADÉMICOS: SUPERACIÓN DE ÁMBITOS Y MÓDULOS EDUCACIÓN INICIAL PARA PERSONAS ADULTAS (EIPA) Nivel Ámbito Calificación(1) /Curso Módulo Calificación(1) /Curso Nivel I AGE_I. Ámbito General Módulo 1. AGE Módulo 2. AGE Nivel II ACT_II. Ámbito Científico Tecnológico Módulo 3. ACT Módulo 4. ACT ACO_II. Ámbito de Conocimiento Módulo 3. ACO Módulo 4. ACO ASO_II. Ámbito Social Módulo 3. ASO Módulo 4. ASO NOTA MEDIA DE LA EIPA(2)
 (1) Cumplimentar solo si se ha superado. SU(5), BI(6), NT(7 u 8), SB(9 o 10)
@@ -155,7 +157,7 @@ Tecnológico Módulo 2. ACT ACO_I. Ámbito de Conocimiento Módulo 1. ACO Módul
 Este historial académico se compone de ____ páginas, siendo ésta la número________. PERIODO FORMATIVO ESPA CURSO Nivel Ámbito Calificación(1) Módulo Calificación(1) Nivel I ACT_I. Ámbito Científico Módulo 1. ACT
 
 APÉNDICE III Informe personal por traslado INFORME PERSONAL POR TRASLADO EDUCACIÓN BÁSICA DE PERSONAS ADULTAS foto• [Real Decreto 217/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD217_2022_establece_ordenacion_ensenanzas_minimas_educacion_secundaria.md), de 29 de marzo, por el que se establece la ordenación y las enseñanzas mínimas de la ESO
-• Orden de 20 de octubre de 2022, por la que se regulan la oferta educativa y la evaluación de las enseñanzas que integran la EBPA en la comunidad autónoma de Canarias Expediente n.º Fecha de ingreso en el centro: CIAL DATOS DEL CENTRO Centro Código Dirección CP Localidad Municipio Isla Teléfono Correo electrónico TUTOR/A D./D.ª como tutor/a del grupo del Centro Sede/UAPA/AAPA HAGO CONSTAR QUE D. /D.ª Apellidos Nombre DNI Teléfono Correo electrónico se encuentra realizando, en el presente curso académico los siguientes ámbitos de la Educación Básica para Personas Adultas (EBPA):
+• [Orden de 20 de octubre de 2022](./O20_10_2022_oferta_educativa_evaluacion_educacion_basica_personas_adultas_canarias.md), por la que se regulan la oferta educativa y la evaluación de las enseñanzas que integran la EBPA en la comunidad autónoma de Canarias Expediente n.º Fecha de ingreso en el centro: CIAL DATOS DEL CENTRO Centro Código Dirección CP Localidad Municipio Isla Teléfono Correo electrónico TUTOR/A D./D.ª como tutor/a del grupo del Centro Sede/UAPA/AAPA HAGO CONSTAR QUE D. /D.ª Apellidos Nombre DNI Teléfono Correo electrónico se encuentra realizando, en el presente curso académico los siguientes ámbitos de la Educación Básica para Personas Adultas (EBPA):
 APÉNDICE III INFORME PERSONAL POR TRASLADO
 
 EDUCACIÓN INICIAL PARA PERSONAS ADULTAS (EIPA) Nivel Ámbito Módulo Indicar la calificación. Marcar con X los módulos que cursa en la actualidad y no han sido calificados Nivel I AGE_I. Ámbito General Módulo 1. AGE Módulo 2. AGE Nivel II ACT_II. Ámbito Científico Tecnológico Módulo 3. ACT Módulo 4. ACT ACO_II. Ámbito de Conocimiento Módulo 3. ACO Módulo 4. ACO ASO_II. Ámbito Social Módulo 3. ASO Módulo 4. ASO EDUCACIÓN SECUNDARIA PARA PERSONAS ADULTAS (ESPA) Nivel Ámbito Módulo Indicar la calificación. Marcar con X los módulos que cursa en la actualidad y no han sido calificados Nivel I ACT_I. Ámbito Científico Tecnológico Módulo 1. ACT Módulo 2. ACT ACO_I. Ámbito de Conocimiento Módulo 1. ACO Módulo 2. ACO ASO_I. Ámbito Social Módulo 1. ASO Módulo 2. ASO Nivel II ACT_II. Ámbito Científico Tecnológico Módulo 3. ACT Módulo 4. ACT ACO_II. Ámbito de Conocimiento Módulo 3. ACO Módulo 4. ACO ASO_II. Ámbito Social Módulo 3. ASO Módulo 4. ASO
@@ -166,7 +168,7 @@ Este informe personal se compone de ____ páginas, siendo ésta la número _____
 
 APÉNDICE IV.1 Acta de evaluación ordinaria - Nivel I - EIPA ENSEÑANZA EDUCACIÓN INICIAL PARA PERSONAS ADULTAS (EIPA) CURSO ACADÉMICO
 • [Real Decreto 217/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD217_2022_establece_ordenacion_ensenanzas_minimas_educacion_secundaria.md), de 29 de marzo, por el que se establece la ordenación y las enseñanzas mínimas de la ESO
-• Orden de 20 de octubre de 2022, por la que se regulan la oferta educativa y la evaluación de las enseñanzas que integran la EBPA en la comunidad autónoma de Canarias CENTRO CÓDIGO LOCALIDAD DIRECCIÓN CP PROVINCIA GRUPO FECHA DE LA SESIÓN ACTA DE LA EV ALUACIÓN __________________ ORDINARIA DEL NIVEL I
+• [Orden de 20 de octubre de 2022](./O20_10_2022_oferta_educativa_evaluacion_educacion_basica_personas_adultas_canarias.md), por la que se regulan la oferta educativa y la evaluación de las enseñanzas que integran la EBPA en la comunidad autónoma de Canarias CENTRO CÓDIGO LOCALIDAD DIRECCIÓN CP PROVINCIA GRUPO FECHA DE LA SESIÓN ACTA DE LA EV ALUACIÓN __________________ ORDINARIA DEL NIVEL I
 (4) ALUMNADO
 (1) CALIFICACIONES
 (3) DECISIÓN(2)ÁMBITO GENERAL N.º APELLIDOS, NOMBRE CIAL M__.AGE
@@ -179,7 +181,7 @@ APÉNDICE IV.1 Acta de evaluación ordinaria - Nivel I - EIPA ENSEÑANZA EDUCACI
 
 APÉNDICE IV .2 Acta de evaluación ordinaria - Nivel II - EIPA ENSEÑANZA EDUCACIÓN INICIAL PARA PERSONAS ADULTAS (EIPA) CURSO ACADÉMICO
 • [Real Decreto 217/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD217_2022_establece_ordenacion_ensenanzas_minimas_educacion_secundaria.md), de 29 de marzo, por el que se establece la ordenación y las enseñanzas mínimas de la ESO
-• Orden de 20 de octubre de 2022, por la que se regulan la oferta educativa y la evaluación de las enseñanzas que integran la EBPA en la comunidad autónoma de Canarias CENTRO CÓDIGO LOCALIDAD DIRECCIÓN CP PROVINCIA GRUPO FECHA DE LA SESIÓN ACTA DE LA EV ALUACIÓN _______________ ORDINARIA DEL NIVEL II
+• [Orden de 20 de octubre de 2022](./O20_10_2022_oferta_educativa_evaluacion_educacion_basica_personas_adultas_canarias.md), por la que se regulan la oferta educativa y la evaluación de las enseñanzas que integran la EBPA en la comunidad autónoma de Canarias CENTRO CÓDIGO LOCALIDAD DIRECCIÓN CP PROVINCIA GRUPO FECHA DE LA SESIÓN ACTA DE LA EV ALUACIÓN _______________ ORDINARIA DEL NIVEL II
 (4) ALUMNADO
 (1) CALIFICACIONES
 (3) DECISIÓN
@@ -191,7 +193,7 @@ APÉNDICE IV .2 Acta de evaluación ordinaria - Nivel II - EIPA ENSEÑANZA EDUCA
 
 APÉNDICE IV.3 Acta de evaluación final - Nivel I - EIPA ENSEÑANZA EDUCACIÓN INICIAL PARA PERSONAS ADULTAS (EIPA) CURSO ACADÉMICO
 • [Real Decreto 217/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD217_2022_establece_ordenacion_ensenanzas_minimas_educacion_secundaria.md), de 29 de marzo, por el que se establece la ordenación y las enseñanzas mínimas de la ESO
-• Orden de 20 de octubre de 2022, por la que se regulan la oferta educativa y la evaluación de las enseñanzas que integran la EBPA en la comunidad autónoma de Canarias CENTRO CÓDIGO LOCALIDAD DIRECCIÓN CP PROVINCIA GRUPO FECHA DE LA SESIÓN ACTA DE LA EV ALUACIÓN FINAL DEL NIVEL I
+• [Orden de 20 de octubre de 2022](./O20_10_2022_oferta_educativa_evaluacion_educacion_basica_personas_adultas_canarias.md), por la que se regulan la oferta educativa y la evaluación de las enseñanzas que integran la EBPA en la comunidad autónoma de Canarias CENTRO CÓDIGO LOCALIDAD DIRECCIÓN CP PROVINCIA GRUPO FECHA DE LA SESIÓN ACTA DE LA EV ALUACIÓN FINAL DEL NIVEL I
 (5) ALUMNADO
 (1) CALIFICACIONES DECISIÓN
 (2) ÁMBITO GENERAL N.º APELLIDOS, NOMBRE CIAL M1. AGE M2. AGE AGE_I 1 2 3 4 5 6
@@ -203,7 +205,7 @@ APÉNDICE IV.3 Acta de evaluación final - Nivel I - EIPA ENSEÑANZA EDUCACIÓN 
 
 APÉNDICE IV.4 Acta de evaluación final - Nivel II - EIPA ENSEÑANZA EDUCACIÓN INICIAL PARA PERSONAS ADULTAS (EIPA) CURSO ACADÉMICO
 • [Real Decreto 217/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD217_2022_establece_ordenacion_ensenanzas_minimas_educacion_secundaria.md), de 29 de marzo, por el que se establece la ordenación y las enseñanzas mínimas de la ESO
-• Orden de 20 de octubre de 2022, por la que se regulan la oferta educativa y la evaluación de las enseñanzas que integran la EBPA en la comunidad autónoma de Canarias CENTRO CÓDIGO LOCALIDAD DIRECCIÓN CP PROVINCIA GRUPO FECHA DE LA SESIÓN ACTA DE LA EV ALUACIÓN FINAL DEL NIVEL II
+• [Orden de 20 de octubre de 2022](./O20_10_2022_oferta_educativa_evaluacion_educacion_basica_personas_adultas_canarias.md), por la que se regulan la oferta educativa y la evaluación de las enseñanzas que integran la EBPA en la comunidad autónoma de Canarias CENTRO CÓDIGO LOCALIDAD DIRECCIÓN CP PROVINCIA GRUPO FECHA DE LA SESIÓN ACTA DE LA EV ALUACIÓN FINAL DEL NIVEL II
 (5) ALUMNADO
 (1) CALIFICACIONES (3) DECISIÓN(2) ÁMBITOS N.º APELLIDOS, NOMBRE CIAL M3. ACT M4. ACT ACT_II M3. ACO M4. ACO ACO_II M3. ASO M4. ASO ASO_II 1 2 3 4 5 6
 (1) Calificaciones: Insuficiente IN (1, 2, 3 o 4); Suficiente SU (5); Bien BI (6); Notable NT (7 u 8); Sobresaliente SB (9 o 10); No califica (NC); Reconocido por VIA (RV) + Calificación
@@ -216,7 +218,7 @@ APÉNDICE IV.4 Acta de evaluación final - Nivel II - EIPA ENSEÑANZA EDUCACIÓN
 
 APÉNDICE V.1 Acta de evaluación ordinaria - ESPA ENSEÑANZA EDUCACIÓN SECUNDARIA PARA PERSONAS ADULTAS (ESPA) CURSO ACADÉMICO
 • [Real Decreto 217/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD217_2022_establece_ordenacion_ensenanzas_minimas_educacion_secundaria.md), de 29 de marzo, por el que se establece la ordenación y las enseñanzas mínimas de la ESO
-• Orden de 20 de octubre de 2022, por la que se regulan la oferta educativa y la evaluación de las enseñanzas que integran la EBPA en la comunidad autónoma de Canarias CENTRO CÓDIGO LOCALIDAD DIRECCIÓN CP PROVINCIA GRUPO FECHA DE LA SESIÓN ACTA DE LA EV ALUACIÓN _________________ ORDINARIA DEL NIVEL ____
+• [Orden de 20 de octubre de 2022](./O20_10_2022_oferta_educativa_evaluacion_educacion_basica_personas_adultas_canarias.md), por la que se regulan la oferta educativa y la evaluación de las enseñanzas que integran la EBPA en la comunidad autónoma de Canarias CENTRO CÓDIGO LOCALIDAD DIRECCIÓN CP PROVINCIA GRUPO FECHA DE LA SESIÓN ACTA DE LA EV ALUACIÓN _________________ ORDINARIA DEL NIVEL ____
 (5) ALUMNADO
 (1) CALIFICACIONES (3) MÓDULOS DEL NIVEL I NO SUPERADOS
 (4) DECISIÓN
@@ -229,7 +231,7 @@ APÉNDICE V.1 Acta de evaluación ordinaria - ESPA ENSEÑANZA EDUCACIÓN SECUNDA
 
 APÉNDICE V.2 Acta de evaluación final - ESPA ENSEÑANZA EDUCACIÓN SECUNDARIA PARA PERSONAS ADULTAS (ESPA) CURSO ACADÉMICO
 • [Real Decreto 217/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD217_2022_establece_ordenacion_ensenanzas_minimas_educacion_secundaria.md), de 29 de marzo, por el que se establece la ordenación y las enseñanzas mínimas de la ESO
-• Orden de 20 de octubre de 2022, por la que se regulan la oferta educativa y la evaluación de las enseñanzas que integran la EBPA en la comunidad autónoma de Canarias CENTRO CÓDIGO LOCALIDAD DIRECCIÓN CP PROVINCIA GRUPO FECHA DE LA SESIÓN ACTA DE LA EV ALUACIÓN FINAL DEL NIVEL ____
+• [Orden de 20 de octubre de 2022](./O20_10_2022_oferta_educativa_evaluacion_educacion_basica_personas_adultas_canarias.md), por la que se regulan la oferta educativa y la evaluación de las enseñanzas que integran la EBPA en la comunidad autónoma de Canarias CENTRO CÓDIGO LOCALIDAD DIRECCIÓN CP PROVINCIA GRUPO FECHA DE LA SESIÓN ACTA DE LA EV ALUACIÓN FINAL DEL NIVEL ____
 (6) ALUMNADO
 (1) CALIFICACIONES (3) MÓDULOS DEL NIVEL I NO SUPERADOS DECISIÓN
 (2) ÁMBITOS N.º APELLIDOS, NOMBRE CIAL M__. ACT M__. ACT ACT M__. ACO M__. ACO ACO M__. ASO M__. ASO ASO 1 2 3 4 5 6
@@ -242,7 +244,7 @@ APÉNDICE V.2 Acta de evaluación final - ESPA ENSEÑANZA EDUCACIÓN SECUNDARIA 
 
 APÉNDICE V.3 Acta de evaluación de pendientes - ESPA ENSEÑANZA EDUCACIÓN SECUNDARIA PARA PERSONAS ADULTAS (ESPA) CURSO ACADÉMICO
 • [Real Decreto 217/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD217_2022_establece_ordenacion_ensenanzas_minimas_educacion_secundaria.md), de 29 de marzo, por el que se establece la ordenación y las enseñanzas mínimas de la ESO
-• Orden de 20 de octubre de 2022, por la que se regulan la oferta educativa y la evaluación de las enseñanzas que integran la EBPA en la comunidad autónoma de Canarias CENTRO CÓDIGO LOCALIDAD DIRECCIÓN CP PROVINCIA FECHA DE LA SESIÓN ACTA DE LA EV ALUACIÓN DE MÓDULOS Y ÁMBITOS PENDIENTES DEL NIVEL I
+• [Orden de 20 de octubre de 2022](./O20_10_2022_oferta_educativa_evaluacion_educacion_basica_personas_adultas_canarias.md), por la que se regulan la oferta educativa y la evaluación de las enseñanzas que integran la EBPA en la comunidad autónoma de Canarias CENTRO CÓDIGO LOCALIDAD DIRECCIÓN CP PROVINCIA FECHA DE LA SESIÓN ACTA DE LA EV ALUACIÓN DE MÓDULOS Y ÁMBITOS PENDIENTES DEL NIVEL I
 (3) ALUMNADO (1) CALIFICACIONES DE LOS MÓDULOS PENDIENTES N.º APELLIDOS, NOMBRE CIAL M1.ACT M2.ACT ACT M1.ACO M2.ACO ACO M1.ASO M2.ASO ASO 1 2 3 4 5 6
 (1) Calificaciones: Insuficiente IN (1, 2, 3 o 4); Suficiente SU (5); Bien BI (6); Notable NT (7 u 8); Sobresaliente SB (9 o 10); No califica (NC); Reconocido por VIA (RV) + Calificación
 (2) Ámbitos: ámbito Científico-Tecnológico (ACT); ámbito de Comunicación (ACO); ámbito Social (ASO). La calificación del ámbito será la media aritmética de la calificación obtenida en los dos módulos, redondeada al entero más próximo y, en caso de equidistancia, al superior
@@ -252,7 +254,7 @@ APÉNDICE V.3 Acta de evaluación de pendientes - ESPA ENSEÑANZA EDUCACIÓN SEC
 
 APÉNDICE VI.1 Certificado de módulos y ámbitos superados en la EIPA CERTIFICADO DE MÓDULOS Y ÁMBITOS SUPERADOS EN LA EDUCACIÓN INICIAL PARA PERSONAS ADULTAS (EIPA)
 • [Real Decreto 217/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD217_2022_establece_ordenacion_ensenanzas_minimas_educacion_secundaria.md), de 29 de marzo, por el que se establece la ordenación y las enseñanzas mínimas de la ESO
-• Orden de 20 de octubre de 2022, por la que se regulan la oferta educativa y la evaluación de las enseñanzas que integran la EBPA en la comunidad autónoma de Canarias D. / D.ª Secretario/a del CERTIFICA QUE El alumno / La alumna:
+• [Orden de 20 de octubre de 2022](./O20_10_2022_oferta_educativa_evaluacion_educacion_basica_personas_adultas_canarias.md), por la que se regulan la oferta educativa y la evaluación de las enseñanzas que integran la EBPA en la comunidad autónoma de Canarias D. / D.ª Secretario/a del CERTIFICA QUE El alumno / La alumna:
 Apellidos Nombre DNI Nacionalidad Natural de (País) Fecha de nacimiento Provincia Municipio ha superado los siguientes módulos y ámbitos de la Educación Inicial para Personas Adultas (EIPA):
 EDUCACIÓN INICIAL PARA PERSONAS ADULTAS (EIPA) Nivel Ámbito Calificación(1) Módulo Calificación(1) Nivel I AGE_I. Ámbito General Módulo 1. AGE Módulo 2. AGE Nivel II ACT_II. Ámbito Científico Tecnológico Módulo 3. ACT Módulo 4. ACT ACO_II. Ámbito de Conocimiento Módulo 3. ACO Módulo 4. ACO ASO_II. Ámbito Social Módulo 3. ASO Módulo 4. ASO NOTA MEDIA DE LA EIPA
 (1) Cumplimentar solo si se ha superado. SU(5), BI(6), NT(7 u 8), SB(9 o 10)
@@ -261,13 +263,13 @@ APÉNDICE VI.1 CERTIFICACIÓN DE MÓDULOS Y ÁMBITOS SUPERADOS EN LA EIPA
 
 APÉNDICE VI.2 Certificado de superación del nivel I de la EIPA CERTIFICADO DE SUPERACIÓN DEL NIVEL I DE LA EDUCACIÓN INICIAL PARA PERSONAS ADULTAS
 • [Real Decreto 217/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD217_2022_establece_ordenacion_ensenanzas_minimas_educacion_secundaria.md), de 29 de marzo, por el que se establece la ordenación y las enseñanzas mínimas de la ESO
-• Orden de 20 de octubre de 2022, por la que se regulan la oferta educativa y la evaluación de las enseñanzas que integran la EBPA en la comunidad autónoma de Canarias D. / D.ª Secretario/a del CERTIFICA QUE El alumno / La alumna:
+• [Orden de 20 de octubre de 2022](./O20_10_2022_oferta_educativa_evaluacion_educacion_basica_personas_adultas_canarias.md), por la que se regulan la oferta educativa y la evaluación de las enseñanzas que integran la EBPA en la comunidad autónoma de Canarias D. / D.ª Secretario/a del CERTIFICA QUE El alumno / La alumna:
 Apellidos Nombre DNI Nacionalidad Natural de (País) Fecha de nacimiento Provincia Municipio ha superado el nivel I de la Educación Inicial para Personas Adultas (EIPA). FECHA Y LUGAR V .º B.º El director/La directora El secretario/La secretaria (sello del centro) Fdo.: Fdo.:
 APÉNDICE VI.2 CERTIFICADO DE SUPERACIÓN DEL NIVEL I DE LA EIPA
 
 APÉNDICE VI.3 Certificado de módulos y ámbitos superados en la ESPA CERTIFICADO DE MÓDULOS Y ÁMBITOS SUPERADOS EN LA EDUCACIÓN SECUNDARIA PARA PERSONAS ADULTAS
 • [Real Decreto 217/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD217_2022_establece_ordenacion_ensenanzas_minimas_educacion_secundaria.md), de 29 de marzo, por el que se establece la ordenación y las enseñanzas mínimas de la ESO
-• Orden de 20 de octubre de 2022, por la que se regulan la oferta educativa y la evaluación de las enseñanzas que integran la EBPA en la comunidad autónoma de Canarias D. / D.ª Secretario/a del CERTIFICA QUE El alumno / La alumna:
+• [Orden de 20 de octubre de 2022](./O20_10_2022_oferta_educativa_evaluacion_educacion_basica_personas_adultas_canarias.md), por la que se regulan la oferta educativa y la evaluación de las enseñanzas que integran la EBPA en la comunidad autónoma de Canarias D. / D.ª Secretario/a del CERTIFICA QUE El alumno / La alumna:
 Apellidos Nombre DNI Nacionalidad Natural de (País) Fecha de nacimiento Provincia Municipio ha superado los siguientes módulos y ámbitos de la Educación Secundaria para Personas Adultas (ESPA):
 EDUCACIÓN SECUNDARIA PARA PERSONAS ADULTAS (ESPA) Nivel Ámbito Calificación(1) Módulo Calificación(1) Nivel I ACT_I. Ámbito Científico Tecnológico Módulo 1. ACT Módulo 2. ACT ACO_I. Ámbito de Conocimiento Módulo 1. ACO Módulo 2. ACO ASO_I. Ámbito Social Módulo 1. ASO Módulo 2. ASO Nivel II ACT_II. Ámbito Científico Tecnológico Módulo 3. ACT Módulo 4. ACT ACO_II. Ámbito de Conocimiento Módulo 3. ACO Módulo 4. ACO ASO_II. Ámbito Social Módulo 3. ASO Módulo 4. ASO NOTA MEDIA DE LA ESPA(2)
 (1) Cumplimentar solo si se ha superado. SU(5), BI(6), NT(7 u 8), SB(9 o 10)
@@ -276,13 +278,13 @@ APÉNDICE VI.3 CERTIFICACIÓN DE MÓDULOS Y ÁMBITOS SUPERADOS EN LA ESPA
 
 APÉNDICE VI.4 Certificado de superación del nivel I de la ESPA CERTIFICADO DE SUPERACIÓN DEL NIVEL I DE LA EDUCACIÓN SECUNDARIA PARA PERSONAS ADULTAS
 • [Real Decreto 217/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD217_2022_establece_ordenacion_ensenanzas_minimas_educacion_secundaria.md), de 29 de marzo, por el que se establece la ordenación y las enseñanzas mínimas de la ESO
-• Orden de 20 de octubre de 2022, por la que se regulan la oferta educativa y la evaluación de las enseñanzas que integran la EBPA en la comunidad autónoma de Canarias D. / D.ª Secretario/a del CERTIFICA QUE El alumno / La alumna:
+• [Orden de 20 de octubre de 2022](./O20_10_2022_oferta_educativa_evaluacion_educacion_basica_personas_adultas_canarias.md), por la que se regulan la oferta educativa y la evaluación de las enseñanzas que integran la EBPA en la comunidad autónoma de Canarias D. / D.ª Secretario/a del CERTIFICA QUE El alumno / La alumna:
 Apellidos Nombre DNI Nacionalidad Natural de (País) Fecha de nacimiento Provincia Municipio ha superado el nivel I de la Educación Secundaria para Personas Adultas (ESPA). FECHA Y LUGAR V .º B.º El director/La directora El secretario/La secretaria (sello del centro) Fdo.: Fdo.:
 APÉNDICE VI.4 CERTIFICADO DE SUPERACIÓN DEL NIVEL I DE LA ESPA
 
 APÉNDICE VI.5 Certificado de superación de la EIPA CERTIFICADO DE SUPERACIÓN DE LA EDUCACIÓN INICIAL PARA DE PERSONAS ADULTAS
 • [Real Decreto 217/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD217_2022_establece_ordenacion_ensenanzas_minimas_educacion_secundaria.md), de 29 de marzo, por el que se establece la ordenación y las enseñanzas mínimas de la ESO
-• Orden de 20 de octubre de 2022, por la que se regulan la oferta educativa y la evaluación de las enseñanzas que integran la EBPA en la comunidad autónoma de Canarias D. / D.ª Secretario/a del CERTIFICA QUE El alumno / La alumna:
+• [Orden de 20 de octubre de 2022](./O20_10_2022_oferta_educativa_evaluacion_educacion_basica_personas_adultas_canarias.md), por la que se regulan la oferta educativa y la evaluación de las enseñanzas que integran la EBPA en la comunidad autónoma de Canarias D. / D.ª Secretario/a del CERTIFICA QUE El alumno / La alumna:
 Apellidos Nombre DNI Nacionalidad Natural de (País) Fecha de nacimiento Provincia Municipio ha superado la Educación Inicial para Personas Adultas y ha obtenido las siguientes calificaciones:
 EDUCACIÓN INICIAL PARA PERSONAS ADULTAS (EIPA) Nivel Ámbito Calificación(1) Módulo Calificación(1) Nivel I AGE_I. Ámbito General Módulo 1. AGE Módulo 2. AGE Nivel II ACT_II. Ámbito Científico Tecnológico Módulo 3. ACT Módulo 4. ACT ACO_II. Ámbito de Conocimiento Módulo 3. ACO Módulo 4. ACO ASO_II. Ámbito Social Módulo 3. ASO Módulo 4. ASO NOTA MEDIA DE LA EIPA(2)
 (1) Calificación: IN(1, 2, 3 o 4), SU(5), BI(6), NT(7 u 8), SB(9 o 10)
@@ -291,7 +293,7 @@ APÉNDICE VI.5 CERTIFICADO DE SUPERACIÓN DE LA EIPA
 
 APÉNDICE VI.6 Certificado de superación de la ESPA y de obtención del título de Graduado en ESO CERTIFICADO DE SUPERACIÓN DE LA EDUCACIÓN SECUNDARIA PARA PERSONAS ADULTAS (ESPA) Y DE OBTENCIÓN DEL TÍTULO DE GRADUADO EN EDUCACIÓN SECUNDARIA OBLIGATORIA (ESO)
 • [Real Decreto 217/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD217_2022_establece_ordenacion_ensenanzas_minimas_educacion_secundaria.md), de 29 de marzo, por el que se establece la ordenación y las enseñanzas mínimas de la ESO
-• Orden de 20 de octubre de 2022, por la que se regulan la oferta educativa y la evaluación de las enseñanzas que integran la EBPA en la comunidad autónoma de Canarias D. / D.ª Secretario/a del CERTIFICA QUE El alumno / La alumna:
+• [Orden de 20 de octubre de 2022](./O20_10_2022_oferta_educativa_evaluacion_educacion_basica_personas_adultas_canarias.md), por la que se regulan la oferta educativa y la evaluación de las enseñanzas que integran la EBPA en la comunidad autónoma de Canarias D. / D.ª Secretario/a del CERTIFICA QUE El alumno / La alumna:
 Apellidos Nombre DNI Nacionalidad Natural de (País) Fecha de nacimiento Provincia Municipio ha superado la enseñanza de Educación Secundaria para Personas Adultas (ESPA), obteniendo el título de Graduado en Educación Secundaria Obligatoria (ESO), con las siguientes calificaciones:
 EDUCACIÓN SECUNDARIA PARA PERSONAS ADULTAS (ESPA) Nivel Ámbito Calificación(1) Módulo Calificación(1) Nivel I ACT_I. Ámbito Científico Tecnológico Módulo 1. ACT Módulo 2. ACT ACO_I. Ámbito de Conocimiento Módulo 1. ACO Módulo 2. ACO ASO_I. Ámbito Social Módulo 1. ASO Módulo 2. ASO Nivel II ACT_II. Ámbito Científico Tecnológico Módulo 3. ACT Módulo 4. ACT ACO_II. Ámbito de Conocimiento Módulo 3. ACO Módulo 4. ACO ASO_II. Ámbito Social Módulo 3. ASO Módulo 4. ASO NOTA MEDIA DE LA ESPA(2)
 (1) Calificación: IN(1, 2, 3 o 4), SU(5), BI(6), NT(7 u 8), SB(9 o 10)

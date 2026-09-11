@@ -137,8 +137,11 @@ relaciones:
   - norma_id: norm-es-2007-19814
   - norma_id: norm-es-1985-5392
   - norma_id: norm-es-1999-23750
+fundamentos_derecho:
+- norma_id: norm-es-2007-19814
+- norma_id: norm-es-1985-5392
+- norma_id: norm-es-1999-23750
 ---
-
 # Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno.
 
 ## Preámbulo
@@ -491,7 +494,7 @@ a) **Accesibilidad.** Se proporcionará información estructurada sobre los docu
 
 b) **Interoperabilidad.** La información publicada será conforme al Esquema Nacional de Interoperabilidad, aprobado por el Real Decreto 4/2010, de 8 enero, así como a las normas técnicas de interoperabilidad.
 
-c) **Reutilización.** Se fomentará que la información sea publicada en formatos que permita su reutilización, de acuerdo con lo previsto en la Ley 37/2007, de 16 de noviembre, sobre reutilización de la información del sector público y en su normativa de desarrollo.
+c) **Reutilización.** Se fomentará que la información sea publicada en formatos que permita su reutilización, de acuerdo con lo previsto en la [Ley 37/2007](./L37_2007_reutilizacion_informacion_sector_publico.md), de 16 de noviembre, sobre reutilización de la información del sector público y en su normativa de desarrollo.
 
 ## Capítulo III. Derecho de acceso a la información pública.
 
@@ -539,7 +542,7 @@ l) La protección del medio ambiente.
 
 1. Si la información solicitada contuviera datos especialmente protegidos a los que se refiere el apartado 2 del artículo 7 de la [Ley Orgánica 15/1999](../02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md), de 13 de diciembre, de Protección de Datos de Carácter Personal, el acceso únicamente se podrá autorizar en caso de que se contase con el consentimiento expreso y por escrito del afectado, a menos que dicho afectado hubiese hecho manifiestamente públicos los datos con anterioridad a que se solicitase el acceso.
 
-Si la información incluyese datos especialmente protegidos a los que se refiere el apartado 3 del artículo 7 de la Ley Orgánica 15/1999, de 13 de diciembre, o datos relativos a la comisión de infracciones penales o administrativas que no conllevasen la amonestación pública al infractor, el acceso sólo se podrá autorizar en caso de que se cuente con el consentimiento expreso del afectado o si aquél estuviera amparado por una norma con rango de Ley.
+Si la información incluyese datos especialmente protegidos a los que se refiere el apartado 3 del artículo 7 de la [Ley Orgánica 15/1999](../02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md), de 13 de diciembre, o datos relativos a la comisión de infracciones penales o administrativas que no conllevasen la amonestación pública al infractor, el acceso sólo se podrá autorizar en caso de que se cuente con el consentimiento expreso del afectado o si aquél estuviera amparado por una norma con rango de Ley.
 
 2. Con carácter general, y salvo que en el caso concreto prevalezca la protección de datos personales u otros derechos constitucionalmente protegidos sobre el interés público en la divulgación que lo impida, se concederá el acceso a información que contenga datos meramente identificativos relacionados con la organización, funcionamiento o actividad pública del órgano.
 
@@ -1061,7 +1064,7 @@ Consejo de Transparencia y Buen Gobierno. A tal efecto, deberán celebrar el cor
 
 #### Disposición adicional quinta. Colaboración con la Agencia Española de Protección de Datos.
 
-El Consejo de Transparencia y Buen Gobierno y la Agencia Española de Protección de Datos adoptarán conjuntamente los criterios de aplicación, en su ámbito de actuación, de las reglas contenidas en el artículo 15 de esta Ley, en particular en lo que respecta a la ponderación del interés público en el acceso a la información y la garantía de los derechos de los interesados cuyos datos se contuviesen en la misma, de conformidad con lo dispuesto en esta Ley y en la Ley Orgánica 15/1999, de 13 de diciembre.
+El Consejo de Transparencia y Buen Gobierno y la Agencia Española de Protección de Datos adoptarán conjuntamente los criterios de aplicación, en su ámbito de actuación, de las reglas contenidas en el artículo 15 de esta Ley, en particular en lo que respecta a la ponderación del interés público en el acceso a la información y la garantía de los derechos de los interesados cuyos datos se contuviesen en la misma, de conformidad con lo dispuesto en esta Ley y en la [Ley Orgánica 15/1999](../02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md), de 13 de diciembre.
 
 #### Disposición adicional sexta. Información de la Casa de Su Majestad el Rey.
 

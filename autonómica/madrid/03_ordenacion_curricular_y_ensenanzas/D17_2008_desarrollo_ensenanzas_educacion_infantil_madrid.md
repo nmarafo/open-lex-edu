@@ -24,8 +24,16 @@ tags:
 - primer_ciclo_infantil
 - segundo_ciclo_infantil
 - madrid
+fundamentos_derecho:
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-mad-l1-1983-gobierno-administracion-comunidad-madrid
+- norma_id: norm-mad-d18-2008-requisitos-minimos-centros-primer-ciclo-educacion-infantil-madrid
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-1999-23750
+- norma_id: norm-es-lo-8-1985
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
 ---
-
 # Decreto 17/2008, de 6 de marzo, del Consejo de Gobierno, por el que se desarrollan, para la Comunidad de Madrid, las enseñanzas de la Educación Infantil
 
 ## Preámbulo
@@ -34,7 +42,7 @@ tags:
 DECRETO 17/2008, de 6 de marzo, del Consejo de Go-
 bierno, por el que se desarrollan para la Comunidad de
 Madrid las enseñanzas de la Educación Infantil.
-La Ley Orgánica 2/2006, de 3 de mayo, de Educación (LOE, en
+La [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación (LOE, en
 adelante), en su artículo 6.2, establece que el Gobierno fijará los as-
 pectos básicos del currículo, que constituyen las enseñanzas míni-
 mas, con el fin de asegurar una formación común y garantizar la va-
@@ -99,7 +107,7 @@ como su secuenciación y estructuración en unidades didácticas, se-
 rán adoptadas por cada centro y quedarán reflejadas en su propues-
 ta pedagógica contenida en el proyecto educativo del centro.
 En virtud de todo lo anterior, de conformidad con lo dispuesto en
-el artículo 21 de la Ley 1/1983, de 13 de diciembre, de Gobierno y
+el artículo 21 de la [Ley 1/1983](../01_marco_normativo_general_y_organico/L1_1983_gobierno_administracion_comunidad_madrid.md), de 13 de diciembre, de Gobierno y
 Administración de la Comunidad de Madrid, a propuesta de la Con-
 sejera de Educación, tras el preceptivo informe del Consejo Escolar
 de la Comunidad de Madrid, de acuerdo con el Consejo de Estado y
@@ -335,7 +343,7 @@ centro que así lo tenga establecido en su proyecto educativo.
 1.
 La enseñanza de la religión se ajustará a lo dispuesto en la
 
-#### Disposición adicional segunda. de la Ley Orgánica 2/2006, de 3 de
+#### Disposición adicional segunda. de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de
 
 mayo, de Educación.
 2.
@@ -423,14 +431,14 @@ y demás materiales educativos que hayan de usarse en los centros
 estará sujeta al hecho de que aquellos se adapten a los contenidos
 educativos y al currículo normativamente dispuestos en el presente
 Decreto, todo ello de acuerdo con lo establecido en la disposición
-adicional cuarta de la Ley Orgánica 2/2006, de 3 de mayo, de Edu-
+adicional cuarta de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Edu-
 cación.
 4.
 La Administración educativa de la Comunidad de Madrid
 ejercerá, a través del Servicio de la Inspección Educativa, la compe-
 tencia supervisora sobre los libros de texto y demás materiales di-
 dácticos, de acuerdo con lo establecido en el apartado 3 de la dispo-
-sición adicional cuarta de la Ley Orgánica 2/2006.
+sición adicional cuarta de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md).
 5.
 Los centros, en el ejercicio de su autonomía, podrán adoptar
 experimentaciones, planes de trabajo o determinadas formas de orga-
@@ -446,7 +454,7 @@ gundo ciclo establecido en el Anexo I del presente Decreto, concre-
 ción que formará parte de la propuesta pedagógica que se incluirá en
 el proyecto educativo del centro, de acuerdo con lo dispuesto en el
 
-#### Artículo 14. 2 de la Ley Orgánica 2/2006.
+#### Artículo 14. 2 de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md).
 
 2.
 La propuesta pedagógica en Educación Infantil incluirá la
@@ -1624,11 +1632,11 @@ siones.
 (03/7.509/08)
 Consejería de Educación
 1055
-DECRETO 18/2008, de 6 de marzo, del Consejo de
+[DECRETO 18/2008](../02_gestion_y_administracion_centros/D18_2008_requisitos_minimos_centros_primer_ciclo_educacion_infantil_madrid.md), de 6 de marzo, del Consejo de
 Gobierno, por el que se establecen los requisitos mínimos
 de los centros que imparten primer ciclo de Educación In-
 fantil en el ámbito de la Comunidad de Madrid.
-La Ley Orgánica 2/2006, de 3 de mayo, de Educación, establece
+La [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, establece
 la Educación Infantil como la primera etapa del sistema educativo,
 distinguiendo dos ciclos, el primero hasta los tres años de edad y el
 segundo desde los tres a los seis años de edad.
@@ -1649,7 +1657,7 @@ Madrid, en su ámbito territorial, regule las titulaciones que deben
 poseer dichos profesionales.
 El Real Decreto 806/2006, de 30 de junio, por el que se establece
 el calendario de aplicación de la nueva ordenación del sistema edu-
-cativo, establecido en la Ley Orgánica 2/2006, de 3 de mayo, de
+cativo, establecido en la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de
 Educación, regula en su artículo 4 que antes de la fecha de implan-
 tación del primer ciclo de la Educación Infantil y, en todo caso, an-
 tes del 31 de diciembre del año 2007, se establecerán los requisitos
@@ -1662,7 +1670,7 @@ del Estatuto de Autonomía, y en su ámbito territorial, determine los
 requisitos que deben cumplir los centros educativos que imparten el
 primer ciclo de Educación Infantil y defina las titulaciones que de-
 ben poseer los correspondientes profesionales.
-De conformidad con lo dispuesto en el artículo 21 de la Ley 1/1983,
+De conformidad con lo dispuesto en el artículo 21 de la [Ley 1/1983](../01_marco_normativo_general_y_organico/L1_1983_gobierno_administracion_comunidad_madrid.md),
 de 13 de diciembre, de Gobierno y Administración de la Comuni-
 dad de Madrid, a propuesta de la Consejera de Educación, tras el
 preceptivo informe del Consejo Escolar de la Comunidad de Ma-
@@ -1733,7 +1741,7 @@ En el ámbito de la Comunidad de Madrid los centros priva-
 dos que impartan el primer ciclo de Educación Infantil quedarán so-
 metidos al principio de autorización administrativa por parte de la
 Consejería de Educación de acuerdo a lo establecido en el artícu-
-lo 23 de la Ley Orgánica 8/1985, de 3 de julio, del Derecho a la Edu-
+lo 23 de la [Ley Orgánica 8/1985](../../../estatal/02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md), de 3 de julio, del Derecho a la Edu-
 cación.
 2.
 La autorización se concederá siempre que reúnan los requisi-
@@ -1949,7 +1957,7 @@ tres años a partir de la entrada en vigor de este Decreto para obtener
 dicha autorización, según lo establecido en la disposición adicional
 cuarta del Real Decreto 806/2006, de 30 de junio, por el que se es-
 tablece el calendario de aplicación de la nueva ordenación del siste-
-ma educativo, establecido por la Ley Orgánica 2/2006, de 3 de
+ma educativo, establecido por la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de
 mayo, de Educación.
 
 #### Disposición DEROGATORIA ÚNICA. Derogación normativa
@@ -2234,7 +2242,7 @@ GENERAL DE FUNCIÓN PÚBLICA)
 Los datos personales recogidos serán incorporados y tratados en el fichero Opositor, cuya finalidad es la promoción y gestión del empleo, inscrito en el Registro de
 Ficheros de Datos Personales de la Agencia de Protección de Datos de la Comunidad de Madrid (www.madrid.org/apdcm), no previéndose cesiones de los mismos. El órgano
 responsable del fichero es la Dirección General de Función Pública y la dirección donde el interesado podrá ejercer los derechos de acceso, rectificación, cancelación y oposi-
-ción ante el mismo es plaza del Conde del Valle de Suchil, número 20, primera planta, todo lo cual se informa en cumplimiento del artículo 5 de la Ley Orgánica 15/1999, de 13
+ción ante el mismo es plaza del Conde del Valle de Suchil, número 20, primera planta, todo lo cual se informa en cumplimiento del artículo 5 de la [Ley Orgánica 15/1999](../../../estatal/02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md), de 13
 de diciembre, de Protección de Datos de Carácter Personal.
 (03/7.106/08)
 Número de Orden
@@ -2424,7 +2432,7 @@ SUBDIRECCIÓN GENERAL DE PLANIFICACIÓN DE EFECTIVOS Y SELECCIÓN
 Los datos personales recogidos serán incorporados y tratados en el fichero Opositor, cuya finalidad es la promoción y gestión del empleo, inscrito en el Registro de
 Ficheros de Datos Personales de la Agencia de Protección de Datos de la Comunidad de Madrid (www.madrid.org/apdcm), no previéndose cesiones de los mismos. El órgano
 responsable del fichero es la Dirección General de Función Pública y la dirección donde el interesado podrá ejercer los derechos de acceso, rectificación, cancelación y oposi-
-ción ante el mismo es plaza del Conde del Valle de Suchil, número 20, primera planta, todo lo cual se informa en cumplimiento del artículo 5 de la Ley Orgánica 15/1999, de 13
+ción ante el mismo es plaza del Conde del Valle de Suchil, número 20, primera planta, todo lo cual se informa en cumplimiento del artículo 5 de la [Ley Orgánica 15/1999](../../../estatal/02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md), de 13
 de diciembre, de Protección de Datos de Carácter Personal.
 (03/7.118/08)
 Número de Orden
@@ -2630,7 +2638,7 @@ prácticas en protección de datos, inscrito en el Registro de Ficheros de Datos
 (www.madrid.org/apdcm), y no se comunicarán excepto en los casos previstos en la Ley, con excepción de lo dispuesto en el artículo 10 de la Resolución de convocatoria. El
 órgano responsable del fichero es la Secretaría General de la Agencia de Protección de Datos de la Comunidad de Madrid, y la dirección donde el interesado podrá ejercer los
 derechos de acceso, rectificación, cancelación y oposición ante el mismo es calle Cardenal Marcelo Spínola, número 14, 28016 Madrid, todo lo cual se informa en cumplimiento
-del artículo 5 de la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal.
+del artículo 5 de la [Ley Orgánica 15/1999](../../../estatal/02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md), de 13 de diciembre, de Protección de Datos de Carácter Personal.
 (03/7.399/08)
 DATOS DEL PROYECTO
 Organismo o institución: ....................................................................................................................................................................................................................................................
@@ -2834,7 +2842,7 @@ cialmente generadores de situaciones de riesgo.
 En virtud de todo lo expuesto, a propuesta de la Dirección Gene-
 ral de Calidad, Acreditación, Evaluación e Inspección, de conformi-
 dad con las atribuciones que me son conferidas por el artículo 41.d)
-de la Ley 1/1983, de 13 de diciembre, de Gobierno y Administración
+de la [Ley 1/1983](../01_marco_normativo_general_y_organico/L1_1983_gobierno_administracion_comunidad_madrid.md), de 13 de diciembre, de Gobierno y Administración
 de la Comunidad de Madrid.
 En su virtud
 DISPONGO:

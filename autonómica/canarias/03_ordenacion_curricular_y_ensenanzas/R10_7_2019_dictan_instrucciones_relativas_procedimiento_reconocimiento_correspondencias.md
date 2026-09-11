@@ -175,13 +175,24 @@ relaciones:
   - norma_id: norm-can-d-135-2016
   - norma_id: norm-can-d-212-1991
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2019-143-3820.pdf
+fundamentos_derecho:
+- norma_id: norm-can-d-212-1991
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-es-l-39-2015
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-2001-7022
+- norma_id: norm-es-2016-3229
+- norma_id: norm-es-2002-12018
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2007-19326
+- norma_id: norm-es-2002-4371
+- norma_id: norm-es-2010-12201
 ---
-
 # Resolución de 10 de julio de 2019, por la que se dictan instrucciones relativas al procedimiento para el reconocimiento de correspondencias, convalidaciones y exenciones en las enseñanzas deportivas de régimen especial en la Comunidad Autónoma de Canarias (BOC n.º 143, de 26 de julio).
 
 ## Preámbulo
 
-Primero.- La [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, modificada por la Ley Orgánica 8/2013, de 9 de diciembre, para la Mejora de la Calidad Educativa, en el artículo 3.2, integra las enseñanzas deportivas dentro de la oferta del sistema educativo, y en el
+Primero.- La [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, modificada por la [Ley Orgánica 8/2013](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md), de 9 de diciembre, para la Mejora de la Calidad Educativa, en el artículo 3.2, integra las enseñanzas deportivas dentro de la oferta del sistema educativo, y en el
 
 ### Capítulo VIII. del Título I desarrolla los aspectos fundamentales de este tipo de enseñanzas,
 
@@ -261,7 +272,7 @@ RESOLUCIÓN DE LA DIRECCIÓN GENERAL DE FORMACIÓN PROFESIONAL Y EDUCACIÓN DE A
 • Acreditación parcial conforme a lo que se establezca en cumplimiento de lo previsto en el artículo 8.3 de la [Ley Orgánica 5/2002](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO5_2002_cualificaciones_formacion_profesional.md), de 19 de junio, de las Cualificaciones y de la Formación Profesional.
 • Por haber superado módulos del bloque específico que sean comunes a varios ciclos de ense - ñanza deportiva y que tengan igual denominación, duración, objetivos, criterios de evaluación y contenidos, de acuerdo con lo establecido por la norma que regule cada título.
 • Podrán ser objeto de convalidaciones los módulos de enseñanza deportiva pertenecientes al grado medio, con materias de bachillerato, de acuerdo con lo que se determine en el real decreto que establezca el título y las enseñanzas mínimas.
-• Por haber superado módulos de enseñanza deportiva del bloque común en un determinado ci - clo de cualquiera de las modalidades y especialidades deportivas, tendrá validez para las enseñanzas del mismo ciclo, de cualquier otra modalidad o especialidad deportiva. Acreditación Módulos del bloque común de grado medio que se convalidan La superación de la totalidad de los módulos del bloque común del primer o segundo nivel, en cualquiera de las modalidades o especialidades deportivas de los títulos establecidos al amparo de la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo. Convalidará por la totalidad de los módulos del bloque común del correspondiente ciclo inicial o final de enseñanza deportiva. La superación de la totalidad de los módulos del bloque común de los ciclos inicial o final del título de Técnico Deportivo en una modalidad deportiva. Convalidará por la totalidad de los módulos del bloque común, del correspondiente nivel, de los títulos establecidos al amparo de la [Ley Orgánica 1/1990](../../../estatal/02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md), de 3 de octubre, de Ordenación General del Sistema Educati - vo.
+• Por haber superado módulos de enseñanza deportiva del bloque común en un determinado ci - clo de cualquiera de las modalidades y especialidades deportivas, tendrá validez para las enseñanzas del mismo ciclo, de cualquier otra modalidad o especialidad deportiva. Acreditación Módulos del bloque común de grado medio que se convalidan La superación de la totalidad de los módulos del bloque común del primer o segundo nivel, en cualquiera de las modalidades o especialidades deportivas de los títulos establecidos al amparo de la [Ley Orgánica 1/1990](../../../estatal/02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md), de 3 de octubre, de Ordenación General del Sistema Educativo. Convalidará por la totalidad de los módulos del bloque común del correspondiente ciclo inicial o final de enseñanza deportiva. La superación de la totalidad de los módulos del bloque común de los ciclos inicial o final del título de Técnico Deportivo en una modalidad deportiva. Convalidará por la totalidad de los módulos del bloque común, del correspondiente nivel, de los títulos establecidos al amparo de la [Ley Orgánica 1/1990](../../../estatal/02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md), de 3 de octubre, de Ordenación General del Sistema Educati - vo.
 • Por la superación de módulos de enseñanza deportiva de los títulos establecidos al amparo de la [Ley Orgánica 1/1990](../../../estatal/02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md), de 3 de octubre, de Ordenación General del Sistema Educativo, con módulos de enseñanza deportiva del bloque específico de los títulos de Técnico Deportivo. Dichos módulos vendrán determinados en el correspondiente real decreto que establezca el título y las enseñanzas mínimas.
 b) El Ministerio de Educación y Formación Profesional, a través del Consejo Superior de Deportes, resolverá en los siguientes supuestos:
 • Por haber superado estudios oficiales relacionados con la actividad física y deportiva, siempre que sus contenidos sean concordantes y la carga lectiva superada sea igual o superior a la del módulo que se pretende convalidar.

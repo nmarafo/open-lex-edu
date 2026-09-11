@@ -32,8 +32,10 @@ relaciones:
   - norma_id: norm-and-l17-2007
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-l-39-2015
+fundamentos_derecho:
+- norma_id: norm-and-l17-2007
+- norma_id: norm-es-2001-7022
 ---
-
 # Decreto 1/2003, de 7 de enero, por el que se crea el Instituto Andaluz de Cualificaciones Profesionales.
 
 ## Preámbulo
@@ -41,7 +43,7 @@ relaciones:
 DECRETO 1/2003, de 7 de enero, por el que se
 crea el Instituto Andaluz de Cualificaciones Profe-
 sionales.
-La Ley Orgánica 1/1990, de 3 de octubre, de Ordenación
+La [Ley Orgánica 1/1990](../../../estatal/02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md), de 3 de octubre, de Ordenación
 General del Sistema Educativo, establece en materia de For-
 mación Profesional la necesidad de coordinar las diferentes
 ofertas formativas existentes, con el fin de capacitar para el

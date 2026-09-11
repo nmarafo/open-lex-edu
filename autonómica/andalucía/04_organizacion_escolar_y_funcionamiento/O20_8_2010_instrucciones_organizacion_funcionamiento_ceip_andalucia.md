@@ -138,8 +138,11 @@ relaciones:
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-l-39-2015
   - norma_id: norm-es-l-40-2015
+fundamentos_derecho:
+- norma_id: norm-and-l17-2007
+- norma_id: norm-and-d327-2010
+- norma_id: norm-and-d328-2010
 ---
-
 # Orden de 20 de agosto de 2010, por la que se regulan la organización y el funcionamiento de las escuelas infantiles de segundo ciclo, de los colegios de educación primaria, de los colegios de educación infantil y primaria y de los centros específicos de educación especial.
 
 ## Preámbulo
@@ -173,7 +176,7 @@ g) Atender, en su caso, el aula de convivencia, de acuerdo con lo que se estable
 
 #### Disposición adicional primera. Órganos de coordinación.
 
-docente. En los institutos de educación secundaria de nueva creación, hasta tanto se elabore el Plan de Centro de conformidad con lo recogido en el artículo 3.2, los órganos de coordinación docente serán nombrados por un año académico y de conformidad con el procedimiento establecido en el Reglamento Orgánico de dichos centros, aprobado por el Decreto 327/2010, de 13 de julio.
+docente. En los institutos de educación secundaria de nueva creación, hasta tanto se elabore el Plan de Centro de conformidad con lo recogido en el artículo 3.2, los órganos de coordinación docente serán nombrados por un año académico y de conformidad con el procedimiento establecido en el Reglamento Orgánico de dichos centros, aprobado por el [Decreto 327/2010](./D327_2010_reglamento_organico_institutos_educacion_secundaria_andalucia.md), de 13 de julio.
 
 Sevilla, 30 de agosto 2010 Página núm. 9
 
@@ -181,7 +184,7 @@ Sevilla, 30 de agosto 2010 Página núm. 9
 
 las secciones de educación secundaria obligatoria.
 
-1. De conformidad con la disposición adicional segunda del Decreto 327/2010, de 13 de julio, las secciones de educación secundaria obligatoria dependerán de un instituto de educación secundaria y contarán con una jefatura de estudios delegada. Asimismo, si tienen cuatro o más unidades, contarán con una secretaría delegada. La jefatura de estudios delegada dispondrá de seis horas lectivas semanales para el desempeño de las funciones que corresponden a dicho órgano y la secretaría delegada, cuando la haya, dispondrá de tres horas lectivas semanales.
+1. De conformidad con la disposición adicional segunda del [Decreto 327/2010](./D327_2010_reglamento_organico_institutos_educacion_secundaria_andalucia.md), de 13 de julio, las secciones de educación secundaria obligatoria dependerán de un instituto de educación secundaria y contarán con una jefatura de estudios delegada. Asimismo, si tienen cuatro o más unidades, contarán con una secretaría delegada. La jefatura de estudios delegada dispondrá de seis horas lectivas semanales para el desempeño de las funciones que corresponden a dicho órgano y la secretaría delegada, cuando la haya, dispondrá de tres horas lectivas semanales.
 
 2. La dirección del instituto de educación secundaria al que se encuentra adscrita la sección, previa comunicación al Claustro de Profesorado de la misma y a la comisión delegada del Consejo Escolar, formulará a la persona titular de la Delegación Provincial correspondiente de la Consejería competente en materia de educación propuesta de nombramiento de la jefatura de estudios delegada y, en su caso, de la secretaría delegada, de entre el profesorado con destino en la sección. La jefatura de estudios delegada y, en su caso, la secretaría delegada desempeñarán su funciones durante cuatro cursos académicos y tendrán, en el ámbito de la sección, competencias análogas a las establecidas para la jefatura de estudios y para la secretaría de los institutos de educación secundaria, respectivamente, en los artículos 76 y 77 del Reglamento Orgánico de estos centros.
 
@@ -202,11 +205,11 @@ e) Cuando se designen los representantes del profesorado en la comisión de sele
 
 #### Disposición adicional tercera. Elaboración del Plan de.
 
-Centro. La dirección del instituto convocará una sesión extraordinaria del Claustro de Profesorado antes del 31 de octubre de 2010, cuyo único punto del Orden del Día será la presentación del Reglamento Orgánico de los institutos de educación secundaria y de la presente Orden, con objeto de facilitar su difusión y conocimiento entre el profesorado, así como para iniciar los trabajos de elaboración del Plan de Centro en cumplimiento de lo recogido en la disposición transitoria primera del Decreto 327/2010, de 13 de julio.
+Centro. La dirección del instituto convocará una sesión extraordinaria del Claustro de Profesorado antes del 31 de octubre de 2010, cuyo único punto del Orden del Día será la presentación del Reglamento Orgánico de los institutos de educación secundaria y de la presente Orden, con objeto de facilitar su difusión y conocimiento entre el profesorado, así como para iniciar los trabajos de elaboración del Plan de Centro en cumplimiento de lo recogido en la disposición transitoria primera del [Decreto 327/2010](./D327_2010_reglamento_organico_institutos_educacion_secundaria_andalucia.md), de 13 de julio.
 
 #### Disposición transitoria única. Vigencia de los Proyectos de.
 
-Centro. Los Proyectos de Centro de los institutos de educación secundaria que estén en funcionamiento a la entrada en vigor de la presente Orden mantendrán su vigencia hasta la aprobación de los correspondientes Planes de Centro, siempre que no se opongan a lo previsto en el Reglamento Orgánico de estos centros, aprobado por el Decreto 327/2010, de 13 de julio, y en esta Orden.
+Centro. Los Proyectos de Centro de los institutos de educación secundaria que estén en funcionamiento a la entrada en vigor de la presente Orden mantendrán su vigencia hasta la aprobación de los correspondientes Planes de Centro, siempre que no se opongan a lo previsto en el Reglamento Orgánico de estos centros, aprobado por el [Decreto 327/2010](./D327_2010_reglamento_organico_institutos_educacion_secundaria_andalucia.md), de 13 de julio, y en esta Orden.
 
 #### Disposición derogatoria única. Derogación normativa.
 

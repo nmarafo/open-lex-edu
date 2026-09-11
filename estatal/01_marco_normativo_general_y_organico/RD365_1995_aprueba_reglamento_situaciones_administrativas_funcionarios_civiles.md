@@ -137,8 +137,10 @@ relaciones:
   - norma_id: '2.1'
   - norma_id: norm-es-1984-17387
   - norma_id: norm-es-1985-5392
+fundamentos_derecho:
+- norma_id: norm-es-1984-17387
+- norma_id: norm-es-1985-5392
 ---
-
 # Real Decreto 365/1995, de 10 de marzo, por el que se aprueba el Reglamento de Situaciones Administrativas de los Funcionarios Civiles de la Administración General del Estado.
 
 ## Preámbulo

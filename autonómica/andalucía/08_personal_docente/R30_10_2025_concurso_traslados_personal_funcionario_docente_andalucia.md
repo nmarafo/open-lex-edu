@@ -1,6 +1,10 @@
 ---
 id: norm-and-r30-10-2025-concurso-traslados-personal-funcionario-docente-andalucia
-titulo: Resolución de 30 de octubre de 2025, de la Dirección General del Profesorado y Gestión de Recursos Humanos, por la que se convoca concurso de traslados de personal funcionario docente perteneciente a los Cuerpos de Inspectores al servicio de la Administración educativa e Inspectores de Educación para la provisión de puestos de trabajo vacantes en la Comunidad Autónoma de Andalucía.
+titulo: Resolución de 30 de octubre de 2025, de la Dirección General del Profesorado
+  y Gestión de Recursos Humanos, por la que se convoca concurso de traslados de personal
+  funcionario docente perteneciente a los Cuerpos de Inspectores al servicio de la
+  Administración educativa e Inspectores de Educación para la provisión de puestos
+  de trabajo vacantes en la Comunidad Autónoma de Andalucía.
 jurisdiccion: Andalucía
 ambito: Autonómico
 organo_emisor: Dirección General de Profesorado y Gestión de Recursos Humanos
@@ -17,8 +21,26 @@ fuente_pdf_oficial: http://www.juntadeandalucia.es/boja/2025/215/BOJA25-215-0001
 clasificacion:
   categoria_canonica: 08_personal_docente
   subcategoria: Provisión de puestos y traslados
+fundamentos_derecho:
+- norma_id: norm-and-d-164-2024
+- norma_id: norm-and-l12-2007-promocion-igualdad-genero-andalucia
+- norma_id: norm-and-l17-2007
+- norma_id: norm-and-l9-2007-administracion-junta-andalucia-laja
+- norma_id: norm-and-115-2002
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-mad-r23-7-2026-clasificacion-centros-puestos-especial-dificultad-madrid
+- norma_id: norm-es-1984-17387
+- norma_id: norm-es-l-39-2015
+- norma_id: norm-es-l-40-2015
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-rdl-5-2015
+- norma_id: norm-es-lo-3-2018
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
+- norma_id: norm-es-rd-1364-2010
+- norma_id: norm-es-rd-276-2007
+- norma_id: norm-es-2007-5478
 ---
-
 # Resolución de 30 de octubre de 2025, de la Dirección General del Profesorado y Gestión de Recursos Humanos, por la que se convoca concurso de traslados de personal funcionario docente perteneciente a los Cuerpos de Inspectores al servicio de la Administración educativa e Inspectores de Educación para la provisión de puestos de trabajo vacantes en la Comunidad Autónoma de Andalucía.
 
 ## Preámbulo
@@ -31,7 +53,7 @@ de personal funcionario docente perteneciente a los Cuerpos de Inspectores
 al servicio de la Administración educativa e Inspectores de Educación para 
 la provisión de puestos de trabajo vacantes en la Comunidad Autónoma de 
 Andalucía.
-La Ley Orgánica 2/2006, de 3 de mayo, de Educación, establece en su disposición 
+La [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, establece en su disposición 
 adicional sexta que durante los cursos escolares en los que no se celebre concurso de 
 ámbito estatal a los que se refiere la misma, las diferentes Administraciones educativas 
 podrán organizar procedimientos de provisión referidos al ámbito territorial cuya gestión 
@@ -43,15 +65,15 @@ Orgánica 2/2006, de 3 de mayo, de Educación, el artículo 2 del Real Decreto
 1364/2010, de 29 de octubre, por el que se regula el concurso de traslados de ámbito 
 estatal entre personal funcionario de los cuerpos docentes contemplados en la Ley 
 Orgánica 2/2006, de 3 de mayo, de Educación y otros procedimientos de provisión de 
-plazas a cubrir por los mismos, y el artículo 35 del Decreto 115/2002, de 25 de marzo, 
+plazas a cubrir por los mismos, y el artículo 35 del [Decreto 115/2002](../04_organizacion_escolar_y_funcionamiento/D115_2002_reglamento_inspeccion_educativa_andalucia.md), de 25 de marzo, 
 por el que se regula la organización y el funcionamiento de la Inspección Educativa.
-Asimismo, en el artículo 16.1 de la Ley 17/2007, de 10 de diciembre, de Educación de 
+Asimismo, en el artículo 16.1 de la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre, de Educación de 
 Andalucía se establece que, con carácter general, los puestos de trabajo docentes en los 
 centros, zonas y servicios educativos se ocuparán por profesorado funcionario de carrera 
 mediante el sistema ordinario de concurso de traslados.
-En su virtud, de acuerdo con lo previsto en el citado Real Decreto 1364/2010, de 
+En su virtud, de acuerdo con lo previsto en el citado [Real Decreto 1364/2010](../../madrid/08_personal_docente/R23_7_2026_clasificacion_centros_puestos_especial_dificultad_madrid.md), de 
 29 de octubre, esta Dirección General, en uso de las competencias atribuidas en 
-el artículo 8.2.b) del Decreto 164/2024, de 26 de agosto, por el que se establece la 
+el artículo 8.2.b) del [Decreto 164/2024](../01_marco_normativo_general_y_organico/D164_2024_estructura_organica_consejeria_desarrollo_educativo_andalucia.md), de 26 de agosto, por el que se establece la 
 estructura orgánica de la Consejería de Desarrollo Educativo y Formación Profesional, 
 dispone convocar concurso de traslados de puestos de Inspección Educativa de ámbito 
 autonómico para el curso académico 2026/2027, conforme a las siguientes
@@ -79,38 +101,38 @@ Segunda. Normativa aplicable.
 Al presente procedimiento de provisión de destinos definitivos le serán de aplicación 
 las bases contenidas en esta convocatoria, la normativa que a continuación se relaciona, 
 así como las demás disposiciones de carácter general que sean de aplicación:
-- Ley Orgánica 2/2006, de 3 de mayo, de Educación, modificada por la Ley Orgánica 
+- [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, modificada por la Ley Orgánica 
 3/2020, de 29 de diciembre.
 - Ley Orgánica 2/2007, de 19 de marzo, por la que se aprueba la reforma del Estatuto 
 de Autonomía para Andalucía.
-- Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y 
+- [Ley Orgánica 3/2018](../../../estatal/02_gestion_y_administracion_centros/LO3_2018_proteccion_datos_personales_garantia_derechos_digitales.md), de 5 de diciembre, de Protección de Datos Personales y 
 Garantía de los Derechos Digitales.
-- Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las 
+- [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Administrativo Común de las 
 Administraciones Públicas.
-- Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público.
-- Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el Texto 
+- [Ley 40/2015](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md), de 1 de octubre, de Régimen Jurídico del Sector Público.
+- [Real Decreto Legislativo 5/2015](../../../estatal/01_marco_normativo_general_y_organico/RDL5_2015_aprueba_texto_refundido_ley_estatuto_basico.md), de 30 de octubre, por el que se aprueba el Texto 
 Refundido de la Ley del Estatuto Básico del Empleado Público (en adelante TREBEP).
 - Real Decreto 1138/2002, de 31 de octubre, por el que se regula la Administración 
 del Ministerio de Educación, Cultura y Deporte en el exterior.
-- Real Decreto 276/2007, de 23 de febrero, por el que se aprueba el Reglamento de 
+- [Real Decreto 276/2007](../../../estatal/08_personal_docente/RD276_2007_aprueba_reglamento_ingreso_accesos_adquisicion_nuevas.md), de 23 de febrero, por el que se aprueba el Reglamento de 
 ingreso, accesos y adquisición de nuevas especialidades en los cuerpos docentes a que 
-se refiere la Ley Orgánica 2/2006, de 3 de mayo, de Educación, y se regula el régimen 
+se refiere la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, y se regula el régimen 
 transitorio de ingreso a que se refiere la disposición transitoria decimoséptima de la 
 citada ley.
-- Real Decreto 1364/2010, de 29 de octubre, por el que se regula el concurso 
+- [Real Decreto 1364/2010](../../madrid/08_personal_docente/R23_7_2026_clasificacion_centros_puestos_especial_dificultad_madrid.md), de 29 de octubre, por el que se regula el concurso 
 de traslados de ámbito estatal entre personal funcionario de los cuerpos docentes 
-contemplados en la Ley Orgánica 2/2006, de 3 de mayo, de Educación y otros 
+contemplados en la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación y otros 
 procedimientos de provisión de plazas a cubrir por los mismos, modificado por el Real 
 Decreto 677/2024, de 16 de julio.
-- Ley 12/2007, de 26 de noviembre, para la Promoción de la Igualdad de Género en 
+- [Ley 12/2007](../01_marco_normativo_general_y_organico/L12_2007_promocion_igualdad_genero_andalucia.md), de 26 de noviembre, para la Promoción de la Igualdad de Género en 
 Andalucía.
-- Ley 17/2007, de 10 de diciembre, de Educación de Andalucía.
+- [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre, de Educación de Andalucía.
 - Ley 5/2023, de 7 de junio, de la Función Pública de Andalucía. 
-- Decreto 115/2002, de 25 de marzo, por el que se regula la organización y el 
+- [Decreto 115/2002](../04_organizacion_escolar_y_funcionamiento/D115_2002_reglamento_inspeccion_educativa_andalucia.md), de 25 de marzo, por el que se regula la organización y el 
 funcionamiento de la Inspección Educativa.
 - Decreto 622/2019, de 27 de diciembre, de administración electrónica, simplificación 
 de procedimientos y racionalización organizativa de la Junta de Andalucía.
-- Decreto 164/2024, de 26 de agosto, por el que se establece la estructura orgánica 
+- [Decreto 164/2024](../01_marco_normativo_general_y_organico/D164_2024_estructura_organica_consejeria_desarrollo_educativo_andalucia.md), de 26 de agosto, por el que se establece la estructura orgánica 
 de la Consejería de Desarrollo Educativo y Formación Profesional.
 - Sentencia 1081/2022, de 21 de julio, de la Sala de lo Contencioso-Administrativo 
 del Tribunal Supremo.
@@ -216,7 +238,7 @@ donde exista puesto vacante, atendiendo a las necesidades del servicio educativo
 orden en que figuran en el correspondiente anexo de centros.
 Sexta. Solicitudes, forma de presentación y plazo.
 6.1. Solicitudes.
-De conformidad con lo establecido en el artículo 14.2.e) de la Ley 39/2015, de 1 de 
+De conformidad con lo establecido en el artículo 14.2.e) de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de 
 octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, 
 quienes participen en esta convocatoria, cumplimentarán la solicitud mediante el formulario 
 asociado a la misma que se facilitará a través del portal web de la Consejería de Desarrollo 
@@ -231,7 +253,7 @@ Durante la cumplimentación de la solicitud no será necesaria la presentación 
 documentación justificativa de los datos facilitados por la aplicación informática, excepto 
 las publicaciones no susceptibles de ser escaneadas, de las cuales sólo se escaneará 
 la página donde aparece el ISBN, debiendo presentar la publicación completa conforme 
-a lo dispuesto en el artículo 16.4 de la Ley 39/2015, de 1 de octubre, del Procedimiento 
+a lo dispuesto en el artículo 16.4 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento 
 Administrativo Común de las Administraciones Públicas.
 En los supuestos de tener que presentar documentación fehaciente de algún extremo, 
 se insertará en formato PDF unido a la solicitud telemática.
@@ -279,7 +301,7 @@ de funciones públicas.
 Una vez cumplimentada la solicitud, la misma se presentará de forma telemática 
 mediante los distintos medios de firma electrónica que disponga el formulario, sin 
 perjuicio de la posibilidad de presentación conforme a lo dispuesto en el artículo 
-16.4 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de 
+16.4 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Administrativo Común de 
 las Administraciones Públicas. A tal efecto, en los supuestos de tener que presentar 
 documentación fehaciente de algún extremo, se insertará en formato PDF unida a la 
 solicitud telemática.
@@ -316,7 +338,7 @@ BOJA
 Depósito Legal: SE-410/1979. ISSN: 2253-802X	
 https://www.juntadeandalucia.es/eboja
 Los miembros de las comisiones estarán sujetos a las causas de abstención y 
-recusación establecidas en los artículos 23 y 24 de la Ley 40/2015, de 1 de octubre, de 
+recusación establecidas en los artículos 23 y 24 de la [Ley 40/2015](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md), de 1 de octubre, de 
 Régimen Jurídico del Sector Público.
 La referida comisión gozará de la denominada discrecionalidad técnica y objetividad 
 en el desarrollo de sus funciones
@@ -331,7 +353,7 @@ Educativo y Formación Profesional, concediéndose un plazo de diez días hábil
 computables desde el siguiente al de la publicación, para que las personas interesadas 
 puedan efectuar reclamaciones contra dicha resolución provisional, cumpliéndose 
 al mismo tiempo con este plazo el trámite de audiencia previsto en el artículo 82 
-de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las 
+de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Administrativo Común de las 
 Administraciones Públicas.
 Asimismo, durante este mismo plazo, el personal que haya participado con carácter 
 voluntario podrá presentar electrónicamente renuncia a su participación en el concurso. A 
@@ -346,12 +368,12 @@ publicada en el Boletín Oficial de la Junta de Andalucía, en la misma se anunc
 fecha de publicación de los destinos obtenidos en el portal web de la Consejería de 
 Desarrollo Educativo y Formación Profesional, entendiéndose en esa fecha, notificado 
 a todos los efectos al personal participante, conforme a lo dispuesto en el artículo 45
-de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de 
+de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Administrativo Común de 
 las Administraciones Públicas. Contra la referida resolución, que pone fin a la vía 
 administrativa, se podrá interponer recurso potestativo de reposición, de conformidad con 
-lo dispuesto en los artículos 112.1, 123 y 124 de la Ley 39/2015, de 1 de octubre, del 
+lo dispuesto en los artículos 112.1, 123 y 124 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del 
 Procedimiento Administrativo Común de las Administraciones Públicas, y en el artículo 
-115.2 de la Ley 9/2007, de 22 de octubre, de la Administración de la Junta de Andalucía. 
+115.2 de la [Ley 9/2007](../01_marco_normativo_general_y_organico/L9_2007_administracion_junta_andalucia_laja.md), de 22 de octubre, de la Administración de la Junta de Andalucía. 
 Quienes participen en esta convocatoria y soliciten y obtengan la excedencia en 
 el transcurso de su resolución, o cesen en el servicio activo por cualquier otra causa, 
 siempre que implique pérdida del destino definitivo, se considerarán decaídos en sus 
@@ -392,9 +414,9 @@ Gestión de Recursos Humanos en el plazo de un mes, contado a partir de la final
 del plazo establecido para la interposición de recurso contencioso-administrativo.
 Décima. Carácter de los destinos y toma de posesión.
 10.1. Los destinos adjudicados, con carácter definitivo, son irrenunciables, de 
-conformidad con lo dispuesto en el artículo 19.3 del Real Decreto 1364/2010, de 29 de 
+conformidad con lo dispuesto en el artículo 19.3 del [Real Decreto 1364/2010](../../madrid/08_personal_docente/R23_7_2026_clasificacion_centros_puestos_especial_dificultad_madrid.md), de 29 de 
 octubre, por el que se regula el concurso de traslados de ámbito estatal entre personal 
-funcionario de los cuerpos docentes contemplados en la Ley Orgánica 2/2006, de 3 
+funcionario de los cuerpos docentes contemplados en la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 
 de mayo, de Educación y otros procedimientos de provisión de plazas a cubrir por los 
 mismos.
 10.2. Los traslados que se deriven de los destinos adjudicados en el presente concurso 
@@ -412,9 +434,9 @@ Décima. Recursos.
 Contra la presente resolución, que pone fin a la vía administrativa, podrá interponerse, 
 potestativamente, recurso de reposición, ante el mismo órgano que dicta la presente 
 resolución, en el plazo de un mes a contar desde el día siguiente al de su publicación, 
-de conformidad con los artículos 112.1, 123 y 124 de la Ley 39/2015, de 1 de octubre, del 
+de conformidad con los artículos 112.1, 123 y 124 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del 
 Procedimiento Administrativo Común de las Administraciones Públicas, y en el artículo 115.2
-de la Ley 9/2007, de 22 de octubre, de la Administración de la Junta de Andalucía, o 
+de la [Ley 9/2007](../01_marco_normativo_general_y_organico/L9_2007_administracion_junta_andalucia_laja.md), de 22 de octubre, de la Administración de la Junta de Andalucía, o 
 alternativa y directamente, en el plazo de dos meses a contar desde el día siguiente 
 al de su publicación, recurso contencioso-administrativo ante el órgano jurisdiccional 
 competente, conforme a lo establecido en los artículos 8.2.a), 14 y 46.1 de la Ley 29/1998, 
@@ -546,7 +568,7 @@ en los cuerpos de Inspectores de procedencia
 y los prestados desde la fecha de acceso como 
 docentes a la función inspectora de conformidad 
 con la disposición adicional decimoquinta de la 
-Ley 30/1984, de 2 de agosto, de Medidas para la 
+[Ley 30/1984](../../../estatal/01_marco_normativo_general_y_organico/L30_1984_medidas_reforma_funcion_publica.md), de 2 de agosto, de Medidas para la 
 Reforma de la Función Pública.
 1.3.2. Por cada año de servicios efectivos 
 prestados en situación de servicio activo como 
@@ -568,10 +590,10 @@ Los servicios aludidos en el subapartado 1.3.2 no serán tenidos en cuenta en lo
 servicios de los subapartados 1.1 o 1.2.
 A los efectos previstos en los subapartados 1.1, 1.2, 1.3.1 y 1.3.2, serán computados los servicios que se hubieran prestado en 
 la situación de servicios especiales, expresamente declarados como tales en los apartados previstos en el artículo 87 del texto 
-refundido de la Ley del Estatuto Básico del Empleado Público (TREBEP) aprobado por el Real Decreto Legislativo 5/2015, de 30 
+refundido de la Ley del Estatuto Básico del Empleado Público (TREBEP) aprobado por el [Real Decreto Legislativo 5/2015](../../../estatal/01_marco_normativo_general_y_organico/RDL5_2015_aprueba_texto_refundido_ley_estatuto_basico.md), de 30 
 de octubre, así como las situaciones de idéntica naturaleza establecidas por disposiciones anteriores a la citada ley. Igualmente 
 serán computados, a estos efectos, el tiempo de excedencia por cuidado de familiares declarada de acuerdo con el artículo 89.4 
-del citado TREBEP aprobado por el Real Decreto Legislativo 5/2015, de 30 de octubre, que no podrá exceder de tres años. 
+del citado TREBEP aprobado por el [Real Decreto Legislativo 5/2015](../../../estatal/01_marco_normativo_general_y_organico/RDL5_2015_aprueba_texto_refundido_ley_estatuto_basico.md), de 30 de octubre, que no podrá exceder de tres años. 
 2. Méritos académicos. 
 A los efectos de su valoración por este apartado, 
 únicamente se tendrán en cuenta los títulos con 

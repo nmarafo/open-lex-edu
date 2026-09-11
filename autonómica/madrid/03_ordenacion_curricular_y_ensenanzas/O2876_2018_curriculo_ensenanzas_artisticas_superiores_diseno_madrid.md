@@ -26,8 +26,16 @@ tags:
 - diseno
 - curriculo_superior
 - madrid
+fundamentos_derecho:
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-mad-l12-1999-creacion-consejo-escolar-comunidad-madrid
+- norma_id: norm-mad-o972-2017-organizacion-funcionamiento-institutos-bilingues-madrid
+- norma_id: norm-es-l-39-2015
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-2016-3229
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
 ---
-
 # Currículo enseñanza– Orden 2876/2018, de 27 de julio, de la Consejería de Educación e Investigación, por la que se establece el currículo de inglés avanzado de Educación Secundaria Obligatoria en institutos y centros privados concertados bilingües español-inglés de la Comunidad de Madrid, y de Bachillerato, en institutos bilingües español-inglés de la Comunidad de Madrid
 
 ## Preámbulo
@@ -40,7 +48,7 @@ ción, por la que se establece el currículo de inglés avanzado de Educación S
 cundaria Obligatoria en institutos y centros privados concertados bilingües es-
 pañol-inglés de la Comunidad de Madrid, y de Bachillerato, en institutos
 bilingües español-inglés de la Comunidad de Madrid.
-La Ley Orgánica 2/2006, de 3 de mayo, de Educación (LOE), modificada por la Ley
+La [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación (LOE), modificada por la Ley
 Orgánica 8/2013, de 9 de diciembre, para la Mejora de la Calidad Educativa (LOMCE), es-
 tablece en su artículo 2.1.j) como uno de los fines del sistema educativo la capacitación para
 la comunicación en una o más lenguas extranjeras. Además, recoge, entre los objetivos de
@@ -50,7 +58,7 @@ mensajes sencillos, y desenvolverse en situaciones cotidianas. Igualmente, inclu
 Educación Secundaria Obligatoria, artículo 23.i), comprender y expresarse en una o más
 lenguas extranjeras de manera apropiada.
 Asimismo, en el Capítulo III, Currículo y distribución de competencias de la citada
-Ley Orgánica 8/2013, artículo 6 bis, Distribución de competencias, apartado 1, letra e) se
+[Ley Orgánica 8/2013](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md), artículo 6 bis, Distribución de competencias, apartado 1, letra e) se
 establece que corresponde al Gobierno “el diseño del currículo básico, en relación con los
 objetivos, competencias, contenidos, criterios de evaluación, estándares y resultados de
 aprendizaje evaluables”.
@@ -81,7 +89,7 @@ Estos decretos autorizan a la Consejería de Educación e Investigación a dicta
 disposiciones sean precisas para la interpretación, aplicación y desarrollo del mismo.
 Al finalizar la Educación Primaria, los alumnos que participan en el Programa Bilingüe
 español-inglés deberán ser capaces de utilizar la lengua inglesa para expresarse e interactuar
-oralmente y por escrito en situaciones sencillas y habituales. La Orden 972/2017, de 7 de
+oralmente y por escrito en situaciones sencillas y habituales. La [Orden 972/2017](../02_gestion_y_administracion_centros/O972_2017_organizacion_funcionamiento_institutos_bilingues_madrid.md), de 7 de
 abril, de la Consejería de Educación, Juventud y Deporte, por la que se regulan los institutos
 bilingües español-inglés de la Comunidad de Madrid, establece que en Educación Secunda-
 ria Obligatoria estos alumnos podrán dar continuidad al proceso de aprendizaje de la lengua
@@ -123,7 +131,7 @@ jurídico estable, predecible, integrado, claro y de certidumbre. Asimismo, el p
 yecto de orden facilita la comprensión de la citada normativa, facilitando, de este modo, la
 toma de decisiones por parte de los institutos bilingües de la Comunidad de Madrid.
 Asimismo, el presente proyecto de orden se adecúa a los principios de buena regula-
-ción, de acuerdo con lo previsto en el artículo 129 de la Ley 39/2015, de 1 de octubre, del
+ción, de acuerdo con lo previsto en el artículo 129 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del
 Procedimiento Administrativo Común de las Administraciones públicas, respondiendo a
 los principios de necesidad y eficacia, proporcionalidad, seguridad jurídica, transparencia
 y eficiencia.
@@ -148,7 +156,7 @@ ta al profesorado de Educación Secundaria de la especialidad de inglés que est
 para impartir el currículo de Inglés avanzado y que ya venía disfrutando del correspondien-
 te complemento de productividad.
 Para elaborar esta Orden, ha emitido dictamen el Consejo Escolar de la Comunidad de
-Madrid, de acuerdo con lo establecido en el artículo 2.1.b) de la Ley 12/1999, de 29 de abril,
+Madrid, de acuerdo con lo establecido en el artículo 2.1.b) de la [Ley 12/1999](../01_marco_normativo_general_y_organico/L12_1999_creacion_consejo_escolar_comunidad_madrid.md), de 29 de abril,
 de creación del Consejo Escolar de la Comunidad de Madrid, modificada por el artículo 29
 
 BOCM
@@ -157,7 +165,7 @@ ción del sector Público.
 En virtud de lo anterior, y de conformidad con lo dispuesto en la disposición adicional
 primera Centros bilingües del Decreto 48/2015, de 14 de mayo, del Consejo de Gobierno,
 por el que se establece para la Comunidad de Madrid el currículo de Educación Secundaria
-Obligatoria; en la disposición adicional primera de la Orden 972/2017, de 7 de abril, de la
+Obligatoria; en la disposición adicional primera de la [Orden 972/2017](../02_gestion_y_administracion_centros/O972_2017_organizacion_funcionamiento_institutos_bilingues_madrid.md), de 7 de abril, de la
 Consejería de Educación, Juventud y Deporte, por la que se regulan los institutos bilingües
 español-inglés de la Comunidad de Madrid; en el artículo 2 Enseñanza del inglés en el Ba-
 chillerato, punto 2, de la Orden 2763/2014, de 28 de agosto, de la Consejería de Educación,
@@ -184,7 +192,7 @@ Lengua Extranjera: Inglés y el currículo de Inglés avanzado para los cursos 1
 chillerato, a impartir en las asignaturas Primera Lengua Extranjera I y II.
 2.
 Esta Orden será de aplicación en las secciones bilingües de los institutos bilingües
-de la Comunidad de Madrid, regulados por la Orden 972/2017, de 7 de abril, en las unida-
+de la Comunidad de Madrid, regulados por la [Orden 972/2017](../02_gestion_y_administracion_centros/O972_2017_organizacion_funcionamiento_institutos_bilingues_madrid.md), de 7 de abril, en las unida-
 des de 1.o y 2.o de Bachillerato en las que el centro haya decidido impartir el currículo de
 Inglés avanzado, según lo estipulado en la Orden 2763/2014, de 28 de agosto, de la Conse-
 jería de Educación, Juventud y Deporte, por la que se amplían, con carácter experimental,

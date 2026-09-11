@@ -29,8 +29,20 @@ relaciones:
   - norma_id: norm-es-lo-2-2006
   fundamentado_en:
   - norma_id: norm-and-l17-2007
+fundamentos_derecho:
+- norma_id: norm-and-l12-2007-promocion-igualdad-genero-andalucia
+- norma_id: norm-and-l17-2007
+- norma_id: norm-and-l6-2006-gobierno-comunidad-autonoma-andalucia
+- norma_id: norm-and-l9-2007-administracion-junta-andalucia-laja
+- norma_id: norm-and-d-71-2009
+- norma_id: norm-and-d25-2007-prevencion-riesgos-laborales-salud-trabajo-centros-docentes-andalucia
+- norma_id: norm-and-361-2011
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-lo-8-1985
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
 ---
-
 # Decreto 360/2011, de 7 de diciembre, por el que se aprueba el Reglamento Orgánico de las Escuelas de Arte.
 
 ## Preámbulo
@@ -57,12 +69,12 @@ la Constitución, a tenor del cual corresponde al Estado dictar
 las normas básicas para el desarrollo del artículo 27 del texto 
 constitucional, a fin de garantizar el cumplimiento de las obli-
 gaciones de los poderes públicos en esta materia.
-La Ley Orgánica 2/2006, de 3 de mayo, de Educación, ha 
+La [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, ha 
 introducido importantes novedades en la organización, funcio-
 namiento y gobierno de los centros educativos, profundizando 
 en los conceptos de participación de la comunidad educativa y 
 de autonomía pedagógica, organizativa y de gestión.
-Por otra parte, la Ley 17/2007, de 10 de diciembre, de 
+Por otra parte, la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre, de 
 Educación de Andalucía, reconoce dichos principios al dedicar 
 el Título I a la comunidad educativa: alumnado, profesorado, al 
 que concede el papel relevante que representa en el sistema 
@@ -90,7 +102,7 @@ a los requerimientos que nuestra sociedad, y por consiguiente
 nuestros centros, tienen hoy.
 Los cambios mencionados en las leyes anteriores, junto 
 con la necesidad de concretar y desarrollar los aspectos re-
-gulados en la Ley 17/2007, de 10 de diciembre, requieren de 
+gulados en la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre, requieren de 
 la derogación del reglamento orgánico de las escuelas de arte 
 actualmente en vigor.
 Aspecto significativo del Reglamento que se aprueba por 
@@ -125,7 +137,7 @@ yen elementos que se encuentran presentes en el Reglamento
 que se aprueba por el presente decreto.
 Por otra parte, la atribución de mayores competencias a 
 los directores y directoras, en desarrollo de lo establecido en 
-la mencionada Ley 17/2007, de 10 de diciembre, junto con 
+la mencionada [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre, junto con 
 la simplificación administrativa constituyen, indudablemente, 
 un novedoso marco regulador de la organización y funciona-
 miento de las escuelas de arte respecto al modelo hoy vigente 
@@ -166,7 +178,7 @@ conformidad en lo establecido en el artículo 45.1.c) de la Ley
 tónoma de Andalucía.
 En su virtud, a propuesta del Consejero de Educación, de 
 conformidad con lo establecido en los artículos 27.9 y 44.1 de 
-la Ley 6/2006, de 24 de octubre, de acuerdo con el Consejo 
+la [Ley 6/2006](../01_marco_normativo_general_y_organico/L6_2006_gobierno_comunidad_autonoma_andalucia.md), de 24 de octubre, de acuerdo con el Consejo 
 Consultivo de Andalucía y previa deliberación del Consejo de 
 Gobierno en su reunión del día 7 de diciembre de 2011, 
 D I S P O N G O
@@ -233,10 +245,10 @@ se aprueba mediante el presente decreto reproducen normas
 dictadas por el Estado al amparo del artículo 149.1.1.ª y 30.ª 
 de la Constitución Española y recogidas en la Ley Orgánica 
 8/1985, de 3 de julio, reguladora del Derecho a la Educación, 
-en la Ley Orgánica 2/2006, de 3 de mayo, de Educación, y 
+en la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, y 
 en el Real Decreto 303/2010, de 15 de marzo, por el que se 
 establecen los requisitos mínimos de los centros que imparten 
-enseñanzas artísticas reguladas en la Ley Orgánica 2/2006, 
+enseñanzas artísticas reguladas en la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), 
 de 3 de mayo, de Educación.
 
 Sevilla, 27 de diciembre 2011 
@@ -251,10 +263,10 @@ k), l), n) y r), 25.1, 25.2 letras a), b), c), d) y j), 26.1, 26.3,
 64.3, 65.2, 65.3, 71.2, 75.1, 75.3, 80.2, 84.3, 85.3 y 86.3 del 
 Reglamento Orgánico que se aprueba mediante el presente 
 decreto reproducen normas dictadas por la Comunidad Autó-
-noma de Andalucía y recogidas en la Ley 17/2007, de 10 de 
-diciembre, de Educación de Andalucía, en la Ley 9/2007, de 
+noma de Andalucía y recogidas en la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de 
+diciembre, de Educación de Andalucía, en la [Ley 9/2007](../01_marco_normativo_general_y_organico/L9_2007_administracion_junta_andalucia_laja.md), de 
 22 de octubre, de la Administración de la Junta de Andalucía, 
-en la Ley 12/2007, de 26 de noviembre, para la promoción de 
+en la [Ley 12/2007](../01_marco_normativo_general_y_organico/L12_2007_promocion_igualdad_genero_andalucia.md), de 26 de noviembre, para la promoción de 
 la igualdad de género en Andalucía, y en la Ley 13/2007, de 
 26 de noviembre, de prevención y protección integral contra la 
 violencia de género.
@@ -454,7 +466,7 @@ objeto la escuela, así como del Plan de Centro establecido por
 el mismo.
 4. Las asociaciones del alumnado se inscribirán en el 
 Censo de Entidades Colaboradoras de la Enseñanza, a que 
-se refiere el Decreto 71/2009, de 31 de marzo, por el que se 
+se refiere el [Decreto 71/2009](../02_gestion_y_administracion_centros/D71_2009_regula_censo_entidades_colaboradoras_ensenanza_andalucia.md), de 31 de marzo, por el que se 
 regula el Censo de Entidades Colaboradoras de la Enseñanza.
 TÍTULO II
 EL PROFESORADO
@@ -682,7 +694,7 @@ las que haya podido ser objeto, así como del Plan de Centro
 establecido por el mismo.
 4. Las asociaciones de madres y padres del alumnado 
 se inscribirán en el Censo de Entidades Colaboradoras de la 
-Enseñanza, a que se refiere el Decreto 71/2009, de 31 de 
+Enseñanza, a que se refiere el [Decreto 71/2009](../02_gestion_y_administracion_centros/D71_2009_regula_censo_entidades_colaboradoras_ensenanza_andalucia.md), de 31 de 
 marzo.
 5. Se facilitará la colaboración de las asociaciones de 
 madres y padres del alumnado con los equipos directivos de 
@@ -747,7 +759,7 @@ de lo dispuesto en el presente Reglamento.
 3. Las escuelas de arte creadas con arreglo a lo estable-
 cido en el apartado anterior tendrán, a todos los efectos, el 
 carácter de centros públicos, de acuerdo con la disposición 
-adicional segunda de la Ley Orgánica 8/1985, de 3 de julio.
+adicional segunda de la [Ley Orgánica 8/1985](../../../estatal/02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md), de 3 de julio.
 Artículo 19. Modificación de enseñanzas.
 Por orden de la persona titular de la Consejería compe-
 tente en materia de educación podrán modificarse las ense-
@@ -835,8 +847,8 @@ y artístico, hacen de la escuela un elemento dinamizador de la
 zona donde está ubicada.
 2. El proyecto educativo definirá los objetivos particulares 
 que la escuela se propone alcanzar, partiendo de su realidad 
-y tomando como referencia la Ley Orgánica 2/2006, de 3 de 
-mayo, y la Ley 17/2007, de 10 de diciembre, acerca de los 
+y tomando como referencia la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de 
+mayo, y la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre, acerca de los 
 principios que orientan cada una de las enseñanzas que se 
 imparten en la escuela y las correspondientes prescripciones 
 acerca del currículo.
@@ -960,7 +972,7 @@ g) El plan de autoprotección de la escuela.
 h) Las normas sobre la utilización en la escuela de teléfo-
 nos móviles y otros aparatos electrónicos, así como el proce-
 dimiento para garantizar el acceso seguro a internet del alum-
-nado, de acuerdo con lo dispuesto en el Decreto 25/2007, 
+nado, de acuerdo con lo dispuesto en el [Decreto 25/2007](./D25_2007_prevencion_riesgos_laborales_salud_trabajo_centros_docentes_andalucia.md), 
 de 6 de febrero, por el que se establecen medidas para el 
 fomento, la prevención de riesgos y la seguridad en el uso de 
 internet y las tecnologías de la información y la comunicación 
@@ -1438,7 +1450,7 @@ director o directora en relación con las conductas de los alum-
 nos y alumnas a que se refiere el artículo 36, podrán ser re-
 visadas por el Consejo Escolar a instancia de los padres, ma-
 dres o representantes legales del alumnado, de acuerdo con 
-lo establecido en el artículo 127 de la Ley Orgánica 2/2006, 
+lo establecido en el artículo 127 de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), 
 de 3 de mayo. A tales efectos, el director o directora convo-
 cará una sesión extraordinaria del Consejo Escolar en el plazo 
 máximo de dos días lectivos, contados desde que se presente 
@@ -1467,7 +1479,7 @@ miento de los órganos colegiados de gobierno.
 Para lo no previsto en los artículos 45 y 61, el régimen de 
 funcionamiento de los órganos colegiados de gobierno de las 
 escuelas de arte será el establecido en el Capítulo II del Títu-
-lo IV de la ley 9/2007, de 22 de octubre, de la Administración 
+lo IV de la [ley 9/2007](../01_marco_normativo_general_y_organico/L9_2007_administracion_junta_andalucia_laja.md), de 22 de octubre, de la Administración 
 de la Junta de Andalucía, en el Capítulo II del Título II de la Ley 
 30/1992, de 26 de noviembre, y demás normativa aplicable.
 Sección 1.ª El Consejo Escolar
@@ -1528,7 +1540,7 @@ total de alumnos matriculados en la escuela.
 de la comunidad educativa en el Consejo Escolar se realizará 
 de forma que permita la representación equilibrada de hom-
 bres y mujeres, de conformidad con lo establecido en el ar-
-tículo 19.2 de la Ley 9/2007, de 22 de octubre. 
+tículo 19.2 de la [Ley 9/2007](../01_marco_normativo_general_y_organico/L9_2007_administracion_junta_andalucia_laja.md), de 22 de octubre. 
 5. Una vez constituido el Consejo Escolar de la escuela, 
 este designará una persona que impulse medidas educativas 
 que fomente la igualdad real y efectiva entre hombres y mu-
@@ -1552,7 +1564,7 @@ previo acuerdo de sus miembros, adoptado por mayoría de
 dos tercios, proponer la revocación del nombramiento del di-
 rector o directora.
 e) Decidir sobre la admisión del alumnado con sujeción 
-a lo establecido en la Ley Orgánica 2/2006, de 3 de mayo, y 
+a lo establecido en la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, y 
 disposiciones que la desarrollen.
 f) Realizar el seguimiento de los compromisos educativos 
 y de convivencia suscritos en la escuela, para garantizar su 
@@ -1990,7 +2002,7 @@ ción, de la innovación y de la investigación pedagógica y en la
 formación del profesorado de la escuela.
 f) Elegir sus representantes en el Consejo Escolar de la 
 escuela y participar en la selección del director o directora en 
-los términos establecidos en la Ley Orgánica 2/2006, de 3 de 
+los términos establecidos en la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de 
 mayo, y demás normativa de aplicación.
 g) Conocer las candidaturas a la dirección y los proyectos 
 de dirección presentados por las personas candidatas.
@@ -2218,7 +2230,7 @@ Artículo 66. Selección, nombramiento y cese de la per-
 sona titular de la dirección. 
 La selección, nombramiento y cese de la persona titular 
 de la dirección de las escuelas de arte se realizará según lo 
-establecido en la Ley Orgánica 2/2006, de 3 de mayo, y en 
+establecido en la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, y en 
 las disposiciones que la desarrollen.
 Artículo 67. Competencias de la vicedirección. 
 Son competencias de la vicedirección: 
@@ -2871,7 +2883,7 @@ conjunto de las actividades de enseñanza y aprendizaje.
 publicará periódicamente las conclusiones de interés general 
 de las evaluaciones de las escuelas de arte efectuadas por la 
 Agencia Andaluza de Evaluación Educativa. 
- DECRETO 361/2011, de 7 de diciembre, por el 
+ [DECRETO 361/2011](./D361_2011_reglamento_organico_conservatorios_musica_danza_andalucia.md), de 7 de diciembre, por el 
 que se aprueba el Reglamento Orgánico de los Conser-
 vatorios Elementales y de los Conservatorios Profesio-
 nales de Música.
@@ -2894,12 +2906,12 @@ la Constitución, a tenor del cual corresponde al Estado dictar
 las normas básicas para el desarrollo del artículo 27 del texto 
 constitucional, a fin de garantizar el cumplimiento de las obli-
 gaciones de los poderes públicos en esta materia.
-La Ley Orgánica 2/2006, de 3 de mayo, de Educación, ha 
+La [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, ha 
 introducido importantes novedades en la organización, funcio-
 namiento y gobierno de los centros educativos, profundizando 
 en los conceptos de participación de la comunidad educativa y 
 de autonomía pedagógica, organizativa y de gestión.
-Por otra parte, la Ley 17/2007, de 10 de diciembre, de 
+Por otra parte, la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre, de 
 Educación de Andalucía, reconoce dichos principios al dedicar 
 el Título I a la comunidad educativa: alumnado, profesorado, al 
 que concede el papel relevante que representa en el sistema 
@@ -2917,7 +2929,7 @@ mismo, en la ley se refuerza la función directiva, potenciando
 su liderazgo pedagógico y organizativo. Finalmente, pone énfa-
 sis en la coordinación de las actuaciones de los distintos órga-
 nos y en el trabajo en equipo del profesorado. 
-Asimismo, la citada Ley 17/2007, de 10 de diciembre, es-
+Asimismo, la citada [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre, es-
 tablece en su artículo 82.1 que las enseñanzas elementales de 
 música se podrán impartir en los conservatorios elementales 
 y profesionales de música, mientras que en el artículo 85 dis-
@@ -2936,7 +2948,7 @@ manera más ajustada a los requerimientos que nuestra socie-
 dad y, por consiguiente nuestros centros, tienen hoy.
 Los cambios mencionados en las leyes anteriores, junto 
 con la necesidad de concretar y desarrollar los aspectos re-
-gulados en la Ley 17/2007, de 10 de diciembre, requieren de 
+gulados en la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre, requieren de 
 la derogación del reglamento orgánico de los conservatorios 
 profesionales de música actualmente en vigor.
 Aspecto significativo del Reglamento que se aprueba por 
@@ -2968,7 +2980,7 @@ yen elementos que se encuentran presentes en el Reglamento
 que se aprueba por el presente decreto.
 Por otra parte, la atribución de mayores competencias a 
 los directores y directoras, en desarrollo de lo establecido en 
-la mencionada Ley 17/2007, de 10 de diciembre, junto con 
+la mencionada [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre, junto con 
 la simplificación administrativa constituyen, indudablemente, 
 un novedoso marco regulador de la organización y funciona-
 miento de los conservatorios elementales y los conservatorios 

@@ -27,8 +27,13 @@ tags:
 relaciones:
   fundamenta:
   - norma_id: norm-mad-r11-12-2025
+fundamentos_derecho:
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-can-l-16-2003
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
 ---
-
 ## Preámbulo
 
 I. COMUNIDAD DE MADRID
@@ -57,12 +62,12 @@ La atención integral a los menores de seis años con trastornos en su desarroll
 capacidad o riesgo de padecerla y/o dependencia, así como a sus familias, requiere de la
 participación activa y corresponsable de las diferentes unidades administrativas con com-
 petencias en Sanidad, Educación y Servicios Sociales.
-La Ley 16/2003, de 28 de mayo, de Cohesión y Calidad del Sistema Nacional de Sa-
+La [Ley 16/2003](../../canarias/07_convivencia_bienestar_y_protocolos/L16_2003_prevencion_proteccion_integral_mujeres_contra_violencia.md), de 28 de mayo, de Cohesión y Calidad del Sistema Nacional de Sa-
 lud, contempla en sus artículos 12 y 13 (ambos de carácter básico de conformidad con lo
 dispuesto en la disposición final primera), las responsabilidades del sistema en materia de
 promoción de la salud, educación sanitaria y prevención de la enfermedad en los ámbitos
 de la atención primaria y atención especializada.
-La Ley Orgánica 2/2006, de 3 de mayo, de Educación, en su redacción dada por la
+La [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, en su redacción dada por la
 Ley 8/2013, de 9 de diciembre, para la Mejora de la Calidad Educativa (LOMCE), incluye
 como uno de los principios de actuación de las Administraciones educativas el estable-
 cimiento de los procedimientos y recursos necesarios para identificar tempranamente a los
@@ -358,7 +363,7 @@ cursos, tratamientos, ayudas y demás medios de atención dirigidos a los menore
 milias y a su entorno, para la consecución de las finalidades y objetivos contemplados en
 este Decreto.
 2. En el ámbito sanitario se prestarán los servicios en función de lo previsto en la
-Ley 16/2003, de 28 de mayo, de Cohesión y Calidad del Sistema Nacional de Salud, y de
+[Ley 16/2003](../../canarias/07_convivencia_bienestar_y_protocolos/L16_2003_prevencion_proteccion_integral_mujeres_contra_violencia.md), de 28 de mayo, de Cohesión y Calidad del Sistema Nacional de Salud, y de
 acuerdo con la cartera de servicios comunes del Sistema Nacional de Salud.
 3. En el ámbito educativo se realizará la evaluación psicopedagógica de los menores
 que pudieran presentar necesidades educativas especiales para facilitar su detección precoz

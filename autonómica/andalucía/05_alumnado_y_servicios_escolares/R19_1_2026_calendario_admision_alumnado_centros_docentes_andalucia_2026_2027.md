@@ -37,19 +37,23 @@ relaciones:
   - norma_id: norm-and-l17-2007
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-l-39-2015
+fundamentos_derecho:
+- norma_id: norm-and-l17-2007
+- norma_id: norm-and-d-21-2020
+- norma_id: norm-and-o-20-2-2020
+- norma_id: norm-and-r19-1-2026-acceso-extraordinario-bolsas-trabajo-cuerpos-docentes-andalucia
 ---
-
-# Resolución de 19 de enero de 2026, de la Dirección General de Planificación, Centros y Enseñanza Concertada, por la que se establece el calendario de actuaciones del procedimiento ordinario de admisión del alumnado en los centros docentes públicos y privados concertados para cursar las enseñanzas de segundo ciclo de educación infantil, educación primaria, educación especial, educación secundaria obligatoria y bachillerato para el curso escolar 2026/27.
+# [Resolución de 19 de enero de 2026](../08_personal_docente/R19_1_2026_acceso_extraordinario_bolsas_trabajo_cuerpos_docentes_andalucia.md), de la Dirección General de Planificación, Centros y Enseñanza Concertada, por la que se establece el calendario de actuaciones del procedimiento ordinario de admisión del alumnado en los centros docentes públicos y privados concertados para cursar las enseñanzas de segundo ciclo de educación infantil, educación primaria, educación especial, educación secundaria obligatoria y bachillerato para el curso escolar 2026/27.
 
 ## Preámbulo
 
-Resolución de 19 de enero de 2026, de la Dirección General de Planificación, 
+[Resolución de 19 de enero de 2026](../08_personal_docente/R19_1_2026_acceso_extraordinario_bolsas_trabajo_cuerpos_docentes_andalucia.md), de la Dirección General de Planificación, 
 Centros y Enseñanza Concertada, por la que se establece el calendario de 
 actuaciones del procedimiento ordinario de admisión del alumnado en los 
 centros docentes públicos y privados concertados para cursar las enseñanzas 
 de segundo ciclo de educación infantil, educación primaria, educación especial, 
 educación secundaria obligatoria y bachillerato para el curso escolar 2026/27.
-El artículo 19 de la Orden de 20 de febrero de 2020, por la que se desarrolla el 
+El artículo 19 de la [Orden de 20 de febrero de 2020](./O20_2_2020_procedimiento_admision_alumnado_centros_docentes_andalucia.md), por la que se desarrolla el 
 procedimiento de admisión del alumnado en los centros docentes públicos y privados 
 concertados para cursar las enseñanzas de segundo ciclo de educación infantil, 
 educación primaria, educación especial, educación secundaria obligatoria y bachillerato, 
@@ -57,7 +61,7 @@ dispone que por resolución de la persona titular de la Dirección General compe
 materia de escolarización se establecerá anualmente el calendario de actuaciones del 
 procedimiento ordinario de admisión, que se publicará en el Boletín Oficial de la Junta de 
 Andalucía.
-En virtud de las competencias que me otorga la Orden de 20 de febrero de 2020, 
+En virtud de las competencias que me otorga la [Orden de 20 de febrero de 2020](./O20_2_2020_procedimiento_admision_alumnado_centros_docentes_andalucia.md), 
 HE RESUELTO
 Único. En el procedimiento ordinario de admisión del alumnado, para el curso escolar 
 2026/27, el calendario de actuaciones queda establecido con las siguientes fechas:
@@ -66,7 +70,7 @@ alumnos y alumnas solicitantes y, en su caso, la puntuación total obtenida.
 b) El 21 de abril de 2026 comenzará el trámite de audiencia establecido en el artículo 23.1 
 de la citada orden.
 c) El 14 de mayo de 2026 se celebrará el sorteo público al que se refiere el artículo 30 
-del Decreto 21/2020, de 17 de febrero, por el que se regulan los criterios y el procedimiento 
+del [Decreto 21/2020](./D21_2020_criterios_admision_alumnado_centros_docentes_andalucia.md), de 17 de febrero, por el que se regulan los criterios y el procedimiento 
 de admisión del alumnado en los centros docentes públicos y privados concertados 
 para cursar las enseñanzas de segundo ciclo de educación infantil, educación primaria, 
 educación especial, educación secundaria obligatoria y bachillerato.
@@ -74,7 +78,7 @@ d) El 14 de mayo de 2026 se publicarán las resoluciones de admisión.
 e) El 25 de mayo de 2026 se publicará la adjudicación de plaza escolar al alumnado 
 no admitido en el centro docente elegido como prioritario.
 f) El 26 de mayo de 2026 comenzará el plazo para la presentación de recursos de 
-alzada y reclamaciones establecido en el artículo 48 del Decreto 21/2020, de 17 de febrero.
+alzada y reclamaciones establecido en el artículo 48 del [Decreto 21/2020](./D21_2020_criterios_admision_alumnado_centros_docentes_andalucia.md), de 17 de febrero.
 Sevilla, 19 de enero de 2026.- El Director General, Rafael Salas Machuca.
 
 ---

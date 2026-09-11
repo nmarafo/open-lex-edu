@@ -15,8 +15,10 @@ estado: Vigente
 redaccion: original
 fuente_oficial: https://www.juntadeandalucia.es/boja/1995/136/1
 fuente_pdf_oficial: https://www.juntadeandalucia.es/boja/1995/136/1/pdf
+clasificacion:
+  categoria_canonica: 01_marco_normativo_general_y_organico
+  subcategoria: Atención ciudadana y administración
 ---
-
 # Decreto 204/1995, de 29 de agosto, por el que se establecen medidas organizativas para los servicios administrativos de atención directa a los ciudadanos
 
 ## Preámbulo

@@ -23,8 +23,10 @@ tags:
 - participacion_educativa
 - organos_consultivos
 - madrid
+fundamentos_derecho:
+- norma_id: norm-es-2001-7022
+- norma_id: norm-es-lo-8-1985
 ---
-
 # Ley 12/1999, de 29 de abril, de creación del Consejo Escolar de la Comunidad de Madrid
 
 ## Preámbulo
@@ -60,11 +62,11 @@ La Constitución Española
  en su artículo 27.5 establece la garantía de los poderes públicos sobre la participación efectiva de todos los sectores afectados en la programación general de la enseñanza. Sin perjuicio de la potestad legislativa, en el desarrollo de tal precepto, que corresponde a las Cortes Generales, la Comunidad de Madrid debe regular la citada materia.
 
 La 
-Ley Orgánica 8/1985, de 3 de julio
+[Ley Orgánica 8/1985](../../../estatal/02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md), de 3 de julio
 , reguladora del Derecho a la Educación (LODE), desarrolla los mecanismos de colaboración al establecer los órganos de participación de los sectores afectados. El artículo 34 establece la obligatoriedad de la creación de un Consejo Escolar en cada Comunidad Autónoma, cuya composición y funciones se regulen por una Ley de la Asamblea de la Comunidad correspondiente que, a efectos de la programación general de la enseñanza, garantice la participación de los sectores sociales afectados, configurando un nuevo marco de relaciones entre todos los sectores implicados en las tareas educativas.
 
 La 
-Ley Orgánica 1/1990, de 3 de octubre
+[Ley Orgánica 1/1990](../../../estatal/02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md), de 3 de octubre
 , de Ordenación General del Sistema Educativo (LOGSE), ha supuesto la reestructuración de nuestro sistema educativo. El contenido del título IV, «De la calidad de la enseñanza», pretende promover actitudes innovadoras y debe ser trascendental en el desarrollo de la Ley a la vez que abre nuevas posibilidades para que los Consejos Escolares velen por la mejora de la calidad.
 
 De conformidad con los postulados participativos de la LODE y la LOGSE, la 
@@ -89,7 +91,7 @@ Estatuto de Autonomía de la Comunidad de Madrid
 
  y leyes orgánicas que, conforme al apartado 1 del artículo 81 de la misma, lo desarrollen y sin perjuicio de las facultades que atribuye al Estado el número 30 del apartado 1 del artículo 149 y de la Alta Inspección para su cumplimiento y garantía». Ello supone la adquisición de las atribuciones que le facultan para desarrollar el 
 
-#### Artículo 34. de la Ley Orgánica 8/1985, de 3 de julio
+#### Artículo 34. de la [Ley Orgánica 8/1985](../../../estatal/02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md), de 3 de julio
 
 , reguladora del Derecho a la Educación, donde se dispone que, a fin de garantizar la participación establecida en el 
 
@@ -251,7 +253,7 @@ Subir
 
 #### Disposición adicional única. El Consejo de Gobierno de la Comunidad de Madrid establecerá, en el ejercicio de sus competencias, Consejos Escolares de ámbito territorial o municipal dictando las disposiciones necesarias para la organización y funcionamiento de los mismos, de acuerdo con lo establecido en el 
 
-#### Artículo 35. de la Ley Orgánica 8/1985, de 3 de julio
+#### Artículo 35. de la [Ley Orgánica 8/1985](../../../estatal/02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md), de 3 de julio
 
 , reguladora del Derecho a la Educación.
 

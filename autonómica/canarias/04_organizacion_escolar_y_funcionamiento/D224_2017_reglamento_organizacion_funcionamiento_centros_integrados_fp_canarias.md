@@ -36,8 +36,19 @@ relaciones:
   - norm-es-lo-2-2006
   - norm-can-l-6-2014
   - norm-can-d-81-2010
+fundamentos_derecho:
+- norma_id: norm-can-l-6-2014
+- norma_id: norm-can-d-112-2011
+- norma_id: norm-can-d-81-2010
+- norma_id: norm-can-o-2013-10-09
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-es-l-39-2015
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-2002-12018
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2005-21534
+- norma_id: norm-es-2010-12201
 ---
-
 # Decreto 224/2017, de 13 de noviembre, por el que se aprueba el Reglamento de organización y funcionamiento de los centros integrados de formación profesional en la Comunidad Autónoma de Canarias.
 
 ## Preámbulo
@@ -56,7 +67,7 @@ extensión, niveles, grados, modalidades y especialidades, sin perjuicio de lo d
 el artículo 27 de la Constitución y en las Leyes Orgánicas que, conforme al apartado 1 del 
 artículo 81 de la misma ...”, así la Comunidad Autónoma de Canarias desarrolla su actividad 
 normativa y su ejecución en materia de enseñanza. 
-La Ley Orgánica 5/2002, de 19 de junio, de las Cualificaciones y de la Formación 
+La [Ley Orgánica 5/2002](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO5_2002_cualificaciones_formacion_profesional.md), de 19 de junio, de las Cualificaciones y de la Formación 
 Profesional, tiene por objeto la ordenación de un sistema integral de formación profesional, 
 cualificaciones y acreditación, que responda con eficacia y transparencia a las demandas 
 sociales y económicas a través de las diversas modalidades formativas. Define la formación 
@@ -71,12 +82,12 @@ definen por ser aquellos que imparten todas las ofertas formativas conducentes a
 de títulos y certificados de profesionalidad, disponiendo que las Administraciones en el 
 ámbito de sus competencias, podrán crear y autorizar dichos centros con las condiciones y 
 requisitos que se establezcan.
-La vigente Ley Orgánica 2/2006, de 3 de mayo, de Educación, señala en su artículo 39.5 
+La vigente [Ley Orgánica 2/2006](../05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, señala en su artículo 39.5 
 que los estudios de formación profesional podrán realizarse tanto en los centros educativos 
 que la norma establezca, como en los centros integrados y de referencia nacional a los que 
-se refiere el artículo 11 de la Ley Orgánica 5/2002, de 19 de junio, de las Cualificaciones y 
+se refiere el artículo 11 de la [Ley Orgánica 5/2002](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO5_2002_cualificaciones_formacion_profesional.md), de 19 de junio, de las Cualificaciones y 
 de la Formación Profesional 
-La Ley 6/2014, de 25 de julio, Canaria de Educación no Universitaria, que regula el 
+La [Ley 6/2014](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md), de 25 de julio, Canaria de Educación no Universitaria, que regula el 
 sistema educativo canario y su evaluación, para convertirse en un instrumento eficaz para el 
 desarrollo social, económico y cultural del archipiélago, en su artículo 33.9 especifica que 
 se creará una Red Canaria de Centros Integrados de Formación Profesional, que impartirán 
@@ -84,7 +95,7 @@ todas las ofertas correspondientes a los subsistemas de formación profesional, 
 al Catálogo Nacional de Cualificaciones Profesionales, conducentes a la obtención de los 
 
 Lunes 20 de noviembre de 2017
-títulos y certificados de profesionalidad a que se refiere la Ley Orgánica 5/2002, de 19 de 
+títulos y certificados de profesionalidad a que se refiere la [Ley Orgánica 5/2002](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO5_2002_cualificaciones_formacion_profesional.md), de 19 de 
 junio, de las Cualificaciones y de la Formación Profesional.
 La Ley 30/2015, de 9 de septiembre, por la que se regula el Sistema de Formación 
 Profesional para el empleo en el ámbito laboral, prevé en el artículo 14 que podrán impartir 
@@ -96,9 +107,9 @@ en el ámbito laboral, es consecuencia de la reforma de las políticas de activa
 empleo, de la necesidad de llevar a cabo acciones y medidas en la búsqueda de un nuevo 
 modelo del mismo y de la implantación de un nuevo modelo de distribución de fondos para 
 el cumplimento de objetivos.
-El Real Decreto 1558/2005, de 23 de diciembre, por el que se regulan los requisitos 
+El [Real Decreto 1558/2005](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1558_2005_regulan_requisitos_basicos_centros_integrados_formacion.md), de 23 de diciembre, por el que se regulan los requisitos 
 básicos de los centros integrados de formación profesional, desarrolla lo establecido en el 
-citado artículo 11 de la Ley Orgánica 5/2002, de 19 de junio, de las Cualificaciones y de la 
+citado artículo 11 de la [Ley Orgánica 5/2002](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO5_2002_cualificaciones_formacion_profesional.md), de 19 de junio, de las Cualificaciones y de la 
 Formación Profesional, definiendo a los centros integrados de formación profesional como 
 aquellos que, reuniendo los requisitos jurídicamente establecidos, impartan todas las ofertas 
 formativas referidas al Catálogo Nacional de Cualificaciones Profesionales que conduzcan 
@@ -116,7 +127,7 @@ integrados de formación profesional y los centros de referencia nacional desarr
 experimentación necesaria para la elaboración de modelos y recursos de información y 
 orientación profesional que sirvan de base para su aplicación en los centros y servicios de 
 las Administraciones educativas.
-El Decreto 112/2011, de 11 de mayo, por el que se regulan los Centros integrados de 
+El [Decreto 112/2011](../02_gestion_y_administracion_centros/D112_2011_regulan_centros_integrados_formacion_profesional_canarias.md), de 11 de mayo, por el que se regulan los Centros integrados de 
 formación profesional en la Comunidad Autónoma de Canarias, en su disposición final 
 segunda habilita a las Consejerías con competencia en materia educativa y laboral para 
 dictar cuantas disposiciones sean necesarias para la ejecución y desarrollo de dicha norma.
@@ -160,11 +171,11 @@ participación y el establecimiento de determinados aspectos relacionados con la
 y evaluación de este tipo de centros. Todo ello, requiere el desarrollo de una normativa 
 propia que regule su organización y funcionamiento. 
 Señalar que en este Decreto se da cumplimiento a los principios de buena regulación a 
-los que se refiere el artículo 129.1 de la Ley 39/2015, de 1 de octubre, del Procedimiento 
+los que se refiere el artículo 129.1 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento 
 Administrativo Común de las Administraciones Públicas. Así, la disposición es respetuosa 
 con los principios de necesidad, eficacia y proporcionalidad, en tanto que con ella se 
 consigue el fin perseguido, básicamente establecer para el ámbito de la Comunidad 
-Autónoma de Canarias al amparo del Real Decreto 1558/2005, de 23 de diciembre, por el 
+Autónoma de Canarias al amparo del [Real Decreto 1558/2005](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1558_2005_regulan_requisitos_basicos_centros_integrados_formacion.md), de 23 de diciembre, por el 
 que se regulan los requisitos básicos de los centros integrados de formación profesional, 
 la regulación de la organización y funcionamiento de los centros integrados de formación 
 profesional. Asimismo, el proyecto ha sido puesto a disposición de la ciudadanía mediante 
@@ -217,7 +228,7 @@ funcionarias y funcionarios de los Cuerpos docentes a que se refiere la Ley Org�
 
 Lunes 20 de noviembre de 2017
 Disposición adicional tercera.- Centros integrados de titularidad privada.
-En virtud de la disposición adicional primera del Decreto 112/2011, de 11 de mayo, 
+En virtud de la disposición adicional primera del [Decreto 112/2011](../02_gestion_y_administracion_centros/D112_2011_regulan_centros_integrados_formacion_profesional_canarias.md), de 11 de mayo, 
 por el que se regulan los centros integrados de formación profesional en la Comunidad 
 Autónoma de Canarias, será de aplicación a los centros integrados de titularidad 
 privada lo establecido en los artículos 1, 2.1, 2.3, 2.5, 2.6, 2.7, 3, 38.5, 38.7, 38.8, 38.9, 
@@ -239,10 +250,10 @@ En base a la complejidad de los centros integrados de formación profesional, al
 desarrollo de sus enseñanzas, a las funciones que desempeñan, a su vinculación directa 
 tanto con la Administración laboral como con la educativa, y siendo propuestos por estas, 
 tendrán la consideración de centros educativos Tipo A, de acuerdo con lo expresado en el 
-Decreto 81/2010, de 8 de julio, por el que se aprueba el Reglamento Orgánico de los centros 
+[Decreto 81/2010](./D81_2010_aprueba_reglamento_organico_centros_docentes_publicos.md), de 8 de julio, por el que se aprueba el Reglamento Orgánico de los centros 
 docentes públicos no universitarios de la Comunidad Autónoma de Canarias, y posterior 
-desarrollo en la Orden de 9 de octubre de 2013, de la extinta Consejería de Educación, 
-Universidades y Sostenibilidad, por la que se desarrolla el citado Decreto 81/2010, de 8 de 
+desarrollo en la [Orden de 9 de octubre de 2013](./O9_10_2013_desarrolla_decreto_aprueba_reglamento_organico_centros.md), de la extinta Consejería de Educación, 
+Universidades y Sostenibilidad, por la que se desarrolla el citado [Decreto 81/2010](./D81_2010_aprueba_reglamento_organico_centros_docentes_publicos.md), de 8 de 
 julio, en lo referente a su organización y funcionamiento, así como en las Resoluciones de 
 la Viceconsejería de Educación y Universidades sobre la Organización y funcionamiento 
 de cada curso escolar.
@@ -279,13 +290,13 @@ de los órganos unipersonales de gobierno que constituyen el equipo directivo de
 públicos integrados de formación profesional, en los centros dependientes de la Consejería 
 competente en materia de educación, les será de aplicación los complementos específicos de 
 los cargos unipersonales de los equipos directivos de los Institutos de Educación Secundaria, 
-regulados en el Decreto 81/2010, de 8 de julio, por el que se aprueba el Reglamento Orgánico 
+regulados en el [Decreto 81/2010](./D81_2010_aprueba_reglamento_organico_centros_docentes_publicos.md), de 8 de julio, por el que se aprueba el Reglamento Orgánico 
 de los centros docentes públicos no universitarios en la Comunidad Autónoma de Canarias. 
 2. Mientras no se proceda a la regulación a efectos retributivos de las personas titulares 
 de las Jefaturas de los Departamentos de los centros públicos integrados de formación 
 profesional dependientes de la Consejería competente en materia de educación, les serán de 
 aplicación los complementos específicos de las Jefaturas de Departamento de los Institutos 
-de Educación Secundaria, regulados en el Decreto 81/2010, de 8 de julio, por el que se 
+de Educación Secundaria, regulados en el [Decreto 81/2010](./D81_2010_aprueba_reglamento_organico_centros_docentes_publicos.md), de 8 de julio, por el que se 
 aprueba el Reglamento Orgánico de los centros docentes públicos no universitarios en la 
 Comunidad Autónoma de Canarias. 
 Disposición derogatoria única.- Derogación normativa.
@@ -293,7 +304,7 @@ Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo
 establecido en este decreto.
 
 Lunes 20 de noviembre de 2017
-Disposición final primera.- Modificación del Decreto 112/2011, de 11 de mayo, por 
+Disposición final primera.- Modificación del [Decreto 112/2011](../02_gestion_y_administracion_centros/D112_2011_regulan_centros_integrados_formacion_profesional_canarias.md), de 11 de mayo, por 
 el que se regulan los Centros integrados de formación profesional en la Comunidad 
 Autónoma.
 Uno. Se modifica el artículo 3 quedando redactado en los siguientes términos:
@@ -332,7 +343,7 @@ siguientes:
 a) Participar en los procedimientos de evaluación y, en su caso, realizar la propuesta de 
 acreditación oficial de las competencias profesionales adquiridas por las personas a través 
 de la experiencia laboral o de vías no formales de formación, de acuerdo con lo que se 
-establezca en desarrollo del artículo 8 de la Ley Orgánica 5/2002, de 19 de junio, de las 
+establezca en desarrollo del artículo 8 de la [Ley Orgánica 5/2002](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO5_2002_cualificaciones_formacion_profesional.md), de 19 de junio, de las 
 Cualificaciones y de la Formación Profesional.
 b) Impulsar y desarrollar acciones y proyectos de innovación y desarrollo, en colaboración 
 con las empresas del entorno y los interlocutores sociales, y transferir el contenido y 
@@ -424,11 +435,11 @@ Formación Profesional tendrán una imagen corporativa común y única, y que id
 pertenencia del centro a la referida Red Canaria de Centros Integrados de Formación Profesional.
 Artículo 3.- Fines y funciones de los centros integrados de formación profesional.
 1. Los fines de los centros integrados de formación profesional tanto de titularidad pública 
-como privada son los recogidos en el artículo 4 del Decreto 112/2011, de 11 de mayo, por el 
+como privada son los recogidos en el artículo 4 del [Decreto 112/2011](../02_gestion_y_administracion_centros/D112_2011_regulan_centros_integrados_formacion_profesional_canarias.md), de 11 de mayo, por el 
 que se regulan los Centros integrados de formación profesional de la Comunidad Autónoma 
 de Canarias.
 2. Las funciones de los centros integrados de formación profesional tanto de titularidad pública 
-como privada son las definidas en el artículo 5 del citado Decreto 112/2011, de 11 de mayo.
+como privada son las definidas en el artículo 5 del citado [Decreto 112/2011](../02_gestion_y_administracion_centros/D112_2011_regulan_centros_integrados_formacion_profesional_canarias.md), de 11 de mayo.
 3. En cualquier caso, los centros integrados de formación profesional podrán impartir 
 cualquier otra actividad formativa que tenga en cuenta la realidad socioeconómica del área 
 del centro, las expectativas de la ciudadanía, las demandas de formación y las perspectivas 
@@ -442,7 +453,7 @@ Artículo 4.- Órganos de los centros integrados de formación profesional.
 1. Los centros integrados de formación profesional, para el cumplimiento de sus fines y 
 el desarrollo de las funciones que tienen encomendadas, contarán con órganos de gobierno, 
 participación y coordinación, de acuerdo con lo establecido en los artículos 14 y 21 del 
-Decreto 112/2011, de 11 de mayo, por el que se regulan los Centros integrados de formación 
+[Decreto 112/2011](../02_gestion_y_administracion_centros/D112_2011_regulan_centros_integrados_formacion_profesional_canarias.md), de 11 de mayo, por el que se regulan los Centros integrados de formación 
 profesional en la Comunidad Autónoma de Canarias.
 2.1. Los órganos unipersonales mínimos de gobierno son los siguientes:
 a) La Dirección.
@@ -530,7 +541,7 @@ las funciones que el director y el jefe de estudios les encomienden de entre las
 corresponden por su cargo, funciones que serán asignadas en ambos casos por la persona 
 titular de la dirección.
 Artículo 6.- Nombramiento y cese de la dirección.
-1. De acuerdo con lo establecido en el artículo 16 del Decreto 112/2011, de 11 de mayo, 
+1. De acuerdo con lo establecido en el artículo 16 del [Decreto 112/2011](../02_gestion_y_administracion_centros/D112_2011_regulan_centros_integrados_formacion_profesional_canarias.md), de 11 de mayo, 
 por el que se regulan los Centros integrados de formación profesional en la Comunidad 
 Autónoma de Canarias, la dirección de los centros integrados de formación profesional de 
 titularidad pública será provista por el procedimiento de libre designación, conforme a los 
@@ -813,8 +824,8 @@ más representativa, de entre los Ayuntamientos pertenecientes a la zona formati
 estuviese ubicado el centro integrado.
 3. Las funciones del Consejo Social son las siguientes:
 a) Establecer las directrices para elaborar el proyecto funcional del centro, a partir del plan 
-de actuación plurianual recogido en el artículo 10, apartado 1 del Real Decreto 1558/2005, 
-de 23 de diciembre y el artículo 10 del Decreto 112/2011, de 11 de mayo, así como aprobar 
+de actuación plurianual recogido en el artículo 10, apartado 1 del [Real Decreto 1558/2005](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1558_2005_regulan_requisitos_basicos_centros_integrados_formacion.md), 
+de 23 de diciembre y el artículo 10 del [Decreto 112/2011](../02_gestion_y_administracion_centros/D112_2011_regulan_centros_integrados_formacion_profesional_canarias.md), de 11 de mayo, así como aprobar 
 dicho proyecto.
 b) Proponer mejoras que permitan actualizar anualmente el Proyecto Funcional del 
 centro.
@@ -1214,7 +1225,7 @@ propuestas de mejora. Las decisiones y acuerdos de estas reuniones se recogerán
 correspondientes, que serán redactadas por el responsable de la jefatura del departamento y 
 aprobadas por los componentes del mismo.
 Artículo 25.- Departamento de Información y Orientación Profesional.
-1. De acuerdo con el artículo 14 de la Ley Orgánica 5/2002, de 19 de junio, de las 
+1. De acuerdo con el artículo 14 de la [Ley Orgánica 5/2002](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO5_2002_cualificaciones_formacion_profesional.md), de 19 de junio, de las 
 Cualificaciones y de la Formación Profesional, la finalidad del Departamento de Información 
 y Orientación Profesional es:
 a) Informar sobre las oportunidades de acceso al empleo, las posibilidades de adquisición, 
@@ -1650,17 +1661,17 @@ AUTONOMÍA Y GESTIÓN DE LOS CENTROS INTEGRADOS
 Artículo 36.- Autonomía de los centros integrados de formación profesional.
 1. Los centros integrados de formación profesional dispondrán de la autonomía 
 organizativa y pedagógica, en el marco de lo establecido en las normas estatales y 
-autonómicas al respecto, en el Real Decreto 1558/2005, de 23 de diciembre, por el que se 
+autonómicas al respecto, en el [Real Decreto 1558/2005](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1558_2005_regulan_requisitos_basicos_centros_integrados_formacion.md), de 23 de diciembre, por el que se 
 regulan los requisitos básicos de los Centros integrados de formación profesional, y en el 
-Decreto 112/2011, de 11 de mayo, por el que se regulan los Centros integrados de formación 
+[Decreto 112/2011](../02_gestion_y_administracion_centros/D112_2011_regulan_centros_integrados_formacion_profesional_canarias.md), de 11 de mayo, por el que se regulan los Centros integrados de formación 
 profesional en la Comunidad Autónoma de Canarias.
 2. Los centros integrados colaborarán en las auditorías y en los controles pertinentes que 
 se les demanden.
 Artículo 37.- Gestión y financiación de los centros integrados de formación 
 profesional.
-1. De conformidad con el artículo 10.3 del Real Decreto 1558/2005, de 23 de diciembre, 
+1. De conformidad con el artículo 10.3 del [Real Decreto 1558/2005](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1558_2005_regulan_requisitos_basicos_centros_integrados_formacion.md), de 23 de diciembre, 
 por el que se regulan los requisitos básicos de los Centros integrados de formación 
-profesional y el artículo 12.1 del Decreto 112/2011, de 11 de mayo, por el que se regulan los 
+profesional y el artículo 12.1 del [Decreto 112/2011](../02_gestion_y_administracion_centros/D112_2011_regulan_centros_integrados_formacion_profesional_canarias.md), de 11 de mayo, por el que se regulan los 
 Centros integrados de formación profesional en la Comunidad Autónoma de Canarias, a las 
 Administraciones competentes y de acuerdo con lo establecido en la Ley de Presupuestos de 
 la Comunidad Autónoma de Canarias, se le asignarán los recursos económicos necesarios 

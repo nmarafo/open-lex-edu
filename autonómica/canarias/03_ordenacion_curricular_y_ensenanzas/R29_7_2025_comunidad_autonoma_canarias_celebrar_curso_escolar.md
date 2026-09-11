@@ -137,8 +137,25 @@ relaciones:
   - norma_id: norm-es-rd-659-2023
   - norma_id: norm-es-2010-12201
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2025-158-2923.pdf
+fundamentos_derecho:
+- norma_id: norm-can-d-84-2024
+- norma_id: norm-can-l-14-1990
+- norma_id: norm-can-l-6-2014
+- norma_id: norm-can-lo-1-2018
+- norma_id: norm-can-d-112-2011
+- norma_id: norm-can-o-2016-05-12
+- norma_id: norm-can-res-boc-2024-230-25
+- norma_id: norm-can-d-224-2017-roc-cifp
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-can-res-134
+- norma_id: norm-es-l-39-2015
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-lo-3-2022
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2005-21534
+- norma_id: norm-es-rd-659-2023
+- norma_id: norm-es-2010-12201
 ---
-
 # Resolución de 29 de julio de 2025, de la Dirección General de Formación Profesional y Enseñanzas de Régimen Especial por la que se dictan instrucciones y se establece el calendario para la renovación parcial o la nueva constitución de los Consejos Sociales en los centros integrados de formación profesional, de la Comunidad Autónoma de Canarias, a celebrar en el curso escolar 2025/2026 (BOC núm. 158, de 11 de agosto).
 
 ## Preámbulo
@@ -158,7 +175,7 @@ Séptimo.- El [Real Decreto 659/2023](R5_11_2024_dictan_instrucciones_orientacio
 #### Artículo 203. que "El.
 
 Consejo Social es el órgano de participación del entorno económico y. productivo en los centros especializados del Sistema de Formación Profesional".
-Octavo.- El Decreto 224/2017, de 13 de noviembre, por el que se aprueba el Reglamento de organización y funcionamiento de los centros integrados de formación profesional en la Comunidad Autónoma de Canarias.
+Octavo.- El [Decreto 224/2017](../04_organizacion_escolar_y_funcionamiento/D224_2017_reglamento_organizacion_funcionamiento_centros_integrados_fp_canarias.md), de 13 de noviembre, por el que se aprueba el Reglamento de organización y funcionamiento de los centros integrados de formación profesional en la Comunidad Autónoma de Canarias.
 Noveno.- El Decreto 151/2024, de 16 de septiembre, por el que se crea el Centro Integrado de Formación Profesional en el municipio de Adeje, isla de Tenerife, y el Decreto 2/2025, de 29 de enero, por el que se transforma el Instituto de Educación Secundaria (IES) "Profesor Antonio Cabrera Pérez" en un Centro Integrado de Formación Profesional CIFP) en Telde, isla de Gran Canaria. Así mismo, el futuro Decreto de creación de los CIFP en Valverde (El Hierro), en San Sebastián de La Gomera (La Gomera), en Morro Jable (Fuerteventura) y en Guía (Gran Canaria). Por ello, en virtud de las competencias atribuidas en el artículo 29, apartado 1, letra a), de la [Ley 14/1990](../01_marco_normativo_general_y_organico/L14_1990_regimen_juridico_administraciones_publicas_canarias.md), de 26 de julio, de Régimen Jurídico de las Administraciones Públicas de Canarias, y en el artículo 20 l.
 
 Reglamento Orgánico de la Consejería de Educación, Formación Profesional, Actividad Física y Deportes, aprobado por [Decreto 84/2024](../01_marco_normativo_general_y_organico/D84_2024_aprueba_reglamento_organico_formacion_profesional_actividad.md), de 10 de junio,
@@ -182,7 +199,7 @@ Las funciones del Consejo Social dispuestas en el [Real Decreto 1558/2005](../..
 
 a) Establecer las directrices para elaborar el proyecto funcional de centro que incluirá lo relativo a ofertas de formación, orientación profesional y acreditación de competencias profesionales, aprobar dicho proyecto, y realizar durante su vigencia las propuestas de mejora del mismo, el cual seguirá el plan de actuación plurianual recogido en el artículo 10, apartado 1, del [Real Decreto 1558/2005](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1558_2005_regulan_requisitos_basicos_centros_integrados_formacion.md), de 23 de diciembre, y el artículo 10 l.
 
-Decreto 112/2011, de 11 de mayo, así como aprobar dicho proyecto.
+[Decreto 112/2011](../02_gestion_y_administracion_centros/D112_2011_regulan_centros_integrados_formacion_profesional_canarias.md), de 11 de mayo, así como aprobar dicho proyecto.
 b) Elaborar las propuestas sobre los ajustes de la oferta formativa y el régimen y modalidad en que ha de ofertarse y que deberán elevarse a la Administración competente.
 c) Plantear líneas de apertura y colaboración del centro con las empresas y el entorno productivo del centro, para establecer canales estables de trabajo con el tejido productivo, asegurando la calidad y el rendimiento de los servicios.
 d) Realizar el seguimiento de las actividades del centro, incorporando propuestas que garanticen la incorporación de los avances tecnológicos en el centro y la internacionalización, asegurando la calidad y el rendimiento de los servicios.
@@ -200,7 +217,7 @@ El proceso para la elección de las personas representantes de las distintas agr
 
 #### Cuarta. Composición del Consejo Social.
 
-1. El Consejo Social de los centros integrados de formación profesional tendrá la composición que se establece en el Decreto 224/2017, de 13 de noviembre, por el que se aprueba el Reglamento de organización y funcionamiento de los centros integrados de formación profesional en la Comunidad Autónoma de Canarias.
+1. El Consejo Social de los centros integrados de formación profesional tendrá la composición que se establece en el [Decreto 224/2017](../04_organizacion_escolar_y_funcionamiento/D224_2017_reglamento_organizacion_funcionamiento_centros_integrados_fp_canarias.md), de 13 de noviembre, por el que se aprueba el Reglamento de organización y funcionamiento de los centros integrados de formación profesional en la Comunidad Autónoma de Canarias.
 
 2. De acuerdo con el artículo 203 l [Real.
 
@@ -208,7 +225,7 @@ Decreto 659/2023](./R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual
 
 3. De acuerdo con el artículo 11 l.
 
-Decreto 224/2017, los Consejos Sociales de los CIFP de la Comunidad Autónoma de Canarias estarán constituidos por:
+[Decreto 224/2017](../04_organizacion_escolar_y_funcionamiento/D224_2017_reglamento_organizacion_funcionamiento_centros_integrados_fp_canarias.md), los Consejos Sociales de los CIFP de la Comunidad Autónoma de Canarias estarán constituidos por:
 a) Dos representantes designados por la Consejería de Educación, Formación Profesional, Actividad Física y Deportes. Uno de ellos perteneciente a la Dirección General de Formación Profesional y Enseñanzas de Régimen Especial, y otro de ellos perteneciente a la Dirección General de Cualificaciones Profesionales.
 b) Un representante de la Consejería de Turismo y Empleo.
 c) Cuatro representantes de los agentes sociales, dos de ellos de las organizaciones sindicales más representativas y dos de las organizaciones empresariales más representativas que pertenezcan al Consejo Canario de Formación Profesional.
@@ -352,7 +369,7 @@ Decimoséptima.- Difusión del proceso electoral.
 
 2. La Inspección de Educación, en el ejercicio de sus funciones y atribuciones, velará por el cumplimiento de los procesos de elección y renovación parcial de los Consejos Sociales,
 
-informando y asesorando a los centros educativos del comienzo del procedimiento, y supervisando su desarrollo y finalización. Asimismo, colaborará con la Dirección Territorial de Educación correspondiente en cualquier aspecto relacionado con este procedimiento. Vigésima.- Supervisión del proceso electoral. El director o directora del centro docente debe velar por el correcto desarrollo del proceso para la renovación parcial o la nueva constitución del Consejo Social. Vigesimoprimera.- Normativa supletoria. En todos aquellos aspectos no regulados en la presente Resolución habrá que estar a lo previsto, con carácter supletorio, a lo establecido en la Orden de 12 de mayo de 2016, por la que se regulan la composición y el procedimiento para la constitución y la renovación de los Consejos Escolares de los centros educativos sostenidos con fondos públicos del ámbito de la Comunidad Autónoma de Canarias.
+informando y asesorando a los centros educativos del comienzo del procedimiento, y supervisando su desarrollo y finalización. Asimismo, colaborará con la Dirección Territorial de Educación correspondiente en cualquier aspecto relacionado con este procedimiento. Vigésima.- Supervisión del proceso electoral. El director o directora del centro docente debe velar por el correcto desarrollo del proceso para la renovación parcial o la nueva constitución del Consejo Social. Vigesimoprimera.- Normativa supletoria. En todos aquellos aspectos no regulados en la presente Resolución habrá que estar a lo previsto, con carácter supletorio, a lo establecido en la [Orden de 12 de mayo de 2016](../02_gestion_y_administracion_centros/O12_5_2016_regulan_composicion_procedimiento_constitucion_renovacion_consejos_escolares.md), por la que se regulan la composición y el procedimiento para la constitución y la renovación de los Consejos Escolares de los centros educativos sostenidos con fondos públicos del ámbito de la Comunidad Autónoma de Canarias.
 
 ## Anexo II
 

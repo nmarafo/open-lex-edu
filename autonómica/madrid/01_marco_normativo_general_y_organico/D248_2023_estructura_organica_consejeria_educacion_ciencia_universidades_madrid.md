@@ -43,8 +43,13 @@ relaciones:
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-l-39-2015
   - norma_id: norm-es-l-40-2015
+fundamentos_derecho:
+- norma_id: norm-mad-d-52-2021
+- norma_id: norm-mad-l1-1983-gobierno-administracion-comunidad-madrid
+- norma_id: norm-mad-d61-2019-organizacion-estructura-funcionamiento-inspeccion-educativa-madrid
+- norma_id: norm-es-l-39-2015
+- norma_id: norm-es-l-40-2015
 ---
-
 # Decreto 248/2023, de 11 de octubre, del Consejo de Gobierno, por el que se establece la estructura orgánica de la Consejería de Educación, Ciencia y Universidades
 
 ## Preámbulo
@@ -55,7 +60,7 @@ Consejería de Educación, Ciencia y Universidades
 DECRETO 248/2023, de 11 de octubre, del Consejo de Gobierno, por el que se
 establece la estructura orgánica de la Consejería de Educación, Ciencia y Uni-
 versidades.
-De conformidad con lo dispuesto en el artículo 19.3 de la Ley 1/1983, de 13 de diciem-
+De conformidad con lo dispuesto en el artículo 19.3 de la [Ley 1/1983](./L1_1983_gobierno_administracion_comunidad_madrid.md), de 13 de diciem-
 bre, de Gobierno y Administración de la Comunidad de Madrid, la Presidenta de la Comu-
 nidad de Madrid tiene competencia para variar la denominación y el número de las conse-
 jerías. En virtud de esta facultad, se aprobó el Decreto 38/2023, de 23 de junio, de la
@@ -73,9 +78,9 @@ En consecuencia, procede a concretar las competencias y estructura, hasta el niv
 gánico de subdirección general, de los distintos órganos administrativos que integran la
 Consejería de Educación, Ciencia y Universidades, así como los organismos, entidades y
 empresas adscritos a la misma.
-Los principios de buena regulación contenidos en los artículos 129 de la Ley 39/2015,
+Los principios de buena regulación contenidos en los artículos 129 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md),
 de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públi-
-cas y 2 del Decreto 52/2021, de 24 de marzo, por el que se regula y simplifica el proce-
+cas y 2 del [Decreto 52/2021](./D52_2021_procedimiento_elaboracion_disposiciones_normativas_madrid.md), de 24 de marzo, por el que se regula y simplifica el proce-
 dimiento de elaboración de las disposiciones normativas de carácter general en la Comuni-
 dad de Madrid, son observados en el contenido y tramitación seguida del decreto.
 Conforme a los principios de necesidad y eficacia se trata de una norma necesaria para
@@ -97,7 +102,7 @@ actuaciones de los diferentes órganos de la consejería.
 Por último, se adecúa a los principios de estabilidad presupuestaria y sostenibilidad fi-
 nanciera, en cuanto que el gasto previsto se financiará dentro del presupuesto de gasto de
 la Comunidad de Madrid.
-Su tramitación se ha realizado conforme a lo establecido en el Decreto 52/2021, de 24 de
+Su tramitación se ha realizado conforme a lo establecido en el [Decreto 52/2021](./D52_2021_procedimiento_elaboracion_disposiciones_normativas_madrid.md), de 24 de
 marzo, por el procedimiento simplificado al tratarse de una norma de carácter organizati-
 vo. Se han solicitado los informes preceptivos de coordinación y calidad normativa, de las
 secretarías generales técnicas de las consejerías, de la Dirección General de Presupuestos y
@@ -105,7 +110,7 @@ de la Dirección General de Recursos Humanos, así como los informes de impacto 
 la Consejería de Familia, Juventud y Asuntos Sociales.
 
 BOCM
-En su virtud, de conformidad con lo dispuesto en los artículos 21.u) y 40 de la Ley 1/1983,
+En su virtud, de conformidad con lo dispuesto en los artículos 21.u) y 40 de la [Ley 1/1983](./L1_1983_gobierno_administracion_comunidad_madrid.md),
 de 13 de diciembre, a propuesta del Consejero de Educación, Ciencia y Universidades, previo
 informe favorable de la Consejería de Economía, Hacienda y Empleo, y previa deliberación
 del Consejo de Gobierno en su reunión del día 11 de octubre de 2023,
@@ -116,7 +121,7 @@ DISPONE
 #### Artículo 1. Competencias del titular de la Consejería de Educación, Ciencia y Universidades
 
 El titular de la Consejería de Educación, Ciencia y Universidades tiene atribuidas las
-competencias establecidas en el artículo 41 de la Ley 1/1983, de 13 de diciembre, de Go-
+competencias establecidas en el artículo 41 de la [Ley 1/1983](./L1_1983_gobierno_administracion_comunidad_madrid.md), de 13 de diciembre, de Go-
 bierno y Administración de la Comunidad de Madrid, y restantes disposiciones en vigor,
 correspondiéndole, como órgano superior de la Administración de la Comunidad de
 Madrid, el desarrollo general, la coordinación y el control de la ejecución de las políticas
@@ -171,7 +176,7 @@ Secretaría General Técnica.
 #### Artículo 3. Competencias de la Viceconsejería de Política Educativa
 
 Corresponde al titular de la Viceconsejería de Política Educativa, además de las com-
-petencias previstas en el artículo 44 de la Ley 1/1983, de 13 de diciembre, y bajo la direc-
+petencias previstas en el artículo 44 de la [Ley 1/1983](./L1_1983_gobierno_administracion_comunidad_madrid.md), de 13 de diciembre, y bajo la direc-
 
 BOCM
 ción del titular de la consejería, la directa responsabilidad de la ejecución de la acción del
@@ -220,7 +225,7 @@ la igualdad de oportunidades.
 #### Artículo 4. Competencias de la Viceconsejería de Universidades, Investigación y Ciencia
 
 Corresponde al titular de la Viceconsejería de Universidades, Investigación y Ciencia,
-además de las competencias previstas en el artículo 44 de la Ley 1/1983, de 13 de diciem-
+además de las competencias previstas en el artículo 44 de la [Ley 1/1983](./L1_1983_gobierno_administracion_comunidad_madrid.md), de 13 de diciem-
 bre, y bajo la dirección del titular de la consejería, la directa responsabilidad de la ejecución
 de la acción del Gobierno en los sectores de actividad siguientes:
 a)
@@ -255,7 +260,7 @@ BOCM
 
 1.
 Corresponde al titular de la Viceconsejería de Organización Educativa, además de
-las competencias previstas en el artículo 44 de la Ley 1/1983, de 13 de diciembre, y bajo la
+las competencias previstas en el artículo 44 de la [Ley 1/1983](./L1_1983_gobierno_administracion_comunidad_madrid.md), de 13 de diciembre, y bajo la
 dirección del titular de la consejería, la directa responsabilidad de la ejecución de la acción
 del Gobierno en los sectores de actividad siguientes:
 a)
@@ -271,7 +276,7 @@ el desempeño de la función inspectora en materia de educación, en orden a gar
 tizar el cumplimiento de las leyes y la mejora de la calidad del sistema educativo
 y, en particular, la dirección de la inspección educativa, así como el estable-
 cimiento de los planes de actuación de la misma para el cumplimiento de las fun-
-ciones que tiene encomendadas, tal y como establece el Decreto 61/2019, de 9 de
+ciones que tiene encomendadas, tal y como establece el [Decreto 61/2019](../04_organizacion_escolar_y_funcionamiento/D61_2019_organizacion_estructura_funcionamiento_inspeccion_educativa_madrid.md), de 9 de
 julio, por el que se regula la organización, estructura y funcionamiento de la Ins-
 pección Educativa en la Comunidad de Madrid.
 d)
@@ -320,7 +325,7 @@ BOCM
 #### Artículo 7. Competencias de la Secretaría General Técnica
 
 La Secretaría General Técnica, bajo la dependencia directa del titular de la consejería,
-ejercerá, con carácter general, las competencias a que se refiere el artículo 46 de la Ley 1/1983,
+ejercerá, con carácter general, las competencias a que se refiere el artículo 46 de la [Ley 1/1983](./L1_1983_gobierno_administracion_comunidad_madrid.md),
 de 13 de diciembre, y demás normas autonómicas y, en su caso, estatales, que le fueran apli-
 cables en el ámbito definido en el artículo 5 del Decreto 38/2023, de 23 de junio, y, en par-
 ticular, las siguientes:
@@ -439,7 +444,7 @@ La Subdirección General de Régimen Interior.
 #### Artículo 9. Competencias de la Dirección General de Educación Infantil, Primaria y Especial
 
 Corresponden a la Dirección General de Educación Infantil, Primaria y Especial, además
-de las competencias previstas en el artículo 47 de la Ley 1/1983, de 13 de diciembre, y de la
+de las competencias previstas en el artículo 47 de la [Ley 1/1983](./L1_1983_gobierno_administracion_comunidad_madrid.md), de 13 de diciembre, y de la
 dirección y coordinación con carácter general de las actuaciones que en el ámbito de su com-
 petencia desarrollen las Direcciones de Área Territoriales, el ejercicio de las competencias re-
 lativas a la Educación Infantil, Educación Primaria y Educación Especial, en aplicación de lo
@@ -528,7 +533,7 @@ maria.
 
 Profesional y Régimen Especial
 Corresponden a la Dirección General de Educación Secundaria, Formación Profesional
-y Régimen Especial, además de las competencias previstas en el artículo 47 de la Ley 1/1983,
+y Régimen Especial, además de las competencias previstas en el artículo 47 de la [Ley 1/1983](./L1_1983_gobierno_administracion_comunidad_madrid.md),
 de 13 de diciembre, y de la dirección y coordinación con carácter general de las actuacio-
 nes que en el ámbito de su competencia desarrollen las Direcciones de Área Territoriales,
 el ejercicio de las competencias relativas a la Educación Secundaria Obligatoria, Bachille-
@@ -654,7 +659,7 @@ Formación Profesional y Enseñanzas de Régimen Especial.
 
 Becas y Ayudas al Estudio
 Corresponden a la Dirección General de Educación Concertada, Becas y Ayudas al Es-
-tudio, además de las competencias previstas en el artículo 47 de la Ley 1/1983, de 13 de di-
+tudio, además de las competencias previstas en el artículo 47 de la [Ley 1/1983](./L1_1983_gobierno_administracion_comunidad_madrid.md), de 13 de di-
 ciembre, y de la dirección y coordinación con carácter general de las actuaciones que en el
 ámbito de su competencia desarrollen las Direcciones de Área Territoriales, las siguientes
 competencias:
@@ -706,7 +711,7 @@ La Subdirección General de Becas y Ayudas.
 #### Artículo 15. Competencias de la Dirección General de Bilingüismo y Calidad de la Enseñanza
 
 Corresponden a la Dirección General de Bilingüismo y Calidad de la Enseñanza, además
-de las competencias previstas en el artículo 47 de la Ley 1/1983, de 13 de diciembre, y de la
+de las competencias previstas en el artículo 47 de la [Ley 1/1983](./L1_1983_gobierno_administracion_comunidad_madrid.md), de 13 de diciembre, y de la
 dirección y coordinación con carácter general de las actuaciones que en el ámbito de su com-
 petencia desarrollen las Direcciones de Área Territoriales, las siguientes competencias:
 a)
@@ -816,7 +821,7 @@ La Subdirección General de Evaluación y Análisis.
 #### Artículo 17. Competencias de la Dirección General de Universidades
 
 Corresponden a la Dirección General de Universidades, además de las competencias
-previstas en el artículo 47 de la Ley 1/1983, de 13 de diciembre, las funciones relativas a la
+previstas en el artículo 47 de la [Ley 1/1983](./L1_1983_gobierno_administracion_comunidad_madrid.md), de 13 de diciembre, las funciones relativas a la
 enseñanza universitaria, en aplicación de la legislación vigente en materia de universida-
 des, y, en particular, las siguientes:
 a)
@@ -909,7 +914,7 @@ perior.
 #### Artículo 19. Competencias de la Dirección General de Investigación e Innovación Tecnológica
 
 Corresponden a la Dirección General de Investigación e Innovación Tecnológica, ade-
-más de las competencias previstas en el artículo 47 de la Ley 1/1983, de 13 de diciembre,
+más de las competencias previstas en el artículo 47 de la [Ley 1/1983](./L1_1983_gobierno_administracion_comunidad_madrid.md), de 13 de diciembre,
 las funciones relativas al fomento y coordinación de las actividades de investigación cien-
 tífica y de innovación tecnológica en el marco de la Ley 5/1998, de 7 de mayo, de Fomen-
 to de la Investigación Científica y la Innovación Tecnológica, sin perjuicio de las atribui-
@@ -990,7 +995,7 @@ la Subdirección General de Innovación Tecnológica.
 #### Artículo 21. Competencias de la Dirección General de Recursos Humanos
 
 Corresponden a la Dirección General de Recursos Humanos, además de las competen-
-cias previstas en el artículo 47 de la Ley 1/1983, de 13 de diciembre, y de la dirección y
+cias previstas en el artículo 47 de la [Ley 1/1983](./L1_1983_gobierno_administracion_comunidad_madrid.md), de 13 de diciembre, y de la dirección y
 coordinación con carácter general de las actuaciones que en el ámbito de su competencia
 
 BOCM
@@ -1099,7 +1104,7 @@ La Subdirección General de Gestión Económica y de Personal no docente.
 #### Artículo 23. Competencias de la Dirección General de Infraestructuras y Servicios
 
 Corresponden a la Dirección General de Infraestructuras y Servicios, además de las
-competencias previstas en el artículo 47 de la Ley 1/1983, de 13 de diciembre, y de la di-
+competencias previstas en el artículo 47 de la [Ley 1/1983](./L1_1983_gobierno_administracion_comunidad_madrid.md), de 13 de diciembre, y de la di-
 rección y coordinación con carácter general de las actuaciones que en el ámbito de su com-
 petencia desarrollen las Direcciones de Área Territoriales, las siguientes:
 a)
@@ -1175,7 +1180,7 @@ La Subdirección General de Gestión de Infraestructuras y Servicios.
 #### Artículo 25. Competencias de la Dirección General de Enseñanzas Artísticas
 
 Corresponden a la Dirección General de Enseñanzas Artísticas, además de las compe-
-tencias previstas en el artículo 47 de la Ley 1/1983, de 13 de diciembre, y de la dirección y
+tencias previstas en el artículo 47 de la [Ley 1/1983](./L1_1983_gobierno_administracion_comunidad_madrid.md), de 13 de diciembre, y de la dirección y
 coordinación con carácter general de las actuaciones que en el ámbito de su competencia
 desarrollen las Direcciones de Área Territoriales, las funciones relativas a las enseñanzas
 artísticas y, en particular, las siguientes:
@@ -1388,7 +1393,7 @@ Cualquier otra función que en materia de digitalización del sistema educativo 
 enseñanza no universitaria se le pueda encomendar.
 5.
 En lo no previsto en este decreto, su organización y su funcionamiento se ajusta-
-rá a lo dispuesto en los artículos 15 y siguientes de la Ley 40/2015, de 1 de octubre, de Ré-
+rá a lo dispuesto en los artículos 15 y siguientes de la [Ley 40/2015](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md), de 1 de octubre, de Ré-
 gimen Jurídico del Sector Público.
 6.
 La pertenencia o asistencia a esta comisión no implicará percepción de dietas, in-

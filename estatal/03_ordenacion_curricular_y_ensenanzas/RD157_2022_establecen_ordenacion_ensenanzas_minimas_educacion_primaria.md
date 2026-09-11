@@ -247,21 +247,31 @@ relaciones:
   - norma_id: norm-es-2021-18812
   - norma_id: norm-es-2021-20113
   - norma_id: norm-es-2010-12201
+fundamentos_derecho:
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-mad-d-126-2014
+- norma_id: norm-es-l-39-2015
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-lo-3-2018
+- norma_id: norm-es-lo-8-1985
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2014-2222
+- norma_id: norm-es-2021-18812
+- norma_id: norm-es-2010-12201
 ---
-
 # Real Decreto 157/2022, de 1 de marzo, por el que se establecen la ordenación y las enseñanzas mínimas de la Educación Primaria.
 
 ## Preámbulo
 
 La Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, introduce en la anterior redacción de la norma importantes cambios, muchos de ellos derivados, tal y como indica la propia ley en su exposición de motivos, de la conveniencia de revisar las medidas previstas en el texto original con objeto de adaptar el sistema educativo a los retos y desafíos del siglo XXI, de acuerdo con los objetivos fijados por la Unión Europea y la UNESCO para la década 2020-2030.
 
-De acuerdo con este enfoque, el nuevo texto de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, incorpora entre los principios y fines de la educación el cumplimiento efectivo de los derechos de la infancia según lo establecido en la Convención sobre los Derechos del Niño de Naciones Unidas, la inclusión educativa y la aplicación de los principios del Diseño Universal para el Aprendizaje.
+De acuerdo con este enfoque, el nuevo texto de la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, incorpora entre los principios y fines de la educación el cumplimiento efectivo de los derechos de la infancia según lo establecido en la Convención sobre los Derechos del Niño de Naciones Unidas, la inclusión educativa y la aplicación de los principios del Diseño Universal para el Aprendizaje.
 
 Al mismo tiempo, la ley reformula, en primer lugar, la definición de currículo, enumerando los elementos que lo integran y señalando a continuación que su configuración deberá estar orientada a facilitar el desarrollo educativo de los alumnos y alumnas, garantizando su formación integral, contribuyendo al pleno desarrollo de su personalidad y preparándolos para el ejercicio pleno de los derechos humanos, de una ciudadanía activa y democrática en la sociedad actual, sin que en ningún caso pueda suponer una barrera que genere abandono escolar o impida el acceso y disfrute del derecho a la educación. En consonancia con esta visión, la ley, manteniendo el enfoque competencial que aparecía ya en el texto original, hace hincapié en el hecho de que esta formación integral necesariamente debe centrarse en el desarrollo de las competencias.
 
 Asimismo, se modifica la anterior distribución de competencias entre el Estado y las comunidades autónomas en lo relativo a los contenidos básicos de las enseñanzas mínimas. De este modo, corresponderá al Gobierno, previa consulta a las comunidades autónomas en el marco de la Conferencia Sectorial de Educación, fijar, en relación con los objetivos, competencias, contenidos y criterios de evaluación, los aspectos básicos del currículo, que constituyen las enseñanzas mínimas. Las administraciones educativas, a su vez, serán las responsables de establecer el currículo correspondiente para su ámbito territorial, del que formarán parte los aspectos básicos antes mencionados. Finalmente, corresponderá a los centros educativos desarrollar y completar, en su caso, el currículo de las diferentes etapas y ciclos en el uso de su autonomía, tal y como se recoge en la propia ley.
 
-Con relación a la Educación Primaria, los cambios introducidos por la Ley Orgánica 3/2020, de 29 de diciembre, en la redacción de la Ley Orgánica 2/2006, de 3 de mayo, modifica significativamente la ordenación y la organización de las enseñanzas, recuperando los tres ciclos anteriormente existentes, reordenando las áreas con objeto de favorecer el desarrollo de las competencias del alumnado, y permitiendo su organización en ámbitos. En el tercer ciclo se añade además un área de Educación en Valores Cívicos y Éticos. Por otra parte, se establece que la evaluación durante la etapa se basará en el grado de desarrollo de las competencias previstas.
+Con relación a la Educación Primaria, los cambios introducidos por la Ley Orgánica 3/2020, de 29 de diciembre, en la redacción de la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, modifica significativamente la ordenación y la organización de las enseñanzas, recuperando los tres ciclos anteriormente existentes, reordenando las áreas con objeto de favorecer el desarrollo de las competencias del alumnado, y permitiendo su organización en ámbitos. En el tercer ciclo se añade además un área de Educación en Valores Cívicos y Éticos. Por otra parte, se establece que la evaluación durante la etapa se basará en el grado de desarrollo de las competencias previstas.
 
 De igual modo, se establece que cada alumno y alumna dispondrá, al finalizar la etapa, de un informe sobre su evolución y las competencias desarrolladas, según dispongan las administraciones educativas, a fin de garantizar una transición con las mayores garantías a la etapa de Educación Secundaria Obligatoria.
 
@@ -275,7 +285,7 @@ Además, se establece para las diferentes áreas el horario escolar que correspo
 
 Finalmente, se recogen en esta norma otras disposiciones referidas a aspectos esenciales de la ordenación de la etapa, como la tutoría, la orientación, la evaluación o los criterios para la promoción de ciclo y etapa.
 
-El presente real decreto se adecúa a los principios de buena regulación previstos en el artículo 129 de la [Ley 39/2015](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas. En lo que se refiere a los principios de necesidad y eficacia, se trata de una norma necesaria para la regulación de las enseñanzas de Educación Primaria conforme a la nueva redacción de la Ley Orgánica 2/2006, de 3 de mayo, tras las modificaciones introducidas por la Ley Orgánica 3/2020, de 29 de diciembre. De acuerdo con el principio de proporcionalidad, contiene la regulación imprescindible de la estructura de estas enseñanzas, al no existir ninguna alternativa regulatoria menos restrictiva de derechos. Conforme a los principios de seguridad jurídica y eficiencia, resulta coherente con el ordenamiento jurídico y permite una gestión más eficiente de los recursos públicos. Cumple también con el principio de transparencia, ya que identifica claramente su propósito y durante el procedimiento de elaboración de la norma se ha permitido la participación activa de los potenciales destinatarios a través del trámite de audiencia e información pública.
+El presente real decreto se adecúa a los principios de buena regulación previstos en el artículo 129 de la [Ley 39/2015](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas. En lo que se refiere a los principios de necesidad y eficacia, se trata de una norma necesaria para la regulación de las enseñanzas de Educación Primaria conforme a la nueva redacción de la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, tras las modificaciones introducidas por la Ley Orgánica 3/2020, de 29 de diciembre. De acuerdo con el principio de proporcionalidad, contiene la regulación imprescindible de la estructura de estas enseñanzas, al no existir ninguna alternativa regulatoria menos restrictiva de derechos. Conforme a los principios de seguridad jurídica y eficiencia, resulta coherente con el ordenamiento jurídico y permite una gestión más eficiente de los recursos públicos. Cumple también con el principio de transparencia, ya que identifica claramente su propósito y durante el procedimiento de elaboración de la norma se ha permitido la participación activa de los potenciales destinatarios a través del trámite de audiencia e información pública.
 
 En el proceso de elaboración de este real decreto han sido consultadas las comunidades autónomas en el seno de la Conferencia Sectorial de Educación y ha emitido informe el Consejo Escolar del Estado y el Ministerio de Política Territorial.
 
@@ -443,7 +453,7 @@ h) Competencia en conciencia y expresión culturales.
 
 1. El conjunto de objetivos, competencias, contenidos enunciados en forma de saberes básicos, métodos pedagógicos y criterios de evaluación de la Educación Primaria constituye el currículo de esta etapa.
 
-2. El presente real decreto fija los aspectos básicos del currículo que constituyen las enseñanzas mínimas de la Educación Primaria a los que se refiere el artículo 6.3 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+2. El presente real decreto fija los aspectos básicos del currículo que constituyen las enseñanzas mínimas de la Educación Primaria a los que se refiere el artículo 6.3 de la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación.
 
 3. Las administraciones educativas establecerán, conforme a lo dispuesto en este real decreto, el currículo de la Educación Primaria, del que formarán parte las enseñanzas mínimas fijadas en el mismo, que requerirán el 60 por ciento de los horarios escolares para aquellas comunidades autónomas que no tengan lengua cooficial, y el 50 por ciento para las que la tengan.
 
@@ -541,7 +551,7 @@ En los términos que determinen las administraciones educativas, se podrá flexi
 
 #### Artículo 21. Autonomía de los centros.
 
-1. Las administraciones educativas facilitarán a los centros el ejercicio de su autonomía pedagógica, de organización y de gestión, en los términos recogidos en la Ley Orgánica 2/2006, de 3 de mayo, y en las normas que la desarrollan.
+1. Las administraciones educativas facilitarán a los centros el ejercicio de su autonomía pedagógica, de organización y de gestión, en los términos recogidos en la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, y en las normas que la desarrollan.
 
 2. Corresponde a las administraciones educativas contribuir al desarrollo del currículo favoreciendo la elaboración de modelos abiertos de programación docente y de materiales didácticos que atiendan a las distintas necesidades de los alumnos y alumnas y del profesorado, bajo los principios del Diseño Universal para el Aprendizaje.
 
@@ -557,7 +567,7 @@ En los términos que determinen las administraciones educativas, se podrá flexi
 
 #### Artículo 22. Evaluación de diagnóstico.
 
-En el cuarto curso de Educación Primaria, todos los centros realizarán una evaluación de diagnóstico de las competencias adquiridas por su alumnado. Esta evaluación, que será responsabilidad de las administraciones educativas, tendrá carácter informativo, formativo y orientador para los centros, para el profesorado, para el alumnado y sus familias o tutores legales y para el conjunto de la comunidad educativa. Esta evaluación, de carácter censal, tendrá como marco de referencia el establecido de acuerdo con el artículo 144.1 de la Ley Orgánica 2/2006, de 3 de mayo.
+En el cuarto curso de Educación Primaria, todos los centros realizarán una evaluación de diagnóstico de las competencias adquiridas por su alumnado. Esta evaluación, que será responsabilidad de las administraciones educativas, tendrá carácter informativo, formativo y orientador para los centros, para el profesorado, para el alumnado y sus familias o tutores legales y para el conjunto de la comunidad educativa. Esta evaluación, de carácter censal, tendrá como marco de referencia el establecido de acuerdo con el artículo 144.1 de la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo.
 
 #### Artículo 23. Derecho del alumnado a una evaluación objetiva.
 
@@ -573,7 +583,7 @@ Las madres, los padres, las tutoras o los tutores legales deberán participar y 
 
 2. El historial académico y, en su caso, el informe personal por traslado se consideran documentos básicos para garantizar la movilidad del alumnado por todo el territorio nacional.
 
-3. Las administraciones educativas establecerán las características de los informes finales de ciclo y etapa a los que se refieren los apartados 4 y 5 del artículo 15. 4. Los documentos oficiales de evaluación deberán recoger siempre la norma de la Administración educativa que establece el currículo correspondiente. Cuando hayan de surtir efectos fuera del ámbito de una comunidad autónoma cuya lengua tenga estatutariamente atribuido carácter oficial, se estará a lo dispuesto en el artículo 15.3 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.
+3. Las administraciones educativas establecerán las características de los informes finales de ciclo y etapa a los que se refieren los apartados 4 y 5 del artículo 15. 4. Los documentos oficiales de evaluación deberán recoger siempre la norma de la Administración educativa que establece el currículo correspondiente. Cuando hayan de surtir efectos fuera del ámbito de una comunidad autónoma cuya lengua tenga estatutariamente atribuido carácter oficial, se estará a lo dispuesto en el artículo 15.3 de la [Ley 39/2015](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.
 
 #### Artículo 26. Actas de evaluación.
 
@@ -611,19 +621,19 @@ Las madres, los padres, las tutoras o los tutores legales deberán participar y 
 
 1. Las administraciones educativas establecerán los procedimientos oportunos para garantizar la autenticidad de los documentos oficiales de evaluación, la integridad de los datos recogidos en los mismos y su supervisión y custodia, así como su conservación y traslado en caso de supresión o extinción del centro.
 
-2. En lo referente a la obtención de los datos personales del alumnado, a la cesión de los mismos de unos centros a otros y a la seguridad y confidencialidad de estos, se estará a lo dispuesto en la legislación vigente en materia de protección de datos de carácter personal y, en todo caso, a lo establecido en la disposición adicional vigésima tercera de la Ley Orgánica 2/2006, de 3 de mayo.
+2. En lo referente a la obtención de los datos personales del alumnado, a la cesión de los mismos de unos centros a otros y a la seguridad y confidencialidad de estos, se estará a lo dispuesto en la legislación vigente en materia de protección de datos de carácter personal y, en todo caso, a lo establecido en la disposición adicional vigésima tercera de la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo.
 
-3. Los documentos oficiales de evaluación y sus procedimientos de validación descritos en los apartados anteriores podrán ser sustituidos por sus equivalentes realizados por medios electrónicos, informáticos o telemáticos, siempre que queden garantizadas su autenticidad, integridad y, conservación, y se cumplan las garantías y los requisitos establecidos por la Ley Orgánica 3/2018, de 5 de diciembre, por la Ley 39/2015, de 1 de octubre, y por la normativa que las desarrolla.
+3. Los documentos oficiales de evaluación y sus procedimientos de validación descritos en los apartados anteriores podrán ser sustituidos por sus equivalentes realizados por medios electrónicos, informáticos o telemáticos, siempre que queden garantizadas su autenticidad, integridad y, conservación, y se cumplan las garantías y los requisitos establecidos por la [Ley Orgánica 3/2018](../02_gestion_y_administracion_centros/LO3_2018_proteccion_datos_personales_garantia_derechos_digitales.md), de 5 de diciembre, por la [Ley 39/2015](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, y por la normativa que las desarrolla.
 
 4. El expediente electrónico del alumno estará constituido, al menos, por los datos contenidos en los documentos oficiales de evaluación, y cumplirá con lo establecido en el Real Decreto 4/2010, de 8 de enero, por el que se regula el Esquema Nacional de Interoperabilidad en el ámbito de la Administración Electrónica.
 
 5. El Ministerio de Educación y Formación Profesional, previa consulta a las comunidades autónomas, en el marco de la Conferencia Sectorial de Educación, establecerá la estructura y el formato de, al menos, los datos contenidos en los documentos oficiales de evaluación del expediente electrónico del alumno descritos en la presente disposición, de acuerdo con lo previsto en el artículo 111 bis y en.
 
-el apartado 4 de la disposición adicional vigesimotercera de la Ley Orgánica 2/2006, de 3 de mayo, que junto con otros garanticen la interoperabilidad entre los distintos sistemas de información utilizados en el sistema educativo español.
+el apartado 4 de la disposición adicional vigesimotercera de la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, que junto con otros garanticen la interoperabilidad entre los distintos sistemas de información utilizados en el sistema educativo español.
 
 #### Disposición adicional primera. Enseñanzas de religión.
 
-1. Las enseñanzas de religión se incluirán en la Educación Primaria de acuerdo con lo establecido en la disposición adicional segunda de la Ley Orgánica 2/2006, de 3 de mayo.
+1. Las enseñanzas de religión se incluirán en la Educación Primaria de acuerdo con lo establecido en la disposición adicional segunda de la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo.
 
 2. Las administraciones educativas garantizarán que, al inicio del curso, las madres, los padres, las tutoras o los tutores de los alumnos y las alumnas puedan manifestar su voluntad de que estos reciban o no enseñanzas de religión.
 
@@ -641,7 +651,7 @@ Las actividades a las que se refiere este apartado en ningún caso comportarán 
 
 1. Las administraciones educativas podrán autorizar que una parte de las áreas del currículo se impartan en lenguas extranjeras, sin que ello suponga modificación de los aspectos básicos del currículo regulados en el presente real decreto. En este caso, procurarán que a lo largo de la etapa los alumnos y alumnas adquieran la terminología propia de las áreas en la lengua extranjera y en la lengua o lenguas oficiales de la comunidad autónoma.
 
-2. Los centros que impartan una parte de las áreas del currículo en lenguas extranjeras aplicarán, en todo caso, los criterios para la admisión del alumnado establecidos en la Ley Orgánica 2/2006, de 3 de mayo. Entre tales criterios no se incluirán requisitos lingüísticos.
+2. Los centros que impartan una parte de las áreas del currículo en lenguas extranjeras aplicarán, en todo caso, los criterios para la admisión del alumnado establecidos en la [Ley Orgánica 2/2006](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo. Entre tales criterios no se incluirán requisitos lingüísticos.
 
 #### Disposición adicional tercera. Calendario.
 
@@ -649,13 +659,13 @@ El calendario escolar, que fijarán anualmente las administraciones educativas, 
 
 #### Disposición transitoria primera. Aplicabilidad del [Real Decreto 126/2014](RD126_2014_establece_curriculo_basico_educacion_primaria.md), de 28 de febrero, por el que se establece el currículo básico de la Educación Primaria.
 
-1. Las enseñanzas mínimas reguladas de acuerdo con el Real Decreto 126/2014, de 28 de febrero, por el que se establece el currículo básico de la Educación Primaria, serán de aplicación en los cursos segundo, cuarto y sexto de Educación Primaria, durante el año académico 2022-2023. 2. Los estándares de aprendizaje evaluables que figuran en los anexos al citado Real Decreto 126/2014, de 28 de febrero, tienen carácter meramente orientativo para los cursos de Educación Primaria a que se refiere el apartado 1 durante el año académico 2022-2023. #### Disposición transitoria segunda. Aplicabilidad del [Real Decreto 984/2021](RD984_2021_regulan_evaluacion_promocion_educacion_primaria_asi.md), de 16 de noviembre, por el que se regulan la evaluación y la promoción en la Educación Primaria, así como la evaluación, la promoción y la titulación en la Educación Secundaria Obligatoria, el Bachillerato y la Formación Profesional.
+1. Las enseñanzas mínimas reguladas de acuerdo con el Real [Decreto 126/2014](../../autonómica/madrid/05_alumnado_y_servicios_escolares/D126_2014_precios_publicos_servicios_comedor_escuelas_infantiles_madrid.md), de 28 de febrero, por el que se establece el currículo básico de la Educación Primaria, serán de aplicación en los cursos segundo, cuarto y sexto de Educación Primaria, durante el año académico 2022-2023. 2. Los estándares de aprendizaje evaluables que figuran en los anexos al citado Real [Decreto 126/2014](../../autonómica/madrid/05_alumnado_y_servicios_escolares/D126_2014_precios_publicos_servicios_comedor_escuelas_infantiles_madrid.md), de 28 de febrero, tienen carácter meramente orientativo para los cursos de Educación Primaria a que se refiere el apartado 1 durante el año académico 2022-2023. #### Disposición transitoria segunda. Aplicabilidad del [Real Decreto 984/2021](RD984_2021_regulan_evaluacion_promocion_educacion_primaria_asi.md), de 16 de noviembre, por el que se regulan la evaluación y la promoción en la Educación Primaria, así como la evaluación, la promoción y la titulación en la Educación Secundaria Obligatoria, el Bachillerato y la Formación Profesional.
 
-El Real Decreto 984/2021, de 16 de noviembre, por el que se regulan la evaluación y la promoción en la Educación Primaria, así como la evaluación, la promoción y la titulación en la Educación Secundaria Obligatoria, el Bachillerato y la Formación Profesional, se aplicará a los cursos segundo, cuarto y sexto de Educación Primaria, durante el año académico 2022-2023. #### Disposición derogatoria única. Derogación normativa.
+El [Real Decreto 984/2021](./RD984_2021_regulan_evaluacion_promocion_educacion_primaria_asi.md), de 16 de noviembre, por el que se regulan la evaluación y la promoción en la Educación Primaria, así como la evaluación, la promoción y la titulación en la Educación Secundaria Obligatoria, el Bachillerato y la Formación Profesional, se aplicará a los cursos segundo, cuarto y sexto de Educación Primaria, durante el año académico 2022-2023. #### Disposición derogatoria única. Derogación normativa.
 
-1. Queda derogado el Real Decreto 126/2014, de 28 de febrero, por el que se establece el currículo básico de la Educación Primaria.
+1. Queda derogado el Real [Decreto 126/2014](../../autonómica/madrid/05_alumnado_y_servicios_escolares/D126_2014_precios_publicos_servicios_comedor_escuelas_infantiles_madrid.md), de 28 de febrero, por el que se establece el currículo básico de la Educación Primaria.
 
-2. Asimismo, queda derogado el capítulo II del Real Decreto 984/2021, de 16 de noviembre por el que se regulan la evaluación y la promoción en la Educación Primaria, así como la evaluación, la promoción y la titulación en la Educación Secundaria Obligatoria, el Bachillerato y la Formación Profesional.
+2. Asimismo, queda derogado el capítulo II del [Real Decreto 984/2021](./RD984_2021_regulan_evaluacion_promocion_educacion_primaria_asi.md), de 16 de noviembre por el que se regulan la evaluación y la promoción en la Educación Primaria, así como la evaluación, la promoción y la titulación en la Educación Secundaria Obligatoria, el Bachillerato y la Formación Profesional.
 
 3. Quedan derogadas las demás normas de igual o inferior rango en cuanto se opongan a lo establecido en este real decreto.
 

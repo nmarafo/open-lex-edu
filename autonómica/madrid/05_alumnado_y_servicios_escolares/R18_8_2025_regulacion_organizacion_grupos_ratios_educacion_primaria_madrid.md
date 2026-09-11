@@ -26,8 +26,14 @@ tags:
 - ratios
 - grupos_escolares
 - madrid
+fundamentos_derecho:
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-mad-d248-2023
+- norma_id: norm-mad-o547-2019-actuaciones-apoyo-educativo-centros-concertados-madrid
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
 ---
-
 # Resolución de 18 de agosto de 2025, de la Dirección General de Educación Concertada, Becas y Ayudas al Estudio, por la que se establece el número de horas semanales de orientación autorizadas en Educación Primaria en centros concertados para el curso 2025-2026
 
 ## Preámbulo
@@ -39,7 +45,7 @@ RESOLUCIÓN de 18 de agosto de 2025, de la Dirección General de Educación
 Concertada, Becas y Ayudas al Estudio, por la que se establece el número de
 horas semanales de orientación autorizadas en Educación Primaria en centros
 concertados para el curso 2025-2026.
-La Ley Orgánica 2/2006, de 3 de mayo, de Educación, recoge en su artículo 157.1.h la
+La [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, recoge en su artículo 157.1.h la
 obligación de las Administraciones educativas de proveer los recursos necesarios para ga-
 rantizar la existencia de servicios o profesionales especializados en la orientación educati-
 va, psicopedagógica y profesional.
@@ -50,7 +56,7 @@ Generales de la Comunidad de Madrid para el año 2025, la financiación para el 
 orientación a los centros docentes que tengan unidades concertadas de Educación Primaria,
 conforme a la normativa de desarrollo de la misma.
 De acuerdo a las unidades de concierto para el curso 2025-2026 en la etapa de Educa-
-ción Primaria, los criterios fijados en la Orden 547/2019, de 24 de febrero, de la Conseje-
+ción Primaria, los criterios fijados en la [Orden 547/2019](../06_atencion_diversidad_y_orientacion/O547_2019_actuaciones_apoyo_educativo_centros_concertados_madrid.md), de 24 de febrero, de la Conseje-
 ría de Educación e Investigación, por la que se regulan los criterios para la organización y
 funcionamiento de la orientación en Educación Primaria en centros privados concertados
 de la Comunidad de Madrid, así como las líneas generales para su financiación, y en fun-
@@ -59,7 +65,7 @@ les que se autorizan a los centros que ya tienen implantada la orientación en E
 maria, así como las de los nuevos centros.
 Por ello, la Dirección General de Educación Concertada, Becas y Ayudas al Estudio,
 competente en la gestión de la financiación de los centros docentes concertados de acuerdo
-al artículo 13 del Decreto 248/2023, de 11 de octubre, del Consejo de Gobierno, por el que
+al artículo 13 del [Decreto 248/2023](../01_marco_normativo_general_y_organico/D248_2023_estructura_organica_consejeria_educacion_ciencia_universidades_madrid.md), de 11 de octubre, del Consejo de Gobierno, por el que
 se establece la estructura orgánica de la Consejería de Educación, Ciencia y Universidades
 en relación con el Decreto 38/2023, de 23 de junio, de la Presidenta de la Comunidad de
 Madrid, por el que se establece el número y denominación de las Consejerías de la Comu-
@@ -78,7 +84,7 @@ cativa (PIPOE), bien por otras situaciones singulares.
 Todos los centros que cuenten con autorización de horas de orientación mediante
 la presente Resolución, tendrán la obligación de organizar durante el curso 2025-2026 el
 Servicio de Orientación en Educación Primaria, y desarrollar las funciones encomendadas
-en la Orden 547/2019, de 24 de febrero.
+en la [Orden 547/2019](../06_atencion_diversidad_y_orientacion/O547_2019_actuaciones_apoyo_educativo_centros_concertados_madrid.md), de 24 de febrero.
 4.
 El número de horas que figura en cada uno de los anexos, que se ha determinado
 en función de las unidades de concierto de los centros para el curso 2025-2026, se mantendrá
@@ -97,7 +103,7 @@ Segundo
 Criterios para la dotación del Servicio de Orientación
 en Educación Primaria en el curso 2025-2026
 Los criterios para la dotación de horas de orientación en Educación Primaria en el
-curso 2025-2026 son los que se establecen en el artículo 5 de la Orden 547/2019, de 24 de
+curso 2025-2026 son los que se establecen en el artículo 5 de la [Orden 547/2019](../06_atencion_diversidad_y_orientacion/O547_2019_actuaciones_apoyo_educativo_centros_concertados_madrid.md), de 24 de
 febrero, que conforme a la disponibilidad presupuestaria para el ejercicio 2025 se han
 cuantificado de acuerdo a lo siguiente:
 a)
@@ -133,7 +139,7 @@ Para poder dar de alta en la nómina de pago delegado o incluir en la modificaci
 raria de la cooperativa estas horas autorizadas de orientación en Educación Primaria, será re-
 quisito previo imprescindible que el profesional que se propone como orientador cuente con
 la acreditación de la Dirección de Área Territorial de cumplimiento de los requisitos de titu-
-lación, conforme a lo establecido en el artículo 3 de la Orden 547/2019, de 24 de febrero.
+lación, conforme a lo establecido en el artículo 3 de la [Orden 547/2019](../06_atencion_diversidad_y_orientacion/O547_2019_actuaciones_apoyo_educativo_centros_concertados_madrid.md), de 24 de febrero.
 El alta en la nómina de pago delegado o modificación del horario de la cooperativa se
 realizará de acuerdo a los procedimientos establecidos para ello desde la Subdirección Ge-
 neral de Enseñanza Privada y Concertada, y en concreto desde el Área de Gestión de Nó-
@@ -153,7 +159,7 @@ horas lectivas y no lectivas para las actividades relacionadas con la orientaci�
 
 BOCM
 de alumnos y asesoramiento a profesores, equipo directivo y familias, conforme a lo dis-
-puesto en el artículo 4 de la Orden 547/2019, de 24 de febrero. Este horario deberá ser in-
+puesto en el artículo 4 de la [Orden 547/2019](../06_atencion_diversidad_y_orientacion/O547_2019_actuaciones_apoyo_educativo_centros_concertados_madrid.md), de 24 de febrero. Este horario deberá ser in-
 cluido en la plataforma Raíces, para la generación del DOC y su supervisión por parte del
 Servicio de Inspección Educativa.
 En el plazo de un mes desde la incorporación del orientador de Primaria, este profesio-

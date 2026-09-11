@@ -50,8 +50,9 @@ relaciones:
   articulos:
   - norma_id: '27'
   - norma_id: norm-es-2001-7022
+fundamentos_derecho:
+- norma_id: norm-es-2001-7022
 ---
-
 # Orden ECD/826/2004, de 22 de marzo, por la que se aprueban los temarios que han de regir en los procedimientos selectivos para el ingreso, acceso y adquisición de nuevas especialidades en los Cuerpos de Profesores de Artes Plásticas y Diseño y Maestros de Taller de Artes Plásticas y Diseño.
 
 ## Preámbulo

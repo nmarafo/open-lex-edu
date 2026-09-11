@@ -26,8 +26,31 @@ tags:
 - ciclos_formativos
 - fp_dual
 - comunidad_de_madrid
+fundamentos_derecho:
+- norma_id: norm-can-l-4-2023
+- norma_id: norm-can-res-boc-2024-230-25
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-can-res-134
+- norma_id: norm-mad-d-52-2021
+- norma_id: norm-mad-l1-1983-gobierno-administracion-comunidad-madrid
+- norma_id: norm-mad-l4-2023
+- norma_id: norm-mad-d-63-2019
+- norma_id: norm-mad-d65-2022
+- norma_id: norm-mad-o1712-2023
+- norma_id: norm-mad-d23-2023
+- norma_id: norm-es-l-39-2015
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-lo-5-2000
+- norma_id: norm-es-2001-7022
+- norma_id: norm-es-lo-3-2022
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2021-979
+- norma_id: norm-es-2020-17274
+- norma_id: norm-es-rd-659-2023
+- norma_id: norm-es-2010-12201
+- norma_id: norm-es-2007-6115
+- norma_id: norm-es-2013-12632
 ---
-
 # Decreto 27/2025, de 21 de mayo, del Consejo de Gobierno, por el que se regula la ordenación y organización del Sistema de Formación Profesional de la Comunidad de Madrid
 
 ## Índice
@@ -255,7 +278,7 @@ y grados, modalidades y especialidades, de acuerdo con lo dispuesto en el artíc
 Constitución Española y leyes orgánicas que, conforme al apartado 1 del artículo 81 de la
 misma lo desarrollen, y sin perjuicio de las facultades que el artículo 149.1.30 de la Cons-
 titución Española atribuye al Estado.
-La Ley Orgánica 2/2006, de 3 de mayo, de Educación, en su artículo 6.3, establece que,
+La [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, en su artículo 6.3, establece que,
 con el fin de asegurar una formación común y garantizar la validez de los títulos correspon-
 dientes, el Gobierno, previa consulta a las comunidades autónomas, fijará, en relación con
 los objetivos, competencias, contenidos y criterios de evaluación, los aspectos básicos del
@@ -263,7 +286,7 @@ currículo, que constituyen las enseñanzas mínimas. Para las enseñanzas de fo
 fesional fijará, asimismo, los resultados de aprendizaje correspondientes a las enseñanzas
 mínimas, que, de acuerdo con el artículo 6.4, en el caso de la Comunidad de Madrid, cons-
 tituyen el 60 por ciento de los horarios escolares.
-La Ley Orgánica 3/2022, de 31 de marzo, de ordenación e integración de la Formación
+La [Ley Orgánica 3/2022](../../canarias/08_personal_docente/R30_6_2023_ordenacion_gestion_determinadas_listas_empleo_tras.md), de 31 de marzo, de ordenación e integración de la Formación
 Profesional, define en su artículo 5.1 el Sistema de Formación Profesional como el conjun-
 to articulado de actuaciones dirigidas a identificar las competencias profesionales del mer-
 cado laboral, asegurar las ofertas de formación idóneas, posibilitar la adquisición de la co-
@@ -275,7 +298,7 @@ forme a un modelo de formación profesional basado en itinerarios formativos fac
 de la progresión en formación y estructurado en tres niveles de competencia profesional y
 cinco grados ascendentes descriptivos (A, B, C, D y E) de las ofertas formativas, desde las
 microformaciones hasta los cursos de especialización.
-El Real Decreto 659/2023, de 18 de julio, por el que se desarrolla la ordenación del
+El [Real Decreto 659/2023](../../canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, por el que se desarrolla la ordenación del
 Sistema de Formación Profesional, dispone cuáles son las finalidades del Sistema de For-
 mación Profesional y fija el marco general de los aspectos básicos relacionados con la or-
 denación y organización de la oferta formativa de los distintos grados de Formación Profe-
@@ -287,14 +310,14 @@ BOCM
 las Administraciones autonómicas puedan desarrollar y concretar los aspectos básicos de-
 finidos en esta norma estatal.
 En la Comunidad de Madrid se han regulado las enseñanzas de Formación Profesio-
-nal del Sistema Educativo por medio del Decreto 63/2019, de 16 de julio, del Consejo de
+nal del Sistema Educativo por medio del [Decreto 63/2019](./D63_2019_ordenacion_organizacion_formacion_profesional_madrid.md), de 16 de julio, del Consejo de
 Gobierno, por el que se regula la ordenación y organización de la formación profesional en
-la Comunidad de Madrid. Tras la publicación del Real Decreto 659/2023, de 18 de julio, es
+la Comunidad de Madrid. Tras la publicación del [Real Decreto 659/2023](../../canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, es
 conveniente elaborar una nueva norma que se adecúe a los planteamientos realizados por el
 nuevo Sistema de Formación Profesional, que, entre otros, supone la integración de los dos
 subsistemas existentes en la actualidad, el educativo y el de empleo. Por ello este decreto
-aúna ambos subsistemas dentro del marco definido por el Real Decreto 659/2023, de 18 de
-julio. Procede derogar el Decreto 63/2019, de 16 de julio, para sustituirlo por este.
+aúna ambos subsistemas dentro del marco definido por el [Real Decreto 659/2023](../../canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de
+julio. Procede derogar el [Decreto 63/2019](./D63_2019_ordenacion_organizacion_formacion_profesional_madrid.md), de 16 de julio, para sustituirlo por este.
 En el ámbito de las competencias autonómicas, este decreto recoge algunas novedades
 respecto al decreto que se deroga, como son, por ejemplo, la concreción de la organización
 de la parte de optatividad de los ciclos formativos de grado medio y grado superior y la re-
@@ -314,19 +337,19 @@ nimos que deben incluir las programaciones didácticas.
 Por otra parte, este decreto tiene como objetivo garantizar el ejercicio real y efectivo
 de derechos por parte de las personas con discapacidad en igualdad de condiciones que el
 resto de la ciudadanía, así como el derecho a la igualdad de oportunidades y de trato, con-
-forme previene el Real Decreto Legislativo 1/2013, de 29 de noviembre, por el que se
+forme previene el [Real Decreto Legislativo 1/2013](../../../estatal/07_convivencia_bienestar_y_protocolos/RDL1_2013_aprueba_texto_refundido_ley_general_derechos.md), de 29 de noviembre, por el que se
 aprueba el Texto Refundido de la Ley General de derechos de las personas con discapaci-
 dad y de su inclusión social. Asimismo, hace efectivo el derecho de igualdad de oportuni-
 dades y de trato entre mujeres y hombres en cualquier ámbito de la vida, como dispone el
-#### artículo 1 de la Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres
+#### artículo 1 de la [Ley Orgánica 3/2007](../../../estatal/07_convivencia_bienestar_y_protocolos/LO3_2007_igualdad_efectiva_mujeres_hombres.md), de 22 de marzo, para la igualdad efectiva de mujeres
 y hombres.
 La implantación de estas ofertas formativas se produce en el marco del Plan de Recu-
 peración, Transformación y Resiliencia financiado por la Unión Europea – Next Genera-
 tion-EU y de la Estrategia para la Recuperación y Resiliencia aprobada por la Comunidad
 de Madrid.
-En el marco de lo dispuesto en el artículo 129 de la Ley 39/2015, de 1 de octubre, del
+En el marco de lo dispuesto en el artículo 129 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del
 Procedimiento Administrativo Común de las Administraciones Públicas, y de conformidad
-con el artículo 2 del Decreto 52/2021, de 24 de marzo, del Consejo de Gobierno, por el que
+con el artículo 2 del [Decreto 52/2021](../01_marco_normativo_general_y_organico/D52_2021_procedimiento_elaboracion_disposiciones_normativas_madrid.md), de 24 de marzo, del Consejo de Gobierno, por el que
 se regula y simplifica el procedimiento de elaboración de las disposiciones normativas de
 carácter general en la Comunidad de Madrid, la presente disposición normativa se ajusta a
 las exigencias de los principios de buena regulación.
@@ -336,14 +359,14 @@ dad de Madrid todos los planes de estudio, con el fin de mejorar la cualificaci�
 ción de los ciudadanos y ofrecer mayores oportunidades de empleo en los diferentes
 sectores profesionales.
 Asimismo, la presente norma cumple con el principio de proporcionalidad, ya que contie-
-ne la regulación imprescindible de lo previsto por el Real Decreto 659/2023, de 18 de julio.
+ne la regulación imprescindible de lo previsto por el [Real Decreto 659/2023](../../canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio.
 Por otro lado, el rango de esta disposición responde a la importancia de la materia que
 regula, relacionada con el derecho a la educación y a la formación y el desarrollo de sus ba-
 ses. Esta norma cumple igualmente con el principio de eficiencia, al concretar aspectos que
 facilitan la racionalización en la gestión de los recursos públicos.
 También cumple con el principio de transparencia, conforme a lo establecido en la
 Ley 10/2019, de 10 de abril, de Transparencia y de Participación de la Comunidad de
-Madrid, y de acuerdo a lo dispuesto en el artículo 9 del Decreto 52/2021, de 24 de marzo.
+Madrid, y de acuerdo a lo dispuesto en el artículo 9 del [Decreto 52/2021](../01_marco_normativo_general_y_organico/D52_2021_procedimiento_elaboracion_disposiciones_normativas_madrid.md), de 24 de marzo.
 Los trámites de audiencia e información pública, así como la publicación de la norma, se
 han realizado a través del Portal de Transparencia de la Comunidad de Madrid.
 
@@ -362,7 +385,7 @@ De conformidad con el artículo 29 del Estatuto de Autonomía de la Comunidad de
 Madrid, corresponde a esta comunidad autónoma la competencia de desarrollo legislativo
 y ejecución de la enseñanza en toda su extensión, niveles y grados, modalidades y especia-
 lidades. El Consejo de Gobierno de la Comunidad de Madrid es competente para dictar el
-presente decreto, de acuerdo con lo establecido en el artículo 21.g) de la Ley 1/1983, de 13
+presente decreto, de acuerdo con lo establecido en el artículo 21.g) de la [Ley 1/1983](../01_marco_normativo_general_y_organico/L1_1983_gobierno_administracion_comunidad_madrid.md), de 13
 de diciembre, del Gobierno y Administración de la Comunidad de Madrid.
 En su virtud, a propuesta del consejero de Educación, Ciencia y Universidades, oída
 la Comisión Jurídica Asesora de la Comunidad de Madrid, previa deliberación, el Consejo
@@ -382,11 +405,11 @@ la oferta formativa del Sistema de Formación Profesional de la Comunidad de Mad
 Fines y objetivos
 1.
 Los fines del Sistema de Formación Profesional son los definidos en el artículo 2
-del Real Decreto 659/2023, de 18 de julio, por el que se desarrolla la ordenación del Siste-
+del [Real Decreto 659/2023](../../canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, por el que se desarrolla la ordenación del Siste-
 ma de Formación Profesional.
 2.
 Los objetivos del Sistema de Formación Profesional son los definidos en el artícu-
-lo 3 del Real Decreto 659/2023, de 18 de julio.
+lo 3 del [Real Decreto 659/2023](../../canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio.
 #### Artículo 3
 Ejes principales del Sistema de Formación Profesional de la Comunidad de Madrid
 Los ejes principales de las actuaciones en el Sistema de Formación Profesional de la
@@ -465,7 +488,7 @@ profesional. Las ofertas de Grado E solo estarán referenciados a los niveles 2 
 3.
 Las ofertas de Grado D y E forman parte, tanto del Sistema de Formación Profe-
 sional, como de las enseñanzas del sistema educativo, en los términos establecidos en la
-Ley Orgánica 2/2006, de 3 de mayo, de Educación, debiendo contribuir, además de a los
+[Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, debiendo contribuir, además de a los
 objetivos del Sistema de Formación Profesional, a los previstos para este tipo de enseñan-
 zas en dicha ley orgánica para cada uno de los grados básico, medio y superior, y cursos de
 especialización.
@@ -596,7 +619,7 @@ cional de Ofertas de Formación Profesional a los efectos de su validez estatal.
 #### Artículo 9
 Oferta de Grado D. Ciclos formativos de grado básico
 1.
-De conformidad con el artículo 3.3 de la Ley Orgánica 2/2006, de 3 de mayo, la
+De conformidad con el artículo 3.3 de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, la
 educación primaria, la educación secundaria obligatoria y los ciclos formativos de grado
 básico constituyen la educación básica.
 2.
@@ -633,7 +656,7 @@ El currículo de la Educación Secundaria Obligatoria en los ciclos formativos d
 grado básico se desarrolla dentro del ámbito de Comunicación y Ciencias Sociales y del
 ámbito de Ciencias Aplicadas, lo que facilita la adquisición de las competencias del apren-
 dizaje permanente a lo largo de la vida mediante la organización de las enseñanzas en es-
-tos ámbitos, de conformidad con lo establecido en el artículo 15 del Decreto 65/2022, de 20
+tos ámbitos, de conformidad con lo establecido en el artículo 15 del [Decreto 65/2022](./D65_2022_ordenacion_curriculo_educacion_secundaria_obligatoria_madrid.md), de 20
 de julio, del Consejo de Gobierno, por el que se establecen para la Comunidad de Madrid
 la ordenación y el currículo de la Educación Secundaria Obligatoria. El currículo de estos
 dos ámbitos es el aprobado por la Comunidad de Madrid en el correspondiente decreto de
@@ -706,7 +729,7 @@ rá incluido en los planes de estudios de cada título con una duración mínima
 La oferta de módulos optativos profundizará en el desarrollo de las competencias
 transversales o en la aportación de complementos de formación profesional, para facilitar
 la progresión del itinerario formativo individual, de conformidad con lo establecido en el
-#### artículo 102 del Real Decreto 659/2023, de 18 de julio. El titular de la consejería compe-
+#### artículo 102 del [Real Decreto 659/2023](../../canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio. El titular de la consejería compe-
 tente en materia de Educación establecerá las condiciones en las que los centros podrán or-
 ganizar esta oferta de optatividad y aprobará el catálogo de módulos optativos que los cen-
 tros podrán incorporar en su oferta formativa.
@@ -822,7 +845,7 @@ Modalidades
 Modalidades de impartición
 Todas las ofertas de formación profesional de grado A, B, C, D y E podrán autorizar-
 se en cualquiera de las modalidades presencial, semipresencial o virtual, de conformidad
-con lo establecido en el artículo 24 del Real Decreto 659/2023, de 18 de julio.
+con lo establecido en el artículo 24 del [Real Decreto 659/2023](../../canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio.
 #### Artículo 18
 Modalidad presencial
 1.
@@ -1057,9 +1080,9 @@ das en un ciclo formativo de grado básico sin haber completado la titulación.
 Asimismo, esta oferta se dirigirá a los menores de edad a partir de dieciséis años que
 se encuentren bajo una medida de protección de guarda o tutela por la Comunidad de
 Madrid, a los jóvenes que participen en el programa de preparación para la vida indepen-
-diente previsto en el artículo 123 de la Ley 4/2023, de 22 de marzo, de Derechos, Garantías
+diente previsto en el artículo 123 de la [Ley 4/2023](../../canarias/01_marco_normativo_general_y_organico/L4_2023_presidencia_gobierno_canarias.md), de 22 de marzo, de Derechos, Garantías
 y Protección Integral de la Infancia y la Adolescencia de la Comunidad de Madrid, a los jó-
-venes incluidos en el ámbito de aplicación de la Ley Orgánica 5/2000, de 12 de enero, re-
+venes incluidos en el ámbito de aplicación de la [Ley Orgánica 5/2000](../../../estatal/01_marco_normativo_general_y_organico/LO5_2000_reguladora_responsabilidad_penal_menores.md), de 12 de enero, re-
 guladora de la responsabilidad penal de los menores, a los jóvenes a partir de dieciséis años
 procedentes de servicios de prevención e inserción social autorizados por la Comunidad de
 Madrid, a los jóvenes a partir de dieciséis años con discapacidad, víctimas de violencia y a
@@ -1093,7 +1116,7 @@ re este artículo.
 Estos centros deberán estar autorizados por la consejería competente, según la oferta
 de grados que deseen impartir, y cumplir con los mismos requisitos que los centros del Sis-
 tema de Formación Profesional establecidos en el capítulo VII, así como con las condicio-
-nes establecidas en el artículo 38.1 del Real Decreto 659/2023, de 18 de julio. Podrán for-
+nes establecidas en el artículo 38.1 del [Real Decreto 659/2023](../../canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio. Podrán for-
 mar parte de la red de centros de segunda oportunidad.
 #### Artículo 24
 Oferta específica dirigida a personas con necesidades de cualificación profesional de nivel 2
@@ -1246,7 +1269,7 @@ Acceso a la oferta de Grado D. Ciclos formativos de grado básico
 1.
 El acceso a los ciclos formativos de grado básico de los alumnos entre quince y
 diecisiete años de edad, escolarizados en centros docentes de educación secundaria obliga-
-toria, se regirá por lo establecido en el artículo 15 del Decreto 65/2022, de 20 de julio.
+toria, se regirá por lo establecido en el artículo 15 del [Decreto 65/2022](./D65_2022_ordenacion_curriculo_educacion_secundaria_obligatoria_madrid.md), de 20 de julio.
 2.
 El procedimiento de incorporación será el establecido en el artículo 32 de la Or-
 den 1712/2023, de 19 de mayo, de la Vicepresidencia, Consejería de Educación y Univer-
@@ -1260,7 +1283,7 @@ En las ofertas específicas de ciclos formativos de grado básico previstas en e
 tículo 10.3, así como en el acceso de jóvenes entre quince y dieciocho años que no hayan
 estado escolarizados en el sistema educativo español, la solicitud de incorporación se rea-
 lizará a petición propia, sin necesidad de adjuntar una propuesta del equipo docente, de
-acuerdo con lo establecido en el artículo 13.6 de la Orden 1712/2023, de 19 de mayo. Asi-
+acuerdo con lo establecido en el artículo 13.6 de la [Orden 1712/2023](./O1712_2023_organizacion_funcionamiento_evaluacion_eso_madrid.md), de 19 de mayo. Asi-
 mismo, los alumnos escolarizados en el sistema educativo español mayores de dieciséis
 años podrán solicitar la incorporación a petición propia o de los padres o representantes le-
 gales en su caso, sin necesidad de adjuntar una propuesta del equipo docente.
@@ -1296,7 +1319,7 @@ cional segunda.
 3.
 La consejería competente en materia de Educación regulará el curso de formación
 específico preparatorio para el acceso a los ciclos formativos de grado medio, conforme a
-lo establecido en el artículo 109 del Real Decreto 659/2023, de 18 de julio. Este curso está
+lo establecido en el artículo 109 del [Real Decreto 659/2023](../../canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio. Este curso está
 destinado a las personas que no cumplan los requisitos académicos de acceso y se ofertarán
 conforme a los principios de accesibilidad, no discriminación e igualdad de oportunidades.
 4.
@@ -1344,7 +1367,7 @@ cional segunda.
 3.
 La consejería competente en materia de Educación regulará el curso de formación
 específico preparatorio para el acceso a los ciclos formativos de grado superior, conforme
-a lo establecido en el artículo 113 del Real Decreto 659/2023, de 18 de julio. Este curso está
+a lo establecido en el artículo 113 del [Real Decreto 659/2023](../../canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio. Este curso está
 destinado a las personas que no cumplan los requisitos académicos de acceso y se ofertarán
 conforme a los principios de accesibilidad, no discriminación e igualdad de oportunidades.
 4.
@@ -1366,7 +1389,7 @@ No obstante lo dispuesto en el apartado anterior, se podrá contemplar en los pr
 de admisión, y en caso de disponibilidad de plazas, el acceso de personas que no cuenten
 con los títulos requeridos, pudiendo admitir, hasta un máximo del 20 por ciento de las pla-
 zas, a las personas que cumplan los requisitos enumerados por orden de prelación en el
-apartado tercero del artículo 120 del Real Decreto 659/2023, de 18 de julio.
+apartado tercero del artículo 120 del [Real Decreto 659/2023](../../canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio.
 2.
 Para acceder a los cursos de especialización de grado superior se requerirá estar
 en posesión de uno de los títulos de Técnico Superior de Formación Profesional especifica-
@@ -1466,7 +1489,7 @@ munidad de Madrid.
 JUEVES 22 DE MAYO DE 2025
 BOCM
 4.o Para cada uno de los supuestos contemplados en los artículos 120.3 y 121.2
-del Real Decreto 659/2023, de 18 de julio, la consejería en materia de Educa-
+del [Real Decreto 659/2023](../../canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, la consejería en materia de Educa-
 ción establecerá los criterios para la baremación de los candidatos.
 #### Artículo 34
 Matrícula
@@ -1516,7 +1539,7 @@ terioridad.
 Convalidaciones
 1.
 Los módulos profesionales podrán ser objeto de convalidación en los términos que
-recoge el Real Decreto 659/2023, de 18 de julio, y el Real Decreto 1085/2020, de 9 de di-
+recoge el [Real Decreto 659/2023](../../canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, y el [Real Decreto 1085/2020](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1085_2020_correccion_errores_real_decreto_establecen_convalidaciones.md), de 9 de di-
 ciembre, por el que se establecen convalidaciones de módulos profesionales de los títulos
 de Formación Profesional del sistema educativo español y las medidas para su aplicación,
 y se modifica el Real Decreto 1147/2011, de 29 de julio, por el que se establece la ordena-
@@ -1574,7 +1597,7 @@ berá corresponderse con el ámbito del sector o sectores a los que haga referen
 profesional de la oferta formativa.
 Para el desarrollo de la fase de formación en empresa u organismo equiparado de las
 ofertas de Grado C, se utilizará el modelo de convenio de colaboración establecido en el
-### anexo XVI del Real Decreto 659/2023, de 18 de julio.
+### anexo XVI del [Real Decreto 659/2023](../../canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio.
 3.
 La consejería competente en materia de Educación establecerá el modelo norma-
 lizado para la formalización de convenios o acuerdos de aprendizaje para el desarrollo de
@@ -1657,7 +1680,7 @@ rísticas de cada régimen y los criterios de adjudicación de empresa.
 La asignación de las estancias en empresa se realizará, a petición de cada persona
 en formación y de acuerdo con el tutor de la empresa u organismo equiparado, bajo crite-
 rios de transparencia y objetividad, de acuerdo con lo establecido en el artículo 155.2 del
-Real Decreto 659/2023, de 18 de julio. La asignación deberá garantizar, en su caso, los de-
+[Real Decreto 659/2023](../../canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio. La asignación deberá garantizar, en su caso, los de-
 rechos de las personas con discapacidad en relación con lo dispuesto en la normativa vigen-
 te en materia de accesibilidad universal y diseño para todos.
 #### Artículo 40
@@ -1788,7 +1811,7 @@ lente, para los grados D, que se corresponda con la formación cursada. A estos 
 podrá aportar la experiencia laboral de los cinco años anteriores al momento de la solicitud.
 3.
 La justificación de la experiencia laboral se realizará de conformidad con lo esta-
-blecido en el apartado 3 del artículo 177 del Real Decreto 659/2023, de 18 de julio.
+blecido en el apartado 3 del artículo 177 del [Real Decreto 659/2023](../../canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio.
 ### Capítulo VI
 Evaluación. Acreditaciones y titulaciones
 #### SECCIÓN 1.a
@@ -2066,7 +2089,7 @@ tencias en la Ordenación Académica de estas enseñanzas.
 Las acciones formativas correspondientes a los grados A, B y C deberán quedar re-
 flejadas en las actas de evaluación conforme a lo establecido en el artículo 19.5 del Real De-
 creto 659/2023, de 18 de julio. Los informes individualizados de evaluación de los grados C
-seguirán el modelo recogido en el anexo II del Real Decreto 659/2023, de 18 de julio.
+seguirán el modelo recogido en el anexo II del [Real Decreto 659/2023](../../canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio.
 #### SECCIÓN 2.a
 Acreditaciones, Certificados y Titulaciones de Formación Profesional
 #### Artículo 52
@@ -2196,7 +2219,7 @@ Organización del procedimiento
 Corresponde a la dirección general con competencias en materia de cualificación y
 acreditación de competencias profesionales la organización, desarrollo y gestión del proce-
 dimiento administrativo abierto de forma permanente, conforme a lo establecido en el Tí-
-tulo VI del Real Decreto 659/2023, de 18 de julio, y en la normativa vigente de la Comuni-
+tulo VI del [Real Decreto 659/2023](../../canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, y en la normativa vigente de la Comuni-
 dad de Madrid.
 ### Capítulo VII
 Centros del Sistema de Formación Profesional
@@ -2207,7 +2230,7 @@ Centros del Sistema de Formación Profesional
 1.
 Tendrán la consideración de centros del Sistema de Formación Profesional los
 centros públicos y privados autorizados para impartir ofertas de formación profesional en
-cualquiera de los grados previstos en la Ley Orgánica 3/2022, de 31 de marzo, de ordena-
+cualquiera de los grados previstos en la [Ley Orgánica 3/2022](../../canarias/08_personal_docente/R30_6_2023_ordenacion_gestion_determinadas_listas_empleo_tras.md), de 31 de marzo, de ordena-
 ción e integración de la Formación Profesional, de forma exclusiva o simultánea con otro
 tipo de acciones formativas ajenas al Sistema de Formación Profesional o con niveles edu-
 cativos del sistema educativo español no universitario, siempre que impartan ofertas forma-
@@ -2265,18 +2288,18 @@ sin ánimo de lucro, podrán impartir la oferta específica dirigida a personas 
 clusión social o laboral, recogida en el artículo 23, siempre que tengan autorización previa
 para impartir la oferta que corresponda los programas formativos. Estos centros se consi-
 derarán como centros de segunda oportunidad, conforme a lo establecido en el artículo 206
-del Real Decreto 659/2023, de 18 de julio.
+del [Real Decreto 659/2023](../../canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio.
 #### Artículo 60
 Autorización de centros privados
 1.
 La autorización o, en su caso, acreditación de los centros privados del Sistema de
 Formación Profesional, incluyendo los centros a los que se hace referencia en el capítulo II
-del título VIII del Real Decreto 659/2023, de 18 de julio, se regirá por el principio de auto-
+del título VIII del [Real Decreto 659/2023](../../canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, se regirá por el principio de auto-
 rización administrativa previa y atenderá a la normativa vigente.
 2.
 Los centros privados del Sistema de Formación Profesional que soliciten la auto-
 rización para impartir alguna de las ofertas formativas no deben estar afectados por las cir-
-cunstancias limitantes recogidas en el artículo 198 del Real Decreto 659/2023, de 18 de ju-
+cunstancias limitantes recogidas en el artículo 198 del [Real Decreto 659/2023](../../canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de ju-
 lio, que impidan la autorización.
 #### Artículo 61
 Autorización para impartir ofertas en las modalidades semipresencial y virtual
@@ -2467,7 +2490,7 @@ aportaciones de los alumnos y familias, más allá de las legalmente establecida
 supondrán incremento en el cupo de profesores ni de las ratios generales fijadas para cada
 ejercicio en los presupuestos generales de la Comunidad de Madrid, ni cualquier otra exi-
 gencia para la Administración educativa, conforme a lo dispuesto en el artículo 120.4 de la
-Ley Orgánica 2/2006, de 3 de mayo.
+[Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo.
 #### Artículo 65
 Tutoría y orientación
 1.
@@ -2683,7 +2706,7 @@ de las iniciativas previstas.
 Orientación profesional y educativa
 #### Artículo 72
 Información y orientación profesional
-De conformidad con lo dispuesto en el artículo 190 del Real Decreto 659/2023, la
+De conformidad con lo dispuesto en el artículo 190 del [Real Decreto 659/2023](../../canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), la
 orientación profesional del Sistema de Formación Profesional tendrá la finalidad de facili-
 tar información y asesoramiento, sobre las oportunidades que ofrece la formación profesio-
 nal, también orientar sobre los posibles itinerarios formativos y profesionales que se adap-
@@ -2708,7 +2731,7 @@ xible para adaptarse a sus necesidades y garantizar la adquisición de las compe
 
 JUEVES 22 DE MAYO DE 2025
 BOCM
-rrespondientes, conforme a lo dispuesto en el Decreto 23/2023, de 22 de marzo, del Consejo
+rrespondientes, conforme a lo dispuesto en el [Decreto 23/2023](../06_atencion_diversidad_y_orientacion/D23_2023_atencion_diferencias_individuales_alumnos_madrid.md), de 22 de marzo, del Consejo
 de Gobierno, por el que se regula la atención educativa las diferencias individuales del
 alumnado en la Comunidad de Madrid.
 3.
@@ -2834,7 +2857,7 @@ b)
 Estar en posesión del título de Técnico de Formación Profesional.
 c)
 Estar en posesión del título de Bachiller superior expedido conforme a los planes
-educativos anteriores a la Ley Orgánica 2/2006, de 3 de mayo.
+educativos anteriores a la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo.
 d)
 Haber superado el segundo curso del primer ciclo experimental de reforma de las
 enseñanzas medias.
@@ -2868,7 +2891,7 @@ de grado superior establecidos en el apartado 2.
 Podrán acceder a ciclos formativos de grado superior, además de quienes reúnan los
 requisitos recogidos en el artículo 30, quienes reúnan alguna de las siguientes condiciones:
 a)
-Estar en posesión del título de Bachiller establecido en la Ley Orgánica 1/1990, de 3
+Estar en posesión del título de Bachiller establecido en la [Ley Orgánica 1/1990](../../../estatal/02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md), de 3
 de octubre, de Ordenación General del Sistema Educativo.
 b)
 Estar en posesión de título de Bachiller Unificado Polivalente, o haber completado
@@ -2903,7 +2926,7 @@ tes a efectos académicos por la normativa básica del Estado en esta materia, e
 ciones que establezca el Gobierno de la nación.
 #### DISPOSICIÓN DEROGATORIA ÚNICA
 Derogación normativa
-Queda derogado el Decreto 63/2019, de 16 de julio, del Consejo de Gobierno, por el
+Queda derogado el [Decreto 63/2019](./D63_2019_ordenacion_organizacion_formacion_profesional_madrid.md), de 16 de julio, del Consejo de Gobierno, por el
 que se regula la ordenación y organización de la formación profesional en la Comunidad de
 Madrid.
 #### DISPOSICIÓN FINAL PRIMERA

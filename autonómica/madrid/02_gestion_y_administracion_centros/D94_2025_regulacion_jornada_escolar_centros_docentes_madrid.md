@@ -25,8 +25,23 @@ tags:
 - horarios
 - centros_docentes
 - madrid
+fundamentos_derecho:
+- norma_id: norm-can-l-4-2023
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-mad-d-52-2021
+- norma_id: norm-mad-l1-1983-gobierno-administracion-comunidad-madrid
+- norma_id: norm-mad-l4-2023
+- norma_id: norm-mad-o11994-2012-regulacion-jornada-escolar-centros-infantil-primaria-madrid
+- norma_id: norm-mad-d-36-2022
+- norma_id: norm-mad-d-61-2022
+- norma_id: norm-mad-o-502-2013
+- norma_id: norm-es-l-39-2015
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-rd-157-2022
+- norma_id: norm-es-rd-95-2022
+- norma_id: norm-es-2010-12201
 ---
-
 # Decreto 94/2025, de 23 de diciembre, del Consejo de Gobierno, por el que se regula la jornada escolar en los centros docentes que imparten segundo ciclo de Educación Infantil y Educación Primaria y en centros de Educación Especial en la Comunidad de Madrid
 
 ## Preámbulo
@@ -44,7 +59,7 @@ Autonomía, en el desarrollo legislativo y ejecución de la enseñanza en toda s
 niveles y grados, modalidades y especialidades, de acuerdo con lo dispuesto en el artículo
 27 de la Constitución española y leyes orgánicas que, conforme a su artículo 81.1, lo desa-
 rrollen, y sin perjuicio de las facultades que atribuye al Estado el artículo 149.
-El artículo 120.4 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación señala que:
+El artículo 120.4 de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación señala que:
 “Los centros, en el ejercicio de su autonomía, pueden adoptar experimentaciones, innova-
 ciones pedagógicas, programas educativos, planes de trabajo, formas de organización, nor-
 mas de convivencia o ampliación del calendario escolar o del horario lectivo de ámbitos,
@@ -52,26 +67,26 @@ mas de convivencia o ampliación del calendario escolar o del horario lectivo de
 de las posibilidades que permita la normativa aplicable, incluida la laboral, sin que, en nin-
 gún caso, suponga discriminación de ningún tipo, ni se impongan aportaciones a las fami-
 lias ni exigencias para las Administraciones educativas”.
-Dicha posibilidad es igualmente reconocida en el artículo 21.6 del Real Decreto 157/2022,
+Dicha posibilidad es igualmente reconocida en el artículo 21.6 del [Real Decreto 157/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD157_2022_establecen_ordenacion_ensenanzas_minimas_educacion_primaria.md),
 de 1 de marzo, por el que se establecen la ordenación y las enseñanzas mínimas de la Educa-
 ción Primaria.
-Por su parte, el artículo 14.1 del Real Decreto 95/2022, de 1 de febrero, por el que se
+Por su parte, el artículo 14.1 del [Real Decreto 95/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD95_2022_establece_ordenacion_ensenanzas_minimas_educacion_infantil.md), de 1 de febrero, por el que se
 establece la ordenación y las enseñanzas mínimas de la Educación Infantil, declara que las
 Administraciones Públicas fomentarán la autonomía organizativa de los centros.
-En la Comunidad de Madrid, el artículo 28.1 del Decreto 61/2022, de 13 de julio, del
+En la Comunidad de Madrid, el artículo 28.1 del [Decreto 61/2022](../03_ordenacion_curricular_y_ensenanzas/D61_2022_ordenacion_curriculo_educacion_primaria_madrid.md), de 13 de julio, del
 Consejo de Gobierno, por el que se establece para la Comunidad de Madrid la ordenación
 y el currículo de la etapa de la Educación Primaria, reitera el principio de autonomía orga-
 nizativa de los centros y, en su apartado 7, añade que “tendrán autonomía para organizar los
 espacios y los tiempos, y para promover y acordar metodologías que favorezcan la ense-
 ñanza personalizada y mejoren los resultados de aprendizaje de todo el alumnado”. En tér-
-minos similares, se pronuncia el artículo 17, apartados 1 y 5, del Decreto 36/2022, de 8 de
+minos similares, se pronuncia el artículo 17, apartados 1 y 5, del [Decreto 36/2022](../03_ordenacion_curricular_y_ensenanzas/D36_2022_ordenacion_curriculo_educacion_infantil_madrid.md), de 8 de
 junio, del Consejo de Gobierno, por el que se establece para la Comunidad de Madrid la or-
 denación y el currículo de la etapa de la Educación Infantil.
 La jornada escolar en los centros docentes que imparten el segundo ciclo de Educación In-
-fantil y Educación Primaria en la Comunidad de Madrid está regulada por la Orden 11994/2012,
+fantil y Educación Primaria en la Comunidad de Madrid está regulada por la [Orden 11994/2012](./O11994_2012_regulacion_jornada_escolar_centros_infantil_primaria_madrid.md),
 de 21 de diciembre, de la Consejería de Educación, Juventud y Deporte, por la que se regula la
 jornada escolar en los centros docentes que imparten segundo ciclo de Infantil y Educación Pri-
-maria en la Comunidad de Madrid, y la Orden 502/2013, de 25 de febrero, de la Consejería de
+maria en la Comunidad de Madrid, y la [Orden 502/2013](../04_organizacion_escolar_y_funcionamiento/O502_2013_procedimiento_implantacion_jornada_escolar_continuada_infantil_primaria_madrid.md), de 25 de febrero, de la Consejería de
 Educación, Juventud y Deporte, por la que se regula el procedimiento a seguir para solicitar el
 cambio de jornada escolar en los centros públicos que imparten segundo ciclo de Infantil y Edu-
 cación Primaria en la Comunidad de Madrid.
@@ -93,7 +108,7 @@ Por todo ello, para lograr mejorar la calidad de la enseñanza, y proteger a ni�
 venes, ayudándolos a afrontar los problemas que se encuentran para crecer y formarse, en-
 tre otras medidas, la Comunidad de Madrid quiere fomentar la jornada partida en los cole-
 gios públicos.
-El interés superior del menor, tal como se recoge en la Ley 4/2023, de 22 de marzo, de
+El interés superior del menor, tal como se recoge en la [Ley 4/2023](../../canarias/01_marco_normativo_general_y_organico/L4_2023_presidencia_gobierno_canarias.md), de 22 de marzo, de
 Derechos, Garantías y Protección Integral de la Infancia y la Adolescencia de la Comuni-
 dad de Madrid, impulsa a la consejería competente en materia educativa a revisar la actual
 normativa, y ajustar la regulación de la jornada escolar en los centros educativos de Educa-
@@ -118,8 +133,8 @@ más, regula la participación de las familias, y detalla los pasos necesarios p
 del horario lectivo, teniendo en cuenta las necesidades pedagógicas de los estudiantes.
 III
 El presente decreto se adecúa a los principios de buena regulación, de acuerdo con lo
-previsto en el artículo 129 de la Ley 39/2015 de 1 de octubre, del Procedimiento Adminis-
-trativo Común de las Administraciones Públicas, y en el artículo 2 del Decreto 52/2021, de
+previsto en el artículo 129 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) de 1 de octubre, del Procedimiento Adminis-
+trativo Común de las Administraciones Públicas, y en el artículo 2 del [Decreto 52/2021](../01_marco_normativo_general_y_organico/D52_2021_procedimiento_elaboracion_disposiciones_normativas_madrid.md), de
 24 de marzo, del Consejo de Gobierno, por el que se regula y simplifica el procedimiento
 de elaboración de las disposiciones normativas de carácter general de la Comunidad de
 Madrid.
@@ -136,7 +151,7 @@ rídico sólido y coherente.
 También cumple con el principio de transparencia, habiéndose realizado los trámites
 de consulta, audiencia e información pública, de conformidad con lo dispuesto en los ar-
 tículos 60.2 de la Ley 10/2019, de 10 de abril, de Transparencia y de Participación de la Co-
-munidad de Madrid, y 4.2.d) y 9 del Decreto 52/2021, de 24 de marzo, y, una vez aproba-
+munidad de Madrid, y 4.2.d) y 9 del [Decreto 52/2021](../01_marco_normativo_general_y_organico/D52_2021_procedimiento_elaboracion_disposiciones_normativas_madrid.md), de 24 de marzo, y, una vez aproba-
 do el decreto, se publica en el Portal de Transparencia.
 Por último, en aplicación del principio de eficiencia, no impone cargas administrativas
 innecesarias o accesorias, ni modifica las existentes,
@@ -146,7 +161,7 @@ la Abogacía General.
 
 BOCM
 El Consejo de Gobierno de la Comunidad de Madrid es competente para dictar el pre-
-sente Decreto, de acuerdo con lo establecido en el artículo 21.g) de la Ley 1/1983 de 13 de
+sente Decreto, de acuerdo con lo establecido en el artículo 21.g) de la [Ley 1/1983](../01_marco_normativo_general_y_organico/L1_1983_gobierno_administracion_comunidad_madrid.md) de 13 de
 diciembre, del Gobierno y Administración de la Comunidad de Madrid.
 En su virtud, a propuesta del Consejero de Educación, Ciencia y Universidades, de
 acuerdo con la Comisión Jurídica Asesora, el Consejo de Gobierno, previa deliberación en
@@ -374,12 +389,12 @@ bien, directamente, recurso contencioso-administrativo ante la jurisdicción com
 Quedan derogadas cuantas normas de igual o inferior rango en lo que se oponga a lo
 establecido en este decreto, y en particular:
 a)
-Orden 11994/2012, de 21 de diciembre, de la Consejería de Educación, Juventud y
+[Orden 11994/2012](./O11994_2012_regulacion_jornada_escolar_centros_infantil_primaria_madrid.md), de 21 de diciembre, de la Consejería de Educación, Juventud y
 Deporte, por la que se regula la jornada escolar en los centros docentes que impar-
 ten segundo ciclo de Educación Infantil y Educación Primaria en la Comunidad
 de Madrid.
 b)
-Orden 502/2013, de 25 de febrero, de la Consejería de Educación, Juventud y De-
+[Orden 502/2013](../04_organizacion_escolar_y_funcionamiento/O502_2013_procedimiento_implantacion_jornada_escolar_continuada_infantil_primaria_madrid.md), de 25 de febrero, de la Consejería de Educación, Juventud y De-
 porte, por la que se regula el procedimiento a seguir para solicitar el cambio de jor-
 nada escolar en los centros públicos que imparten segundo ciclo de Educación In-
 fantil y Educación Primaria en la Comunidad de Madrid.

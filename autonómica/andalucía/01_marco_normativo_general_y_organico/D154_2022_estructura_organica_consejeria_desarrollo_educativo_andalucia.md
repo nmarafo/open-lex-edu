@@ -59,15 +59,21 @@ relaciones:
   - norma_id: norm-and-d-1-2011
     articulos_origen:
     - D. Transitoria cuarta. Política de seguridad TIC.
+fundamentos_derecho:
+- norma_id: norm-and-l12-2007-promocion-igualdad-genero-andalucia
+- norma_id: norm-and-l17-2007
+- norma_id: norm-and-l6-2006-gobierno-comunidad-autonoma-andalucia
+- norma_id: norm-and-l9-2007-administracion-junta-andalucia-laja
+- norma_id: norm-and-l9-1999-solidaridad-en-la-educacion-andalucia
+- norma_id: norm-es-l-39-2015
 ---
-
 # Decreto 154/2022, de 9 de agosto, por el que se establece la estructura orgánica de la Consejería de Desarrollo Educativo y Formación Profesional
 
 ## Preámbulo
 
 Decreto 154/2022, de 9 de agosto, por el que se establece la estructura orgánica de la Consejería de Desarrollo Educativo y Formación Profesional.
 
-Decreto del Presidente 10/2022, de 25 de julio, sobre reestructuración de Consejerías, establece que corresponden a la Consejería de Desarrollo Educativo y Formación Profesional las competencias que actualmente tiene atribuidas la Consejería de Educación y Deporte, salvo las competencias en materia de deporte. Asimismo, se mantienen las entidades actualmente adscritas a la Consejería de Educación y Deporte, salvo el Instituto Andaluz del Deporte, el Centro Andaluz de Medicina del Deporte, la Fundación Andalucía Olímpica y el Tribunal Administrativo del Deporte. Para la aplicación e impulso de las medidas que se deben desarrollar en este marco, así como para adecuar el organigrama de la Consejería a la distribución de competencias establecida en el mencionado Decreto del Presidente 10/2022, de 25 de julio, se hace preciso aprobar la estructura orgánica de la Consejería de Desarrollo Educativo y Formación Profesional. El presente decreto responde a la conveniencia de seguir introduciendo criterios de eficiencia y racionalización en el ámbito organizativo del sector público andaluz, para lo que se han reordenado las competencias de la Consejería de Desarrollo Educativo y Formación Profesional, creándose dos Secretarías Generales, una denominada de Desarrollo Educativo y otra denominada de Formación Profesional y Tecnologías Avanzadas. Orgánicamente, dependen de la primera las Direcciones Generales de Planificación, Centros y Enseñanza Concertada, la del Profesorado y Gestión de Recursos Humanos y la de Ordenación, Inclusión, Participación y Evaluación Educativa. De la segunda, dependen dos Direcciones Generales, la de Formación Profesional por un lado, y la de Tecnologías Avanzadas y Transformación Educativa por el otro. Mientras no se proceda a su extinción, el Instituto de Enseñanzas a Distancia de Andalucía continuará adscrito transitoriamente a la Dirección General de Formación Profesional. Asimismo, el Consorcio de Ciencia Principia continuará adscrito a la Consejería a través de la Delegación Territorial en Málaga. Siendo uno de los objetivos de la Comunidad Autónoma Andaluza el promover una sociedad igualitaria entre mujeres y hombres, se ha tenido en cuenta la integración transversal del principio de igualdad de género en el presente decreto, en cumplimiento de lo establecido en la Ley 12/2007, de 26 de noviembre, para la promoción de la igualdad de género en Andalucía. En la elaboración de la presente norma se han respetado los principios de buena regulación previstos en el artículo 129 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas. En relación a la necesidad y la eficacia, la iniciativa normativa está justificada debido a la necesidad de aprobar la estructura orgánica de la Consejería de Desarrollo Educativo y Formación Profesional, se establece una identificación clara de los fines perseguidos y es el instrumento más adecuado para garantizar su consecución. En relación a la proporcionalidad, la norma contiene la regulación imprescindible para atender la necesidad a cubrir, habiéndose constatado que no existen otras medidas menos restrictivas de derechos, o que impongan menos obligaciones a los destinatarios. En cuanto a la seguridad jurídica, se ejerce la iniciativa normativa de manera coherente con el resto del ordenamiento jurídico y de acuerdo a la distribución de competencias establecida en el Decreto del Presidente 10/2022, de 25 de julio, sobre reestructuración de Consejerías. En cuanto a la transparencia, con arreglo a la normativa vigente en la materia, esta disposición y todo el expediente será publicado en el Portal de la Transparencia, en el momento procedimental oportuno. Por último, en cuanto a la eficiencia en la utilización de los recursos económicos disponibles, se ha establecido una dimensión adecuada de la estructura, que conlleva no ampliar el número de altos cargos con respecto al decreto de estructura anterior. Por otra parte, de conformidad con lo previsto en el artículo 45.1 f) de la Ley 6/2006, de 24 de octubre, del Gobierno de la Comunidad Autónoma de Andalucía, y en el artículo 133.4 párrafo primero de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, se prescinde de los trámites de consulta pública previa y de audiencia e información pública, por tratarse de norma organizativa de la Administración de la Comunidad Autónoma. De conformidad con lo establecido en el artículo 24.1 de la Ley 9/2007, de 22 de octubre, de la Administración de la Junta de Andalucía, a propuesta de la Consejera de Desarrollo Educativo y Formación Profesional, previo informe de las Consejerías competentes en materia de hacienda y de administración pública y previa deliberación del Consejo de Gobierno, en su reunión del día 9 de agosto de 2022, DISPONGO:
+Decreto del Presidente 10/2022, de 25 de julio, sobre reestructuración de Consejerías, establece que corresponden a la Consejería de Desarrollo Educativo y Formación Profesional las competencias que actualmente tiene atribuidas la Consejería de Educación y Deporte, salvo las competencias en materia de deporte. Asimismo, se mantienen las entidades actualmente adscritas a la Consejería de Educación y Deporte, salvo el Instituto Andaluz del Deporte, el Centro Andaluz de Medicina del Deporte, la Fundación Andalucía Olímpica y el Tribunal Administrativo del Deporte. Para la aplicación e impulso de las medidas que se deben desarrollar en este marco, así como para adecuar el organigrama de la Consejería a la distribución de competencias establecida en el mencionado Decreto del Presidente 10/2022, de 25 de julio, se hace preciso aprobar la estructura orgánica de la Consejería de Desarrollo Educativo y Formación Profesional. El presente decreto responde a la conveniencia de seguir introduciendo criterios de eficiencia y racionalización en el ámbito organizativo del sector público andaluz, para lo que se han reordenado las competencias de la Consejería de Desarrollo Educativo y Formación Profesional, creándose dos Secretarías Generales, una denominada de Desarrollo Educativo y otra denominada de Formación Profesional y Tecnologías Avanzadas. Orgánicamente, dependen de la primera las Direcciones Generales de Planificación, Centros y Enseñanza Concertada, la del Profesorado y Gestión de Recursos Humanos y la de Ordenación, Inclusión, Participación y Evaluación Educativa. De la segunda, dependen dos Direcciones Generales, la de Formación Profesional por un lado, y la de Tecnologías Avanzadas y Transformación Educativa por el otro. Mientras no se proceda a su extinción, el Instituto de Enseñanzas a Distancia de Andalucía continuará adscrito transitoriamente a la Dirección General de Formación Profesional. Asimismo, el Consorcio de Ciencia Principia continuará adscrito a la Consejería a través de la Delegación Territorial en Málaga. Siendo uno de los objetivos de la Comunidad Autónoma Andaluza el promover una sociedad igualitaria entre mujeres y hombres, se ha tenido en cuenta la integración transversal del principio de igualdad de género en el presente decreto, en cumplimiento de lo establecido en la [Ley 12/2007](./L12_2007_promocion_igualdad_genero_andalucia.md), de 26 de noviembre, para la promoción de la igualdad de género en Andalucía. En la elaboración de la presente norma se han respetado los principios de buena regulación previstos en el artículo 129 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas. En relación a la necesidad y la eficacia, la iniciativa normativa está justificada debido a la necesidad de aprobar la estructura orgánica de la Consejería de Desarrollo Educativo y Formación Profesional, se establece una identificación clara de los fines perseguidos y es el instrumento más adecuado para garantizar su consecución. En relación a la proporcionalidad, la norma contiene la regulación imprescindible para atender la necesidad a cubrir, habiéndose constatado que no existen otras medidas menos restrictivas de derechos, o que impongan menos obligaciones a los destinatarios. En cuanto a la seguridad jurídica, se ejerce la iniciativa normativa de manera coherente con el resto del ordenamiento jurídico y de acuerdo a la distribución de competencias establecida en el Decreto del Presidente 10/2022, de 25 de julio, sobre reestructuración de Consejerías. En cuanto a la transparencia, con arreglo a la normativa vigente en la materia, esta disposición y todo el expediente será publicado en el Portal de la Transparencia, en el momento procedimental oportuno. Por último, en cuanto a la eficiencia en la utilización de los recursos económicos disponibles, se ha establecido una dimensión adecuada de la estructura, que conlleva no ampliar el número de altos cargos con respecto al decreto de estructura anterior. Por otra parte, de conformidad con lo previsto en el artículo 45.1 f) de la [Ley 6/2006](./L6_2006_gobierno_comunidad_autonoma_andalucia.md), de 24 de octubre, del Gobierno de la Comunidad Autónoma de Andalucía, y en el artículo 133.4 párrafo primero de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, se prescinde de los trámites de consulta pública previa y de audiencia e información pública, por tratarse de norma organizativa de la Administración de la Comunidad Autónoma. De conformidad con lo establecido en el artículo 24.1 de la [Ley 9/2007](./L9_2007_administracion_junta_andalucia_laja.md), de 22 de octubre, de la Administración de la Junta de Andalucía, a propuesta de la Consejera de Desarrollo Educativo y Formación Profesional, previo informe de las Consejerías competentes en materia de hacienda y de administración pública y previa deliberación del Consejo de Gobierno, en su reunión del día 9 de agosto de 2022, DISPONGO:
 
 #### Artículo . #### Artículo 1. Competencias de la Consejería de Desarrollo Educativo y Formación Profesional. Corresponde a la Consejería de Desarrollo Educativo y Formación Profesional la regulación y administración de la enseñanza no universitaria en toda su extensión, niveles y grados, modalidades y especialidades, en la Comunidad Autónoma de Andalucía.
 
@@ -106,7 +112,7 @@ d) El Observatorio para la Convivencia Escolar en Andalucía, a través de la Di
 
 #### Artículo 3. Régimen de suplencias.
 
-1. La suplencia de la persona titular de la Consejería le corresponde a la persona titular de la Viceconsejería, sin perjuicio de lo dispuesto en el artículo 27.1.b) de la Ley 9/2007, de 22 de octubre, de la Administración de la Junta de Andalucía.
+1. La suplencia de la persona titular de la Consejería le corresponde a la persona titular de la Viceconsejería, sin perjuicio de lo dispuesto en el artículo 27.1.b) de la [Ley 9/2007](./L9_2007_administracion_junta_andalucia_laja.md), de 22 de octubre, de la Administración de la Junta de Andalucía.
 
 2. En caso de producirse vacante, ausencia o enfermedad de la persona titular de la Viceconsejería, esta será suplida por la persona titular de la Secretaría General de Desarrollo Educativo y, en su defecto, por la persona titular del órgano directivo que corresponda según el orden establecido en el artículo 2.1. 3. En caso de vacante, ausencia o enfermedad de la persona titular de la Secretaría General Técnica, esta será suplida por la persona titular de la Viceconsejería.
 
@@ -116,13 +122,13 @@ d) El Observatorio para la Convivencia Escolar en Andalucía, a través de la Di
 
 #### Artículo 4. Viceconsejería.
 
-1. De acuerdo con lo recogido en el artículo 27.1 de la Ley 9/2007, de 22 de octubre, a la persona titular de la Viceconsejería, como superior órgano directivo, sin perjuicio de las competencias asignadas a la persona titular de la Consejería, le corresponde:
+1. De acuerdo con lo recogido en el artículo 27.1 de la [Ley 9/2007](./L9_2007_administracion_junta_andalucia_laja.md), de 22 de octubre, a la persona titular de la Viceconsejería, como superior órgano directivo, sin perjuicio de las competencias asignadas a la persona titular de la Consejería, le corresponde:
 a) La representación ordinaria de la Consejería, después de su titular, y la delegación general de este.
-b) La suplencia de la persona titular de la Consejería en los asuntos propios de esta, sin perjuicio de las facultades de la persona titular de la Presidencia de la Junta de Andalucía a que se refiere la Ley 6/2006, de 24 de octubre, del Gobierno de la Comunidad Autónoma de Andalucía.
+b) La suplencia de la persona titular de la Consejería en los asuntos propios de esta, sin perjuicio de las facultades de la persona titular de la Presidencia de la Junta de Andalucía a que se refiere la [Ley 6/2006](./L6_2006_gobierno_comunidad_autonoma_andalucia.md), de 24 de octubre, del Gobierno de la Comunidad Autónoma de Andalucía.
 c) Formar parte de la Comisión General de Viceconsejeros y Viceconsejeras.
 d) La dirección, coordinación y control de los servicios comunes y de los órganos que le son dependientes.
 
-2. Asimismo, de acuerdo con lo recogido en el artículo 27.2 de la Ley 9/2007, de 22 de octubre, le corresponden las siguientes competencias en el ámbito de la Consejería:
+2. Asimismo, de acuerdo con lo recogido en el artículo 27.2 de la [Ley 9/2007](./L9_2007_administracion_junta_andalucia_laja.md), de 22 de octubre, le corresponden las siguientes competencias en el ámbito de la Consejería:
 a) Asistir a la persona titular de la Consejería en el control de eficacia respecto de la actuación de los órganos directivos de la misma, así como de las entidades públicas dependientes.
 b) El asesoramiento a la persona titular de la Consejería en el desarrollo de las funciones que a esta le corresponden y, en particular, en el ejercicio de su potestad normativa y en la producción de los actos administrativos, así como a los demás órganos de la Consejería.
 c) Supervisar el funcionamiento coordinado de todos los órganos de la Consejería.
@@ -160,7 +166,7 @@ b) El Consorcio Parque de las Ciencias.
 
 #### Artículo 5. Secretaría General de Desarrollo Educativo.
 
-1. De acuerdo con lo recogido en el artículo 28.1 de la Ley 9/2007, de 22 de octubre, a la persona titular de la Secretaría General de Desarrollo Educativo le corresponde, sin perjuicio de las competencias asignadas a la persona titular de la Viceconsejería, la dirección, coordinación y control de la actividad de la Consejería en materia de educación no universitaria, en relación con las competencias asignadas a los órganos directivos bajo su dependencia.
+1. De acuerdo con lo recogido en el artículo 28.1 de la [Ley 9/2007](./L9_2007_administracion_junta_andalucia_laja.md), de 22 de octubre, a la persona titular de la Secretaría General de Desarrollo Educativo le corresponde, sin perjuicio de las competencias asignadas a la persona titular de la Viceconsejería, la dirección, coordinación y control de la actividad de la Consejería en materia de educación no universitaria, en relación con las competencias asignadas a los órganos directivos bajo su dependencia.
 
 2. En particular, son competencias de esta Secretaría General:
 a) La coordinación general de la ejecución de las políticas educativas en enseñanzas no universitarias, que corresponden a los órganos directivos adscritos a esta.
@@ -189,7 +195,7 @@ c) La Dirección General de Ordenación, Inclusión, Participación y Evaluació
 
 #### Artículo 6. Secretaría General de Formación Profesional y Tecnologías Avanzadas.
 
-1. De acuerdo con lo recogido en el artículo 28.1 de la Ley 9/2007, de 22 de octubre, a la persona titular de la Secretaría General de Formación Profesional y Tecnologías Avanzadas le corresponde, sin perjuicio de las competencias asignadas a la persona titular de la Viceconsejería, la dirección, coordinación y control de la actividad de la Consejería en materia de educación no universitaria, en relación con las competencias asignadas a los órganos directivos bajo su dependencia.
+1. De acuerdo con lo recogido en el artículo 28.1 de la [Ley 9/2007](./L9_2007_administracion_junta_andalucia_laja.md), de 22 de octubre, a la persona titular de la Secretaría General de Formación Profesional y Tecnologías Avanzadas le corresponde, sin perjuicio de las competencias asignadas a la persona titular de la Viceconsejería, la dirección, coordinación y control de la actividad de la Consejería en materia de educación no universitaria, en relación con las competencias asignadas a los órganos directivos bajo su dependencia.
 
 2. En particular, son competencias de esta Secretaría General:
 a) La coordinación general de la ejecución de las políticas educativas en enseñanzas no universitarias, que corresponden a los órganos directivos adscritos a esta.
@@ -212,7 +218,7 @@ b) La Dirección General de Tecnologías Avanzadas y Transformación Educativa.
 
 #### Artículo 7. Secretaría General Técnica.
 
-1. De acuerdo con lo recogido en el artículo 29 de la Ley 9/2007, de 22 de octubre, la persona titular de la Secretaría General Técnica tiene las siguientes competencias:
+1. De acuerdo con lo recogido en el artículo 29 de la [Ley 9/2007](./L9_2007_administracion_junta_andalucia_laja.md), de 22 de octubre, la persona titular de la Secretaría General Técnica tiene las siguientes competencias:
 a) Impulsar, coordinar y supervisar el buen funcionamiento de los órganos y unidades administrativas de la Secretaría General Técnica, así como del personal integrado en ellas.
 b) La tramitación, informe y, en su caso, elaboración de las disposiciones de carácter general de la Consejería.
 c) La asistencia jurídico-administrativa y el apoyo administrativo a todos los órganos de la Consejería.
@@ -245,11 +251,11 @@ a) La coordinación y el seguimiento presupuestario de los ingresos procedentes 
 b) La coordinación de la gestión económica y presupuestaria y el control de la ejecución del gasto de los fondos de la Unión Europea, coordinando a estos efectos a las entidades instrumentales dependientes de la Consejería.
 c) La supervisión y evaluación del funcionamiento regular y de la correcta aplicación de las medidas de prevención, detección y corrección en relación con los riesgos que afectan a la ejecución de actuaciones financiadas con Fondos de la Unión Europea y el asesoramiento sobre medidas antifraude a las Unidades Administrativas.
 
-3. La persona titular de la Secretaría General Técnica tendrá rango de Director General, según lo establecido en el artículo 29.1 de la Ley 9/2007, de 22 de octubre.
+3. La persona titular de la Secretaría General Técnica tendrá rango de Director General, según lo establecido en el artículo 29.1 de la [Ley 9/2007](./L9_2007_administracion_junta_andalucia_laja.md), de 22 de octubre.
 
 #### Artículo 8. Dirección General de Planificación, Centros y Enseñanza Concertada.
 
-1. Corresponden a la persona titular de la Dirección General de Planificación, Centros y Enseñanza Concertada las funciones que determina el artículo 30 de la Ley 9/2007, de 22 de octubre.
+1. Corresponden a la persona titular de la Dirección General de Planificación, Centros y Enseñanza Concertada las funciones que determina el artículo 30 de la [Ley 9/2007](./L9_2007_administracion_junta_andalucia_laja.md), de 22 de octubre.
 
 2. En particular, son competencias de esta Dirección General:
 a) La planificación de los centros docentes cuya titularidad corresponda a la Administración de la Junta de Andalucía y de las enseñanzas que se imparten en los mismos.
@@ -275,7 +281,7 @@ r) Cualesquiera otras competencias que le atribuya la legislación vigente.
 
 #### Artículo 9. Dirección General del Profesorado y Gestión de Recursos Humanos.
 
-1. Corresponden a la persona titular de la Dirección General del Profesorado y Gestión de Recursos Humanos las funciones que determina el artículo 30 de la Ley 9/2007, de 22 de octubre.
+1. Corresponden a la persona titular de la Dirección General del Profesorado y Gestión de Recursos Humanos las funciones que determina el artículo 30 de la [Ley 9/2007](./L9_2007_administracion_junta_andalucia_laja.md), de 22 de octubre.
 
 2. En particular, son competencias de esta Dirección General:
 a) La gestión de las ofertas de empleo público y de las convocatorias de pruebas de acceso, respecto del personal docente no universitario.
@@ -294,7 +300,7 @@ m) Cualesquiera otras competencias que le atribuya la legislación vigente.
 
 #### Artículo 10. Dirección General de Ordenación, Inclusión, Participación y Evaluación Educativa.
 
-1. Corresponden a la persona titular de la Dirección General de Ordenación, Inclusión, Participación y Evaluación Educativa las funciones que determina el artículo 30 de la Ley 9/2007, de 22 de octubre.
+1. Corresponden a la persona titular de la Dirección General de Ordenación, Inclusión, Participación y Evaluación Educativa las funciones que determina el artículo 30 de la [Ley 9/2007](./L9_2007_administracion_junta_andalucia_laja.md), de 22 de octubre.
 
 2. En particular, son competencias de esta Dirección General en materia de ordenación y evaluación educativa:
 a) La propuesta de elaboración de las normas sobre organización y funcionamiento de los centros docentes, así como la coordinación y seguimiento de las mismas.
@@ -310,26 +316,26 @@ j) La ordenación y gestión del programa de gratuidad de los libros de texto de
 k) La supervisión y selección de los libros de texto y materiales complementarios, así como la coordinación de su registro, en el ámbito de competencias de la Comunidad Autónoma.
 
 3. Son competencias de esta Dirección General, en materia de inclusión:
-a) El diseño, desarrollo y ejecución de las actuaciones y programas destinados a atender al alumnado con necesidades específicas de apoyo educativo a que se refiere el artículo 113 de la Ley 17/2007, de 10 de diciembre.
+a) El diseño, desarrollo y ejecución de las actuaciones y programas destinados a atender al alumnado con necesidades específicas de apoyo educativo a que se refiere el artículo 113 de la [Ley 17/2007](./L17_2007_educacion_andalucia_lea.md), de 10 de diciembre.
 b) El diseño, desarrollo y ejecución de las actuaciones y programas destinados al refuerzo de las competencias en matemáticas, lengua y lenguas extranjeras.
-c) En general, la programación y ejecución de las acciones que potencien el ejercicio de la inclusión y la equidad en la escuela, en cumplimiento de lo dispuesto en la Ley 17/2007, de 10 de diciembre, en la Ley 9/1999, de 18 de noviembre, de Solidaridad en la Educación, y en las disposiciones que las desarrollan.
+c) En general, la programación y ejecución de las acciones que potencien el ejercicio de la inclusión y la equidad en la escuela, en cumplimiento de lo dispuesto en la [Ley 17/2007](./L17_2007_educacion_andalucia_lea.md), de 10 de diciembre, en la [Ley 9/1999](../06_atencion_diversidad_y_orientacion/L9_1999_solidaridad_en_la_educacion_andalucia.md), de 18 de noviembre, de Solidaridad en la Educación, y en las disposiciones que las desarrollan.
 d) La gestión y propuesta de resolución de las becas y ayudas al estudio financiadas con fondos propios, así como la propuesta de desarrollo normativo y la ejecución de las becas y ayudas estatales, en el ámbito de las enseñanzas no universitarias.
 e) La orientación educativa.
 
 4. Son competencias de esta Dirección General, en materia de participación y convivencia:
 a) El fomento de la participación de los agentes sociales en la educación y, en particular, de los distintos sectores de la comunidad educativa en la vida de los centros, desde los consejos escolares, o los Delegados de Padres y Madres hasta los Programas específicos de participación de la comunidad educativa en la gestión de los centros docentes.
 b) La relación de la Consejería de Desarrollo Educativo con las organizaciones representativas del alumnado, de los padres y madres de alumnos y alumnas, con las asociaciones representativas de las necesidades específicas de apoyo educativo, con las asociaciones, entidades e instituciones representativas en materia de igualdad de género, así como la gestión de las ayudas económicas dirigidas a estas, en su caso.
-c) La gestión y el mantenimiento del Censo de Entidades Colaboradoras de la Enseñanza a que se refiere el artículo 180 de la Ley 17/2007, de 10 de diciembre.
+c) La gestión y el mantenimiento del Censo de Entidades Colaboradoras de la Enseñanza a que se refiere el artículo 180 de la [Ley 17/2007](./L17_2007_educacion_andalucia_lea.md), de 10 de diciembre.
 d) La atención de las actividades de formación dirigidas a los padres y madres del alumnado, para un mejor conocimiento del sistema educativo y de la normativa que lo regula, así como la gestión del portal de recursos educativos y formativos destinados a las familias.
 e) La gestión del voluntariado en el ámbito educativo, y de las ayudas económicas establecidas en este ámbito, así como la innovación en el mismo y la coordinación de las políticas educativas con la Consejería competente en materia de voluntariado.
-f) El impulso, la coordinación, la planificación, la gestión y la evaluación de las políticas educativas con perspectiva de género, a través de la Unidad de Género, de acuerdo con lo previsto en el artículo 60 de la Ley 12/2007, de 26 de noviembre, para la promoción de la igualdad de género en Andalucía.
+f) El impulso, la coordinación, la planificación, la gestión y la evaluación de las políticas educativas con perspectiva de género, a través de la Unidad de Género, de acuerdo con lo previsto en el artículo 60 de la [Ley 12/2007](./L12_2007_promocion_igualdad_genero_andalucia.md), de 26 de noviembre, para la promoción de la igualdad de género en Andalucía.
 g) El diseño de medidas y actuaciones destinadas a la promoción de la igualdad de género, la coeducación y la prevención de la violencia de género en el ámbito educativo, así como las acciones de investigación e innovación, destinadas a ese mismo fin.
 h) La ordenación y gestión de las medidas y programas para la promoción de la cultura de paz y la mejora de la convivencia en los centros docentes y la atención a la comunidad educativa y a la ciudadanía en general en cuestiones relativas a la convivencia escolar.
 i) La organización, la gestión y el seguimiento de las actuaciones y medidas de atención a la diversidad en los centros docentes.
 j) La propuesta de elaboración de normas en materia de participación, voluntariado en los centros docentes, orientación educativa, atención a la diversidad, becas y ayudas al estudio, convivencia escolar e igualdad de género, así como la coordinación y seguimiento de las mismas.
 k) La coordinación de las ayudas económicas destinadas a prevenir el absentismo escolar y el abandono temprano del Sistema Educativo así como la implementación, la gestión y el seguimiento de medidas, actuaciones y programas destinados a estas finalidades, incluidos los programas financiados con fondos sociales.
-l) La organización y la gestión de los Programas educativos para la mejora de hábitos de vida deportiva, a los que se refiere el artículo 39 de la Ley 17/2007, de 10 de diciembre, relacionados con el Plan de Deporte Escolar, así como la coordinación con las Consejerías competentes en Deporte y Salud en el seguimiento del mismo.
-m) La coordinación de actuaciones innovadoras en los ámbitos de la inclusión, la participación y la educación en valores en la vida de los centros docentes así como proyectos solidarios de servicio a la comunidad y de mejora del entorno, conforme al artículo 39 de la Ley 17/2007, de 10 de diciembre, con especial atención a la resolución pacífica de conflictos, el impulso a la igualdad entre hombres y mujeres y la erradicación de la violencia de género en los centros docentes.
+l) La organización y la gestión de los Programas educativos para la mejora de hábitos de vida deportiva, a los que se refiere el artículo 39 de la [Ley 17/2007](./L17_2007_educacion_andalucia_lea.md), de 10 de diciembre, relacionados con el Plan de Deporte Escolar, así como la coordinación con las Consejerías competentes en Deporte y Salud en el seguimiento del mismo.
+m) La coordinación de actuaciones innovadoras en los ámbitos de la inclusión, la participación y la educación en valores en la vida de los centros docentes así como proyectos solidarios de servicio a la comunidad y de mejora del entorno, conforme al artículo 39 de la [Ley 17/2007](./L17_2007_educacion_andalucia_lea.md), de 10 de diciembre, con especial atención a la resolución pacífica de conflictos, el impulso a la igualdad entre hombres y mujeres y la erradicación de la violencia de género en los centros docentes.
 n) La atención al alumnado de origen extranjero, especialmente el migrante o refugiado, mediante medidas, programas y ayudas de compensación de las desigualdades así como la coordinación de las políticas educativas en este aspecto con las Consejerías competentes en materia de inmigración y políticas sociales, así como con las entidades de o pro inmigrantes. ñ) El desarrollo de actuaciones de sensibilización, formación e implicación de la comunidad educativa en materia de convivencia escolar.
 o) Diseño, implementación y seguimiento de actuaciones destinadas a la prevención del acoso escolar y del ciberacoso.
 
@@ -357,7 +363,7 @@ d) Cualesquiera otras competencias que le atribuya la legislación vigente.
 
 #### Artículo 11. Dirección General de Formación Profesional.
 
-1. Corresponden a la persona titular de la Dirección General de Formación Profesional las funciones que determina el artículo 30 de la Ley 9/2007, de 22 de octubre.
+1. Corresponden a la persona titular de la Dirección General de Formación Profesional las funciones que determina el artículo 30 de la [Ley 9/2007](./L9_2007_administracion_junta_andalucia_laja.md), de 22 de octubre.
 
 2. En particular, son competencias de esta Dirección General, en materia de oferta y admisión:
 a) La determinación de la oferta formativa de formación profesional inicial para cada curso escolar, en función de las demandas y necesidades del mercado de trabajo y de acuerdo con la planificación establecida por la Dirección General de Planificación, Centros y Enseñanza Concertada.
@@ -411,7 +417,7 @@ b) Cualesquiera otras competencias que le atribuya la legislación vigente.
 
 #### Artículo 12. Dirección General de Tecnologías Avanzadas y Transformación Educativa.
 
-1. Corresponden a la persona titular de la Dirección General de Tecnologías Avanzadas y Transformación Educativa las funciones que determina el artículo 30 de la Ley 9/2007, de 22 de octubre.
+1. Corresponden a la persona titular de la Dirección General de Tecnologías Avanzadas y Transformación Educativa las funciones que determina el artículo 30 de la [Ley 9/2007](./L9_2007_administracion_junta_andalucia_laja.md), de 22 de octubre.
 
 2. En particular, son competencias de esta Dirección General, en materia de innovación:
 a) El impulso de actuaciones de transformación digital en el ámbito educativo, así como, en coordinación con la Agencia Digital de Andalucía, el diseño de la dotación tecnológica para su desarrollo.
@@ -517,7 +523,7 @@ Disposición siguiente
 ### Estructura y Concordancias Granulares
 - **Desarrolla**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) (Art. 129, Art. 45, Art. 133, Art. 24, Art. 1)
 - **Desarrolla**: [**Ley 17/2007, de 10 de diciembre, de Educación de Andalucía (LEA)**](./L17_2007_educacion_andalucia_lea.md) (Art. 113) desde *(Art. 10)*
-- **Desarrolla**: [**Ley 9/1999, de 18 de noviembre, de Solidaridad en la Educación**](../06_atencion_diversidad_y_orientacion/L9_1999_solidaridad_en_la_educacion_andalucia.md) (Art. 113) desde *(Art. 10)*
+- **Desarrolla**: [**[Ley 9/1999](../06_atencion_diversidad_y_orientacion/L9_1999_solidaridad_en_la_educacion_andalucia.md), de 18 de noviembre, de Solidaridad en la Educación**](../06_atencion_diversidad_y_orientacion/L9_1999_solidaridad_en_la_educacion_andalucia.md) (Art. 113) desde *(Art. 10)*
 - **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
 - **Desarrolla**: [**CE_1978 Constitucion Espanola**](../../../estatal/01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
 - **Modifica**: [**D1_2011 Reglamento Disciplina Academica Alumnado Andalucía**](../07_convivencia_bienestar_y_protocolos/D1_2011_reglamento_disciplina_academica_alumnado_andalucia.md) desde *(D. Transitoria cuarta. Política de seguridad TIC.)*

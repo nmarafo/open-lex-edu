@@ -28,8 +28,19 @@ relaciones:
   - norma_id: norm-es-lo-2-2006
   fundamentado_en:
   - norma_id: norm-and-l17-2007
+fundamentos_derecho:
+- norma_id: norm-and-l17-2007
+- norma_id: norm-and-l6-2006-gobierno-comunidad-autonoma-andalucia
+- norma_id: norm-and-l9-2007-administracion-junta-andalucia-laja
+- norma_id: norm-and-d-151-1997
+- norma_id: norm-and-d285-2010-regulacion-sistema-informacion-seneca-andalucia
+- norma_id: norm-and-d-71-2009
+- norma_id: norm-and-d302-2010-ordenacion-funcion-publica-docente-seleccion-provision-andalucia
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
 ---
-
 # Decreto 54/2012, de 6 de marzo, por el que se aprueba el Reglamento Orgánico de las Residencias Escolares de la Comunidad Autónoma de Andalucía.
 
 ## Preámbulo
@@ -56,7 +67,7 @@ la Constitución, a tenor del cual corresponde al Estado dictar
 las normas básicas para el desarrollo del artículo 27 del texto 
 constitucional, a fin de garantizar el cumplimiento de las obli-
 gaciones de los poderes públicos en esta materia.
-El artículo 120.1 de la Ley 17/2007, de 10 de diciembre, 
+El artículo 120.1 de la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre, 
 de Educación de Andalucía, establece que las residencias es-
 colares existentes son centros públicos que acogen en régi-
 men de familia sustitutoria a aquellos alumnos y alumnas que 
@@ -83,7 +94,7 @@ la equidad en la educación, al posibilitar la atención de aquel
 alumnado que tiene dificultades para acceder a los distintos 
 niveles educativos, por carecer de esa oferta educativa en su 
 lugar de origen. 
-Por otra parte, el artículo 120.2 de la Ley 17/2007, de 10 
+Por otra parte, el artículo 120.2 de la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 
 de diciembre, dispone que reglamentariamente se establece-
 rán las normas de acceso, organización y funcionamiento de 
 las residencias escolares, garantizando la participación de la 
@@ -97,7 +108,7 @@ conformidad en lo establecido en el artículo 45.1.c) de la Ley
 tónoma de Andalucía.
 En su virtud, a propuesta del Consejero de Educación, 
 de conformidad con lo establecido en el artículo 27.9 de la 
-Ley 6/2006, de 24 de octubre, de acuerdo con el Consejo 
+[Ley 6/2006](../01_marco_normativo_general_y_organico/L6_2006_gobierno_comunidad_autonoma_andalucia.md), de 24 de octubre, de acuerdo con el Consejo 
 Consultivo de Andalucía y previa deliberación del Consejo de 
 Gobierno en su reunión del día 6 de marzo de 2012, 
 D I S P O N G O
@@ -158,7 +169,7 @@ Los artículos 82.1, 82.2, 82.3a), 83, 84, 85.1a), 85.2,
 glamento que se aprueba por el presente Decreto serán de 
 aplicación al alumnado de enseñanzas obligatorias residente 
 en las escuelas-hogar a las que se refiere el artículo 121 de 
-la Ley 17/2007, de 10 de diciembre. A tales efectos, la orga-
+la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre. A tales efectos, la orga-
 nización más representativa de las personas titulares de las 
 escuelas-hogar en el ámbito de la provincia y la federación de 
 asociaciones de padres y madres del alumnado más represen-
@@ -180,7 +191,7 @@ Decreto 49/1988, de 24 de febrero, por el que se regulan los
 puestos de trabajo de carácter singular del personal docente.
 Disposición adicional sexta. Sistema de Información Séneca. 
 De conformidad con lo dispuesto en el artículo 2.k) del 
-Decreto 285/2010, de 11 de mayo, por el que se regula el Sis-
+[Decreto 285/2010](../02_gestion_y_administracion_centros/D285_2010_regulacion_sistema_informacion_seneca_andalucia.md), de 11 de mayo, por el que se regula el Sis-
 tema de Información Séneca y se establece su utilización para 
 la gestión del sistema educativo andaluz, las residencias esco-
 lares y las escuelas hogar utilizarán el sistema de información 
@@ -497,7 +508,7 @@ las que haya podido ser objeto, así como del Plan de Centro
 establecido por la misma.
 4. Las asociaciones del alumnado residente se inscribirán 
 en el Censo de Entidades Colaboradoras de la Enseñanza, a 
-que se refiere el Decreto 71/2009, de 31 de marzo, por el 
+que se refiere el [Decreto 71/2009](../02_gestion_y_administracion_centros/D71_2009_regula_censo_entidades_colaboradoras_ensenanza_andalucia.md), de 31 de marzo, por el 
 que se regula el Censo de Entidades Colaboradoras de la En-
 señanza.
 TÍTULO II
@@ -506,7 +517,7 @@ Artículo 9. Personal docente de las residencias escolares.
 1. El personal integrante del equipo directivo de las resi-
 dencias escolares, al que se refiere el artículo 71, pertenecerá 
 a los cuerpos de funcionarios docentes establecidos en la dis-
-posición adicional séptima de la Ley Orgánica 2/2006, de 3 
+posición adicional séptima de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 
 de mayo, de Educación.
 2. Las residencias escolares podrán contar para su fun-
 cionamiento con educadores y educadoras de actividades for-
@@ -526,7 +537,7 @@ BOJA núm. 59
 Sevilla, 26 de marzo 2012
 4. El procedimiento de provisión y adjudicación de los 
 puestos a los que se refiere el apartado 3, así como sus efec-
-tos, serán los establecidos en el Decreto 302/2010, de 1 de 
+tos, serán los establecidos en el [Decreto 302/2010](../08_personal_docente/D302_2010_ordenacion_funcion_publica_docente_seleccion_provision_andalucia.md), de 1 de 
 junio, y en su normativa de desarrollo. 
 Artículo 10. Funciones y deberes de los educadores y 
 educadoras.
@@ -732,7 +743,7 @@ ciones de las que haya podido ser objeto, así como del Plan de
 Centro establecido por la misma.
 4. Las asociaciones de madres y padres del alumnado re-
 sidente se inscribirán en el Censo de Entidades Colaboradoras 
-de la Enseñanza, a que se refiere el Decreto 71/2009, de 31 
+de la Enseñanza, a que se refiere el [Decreto 71/2009](../02_gestion_y_administracion_centros/D71_2009_regula_censo_entidades_colaboradoras_ensenanza_andalucia.md), de 31 
 de marzo.
 5. Se facilitará la colaboración de las asociaciones de ma-
 dres y padres del alumnado residente con los equipos directi-
@@ -775,7 +786,7 @@ CAPÍTULO I
 Disposiciones generales
 Artículo 19. Carácter de las residencias escolares. 
 De conformidad con lo establecido en el artículo 120.1 de 
-la Ley 17/2007, de 10 de diciembre, las residencias escolares 
+la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre, las residencias escolares 
 existentes son centros públicos que acogen en régimen de fa-
 milia sustitutoria a aquellos alumnos y alumnas que cursan es-
 tudios posobligatorios fuera de su lugar de origen, o a aquellos 
@@ -792,7 +803,7 @@ dencias escolares se inscribirán en el registro de centros do-
 Página núm. 16 
 BOJA núm. 59 
 Sevilla, 26 de marzo 2012
-centes regulado en el Decreto 151/1997, de 27 de mayo, por 
+centes regulado en el [Decreto 151/1997](../02_gestion_y_administracion_centros/D151_1997_crea_regula_registro_centros_docentes_andalucia.md), de 27 de mayo, por 
 el que se crea y regula el Registro de Centros Docentes.
 Artículo 21. Denominación de las residencias escolares.
 1. Las residencias escolares dependientes de la Conseje-
@@ -809,7 +820,7 @@ Artículo 22. Disposiciones generales.
 1. Las residencias escolares contarán con autonomía 
 pedagógica, de organización y de gestión para poder llevar a 
 cabo modelos de funcionamiento propios, en el marco de la 
-Ley 17/2007, de 10 de diciembre, en los términos recogidos 
+[Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre, en los términos recogidos 
 en este Reglamento y en las normas que lo desarrollen.
 2. Los modelos de funcionamiento propios, que podrán 
 contemplar planes de trabajo, formas de organización, agru-
@@ -867,7 +878,7 @@ la zona donde está ubicada.
 2. El proyecto educativo definirá los objetivos particulares 
 que la residencia escolar se propone alcanzar, partiendo de 
 su realidad y tomando como referencia los objetivos contem-
-plados en la Ley Orgánica 2/2006, de 3 de mayo, y la Ley 
+plados en la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, y la Ley 
 17/2007, de 10 de diciembre.
 3. El proyecto educativo contendrá, al menos, los siguien-
 tes aspectos:
@@ -1076,7 +1087,7 @@ marán parte del proyecto de gestión.
 6. La gestión económica derivada de su actividad se reali-
 zará por las residencias escolares en el marco de la autonomía 
 reconocida legislativamente, de conformidad con lo dispuesto 
-en el artículo 129 de la Ley 17/2007, de 10 de diciembre, y en 
+en el artículo 129 de la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre, y en 
 la Orden de 10 de mayo de 2006, conjunta de las Consejerías 
 de Economía y Hacienda y de Educación, por la que se dictan 
 instrucciones para la gestión económica de los centros docen-
@@ -1562,7 +1573,7 @@ miento de los órganos colegiados de gobierno.
 Para lo no previsto en los artículos 52 y 69, el régimen de 
 funcionamiento de los órganos colegiados de gobierno de las 
 residencias será el establecido en el Capítulo II del Título IV
-de la Ley 9/2007, de 22 de octubre, de la Administración de 
+de la [Ley 9/2007](../01_marco_normativo_general_y_organico/L9_2007_administracion_junta_andalucia_laja.md), de 22 de octubre, de la Administración de 
 la Junta de Andalucía, en el Capítulo II del Título II de la Ley 
 30/1992, de 26 de noviembre, y demás normativa aplicable.
 Sección 2.ª El Consejo de Residencia
@@ -1593,7 +1604,7 @@ desempeñará la secretaría del Consejo, con voz y sin voto.
 res de la comunidad educativa en el Consejo de Residencia se 
 realizará de forma que permita la representación equilibrada 
 de hombres y mujeres, de conformidad con lo establecido en 
-el artículo 19.2 de la Ley 9/2007, de 22 de octubre.
+el artículo 19.2 de la [Ley 9/2007](../01_marco_normativo_general_y_organico/L9_2007_administracion_junta_andalucia_laja.md), de 22 de octubre.
 3. Una vez constituido el Consejo de Residencia, este 
 designará una persona que impulse medidas educativas que 
 fomenten la igualdad real y efectiva entre hombres y mujeres.
@@ -2737,7 +2748,7 @@ vinciales de garantías de admisión
 1. El régimen de constitución y funcionamiento de las co-
 misiones provinciales de garantías de admisión se regirá por lo 
 previsto en el presente Reglamento, en el capítulo II del título IV
-de la Ley 9/2007, de 22 de octubre, de la Administración de 
+de la [Ley 9/2007](../01_marco_normativo_general_y_organico/L9_2007_administracion_junta_andalucia_laja.md), de 22 de octubre, de la Administración de 
 la Junta de Andalucía, en el Capítulo II del Título II de la Ley 
 30/1992, de 26 de noviembre, de Régimen Jurídico de las 
 Administraciones Públicas y del Procedimiento Administrativo 
@@ -2759,7 +2770,7 @@ será de un curso escolar.
 comisiones provinciales de garantías de admisión, a fin de ga-
 rantizar la representación equilibrada de mujeres y hombres, 
 se actuará de acuerdo con lo previsto en el artículo 19.2 de la 
-Ley 9/2007, de 22 de octubre. 
+[Ley 9/2007](../01_marco_normativo_general_y_organico/L9_2007_administracion_junta_andalucia_laja.md), de 22 de octubre. 
 Artículo 90. Régimen de sesiones de las comisiones pro-
 vinciales de garantías de admisión.
 1. Las comisiones provinciales de garantías de admisión 
@@ -2790,7 +2801,7 @@ Artículo 91. Solicitudes.
 única y se presentará en la residencia en la que el alumno o 
 alumna pretende ser admitido prioritariamente, sin perjuicio 
 de lo establecido en el artículo 38.4 de la Ley 30/1992, de 26 
-de noviembre, y en los artículos 82 y 83 de la Ley 9/2007, de 
+de noviembre, y en los artículos 82 y 83 de la [Ley 9/2007](../01_marco_normativo_general_y_organico/L9_2007_administracion_junta_andalucia_laja.md), de 
 22 de octubre, en cuyo caso, para agilizar el procedimiento, 
 podrá remitirse copia autenticada a la residencia a la que se 
 dirige la solicitud. Asimismo, presentará solicitud el alumnado 
@@ -3006,7 +3017,7 @@ podrá acordar, previa autorización de la correspondiente De-
 legación Provincial de la Consejería competente en materia 
 de educación, la admisión de alumnado menor de 25 años 
 matriculado en cualquiera de las enseñanzas a que se refie-
-ren la Ley Orgánica 2/2006, de 3 de mayo, o la Ley Orgánica 
+ren la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, o la Ley Orgánica 
 6/2001, de 21 de diciembre, de Universidades. 
 2. Los criterios para la admisión de este alumnado serán 
 establecidos por el Consejo de Residencia. En todo caso, ten-
@@ -3021,7 +3032,7 @@ CAPÍTULO III
 Coste del servicio 
 Artículo 99. Precios públicos.
 1. De conformidad con lo establecido en el artículo 120.2 
-de la Ley 17/2007, de 10 de diciembre, el alumnado de en-
+de la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre, el alumnado de en-
 señanzas posobligatorias contribuirá a la financiación de las 
 plazas de residencia escolar mediante el abono de los precios 
 que se determinen para cada etapa educativa, que tendrán la 
@@ -3213,7 +3224,7 @@ el año 2010, en la cual se incide en una mejora de la atención
 a la ciudadanía simplificando los trámites e impulsando el uso 
 de las nuevas tecnologías en la Administración Pública, a la 
 Ley 11/2007, de 22 de junio, de acceso electrónico de los ciu-
-dadanos a los servicios públicos, y a la Ley 9/2007, de 22 de 
+dadanos a los servicios públicos, y a la [Ley 9/2007](../01_marco_normativo_general_y_organico/L9_2007_administracion_junta_andalucia_laja.md), de 22 de 
 octubre, de la Administración de la Junta de Andalucía.
 La Consejería de Salud, mediante Orden de 24 de julio 
 de 1985, creó y reguló el Registro de Asociaciones de Ayuda 

@@ -34,15 +34,21 @@ relaciones:
   - norma_id: norm-can-o-25-2-2003
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-can-l-6-2014
+fundamentos_derecho:
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-can-o-25-2-2003
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
+- norma_id: norm-es-2007-6115
 ---
-
 # Orden de 24 de abril de 2009, por la que se establece el procedimiento de obtención de plazas y se aprueban las bases de concesión de subvenciones para comedores escolares en los centros públicos docentes no universitarios, dependientes de esta Consejería.
 
 ## Preámbulo
 
 La situación actual exige de las Administraciones Públicas que propicien medidas que permitan la conciliación de la vida familiar y laboral. La Administración educativa de Canarias puede incorporar estas medidas en todos aquellos servicios que se prolonguen más allá de la jornada lectiva, incluyendo entre los criterios que dan derecho a dichos servicios el reconocimiento de la jornada laboral de las familias.
 
-En este sentido, la presente Orden incorpora el criterio de conciliación de la vida laboral y familiar en el baremo para adjudicar las plazas comensales, en coherencia con los objetivos marcados por la Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres, cuyo artículo 51.b), relativo a los criterios de actuación de las Administraciones Públicas, establece que, en el ámbito de sus respectivas competencias y en aplicación del principio de igualdad entre mujeres y hombres, deberán facilitar la conciliación de la vida personal, familiar y laboral, sin menoscabo de la promoción profesional.
+En este sentido, la presente Orden incorpora el criterio de conciliación de la vida laboral y familiar en el baremo para adjudicar las plazas comensales, en coherencia con los objetivos marcados por la [Ley Orgánica 3/2007](../../../estatal/07_convivencia_bienestar_y_protocolos/LO3_2007_igualdad_efectiva_mujeres_hombres.md), de 22 de marzo, para la igualdad efectiva de mujeres y hombres, cuyo artículo 51.b), relativo a los criterios de actuación de las Administraciones Públicas, establece que, en el ámbito de sus respectivas competencias y en aplicación del principio de igualdad entre mujeres y hombres, deberán facilitar la conciliación de la vida personal, familiar y laboral, sin menoscabo de la promoción profesional.
 
 Esta iniciativa ha determinado la revisión de todos los criterios alineando los mismos con los utilizados en los procedimientos que regulan servicios de esta naturaleza en la Consejería. De esta forma se homogeneizan los baremos utilizados en los servicios que están relacionados y se predisponen los procedimientos para que las personas interesadas en los mismos justifiquen el menor número posible de criterios.
 
@@ -52,11 +58,11 @@ La Ley 11/2007, de 22 de junio, de acceso electrónico de los ciudadanos a los S
 
 El carácter indefinido que desea impregnarse a esta Orden ha llevado a contemplar la publicación, mediante Resolución del órgano competente, de una Instrucción anual que concrete para cada curso académico el valor que adquirirán todos los parámetros regulados en la misma, como plazos, valores económicos, documentos, etc.
 
-La Ley Orgánica 2/2006, de 3 de mayo, de Educación, establece en su artículo 83 el derecho a la obtención de becas y ayudas al estudio a aquellos estudiantes que se encuentren en condiciones socioeconómicas desfavorables, con la finalidad de garantizar la igualdad de todas las personas en el ejercicio del derecho a la educación.
+La [Ley Orgánica 2/2006](./O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, establece en su artículo 83 el derecho a la obtención de becas y ayudas al estudio a aquellos estudiantes que se encuentren en condiciones socioeconómicas desfavorables, con la finalidad de garantizar la igualdad de todas las personas en el ejercicio del derecho a la educación.
 
 Asimismo, la citada Ley Orgánica, en su Título II, Capítulo II, impone a las Administraciones Públicas la obligación de desarrollar acciones de carácter compensatorio en relación con las personas, grupos y ámbitos territoriales que se encuentren en situaciones desfavorables, así como de proveer los recursos económicos y los apoyos precisos para ello.
 
-Las subvenciones de comedor escolar constituyen una de las medidas adoptadas por las Administraciones Públicas en este contexto. La regulación de dichas subvenciones se encuentra contenida en la Orden de 25 de febrero de 2003, que regula la organización y funcionamiento de los comedores escolares en los centros públicos docentes no universitarios, dependientes de la Consejería de Educación, Cultura y Deportes, y se establecen las bases de la convocatoria de plazas y ayudas con destino al alumnado comensal, así como en la Orden de 23 de septiembre de 2005, por la que se modifica la anterior.
+Las subvenciones de comedor escolar constituyen una de las medidas adoptadas por las Administraciones Públicas en este contexto. La regulación de dichas subvenciones se encuentra contenida en la [Orden de 25 de febrero de 2003](./O25_2_2003_regula_organizacion_funcionamiento_comedores_escolares_centros.md), que regula la organización y funcionamiento de los comedores escolares en los centros públicos docentes no universitarios, dependientes de la Consejería de Educación, Cultura y Deportes, y se establecen las bases de la convocatoria de plazas y ayudas con destino al alumnado comensal, así como en la Orden de 23 de septiembre de 2005, por la que se modifica la anterior.
 
 
 ### D i s p o n g o:
@@ -82,9 +88,9 @@ La presente norma será de aplicación al alumnado comensal de las distintas mod
 
 Derogación normativa.
 
-A la entrada en vigor de esta Orden quedará derogada la Orden de 23 de septiembre de 2005 de la Consejería de Educación, Cultura y Deportes, por la que se modifica la Orden de 25 de febrero de 2003, que regula la organización y funcionamiento de los comedores escolares en los centros públicos docentes no universitarios, dependientes de la Consejería de Educación, Cultura y Deportes, y se establecen las bases de la convocatoria de plazas y ayudas con destino al alumnado comensal (B.O.C. nº 193, de 30 de septiembre).
+A la entrada en vigor de esta Orden quedará derogada la Orden de 23 de septiembre de 2005 de la Consejería de Educación, Cultura y Deportes, por la que se modifica la [Orden de 25 de febrero de 2003](./O25_2_2003_regula_organizacion_funcionamiento_comedores_escolares_centros.md), que regula la organización y funcionamiento de los comedores escolares en los centros públicos docentes no universitarios, dependientes de la Consejería de Educación, Cultura y Deportes, y se establecen las bases de la convocatoria de plazas y ayudas con destino al alumnado comensal (B.O.C. nº 193, de 30 de septiembre).
 
-Mantienen su vigencia los artículos 17 y 18 de la Orden de 11 de septiembre de 1996 de la Consejería de Educación, Cultura y Deportes, por la que se regula el funcionamiento de los comedores escolares en los centros públicos no universitarios de Canarias, y se establecen las bases de la convocatoria de las ayudas con destino a los comensales (B.O.C. nº 119, de 18 de septiembre), y la Orden de 25 de febrero de 2003, por la que se regula la organización y funcionamiento de los comedores escolares en los centros públicos docentes no universitarios dependientes de la Consejería de Educación, Cultura y Deportes, en lo que no se opongan o contradigan lo establecido en la presente Orden.
+Mantienen su vigencia los artículos 17 y 18 de la Orden de 11 de septiembre de 1996 de la Consejería de Educación, Cultura y Deportes, por la que se regula el funcionamiento de los comedores escolares en los centros públicos no universitarios de Canarias, y se establecen las bases de la convocatoria de las ayudas con destino a los comensales (B.O.C. nº 119, de 18 de septiembre), y la [Orden de 25 de febrero de 2003](./O25_2_2003_regula_organizacion_funcionamiento_comedores_escolares_centros.md), por la que se regula la organización y funcionamiento de los comedores escolares en los centros públicos docentes no universitarios dependientes de la Consejería de Educación, Cultura y Deportes, en lo que no se opongan o contradigan lo establecido en la presente Orden.
 
 
 ### Disposiciones finales

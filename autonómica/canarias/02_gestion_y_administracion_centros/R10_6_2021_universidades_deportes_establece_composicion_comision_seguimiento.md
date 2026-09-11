@@ -90,8 +90,15 @@ relaciones:
   - norma_id: norm-es-2021-20113
   - norma_id: norm-es-2010-12201
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2022-143-2426.pdf
+fundamentos_derecho:
+- norma_id: norm-can-l-14-1990
+- norma_id: norm-can-d-109-1999
+- norma_id: norm-can-o-2016-05-12
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
 ---
-
 # Resolución de 10 de junio de 2021, de la Viceconsejería de Educación, Universidades y Deportes, por la que se establece la composición de la comisión de seguimiento del acuerdo entre la Consejería de Educación y los Colectivos de Escuelas Rurales/Unitarias sobre los servicios educativos públicos en las Escuelas Unitarias de Canarias y se nombra a los vocales de dicha comisión.
 
 ## Preámbulo
@@ -103,8 +110,8 @@ Segundo.- La necesidad de convocar elecciones para la renovación o nueva consti
 
 109/1999](D109_1999_regula_regimen_creacion_funcionamiento_colectivos_escuelas.md), de 25 de mayo, por el que se regula el régimen de creación y funcionamiento de los Colectivos de Escuelas Rurales.
 
-Tercero.- La Orden de 12 de mayo de 2016, por la que se regulan la composición y el procedimiento para la constitución y la renovación de los Consejos Escolares de los centros educativos sostenidos con fondos públicos del ámbito de la Comunidad Autónoma de Canarias, actualiza el marco normativo para el procedimiento de la elección, renovación y constitución de este órgano colegiado, incluyendo los Consejos de los CER.
-Cuarto.- La Resolución de 13 de junio de 2022, por la que se convoca el proceso y se aprueba el calendario para la renovación parcial o la nueva constitución de los Consejos Escolares de los centros educativos sostenidos con fondos públicos del ámbito de la Comunidad Autónoma de Canarias, a celebrar en el curso escolar 2022/2023, especifica en el resuelvo primero, apartado 3, que los Consejos de los CER atenderán a lo que su propia normativa establezca sobre su constitución y renovación, aplicándose la Orden de 12 de mayo de 2016 con carácter supletorio, en lo relativo al procedimiento. Por ello, en virtud de las competencias atribuidas en el artículo 29, apartado 1, letra a), de la [Ley 14/1990](../01_marco_normativo_general_y_organico/L14_1990_regimen_juridico_administraciones_publicas_canarias.md), de 26 de julio, de Régimen Jurídico de las Administraciones Públicas de Canarias; y en el artículo 17.2.a) del Reglamento Orgánico de la Consejería de Educación, Universidades, Cultura y Deportes, aprobado por Decreto 7/2021, de 18 de febrero,
+Tercero.- La [Orden de 12 de mayo de 2016](./O12_5_2016_regulan_composicion_procedimiento_constitucion_renovacion_consejos_escolares.md), por la que se regulan la composición y el procedimiento para la constitución y la renovación de los Consejos Escolares de los centros educativos sostenidos con fondos públicos del ámbito de la Comunidad Autónoma de Canarias, actualiza el marco normativo para el procedimiento de la elección, renovación y constitución de este órgano colegiado, incluyendo los Consejos de los CER.
+Cuarto.- La Resolución de 13 de junio de 2022, por la que se convoca el proceso y se aprueba el calendario para la renovación parcial o la nueva constitución de los Consejos Escolares de los centros educativos sostenidos con fondos públicos del ámbito de la Comunidad Autónoma de Canarias, a celebrar en el curso escolar 2022/2023, especifica en el resuelvo primero, apartado 3, que los Consejos de los CER atenderán a lo que su propia normativa establezca sobre su constitución y renovación, aplicándose la [Orden de 12 de mayo de 2016](./O12_5_2016_regulan_composicion_procedimiento_constitucion_renovacion_consejos_escolares.md) con carácter supletorio, en lo relativo al procedimiento. Por ello, en virtud de las competencias atribuidas en el artículo 29, apartado 1, letra a), de la [Ley 14/1990](../01_marco_normativo_general_y_organico/L14_1990_regimen_juridico_administraciones_publicas_canarias.md), de 26 de julio, de Régimen Jurídico de las Administraciones Públicas de Canarias; y en el artículo 17.2.a) del Reglamento Orgánico de la Consejería de Educación, Universidades, Cultura y Deportes, aprobado por Decreto 7/2021, de 18 de febrero,
 RESUELVO:
 
 #### Primero. Objeto y ámbito de aplicación.
@@ -146,7 +153,7 @@ Para la elaboración de los censos de los sectores de padres, madres o personas 
 
 2. El coordinador o la coordinadora del CER organizará, con las debidas garantías de publicidad e igualdad, el sorteo de las personas componentes, titulares y suplentes, de la junta electoral, a cuyo fin se elaborarán los censos electorales que, posteriormente, serán aprobados por la junta electoral. Asimismo, realizará los preparativos que sean necesarios para facilitar el desarrollo de todo el proceso electoral.
 
-3. La junta electoral se ocupará de organizar el proceso de renovación o nueva constitución de los miembros del Consejo del CER, en las condiciones que mejor aseguren la designación y la participación de todos los sectores de la comunidad educativa, conforme a lo establecido en el artículo 16 de la antedicha Orden de 12 de mayo de 2016. 4. Además de lo anteriormente indicado, la junta electoral determinará y dará publicidad del horario de las votaciones, garantizando la máxima participación y proclamará las candidaturas elegidas, acordando los términos en los que se realizará el sorteo en el caso de empate en las votaciones de cualquiera de los sectores.
+3. La junta electoral se ocupará de organizar el proceso de renovación o nueva constitución de los miembros del Consejo del CER, en las condiciones que mejor aseguren la designación y la participación de todos los sectores de la comunidad educativa, conforme a lo establecido en el artículo 16 de la antedicha [Orden de 12 de mayo de 2016](./O12_5_2016_regulan_composicion_procedimiento_constitucion_renovacion_consejos_escolares.md). 4. Además de lo anteriormente indicado, la junta electoral determinará y dará publicidad del horario de las votaciones, garantizando la máxima participación y proclamará las candidaturas elegidas, acordando los términos en los que se realizará el sorteo en el caso de empate en las votaciones de cualquiera de los sectores.
 
 5. La Inspección de zona comprobará, por los medios que estime oportunos, que todos los CER han formado sus juntas electorales, iniciando así el trámite de la convocatoria.
 
@@ -154,7 +161,7 @@ Para la elaboración de los censos de los sectores de padres, madres o personas 
 
 1. La junta electoral, a través de la persona que ejerza su presidencia, solicitará al ayuntamiento o ayuntamientos que conforman el CER, la designación de la persona representante municipal que ha de formar parte del consejo, mediante escrito en el que ha de figurar el plazo para la comunicación de la referida designación.
 
-2. El sector con puesto de designación procederá, para el ejercicio de este derecho, según lo determinado en el artículo 18 de la Orden de 12 de mayo de 2016. #### Octavo. Personas que pueden elegir y ser elegidas.
+2. El sector con puesto de designación procederá, para el ejercicio de este derecho, según lo determinado en el artículo 18 de la [Orden de 12 de mayo de 2016](./O12_5_2016_regulan_composicion_procedimiento_constitucion_renovacion_consejos_escolares.md). #### Octavo. Personas que pueden elegir y ser elegidas.
 
 1. El derecho a elegir y ser elegido representante en la renovación o nueva constitución lo ostentan los padres, madres o personas tutoras legales del alumnado, y los alumnos o las alumnas que formen parte de los consejos escolares de los centros del ámbito del CER, así como los maestros o maestras que compongan el equipo pedagógico, tal y como estipula el artículo 22 en concordancia con el 20, ambos del indicado [Decreto 109/1999](./D109_1999_regula_regimen_creacion_funcionamiento_colectivos_escuelas.md), de 25 de mayo.
 
@@ -179,7 +186,7 @@ Noveno.- Elecciones de representantes de padres, madres o personas tutoras repre
 
 4. Los maestros y maestras sustitutos, que se hallen cubriendo una sustitución temporal en el momento de aprobación de los censos, podrán ser electores, pero no elegibles, pudiendo ser elegible el sustituido. No obstante, sí podrán ser tanto electores como elegibles los maestros o las maestras, interinos o sustitutos, que tengan adjudicado destino docente en un centro del ámbito del CER durante todo el curso escolar.
 
-5. Si en la primera votación no hubiese resultado elegido el número de maestros y maestras que corresponda, se procederá a realizar, en el mismo acto, una segunda votación para alcanzar dicho número, una vez considerados los desempates y sin perjuicio de lo dispuesto en el artículo 27 de la citada Orden de 12 de mayo de 2016. #### Undécimo. Papeletas.
+5. Si en la primera votación no hubiese resultado elegido el número de maestros y maestras que corresponda, se procederá a realizar, en el mismo acto, una segunda votación para alcanzar dicho número, una vez considerados los desempates y sin perjuicio de lo dispuesto en el artículo 27 de la citada [Orden de 12 de mayo de 2016](./O12_5_2016_regulan_composicion_procedimiento_constitucion_renovacion_consejos_escolares.md). #### Undécimo. Papeletas.
 
 1. Las papeletas para las votaciones deberán llevar el sello del CER y contener la relación de todas las candidaturas proclamadas por la junta electoral, ordenadas alfabéticamente por el primer apellido, y numeradas, de forma correlativa, con la indicación del centro al que pertenecen. En el margen izquierdo y delante del número cardinal, figurará un recuadro en blanco en donde la persona electora señalará con una cruz la candidatura o las candidaturas por las que vota, debiendo quedar claro en la propia papeleta, el número máximo de personas candidatas que puedan señalar los electores y las electoras.
 

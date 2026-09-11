@@ -91,13 +91,22 @@ relaciones:
   - norma_id: norm-es-lo-8-2021
   - norma_id: norm-es-lo-1-1996
   - norma_id: norm-mad-d-29-2013
+fundamentos_derecho:
+- norma_id: norm-can-l-4-2023
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-mad-l1-1983-gobierno-administracion-comunidad-madrid
+- norma_id: norm-mad-l4-2023
+- norma_id: norm-mad-d32-2019
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-lo-8-1985
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
 ---
-
 # Decreto 64/2025, de 23 de julio, por el que se regula y limita el uso de dispositivos digitales en centros educativos sostenidos con fondos públicos
 
 ## Preámbulo
 
-Estatuto de Autonomía, y los artículos 18 y 21.g) de la Ley 1/1983, de 13 de diciembre, del Gobierno y Administración de la Comunidad de Madrid. En su virtud, a propuesta del consejero de Educación, Ciencia y Universidades, de acuerdo con la Comisión Jurídica Asesora de la Comunidad de Madrid, el Consejo de Gobierno, previa deliberación en su reunión del día 23 de julio de 2025, DISPONE artículo 1 Objeto y ámbito de aplicación
+Estatuto de Autonomía, y los artículos 18 y 21.g) de la [Ley 1/1983](../01_marco_normativo_general_y_organico/L1_1983_gobierno_administracion_comunidad_madrid.md), de 13 de diciembre, del Gobierno y Administración de la Comunidad de Madrid. En su virtud, a propuesta del consejero de Educación, Ciencia y Universidades, de acuerdo con la Comisión Jurídica Asesora de la Comunidad de Madrid, el Consejo de Gobierno, previa deliberación en su reunión del día 23 de julio de 2025, DISPONE artículo 1 Objeto y ámbito de aplicación
 
 El presente decreto tiene como objeto regular y limitar el uso de dispositivos digitales (ordenadores, tabletas o similares) de forma individual y compartida en los centros educativos sostenidos con fondos públicos que impartan enseñanzas de Educación Infantil, Educación Primaria y Educación Secundaria Obligatoria en el ámbito territorial de la Comunidad de Madrid.
 
@@ -109,7 +118,7 @@ El presente decreto tiene como objeto regular y limitar el uso de dispositivos d
 
 Los centros incluirán en su proyecto educativo, de manera clara y explícita, las diferentes actuaciones que garanticen la adecuada utilización de los medios digitales y limiten el uso de dispositivos digitales de carácter individual en el proceso de enseñanza y aprendizaje de los alumnos, de acuerdo con lo establecido en el artículo 121 y en.
 
-consonancia con el artículo 111 bis.5 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+consonancia con el artículo 111 bis.5 de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación.
 
 #### Artículo 4. Limitación del uso de dispositivos en las distintas etapas educativas.
 
@@ -125,9 +134,9 @@ Los centros educativos deberán adoptar las medidas oportunas para que su proyec
 
 #### Disposición adicional segunda. Centros privados no concertados.
 
-En el marco de la autonomía recogida en el artículo veinticinco de la Ley Orgánica 8/1985, de 3 de julio, reguladora del Derecho a la Educación, y de acuerdo con el artículo 25 de la Ley 4/2023, de 22 de marzo, de Derechos, Garantías y Protección Integral de la Infancia y la Adolescencia, los centros privados no concertados recogerán en su proyecto educativo las medidas que garanticen la adecuada utilización de los medios digitales en el proceso de enseñanza y aprendizaje de los alumnos.
+En el marco de la autonomía recogida en el artículo veinticinco de la [Ley Orgánica 8/1985](../../../estatal/02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md), de 3 de julio, reguladora del Derecho a la Educación, y de acuerdo con el artículo 25 de la [Ley 4/2023](../../canarias/01_marco_normativo_general_y_organico/L4_2023_presidencia_gobierno_canarias.md), de 22 de marzo, de Derechos, Garantías y Protección Integral de la Infancia y la Adolescencia, los centros privados no concertados recogerán en su proyecto educativo las medidas que garanticen la adecuada utilización de los medios digitales en el proceso de enseñanza y aprendizaje de los alumnos.
 
-#### Disposición final primera. Modificación del Decreto 32/2019, de 9 de abril, del Consejo de Gobierno, por el que se establece el Marco Regulador de la Convivencia en los Centros Docentes de la Comunidad de Madrid Se modifica el apartado 2 del artículo 32 en.
+#### Disposición final primera. Modificación del [Decreto 32/2019](./D32_2019_marco_regulador_convivencia_centros_docentes_madrid.md), de 9 de abril, del Consejo de Gobierno, por el que se establece el Marco Regulador de la Convivencia en los Centros Docentes de la Comunidad de Madrid Se modifica el apartado 2 del artículo 32 en.
 
 los siguientes términos:
 "2. Las normas de convivencia de los centros incluirán, entre otras, las relativas a las relaciones entre los miembros de la comunidad educativa, el uso y cuidado de las instalaciones y recursos del centro, la actitud y comportamiento durante las actividades lectivas, complementarias y extraescolares, la puntualidad y la asistencia y el uso de objetos y dispositivos de uso personal, entre los que se incluyen los teléfonos móviles y otros dispositivos electrónicos, que pudieran obstaculizar el normal desarrollo de las actividades del centro. El uso de teléfonos móviles no estará permitido a los alumnos en los centros docentes durante toda la jornada escolar. Se permitirá su uso a los alumnos que lo requieran por razones de necesidad y excepcionalidad, conforme a lo dispuesto en la normativa de convivencia del centro".

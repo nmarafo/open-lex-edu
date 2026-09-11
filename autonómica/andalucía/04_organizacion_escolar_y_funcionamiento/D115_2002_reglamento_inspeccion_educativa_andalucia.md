@@ -28,8 +28,9 @@ relaciones:
   - norma_id: norm-es-lo-2-2006
   fundamentado_en:
   - norma_id: norm-and-l17-2007
+fundamentos_derecho:
+- norma_id: norm-es-2001-7022
 ---
-
 # DECRETO 115/2002, de 25 de marzo, por el que se regula la organización y el funcionamiento de la Inspección Educativa.
 
 ## Preámbulo
@@ -52,7 +53,7 @@ El artículo 27.8 de la Constitución dispone que los poderes
 públicos inspeccionarán y homologarán el sistema educativo
 para garantizar el cumplimiento de las Leyes.
 En cumplimiento de lo dispuesto en el artículo 55 de
-la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación Gene-
+la [Ley Orgánica 1/1990](../../../estatal/02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md), de 3 de octubre, de Ordenación Gene-
 ral del Sistema Educativo, el Gobierno andaluz ordenó la ins-
 pección educativa en esta Comunidad Autónoma mediante
 Decreto 66/1993, de 11 de mayo, a la que ha venido prestando
@@ -708,7 +709,7 @@ cativa.
 2. De acuerdo con lo establecido en el artículo 15 del
 Real Decreto 2193/1995, de 28 de diciembre, estos concursos
 deberán atenerse a lo establecido en el apartado 4 de la dis-
-posición adicional novena de la Ley Orgánica 1/1990, de 3
+posición adicional novena de la [Ley Orgánica 1/1990](../../../estatal/02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md), de 3
 de octubre, de Ordenación General del Sistema Educativo,
 a las disposiciones de la Ley 24/1994, de 12 de julio, por
 el que se establecen normas sobre concursos de provisión

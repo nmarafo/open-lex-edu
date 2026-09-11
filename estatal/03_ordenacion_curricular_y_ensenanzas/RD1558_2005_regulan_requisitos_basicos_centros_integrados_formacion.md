@@ -92,8 +92,10 @@ relaciones:
   - norma_id: '22'
   - norma_id: norm-es-l-53-1984
   - norma_id: norm-es-2002-12018
+fundamentos_derecho:
+- norma_id: norm-es-l-53-1984
+- norma_id: norm-es-2002-12018
 ---
-
 # Real Decreto 1558/2005, de 23 de diciembre, por el que se regulan los requisitos básicos de los Centros integrados de formación profesional.
 
 ## Preámbulo

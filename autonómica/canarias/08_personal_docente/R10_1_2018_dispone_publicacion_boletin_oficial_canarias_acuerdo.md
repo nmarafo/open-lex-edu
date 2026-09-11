@@ -43,8 +43,10 @@ relaciones:
   articulos:
   - norma_id: '1'
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2018-019-376.pdf
+fundamentos_derecho:
+- norma_id: norm-can-l-6-2014
+- norma_id: norm-can-o-2016-09-21-acreditacion-idiomas
 ---
-
 # Resolución de 10 de enero de 2018, de la Dirección General de Personal, por la que se dispone la publicación en el Boletín Oficial de Canarias del Acuerdo entre la Consejería de Educación y Universidades y las centrales sindicales representativas del profesorado sobre la mejora del marco retributivo del personal docente no universitario del ámbito de la Consejería de Educación y Universidades (BOC n.º 19, de 26 de enero).
 
 ## Preámbulo
@@ -76,7 +78,7 @@ En ningún caso el exceso de horas realizadas durante los seis años correspondi
 a) Obtención de nuevas titulaciones cuya finalización se encuentre en el período de seis años correspondiente al sexenio a consolidar y que no hubieran sido utilizadas como requisito de acceso a la función pública docente (100 h):
 - Titulaciones de enseñanza universitaria de carácter oficial de licenciado, diplomado universitario, grado, máster (incluido el diploma de estudios avanzados o suficiencia investigadora que no hayan conducido al título de Doctor) o doctorado.
 - Titulaciones de enseñanza de régimen especial.
-b) Obtención de titulaciones, diplomas o certificaciones emitidas por instituciones de España y otros países europeos que se adecuen al modelo establecido en el MCERL (Marco Común Europeo de Referencia para las Lenguas), reguladas por Orden de 21 de septiembre de 2016 (BOC de 30 de septiembre de 2016), cuya acreditación de nivel de competencia sea como mínimo el B2 (100 horas).
+b) Obtención de titulaciones, diplomas o certificaciones emitidas por instituciones de España y otros países europeos que se adecuen al modelo establecido en el MCERL (Marco Común Europeo de Referencia para las Lenguas), reguladas por [Orden de 21 de septiembre de 2016](../03_ordenacion_curricular_y_ensenanzas/O21_9_2016_reconocimiento_acreditacion_competencia_linguistica_mcerl_canarias.md) (BOC de 30 de septiembre de 2016), cuya acreditación de nivel de competencia sea como mínimo el B2 (100 horas).
 c) Actividades de formación superadas, que tengan por objeto el perfeccionamiento sobre aspectos científicos y didácticos de las especialidades de su cuerpo docente o bien que estén relacionadas con la organización escolar o las tecnologías aplicadas a la educación, organizadas por la Consejería de Educación y Universidades, el Ministerio de Educación, el resto de las Consejerías competentes en materia educativa, las universidades españolas e instituciones sin ánimo de lucro, siempre que dichas actividades se encuentren oficialmente homologadas o reconocidas por las Administraciones Educativas.
 d) Participación en planes de formación en centros, seminarios de equipos directivos y servicios de apoyo, grupos de trabajo, programas educativos europeos, programas o proyectos educativos convocados por la Consejería de Educación y Universidades (hasta 100 horas recogidas en el portafolio individual de formación del profesorado).
 e) Participación como tutor o tutora en el centro educativo del practicum para el alumnado universitario de los grados conducentes al título de maestro o del máster en formación del profesorado de Educación Secundaria Obligatoria y Bachillerato, Formación Profesional y Enseñanzas de Idiomas, incluyendo el CAP o Título de Especialización Didáctica (hasta

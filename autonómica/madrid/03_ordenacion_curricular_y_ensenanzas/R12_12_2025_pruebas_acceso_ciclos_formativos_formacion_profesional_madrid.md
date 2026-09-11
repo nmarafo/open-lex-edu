@@ -27,8 +27,20 @@ tags:
 - grado_medio
 - grado_superior
 - madrid
+fundamentos_derecho:
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-can-res-134
+- norma_id: norm-mad-d248-2023
+- norma_id: norm-mad-d-27-2025
+- norma_id: norm-mad-o3299-2020-regulacion-pruebas-titulos-tecnico-tecnico-superior-formacion-profesional-madrid
+- norma_id: norm-mad-o893-2022
+- norma_id: norm-es-l-39-2015
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-2001-7022
+- norma_id: norm-es-lo-3-2022
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
 ---
-
 # Resolución de 12 de diciembre de 2025, de la Dirección General de Educación Secundaria, Formación Profesional y Régimen Especial, por la que se convocan, en el curso 2025-2026, las pruebas para la obtención de los títulos de Técnico y Técnico Superior de Formación Profesional
 
 ## Preámbulo
@@ -39,7 +51,7 @@ RESOLUCIÓN de 12 de diciembre de 2025, de la Dirección General de Educa-
 ción Secundaria, Formación Profesional y Régimen Especial, por la que se con-
 vocan, en el curso 2025-2026, las pruebas para la obtención de los títulos de
 Técnico y Técnico Superior de Formación Profesional.
-El artículo 55.7 del Decreto 27/2025, de 21 de mayo, del Consejo de Gobierno, por el
+El artículo 55.7 del [Decreto 27/2025](./D27_2025_ordenacion_organizacion_sistema_formacion_profesional_madrid.md), de 21 de mayo, del Consejo de Gobierno, por el
 que se regula la ordenación y organización del Sistema de Formación Profesional de la Co-
 munidad de Madrid, establece que la consejería competente en materia de Educación regu-
 lará la organización de pruebas para la superación de módulos profesionales incluidos en
@@ -47,7 +59,7 @@ títulos de Técnico y Técnico Superior en la Comunidad de Madrid. Mediante con
 pública, se establecerá anualmente la relación de módulos profesionales que podrán ser su-
 perados mediante pruebas libres, así como el periodo de matriculación, las fechas de cele-
 bración y los centros públicos en los que se realizarán las mismas.
-Con esta misma finalidad se aprobó la Orden 3299/2020, de 15 de diciembre, de la Con-
+Con esta misma finalidad se aprobó la [Orden 3299/2020](./O3299_2020_regulacion_pruebas_titulos_tecnico_tecnico_superior_formacion_profesional_madrid.md), de 15 de diciembre, de la Con-
 sejería de Educación y Juventud, por la que se regula la organización y el procedimiento de
 las pruebas para la obtención de los títulos de Técnico y Técnico Superior de Formación Pro-
 fesional en la Comunidad de Madrid, la cual establece en su artículo 2 que la convocatoria se
@@ -57,14 +69,14 @@ general con competencias en materia de formación profesional a dictar las resol
 trucciones que se consideren necesarias para la aplicación de lo dispuesto en ella.
 Por otra parte, la aprobación del Real Decreto 278/2023, de 11 de abril, por el que se
 establece el calendario de implantación del Sistema de Formación Profesional establecido
-por la Ley Orgánica 3/2022, de 31 de marzo, de ordenación e integración de la Formación
+por la [Ley Orgánica 3/2022](../../canarias/08_personal_docente/R30_6_2023_ordenacion_gestion_determinadas_listas_empleo_tras.md), de 31 de marzo, de ordenación e integración de la Formación
 Profesional, implica un cambio en la estructura de las enseñanzas reguladas al amparo de
 la Ley 2/2006, de 3 de mayo, de Educación. En cumplimiento de esta norma, la presente
 convocatoria de pruebas para la obtención de los títulos de Técnico y Técnico Superior de
 Formación Profesional es la última que se realiza con arreglo a los planes de estudios ante-
-riores a la nueva ordenación derivada de la Ley Orgánica 3/2022, de 31 de marzo, de orde-
+riores a la nueva ordenación derivada de la [Ley Orgánica 3/2022](../../canarias/08_personal_docente/R30_6_2023_ordenacion_gestion_determinadas_listas_empleo_tras.md), de 31 de marzo, de orde-
 nación e integración de la Formación Profesional.
-El Decreto 248/2023, de 11 de octubre, del Consejo de Gobierno, por el que se esta-
+El [Decreto 248/2023](../01_marco_normativo_general_y_organico/D248_2023_estructura_organica_consejeria_educacion_ciencia_universidades_madrid.md), de 11 de octubre, del Consejo de Gobierno, por el que se esta-
 blece la estructura orgánica de la Consejería de Educación, Ciencia y Universidades, deter-
 mina en su artículo 11 que la competencia sobre la formulación de la ordenación académi-
 ca, dentro del ámbito competencial atribuido a la Comunidad de Madrid, de las enseñanzas
@@ -87,9 +99,9 @@ cación (en adelante, LOE), en aplicación de lo dispuesto en el Real Decreto 27
 BOCM-20260105-40
 BOCM
 abril, por el que se establece el calendario de implantación del Sistema de Formación Profesio-
-nal establecido por la Ley Orgánica 3/2022, de 31 de marzo, de ordenación e integración de la
+nal establecido por la [Ley Orgánica 3/2022](../../canarias/08_personal_docente/R30_6_2023_ordenacion_gestion_determinadas_listas_empleo_tras.md), de 31 de marzo, de ordenación e integración de la
 Formación Profesional, la convocatoria de estas pruebas se realiza, por última vez, con arreglo
-a los planes de estudios anteriores a la nueva ordenación derivada de la Ley Orgánica 3/2022,
+a los planes de estudios anteriores a la nueva ordenación derivada de la [Ley Orgánica 3/2022](../../canarias/08_personal_docente/R30_6_2023_ordenacion_gestion_determinadas_listas_empleo_tras.md),
 de 31 de marzo, de ordenación e integración de la Formación Profesional.
 Asimismo, con arreglo a lo establecido en la disposición adicional segunda de la Or-
 den 3299/2020, de 15 de diciembre, de la Consejería de Educación y Juventud, por la que
@@ -342,12 +354,12 @@ https://www.comunidad.madrid/servicios/educacion/pruebas-obtencion-titulos-tecni
 tecnico-superior-fp
 4.
 Las pruebas se desarrollarán de acuerdo con lo dispuesto en la presente resolución
-y en la Orden 3299/2020, de 15 de diciembre.
+y en la [Orden 3299/2020](./O3299_2020_regulacion_pruebas_titulos_tecnico_tecnico_superior_formacion_profesional_madrid.md), de 15 de diciembre.
 Tercero
 Requisitos para la matriculación
 1.
 Para participar en las pruebas convocadas por la presente resolución, las personas
-interesadas, de conformidad con lo establecido en el artículo 3 de la Orden 3299/2020, de 15
+interesadas, de conformidad con lo establecido en el artículo 3 de la [Orden 3299/2020](./O3299_2020_regulacion_pruebas_titulos_tecnico_tecnico_superior_formacion_profesional_madrid.md), de 15
 de diciembre, deben reunir los requisitos siguientes:
 a)
 Tener, en el momento de la matriculación, al menos, dieciocho años de edad para
@@ -370,7 +382,7 @@ fesional, ni estar matriculado en dicho módulo profesional en cualquiera de las
 des o regímenes conducentes a la obtención de estos títulos. El incumplimiento de lo aquí
 dispuesto conllevará la anulación de la matrícula en la presente convocatoria y de los resul-
 tados académicos en ella obtenidos.
-De conformidad con lo dispuesto en el artículo 21.2 de la Orden 893/2022, de 21 de
+De conformidad con lo dispuesto en el artículo 21.2 de la [Orden 893/2022](../04_organizacion_escolar_y_funcionamiento/O893_2022_procedimientos_evaluacion_matricula_formacion_profesional_madrid.md), de 21 de
 abril, de la Consejería de Educación, Universidades, Ciencia y Portavocía, por la que se re-
 gulan los procedimientos relacionados con la organización, la matrícula, la evaluación y
 acreditación académica de las enseñanzas de formación profesional del sistema educativo
@@ -480,14 +492,14 @@ de la solicitud podrá hacerse con el sistema de autenticación cl@ve, mediante 
 gistro en el sistema @SCV o, en caso de estar dado de alta y disponer de las cre-
 denciales de acceso a la plataforma Roble (RAÍCES), con su usuario y contraseña.
 Se podrá efectuar tramitación electrónica en otros registros electrónicos previstos
-en el artículo 16.4.a) de la Ley 39/2015, de 1 de octubre, del Procedimiento Admi-
+en el artículo 16.4.a) de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Admi-
 nistrativo Común de las Administraciones Públicas.
 b)
 De forma presencial, en la secretaría del centro examinador del ciclo formativo
 correspondiente al título en el que se matricula.
 c)
 Asimismo, se podrá presentar de forma presencial en cualquiera de los lugares
-previstos en el artículo 16.4 apartados b), c), d) y e) de la Ley 39/2015, de 1 de oc-
+previstos en el artículo 16.4 apartados b), c), d) y e) de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de oc-
 tubre, debiendo, en todo caso, indicarse como destinatario el centro educativo al
 que se dirige la solicitud, especificando la Dirección del Área Territorial a la que
 pertenece dicho centro.
@@ -501,7 +513,7 @@ en el momento de su presentación, en caso de que la persona interesada se opong
 ma expresa a la consulta de los datos contenidos en dicha documentación o si, excepcional-
 mente, no fuera posible recabar la misma electrónicamente a través de las redes corporati-
 vas o de consulta a las plataformas de intermediación de datos u otros sistemas electrónicos
-habilitados al efecto, de acuerdo con lo establecido en el artículo 28.3 de la Ley 39/2015,
+habilitados al efecto, de acuerdo con lo establecido en el artículo 28.3 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md),
 de 1 de octubre. Igualmente, podrán aportarse documentos durante la tramitación del expe-
 diente a través de la Secretaría Virtual.
 4.
@@ -519,7 +531,7 @@ establecidos para la modalidad presencial, debiendo cursarlos necesariamente dur
 primer trimestre del curso académico 2026-2027. El procedimiento de matrícula en estos
 módulos profesionales, las condiciones y términos en que se cursarán, así como, en su
 caso, la solicitud de exención por experiencia laboral del módulo profesional de FCT se re-
-girán por lo dispuesto en el artículo 5 de la Orden 3299/2020, de 15 de diciembre.
+girán por lo dispuesto en el artículo 5 de la [Orden 3299/2020](./O3299_2020_regulacion_pruebas_titulos_tecnico_tecnico_superior_formacion_profesional_madrid.md), de 15 de diciembre.
 
 BOCM-20260105-40
 BOCM
@@ -544,7 +556,7 @@ citud de matriculación.
 Séptimo
 Traslado de calificaciones
 1.
-De conformidad con lo establecido en el artículo 10 de la Orden 3299/2020, de 15
+De conformidad con lo establecido en el artículo 10 de la [Orden 3299/2020](./O3299_2020_regulacion_pruebas_titulos_tecnico_tecnico_superior_formacion_profesional_madrid.md), de 15
 de diciembre, el interesado cumplimentará en el modelo habilitado de solicitud de matricu-
 lación, el módulo o los módulos profesionales en los que solicita el traslado de calificación
 en el apartado correspondiente, para lo cual deberá aportar el certificado de estudios oficial
@@ -555,7 +567,7 @@ lo de Técnico o Técnico Superior de Formación Profesional en el que solicita 
 así como la denominación y código, o en su caso, clave de los módulos profesionales de los
 que se solicita el traslado de calificación.
 En el caso de los módulos profesionales correspondientes a títulos de formación pro-
-fesional regulados al amparo de la Ley Orgánica 2/2006, de 3 de mayo, se indicará el códi-
+fesional regulados al amparo de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, se indicará el códi-
 go asignado en el real decreto por el que se establece el título. En el caso de módulos pro-
 fesionales propios incorporados por la Comunidad de Madrid, el código que ha de
 consignarse será el que figure en el decreto que establece el currículo.
@@ -564,7 +576,7 @@ lado de calificación, solo se podrá realizar la prueba si, en el momento de la
 consignó el módulo profesional en el apartado de matrícula y se efectuó el pago de las tasas.
 2.
 La resolución del traslado de calificación de módulos profesionales se realizará
-conforme al artículo 63 de la Orden 893/2022, de 21 de abril, y en el anexo IV de la Reso-
+conforme al artículo 63 de la [Orden 893/2022](../04_organizacion_escolar_y_funcionamiento/O893_2022_procedimientos_evaluacion_matricula_formacion_profesional_madrid.md), de 21 de abril, y en el anexo IV de la Reso-
 lución de 28 de junio de 2022, de la Dirección General de Educación Secundaria, Forma-
 ción Profesional y Régimen Especial, por la que se establecen convalidaciones de módulos
 profesionales propios de la Comunidad de Madrid incluidos en los planes de estudio de ci-
@@ -584,7 +596,7 @@ que será motivada, pondrá fin a la vía administrativa.
 Octavo
 Admisión y exclusión en las pruebas
 1.
-En cumplimiento de lo dispuesto en el artículo 11 de la Orden 3299/2020, de 15
+En cumplimiento de lo dispuesto en el artículo 11 de la [Orden 3299/2020](./O3299_2020_regulacion_pruebas_titulos_tecnico_tecnico_superior_formacion_profesional_madrid.md), de 15
 de diciembre, la admisión o exclusión en las pruebas con la razón de esta última, con carác-
 
 BOCM-20260105-40
@@ -610,7 +622,7 @@ sión definitiva en las pruebas.
 Contra la resolución adoptada, el interesado podrá interponer en el plazo de un mes
 a partir de su notificación, recurso de alzada ante la Dirección de Área Territorial correspon-
 diente, que resolverá lo que proceda en los términos previstos en los artículos 115, 121 y 122
-de la Ley 39/2015, de 1 de octubre. Esta resolución, que será motivada, pondrá fin a la vía
+de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre. Esta resolución, que será motivada, pondrá fin a la vía
 administrativa.
 Noveno
 Desistimiento de la solicitud
@@ -624,7 +636,7 @@ antes del 1 de mayo de 2026.
 Décimo
 Medidas para la adaptación de la prueba
 1.
-De conformidad con el artículo 9 de la Orden 3299/2020, de 15 de diciembre, los
+De conformidad con el artículo 9 de la [Orden 3299/2020](./O3299_2020_regulacion_pruebas_titulos_tecnico_tecnico_superior_formacion_profesional_madrid.md), de 15 de diciembre, los
 alumnos inscritos en las pruebas que certifiquen debidamente alguna discapacidad o nece-
 sidad educativa específica que les impida realizar las mismas con los medios ordinarios,
 manifestarán esta circunstancia en el modelo de solicitud de matriculación habilitado para
@@ -697,7 +709,7 @@ En caso de silencio administrativo, este se considerará desestimatorio.
 Contra la resolución adoptada, el interesado podrá interponer, en el plazo de un mes
 a partir de su notificación, recurso de alzada ante la Dirección de Área Territorial correspon-
 diente, que resolverá lo que proceda en los términos previstos en los artículos 115, 121 y 122
-de la Ley 39/2015, de 1 de octubre. Esta resolución, que será motivada, pondrá fin a la vía
+de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre. Esta resolución, que será motivada, pondrá fin a la vía
 administrativa.
 Undécimo
 Características de las pruebas
@@ -705,8 +717,8 @@ Características de las pruebas
 Las pruebas, que deberán ser presenciales, se estructurarán incluyendo ejercicios
 teóricos y prácticos, de manera que permitan evidenciar, a través de los criterios de evalua-
 ción correspondientes, que los alumnos han alcanzado todos los resultados de aprendizaje o
-capacidades terminales, según sean títulos regulados al amparo de la Ley Orgánica 2/2006,
-de 3 de mayo, o de la Ley Orgánica 1/1990, de 3 de octubre, respectivamente y, en su caso,
+capacidades terminales, según sean títulos regulados al amparo de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md),
+de 3 de mayo, o de la [Ley Orgánica 1/1990](../../../estatal/02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md), de 3 de octubre, respectivamente y, en su caso,
 las competencias asociadas al módulo profesional. Los elementos de referencia para el dise-
 ño y elaboración de estas pruebas serán los establecidos en los currículos o planes de estu-
 dios de los ciclos formativos implantados en la Comunidad de Madrid, así como sus respec-
@@ -745,7 +757,7 @@ Decimotercero
 Evaluación, calificaciones y reclamación a las mismas
 1.
 La evaluación, calificación y registro de las calificaciones se realizará de confor-
-midad con lo establecido en los artículos 21, 22 y 23 de la Orden 3299/2020, de 15 de di-
+midad con lo establecido en los artículos 21, 22 y 23 de la [Orden 3299/2020](./O3299_2020_regulacion_pruebas_titulos_tecnico_tecnico_superior_formacion_profesional_madrid.md), de 15 de di-
 ciembre.
 2.
 El día 10 de junio de 2026 se notificarán las calificaciones obtenidas en las pruebas
@@ -777,16 +789,16 @@ haga constar las calificaciones o notas finales antes del 20 de junio de 2026.
 En el caso de persistir el desacuerdo con las calificaciones, el interesado, en el pla-
 zo de un mes a partir de su notificación, podrá interponer ante la Dirección de Área Terri-
 torial correspondiente, recurso de alzada en los términos dispuestos en el artículo 26 de la
-Orden 3299/2020, de 15 de diciembre.
+[Orden 3299/2020](./O3299_2020_regulacion_pruebas_titulos_tecnico_tecnico_superior_formacion_profesional_madrid.md), de 15 de diciembre.
 Decimocuarto
 Expediente académico de los alumnos, certificación y titulación
 El expediente académico, la certificación y la titulación de los alumnos matriculados
-en estas pruebas se regirán por lo dispuesto en los artículos 27 y 28 de la Orden 3299/2020
+en estas pruebas se regirán por lo dispuesto en los artículos 27 y 28 de la [Orden 3299/2020](./O3299_2020_regulacion_pruebas_titulos_tecnico_tecnico_superior_formacion_profesional_madrid.md)
 de 15 de diciembre.
 Decimoquinto
 Alumnos que han agotado las convocatorias en uno o más módulos profesionales
 pertenecientes a ciclos formativos no convocados en la presente convocatoria
-Se estará a lo dispuesto en la disposición adicional primera de la Orden 3299/2020, de 15
+Se estará a lo dispuesto en la disposición adicional primera de la [Orden 3299/2020](./O3299_2020_regulacion_pruebas_titulos_tecnico_tecnico_superior_formacion_profesional_madrid.md), de 15
 de diciembre, teniendo en cuenta que el interesado presentará escrito solicitando la matrícula ex-
 cepcional para dichos módulos profesionales, en el último centro en el que haya cursado las en-
 señanzas, en el plazo establecido para ello en el apartado quinto para la matriculación en las prue-

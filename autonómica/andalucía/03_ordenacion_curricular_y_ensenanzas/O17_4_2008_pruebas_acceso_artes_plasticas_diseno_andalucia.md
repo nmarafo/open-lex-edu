@@ -17,9 +17,14 @@ estado: Vigente
 redaccion: original
 fuente_oficial: http://www.juntadeandalucia.es/boja/2008/87/12
 fuente_pdf_oficial: http://www.juntadeandalucia.es/boja/pdf/2008/87/12
+clasificacion:
+  categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+  subcategoria: Enseñanzas Artísticas
+fundamentos_derecho:
+- norma_id: norm-and-l12-2007-promocion-igualdad-genero-andalucia
+- norma_id: norm-and-l9-1999-solidaridad-en-la-educacion-andalucia
+- norma_id: norm-es-l-53-1984
 ---
-
-
 # Orden de 17 de abril de 2008, por la que se regulan la convocatoria, estructura y organización de las pruebas de acceso a ciclos formativos de las enseñanzas profesionales de Artes Plásticas y Diseño.
 
 ## Preámbulo
@@ -102,7 +107,7 @@ de lucro, para facilitar la escolarización del alumnado
 con graves discapacidades y para la realización de de-
 terminadas actuaciones de compensación educativa, 
 para el curso 2008/09.
-La Ley 9/1999, de 18 de noviembre, de Solidaridad en la 
+La [Ley 9/1999](../06_atencion_diversidad_y_orientacion/L9_1999_solidaridad_en_la_educacion_andalucia.md), de 18 de noviembre, de Solidaridad en la 
 Educación, establece un conjunto de actuaciones que permite 
 que el sistema educativo contribuya a compensar desigualda-
 des y facilite el acceso al mismo al conjunto de la sociedad 
@@ -262,7 +267,7 @@ sentación legal de otras personas jurídicas, en alguno de los
 supuestos de la Ley 12/1995, de 11 de mayo, de Incompa-
 tibilidades de los Miembros del Gobierno de la Nación y de 
 los Altos cargos de la Administración General del Estado, de 
-la Ley 53/1984, de 26 de diciembre, de Incompatibilidades 
+la [Ley 53/1984](../../../estatal/01_marco_normativo_general_y_organico/L53_1984_incompatibilidades_personal_servicio_administraciones_publicas.md), de 26 de diciembre, de Incompatibilidades 
 del Personal al Servicio de las Administraciones Públicas, o 
 tratarse de cualquiera de los cargos electivos regulados en la 
 Ley Orgánica 5/1985, de 19 de junio, del Régimen Electoral 
@@ -462,7 +467,7 @@ sona titular de la Delegación Provincial, que actuará como se-
 cretario o secretaria. 
 2. La persona titular de la Delegación Provincial, al cons-
 tituir la Comisión Provincial, considerará lo establecido en 
-la Ley 12/2007, de 26 de noviembre, para la promoción de
+la [Ley 12/2007](../01_marco_normativo_general_y_organico/L12_2007_promocion_igualdad_genero_andalucia.md), de 26 de noviembre, para la promoción de
 la igualdad de género en Andalucía, con objeto de garantizar la 
 representación equilibrada de mujeres y hombres en la citada 
 Comisión.
@@ -960,7 +965,7 @@ ____________________
 con capacidad para
  residentes escolares. 
 En orden a la prestación del servicio público de la educación en los términos previstos en el Decreto 
-100/1988, de 10 de marzo, por el que se ordenan las Residencias Escolares , en la Ley 9/1999, de 18 de 
+100/1988, de 10 de marzo, por el que se ordenan las Residencias Escolares , en la [Ley 9/1999](../06_atencion_diversidad_y_orientacion/L9_1999_solidaridad_en_la_educacion_andalucia.md), de 18 de 
 noviembre, de Solidaridad en la Educación, y en las demás normas que le sean de aplicación. 
 ACUERDAN
 Suscribir el presente convenio con arreglo a las siguientes cláusulas: 
@@ -1053,7 +1058,7 @@ _, Código de Identificación Fiscal
 alumnos/as, para la realización de 
 servicios y actividades complementarios. 
 En orden a la prestación del servicio público de la educación en los términos previstos en el Decreto 
-100/1988, de 10 de marzo, por el que se ordenan las Residencias Escolares, en la Ley 9/1999, de 18 de 
+100/1988, de 10 de marzo, por el que se ordenan las Residencias Escolares, en la [Ley 9/1999](../06_atencion_diversidad_y_orientacion/L9_1999_solidaridad_en_la_educacion_andalucia.md), de 18 de 
 noviembre, de Solidaridad en la Educación, y en las demás normas que le sean de aplicación. 
 ACUERDAN
 Suscribir el presente convenio con arreglo a las siguientes cláusulas: 
@@ -1143,7 +1148,7 @@ de
 Identificación 
 Fiscal_______________, ubicada en ____________________. 
 En orden a la prestación del servicio público de la educación en los términos previstos en el Decreto 
-100/1988, de 10 de marzo, por el que se ordenan las Residencias Escolares, Ley 9/1999, de 18 de 
+100/1988, de 10 de marzo, por el que se ordenan las Residencias Escolares, [Ley 9/1999](../06_atencion_diversidad_y_orientacion/L9_1999_solidaridad_en_la_educacion_andalucia.md), de 18 de 
 noviembre, de Solidaridad en la Educación, y en las demás normas que le sea de aplicación. 
 Ambas partes se reconocen mutua y recíprocamente la capacidad jurídica y de obrar suficiente para el 
 otorgamiento del presente convenio de colaboración, actuando en representación, respectivamente, de la 

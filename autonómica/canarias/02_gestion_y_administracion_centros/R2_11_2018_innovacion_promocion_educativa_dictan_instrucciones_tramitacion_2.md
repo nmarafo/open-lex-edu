@@ -59,9 +59,11 @@ relaciones:
   - norma_id: norm-can-res-boc-2018-220-18
   - norma_id: norm-can-d-135-2016
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2018-220-5209.pdf
+fundamentos_derecho:
+- norma_id: norm-can-res-boc-2018-220-18
+- norma_id: norm-es-l-39-2015
 ---
-
-# Resolución de 2 de noviembre de 2018, de la Dirección General de Ordenación, Innovación y Promoción Educativa, por la que se dictan instrucciones para la tramitación electrónica del procedimiento por el que se regula la justificación correspondiente a la financiación de otros gastos, en los centros privados concertados de Canarias (BOC n.º 220, de 14 de noviembre).
+# [Resolución de 2 de noviembre de 2018](./R2_11_2018_innovacion_promocion_educativa_dictan_instrucciones_tramitacion.md), de la Dirección General de Ordenación, Innovación y Promoción Educativa, por la que se dictan instrucciones para la tramitación electrónica del procedimiento por el que se regula la justificación correspondiente a la financiación de otros gastos, en los centros privados concertados de Canarias (BOC n.º 220, de 14 de noviembre).
 
 ## Preámbulo
 
@@ -75,7 +77,7 @@ Segundo.- La [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organic
 
 RESUELVO:
 Primero.- Dictar instrucciones sobre el procedimiento por el que se regula la justificación correspondiente a la financiación de otros gastos, en los centros privados concertados de Canarias.
-Segundo.- La presente Resolución surtirá efectos desde el día siguiente de su publicación en el Boletín Oficial de Canarias. Contra la presente Resolución se podrá interponer recurso de alzada ante el Ilmo. Sr. Viceconsejero de Educación y Universidades, en el plazo de un mes a contar desde el día siguiente al de su publicación, de acuerdo con lo dispuesto en los artículos 121 y 122 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas (BOE nº 236, de 2 de octubre). Santa Cruz de Tenerife, a 2 de noviembre de 2018.- El Director General de Ordenación, Innovación y Promoción Educativa, Jonathan Martín Fumero.
+Segundo.- La presente Resolución surtirá efectos desde el día siguiente de su publicación en el Boletín Oficial de Canarias. Contra la presente Resolución se podrá interponer recurso de alzada ante el Ilmo. Sr. Viceconsejero de Educación y Universidades, en el plazo de un mes a contar desde el día siguiente al de su publicación, de acuerdo con lo dispuesto en los artículos 121 y 122 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas (BOE nº 236, de 2 de octubre). Santa Cruz de Tenerife, a 2 de noviembre de 2018.- El Director General de Ordenación, Innovación y Promoción Educativa, Jonathan Martín Fumero.
 
 ## Anexo
 

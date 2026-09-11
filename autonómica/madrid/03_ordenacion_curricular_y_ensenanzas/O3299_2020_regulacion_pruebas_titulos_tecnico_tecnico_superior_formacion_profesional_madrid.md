@@ -28,8 +28,22 @@ tags:
 - tecnico_superior
 - titulacion
 - madrid
+fundamentos_derecho:
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-mad-l12-1999-creacion-consejo-escolar-comunidad-madrid
+- norma_id: norm-mad-l1-1983-gobierno-administracion-comunidad-madrid
+- norma_id: norm-mad-d-63-2019
+- norma_id: norm-es-l-19-2013
+- norma_id: norm-es-l-39-2015
+- norma_id: norm-es-l-40-2015
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-2001-7022
+- norma_id: norm-es-lo-3-2018
+- norma_id: norm-es-rd-1834-2008
+- norma_id: norm-es-2016-3229
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
 ---
-
 # Orden 3299/2020, de 15 de diciembre, de la Consejería de Educación y Juventud, por la que se regula la organización y el procedimiento de las pruebas para la obtención de los títulos de Técnico y Técnico Superior de Formación Profesional en la Comunidad de Madrid
 
 ## Preámbulo
@@ -40,7 +54,7 @@ ORDEN 3299/2020, de 15 de diciembre, de la Consejería de Educación y Juven-
 tud, por la que se regula la organización y el procedimiento de las pruebas para
 la obtención de los títulos de Técnico y Técnico Superior de Formación Profe-
 sional en la Comunidad de Madrid.
-La Ley Orgánica 2/2006, de 3 de mayo, de Educación, dispone en el artículo 69.4 que
+La [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, dispone en el artículo 69.4 que
 las administraciones educativas, en el ámbito de sus competencias, organizarán periódica-
 mente pruebas para obtener directamente el título de Bachiller y los títulos de formación
 profesional de acuerdo con las condiciones y características que establezca el Gobierno por
@@ -53,10 +67,10 @@ profesionales de los ciclos formativos para los que se realizan dichas pruebas, 
 matriculación, las fechas de realización, los centros públicos designados para llevarlas a cabo
 y los currículos a los que se referirán los contenidos sobre los que versarán. Asimismo, el ar-
 tículo 37 determina los requisitos de edad y las condiciones de acceso para participar en ellas,
-que deberán tener en consideración lo dispuesto por la Ley Orgánica 8/2013, de 9 de diciem-
+que deberán tener en consideración lo dispuesto por la [Ley Orgánica 8/2013](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md), de 9 de diciem-
 bre, para la mejora de la calidad educativa, en su disposición adicional tercera y en la modifi-
-cación introducida en el artículo 41 de la Ley Orgánica 2/2006, de 3 de mayo.
-El artículo 10.3 del Decreto 63/2019, de 16 de julio, del Consejo de Gobierno, por el
+cación introducida en el artículo 41 de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo.
+El artículo 10.3 del [Decreto 63/2019](./D63_2019_ordenacion_organizacion_formacion_profesional_madrid.md), de 16 de julio, del Consejo de Gobierno, por el
 que se regula la ordenación y organización de la formación profesional en la Comunidad de
 Madrid dispone que “La Consejería competente en materia de educación regulará la orga-
 nización de las pruebas para la obtención de los títulos de Técnico y Técnico Superior en la
@@ -73,14 +87,14 @@ formativas correspondientes, sin que puedan ser susceptibles de evaluación medi
 prueba puntual. Asimismo, para poder efectuar la matrícula en los mismos será necesario
 reunir los requisitos de acceso establecidos en la normativa vigente, sin perjuicio de que di-
 cha matrícula se efectúe en el marco de las pruebas reguladas en la presente orden.
-La Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Ad-
+La [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Administrativo Común de las Ad-
 ministraciones Públicas ha introducido modificaciones en materia de tramitación de los
 procedimientos al establecer como objetivo la creación de la Administración telemática y
 garantizar el derecho de los ciudadanos a comunicarse con las administraciones públicas a
 través de un Punto de Acceso General electrónico, objetivo, por tanto, que se trata de cum-
 plir con la aprobación de la presente orden.
 Igualmente, se da cumplimiento a los principios de buena regulación administrativa re-
-cogidos en el artículo 129.1 de la Ley 39/2015, de 1 de octubre, del Procedimiento Admi-
+cogidos en el artículo 129.1 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Admi-
 nistrativo Común de las Administraciones Públicas.
 La presente orden se dicta conforme al principio de necesidad y eficacia, puesto que
 desarrolla y regula las pruebas de obtención de los títulos de Técnico y Técnico Superior de
@@ -95,7 +109,7 @@ dan obtener dichos títulos.
 Asimismo, se dicta conforme al principio de proporcionalidad, puesto que recoge to-
 dos los aspectos imprescindibles para el adecuado desarrollo de las pruebas de obtención
 de los títulos de Técnico y Técnico Superior de formación profesional, y no se extralimita
-en sus disposiciones respecto a lo establecido en la normativa básica y el Decreto 63/2019,
+en sus disposiciones respecto a lo establecido en la normativa básica y el [Decreto 63/2019](./D63_2019_ordenacion_organizacion_formacion_profesional_madrid.md),
 de 16 de julio. Por otro lado, ofrece la oportuna seguridad jurídica en cuanto que contribu-
 ye, además de a lograr un ordenamiento autonómico sólido y coherente con el marco legis-
 lativo en materia de obtención de títulos, al desarrollo de una reglamentación integrada y
@@ -108,11 +122,11 @@ blecido en la Ley 10/2019, de 10 de abril, de Transparencia y de Participación 
 Comunidad de Madrid y lo dispuesto en el artículo 26.6 de la Ley 50/1997, de 27 de no-
 viembre, de Gobierno.
 Asimismo, ha emitido dictamen el Consejo Escolar de la Comunidad de Madrid, de
-acuerdo con lo establecido en el artículo 2.1 de la Ley 12/1999, de 29 de abril, de Creación
+acuerdo con lo establecido en el artículo 2.1 de la [Ley 12/1999](../01_marco_normativo_general_y_organico/L12_1999_creacion_consejo_escolar_comunidad_madrid.md), de 29 de abril, de Creación
 del Consejo Escolar de la Comunidad de Madrid.
 Por todo ello, en el ejercicio de las competencias que le atribuye el artículo 41.d), de
-la Ley 1/1983, de 13 de diciembre, de Gobierno y Administración de la Comunidad de
-Madrid, en el artículo 10.3 del Decreto 63/2019, 16 de julio, del Consejo de Gobierno, por
+la [Ley 1/1983](../01_marco_normativo_general_y_organico/L1_1983_gobierno_administracion_comunidad_madrid.md), de 13 de diciembre, de Gobierno y Administración de la Comunidad de
+Madrid, en el artículo 10.3 del [Decreto 63/2019](./D63_2019_ordenacion_organizacion_formacion_profesional_madrid.md), 16 de julio, del Consejo de Gobierno, por
 el que se regula la ordenación y organización de la formación profesional en la Comunidad
 de Madrid y de conformidad con lo establecido en el Decreto 288/2019, de 12 de noviem-
 bre, del Consejo de Gobierno, por el que se establece la estructura orgánica de la Conseje-
@@ -134,14 +148,14 @@ La finalidad de estas pruebas es ofrecer la oportunidad de obtener directamente 
 
 ## Título d. e Técnico y Técnico Superior de formación profesional mediante la superación de
 
-las mismas, tal y como se recoge en el artículo 10.1 del Decreto 63/2019, de 16 de julio, del
+las mismas, tal y como se recoge en el artículo 10.1 del [Decreto 63/2019](./D63_2019_ordenacion_organizacion_formacion_profesional_madrid.md), de 16 de julio, del
 Consejo de Gobierno por el que se regula la ordenación y organización de la formación pro-
 fesional en la Comunidad de Madrid.
 
 #### Artículo 2. Convocatoria
 
 1.
-De conformidad con el artículo 10.3 del Decreto 63/2019, de 16 de julio, la con-
+De conformidad con el artículo 10.3 del [Decreto 63/2019](./D63_2019_ordenacion_organizacion_formacion_profesional_madrid.md), de 16 de julio, la con-
 sejería competente en materia de educación convocará anualmente las pruebas para la ob-
 tención de los títulos de Técnico y Técnico Superior de formación profesional en el ámbi-
 to de la Comunidad de Madrid. Dicha convocatoria se efectuará mediante resolución de la
@@ -209,7 +223,7 @@ reúnan los requisitos y condiciones establecidos.
 La matrícula podrá efectuarse:
 a)
 Preferentemente de forma telemática, mediante tramitación electrónica, en los re-
-gistros electrónicos previstos en el artículo 16.4.a) de la Ley 39/2015, de 1 de oc-
+gistros electrónicos previstos en el artículo 16.4.a) de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de oc-
 tubre, del Procedimiento Administrativo Común de las Administraciones Públicas
 para cuya presentación se deberá disponer de uno de los Certificados Electrónicos
 reconocidos o cualificados de firma electrónica, que sean operativos en la Comu-
@@ -220,7 +234,7 @@ diciones que se establezcan específicamente para cada tipo de firma.
 b)
 De forma presencial, en la secretaría del centro examinador del ciclo formativo
 correspondiente al título en el que se inscribe o en cualquiera de los lugares pre-
-vistos en el artículo 16.4 apartados b), c), d) y e) de la Ley 39/2015, de 1 de octu-
+vistos en el artículo 16.4 apartados b), c), d) y e) de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octu-
 bre. Si la solicitud se presenta en oficina de Correos, deberá llevarse en sobre
 abierto para que la misma sea fechada y sellada por el personal de Correos antes
 de que se proceda a su certificación. La solicitud se dirigirá al lugar que se deter-
@@ -235,7 +249,7 @@ podrá adjuntarse a la misma en caso de que la persona interesada se oponga de f
 sa a la consulta de los datos contenidos en dicha documentación o cuando, excepcionalmen-
 te, no fuera posible recabar la misma electrónicamente a través de las redes corporativas o
 de consulta a las plataformas de intermediación de datos u otros sistemas electrónicos habi-
-litados al efecto, de acuerdo con lo establecido en el artículo 28.3 de la Ley 39/2015, de 1 de
+litados al efecto, de acuerdo con lo establecido en el artículo 28.3 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de
 octubre.
 5.
 En la matrícula en estas pruebas los solicitantes podrán indicar que desean recibir
@@ -280,7 +294,7 @@ La dirección del centro examinador resolverá la solicitud de exención con car
 individualizado, notificándolo a la persona interesada. En caso que se desestime la
 solicitud, la persona interesada deberá realizar el módulo profesional conforme a lo
 establecido en este artículo. Contra dicha resolución, podrá interponer recurso de
-alzada en los términos previstos en los artículos 115, 121 y 122 de la Ley 39/2015,
+alzada en los términos previstos en los artículos 115, 121 y 122 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md),
 de 1 de octubre, ante la Dirección de Área Territorial correspondiente al centro exa-
 minador en el plazo de un mes desde su notificación. La resolución del recurso de
 alzada pondrá fin a la vía administrativa.
@@ -398,7 +412,7 @@ dor o, en su caso, del organismo competente, las personas solicitantes no quedar
 de realizar la prueba de los módulos profesionales cuyo traslado de calificación solicitaron.
 5.
 Transcurrido el plazo para resolver la solicitud de traslado de calificación confor-
-me a lo dispuesto en el artículo 21 de la Ley 39/2015, de 1 de octubre, en caso de producir-
+me a lo dispuesto en el artículo 21 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, en caso de producir-
 se silencio administrativo, este tendrá efecto desestimatorio.
 
 #### Artículo 11. Admisión y exclusión de la participación en las pruebas
@@ -409,7 +423,7 @@ minador comprobará que cada solicitante reúne los requisitos necesarios para c
 las pruebas y notificará en cada caso la admisión con indicación de los módulos profesio-
 nales en los que se encuentra matriculado o, en su caso, la exclusión con indicación de la
 causa o causas de la misma, sin perjuicio de que puedan efectuarse las subsanaciones y me-
-joras de la solicitud a las que se refiere el artículo 68 de la Ley 39/2015, de 1 de octubre.
+joras de la solicitud a las que se refiere el artículo 68 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre.
 2.
 Efectuadas las notificaciones a las que se refiere el apartado anterior, las personas
 interesadas podrán presentar reclamación por escrito a través del sistema informático que
@@ -423,7 +437,7 @@ días hábiles y las notificará a las personas interesadas.
 4.
 Contra las resoluciones a las que se refiere el apartado anterior las personas intere-
 sadas podrán interponer recurso de alzada en los términos previstos en los artículos 115, 121
-y 122 de la Ley 39/2015, de 1 de octubre, ante la Dirección de Área Territorial a la que esté
+y 122 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, ante la Dirección de Área Territorial a la que esté
 adscrito el centro examinador.
 
 ### Capítulo III. Comisiones de evaluación y actuaciones en ausencia de su nombramiento
@@ -440,8 +454,8 @@ pruebas, siempre que la suma de personas inscritas en los referidos ciclos forma
 igual o superior a quince.
 2.
 Cuando en un mismo centro se convoquen pruebas correspondientes a ciclos for-
-mativos derivados de la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del
-Sistema Educativo, en adelante LOGSE, y de la Ley Orgánica 2/2006, de 3 de mayo, de
+mativos derivados de la [Ley Orgánica 1/1990](../../../estatal/02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md), de 3 de octubre, de Ordenación General del
+Sistema Educativo, en adelante LOGSE, y de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de
 Educación, en adelante LOE, se constituirá una única comisión de evaluación para las fa-
 milias profesionales de los ciclos formativos derivados de ambas normas reguladoras, siem-
 pre que exista correspondencia entre ellas y coincidan las especialidades con atribución do-
@@ -510,7 +524,7 @@ BOCM
 
 1.
 Las comisiones de evaluación funcionarán como órganos colegiados y actuarán
-conforme a lo establecido en la Sección 3.a del Capítulo II de la Ley 40/2015, de 1 de oc-
+conforme a lo establecido en la Sección 3.a del Capítulo II de la [Ley 40/2015](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md), de 1 de oc-
 tubre, de Régimen Jurídico del Sector Público, sin perjuicio de las peculiaridades organiza-
 tivas que se determinan en la presente orden.
 2.
@@ -791,10 +805,10 @@ BOCM
 1.
 En caso de disconformidad con las calificaciones obtenidas, la persona interesada
 podrá interponer recurso de alzada en los términos previstos en los artículos 115, 121 y 122
-de la Ley 39/2015, de 1 de octubre, en el plazo de un mes desde la notificación de las cali-
+de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, en el plazo de un mes desde la notificación de las cali-
 ficaciones obtenidas o, en su caso, de la resolución a la reclamación a la que se refiere el ar-
 tículo 25, ante la Dirección del Área Territorial correspondiente, en cualquiera de los luga-
-res a los que se refiere el artículo 16.4 de la citada Ley 39/2015, de 1 de octubre.
+res a los que se refiere el artículo 16.4 de la citada [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre.
 2.
 La Dirección del Área Territorial correspondiente emitirá resolución motivada
 que pondrá fin a la vía administrativa. Para ello, requerirá informe al Servicio de Inspec-
@@ -873,7 +887,7 @@ profesional.
 
 #### Disposición ADICIONAL SEGUNDA. Pruebas correspondientes a ciclos formativos de las enseñanzas del catálogo de títulos
 
-de la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema
+de la [Ley Orgánica 1/1990](../../../estatal/02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md), de 3 de octubre, de Ordenación General del Sistema
 Educativo, que dejan de impartirse en la Comunidad de Madrid
 Una vez que deje de impartirse el currículo correspondiente a ciclos formativos regu-
 lados al amparo de la LOGSE, durante los dos años siguientes se convocarán las pruebas
@@ -888,7 +902,7 @@ por última o penúltima vez.
 #### Disposición ADICIONAL TERCERA. Datos personales
 
 En lo referente a la obtención, seguridad y confidencialidad de los datos personales de
-los aspirantes, se estará a lo dispuesto en la Ley Orgánica 3/2018, de 5 de diciembre, de Pro-
+los aspirantes, se estará a lo dispuesto en la [Ley Orgánica 3/2018](../../../estatal/02_gestion_y_administracion_centros/LO3_2018_proteccion_datos_personales_garantia_derechos_digitales.md), de 5 de diciembre, de Pro-
 tección de Datos Personales y garantía de los derechos digitales, así como en el Reglamen-
 to (UE) 2016/679 del Parlamento Europeo y del Consejo de 27 de abril de 2016, cuyo de-
 talle podrá consultarse en el Registro de Actividades de Tratamiento de esta Consejería.
@@ -900,7 +914,7 @@ visión de la correcta realización de las pruebas.
 
 #### Disposición ADICIONAL QUINTA. Publicidad y difusión de las pruebas
 
-En cumplimiento de lo establecido en la Ley 19/2013, de 9 de diciembre, de transpa-
+En cumplimiento de lo establecido en la [Ley 19/2013](../../../estatal/01_marco_normativo_general_y_organico/L19_2013_transparencia_acceso_informacion_publica_buen_gobierno.md), de 9 de diciembre, de transpa-
 rencia, acceso a la información pública y buen gobierno, para facilitar el acceso público a
 las pruebas realizadas en convocatorias anteriores, la Dirección de cada centro examinador
 recabará de los presidentes de las comisiones de evaluación la documentación a la que se
@@ -1643,12 +1657,12 @@ deban evaluarse exista, al menos, un profesor con atribución docente según la 
 CS (Catedrático de Enseñanza Secundaria); PS (Profesor de Enseñanza Secundaria); PT (Profesor Técnico de 
 Formación Profesional); LAB (Personal laboral docente de la Comunidad de Madrid); PE (Profesor especialista). 
 (4) 
-La que corresponda según lo establecido en el Real Decreto 1834/2008, de 8 de noviembre, por el que se definen 
+La que corresponda según lo establecido en el [Real Decreto 1834/2008](../../../estatal/02_gestion_y_administracion_centros/RD1834_2008_definen_condiciones_formacion_ejercicio_docencia_educacion.md), de 8 de noviembre, por el que se definen 
 las condiciones de formación para el ejercicio de la docencia en la educación secundaria obligatoria, el 
 bachillerato, la formación profesional y las enseñanzas de régimen especial y se establecen las especialidades de 
 los cuerpos docentes de enseñanza secundaria. 
 (5) 
-Indíquese otras especialidades docentes que se posean acordes con el Real Decreto 1834/2008, de 8 de 
+Indíquese otras especialidades docentes que se posean acordes con el [Real Decreto 1834/2008](../../../estatal/02_gestion_y_administracion_centros/RD1834_2008_definen_condiciones_formacion_ejercicio_docencia_educacion.md), de 8 de 
 noviembre o si se posee habilitación reconocida en alguno de los módulos de los ciclos. 
 (6) 
 Se consignará la clave en el caso de módulos profesionales incluidos en ciclos formativos correspondientes a 

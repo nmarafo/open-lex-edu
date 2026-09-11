@@ -136,9 +136,21 @@ relaciones:
   - norma_id: norm-es-2010-12201
   - norma_id: norm-can-d-212-1991
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2025-246-4231.pdf
+fundamentos_derecho:
+- norma_id: norm-can-d-212-1991
+- norma_id: norm-can-d-84-2024
+- norma_id: norm-can-d-109-1999
+- norma_id: norm-can-d-106-2009
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-mad-r2-12-2025
+- norma_id: norm-es-l-39-2015
+- norma_id: norm-es-l-40-2015
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
+- norma_id: norm-es-lo-8-2021
 ---
-
-# Resolución de 2 de diciembre de 2025, de la Dirección General de Personal y Formación del Profesorado, por la que se convoca procedimiento para la selección de directores y directoras de los centros públicos de enseñanzas no universitarias de la Comunidad Autónoma de Canarias para el periodo de mandato 2026-2030 (BOC n.º 246, de 12 de diciembre).
+# [Resolución de 2 de diciembre de 2025](../../madrid/05_alumnado_y_servicios_escolares/R2_12_2025_instrucciones_admision_alumnado_curso_escolar_madrid.md), de la Dirección General de Personal y Formación del Profesorado, por la que se convoca procedimiento para la selección de directores y directoras de los centros públicos de enseñanzas no universitarias de la Comunidad Autónoma de Canarias para el periodo de mandato 2026-2030 (BOC n.º 246, de 12 de diciembre).
 
 ## Preámbulo
 
@@ -254,7 +266,7 @@ a) Tener una antigüedad de, al menos, cinco años como personal funcionario de 
 b) Haber ejercido funciones docentes como persona funcionaria de carrera durante un periodo de, al menos, cinco años en alguna de las enseñanzas de las que ofrece el centro al que se opta.
 c) Presentar un proyecto de dirección con relación a cada centro al que se opta que deberá ajustarse a lo indicado en la base 2, apartado 2.2, de esta Resolución.
 d) Poder completar el horario lectivo en alguna de las enseñanzas del centro al que se opta.
-e) Acreditar no haber sido condenado por sentencia firme por algún delito contra la libertad e indemnidad sexual, conforme a lo dispuesto en el artículo 57.1 de la Ley Orgánica 8/2021, de 4 de junio, de protección integral a la infancia y la adolescencia frente a la violencia, mediante la aportación de una certificación negativa del Registro Central de Delincuentes Sexuales o una autorización que permita la comprobación automática de la inexistencia de antecedentes en el citado registro.
+e) Acreditar no haber sido condenado por sentencia firme por algún delito contra la libertad e indemnidad sexual, conforme a lo dispuesto en el artículo 57.1 de la [Ley Orgánica 8/2021](../../../estatal/07_convivencia_bienestar_y_protocolos/LO8_2021_proteccion_integral_infancia_adolescencia_frente_violencia.md), de 4 de junio, de protección integral a la infancia y la adolescencia frente a la violencia, mediante la aportación de una certificación negativa del Registro Central de Delincuentes Sexuales o una autorización que permita la comprobación automática de la inexistencia de antecedentes en el citado registro.
 f) No haber sido cesado en el cargo de dirección por incumplimiento grave de las funciones en los últimos cuatro años.
 g) No tener nombramiento como director o directora que se extienda a fecha posterior a la prevista para la toma de posesión en la presente convocatoria. Las personas seleccionadas deberán acreditar en la forma que se establezca, antes de que se produzca el nombramiento, estar en posesión de la certificación acreditativa de haber superado un curso de formación sobre el desarrollo de la función directiva, conforme a lo establecido en el Real Decreto 894/2014, de 17 de octubre, así como de los correspondientes cursos de actualización de competencias directivas, en su caso. De no poseerse la citada acreditación, las personas que resulten admitidas en el presente procedimiento deberán cursar y superar la actividad formativa señalada en el párrafo anterior como requisito indispensable para poder ser nombrado como Director o Directora. A tal fin, el Servicio de Perfeccionamiento de esta Dirección General promoverá convocatoria de formación para que quienes resulten seleccionados dispongan de la misma con anterioridad a que se produzca el nombramiento.
 
@@ -409,7 +421,7 @@ MÉRITOS VALORACIÓN JUSTIFICACIÓN 2.TRAYECTORIA PROFESIONAL (Ver disposiciones
 
 **2.2.** Por pertenecer al Cuerpo de Catedráticos. 0,30 puntos Mérito aportado por la Administración educativa.
 
-**2.3.** Por cada año de servicios efectivos prestados en el centro a cuya dirección se aspira, en la situación de servicio activo en los cuerpos previstos en la Ley Orgánica 2/2006, de 3 de mayo, de Educación que sobrepase los cinco años exigidos como requisito. La fracción de año se computará a razón de 0,033 puntos por mes completo. 0,40 puntos A través del sitio Web de esta Consejería, en el enlace "Actualización telemática de la hoja de servicios" el concursante deberá comprobar los datos que figuran en la misma. Si detectara errores u omisiones, deberá cumplimentar la "solicitud de modificación" que consta en dicha aplicación informática, imprimirla y presentarla junto con las tomas de posesión y cese de aquellos periodos que reclame, en el plazo de presentación de instancias. En cualquier caso, salvo lo anteriormente dicho, no es necesario presentar con la instancia, documentación acreditativa de los periodos y servicios ya mostradas a través de la aplicación informática, pues no se tendrán en cuenta. Sólo es necesario presentar la documentación acreditativa de aquellos periodos que no figuran en dicha relación y de los que se considere que hay un error, siempre que estos sean baremables mediante original y copia para cotejo.
+**2.3.** Por cada año de servicios efectivos prestados en el centro a cuya dirección se aspira, en la situación de servicio activo en los cuerpos previstos en la [Ley Orgánica 2/2006](../05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación que sobrepase los cinco años exigidos como requisito. La fracción de año se computará a razón de 0,033 puntos por mes completo. 0,40 puntos A través del sitio Web de esta Consejería, en el enlace "Actualización telemática de la hoja de servicios" el concursante deberá comprobar los datos que figuran en la misma. Si detectara errores u omisiones, deberá cumplimentar la "solicitud de modificación" que consta en dicha aplicación informática, imprimirla y presentarla junto con las tomas de posesión y cese de aquellos periodos que reclame, en el plazo de presentación de instancias. En cualquier caso, salvo lo anteriormente dicho, no es necesario presentar con la instancia, documentación acreditativa de los periodos y servicios ya mostradas a través de la aplicación informática, pues no se tendrán en cuenta. Sólo es necesario presentar la documentación acreditativa de aquellos periodos que no figuran en dicha relación y de los que se considere que hay un error, siempre que estos sean baremables mediante original y copia para cotejo.
 
 **2.4.** Por cada año de servicios efectivos prestados en la situación de servicio activo en los cuerpos previstos en la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, que sobrepase los cinco años exigidos como requisito. La fracción de año se computará a razón de 0,016 puntos por mes completo. 0,20 puntos En la dirección 
 

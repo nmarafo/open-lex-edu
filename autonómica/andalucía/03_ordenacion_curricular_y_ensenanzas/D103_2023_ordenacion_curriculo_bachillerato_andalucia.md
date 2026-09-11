@@ -16,8 +16,25 @@ estado: Vigente
 redaccion: original
 fuente_oficial: http://www.juntadeandalucia.es/boja/2023/90/4
 fuente_pdf_oficial: http://www.juntadeandalucia.es/boja/pdf/2023/90/4
+clasificacion:
+  categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+  subcategoria: Bachillerato
+fundamentos_derecho:
+- norma_id: norm-and-l12-2007-promocion-igualdad-genero-andalucia
+- norma_id: norm-and-l17-2007
+- norma_id: norm-and-l6-2006-gobierno-comunidad-autonoma-andalucia
+- norma_id: norm-and-l9-2007-administracion-junta-andalucia-laja
+- norma_id: norm-and-d285-2010-regulacion-sistema-informacion-seneca-andalucia
+- norma_id: norm-and-d93-2013-regulacion-formacion-profesorado-sistema-andaluz-andalucia
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-es-l-39-2015
+- norma_id: norm-es-l-40-2015
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-rd-1834-2008
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-rd-243-2022
+- norma_id: norm-es-2010-12201
 ---
-
 # Decreto 103/2023, de 9 de mayo, por el que se establece la ordenación y el currículo de la etapa de Bachillerato en la Comunidad Autónoma de Andalucía.
 
 ## Preámbulo
@@ -64,7 +81,7 @@ cursos en el uso de su autonomía, tal y como se recoge en la citada ley.
 La Ley Orgánica 3/2020, de 29 de diciembre, por tanto, ha venido a establecer un 
 nuevo marco legislativo para la regulación de las enseñanzas, por lo que se considera 
 necesario regular en un nuevo decreto la ordenación y el currículo de Bachillerato, de 
-acuerdo con el referido marco y el Real Decreto 243/2022, de 5 de abril, por el que se 
+acuerdo con el referido marco y el [Real Decreto 243/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD243_2022_establecen_ordenacion_ensenanzas_minimas_bachillerato.md), de 5 de abril, por el que se 
 establecen la ordenación y las enseñanzas mínimas del Bachillerato.
 En este decreto se establecen la ordenación y las líneas fundamentales del currículo 
 de Bachillerato, estableciendo la ordenación general, la organización de las enseñanzas, 
@@ -142,7 +159,7 @@ https://www.juntadeandalucia.es/eboja
 El currículo andaluz de la etapa ha de tomar como eje estratégico y vertebrador del 
 proceso de enseñanza y aprendizaje el desarrollo de las capacidades del alumnado 
 y la integración de las competencias clave en el currículo educativo y en las prácticas 
-docentes. La Ley 17/2007, de 10 de diciembre, de Educación de Andalucía y las 
+docentes. La [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre, de Educación de Andalucía y las 
 orientaciones de la Unión Europea, inciden en la necesidad de la adquisición de las 
 competencias clave por parte de la ciudadanía como condición indispensable para lograr 
 que las personas puedan alcanzar su pleno desarrollo individual, social y profesional. El 
@@ -158,7 +175,7 @@ alumnado mayor de edad, opten por no cursar enseñanzas de Religión. Así, se e
 la misma carga horaria dentro del horario lectivo reglado y con las mismas características 
 en cuanto a la evaluación y calificación de las enseñanzas de Religión.
 El presente decreto se ha elaborado atendiendo a los principios de buena regulación 
-contenidos en el artículo 129 de la Ley 39/2015, de 1 de octubre, del Procedimiento 
+contenidos en el artículo 129 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento 
 Administrativo Común de las Administraciones Públicas, principios de necesidad, 
 eficacia, proporcionalidad, seguridad jurídica, transparencia y eficiencia, en tanto que 
 persigue un interés general al proporcionar a la ciudadanía un marco normativo de las 
@@ -171,14 +188,14 @@ ordenamiento jurídico y permitiendo una gestión más eficiente de los recursos
 por lo que quedan justificados los objetivos que persigue la citada Ley. Además, en el 
 procedimiento de elaboración de este decreto se ha permitido y facilitado la participación y 
 las aportaciones de las personas potenciales destinatarias a través de los procedimientos 
-de audiencia e información pública regulados en el artículo 133 de la citada ley 39/2015, 
+de audiencia e información pública regulados en el artículo 133 de la citada [ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), 
 de 1 de octubre. Asimismo, se ha tenido en cuenta en la elaboración de esta norma lo 
 dispuesto en el artículo 7.2 del Decreto 622/2019, de 27 de diciembre, de administración 
 electrónica, simplificación de procedimientos y racionalización organizativa de la Junta 
 de Andalucía. Por ello, contiene la regulación imprescindible para atender la necesidad 
 a cubrir con la norma y se dicta en coherencia con el ordenamiento jurídico autonómico.
 En su virtud, a propuesta de la Consejera de Desarrollo Educativo y Formación 
-Profesional, conforme a los artículos 21.3 y 27.8 de la Ley 6/2006, de 24 de octubre, 
+Profesional, conforme a los artículos 21.3 y 27.8 de la [Ley 6/2006](../01_marco_normativo_general_y_organico/L6_2006_gobierno_comunidad_autonoma_andalucia.md), de 24 de octubre, 
 del Gobierno de la Comunidad Autónoma de Andalucía, de acuerdo con el Consejo 
 Consultivo de Andalucía y previa deliberación del Consejo de Gobierno, en su reunión del 
 día 9 de mayo de 2023,
@@ -205,8 +222,8 @@ que impartan estas enseñanzas.
 
 ### Artículo 2. La etapa de Bachillerato en el marco del Sistema Educativo.
 
-1. Tal y como se dispone en los artículos 3.4 y 32 de la Ley Orgánica 2/2006, de 3 de 
-mayo, de Educación, y en el artículo 3 del Real Decreto 243/2022, de 5 de abril, por el 
+1. Tal y como se dispone en los artículos 3.4 y 32 de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de 
+mayo, de Educación, y en el artículo 3 del [Real Decreto 243/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD243_2022_establecen_ordenacion_ensenanzas_minimas_bachillerato.md), de 5 de abril, por el 
 que se establecen la ordenación y las enseñanzas mínimas de Bachillerato, la educación 
 secundaria se divide en Educación Secundaria Obligatoria y Educación Secundaria 
 Postobligatoria.
@@ -222,7 +239,7 @@ formación o permita la incorporación a la vida activa una vez finalizado el mi
 ordinario durante cuatro años.
 5. Sin perjuicio de lo establecido en el apartado 3, mediante Orden de la Consejería 
 competente en materia de educación y de acuerdo con lo establecido en el artículo 15 
-del Real Decreto 243/2022, de 5 de abril, el alumnado podrá realizar la etapa en tres 
+del [Real Decreto 243/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD243_2022_establecen_ordenacion_ensenanzas_minimas_bachillerato.md), de 5 de abril, el alumnado podrá realizar la etapa en tres 
 años académicos, en régimen ordinario, siempre que sus circunstancias personales, 
 permanentes o transitorias, lo aconsejen. En estos casos se contemplará la posibilidad 
 de que el alumnado curse simultáneamente materias de ambos cursos de Bachillerato.
@@ -235,7 +252,7 @@ futuro formativo y profesional, y capacitar para el acceso a la educación super
 ### Artículo 3. Definiciones.
 
 1. A efectos de los elementos que articulan el currículo y teniendo en cuenta el artículo 2 
-del Real Decreto 243/2022, de 5 de abril, se entenderá por:
+del [Real Decreto 243/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD243_2022_establecen_ordenacion_ensenanzas_minimas_bachillerato.md), de 5 de abril, se entenderá por:
 a) Objetivos: logros que se espera que el alumnado haya alcanzado al finalizar la 
 etapa y cuya consecución está vinculada a la adquisición de las competencias clave.
 b) Competencias clave: desempeños que se consideran imprescindibles para que el 
@@ -371,7 +388,7 @@ climático y en la defensa del desarrollo sostenible.
 
 ### Artículo 6. Principios pedagógicos.
 
-Sin perjuicio de lo establecido en el artículo 6 del Real Decreto 243/2022, de 5 de 
+Sin perjuicio de lo establecido en el artículo 6 del [Real Decreto 243/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD243_2022_establecen_ordenacion_ensenanzas_minimas_bachillerato.md), de 5 de 
 abril, el currículo de la etapa de Bachillerato responderá a los siguientes principios:
 a) La intervención educativa buscará desarrollar y asentar progresivamente las bases 
 que faciliten al alumnado una adecuada adquisición de las competencias clave previstas 
@@ -408,7 +425,7 @@ folklore, las distintas variedades de la modalidad lingüística andaluza, la di
 manifestaciones artísticas como el flamenco, la música, la literatura o la pintura, entre ellas; 
 tanto tradicionales como actuales, así como las contribuciones de sus mujeres y hombres 
 a la construcción del acervo cultural andaluz, formarán parte, del desarrollo del currículo.
-g) Atendiendo a lo recogido en el Capítulo I del Título II de la Ley 12/2007, de 26 de 
+g) Atendiendo a lo recogido en el Capítulo I del Título II de la [Ley 12/2007](../01_marco_normativo_general_y_organico/L12_2007_promocion_igualdad_genero_andalucia.md), de 26 de 
 noviembre, para la promoción de la igualdad de género en Andalucía, se favorecerá la 
 resolución pacífica de conflictos y modelos de convivencia basados en la diversidad, la 
 tolerancia y el respeto a la igualdad de derechos y oportunidades de mujeres y hombres.
@@ -453,8 +470,8 @@ Acceso y ordenación de la etapa
 
 ### Artículo 8. Acceso.
 
-Conforme a lo establecido en el artículo 32.2 de la Ley Orgánica 2/2006, de 3 de 
-mayo, así como en el artículo 5.1 del Real Decreto 243/2022, de 5 de abril, podrán 
+Conforme a lo establecido en el artículo 32.2 de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de 
+mayo, así como en el artículo 5.1 del [Real Decreto 243/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD243_2022_establecen_ordenacion_ensenanzas_minimas_bachillerato.md), de 5 de abril, podrán 
 acceder a los estudios de la etapa quienes estén en posesión del título de Graduado en 
 Educación Secundaria Obligatoria o de cualquiera de los títulos de Técnico o Técnico 
 Superior de Formación Profesional, o de Artes Plásticas y Diseño, o Técnico Deportivo o 
@@ -468,14 +485,14 @@ alumnado acorde con sus perspectivas e intereses de formación o permita la inco
 a la vida activa una vez finalizado el mismo. Según lo dispuesto en el artículo 3.3 del Real 
 Decreto 243/2022, de 5 de abril, la etapa se organizará en materias comunes, materias 
 de modalidad y materias optativas.
-2. Conforme a lo establecido en el artículo 34 de la Ley Orgánica 2/2006, de 3 de 
+2. Conforme a lo establecido en el artículo 34 de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de 
 mayo, las modalidades de Bachillerato que podrá ofertar la Consejería competente en 
 materia de educación y, en su caso, los centros docentes serán las siguientes:
 a) Artes.
 b) Ciencias y Tecnología.
 c) General.
 d) Humanidades y Ciencias Sociales.
-3. Conforme a lo establecido en el artículo 8 del Real Decreto 243/2022, de 5 de abril, 
+3. Conforme a lo establecido en el artículo 8 del [Real Decreto 243/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD243_2022_establecen_ordenacion_ensenanzas_minimas_bachillerato.md), de 5 de abril, 
 la modalidad de Artes se organizará en dos vías, referida, una de ellas a Artes Plásticas, 
 Imagen y Diseño; y la otra, a Música y Artes Escénicas. El alumnado que opte por la 
 modalidad de Artes deberá elegir entre una de esas dos vías.
@@ -501,7 +518,7 @@ efectos se establezca por Orden de la Consejería competente en materia de educa
 
 ### Artículo 10. Ordenación del primer curso.
 
-1. Según lo dispuesto en el artículo 9.1. del Real Decreto 243/2022, de 5 de abril, 
+1. Según lo dispuesto en el artículo 9.1. del [Real Decreto 243/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD243_2022_establecen_ordenacion_ensenanzas_minimas_bachillerato.md), de 5 de abril, 
 las materias comunes a todas las modalidades para primer curso de la etapa serán las 
 siguientes:
 
@@ -516,7 +533,7 @@ a) Educación Física.
 b) Filosofía.
 c) Lengua Castellana y Literatura I.
 d) Lengua Extranjera I.
-2. Conforme a lo establecido en el artículo 10.2. del Real Decreto 243/2022, de 5 de 
+2. Conforme a lo establecido en el artículo 10.2. del [Real Decreto 243/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD243_2022_establecen_ordenacion_ensenanzas_minimas_bachillerato.md), de 5 de 
 abril, en la vía de Artes Plásticas, Imagen y Diseño de la modalidad de Artes, el alumnado 
 cursará Dibujo Artístico I y otras dos materias de modalidad, que elegirá de entre las 
 siguientes:
@@ -524,7 +541,7 @@ a) Cultura Audiovisual.
 b) Dibujo Técnico Aplicado a las Artes Plásticas y al Diseño I.
 c) Proyectos Artísticos.
 d) Volumen. 
-3. De acuerdo a lo establecido en el artículo 10.4. del Real Decreto 243/2022, de 5 
+3. De acuerdo a lo establecido en el artículo 10.4. del [Real Decreto 243/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD243_2022_establecen_ordenacion_ensenanzas_minimas_bachillerato.md), de 5 
 de abril, en la vía de Música y Artes Escénicas de la modalidad de Artes, el alumnado 
 cursará, a su elección, Análisis Musical I o Artes Escénicas I, así como otras dos materias 
 de modalidad, que elegirán de entre las siguientes:
@@ -533,19 +550,19 @@ b) Artes Escénicas I.
 c) Coro y Técnica Vocal I.
 d) Cultura Audiovisual.
 e) Lenguaje y Práctica Musical.
-4. Según lo establecido en el artículo 11.1. del Real Decreto 243/2022, de 5 de abril, 
+4. Según lo establecido en el artículo 11.1. del [Real Decreto 243/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD243_2022_establecen_ordenacion_ensenanzas_minimas_bachillerato.md), de 5 de abril, 
 en la modalidad de Ciencias y Tecnología, el alumnado cursará Matemáticas I, así como 
 otras dos materias de modalidad que elegirán de entre las siguientes:
 a) Biología, Geología y Ciencias Ambientales.
 b) Dibujo Técnico I.
 c) Física y Química.
 d) Tecnología e Ingeniería I.
-5. Conforme establece el artículo 12.1. del Real Decreto 243/2022, de 5 de abril, en 
+5. Conforme establece el artículo 12.1. del [Real Decreto 243/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD243_2022_establecen_ordenacion_ensenanzas_minimas_bachillerato.md), de 5 de abril, en 
 la modalidad General, el alumnado cursará Matemáticas Generales y otras dos materias 
 que elegirá de entre todas las materias de modalidad de primer curso que se oferten en el 
 centro. Dicha oferta incluirá obligatoriamente la materia de Economía, Emprendimiento y 
 Actividad Empresarial específica de esta modalidad. 
-6. Según lo recogido en el artículo 13.1. del Real Decreto 243/2022, de 5 de abril, en 
+6. Según lo recogido en el artículo 13.1. del [Real Decreto 243/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD243_2022_establecen_ordenacion_ensenanzas_minimas_bachillerato.md), de 5 de abril, en 
 la modalidad de Humanidades y Ciencias Sociales, el alumnado cursará, a su elección, 
 Latín I o Matemáticas Aplicadas a las Ciencias Sociales I, así como otras dos materias de 
 modalidad que elegirá de entre las siguientes:
@@ -555,7 +572,7 @@ c) Historia del Mundo Contemporáneo.
 d) Latín I.
 e) Literatura Universal.
 f) Matemáticas Aplicadas a las Ciencias Sociales I.
-7. Asimismo, de conformidad con el artículo 14 del Real Decreto 243/2022, de 5 de 
+7. Asimismo, de conformidad con el artículo 14 del [Real Decreto 243/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD243_2022_establecen_ordenacion_ensenanzas_minimas_bachillerato.md), de 5 de 
 abril, en cualquiera de las modalidades o vías, el alumnado debe cursar, a su elección, 
 dos o tres materias optativas, en función de la regulación y de la programación de la oferta 
 educativa que establezca por Orden la Consejería competente en materia de educación, 
@@ -576,14 +593,14 @@ https://www.juntadeandalucia.es/eboja
 
 ### Artículo 11. Ordenación del segundo curso.
 
-1. Según lo dispuesto en el artículo 9.2. del Real Decreto 243/2022, de 5 de abril, las 
+1. Según lo dispuesto en el artículo 9.2. del [Real Decreto 243/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD243_2022_establecen_ordenacion_ensenanzas_minimas_bachillerato.md), de 5 de abril, las 
 materias comunes a todas las modalidades para segundo curso de la etapa serán las 
 siguientes:
 a) Historia de España.
 b) Historia de la Filosofía.
 c) Lengua Castellana y Literatura II.
 d) Lengua Extranjera II.
-2. Conforme a lo establecido en el artículo 10.3. del Real Decreto 243/2022, de 5 de 
+2. Conforme a lo establecido en el artículo 10.3. del [Real Decreto 243/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD243_2022_establecen_ordenacion_ensenanzas_minimas_bachillerato.md), de 5 de 
 abril, en la vía de Artes Plásticas, Imagen y Diseño de la modalidad de Artes, el alumnado 
 cursará Dibujo Artístico II y otras dos materias de modalidad, que elegirá de entre las 
 siguientes:
@@ -591,7 +608,7 @@ a) Dibujo Técnico Aplicado a las Artes Plásticas y al Diseño II.
 b) Diseño.
 c) Fundamentos Artísticos.
 d) Técnicas de Expresión Gráfico-plástica.
-3. De acuerdo a lo establecido en el artículo 10.5. del Real Decreto 243/2022, de 5 
+3. De acuerdo a lo establecido en el artículo 10.5. del [Real Decreto 243/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD243_2022_establecen_ordenacion_ensenanzas_minimas_bachillerato.md), de 5 
 de abril, en la vía de Música y Artes Escénicas de la modalidad de Artes, el alumnado 
 cursará, a su elección, Análisis Musical II o Artes Escénicas II, así como otras dos 
 materias de modalidad, que elegirán de entre las siguientes:
@@ -600,7 +617,7 @@ b) Artes Escénicas II.
 c) Coro y Técnica Vocal II.
 d) Historia de la Música y de la Danza.
 e) Literatura Dramática.
-4. Según lo establecido en el artículo 11.2. del Real Decreto 243/2022, de 5 de abril, en 
+4. Según lo establecido en el artículo 11.2. del [Real Decreto 243/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD243_2022_establecen_ordenacion_ensenanzas_minimas_bachillerato.md), de 5 de abril, en 
 la modalidad de Ciencias y Tecnología, el alumnado cursará, a su elección, Matemáticas 
 II o Matemáticas Aplicadas a las Ciencias Sociales II, así como otras dos materias de 
 modalidad que elegirá entre las siguientes:
@@ -610,12 +627,12 @@ c) Física.
 d) Geología y Ciencias Ambientales.
 e) Química.
 f) Tecnología e Ingeniería II.
-5. Conforme establece el artículo 12.2. del Real Decreto 243/2022, de 5 de abril, en 
+5. Conforme establece el artículo 12.2. del [Real Decreto 243/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD243_2022_establecen_ordenacion_ensenanzas_minimas_bachillerato.md), de 5 de abril, en 
 la modalidad General, el alumnado cursará Ciencias Generales y otras dos materias que 
 elegirá de entre todas las materias de modalidad de segundo curso que se oferten en 
 el centro. Dicha oferta incluirá obligatoriamente la materia de Movimientos Culturales y 
 Artísticos específica de esta modalidad.
-6. Según lo recogido en el artículo 13.2. del Real Decreto 243/2022, de 5 de abril, 
+6. Según lo recogido en el artículo 13.2. del [Real Decreto 243/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD243_2022_establecen_ordenacion_ensenanzas_minimas_bachillerato.md), de 5 de abril, 
 en la modalidad de Humanidades y Ciencias Sociales, cursará, a su elección, Latín II 
 o Matemáticas Aplicadas a las Ciencias Sociales II, así como otras dos materias de 
 modalidad que elegirá de entre las siguientes:
@@ -625,7 +642,7 @@ c) Griego II.
 d) Historia del Arte.
 e) Latín II. 
 f) Matemáticas Aplicadas a las Ciencias Sociales II.
-7. Asimismo, de conformidad con el artículo 14 del Real Decreto 243/2022, de 5 de 
+7. Asimismo, de conformidad con el artículo 14 del [Real Decreto 243/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD243_2022_establecen_ordenacion_ensenanzas_minimas_bachillerato.md), de 5 de 
 abril, en cualquiera de las modalidades o vías, el alumnado debe cursar, a su elección, 
 dos o tres materias optativas, en función de la regulación y de la programación de la oferta 
 
@@ -706,7 +723,7 @@ Lengua Extranjera junto con la materia en cuestión de manera que se conforme un
 ámbito de conocimiento.
 3. Los centros docentes que impartan una parte de las materias del currículo en lenguas 
 extranjeras aplicarán, en todo caso, los criterios para la admisión del alumnado establecidos 
-en el artículo 86 de la Ley Orgánica 2/2006, de 3 de mayo, y en la normativa específica de 
+en el artículo 86 de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, y en la normativa específica de 
 aplicación en Andalucía. Entre tales criterios no se incluirán requisitos lingüísticos.
 
 ## CAPÍTULO IV
@@ -715,7 +732,7 @@ Evaluación, promoción y titulación
 
 ### Artículo 14. Evaluación.
 
-1. En desarrollo de lo dispuesto en el artículo 20 del Real Decreto 243/2022, de 5 de 
+1. En desarrollo de lo dispuesto en el artículo 20 del [Real Decreto 243/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD243_2022_establecen_ordenacion_ensenanzas_minimas_bachillerato.md), de 5 de 
 abril, la evaluación del aprendizaje del alumnado será continua y diferenciada según las 
 distintas materias.
 2. La evaluación tendrá en cuenta el grado de desarrollo de las competencias clave y 
@@ -748,7 +765,7 @@ Consejería competente en materia de educación.
 
 ### Artículo 15. Promoción.
 
-1. De conformidad con lo establecido en el artículo 21 del Real Decreto 243/2022, de 
+1. De conformidad con lo establecido en el artículo 21 del [Real Decreto 243/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD243_2022_establecen_ordenacion_ensenanzas_minimas_bachillerato.md), de 
 5 de abril, el alumnado promocionará de primero a segundo cuando haya superado las 
 materias cursadas o tengan evaluación negativa en dos materias como máximo. En todo 
 caso, deberán matricularse en segundo curso de las materias no superadas de primero, 
@@ -762,7 +779,7 @@ BOJA
 Depósito Legal: SE-410/1979. ISSN: 2253-802X	
 https://www.juntadeandalucia.es/eboja
 2. La superación de las materias de segundo curso que implican continuidad, 
-recogidas en el Anexo V del Real Decreto 243/2022, de 5 de abril, estará condicionada a 
+recogidas en el Anexo V del [Real Decreto 243/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD243_2022_establecen_ordenacion_ensenanzas_minimas_bachillerato.md), de 5 de abril, estará condicionada a 
 la superación de las correspondientes materias de primer curso. No obstante, dentro de 
 una misma modalidad, el alumnado podrá matricularse de la materia de segundo curso 
 sin haber cursado la correspondiente materia de primer curso, siempre que el profesorado 
@@ -784,7 +801,7 @@ una segunda vez, previo informe favorable del equipo docente.
 
 ### Artículo 16. Título de Bachiller.
 
-1. De conformidad con el artículo 22 del Real Decreto 243/2022, de 5 de abril, el título 
+1. De conformidad con el artículo 22 del [Real Decreto 243/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD243_2022_establecen_ordenacion_ensenanzas_minimas_bachillerato.md), de 5 de abril, el título 
 de Bachiller acredita el logro de los objetivos establecidos para la etapa y la adquisición 
 de las competencias correspondientes. 
 2. Para obtener el título de Bachiller será necesaria la evaluación positiva en todas las 
@@ -813,7 +830,7 @@ especifiquen las materias cursadas y las calificaciones obtenidas.
 
 ### Artículo 17. Obtención del título de Bachiller desde otras enseñanzas.
 
-1. Según lo dispuesto en el artículo 23 del Real Decreto 243/2022, de 5 de abril, 
+1. Según lo dispuesto en el artículo 23 del [Real Decreto 243/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD243_2022_establecen_ordenacion_ensenanzas_minimas_bachillerato.md), de 5 de abril, 
 el alumnado que tenga el título de Técnico o Técnica en Formación Profesional podrá 
 obtener el título de Bachiller en la modalidad General, mediante la superación de las 
 materias comunes.
@@ -869,13 +886,13 @@ designadas por la persona titular de la correspondiente Delegación Territorial.
 recusación, los miembros de las comisiones serán sustituidos por las personas suplentes 
 que, al tiempo de su nombramiento, se hayan designado. Adecuarán sus procedimientos a 
 lo regulado en la Subsección 1.ª de la Sección 3.ª del Capítulo II del Título Preliminar de la 
-Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, y en el Capítulo II del 
+[Ley 40/2015](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md), de 1 de octubre, de Régimen Jurídico del Sector Público, y en el Capítulo II del 
 
-## Título IV de la Ley 9/2007, de 22 de octubre, de la Administración de la Junta de Andalucía.
+## Título IV de la [Ley 9/2007](../01_marco_normativo_general_y_organico/L9_2007_administracion_junta_andalucia_laja.md), de 22 de octubre, de la Administración de la Junta de Andalucía.
 
 3. A fin de garantizar la representación equilibrada de mujeres y hombres en la 
 composición de las Comisiones Técnicas Provinciales de Reclamaciones, se actuará de 
-acuerdo con lo previsto en el artículo 11.2 de la Ley 12/2007, de 26 de noviembre.
+acuerdo con lo previsto en el artículo 11.2 de la [Ley 12/2007](../01_marco_normativo_general_y_organico/L12_2007_promocion_igualdad_genero_andalucia.md), de 26 de noviembre.
 4. Corresponde a las citadas comisiones analizar el expediente y las alegaciones que 
 en él se contengan a la vista de la programación docente de la materia y efectuar una 
 valoración en función de los siguientes criterios:
@@ -904,7 +921,7 @@ procesos de reclamación contra las decisiones adoptadas en el proceso de evalua
 académico, el historial académico y, en su caso, el informe personal por traslado.
 2. Por orden de la persona titular de la Consejería competente en materia de 
 educación se establecerán los modelos y contenidos de estos documentos, sin perjuicio 
-de lo recogido en el artículo 29 del Real Decreto 243/2022, de 5 de abril.
+de lo recogido en el artículo 29 del [Real Decreto 243/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD243_2022_establecen_ordenacion_ensenanzas_minimas_bachillerato.md), de 5 de abril.
 3. El historial académico y, en su caso, el informe personal por traslado se consideran 
 documentos básicos para garantizar la movilidad del alumnado por todo el territorio nacional.
 
@@ -924,8 +941,8 @@ protección de datos de carácter personal y en materia de documentos y archivos
 los mismos de unos centros a otros y a la seguridad y confidencialidad de estos, se estará 
 a lo dispuesto en la legislación vigente en materia de protección de datos de carácter 
 personal y, en todo caso, a lo establecido en la disposición adicional vigesimotercera de 
-la Ley Orgánica 2/2006, de 3 de mayo.
-3. De conformidad con lo dispuesto en el artículo 13.1 del Decreto 285/2010, de 11 de 
+la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo.
+3. De conformidad con lo dispuesto en el artículo 13.1 del [Decreto 285/2010](../02_gestion_y_administracion_centros/D285_2010_regulacion_sistema_informacion_seneca_andalucia.md), de 11 de 
 mayo, por el que se regula el Sistema de Información Séneca y se establece su utilización 
 para la gestión del Sistema Educativo andaluz, los centros docentes sostenidos con 
 fondos públicos cumplimentarán electrónicamente los documentos oficiales de evaluación 
@@ -1028,8 +1045,8 @@ Tutoría y orientación
 1. La tutoría y la orientación forman parte de la función docente. Corresponderá a los 
 centros docentes la programación, desarrollo y evaluación de la acción tutorial que será 
 recogida en el plan de orientación y acción tutorial, incluido en su Proyecto educativo, de 
-acuerdo con lo establecido en el artículo 121.2 de la Ley Orgánica 2/2006, de 3 de mayo.
-2. Según lo dispuesto en el artículo 24 del Real Decreto 243/2022, de 5 de abril, 
+acuerdo con lo establecido en el artículo 121.2 de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo.
+2. Según lo dispuesto en el artículo 24 del [Real Decreto 243/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD243_2022_establecen_ordenacion_ensenanzas_minimas_bachillerato.md), de 5 de abril, 
 en la etapa de Bachillerato, la orientación y la acción tutorial acompañarán el proceso 
 educativo individual y colectivo del alumnado. A tales efectos, se promoverán las 
 medidas necesarias para que constituyan un elemento fundamental en la ordenación 
@@ -1047,7 +1064,7 @@ Autonomía de los centros y participación en el proceso educativo
 
 ### Artículo 25. Autonomía de los centros docentes.
 
-1. De acuerdo con lo establecido en artículo 125.1 de la Ley 17/2007, de 10 de 
+1. De acuerdo con lo establecido en artículo 125.1 de la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de 
 diciembre, de Educación de Andalucía, los centros docentes contarán con autonomía 
 pedagógica, de organización y de gestión para poder llevar a cabo modelos de 
 funcionamiento propios, en el marco de la legislación vigente y en los términos recogidos 
@@ -1070,7 +1087,7 @@ aportaciones a las familias ni exigencias para las Administraciones educativas.
 evolución positiva desde la etapa de Educación Secundaria Obligatoria, a Bachillerato, 
 la Consejería competente en materia de educación establecerá los mecanismos para 
 favorecer la coordinación entre ambas etapas.
-5. Conforme a lo dispuesto en el artículo 110.4 de la Ley Orgánica 2/2006, de 3 
+5. Conforme a lo dispuesto en el artículo 110.4 de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 
 de mayo, los centros docentes, como espacios abiertos a la sociedad de los que son 
 elemento nuclear, promoverán el trabajo y la coordinación con las administraciones, 
 entidades y asociaciones de su entorno inmediato, creando comunidades educativas 
@@ -1092,7 +1109,7 @@ consecuencias derivadas del cambio climático.
 ### Artículo 26. Participación y derecho a la información de los padres, madres o personas
 
 que ejerzan la tutela legal del alumnado en el proceso educativo.
-1. De conformidad con el artículo 28 del Real Decreto 243/2022, de 5 de abril, cuando 
+1. De conformidad con el artículo 28 del [Real Decreto 243/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD243_2022_establecen_ordenacion_ensenanzas_minimas_bachillerato.md), de 5 de abril, cuando 
 el alumnado sea menor de edad, los padres, madres o personas que ejerzan la tutela 
 legal del alumnado deberán participar y apoyar la evolución del proceso educativo del 
 mismo, colaborando en las medidas de atención a la diversidad y a las diferencias 
@@ -1120,8 +1137,8 @@ la implantación de las enseñanzas contempladas en el presente decreto, a la de
 efectuada por los centros docentes y a las necesidades que se desprendan de los 
 programas educativos y de los resultados de la evaluación del alumnado.
 2. Las actividades de formación permanente del profesorado se desarrollarán dentro 
-del marco regulado en el artículo 19 de la Ley 17/2007, de 10 de diciembre, y en el 
-Decreto 93/2013, de 27 de agosto, por el que se regula la formación inicial y permanente 
+del marco regulado en el artículo 19 de la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre, y en el 
+[Decreto 93/2013](../08_personal_docente/D93_2013_regulacion_formacion_profesorado_sistema_andaluz_andalucia.md), de 27 de agosto, por el que se regula la formación inicial y permanente 
 del profesorado en la Comunidad Autónoma de Andalucía, así como el Sistema Andaluz 
 de Formación Permanente del Profesorado, y normas que lo desarrollen.
 
@@ -1155,17 +1172,17 @@ materiales de apoyo al profesorado que faciliten el desarrollo del currículo y 
 ### Disposición adicional primera. Educación de personas adultas.
 
 1. La Consejería competente en materia de educación, de acuerdo con la disposición 
-adicional tercera.1 del Real Decreto 243/2022, de 5 de abril, por el que se establecen la 
+adicional tercera.1 del [Real Decreto 243/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD243_2022_establecen_ordenacion_ensenanzas_minimas_bachillerato.md), de 5 de abril, por el que se establecen la 
 ordenación y las enseñanzas mínimas del Bachillerato, adoptará las medidas oportunas 
 para que las personas adultas dispongan de una oferta específica de estos estudios 
 organizada de acuerdo con sus características. A este respecto, la oferta educativa, 
 adaptada a las condiciones y necesidades de las personas adultas, se regirá por los 
 principios de movilidad y transparencia.
-2. De conformidad con el artículo 67.2 de la Ley Orgánica 2/2006, de 3 de mayo, la 
+2. De conformidad con el artículo 67.2 de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, la 
 organización y la metodología de las enseñanzas para las personas adultas se basarán 
 en el autoaprendizaje y tendrán en cuenta sus experiencias, necesidades e intereses, 
 pudiendo desarrollarse a través de la enseñanza presencial y también mediante la 
-educación a distancia. Asimismo, según lo dispuesto en el artículo 110 de la Ley 17/2007, 
+educación a distancia. Asimismo, según lo dispuesto en el artículo 110 de la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), 
 de 10 de diciembre, estas enseñanzas podrán impartirse también en la modalidad 
 semipresencial.
 3. Con el fin de adaptar la etapa de Bachillerato al principio de flexibilidad que rige la 
@@ -1226,7 +1243,7 @@ dicha localidad, de acuerdo con lo establecido por convenio de colaboración ent
 centros de educación a distancia de personas adultas, o a través de otras formas que 
 garanticen el correcto desarrollo de las pruebas.
 9. La Consejería competente en materia de educación, de acuerdo con lo dispuesto 
-en el artículo 69.4 de la Ley Orgánica 2/2006, de 3 de mayo, organizará periódicamente 
+en el artículo 69.4 de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, organizará periódicamente 
 pruebas para que las personas mayores de veinte años puedan obtener directamente 
 el título de Bachiller de acuerdo con las condiciones y características que establezca el 
 Gobierno por vía reglamentaria siempre que demuestren haber alcanzado los objetivos 
@@ -1255,7 +1272,7 @@ Andaluza.
 La Consejería competente en materia de educación podrá determinar la atribución 
 de las materias optativas propias de la Comunidad que establezca en la etapa de 
 Bachillerato a las diferentes especialidades docentes, de acuerdo con lo establecido en 
-el artículo 5 del Real Decreto 1834/2008, de 8 de noviembre, por el que se definen las 
+el artículo 5 del [Real Decreto 1834/2008](../../../estatal/02_gestion_y_administracion_centros/RD1834_2008_definen_condiciones_formacion_ejercicio_docencia_educacion.md), de 8 de noviembre, por el que se definen las 
 condiciones de formación para el ejercicio de la docencia en la educación secundaria 
 obligatoria, el bachillerato, la formación profesional y las enseñanzas de régimen especial 
 y se establecen las especialidades de los cuerpos docentes de enseñanza secundaria. 
@@ -1290,7 +1307,7 @@ Constitución Española, recogidas en los artículos 3.4 de «Las Enseñanzas»,
 de la «Organización general del bachillerato», 35 de los «Principios pegagógicos», 36.1 y 
 36.2 de la «Evaluación y promoción», 37.1, 37.2, 37.3, 37.4 del «Título de Bachiller», 67.2 
 de la «Organización», 69.4 de las «Enseñanzas postobligatorias» y 121 del «Proyecto 
-educativo», de la Ley Orgánica 2/2006, de 3 de mayo.
+educativo», de la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo.
 2. El contenido de los artículos 2, 4, 5, 6.d), 6.e), 6.h), 8, 9.2, 9.3, 9.4, 9.5, 9.6, 12.1, 
 12.2, 12.4, 12.5, 13.1, 15.3, 15.4, 16.2, 16.3, 16.4, 17.2, 17.3, 19, 21.1, 21.2, 22.3, así como 
 de la disposición adicional primera y segunda reproduce, total o parcialmente, normas 
@@ -1311,7 +1328,7 @@ de la «Autenticidad, seguridad y confidencialidad», así como de la disposici�
 primera. «Enseñanzas de religión», de la disposición adicional segunda. «Enseñanzas 
 del sistema educativo español impartidas en lenguas extranjeras», de la disposición 
 adicional tercera. «Educación de personas adultas» y de la disposición adicional cuarta. 
-«Obtención de nuevas modalidades de Bachillerato», del Real Decreto 243/2022, de 5 de 
+«Obtención de nuevas modalidades de Bachillerato», del [Real Decreto 243/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD243_2022_establecen_ordenacion_ensenanzas_minimas_bachillerato.md), de 5 de 
 abril.
 
 ### Disposición final segunda. Desarrollo y ejecución.
@@ -1342,7 +1359,7 @@ A N E X O
 COMPETENCIAS CLAVE Y PERFIL COMPETENCIAL AL TÉRMINO DE LA ETAPA 
 DE BACHILLERATO
 Con carácter general, debe entenderse que la consecución de las competencias 
-y objetivos previstos en la Ley Orgánica 2/2006, de 3 de mayo, de Educación para 
+y objetivos previstos en la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación para 
 las distintas etapas educativas está vinculada a la adquisición y desarrollo de las 
 competencias clave recogidas tanto en el Perfil de salida al término de la enseñanza 
 básica como en el Perfil competencial al término de Bachillerato, y que son las siguientes: 
@@ -1378,7 +1395,7 @@ suponen una profundización sobre los niveles de desempeño definidos en el Perf
 salida de la Enseñanza Básica incluidos también en este Anexo, posibilitando así una 
 visión clara del progreso esperado.
 PERFIL COMPETENCIAL DE LA ETAPA DE BACHILLERATO 
-Teniendo en cuenta lo regulado en el Real Decreto 243/2022, de 5 de abril, por el 
+Teniendo en cuenta lo regulado en el [Real Decreto 243/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD243_2022_establecen_ordenacion_ensenanzas_minimas_bachillerato.md), de 5 de abril, por el 
 que se establecen la ordenación y las enseñanzas mínimas del Bachillerato y de acuerdo 
 con lo establecido en el artículo 5 del presente decreto, se definen cada una de las 
 competencias clave y se enuncian los descriptores operativos del nivel de adquisición 

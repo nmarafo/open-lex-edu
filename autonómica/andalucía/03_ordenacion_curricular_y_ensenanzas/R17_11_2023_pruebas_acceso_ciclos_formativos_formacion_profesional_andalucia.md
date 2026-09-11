@@ -1,6 +1,8 @@
 ---
 id: norm-and-r17-11-2023-pruebas-acceso-ciclos-formativos-formacion-profesional-andalucia
-titulo: Resolución de 17 de noviembre de 2023, de la Dirección General de Formación Profesional, por la que se convocan las pruebas de acceso a los Ciclos Formativos de Grado Medio y Grado Superior de Formación Profesional en el curso escolar 2023/2024.
+titulo: Resolución de 17 de noviembre de 2023, de la Dirección General de Formación
+  Profesional, por la que se convocan las pruebas de acceso a los Ciclos Formativos
+  de Grado Medio y Grado Superior de Formación Profesional en el curso escolar 2023/2024.
 jurisdiccion: Andalucía
 ambito: Autonómico
 organo_emisor: Dirección General de Ordenación, Inclusión e Innovación Educativa
@@ -17,8 +19,17 @@ fuente_pdf_oficial: http://www.juntadeandalucia.es/boja/2023/225/BOJA23-225-0000
 clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Formación Profesional
+fundamentos_derecho:
+- norma_id: norm-and-l17-2007
+- norma_id: norm-and-o-21-2-2017
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-can-res-134
+- norma_id: norm-es-l-39-2015
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-lo-3-2022
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
 ---
-
 # Resolución de 17 de noviembre de 2023, de la Dirección General de Formación Profesional, por la que se convocan las pruebas de acceso a los Ciclos Formativos de Grado Medio y Grado Superior de Formación Profesional en el curso escolar 2023/2024.
 
 ## Preámbulo
@@ -29,31 +40,31 @@ Resolución de 17 de noviembre de 2023, de la Dirección General de Formación
 Profesional, por la que se convocan las pruebas de acceso a los Ciclos 
 Formativos de Grado Medio y Grado Superior de Formación Profesional en el 
 curso escolar 2023/2024.
-La Ley Orgánica 2/2006, de 3 de mayo, de Educación, establece en su artículo 41 las 
+La [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, establece en su artículo 41 las 
 condiciones de acceso y admisión a las enseñanzas de formación profesional. Entre las 
 condiciones de acceso a los ciclos formativos de grado medio y de grado superior, una 
 de las establecidas es haber superado una prueba de acceso.
-La Ley Orgánica 3/2022, de 31 de marzo, de ordenación e integración de la Formación 
+La [Ley Orgánica 3/2022](../../canarias/08_personal_docente/R30_6_2023_ordenacion_gestion_determinadas_listas_empleo_tras.md), de 31 de marzo, de ordenación e integración de la Formación 
 Profesional establece en su artículo 46 el acceso a los ciclos de grado medio y superior 
 y la obligación de las administraciones educativas de convocar anualmente pruebas 
 de acceso a todos los ciclos formativos que se oferten para aquellas personas que no 
 cumplan los requisitos de acceso.
-Por su parte, el artículo 71.1 de la Ley 17/2007, de 10 de diciembre, de Educación de 
+Por su parte, el artículo 71.1 de la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre, de Educación de 
 Andalucía, establece que, con objeto de garantizar el acceso a los ciclos formativos de 
 formación profesional en igualdad de condiciones, la Administración educativa elaborará 
 los ejercicios de las pruebas de acceso que se convoquen cada año, así como los 
 criterios para su corrección.
-La Orden de 21 de febrero de 2017, por la que se regulan las pruebas de acceso 
+La [Orden de 21 de febrero de 2017](./O21_2_2017_pruebas_acceso_ciclos_formativos_fp_andalucia.md), por la que se regulan las pruebas de acceso 
 a los ciclos formativos de formación profesional de grado medio y grado superior y el 
 curso de formación específico, y la disposición final segunda de la Orden de 6 de abril de 
 2022, por la que se desarrolla el currículo correspondiente al título de Técnico Superior 
 en formación para la movilidad segura y sostenible, que modifica los artículos 5, 10 y 
-11 de dicha Orden de 21 de febrero de 2017, establecen los procedimientos a seguir 
+11 de dicha [Orden de 21 de febrero de 2017](./O21_2_2017_pruebas_acceso_ciclos_formativos_fp_andalucia.md), establecen los procedimientos a seguir 
 para la inscripción en la prueba de acceso a ciclos formativos, a la vez que definen las 
 características de la prueba de acceso tanto de grado medio, como de grado superior, 
 las condiciones de su realización, la calificación y la convocatoria en la Comunidad 
 Autónoma de Andalucía.
-En aplicación de lo dispuesto en el artículo 3 de la Orden de 21 de febrero de 2017, 
+En aplicación de lo dispuesto en el artículo 3 de la [Orden de 21 de febrero de 2017](./O21_2_2017_pruebas_acceso_ciclos_formativos_fp_andalucia.md), 
 procede convocar las pruebas de acceso a los ciclos formativos de grado medio y grado 
 superior de formación profesional, establecer los plazos de presentación de solicitudes, 
 los centros en los que se desarrollarán las pruebas, las fechas, horarios y secuenciación 
@@ -84,7 +95,7 @@ En la relación provisional de personas admitidas y excluidas, se indicará para
 persona aspirante admitida, el centro docente asignado en el que realizará la prueba. Por 
 causas organizativas el centro asignado puede ser un centro distinto al solicitado. Este 
 cambio no dará lugar a alegación alguna por parte del aspirante, según lo recogido en el 
-artículo 9.3 apartado a) de la Orden de 21 de febrero de 2017.
+artículo 9.3 apartado a) de la [Orden de 21 de febrero de 2017](./O21_2_2017_pruebas_acceso_ciclos_formativos_fp_andalucia.md).
 Tercera. Plazos de la convocatoria.
 Los plazos para los diferentes hitos que vertebran la presente convocatoria son los 
 siguientes:
@@ -145,7 +156,7 @@ BOJA
 Depósito Legal: SE-410/1979. ISSN: 2253-802X	
 https://www.juntadeandalucia.es/eboja
 Centros Educativos de la Consejería de Desarrollo Educativo y Formación Profesional, 
-sin perjuicio de lo establecido en el apartado 4 del artículo 16 de la Ley 39/2015 de 1 de 
+sin perjuicio de lo establecido en el apartado 4 del artículo 16 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) de 1 de 
 octubre, del Procedimiento Administrativo y Común de las Administraciones Públicas. 
 c) El listado definitivo de admitidos será publicado, en los lugares referidos en el 
 apartado a) el día 19 de febrero de 2024 e indicará, para las personas admitidas:
@@ -194,7 +205,7 @@ Opción C: Ciencias II.
 Séptima. Calificaciones.
 a) Las comisiones de evaluación de las pruebas de acceso de los centros sede, 
 evaluarán los resultados de las pruebas de acuerdo con lo establecido en el artículo 18 
-de la Orden de 21 de febrero de 2017. 
+de la [Orden de 21 de febrero de 2017](./O21_2_2017_pruebas_acceso_ciclos_formativos_fp_andalucia.md). 
 b) El acta con los resultados de las pruebas de acceso a los ciclos formativos se hará 
 pública en los tablones de anuncios de los centros docentes públicos organizadores de 
 las pruebas y, a efectos meramente informativos, en la Secretaría Virtual de la Consejería 
@@ -216,7 +227,7 @@ días 6, 7 y 8 de mayo de 2024.
 Las reclamaciones se cumplimentarán y presentarán ante la Comisión de pruebas de 
 acceso del centro sede, preferentemente, a través de la Secretaría Virtual de la Consejería 
 de Desarrollo Educativo y Formación Profesional, sin perjuicio de lo establecido en 
-el apartado 4 del artículo 16 de la Ley 39/2015, de 1 de octubre, del Procedimiento 
+el apartado 4 del artículo 16 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento 
 Administrativo y Común de las Administraciones Públicas. 
 b) Una vez resueltas las reclamaciones se procederá a la publicación de las 
 calificaciones definitivas en los tablones de anuncios de los centros docentes públicos 
@@ -227,7 +238,7 @@ Novena. Certificación.
 La persona titular de la secretaría del Instituto de Educación Secundaria en el que se 
 haya inscrito el solicitante expedirá a los participantes una certificación con los resultados 
 definitivos de las pruebas, conforme a los modelos que figuran en los Anexos VIII y IX de 
-la Orden de 21 de febrero de 2017. 
+la [Orden de 21 de febrero de 2017](./O21_2_2017_pruebas_acceso_ciclos_formativos_fp_andalucia.md). 
 Los participantes de las pruebas de acceso podrán descargarse su certificación 
 con las calificaciones definitivas, a través de la Secretaría Virtual de la Consejería de 
 Desarrollo Educativo y Formación Profesional.
@@ -242,7 +253,7 @@ Contra la presente resolución, que no agota la vía administrativa, cabe interp
 el plazo de un mes, contado a partir del día siguiente al de su publicación en el Boletín 
 Oficial de la Junta de Andalucía, recurso de alzada ante la persona titular de la Secretaría 
 General de Educación y Formación Profesional, de conformidad con lo previsto en 
-los artículos 112.1, 121 y 122 de la Ley 39/2015, de 1 de octubre, del Procedimiento 
+los artículos 112.1, 121 y 122 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento 
 Administrativo Común de las Administraciones Públicas, y en el artículo 115.1 de la ley 
 9/2007, de 22 de octubre, de la Administración de la Junta de Andalucía.
 Sevilla, 17 de noviembre de 2023.- La Directora General, María Ángeles Rodríguez 

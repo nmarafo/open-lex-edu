@@ -33,8 +33,15 @@ relaciones:
   - norm-es-lo-2-2006
   - norm-and-l17-2007
   - norm-and-d-19-2007
+fundamentos_derecho:
+- norma_id: norm-and-l17-2007
+- norma_id: norm-and-d19-2007
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
+- norma_id: norm-es-lo-8-2021
 ---
-
 # Guía y Protocolo de actuación para la prevención del riesgo de conductas suicidas y autolesiones del alumnado en los centros educativos de Andalucía.
 
 ## Protocolo y Directrices
@@ -311,7 +318,7 @@ Guía para la prevención del riesgo de conductas suicidas y autolesiones del al
 
 8
 3. Referencias normativas de especial interés.
-La Ley Orgánica 8/2021, de 4 de junio, de protección integral a la infancia y la adolescencia frente
+La [Ley Orgánica 8/2021](../../../estatal/07_convivencia_bienestar_y_protocolos/LO8_2021_proteccion_integral_infancia_adolescencia_frente_violencia.md), de 4 de junio, de protección integral a la infancia y la adolescencia frente
 a la violencia establece, en su artículo 34 (Protocolos de actuación), lo siguiente:
 1. Las administraciones educativas regularán los Protocolos de actuación contra el abuso y
 el maltrato, el acoso escolar, ciberacoso, acoso sexual, violencia de género, violencia
@@ -363,7 +370,7 @@ Guía para la prevención del riesgo de conductas suicidas y autolesiones del al
 Asimismo, en coordinación con las Asociaciones de Madres y Padres de Alumnos, deberá
 promover dicha formación entre los progenitores, y quienes ejerzan funciones de tutela,
 guarda o acogimiento.
-Por su parte, la Ley Orgánica 2/2006, de 3 de mayo, de Educación, modificada por la Ley
+Por su parte, la [Ley Orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, modificada por la Ley
 Orgánica 3/2020, de 29 de diciembre, establece en su artículo 71 que las Administraciones educativas
 dispondrán los medios necesarios para que todo el alumnado alcance el máximo desarrollo
 personal, intelectual, social y emocional.

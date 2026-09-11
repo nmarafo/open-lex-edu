@@ -27,8 +27,12 @@ tags:
 - educacion_primaria
 - centros_docentes
 - madrid
+fundamentos_derecho:
+- norma_id: norm-mad-l12-1999-creacion-consejo-escolar-comunidad-madrid
+- norma_id: norm-mad-l1-1983-gobierno-administracion-comunidad-madrid
+- norma_id: norm-mad-d17-2008-desarrollo-ensenanzas-educacion-infantil-madrid
+- norma_id: norm-es-lo-8-1985
 ---
-
 # Orden 11994/2012, de 21 de diciembre, por la que se regula la jornada escolar en los centros docentes que imparten segundo ciclo de Educación Infantil y Educación Primaria en la Comunidad de Madrid
 
 ## Preámbulo
@@ -48,7 +52,7 @@ riencia adquirida sobre el procedimiento para determinar la jornada escolar en l
 docentes han puesto de manifiesto la conveniencia de actualizar dicha normativa.
 Tanto el Decreto 22/2007, de 10 de mayo, del Consejo de Gobierno, por el que se esta-
 blece para la Comunidad de Madrid el currículo de la Educación Primaria, en su artículo 12.5,
-como el Decreto 17/2008, de 6 de marzo, del propio órgano de Gobierno, por el que se desarro-
+como el [Decreto 17/2008](../03_ordenacion_curricular_y_ensenanzas/D17_2008_desarrollo_ensenanzas_educacion_infantil_madrid.md), de 6 de marzo, del propio órgano de Gobierno, por el que se desarro-
 llan para la Comunidad de Madrid las enseñanzas de Educación Infantil, en sus artículos 8.4
 y 13.5, reconocen que los centros educativos, en el ejercicio de su autonomía, podrán adop-
 tar formas de organización o ampliación del horario escolar en los términos que establezca
@@ -58,10 +62,10 @@ en su respectiva disposición final primera, ambas normas autorizan a la Conseje
 tente a dictar cuantas disposiciones sean necesarias para la interpretación, aplicación y de-
 sarrollo de los citados Decretos.
 En el proceso de elaboración de esta Orden ha emitido dictamen el Consejo Escolar de
-la Comunidad de Madrid, de acuerdo con el artículo 2.1.b) de la Ley 12/1999, de 29 de
+la Comunidad de Madrid, de acuerdo con el artículo 2.1.b) de la [Ley 12/1999](../01_marco_normativo_general_y_organico/L12_1999_creacion_consejo_escolar_comunidad_madrid.md), de 29 de
 abril, de Creación del Consejo Escolar de la Comunidad de Madrid, modificado por el ar-
 tículo 29 de la Ley 9/2010, de 23 de diciembre. Asimismo, se ha tenido en cuenta el artícu-
-lo 41.d) de la Ley 1/1983, de 13 de diciembre, del Gobierno y la Administración de la Co-
+lo 41.d) de la [Ley 1/1983](../01_marco_normativo_general_y_organico/L1_1983_gobierno_administracion_comunidad_madrid.md), de 13 de diciembre, del Gobierno y la Administración de la Co-
 munidad de Madrid.
 Actualmente, es la Consejería de Educación, Juventud y Deporte la que posee atribu-
 ciones para regular los aspectos antedichos, de acuerdo con las competencias que le atribuye
@@ -183,7 +187,7 @@ Segunda
 Jornada escolar de los centros privados no concertados
 Los centros privados no concertados que imparten el segundo ciclo de Educación In-
 fantil y Educación Primaria establecerán la jornada escolar y el horario general del centro
-con la autonomía que les reconoce el artículo 25 de la Ley Orgánica 8/1985, de 3 de julio,
+con la autonomía que les reconoce el artículo 25 de la [Ley Orgánica 8/1985](../../../estatal/02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md), de 3 de julio,
 Reguladora del Derecho a la Educación, y de conformidad con lo establecido en la norma-
 tiva vigente que regula la ordenación de las enseñanzas correspondientes a la Educación In-
 fantil y a la Educación Primaria. El titular del colegio privado comunicará a la Dirección

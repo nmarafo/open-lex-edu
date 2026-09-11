@@ -36,16 +36,26 @@ relaciones:
   - norm-es-lo-2-2006
   - norm-can-l-6-2014
   - norm-es-l-39-2015
+fundamentos_derecho:
+- norma_id: norm-can-l-6-2014
+- norma_id: norm-can-lo-1-2018
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-can-o-2022-03-03-desarrollo-admision
+- norma_id: norm-es-l-39-2015
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-lo-3-2018
+- norma_id: norm-es-lo-8-1985
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
 ---
-
-# Decreto 9/2022, de 20 de enero, por el que se regula la admisión del alumnado en los centros docentes que oferten enseñanzas no universitarias sostenidas con fondos públicos en la Comunidad Autónoma de Canarias.
+# [Decreto 9/2022](./O3_3_2022_desarrollo_procedimiento_admision_alumnado_centros_docentes_canarias.md), de 20 de enero, por el que se regula la admisión del alumnado en los centros docentes que oferten enseñanzas no universitarias sostenidas con fondos públicos en la Comunidad Autónoma de Canarias.
 
 ## Preámbulo
 
 Viernes 28 de enero de 2022
 I. Disposiciones generales
 Consejería de Educación, Universidades, Cultura y Deportes
-DECRETO 9/2022, de 20 de enero, por el que se regula la admisión del alumnado 
+[DECRETO 9/2022](./O3_3_2022_desarrollo_procedimiento_admision_alumnado_centros_docentes_canarias.md), de 20 de enero, por el que se regula la admisión del alumnado 
 en centros docentes que oferten enseñanzas no universitarias sostenidas con fondos 
 públicos en la Comunidad Autónoma de Canarias.
 PREÁMBULO
@@ -53,7 +63,7 @@ El artículo 27 de la Constitución Española establece que todas las personas 
 derecho a la educación, y que los poderes públicos lo garantizan mediante una programación 
 general de la enseñanza, con participación efectiva de todos los sectores afectados y la 
 creación de centros docentes.
-En ese mismo sentido, la Ley Orgánica 1/2018, de 5 de noviembre, de reforma del 
+En ese mismo sentido, la [Ley Orgánica 1/2018](../01_marco_normativo_general_y_organico/LO1_2018_reforma_estatuto_autonomia_canarias.md), de 5 de noviembre, de reforma del 
 Estatuto de Autonomía de Canarias, establece que todas las personas tienen derecho a una 
 educación pública, gratuita, aconfesional y de calidad, prestando especial atención a la 
 educación infantil, en los términos de la ley, y que los poderes públicos canarios deberán 
@@ -66,13 +76,13 @@ universitaria, con relación a las enseñanzas obligatorias y no obligatorias qu
 obtención de un título académico o profesional con validez en todo el Estado, que incluye 
 el establecimiento y la regulación de los criterios de acceso a la educación, de admisión y 
 de escolarización del alumnado en los centros docentes.
-La Ley 6/2014, de 25 de julio, Canaria de Educación no universitaria, en su artículo 51, 
+La [Ley 6/2014](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md), de 25 de julio, Canaria de Educación no universitaria, en su artículo 51, 
 establece que el Gobierno de Canarias regulará la admisión del alumnado en centros 
 públicos y privados concertados, de tal forma que se garantice el derecho a la educación 
 y el acceso en condiciones de igualdad y que, en todo caso, se atenderá a una adecuada y 
 equilibrada distribución entre los centros escolares de alumnado con necesidad específica 
 de apoyo educativo.
-Por su parte, la Ley Orgánica 2/2006, de 3 de mayo, de Educación modificada por la 
+Por su parte, la [Ley Orgánica 2/2006](./O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación modificada por la 
 Ley Orgánica 3/2020, de 29 de diciembre, establece que las Administraciones educativas 
 regularán la admisión de alumnos y alumnas en centros públicos y privados concertados 
 de tal forma que garantice el derecho a la educación, el acceso en condiciones de igualdad 
@@ -98,7 +108,7 @@ privados concertados de la Comunidad Autónoma de Canarias, y la Orden de 27 de
 de 2007, de la Consejería de Educación, Cultura y Deportes, por la que se desarrolla el 
 procedimiento de admisión del alumnado en las enseñanzas no universitarias en los centros 
 docentes públicos y privados concertados de la Comunidad Autónoma de Canarias.
-La última modificación de la Ley Orgánica 2/2006, de 3 de mayo, supone un profundo 
+La última modificación de la [Ley Orgánica 2/2006](./O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, supone un profundo 
 cambio en materia de admisión, tanto en los principios básicos que definen el procedimiento 
 de admisión, como en cuestiones concretas de dicho procedimiento. Así, se establecen 
 nuevos criterios de admisión a aplicar cuando no existan plazas suficientes, como el 
@@ -119,7 +129,7 @@ y la obligación de la Administración de consultar o recabar dichos documentos,
 recoger e instrumentar esas posibilidades en el marco jurídico existente.
 En la tramitación de este Decreto, se ha actuado conforme a los principios de necesidad, 
 eficacia, proporcionalidad, seguridad jurídica, transparencia y eficiencia establecidos en el 
-artículo 129 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de 
+artículo 129 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Administrativo Común de 
 las Administraciones Públicas, dado que, considerando el contenido y alcance de la materia 
 objeto de regulación, la adaptación normativa operada requiere la aprobación de una nueva 
 disposición, resultando insuficiente acudir a la mera modificación del Decreto 61/2007 
@@ -532,9 +542,9 @@ procedimientos que se regulan en el presente Decreto se aplicará lo establecido
 Reglamento (UE) 2016/679, del Parlamento Europeo y del Consejo de 27 de abril de 2016, 
 relativo a la protección de las personas físicas en lo que respecta al tratamiento de datos 
 personales y a la libre circulación de estos datos y por el que se deroga la Directiva 95/46/CE 
-(Reglamento General de Protección de Datos), en la Ley Orgánica 3/2018, de 5 de diciembre, 
+(Reglamento General de Protección de Datos), en la [Ley Orgánica 3/2018](../../../estatal/02_gestion_y_administracion_centros/LO3_2018_proteccion_datos_personales_garantia_derechos_digitales.md), de 5 de diciembre, 
 de Protección de Datos Personales y garantía de los derechos digitales, y en la Disposición 
-adicional vigesimotercera de la Ley Orgánica 2/2006, de 3 de mayo, o normas que las sustituyan.
+adicional vigesimotercera de la [Ley Orgánica 2/2006](./O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, o normas que las sustituyan.
 Disposición adicional cuarta.- Incumplimiento de normas.
 1. La dirección del centro público para el que se solicita plaza deberá velar porque 
 el procedimiento de admisión se realice según lo establecido en el presente Decreto y en 
@@ -547,7 +557,7 @@ empleados o empleadas públicas dará lugar a la apertura del correspondiente pr
 administrativo que determine las responsabilidades en que hubiera podido incurrirse.
 3. En los centros privados concertados el incumplimiento de esta normativa por las 
 personas titulares de los mismos dará lugar a las sanciones previstas en el artículo 62 de la 
-Ley Orgánica 8/1985, de 3 de julio, reguladora del Derecho a la Educación, o normativa 
+[Ley Orgánica 8/1985](../../../estatal/02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md), de 3 de julio, reguladora del Derecho a la Educación, o normativa 
 que la sustituya.
 Disposición adicional quinta.- Escuelas de Educación Infantil.
 Las Escuelas de Educación Infantil de titularidad municipal podrán añadir a los criterios 

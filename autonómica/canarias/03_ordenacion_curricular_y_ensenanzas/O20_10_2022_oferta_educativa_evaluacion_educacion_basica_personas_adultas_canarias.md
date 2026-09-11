@@ -35,8 +35,16 @@ relaciones:
   fundamentado_en:
   - norm-es-lo-2-2006
   - norm-can-l-6-2014
+fundamentos_derecho:
+- norma_id: norm-can-l-13-2003
+- norma_id: norm-can-l-6-2014
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-es-l-39-2015
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-rd-217-2022
+- norma_id: norm-es-2010-12201
 ---
-
 # Orden de 20 de octubre de 2022, por la que se regulan la oferta educativa y la evaluación de las enseñanzas que integran la Educación Básica de Personas Adultas en la Comunidad Autónoma de Canarias.
 
 ## Preámbulo
@@ -47,7 +55,7 @@ Consejería de Educación, Universidades, Cultura y Deportes
 3263	 ORDEN de 20 de octubre de 2022, por la que se regulan la oferta educativa y la 
 evaluación de las enseñanzas que integran la Educación Básica de Personas Adultas 
 en la Comunidad Autónoma de Canarias.
-La Ley Orgánica 2/2006, de 3 de mayo, de Educación, modificada por la Ley 
+La [Ley Orgánica 2/2006](../05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, modificada por la Ley 
 Orgánica 3/2020, de 29 de diciembre, expone en su preámbulo la necesidad de “concebir 
 la formación como un proceso permanente, que se desarrolla durante toda la vida” y 
 de responder a los cambios en el modo en que se aprende y la motivación para seguir 
@@ -80,7 +88,7 @@ excepcional “a los y las mayores de dieciséis años, en los que concurran cir
 les impidan acudir a centros educativos ordinarios y que estén debidamente acreditadas y 
 reguladas” y, por otra, a aquellas personas que no hayan estado escolarizadas en el sistema 
 educativo español.
-La Ley 13/2003, de 4 de abril, de Educación y Formación Permanente de Personas 
+La [Ley 13/2003](../01_marco_normativo_general_y_organico/L13_2003_educacion_formacion_permanente_personas_adultas_canarias.md), de 4 de abril, de Educación y Formación Permanente de Personas 
 Adultas de Canarias, en su artículo 5.4, determina que “corresponde a la consejería 
 competente en materia de educación la ordenación y evaluación de las enseñanzas que 
 conduzcan a titulaciones académicas oficiales, así como la adaptación de sus currículos a 
@@ -101,13 +109,13 @@ de las materias de Geografía e Historia y de Educación en Valores Cívicos y �
 Asimismo, esta disposición posibilita incorporar a estos ámbitos aspectos curriculares 
 de las restantes materias de la Educación Secundaria Obligatoria.
 En la redacción de esta orden, se da cumplimiento a los principios de buena regulación 
-a los que se refiere el artículo 129.1 de la Ley 39/2015, de 1 de octubre, del Procedimiento 
+a los que se refiere el artículo 129.1 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento 
 Administrativo Común de las Administraciones Públicas. Así, la disposición es respetuosa 
 con los principios de necesidad, eficacia y proporcionalidad, en tanto que con ella se 
 consigue el fin perseguido de regular la oferta educativa y la evaluación de la Educación 
 Básica de Personas Adultas en la Comunidad Autónoma de Canarias, aplicando los 
 cambios introducidos por la Ley Orgánica 3/2020, de 29 de diciembre, que modifica 
-la Ley Orgánica 2/2006, de 3 de mayo, de Educación, y por el Real Decreto 217/2022, 
+la Ley Orgánica 2/2006, de 3 de mayo, de Educación, y por el [Real Decreto 217/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD217_2022_establece_ordenacion_ensenanzas_minimas_educacion_secundaria.md), 
 de 29 de marzo, por el que se establece la ordenación y las enseñanzas mínimas de la 
 Educación Secundaria Obligatoria. Asimismo, la iniciativa es coherente con el resto del 
 ordenamiento jurídico, creando un marco normativo estable, predecible, integrado, claro 
@@ -117,7 +125,7 @@ objetivo se encuentra claramente definido, cumpliendo así con los principios de
 jurídica, transparencia y eficiencia.
 Por todo ello, y en virtud de las competencias atribuidas en el artículo 32.c) de la 
 Ley 1/1983, de 14 de abril, del Gobierno y de la Administración Pública de la Comunidad 
-Autónoma de Canarias, y del artículo 5.4 de la Ley 13/2003, de 4 de abril, de Educación 
+Autónoma de Canarias, y del artículo 5.4 de la [Ley 13/2003](../01_marco_normativo_general_y_organico/L13_2003_educacion_formacion_permanente_personas_adultas_canarias.md), de 4 de abril, de Educación 
 y Formación Permanente de Personas Adultas de Canarias, a iniciativa de la Dirección 
 General de Formación Profesional y Educación de Adultos, previo informe del Consejo 
 Escolar de Canarias,

@@ -1,6 +1,11 @@
 ---
 id: norm-and-r20-4-2026-pruebas-acceso-ensenanzas-artisticas-superiores-andalucia
-titulo: Resolución de 20 de abril de 2026, de la Dirección General de Ordenación y Evaluación Educativa, por la que se convocan las pruebas de acceso a las Enseñanzas Artísticas Superiores en la Comunidad Autónoma de Andalucía para el curso 2026/2027, se determinan aspectos de organización de las mismas y se establece el calendario de actuaciones del procedimiento ordinario de acceso, admisión y matriculación en los centros docentes públicos.
+titulo: Resolución de 20 de abril de 2026, de la Dirección General de Ordenación y
+  Evaluación Educativa, por la que se convocan las pruebas de acceso a las Enseñanzas
+  Artísticas Superiores en la Comunidad Autónoma de Andalucía para el curso 2026/2027,
+  se determinan aspectos de organización de las mismas y se establece el calendario
+  de actuaciones del procedimiento ordinario de acceso, admisión y matriculación en
+  los centros docentes públicos.
 jurisdiccion: Andalucía
 ambito: Autonómico
 organo_emisor: Dirección General de Ordenación, Inclusión e Innovación Educativa
@@ -17,8 +22,18 @@ fuente_pdf_oficial: http://www.juntadeandalucia.es/boja/2026/80/BOJA26-080-00033
 clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Enseñanzas Artísticas
+fundamentos_derecho:
+- norma_id: norm-and-d-164-2024
+- norma_id: norm-and-l17-2007
+- norma_id: norm-and-d-54-2022
+- norma_id: norm-and-o-9-2-2022
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-es-l-39-2015
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-2024-11613
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
 ---
-
 # Resolución de 20 de abril de 2026, de la Dirección General de Ordenación y Evaluación Educativa, por la que se convocan las pruebas de acceso a las Enseñanzas Artísticas Superiores en la Comunidad Autónoma de Andalucía para el curso 2026/2027, se determinan aspectos de organización de las mismas y se establece el calendario de actuaciones del procedimiento ordinario de acceso, admisión y matriculación en los centros docentes públicos.
 
 ## Preámbulo
@@ -31,7 +46,7 @@ Enseñanzas Artísticas Superiores en la Comunidad Autónoma de Andalucía
 para el curso 2026/2027, se determinan aspectos de organización de las 
 mismas y se establece el calendario de actuaciones del procedimiento ordinario 
 de acceso, admisión y matriculación en los centros docentes públicos.
-La Ley 1/2024, de 7 de junio, por la que se regulan las enseñanzas artísticas superiores 
+La [Ley 1/2024](../../../estatal/03_ordenacion_curricular_y_ensenanzas/L1_2024_regulan_ensenanzas_artisticas_superiores_establece_organizacion.md), de 7 de junio, por la que se regulan las enseñanzas artísticas superiores 
 y se establece la organización y equivalencias de las enseñanzas artísticas profesionales 
 regula la estructura y organización de las enseñanzas artísticas superiores, señalando 
 como tales las Enseñanzas Artísticas Superiores de Música, las Enseñanzas Artísticas 
@@ -41,7 +56,7 @@ las Enseñanzas Artísticas Superiores de Artes Plásticas, las Enseñanzas Art�
 Superiores de Diseño, las Enseñanzas Artísticas Superiores de Artes Audiovisuales, del 
 Videojuego, de la Animación, y de la Cinematografía, las Enseñanzas Artísticas Superiores 
 de Escritura Creativa y las Enseñanzas Artísticas Superiores de Artes Circenses.
-El Capítulo III, artículo 7, de la citada Ley 1/2024 establece los requisitos necesarios 
+El Capítulo III, artículo 7, de la citada [Ley 1/2024](../../../estatal/03_ordenacion_curricular_y_ensenanzas/L1_2024_regulan_ensenanzas_artisticas_superiores_establece_organizacion.md) establece los requisitos necesarios 
 para acceder a los estudios de grado en enseñanzas artísticas superiores. Asimismo, 
 contempla que, para quienes no cumplan dichos requisitos y acrediten como 
 circunstancia excepcional una competencia o precocidad extraordinaria en la disciplina 
@@ -51,7 +66,7 @@ al finalizar el Bachillerato, conforme a lo dispuesto en el Capítulo IV del Tí
 Ley Orgánica  2/2006, de 3 de mayo, de Educación, y en su normativa de desarrollo. 
 La Dirección General de Ordenación y Evaluación Educativa, en el ejercicio de sus 
 competencias, es el órgano responsable de regular y organizar esta prueba.
-En el ámbito autonómico, el Decreto 54/2022, de 12 de abril, por el que se establece 
+En el ámbito autonómico, el [Decreto 54/2022](./D54_2022_ordenacion_ensenanzas_artisticas_superiores_andalucia.md), de 12 de abril, por el que se establece 
 la ordenación de las enseñanzas artísticas superiores, enseñanzas artísticas de Máster y 
 estudios de doctorado propios de las enseñanzas artísticas en la Comunidad Autónoma 
 de Andalucía, dispone que las enseñanzas artísticas superiores de grado en Arte 
@@ -59,7 +74,7 @@ Dramático, Artes Plásticas, Conservación y Restauración de Bienes Culturales
 Danza y Música se impartirán en los centros docentes públicos de enseñanzas artísticas 
 superiores andaluces y en los centros docentes privados autorizados por la Consejería 
 competente en materia de educación.
-Asimismo, la Orden de 9 de febrero de 2022, por la que se regulan en la Comunidad 
+Asimismo, la [Orden de 9 de febrero de 2022](./O9_2_2022_admision_pruebas_acceso_ensenanzas_artisticas_superiores_andalucia.md), por la que se regulan en la Comunidad 
 Autónoma de Andalucía el acceso, los criterios y los procedimientos de admisión y 
 matriculación del alumnado de Enseñanzas Artísticas Superiores en los centros docentes 
 públicos, así como las pruebas de acceso a las citadas enseñanzas, modificada por la 
@@ -67,7 +82,7 @@ Orden de 8 de abril de 2024, regula tanto el acceso directo como las pruebas de 
 a estas enseñanzas, así como los criterios y procedimientos de admisión y los aspectos 
 relativos a la matriculación del alumnado en los centros docentes públicos que las imparten. 
 En coherencia con los cambios sociales y legislativos producidos en los últimos años, 
-y de conformidad con lo establecido en la Orden de 9 de febrero de 2022, se adoptan 
+y de conformidad con lo establecido en la [Orden de 9 de febrero de 2022](./O9_2_2022_admision_pruebas_acceso_ensenanzas_artisticas_superiores_andalucia.md), se adoptan 
 medidas destinadas a favorecer la integración en las Enseñanzas Artísticas Superiores 
 del alumnado solicitante con una discapacidad reconocida igual o superior al 33%, así 
 como de quienes cumplan los requisitos para ser considerados deportistas de alto nivel o 
@@ -81,8 +96,8 @@ BOJA
 BOJA
 Depósito Legal: SE-410/1979. ISSN: 2253-802X	
 https://www.juntadeandalucia.es/eboja
-En cumplimiento de lo dispuesto en el artículo 6 de la Orden de 9 de febrero de 2022, 
-y en virtud de las competencias atribuidas por el Decreto 164/2024, de 26 de agosto, por 
+En cumplimiento de lo dispuesto en el artículo 6 de la [Orden de 9 de febrero de 2022](./O9_2_2022_admision_pruebas_acceso_ensenanzas_artisticas_superiores_andalucia.md), 
+y en virtud de las competencias atribuidas por el [Decreto 164/2024](../01_marco_normativo_general_y_organico/D164_2024_estructura_organica_consejeria_desarrollo_educativo_andalucia.md), de 26 de agosto, por 
 el que se establece la estructura orgánica de la Consejería de Desarrollo Educativo y 
 Formación Profesional, como Director General de Ordenación y Evaluación Educativa,
 R E S U E L V O
@@ -143,10 +158,10 @@ declarado equivalente u homologado a dichos títulos, o haber superado la prueba
 acceso a la universidad para mayores de 25 años.
 2. Las personas aspirantes de 16 a 18 años sin requisitos académicos que deseen cursar 
 Enseñanzas Artísticas Superiores de Música o Danza, deberán superar la prueba de madurez 
-académica prevista en la Sección 1.ª del Capítulo III de la Orden de 9 de febrero de 2022.
+académica prevista en la Sección 1.ª del Capítulo III de la [Orden de 9 de febrero de 2022](./O9_2_2022_admision_pruebas_acceso_ensenanzas_artisticas_superiores_andalucia.md).
 3. Junto con los requisitos académicos referidos en los apartados 1 y 2 anteriores, para el 
 acceso a las Enseñanzas Artísticas Superiores será necesario superar la prueba específica 
-de acceso prevista en la Sección 2.ª del Capítulo III  de la Orden de 9 de febrero de 2022.
+de acceso prevista en la Sección 2.ª del Capítulo III  de la [Orden de 9 de febrero de 2022](./O9_2_2022_admision_pruebas_acceso_ensenanzas_artisticas_superiores_andalucia.md).
 4. De conformidad con lo dispuesto en el artículo 13.5 del Decreto 258/2011, de 26 
 de julio, por el que se regulan las Enseñanzas Artísticas Superiores de Danza, y en el 
 artículo 13.6 del Decreto 260/2011, de 26 de julio, por el que se regulan las Enseñanzas 
@@ -158,7 +173,7 @@ la prueba específica de acceso una puntuación mínima de 5,00. Asimismo, dicha
 ponderada únicamente se tendrá en cuenta si la calificación final resultante es igual o 
 superior a la obtenida en la prueba específica de la especialidad.
 A estos efectos, las personas aspirantes deberán acreditar la posesión del título profesional 
-conforme a lo dispuesto en los artículos 9.1.a) y 9.2 de la Orden de 9 de febrero de 2022.
+conforme a lo dispuesto en los artículos 9.1.a) y 9.2 de la [Orden de 9 de febrero de 2022](./O9_2_2022_admision_pruebas_acceso_ensenanzas_artisticas_superiores_andalucia.md).
 5. Podrán acceder directamente a las Enseñanzas Artísticas Superiores de Diseño, 
 sin necesidad de realizar la prueba específica de acceso, quienes estén en posesión 
 del título de Técnico Superior de Artes Plásticas y Diseño, reservándose para ello el 
@@ -173,7 +188,7 @@ el supuesto de empate se tendrá en cuenta la nota media obtenida en el módulo 
 Proyecto final o Proyecto integrado del referido ciclo formativo. 
 En caso de que queden plazas disponibles de las reservadas al cupo de acceso 
 directo, éstas se pasarán al cupo general de plazas ofertadas en la misma convocatoria.
-6. De conformidad con el artículo 4.6 de la Orden de 9 de febrero de 2022, se 
+6. De conformidad con el artículo 4.6 de la [Orden de 9 de febrero de 2022](./O9_2_2022_admision_pruebas_acceso_ensenanzas_artisticas_superiores_andalucia.md), se 
 reservará un mínimo del 5% del total de las plazas ofertadas por especialidad para el 
 alumnado solicitante cuya discapacidad reconocida sea igual o superior al 33%.
 
@@ -193,7 +208,7 @@ aspirantes del cupo general, será incluido por su orden de puntuación en la ad
 por cupo general. 
 En caso de que queden plazas disponibles de las reservadas al cupo de discapacidad, 
 estas se pasarán al cupo general de plazas ofertadas en la misma convocatoria.
-7. De conformidad con el artículo 4.7 de la Orden de 9 de febrero de 2022, se reservará 
+7. De conformidad con el artículo 4.7 de la [Orden de 9 de febrero de 2022](./O9_2_2022_admision_pruebas_acceso_ensenanzas_artisticas_superiores_andalucia.md), se reservará 
 un mínimo del 3% del total de las plazas ofertadas por especialidad para el alumnado 
 solicitante que acredite la condición de deportista de alto nivel o de alto rendimiento.
 La adjudicación del alumnado por cupo de deportista de alto nivel o de alto rendimiento 
@@ -297,7 +312,7 @@ Formación Profesional.
 6. Para todos los aspectos relativos al tribunal de evaluación, a la estructura y 
 contenidos de la prueba de madurez académica, a su calificación y a la publicación y 
 reclamación de calificaciones se estará a lo dispuesto en los artículos 13 a 19 del 
-Capítulo III, Sección 1.ª, de la mencionada Orden de 9 de febrero de 2022.
+Capítulo III, Sección 1.ª, de la mencionada [Orden de 9 de febrero de 2022](./O9_2_2022_admision_pruebas_acceso_ensenanzas_artisticas_superiores_andalucia.md).
 
 00336583
  Número 80 - Martes, 28 de abril de 2026
@@ -343,11 +358,11 @@ que se encuentren matriculadas. Las personas aspirantes que opten por un cambio 
 especialidad deberán presentar, junto con la solicitud de admisión, un escrito de renuncia 
 a la plaza de la especialidad en la que se encuentren matriculadas.
 5. La adjudicación de plazas se ajustará a lo establecida en el artículo 5 de la 
-mencionada Orden de 9 de febrero de 2022. 
+mencionada [Orden de 9 de febrero de 2022](./O9_2_2022_admision_pruebas_acceso_ensenanzas_artisticas_superiores_andalucia.md). 
 6. Para todos los aspectos relativos a la convocatoria de la prueba específica de acceso, 
 estructura y contenido de la misma, Tribunales de Evaluación, calificación, así como a la 
 publicación y reclamación de las calificaciones se estará a lo dispuesto en los artículos 20
-a 26 de la Sección 2.ª del Capítulo III de la mencionada Orden de 9 de febrero de 2022.
+a 26 de la Sección 2.ª del Capítulo III de la mencionada [Orden de 9 de febrero de 2022](./O9_2_2022_admision_pruebas_acceso_ensenanzas_artisticas_superiores_andalucia.md).
 7. El número de plazas convocadas para el acceso a las Enseñanzas Artísticas 
 Superiores en la Comunidad Autónoma de Andalucía para el curso 2026/2027 son las 
 que se indican en el Anexo IV.
@@ -672,7 +687,7 @@ julio
 Matriculación del alumnado que haya obtenido plaza en la adjudicación en las 
 Enseñanzas Artísticas Superiores de Danza.
 En el caso de que los plazos y fechas establecidos en el presente calendario coincidan con días inhábiles 
-en una localidad, se estará a lo dispuesto en el artículo 30 de la Ley 39/2015, de 1 de octubre, del 
+en una localidad, se estará a lo dispuesto en el artículo 30 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del 
 Procedimiento Administrativo Común de las Administraciones Públicas.
 ANEXO IV 
 PLAZAS CONVOCADAS PARA EL ACCESO A LAS ENSEÑANZAS ARTÍSTICAS SUPERIORES EN LA 
@@ -1800,7 +1815,7 @@ Ha superado la prueba de madurez en cursos anteriores.
 Calificación
 5. DERECHO DE OPOSICIÓN
 El órgano gestor va a consultar los siguientes datos, en el caso de que no esté de acuerdo, manifieste su oposición (artículo 28 de la 
-Ley 39/2015, de 1 de octubre):
+[Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre):
 ME OPONGO a la consulta de los datos de identidad de la persona solicitante a través del Sistema de Verificación de Datos
 de Identidad, y aporto copia del DNI/NIE.
 ME OPONGO a la consulta de los datos de identidad de la persona representante a través del Sistema de Verificación de
@@ -1964,7 +1979,7 @@ enseñanzas artísticas superiores de Arte Dramático, de Conservación y Restau
 de Música con la finalidad de la gestión de las convocatorias, la matrícula y prueba de acceso en las enseñanzas artísticas
 superiores y demás trámites relacionados con los procedimientos de admisión en dichas enseñanzas; la licitud de dicho
 tratamiento se basa en el artículo 6.1 e) del Reglamento General de Protección de Datos, consecuencia de lo establecido en la Ley
-Orgánica 2/2006, de 3 de mayo, de Educación, la Ley 17/2007, de 10 de diciembre, de Educación de Andalucía y en la Orden de 9
+Orgánica 2/2006, de 3 de mayo, de Educación, la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre, de Educación de Andalucía y en la Orden de 9
 de febrero de 2022, por la que se regulan en la Comunidad Autónoma de Andalucía el acceso, los criterios, los procedimientos de
 admisión y matriculación del alumnado de Enseñanzas Artísticas Superiores en los centros docentes públicos, así como las
 pruebas de acceso a las citadas enseñanzas.
@@ -2277,7 +2292,7 @@ enseñanzas artísticas superiores y enseñanzas elementales y profesionales de 
 las convocatorias, la matrícula y prueba de acceso en las enseñanzas artísticas superiores y demás trámites relacionados con los
 procedimientos de admisión en dichas enseñanzas; la licitud de dicho tratamiento se basa en el artículo 6.1.e) del RGPD que
 legitima para el cumplimiento de una misión realizada en interés público o en el ejercicio de poderes públicos conferidos al
-responsable del tratamiento; consecuencia de lo establecido en la Ley orgánica 2/2006, de 3 de mayo, de Educación. 
+responsable del tratamiento; consecuencia de lo establecido en la [Ley orgánica 2/2006](../../canarias/05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación. 
 d) Puede usted ejercer sus derechos de acceso, rectificación, supresión, portabilidad de sus datos, y la limitación u oposición a su
 tratamiento y a no ser objeto de decisiones individuales automatizadas, como se explica en la siguiente dirección electrónica:
 https://juntadeandalucia.es/protecciondedatos, donde podrá encontrar el formulario recomendado para su ejercicio. 

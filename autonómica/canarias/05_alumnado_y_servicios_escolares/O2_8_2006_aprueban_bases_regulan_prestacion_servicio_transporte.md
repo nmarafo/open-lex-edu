@@ -84,8 +84,15 @@ relaciones:
   - norma_id: norm-es-2010-12201
   - norma_id: norm-es-rd-443-2001
 anexos_extraidos_pdf: true
+fundamentos_derecho:
+- norma_id: norm-can-l-14-1990
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-mad-l1-1983-gobierno-administracion-comunidad-madrid
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
+- norma_id: norm-es-rd-443-2001
 ---
-
 # Orden de 2 de agosto de 2006, por la que se aprueban las bases que regulan la prestación del servicio de transporte escolar en la Comunidad Autónoma de Canarias.
 
 ## Preámbulo
@@ -130,7 +137,7 @@ Segundo.- De acuerdo con el [Real Decreto 443/2001](../../../estatal/05_alumnado
 
 Tercero.- En aplicación de la Ley 38/2003, de 17 de noviembre, General de Subvenciones (B.O.E. nº 276, de 18.11.03), y el Decreto 337/1997, de 19 de diciembre, por el que se establece el régimen general de ayudas y subvenciones de la Administración Pública de la Comunidad Autónoma de Canarias (B.O.C. nº 170, de 31.12.97), en su redacción actual.
 
-En virtud de las competencias atribuidas por el artículo 32 de la Ley 1/1983, de 14 de abril, del Gobierno y de la Administración Pública de la Comunidad Autónoma de Canarias; artículo 29 de la [Ley 14/1990](../01_marco_normativo_general_y_organico/L14_1990_regimen_juridico_administraciones_publicas_canarias.md), de 26 de julio, de Régimen Jurídico de las Administraciones Públicas de Canarias (B.O.C. nº 96, de 1.8.90); los artículos 4 y 5 del Decreto 113/2006, de 26 de julio, por el que se aprueba el Reglamento Orgánico de la Consejería de Educación, Cultura y Deportes (B.O.C. nº 148, de 1.8.06),
+En virtud de las competencias atribuidas por el artículo 32 de la [Ley 1/1983](../../madrid/01_marco_normativo_general_y_organico/L1_1983_gobierno_administracion_comunidad_madrid.md), de 14 de abril, del Gobierno y de la Administración Pública de la Comunidad Autónoma de Canarias; artículo 29 de la [Ley 14/1990](../01_marco_normativo_general_y_organico/L14_1990_regimen_juridico_administraciones_publicas_canarias.md), de 26 de julio, de Régimen Jurídico de las Administraciones Públicas de Canarias (B.O.C. nº 96, de 1.8.90); los artículos 4 y 5 del Decreto 113/2006, de 26 de julio, por el que se aprueba el Reglamento Orgánico de la Consejería de Educación, Cultura y Deportes (B.O.C. nº 148, de 1.8.06),
 
 DISPONGO:
 

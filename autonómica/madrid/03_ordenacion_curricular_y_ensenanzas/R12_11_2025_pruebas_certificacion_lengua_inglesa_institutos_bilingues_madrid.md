@@ -28,8 +28,14 @@ tags:
 - institutos_bilingues
 - evaluacion_linguistica
 - madrid
+fundamentos_derecho:
+- norma_id: norm-mad-d248-2023
+- norma_id: norm-mad-d106-2018-ordenacion-ensenanzas-idiomas-regimen-especial-madrid
+- norma_id: norm-mad-o1587-2022-admision-matricula-escuelas-oficiales-idiomas-madrid
+- norma_id: norm-mad-o2414-2019-organizacion-funcionamiento-evaluacion-ensenanzas-idiomas-eoi-madrid
+- norma_id: norm-es-l-39-2015
+- norma_id: norm-es-lo-3-2018
 ---
-
 # Resolución de 12 de noviembre de 2025, de la Dirección General de Educación Secundaria, Formación Profesional y Régimen Especial, sobre el procedimiento de admisión y matrícula de alumnos libres en las pruebas de certificación de nivel C1 en el idioma inglés en las Escuelas Oficiales de Idiomas de la Comunidad de Madrid para su convocatoria de febrero 2026
 
 ## Preámbulo
@@ -41,7 +47,7 @@ ción Secundaria, Formación Profesional y Régimen Especial, sobre el proce-
 dimiento de admisión y matrícula de alumnos libres en las pruebas de certifica-
 ción de nivel C1 en el idioma inglés en las Escuelas Oficiales de Idiomas de la
 Comunidad de Madrid para su convocatoria de febrero 2026.
-El Decreto 106/2018, de 19 de junio, del Consejo de Gobierno, por el que se ordenan
+El [Decreto 106/2018](./D106_2018_ordenacion_ensenanzas_idiomas_regimen_especial_madrid.md), de 19 de junio, del Consejo de Gobierno, por el que se ordenan
 las enseñanzas de idiomas de régimen especial y se establecen los currículos de los niveles
 básico, intermedio y avanzado en la Comunidad de Madrid, establece en su artículo 22.6
 que la onsejería con competencias en educación regulará las pruebas específicas para la ob-
@@ -49,12 +55,12 @@ tención de los certificados de nivel y convocará, al menos una vez al año, la
 la obtención de los certificados de competencia general de los niveles básico A2, interme-
 dio B1, intermedio B2, avanzado C1 y avanzado C2 de aquellos idiomas y niveles que se
 hayan impartido en la Comunidad de Madrid en ese curso académico.
-Por otro lado, la Orden 2414/2019, de 1 de agosto, del Consejero de Educación e In-
+Por otro lado, la [Orden 2414/2019](./O2414_2019_organizacion_funcionamiento_evaluacion_ensenanzas_idiomas_eoi_madrid.md), de 1 de agosto, del Consejero de Educación e In-
 vestigación, modificada por la Orden 2475/2021, de 13 de agosto, de la Consejería de Edu-
 cación, Universidades, Ciencia y Portavocía, regula la evaluación y certificación de los ni-
 veles básico, intermedio y avanzado de las enseñanzas de idiomas de régimen especial en
 la Comunidad de Madrid.
-Por otro lado, la Orden 1587/2022, de 8 de junio, de la Consejería de Educación, Uni-
+Por otro lado, la [Orden 1587/2022](./O1587_2022_admision_matricula_escuelas_oficiales_idiomas_madrid.md), de 8 de junio, de la Consejería de Educación, Uni-
 versidades, Ciencia y Portavocía, por la que se regula el procedimiento de admisión y ma-
 trícula del alumnado oficial y libre en las escuelas oficiales de idiomas de la Comunidad de
 Madrid, establece en su artículo 17 que la dirección general competente en materia de en-
@@ -64,7 +70,7 @@ Dada la demanda específica que tiene el nivel C1 en el idioma inglés y con obj
 poder atenderla, la Dirección General de Educación Secundaria, Formación Profesional y
 Régimen Especial convoca una prueba adicional a las que se convocarán posteriormente
 para la totalidad de idiomas y niveles y, en virtud de las competencias atribuidas por el ar-
-tículo 11 del Decreto 248/2023, de 11 de octubre, del Consejo de Gobierno, por el que se
+tículo 11 del [Decreto 248/2023](../01_marco_normativo_general_y_organico/D248_2023_estructura_organica_consejeria_educacion_ciencia_universidades_madrid.md), de 11 de octubre, del Consejo de Gobierno, por el que se
 establece la estructura orgánica de la Consejería de Educación, Ciencia y Universidades,
 RESUELVE
 Primero
@@ -74,11 +80,11 @@ cación de nivel C1 en el idioma inglés en las Escuelas Oficiales de Idiomas de
 dad de Madrid en el año 2026.
 Segundo
 Normativa aplicable
-A la presente convocatoria le será de aplicación el Decreto 106/2018, de 19 de junio,
-y la Orden 2414/2019, de 1 de agosto, del Consejero de Educación e Investigación, por la
+A la presente convocatoria le será de aplicación el [Decreto 106/2018](./D106_2018_ordenacion_ensenanzas_idiomas_regimen_especial_madrid.md), de 19 de junio,
+y la [Orden 2414/2019](./O2414_2019_organizacion_funcionamiento_evaluacion_ensenanzas_idiomas_eoi_madrid.md), de 1 de agosto, del Consejero de Educación e Investigación, por la
 que se regula la evaluación y certificación de los niveles básico, intermedio y avanzado de
 las enseñanzas de idiomas de régimen especial en la Comunidad de Madrid, así como, la
-Orden 1587/2022, de 8 de junio, de la Consejería de Educación, Universidades, Ciencia y
+[Orden 1587/2022](./O1587_2022_admision_matricula_escuelas_oficiales_idiomas_madrid.md), de 8 de junio, de la Consejería de Educación, Universidades, Ciencia y
 Portavocía, por la que se regula el procedimiento de admisión y matrícula del alumnado ofi-
 cial y libre en las Escuelas Oficiales de Idiomas de la Comunidad de Madrid.
 
@@ -166,7 +172,7 @@ traseña.
 En aquellos casos excepcionales en los que el solicitante no pueda presentar la so-
 licitud de admisión por vía telemática, podrá hacerlo, presencialmente, en la escuela oficial
 de idiomas elegida como primera opción, o en los demás lugares previstos en el artículo
-16.4 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las
+16.4 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Administrativo Común de las
 Administraciones Públicas. Estas solicitudes, cuyo modelo estará a disposición de los ciu-
 dadanos en la sede electrónica de la Comunidad de Madrid, (sede.comunidad.madrid), se
 dirigirán a la escuela oficial de idiomas elegida como primera opción. El solicitante podrá
@@ -291,7 +297,7 @@ BOCM-20251124-13
 http://www.bocm.es
 D. L.: M. 19.462-1983 ISSN 1989-4791
 BOCM
-datos personales y en lo establecido en la Ley Orgánica 3/2018, de 5 de diciembre, de Pro-
+datos personales y en lo establecido en la [Ley Orgánica 3/2018](../../../estatal/02_gestion_y_administracion_centros/LO3_2018_proteccion_datos_personales_garantia_derechos_digitales.md), de 5 de diciembre, de Pro-
 tección de Datos Personales y garantía de los derechos digitales.
 Madrid, a 12 de noviembre de 2025.—La Directora General de Educación Secunda-
 ria, Formación Profesional y Régimen Especial, M.a Luz Rodríguez de Llera Tejeda.

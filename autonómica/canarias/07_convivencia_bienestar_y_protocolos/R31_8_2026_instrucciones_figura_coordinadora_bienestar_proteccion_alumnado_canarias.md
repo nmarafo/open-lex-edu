@@ -1,6 +1,10 @@
 ---
 id: norm-can-r-2026-08-31-figura-coordinadora-bienestar-proteccion-alumnado
-titulo: Resolución de la Dirección General de Ordenación de las Enseñanzas, Inclusión e Innovación, por la que se aprueban las instrucciones para regular la labor de la figura coordinadora para el bienestar y la protección del alumnado, para el curso 2026-2027, en los centros educativos no universitarios sostenidos con fondos públicos de la Comunidad Autónoma de Canarias.
+titulo: Resolución de la Dirección General de Ordenación de las Enseñanzas, Inclusión
+  e Innovación, por la que se aprueban las instrucciones para regular la labor de
+  la figura coordinadora para el bienestar y la protección del alumnado, para el curso
+  2026-2027, en los centros educativos no universitarios sostenidos con fondos públicos
+  de la Comunidad Autónoma de Canarias.
 jurisdiccion: Canarias
 ambito: Autonómico
 organo_emisor: Dirección General de Ordenación de las Enseñanzas, Inclusión e Innovación
@@ -30,8 +34,22 @@ relaciones:
   - norm-est-lo-8-2021
   - norm-can-l-6-2014
   - norm-can-d-114-2011
+fundamentos_derecho:
+- norma_id: norm-can-d-84-2024
+- norma_id: norm-can-l-1-1997
+- norma_id: norm-can-l-6-2014
+- norma_id: norm-can-d-106-2009
+- norma_id: norm-can-o-2011-12-20-premios-extraordinarios-bachillerato
+- norma_id: norm-can-d-114-2011
+- norma_id: norm-es-2015-8470
+- norma_id: norm-es-lo-1-1996
+- norma_id: norm-es-lo-2-2006
+- norma_id: norm-es-2015-8222
+- norma_id: norm-es-2021-20113
+- norma_id: norm-es-2010-12201
+- norma_id: norm-es-lo-1-2004
+- norma_id: norm-es-lo-8-2021
 ---
-
 # Resolución de la Dirección General de Ordenación de las Enseñanzas, Inclusión e Innovación, por la que se aprueban las instrucciones para regular la labor de la figura coordinadora para el bienestar y la protección del alumnado, para el curso 2026-2027, en los centros educativos no universitarios sostenidos con fondos públicos de la Comunidad Autónoma de Canarias.
 
 ## Preámbulo y Fundamentos de Derecho
@@ -91,7 +109,7 @@ la protección contra toda forma de crueldad y explotación infantil: maltrato y
 muerte, consumo y tráfico de drogas, explotación laboral y sexual, u otras formas de maltrato. 
 Tercero. La Constitución de 1978 propugna, en el artículo 39.4, que los niños y las niñas gozarán de la  
 protección prevista en los acuerdos internacionales que velan por sus derechos.
-Cuarto. La Ley Orgánica 1/1996 de 15 de enero, de Protección Jurídica del Menor, de Modificación Parcial  
+Cuarto. La [Ley Orgánica 1/1996](../../../estatal/01_marco_normativo_general_y_organico/LO1_1996_proteccion_juridica_menor_modificacion_parcial_codigo.md) de 15 de enero, de Protección Jurídica del Menor, de Modificación Parcial  
 del Código Civil y de la Ley de Enjuiciamiento Civil, incorpora el interés superior de la persona menor en el  
 artículo 2, haciendo mención a que toda persona menor tiene derecho a que su interés superior sea valorado y 
 considerado como primordial en todas las acciones y decisiones que le conciernen, tanto en el ámbito público 
@@ -99,11 +117,11 @@ como privado. En la aplicación de la presente ley y demás normas que le afecte
 concernientes a las personas menores que adopten las instituciones, públicas o privadas, los Tribunales, o los  
 órganos legislativos, primarán el interés superior de los mismos sobre cualquier otro interés legítimo que  
 pudiera concurrir.
-Quinto. La Ley Orgánica 1/2004, de 28 de diciembre, de Medidas de Protección Integral contra la Violencia  
+Quinto. La [Ley Orgánica 1/2004](../../../estatal/07_convivencia_bienestar_y_protocolos/LO1_2004_medidas_proteccion_integral_contra_violencia_genero.md), de 28 de diciembre, de Medidas de Protección Integral contra la Violencia  
 de Género dispone, en el artículo 9 del Título I, Capítulo I, referido al ámbito educativo, que los servicios de  
 Inspección de Educación velarán por el cumplimiento y la aplicación de los principios y valores destinados a  
 fomentar la igualdad real entre mujeres y hombres.
-Sexto. La Ley Orgánica 2/2006, de 3 de mayo, de Educación, modificada por la Ley Orgánica 3/2020, de 29  
+Sexto. La [Ley Orgánica 2/2006](../05_alumnado_y_servicios_escolares/O20_12_2011_crean_premios_extraordinarios_bachillerato_comunidad_autonoma_canarias.md), de 3 de mayo, de Educación, modificada por la Ley Orgánica 3/2020, de 29  
 de diciembre, expresa en el preámbulo que los tres principios fundamentales que presiden la Ley son la  
 educación de calidad, el esfuerzo compartido y el compromiso con los objetivos educativos planteados por la  
 Unión Europea. Asimismo, entre los principios recogidos en el artículo 1, se expresa el cumplimiento  
@@ -121,7 +139,7 @@ organización y de gestión en el marco de la legislación vigente y en los tér
 Ley y en las normas que la desarrollen”, y que “los centros docentes dispondrán de autonomía para elaborar,  
 aprobar y ejecutar un proyecto educativo y un proyecto de gestión, así como las normas de organización y  
 funcionamiento del centro”.
-Séptimo. La Ley Orgánica 8/2015 de 22 de julio, de modificación del sistema de protección a la infancia y a  
+Séptimo. La [Ley Orgánica 8/2015](../../../estatal/01_marco_normativo_general_y_organico/LO8_2015_modificacion_sistema_proteccion_infancia_adolescencia.md) de 22 de julio, de modificación del sistema de protección a la infancia y a  
 la adolescencia contempla, en el artículo 9, que la persona menor tiene derecho a ser oída y escuchada sin  
 discriminación alguna por edad, discapacidad o cualquier otra circunstancia, tanto en el ámbito familiar  
 como  en  cualquier  procedimiento  administrativo,  judicial  o  de  mediación  en  que  esté  afectada,  y  que 
@@ -129,14 +147,14 @@ conduzca a una decisión que incida en su esfera personal, familiar o social, te
 cuenta sus opiniones, en función de su edad y madurez. Para ello, el menor o la menor deberá recibir la  
 información que le permita el ejercicio de este derecho en un lenguaje comprensible, en formatos accesibles  
 y adaptados a sus circunstancias.
-Octavo.  La Ley 26/2015, de 28 de julio, de modificación del sistema de protección a la infancia y a la  
+Octavo.  La [Ley 26/2015](../../../estatal/01_marco_normativo_general_y_organico/L26_2015_modificacion_sistema_proteccion_infancia_adolescencia.md), de 28 de julio, de modificación del sistema de protección a la infancia y a la  
 adolescencia introduce, en el apartado 1 del artículo 5, que las personas menores tienen derecho a buscar,  
 recibir y utilizar la información adecuada a su desarrollo. Se prestará especial atención a la alfabetización  
 digital y mediática, de forma adaptada a cada etapa evolutiva, que permita a las personas menores actuar en  
 línea con seguridad y responsabilidad y, en particular, identificar situaciones de riesgo derivadas de la  
 utilización de las tecnologías de la información y la comunicación, así como conocer las herramientas y  
 estrategias para afrontar dichos riesgos y protegerse de ellos.
-Noveno. La Ley Orgánica 8/2021 de 4 de junio, de protección integral a la infancia y a la adolescencia frente  
+Noveno. La [Ley Orgánica 8/2021](../../../estatal/07_convivencia_bienestar_y_protocolos/LO8_2021_proteccion_integral_infancia_adolescencia_frente_violencia.md) de 4 de junio, de protección integral a la infancia y a la adolescencia frente  
 a la violencia, dedica el Capítulo IV al ámbito educativo. En el artículo 35, se refiere a la obligatoriedad de  
 que todos los centros educativos donde cursen estudios personas menores de edad, independientemente de su  
 titularidad, cuenten con una persona coordinadora para el bienestar y la protección del alumnado, que actuará 
@@ -145,7 +163,7 @@ se  insta  a  las  administraciones  públicas,  en  el  ámbito  de  sus  compe
 especializada, inicial y continua, en materia de derechos fundamentales de la infancia y la adolescencia; y, en 
 el artículo 33, a la plena inserción del alumnado en la sociedad digital a través de la formación en materia de  
 derechos, seguridad y responsabilidad digital.
-Décimo. La Ley 1/1997, de 7 de febrero, de Atención Integral a los Menores, en su artículo 19, incluye, entre 
+Décimo. La [Ley 1/1997](../01_marco_normativo_general_y_organico/L1_1997_atencion_integral_menores.md), de 7 de febrero, de Atención Integral a los Menores, en su artículo 19, incluye, entre 
 las obligaciones de los centros escolares, la de colaborar con las entidades municipales para evitar y resolver,  
 en su caso, las situaciones de riesgo de los menores escolarizados.
 Este documento ha sido firmado electrónicamente por:
@@ -153,7 +171,7 @@ DAVID PABLOS GONZALEZ - DIRECTOR/A GENERAL Fecha: 31/08/2026 - 11:09:53
 Este documento ha sido registrado electrónicamente:
 RESOLUCION - Nº: 1012 / 2026 - Tomo: 1 - Libro: 583 - Fecha: 31/08/2026 12:37:38 Fecha: 31/08/2026 - 12:37:38
 
-Decimoprimero. La Ley 6/2014, de 25 de julio, Canaria de Educación no Universitaria fija entre s principios 
+Decimoprimero. La [Ley 6/2014](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md), de 25 de julio, Canaria de Educación no Universitaria fija entre s principios 
 rectores  la  educación  en  y  para  la  convivencia  basada  en  el  respeto,  la  solidaridad  y  la  igualdad,  la 
 construcción de una cultura de paz dirigida a la prevención de los conflictos y su resolución mediante el  
 diálogo, la coeducación y la igualdad efectiva entre hombres y mujeres. Asimismo dispone, en su artículo 59, 
@@ -162,7 +180,7 @@ como  del  resto  del  equipo  directivo  de  los  centros  educativos”  y  qu
 capacidad de liderazgo de los profesionales de la organización y gestión de los centros educativos y de la  
 oferta de servicios de asesoramiento, orientación y apoyo para la gestión de la innovación en el ámbito  
 educativo, con la participación de profesionales de los distintos ámbitos económicos y sociales”.
-Decimosegundo. El Decreto 106/2009, de 28 de julio, por el que se regula la función directiva en los centros  
+Decimosegundo. El [Decreto 106/2009](../04_organizacion_escolar_y_funcionamiento/D106_2009_regula_funcion_directiva_centros_docentes_publicos.md), de 28 de julio, por el que se regula la función directiva en los centros  
 docentes públicos no universitarios dependientes de la Comunidad Autónoma de Canarias, indica en el  
 artículo 2 que uno de los principios generales de actuación de los equipos directivos es garantizar el ejercicio  
 de los derechos reconocidos al alumnado, al personal docente, a los representantes legales del alumnado y al  
@@ -178,7 +196,7 @@ del mismo. Por otra parte, en el artículo 5, se determina que “con el fin de 
 en el proyecto educativo del centro, los directores y directoras podrán proponer la definición de los puestos  
 de trabajo requeridos para el desarrollo de proyectos, actividades o medidas no reguladas por la Consejería  
 competente en materia educativa, atendiendo a su titulación o capacidad profesional”.
-Decimotercero. El Decreto 114/2011, de 11 de mayo, por el que se regula la convivencia en el ámbito  
+Decimotercero. El [Decreto 114/2011](./D114_2011_regula_convivencia_ambito_educativo_comunidad_autonoma.md), de 11 de mayo, por el que se regula la convivencia en el ámbito  
 educativo de la Comunidad Autónoma de Canarias, contempla en el artículo 3 el principio general de  la  
 importancia de la acción preventiva como garantía para la mejora de la convivencia escolar.
 Decimocuarto. La Orden de 27 junio 2014, de la Consejería de Educación, Universidades y Sostenibilidad,  
@@ -206,7 +224,7 @@ Innovación Educativa, establece los criterios para el reconocimiento o la certi
 formación del profesorado.
 En virtud de lo anteriormente expuesto y de acuerdo a lo dispuesto en el artículo 17.j del Reglamento  
 Orgánico de la Consejería de Educación, Formación Profesional, Actividad Física y Deportes, aprobado por  
-el Decreto 84/2024, de 10 de junio, en lo relativo a las competencias para desarrollar e impulsar iniciativas  
+el [Decreto 84/2024](../01_marco_normativo_general_y_organico/D84_2024_reglamento_organico_consejeria_educacion_canarias.md), de 10 de junio, en lo relativo a las competencias para desarrollar e impulsar iniciativas  
 de investigación e innovación educativas, incluidas la gestión económica y administrativa de las mismas,
 
 ## RESUELVO 
@@ -232,7 +250,7 @@ DE LA COMUNIDAD AUTÓNOMA DE CANARIAS.
 ## Primera. Finalidad 
 1. La persona coordinadora para el bienestar y la protección del alumnado (en adelante, la persona  
 coordinadora)  tiene  como  finalidad  garantizar  los  derechos  fundamentales  de  la  infancia  y  la  
-adolescencia en el marco de actuación establecido en la Ley Orgánica 8/2021, de 4 de junio, de  
+adolescencia en el marco de actuación establecido en la [Ley Orgánica 8/2021](../../../estatal/07_convivencia_bienestar_y_protocolos/LO8_2021_proteccion_integral_infancia_adolescencia_frente_violencia.md), de 4 de junio, de  
 protección integral a la infancia y la adolescencia frente a la violencia.
 2. Desde el curso 2022-2023, esta figura asume funciones de coordinación en materia de convivencia,  
 siendo el referente en lo que respecta al acoso escolar de los centros educativos donde cursan  

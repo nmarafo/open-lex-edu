@@ -108,8 +108,11 @@ relaciones:
   - norma_id: '27'
   - norma_id: norm-es-2007-6115
   - norma_id: norm-es-lo-1-2004
+fundamentos_derecho:
+- norma_id: norm-can-l-16-2003
+- norma_id: norm-es-lo-1-2004
+- norma_id: norm-es-2007-6115
 ---
-
 # Ley 1/2010, de 26 de febrero, canaria de igualdad entre mujeres y hombres.
 
 ## Preámbulo

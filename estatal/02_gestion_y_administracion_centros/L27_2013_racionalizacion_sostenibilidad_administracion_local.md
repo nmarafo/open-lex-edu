@@ -220,8 +220,9 @@ relaciones:
   articulos:
   - norma_id: '27'
   - norma_id: norm-es-1985-5392
+fundamentos_derecho:
+- norma_id: norm-es-1985-5392
 ---
-
 # Ley 27/2013, de 27 de diciembre, de racionalización y sostenibilidad de la Administración Local.
 
 ## Preámbulo

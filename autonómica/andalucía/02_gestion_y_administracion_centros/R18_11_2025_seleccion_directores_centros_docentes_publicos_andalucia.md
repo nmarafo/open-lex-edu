@@ -1,6 +1,9 @@
 ---
 id: norm-and-r18-11-2025-seleccion-directores-centros-docentes-publicos-andalucia
-titulo: Resolución de 18 de noviembre de 2025, de la Dirección General del Profesorado y Gestión de Recursos Humanos, por la que se convoca concurso de méritos para la selección de Directores y Directoras de centros docentes públicos no universitarios de titularidad de la Junta de Andalucía.
+titulo: Resolución de 18 de noviembre de 2025, de la Dirección General del Profesorado
+  y Gestión de Recursos Humanos, por la que se convoca concurso de méritos para la
+  selección de Directores y Directoras de centros docentes públicos no universitarios
+  de titularidad de la Junta de Andalucía.
 jurisdiccion: Andalucía
 ambito: Autonómico
 organo_emisor: Dirección General de Profesorado y Gestión de Recursos Humanos
@@ -17,8 +20,13 @@ fuente_pdf_oficial: http://www.juntadeandalucia.es/boja/2025/226/BOJA25-226-0000
 clasificacion:
   categoria_canonica: 02_gestion_y_administracion_centros
   subcategoria: Dirección y liderazgo pedagógico
+fundamentos_derecho:
+- norma_id: norm-and-l9-2007-administracion-junta-andalucia-laja
+- norma_id: norm-and-d-152-2020
+- norma_id: norm-and-o-9-11-2020
+- norma_id: norm-and-o-9-2-2022
+- norma_id: norm-es-l-39-2015
 ---
-
 # Resolución de 18 de noviembre de 2025, de la Dirección General del Profesorado y Gestión de Recursos Humanos, por la que se convoca concurso de méritos para la selección de Directores y Directoras de centros docentes públicos no universitarios de titularidad de la Junta de Andalucía.
 
 ## Preámbulo
@@ -29,7 +37,7 @@ Resolución de 18 de noviembre de 2025, de la Dirección General del
 Profesorado y Gestión de Recursos Humanos, por la que se convoca concurso 
 de méritos para la selección de Directores y Directoras de centros docentes 
 públicos no universitarios de titularidad de la Junta de Andalucía.
-El Decreto 152/2020, de 15 de septiembre (BOJA de 24 de septiembre), por el que 
+El [Decreto 152/2020](./D152_2020_acceso_funcion_directiva_equipos_directivos_centros_docentes_andalucia.md), de 15 de septiembre (BOJA de 24 de septiembre), por el que 
 se regula el acceso a la función directiva y la formación, evaluación y reconocimiento de 
 los directores, las directoras y los equipos directivos de los centros docentes públicos 
 no universitarios, de los que es titular la Junta de Andalucía, establece en su artículo 6 
@@ -40,7 +48,7 @@ mismo, el artículo 10 estipula que la persona titular del órgano territorial p
 Administración de la Junta de Andalucía competente en materia de educación nombrará 
 director o directora del centro docente, por un periodo de cuatro años, a la persona 
 candidata propuesta por la Comisión de Selección.
-La Orden de 9 de noviembre de 2020 (BOJA de 19 de noviembre), por la que se 
+La [Orden de 9 de noviembre de 2020](./O9_11_2020_acceso_evaluacion_formacion_equipos_directivos_andalucia.md) (BOJA de 19 de noviembre), por la que se 
 desarrolla el procedimiento de acceso a la función directiva y la evaluación, formación 
 y reconocimiento de los directores, las directoras y los equipos directivos de los centros 
 docentes públicos no universitarios de los que es titular la Junta de Andalucía, establece 
@@ -49,7 +57,7 @@ humanos convocará anualmente, mediante resolución, el concurso de méritos par
 la selección y nombramiento de directores y directoras. A su vez, determina en sus 
 Anexos III y IV, respectivamente, los criterios para la valoración del proyecto de dirección 
 y para la valoración de los méritos académicos. 
-La Orden de 9 de febrero de 2022 (BOJA de 17 de febrero), que regula los criterios, 
+La [Orden de 9 de febrero de 2022](../03_ordenacion_curricular_y_ensenanzas/O9_2_2022_admision_pruebas_acceso_ensenanzas_artisticas_superiores_andalucia.md) (BOJA de 17 de febrero), que regula los criterios, 
 los procedimientos de admisión y matriculación del alumnado de enseñanzas artísticas 
 superiores en centros docentes públicos, así como las pruebas de acceso a las citadas 
 enseñanzas, introduce en su disposición final primera la modificación de los artículos 9.1, 
@@ -90,11 +98,11 @@ Primero. Convocar concurso de méritos para la selección de directores y direct
 de los centros docentes públicos no universitarios de titularidad de la Junta de Andalucía, 
 que se relacionan en el Anexo I de esta resolución.
 Segundo. El concurso de méritos se desarrollará según el procedimiento establecido 
-en la Orden de 9 de noviembre de 2020, por la que se desarrolla el procedimiento de 
+en la [Orden de 9 de noviembre de 2020](./O9_11_2020_acceso_evaluacion_formacion_equipos_directivos_andalucia.md), por la que se desarrolla el procedimiento de 
 acceso a la función directiva y la evaluación, formación y reconocimiento de los directores, 
 las directoras y los equipos directivos de los centros docentes públicos no universitarios 
 de los que es titular la Junta de Andalucía, con las modificaciones introducidas en la 
-disposición final primera de la Orden de 9 de febrero de 2022, que regula los criterios, 
+disposición final primera de la [Orden de 9 de febrero de 2022](../03_ordenacion_curricular_y_ensenanzas/O9_2_2022_admision_pruebas_acceso_ensenanzas_artisticas_superiores_andalucia.md), que regula los criterios, 
 los procedimientos de admisión y matriculación del alumnado de enseñanzas artísticas 
 superiores en centros docentes públicos, así como las pruebas de acceso a las citadas 
 enseñanzas y de acuerdo con el calendario que se incluye como Anexo II. 
@@ -152,14 +160,14 @@ Sexto. Resoluciones provisional y definitiva del procedimiento.
 en materia de recursos humanos del órgano territorial provincial de la Administración de la 
 Junta de Andalucía competente en materia de educación procederán a comprobar, para 
 cada solicitud recibida, que haya sido presentada en plazo y conforme al procedimiento 
-establecido en la Orden de 9 de noviembre de 2020.
+establecido en la [Orden de 9 de noviembre de 2020](./O9_11_2020_acceso_evaluacion_formacion_equipos_directivos_andalucia.md).
 2. Una vez realizado el procedimiento de comprobación al que se refiere el apartado 
 anterior, los titulares de los órganos territoriales provinciales de la Administración de la 
 Junta de Andalucía competentes en materia de educación dictarán resolución haciendo 
 pública la relación provisional de candidaturas admitidas y excluidas, en su caso, con 
 expresión de las causas de exclusión. La publicación de la resolución en el portal web de 
 la Consejería competente en materia de educación servirá de notificación a las personas 
-interesadas, conforme a lo previsto en el artículo 45 de la Ley 39/2015, de 1 de octubre.
+interesadas, conforme a lo previsto en el artículo 45 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre.
 3. Con objeto de subsanar las causas que hayan motivado su exclusión u omisión de 
 la citada resolución, las personas solicitantes dispondrán de un plazo de diez días hábiles 
 contados a partir del siguiente al de publicación de la resolución anteriormente aludida, 
@@ -170,9 +178,9 @@ Andalucía competente en materia de educación, mediante resolución, elevará a
 la relación de candidaturas admitidas y excluidas, en su caso, con expresión de las 
 causas de exclusión. La publicación de la resolución en el portal web de la Consejería 
 de Desarrollo Educativo y Formación Profesional servirá, asimismo, de notificación a las 
-personas interesadas, conforme a lo previsto en el artículo 45 de la Ley 39/2015, de 1 de 
+personas interesadas, conforme a lo previsto en el artículo 45 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de 
 octubre.
-5. De conformidad con lo establecido en el art. 94 de la Ley 39/2015, de 1 de octubre, 
+5. De conformidad con lo establecido en el art. 94 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, 
 el personal interesado en el procedimiento puede ejercer su derecho de desistimiento 
 o de renuncia a la persona titular del correspondiente órgano territorial provincial de 
 la Administración de la Junta de Andalucía competente en materia de educación, que 
@@ -193,9 +201,9 @@ BOJA
 Depósito Legal: SE-410/1979. ISSN: 2253-802X	
 https://www.juntadeandalucia.es/eboja
 resolución, en el plazo de un mes a contar desde el día siguiente al de su notificación, 
-de conformidad con los artículos 112.1, 123 y 124 de la Ley 39/2015, de 1 de octubre, 
+de conformidad con los artículos 112.1, 123 y 124 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, 
 del Procedimiento Administrativo Común de las Administraciones Públicas, y en el 
-artículo 115.2 de la Ley 9/2007, de 22 de octubre, de la Administración de la Junta de 
+artículo 115.2 de la [Ley 9/2007](../01_marco_normativo_general_y_organico/L9_2007_administracion_junta_andalucia_laja.md), de 22 de octubre, de la Administración de la Junta de 
 Andalucía, o alternativa y directamente, en el plazo de dos meses a contar desde el 
 día siguiente al de su publicación, recurso contencioso-administrativo ante el órgano 
 jurisdiccional competente, conforme a lo establecido en los artículos 8.2.a), 14 y 46.1 de 

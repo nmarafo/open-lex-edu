@@ -29,15 +29,20 @@ relaciones:
   fundamentado_en:
   - norma_id: norm-and-l-17-2007
   - norma_id: norm-es-lo-2-2006
+fundamentos_derecho:
+- norma_id: norm-and-d204-1995
+- norma_id: norm-and-l12-2007-promocion-igualdad-genero-andalucia
+- norma_id: norm-and-l17-2007
+- norma_id: norm-and-l6-2006-gobierno-comunidad-autonoma-andalucia
+- norma_id: norm-es-1999-23750
 ---
-
 # Decreto 71/2009, de 31 de marzo, por el que se regula el Censo de Entidades Colaboradoras de la Enseñanza.
 
 ## Preámbulo
 El Estatuto de Autonomía para Andalucía, en su artículo 10.1, establece que la Comunidad Autónoma de Andalucía promoverá las condiciones para que la libertad y la igualdad del individuo y de los grupos en que se integra sean reales y efectivas; removerá los obstáculos que impidan o dificulten su plenitud y fomentará la calidad de la democracia facilitando la participación de todos los andaluces en la vida política, económica, cultural y social. A tales efectos, adoptará todas las medidas de acción positiva que resulten necesarias. Asimismo, establece en su artículo 47.1.1.ª, la competencia exclusiva de la Comunidad Autónoma en el procedimiento administrativo derivado de las especialidades de la organización propia de la Comunidad Autónoma, la estructura y regulación de los órganos administrativos públicos de Andalucía y de sus organismos autónomos y en el artículo 52.1 dispone que la Comunidad Autónoma tiene competencias exclusivas sobre los órganos de participación y consulta de los sectores afectados en la programación de la enseñanza en su territorio.
-La Ley 17/2007, de 10 de diciembre, de Educación de Andalucía, establece ya en la exposición de motivos que hacer efectivo el derecho a la educación en el siglo XXI implica promover nuevos objetivos educativos y disponer los medios para llevarlos a cabo y, entre éstos, el de propiciar más participación y corresponsabilidad de las familias y demás agentes implicados. Por ello, y al objeto de regular la colaboración con organizaciones y entidades de voluntariado, prevé en su artículo 180.1 la creación del Censo de Entidades Colaboradoras de la Enseñanza.
-La organización, funcionamiento y contenido del citado Censo, a que se refiere el artículo 180.2 de la Ley 17/2007, de 10 de diciembre, materializará, por otra parte, lo dispuesto en el artículo 10 de la Ley 12/2007, de 26 de noviembre, para la promoción de la igualdad de género en Andalucía, con relación a la necesidad de inclusión de la perspectiva de género en todos los sistemas de recogida de información que sirven de base a la toma de decisiones sobre la política pública en materia de educación, entre los que se inscriben los Censos y Registros sobre entidades de participación de la comunidad educativa en dichas políticas.
-En su virtud, a propuesta de la Consejera de Educación, de conformidad con lo establecido en artículo 27.9 de la Ley 6/2006, de 24 de octubre, del Gobierno de la Comunidad Autónoma de Andalucía, de acuerdo con el Consejo Consultivo de Andalucía y previa deliberación del Consejo de Gobierno en su reunión del día 31 de marzo 2009,
+La [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre, de Educación de Andalucía, establece ya en la exposición de motivos que hacer efectivo el derecho a la educación en el siglo XXI implica promover nuevos objetivos educativos y disponer los medios para llevarlos a cabo y, entre éstos, el de propiciar más participación y corresponsabilidad de las familias y demás agentes implicados. Por ello, y al objeto de regular la colaboración con organizaciones y entidades de voluntariado, prevé en su artículo 180.1 la creación del Censo de Entidades Colaboradoras de la Enseñanza.
+La organización, funcionamiento y contenido del citado Censo, a que se refiere el artículo 180.2 de la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre, materializará, por otra parte, lo dispuesto en el artículo 10 de la [Ley 12/2007](../01_marco_normativo_general_y_organico/L12_2007_promocion_igualdad_genero_andalucia.md), de 26 de noviembre, para la promoción de la igualdad de género en Andalucía, con relación a la necesidad de inclusión de la perspectiva de género en todos los sistemas de recogida de información que sirven de base a la toma de decisiones sobre la política pública en materia de educación, entre los que se inscriben los Censos y Registros sobre entidades de participación de la comunidad educativa en dichas políticas.
+En su virtud, a propuesta de la Consejera de Educación, de conformidad con lo establecido en artículo 27.9 de la [Ley 6/2006](../01_marco_normativo_general_y_organico/L6_2006_gobierno_comunidad_autonoma_andalucia.md), de 24 de octubre, del Gobierno de la Comunidad Autónoma de Andalucía, de acuerdo con el Consejo Consultivo de Andalucía y previa deliberación del Consejo de Gobierno en su reunión del día 31 de marzo 2009,
 
 DISPONGO
 
@@ -45,7 +50,7 @@ DISPONGO
 Disposiciones generales
 
 #### Artículo 1. Objeto y ámbito de aplicación.
-1. El presente Decreto tiene por objeto regular la organización, funcionamiento y contenido del Censo de Entidades Colaboradoras de la Enseñanza, en adelante el Censo, de conformidad con el artículo 180 de la Ley 17/2007, de 10 de diciembre, de Educación de Andalucía.
+1. El presente Decreto tiene por objeto regular la organización, funcionamiento y contenido del Censo de Entidades Colaboradoras de la Enseñanza, en adelante el Censo, de conformidad con el artículo 180 de la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre, de Educación de Andalucía.
 2. El presente Decreto será de aplicación a entidades que desarrollen su actividad, total o parcialmente, en el territorio de la Comunidad Autónoma de Andalucía y tengan su domicilio social en ella.
 
 #### Artículo 2. Naturaleza y adscripción.
@@ -61,7 +66,7 @@ El Censo tiene naturaleza administrativa y carácter público y gratuito, pudien
 3. La Unidad Estadística de la Consejería competente en materia de educación participará en el diseño e implantación de los ficheros del Censo que recojan información administrativa susceptible de explotación estadística.
 
 #### Artículo 5. Entidades inscribibles.
-Podrán inscribirse en el Censo, de acuerdo con lo establecido en el artículo 180 de la Ley 17/2007, de 10 de diciembre, las siguientes entidades:
+Podrán inscribirse en el Censo, de acuerdo con lo establecido en el artículo 180 de la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre, las siguientes entidades:
 a) Las asociaciones del alumnado.
 b) Las asociaciones de madres y padres del alumnado.
 c) Las asociaciones profesionales del profesorado y los movimientos de renovación pedagógica.
@@ -77,12 +82,12 @@ c) Tener entre sus fines la colaboración en el ámbito educativo.
 d) Carecer de ánimo de lucro.
 2. En el caso de asociaciones del alumnado y de asociaciones de madres y padres del alumnado, las entidades deberán cumplir para su inscripción en el Censo, además de los requisitos especificados en el apartado anterior, los requisitos que se establecen en la normativa vigente en materia de asociaciones del alumnado y de asociaciones de madres y padres del alumnado, respectivamente.
 3. En el caso de federaciones, confederaciones o uniones de asociaciones será requisito indispensable para su inscripción en el Censo que estén inscritas en el mismo todas las entidades que las constituyen.
-4. Las entidades que desarrollen la acción voluntaria en el área educativa deberán estar inscritas en el Registro General de Entidades del Voluntariado de Andalucía, de conformidad con el artículo 180.2 de la Ley 17/2007, de 10 de diciembre, y aportar la documentación justificativa de su domicilio social en la Comunidad Autónoma de Andalucía.
+4. Las entidades que desarrollen la acción voluntaria en el área educativa deberán estar inscritas en el Registro General de Entidades del Voluntariado de Andalucía, de conformidad con el artículo 180.2 de la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre, y aportar la documentación justificativa de su domicilio social en la Comunidad Autónoma de Andalucía.
 
 #### Artículo 7. Datos inscribibles.
 Serán objeto de inscripción los siguientes datos de las entidades:
 a) La denominación y los datos identificativos de la entidad, de acuerdo con su naturaleza jurídica.
-b) En el caso de asociaciones, número de hombres y mujeres que las componen. A tal efecto, se procederá a la creación del oportuno fichero de titularidad pública para dar cumplimiento a lo dispuesto en el artículo 20 de la Ley Orgánica 15/1999, de 13 de diciembre. En el caso de federaciones, confederaciones u otro tipo de colectivo, número de entidades que las componen.
+b) En el caso de asociaciones, número de hombres y mujeres que las componen. A tal efecto, se procederá a la creación del oportuno fichero de titularidad pública para dar cumplimiento a lo dispuesto en el artículo 20 de la [Ley Orgánica 15/1999](../../../estatal/02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md), de 13 de diciembre. En el caso de federaciones, confederaciones u otro tipo de colectivo, número de entidades que las componen.
 c) Los fines que persiguen y las actividades que desarrollan, a través de sus programas de actuación.
 d) Los datos identificativos de la persona que ostente la representación legal de la entidad, así como de las personas que compongan el órgano de dirección de la misma.
 e) El ámbito de implantación territorial, con indicación expresa del número de provincias en las que actúa la entidad.
@@ -116,7 +121,7 @@ Procedimiento de inscripción, baja y modificación
 1. Las entidades cumplimentarán la solicitud de inscripción, modificación y baja en el Censo con arreglo al modelo que figura como Anexo al presente Decreto, que deberán dirigir a la persona titular de la Dirección General competente en materia de participación en la educación y que estará disponible, asimismo, en las direcciones oficiales de internet de la Administración de la Junta de Andalucía o de la Consejería competente en materia de educación.
 2. Las solicitudes se presentarán preferentemente en:
 a) El Registro General de la Consejería competente en materia de educación o en los registros generales de sus Delegaciones Provinciales.
-b) El buzón de documentos de las Delegaciones Provinciales de la Consejería competente en materia de administración pública, de acuerdo con el Decreto 204/1995, de 29 de agosto, por el que se establecen medidas organizativas para los servicios administrativos de atención directa a los ciudadanos.
+b) El buzón de documentos de las Delegaciones Provinciales de la Consejería competente en materia de administración pública, de acuerdo con el [Decreto 204/1995](../01_marco_normativo_general_y_organico/D204_1995_medidas_organizativas_servicios_atencion_ciudadanos_andalucia.md), de 29 de agosto, por el que se establecen medidas organizativas para los servicios administrativos de atención directa a los ciudadanos.
 c) En cualquiera de las oficinas y registros descritos en el artículo 38.4 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
 
 #### Artículo 10. Tramitación telemática de las solicitudes.

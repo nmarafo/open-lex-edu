@@ -36,21 +36,25 @@ relaciones:
   - norm-can-d-9-2022
   - norm-es-lo-2-2006
   - norm-can-l-6-2014
+fundamentos_derecho:
+- norma_id: norm-can-l-6-2014
+- norma_id: norm-can-d-9-2022
+- norma_id: norm-mad-l1-1983-gobierno-administracion-comunidad-madrid
+- norma_id: norm-es-l-39-2015
 ---
-
-# Orden de 3 de marzo de 2022, por la que se desarrolla el Decreto 9/2022, de 20 de enero, que regula la admisión del alumnado en centros docentes que oferten enseñanzas no universitarias sostenidas con fondos públicos en la Comunidad Autónoma de Canarias.
+# Orden de 3 de marzo de 2022, por la que se desarrolla el [Decreto 9/2022](./D9_2022_regula_admision_alumnado_centros_docentes_publicos.md), de 20 de enero, que regula la admisión del alumnado en centros docentes que oferten enseñanzas no universitarias sostenidas con fondos públicos en la Comunidad Autónoma de Canarias.
 
 ## Preámbulo
 
 Jueves 10 de marzo de 2022
 I. Disposiciones generales
 Consejería de Educación, Universidades, Cultura y Deportes
-ORDEN de 3 de marzo de 2022, por la que se desarrolla el Decreto 9/2022, de 20 
+ORDEN de 3 de marzo de 2022, por la que se desarrolla el [Decreto 9/2022](./D9_2022_regula_admision_alumnado_centros_docentes_publicos.md), de 20 
 de enero, que regula la admisión del alumnado en centros docentes que oferten 
 enseñanzas no universitarias sostenidas con fondos públicos en la Comunidad 
 Autónoma de Canarias.
 PREÁMBULO
-Hasta la aprobación del Decreto 9/2022, de 20 de enero, por el que se regula la admisión 
+Hasta la aprobación del [Decreto 9/2022](./D9_2022_regula_admision_alumnado_centros_docentes_publicos.md), de 20 de enero, por el que se regula la admisión 
 del alumnado en centros docentes que oferten enseñanzas no universitarias sostenidas con 
 fondos públicos, en la Comunidad Autónoma de Canarias, el procedimiento de admisión 
 venía establecido, en nuestra comunidad autónoma, por el Decreto 61/2007, de 26  de 
@@ -64,7 +68,7 @@ La Ley Orgánica 3/2020, de 29  de diciembre, por la que se modifica la Ley
 Orgánica 2/2006, de 3 de mayo, de Educación, en su Disposición final quinta dispone que 
 las modificaciones relativas a la admisión del alumnado se aplicarán a la entrada en vigor de 
 la misma, salvo que el procedimiento se hubiera iniciado con anterioridad a dicha entrada 
-en vigor. En tal sentido, el citado Decreto 9/2022, de 20 de enero, por el que se regula 
+en vigor. En tal sentido, el citado [Decreto 9/2022](./D9_2022_regula_admision_alumnado_centros_docentes_publicos.md), de 20 de enero, por el que se regula 
 la admisión del alumnado en centros docentes que oferten enseñanzas no universitarias 
 sostenidas con fondos públicos, en la Comunidad Autónoma de Canarias, adaptó nuestra 
 normativa a los requerimientos recogidos en la mencionada norma básica, precisando del 
@@ -76,19 +80,19 @@ necesidad de aportar documentos acreditativos por la obligada verificación de d
 Administración, a través de las redes y plataformas de verificación de datos, etc.
 En la tramitación de esta Orden, se ha actuado conforme a los principios de necesidad, 
 eficacia, proporcionalidad, seguridad jurídica, transparencia y eficiencia establecidos en 
-el artículo 129  de la Ley 39/2015, de 1  de octubre, del Procedimiento Administrativo 
+el artículo 129  de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1  de octubre, del Procedimiento Administrativo 
 Común de las Administraciones Públicas, siendo el instrumento más adecuado para el 
 cumplimiento de sus fines, puesto que se hace necesario un desarrollo normativo del citado 
-Decreto 9/2022, de 20 de enero.
+[Decreto 9/2022](./D9_2022_regula_admision_alumnado_centros_docentes_publicos.md), de 20 de enero.
 Por todo ello, y de acuerdo con las competencias que me atribuye el artículo 32.c) de la 
-Ley 1/1983, de 14 de abril, del Gobierno y de la Administración Pública de la Comunidad 
+[Ley 1/1983](../../madrid/01_marco_normativo_general_y_organico/L1_1983_gobierno_administracion_comunidad_madrid.md), de 14 de abril, del Gobierno y de la Administración Pública de la Comunidad 
 Autónoma de Canarias, y el artículo 6 del Reglamento Orgánico de la Consejería de 
 Educación, Universidades, Cultura y Deportes, aprobado por el Decreto 7/2021, de 18 de 
 
 Jueves 10 de marzo de 2022
 febrero, así como el artículo 7 del Decreto 119/2019, de 16 de julio, del Presidente, por el 
 que se determinan el número, denominación y competencias de las Consejerías, y en uso de 
-la habilitación prevista en la Disposición final primera del Decreto 9/2022, de 20 de enero, 
+la habilitación prevista en la Disposición final primera del [Decreto 9/2022](./D9_2022_regula_admision_alumnado_centros_docentes_publicos.md), de 20 de enero, 
 por el que se regula la admisión del alumnado en centros docentes que oferten enseñanzas 
 no universitarias sostenidas con fondos públicos, en la Comunidad Autónoma de Canarias,
 
@@ -100,7 +104,7 @@ CAPÍTULO I
 DISPOSICIONES GENERALES
 Artículo 1. Objeto.
 La presente Orden tiene por objeto desarrollar el proceso de admisión del alumnado, de 
-conformidad con lo establecido en el Decreto 9/2022, de 20 de enero, por el que se regula 
+conformidad con lo establecido en el [Decreto 9/2022](./D9_2022_regula_admision_alumnado_centros_docentes_publicos.md), de 20 de enero, por el que se regula 
 la admisión del alumnado en centros docentes que oferten enseñanzas no universitarias 
 sostenidas con fondos públicos en la Comunidad Autónoma de Canarias, garantizando el 
 derecho a la educación, el acceso en condiciones de igualdad y la libertad de elección de 
