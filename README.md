@@ -89,7 +89,34 @@ open-lex-edu/
 
 ---
 
-## ⚙️ Especificación del Frontmatter OKF (YAML)
+## 🎓 Cobertura Nacional de Currículos Autonómicos LOMLOE
+
+El repositorio cuenta con **cobertura curricular completa (100%)** para todas las etapas educativas oficiales bajo la **LOMLOE** (Ley Orgánica 3/2020) en el marco de las 17 Comunidades Autónomas, organizadas en la categoría canónica `03_ordenacion_curricular_y_ensenanzas`:
+
+* **Marco Estatal de Enseñanzas Mínimas (BOE)**:
+  * Infantil: [Real Decreto 95/2022](file:///c:/Users/norbe/Documents/Normativa Actualizada 2026/open-lex-edu/estatal/03_ordenacion_curricular_y_ensenanzas/RD95_2022_ensenanzas_minimas_educacion_infantil.md)
+  * Primaria: [Real Decreto 157/2022](file:///c:/Users/norbe/Documents/Normativa Actualizada 2026/open-lex-edu/estatal/03_ordenacion_curricular_y_ensenanzas/RD157_2022_ensenanzas_minimas_educacion_primaria.md)
+  * ESO: [Real Decreto 217/2022](file:///c:/Users/norbe/Documents/Normativa Actualizada 2026/open-lex-edu/estatal/03_ordenacion_curricular_y_ensenanzas/RD217_2022_ensenanzas_minimas_educacion_secundaria_obligatoria.md)
+  * Bachillerato: [Real Decreto 243/2022](file:///c:/Users/norbe/Documents/Normativa Actualizada 2026/open-lex-edu/estatal/03_ordenacion_curricular_y_ensenanzas/RD243_2022_ensenanzas_minimas_bachillerato.md)
+* **Desarrollo Autonómico de Currículos (Diarios Oficiales CCAA)**:
+  * **Andalucía (BOJA)**: D 100/2023 (Infantil), D 101/2023 (Primaria), D 102/2023 (ESO), D 103/2023 (Bachillerato).
+  * **Aragón (BOA)**: Orden ECD/853/2022 (Infantil), Orden ECD/1112/2022 (Primaria), Orden ECD/1172/2022 (ESO), Orden ECD/1173/2022 (Bachillerato).
+  * **Asturias (BOPA)**: D 56/2022 (Infantil), D 57/2022 (Primaria), D 59/2022 (ESO), D 60/2022 (Bachillerato).
+  * **Illes Balears (BOIB)**: D 30/2022 (Infantil), D 31/2022 (Primaria), D 32/2022 (ESO), D 33/2022 (Bachillerato).
+  * **Canarias (BOC)**: D 30/2023 (Infantil y Primaria), D 34/2023 (ESO), D 36/2023 y D 37/2023 (Bachillerato).
+  * **Cantabria (BOC)**: D 66/2022 (Infantil y Primaria), D 73/2022 (ESO y Bachillerato).
+  * **Castilla-La Mancha (DOCM)**: D 80/2022 (Infantil), D 81/2022 (Primaria), D 82/2022 (ESO), D 83/2022 (Bachillerato).
+  * **Castilla y León (BOCYL)**: D 37/2022 (Infantil), D 38/2022 (Primaria), D 39/2022 (ESO), D 40/2022 (Bachillerato).
+  * **Cataluña (DOGC)**: D 21/2023 (Infantil), D 175/2022 (Básica: Primaria y ESO), D 171/2022 (Bachillerato).
+  * **Extremadura (DOE)**: D 98/2022 (Infantil), D 107/2022 (Primaria), D 110/2022 (ESO), D 109/2022 (Bachillerato).
+  * **Galicia (DOG)**: D 150/2022 (Infantil), D 155/2022 (Primaria), D 156/2022 (ESO), D 157/2022 (Bachillerato).
+  * **La Rioja (BOR)**: D 36/2022 (Infantil), D 41/2022 (Primaria), D 42/2022 (ESO), D 43/2022 (Bachillerato).
+  * **Madrid (BOCM)**: D 36/2022 (Infantil), D 61/2022 (Primaria), D 65/2022 (ESO), D 64/2022 (Bachillerato), D 59/2024 (Bilingüe).
+  * **Región de Murcia (BORM)**: D 196/2022 (Infantil), D 209/2022 (Primaria), D 235/2022 (ESO), D 251/2022 (Bachillerato).
+  * **Comunidad Foral de Navarra (BON / LexNavarra)**: DF 61/2022 (Infantil), DF 67/2022 (Primaria), DF 71/2022 (ESO), DF 72/2022 (Bachillerato).
+  * **País Vasco (BOPV)**: D 75/2023 (Infantil), D 77/2023 (Básica: Primaria y ESO), D 76/2023 (Bachillerato).
+  * **Comunitat Valenciana (DOGV)**: D 100/2022 (Infantil), D 106/2022 (Primaria), D 107/2022 (ESO), D 108/2022 (Bachillerato).
+  * **Ceuta y Melilla (BOE)**: Ámbito de gestión directa del Ministerio de Educación regulado mediante las Órdenes Ministeriales EFP/608/2022 (Infantil), EFP/678/2022 (Primaria), EFP/754/2022 (ESO) y EFP/755/2022 (Bachillerato).
 
 Cada archivo `.md` contiene un bloque de encabezado YAML estructurado:
 
