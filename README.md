@@ -278,27 +278,7 @@ relaciones:
 
 ---
 
-## 💡 Cómo usar open-lex-edu en Google NotebookLM
-
-`open-lex-edu` está especialmente optimizado para ser consumido como fuente de conocimiento en **[Google NotebookLM](https://notebooklm.google.com/)**, permitiendo realizar consultas jurídicas, auditorías normativas, resolución de supuestos prácticos de Inspección y fundamentación legal en minutos con cero alucinaciones:
-
-1. **Crear un Nuevo Cuaderno**: Entra en [Google NotebookLM](https://notebooklm.google.com/) y pulsa en **Nuevo Cuaderno**.
-2. **Añadir la Web o Archivos como Fuente**:
-   - **Vía Web**: En la ventana de fuentes, selecciona **Sitio web** e introduce la URL del repositorio: `https://github.com/nmarafo/open-lex-edu` (o los enlaces web a las normas o carpetas autonómicas que desees consultar).
-   - **Vía Archivos Markdown / Drive**: También puedes subir directamente los archivos `.md` de la normativa que vayas a utilizar (por ejemplo, las enseñanzas mínimas estatales y los decretos u órdenes de tu Comunidad Autónoma).
-3. **Configurar Respuesta y Prompt Maestro**:
-   - Abre la configuración del cuaderno (icono de ajustes en el panel de chat o barra lateral).
-   - En longitud de respuesta, selecciona **"Más Larga"**.
-   - En las instrucciones personalizadas del cuaderno, pega el [Prompt Maestro Universal](#-prompt-maestro-para-agentes-de-ia-y-llms-gemini-claude-gpt-deepseek-ollama-notebooklm).
-4. **Iniciar el Agente**: Guarda los ajustes y escribe en el chat la palabra:
-   ```text
-   Comenzar
-   ```
-   *(El agente te solicitará tu Comunidad Autónoma, etapa educativa, rol profesional y el objeto de la consulta).*
-
----
-
-## 🤖 Prompt Maestro para Agentes de IA y LLMs (Gemini, Claude, GPT, DeepSeek, Ollama, NotebookLM)
+## 🤖 Prompt Maestro para Agentes de IA y LLMs (Gemini, Claude, GPT, DeepSeek, Ollama)
 
 Para optimizar la interacción, consulta jurídica y explotación del repositorio con modelos de lenguaje y agentes de IA, se proporciona el siguiente **Prompt Maestro Universal**. Diseñado para integrarse en el *System Prompt*, *Custom Instructions*, *Gems*, *Projects* o al inicio de sesiones de trabajo:
 
@@ -392,7 +372,6 @@ Estructura cada dictamen o respuesta técnica según el siguiente esquema formal
 
 ### ⚙️ Guía de Adaptación por Plataforma
 
-* **NotebookLM (Google)**: Carga en el cuaderno los archivos `.md` de `open-lex-edu` deseados y añade el prompt maestro en la primera nota de instrucción o como mensaje de encuadre en el chat.
 * **Claude (Projects / System Prompt - Anthropic)**: Configúralo en las *Project Instructions*. Excelente rendimiento con modo de razonamiento extendido (*Extended Thinking*) para resolver antinomias y dictámenes jurídicos complejos.
 * **ChatGPT (Custom GPT / Preamble - OpenAI)**: Pégalo en el apartado *Instructions* de tu Custom GPT. Sube `index.yaml` o las carpetas autonómicas prioritarias como archivos de *Knowledge*.
 * **Gemini (Gems - Google)**: Añádelo en las instrucciones del Gem. Aprovecha la ventana de contexto de 1M-2M tokens para analizar leyes orgánicas completas y decretos curriculares extensos simultáneamente.
