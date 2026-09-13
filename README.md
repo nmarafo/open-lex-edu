@@ -63,9 +63,25 @@ open-lex-edu/
 │   ├── 08_personal_docente/
 │   └── 09_personal_laboral_y_no_docente/
 └── autonómica/
-    ├── canarias/                       # Normativa de la Comunidad Autónoma de Canarias (BOC / Juriscan)
-    ├── madrid/                         # Normativa de la Comunidad de Madrid (BOCM / WLEG)
-    └── andalucía/                      # Normativa de la Comunidad Autónoma de Andalucía (BOJA)
+    ├── andalucía/                      # Normativa de Andalucía (BOJA)
+    ├── aragón/                         # Estructura canónica autonómica (BOA)
+    ├── asturias/                       # Estructura canónica autonómica (BOPA)
+    ├── baleares/                       # Estructura canónica autonómica (BOIB)
+    ├── canarias/                       # Normativa de Canarias (BOC / Juriscan)
+    ├── cantabria/                      # Estructura canónica autonómica (BOC)
+    ├── castilla_la_mancha/             # Estructura canónica autonómica (DOCM)
+    ├── castilla_y_león/                # Estructura canónica autonómica (BOCYL)
+    ├── cataluña/                       # Estructura canónica autonómica (DOGC)
+    ├── ceuta/                          # Estructura canónica autonómica (BOCCE)
+    ├── extremadura/                    # Estructura canónica autonómica (DOE)
+    ├── galicia/                        # Estructura canónica autonómica (DOG)
+    ├── la_rioja/                       # Estructura canónica autonómica (BOR)
+    ├── madrid/                         # Normativa de Madrid (BOCM / WLEG)
+    ├── melilla/                        # Estructura canónica autonómica (BOME)
+    ├── murcia/                         # Estructura canónica autonómica (BORM)
+    ├── navarra/                        # Estructura canónica autonómica (BON)
+    ├── país_vasco/                     # Estructura canónica autonómica (BOPV)
+    └── valencia/                       # Estructura canónica autonómica (DOGV)
 ```
 
 ---
