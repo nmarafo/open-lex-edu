@@ -19,7 +19,7 @@
   "properties": {
     "id": {
       "type": "string",
-      "pattern": "^norm-(es|can|mad|and)-[a-z0-9-]+$"
+      "pattern": "^norm-(es|can|mad|and|ara|ast|bal|ctb|clm|cyl|cat|ext|gal|rio|mur|nav|pva|val|ceu|mel)-[a-z0-9-]+$"
     },
     "codigo_sintetizado": {
       "type": "string"
@@ -29,7 +29,28 @@
     },
     "jurisdiccion": {
       "type": "string",
-      "enum": ["España", "Canarias", "Madrid", "Andalucía"]
+      "enum": [
+        "España",
+        "Canarias",
+        "Madrid",
+        "Andalucía",
+        "Aragón",
+        "Asturias",
+        "Baleares",
+        "Cantabria",
+        "Castilla-La Mancha",
+        "Castilla y León",
+        "Cataluña",
+        "Extremadura",
+        "Galicia",
+        "La Rioja",
+        "Murcia",
+        "Navarra",
+        "País Vasco",
+        "Comunidad Valenciana",
+        "Ceuta",
+        "Melilla"
+      ]
     },
     "ambito": {
       "type": "string",
@@ -52,7 +73,28 @@
     },
     "boletin": {
       "type": "string",
-      "enum": ["BOE", "BOC", "BOCM", "BOJA", "DOUE"]
+      "enum": [
+        "BOE",
+        "BOC",
+        "BOCM",
+        "BOJA",
+        "DOUE",
+        "BOA",
+        "BOPA",
+        "BOIB",
+        "DOCM",
+        "BOCYL",
+        "DOGC",
+        "DOE",
+        "DOG",
+        "BOR",
+        "BORM",
+        "BON",
+        "BOPV",
+        "DOGV",
+        "BOCCE",
+        "BOME"
+      ]
     },
     "numero_boletin": {
       "type": "string"
@@ -67,7 +109,7 @@
     },
     "fuente_oficial": {
       "type": "string",
-      "pattern": "^https?://.*(boe\\.es|gobiernodecanarias\\.org|sede\\.gobiernodecanarias\\.org|gobcan\\.es|eur-lex\\.europa\\.eu|juriscan|bocm\\.es|madrid\\.org|juntadeandalucia\\.es).*"
+      "pattern": "^https?://.*(boe\\.es|gobiernodecanarias\\.org|sede\\.gobiernodecanarias\\.org|gobcan\\.es|eur-lex\\.europa\\.eu|juriscan|bocm\\.es|madrid\\.org|comunidad\\.madrid|juntadeandalucia\\.es|aragon\\.es|asturias\\.es|caib\\.es|cantabria\\.es|castillalamancha\\.es|jccm\\.es|jcyl\\.es|gencat\\.cat|juntaex\\.es|xunta\\.gal|larioja\\.org|carm\\.es|navarra\\.es|euskadi\\.eus|gva\\.es|noticias\\.juridicas\\.com|d2eb79appvasri\\.cloudfront\\.net|vlex|iberley).*"
     },
     "fuente_juriscan": {
       "type": "string"

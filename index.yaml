@@ -1,5 +1,5 @@
 version: '1.0'
-total_normas: 644
+total_normas: 696
 normas:
   norm-and-d154-2022:
     id: norm-and-d154-2022
@@ -2680,6 +2680,164 @@ normas:
     - curso_2025_2026
     - andalucia
     path: autonómica/andalucía/08_personal_docente/R_acreditacion_competencia_digital_docente_andalucia_2025_2026.md
+  norm-ara-oecd1112-2022:
+    id: norm-ara-oecd1112-2022
+    codigo_sintetizado: OECD1112_2022
+    titulo: Orden ECD/1112/2022, de 18 de julio, por la que se aprueban el currículo
+      y las características de la evaluación de la Educación Primaria y se autoriza
+      su aplicación en los centros docentes de la Comunidad Autónoma de Aragón
+    jurisdiccion: Aragón
+    ambito: Autonómico
+    tipo_disposicion: Orden
+    fecha_publicacion: '2022-07-28'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: educacion_primaria
+    tags:
+    - ordenación curricular
+    - currículo
+    - LOMLOE
+    - Educación Primaria
+    path: autonómica/aragón/03_ordenacion_curricular_y_ensenanzas/OECD1112_2022_curriculo_evaluacion_educacion_primaria.md
+  norm-ara-oecd1172-2022:
+    id: norm-ara-oecd1172-2022
+    codigo_sintetizado: OECD1172_2022
+    titulo: Orden ECD/1172/2022, de 2 de agosto, por la que se aprueban el currículo
+      y las características de la evaluación de la Educación Secundaria Obligatoria
+      y se autoriza su aplicación en los centros docentes de la Comunidad Autónoma
+      de Aragón
+    jurisdiccion: Aragón
+    ambito: Autonómico
+    tipo_disposicion: Orden
+    fecha_publicacion: '2022-08-11'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: eso
+    tags:
+    - ordenación curricular
+    - currículo
+    - LOMLOE
+    - Educación Secundaria Obligatoria
+    path: autonómica/aragón/03_ordenacion_curricular_y_ensenanzas/OECD1172_2022_curriculo_evaluacion_educacion_secundaria_obligatoria.md
+  norm-ara-oecd1173-2022:
+    id: norm-ara-oecd1173-2022
+    codigo_sintetizado: OECD1173_2022
+    titulo: Orden ECD/1173/2022, de 3 de agosto, por la que se aprueban el currículo
+      y las características de la evaluación del Bachillerato y se autoriza su aplicación
+      en los centros docentes de la Comunidad Autónoma de Aragón
+    jurisdiccion: Aragón
+    ambito: Autonómico
+    tipo_disposicion: Orden
+    fecha_publicacion: '2022-08-11'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: bachillerato
+    tags:
+    - ordenación curricular
+    - currículo
+    - LOMLOE
+    - Bachillerato
+    path: autonómica/aragón/03_ordenacion_curricular_y_ensenanzas/OECD1173_2022_curriculo_evaluacion_bachillerato.md
+  norm-ara-oecd853-2022:
+    id: norm-ara-oecd853-2022
+    codigo_sintetizado: OECD853_2022
+    titulo: Orden ECD/853/2022, de 13 de junio, por la que se aprueban el currículo
+      y las características de la evaluación de la Educación Infantil y se autoriza
+      su aplicación en los centros docentes de la Comunidad Autónoma de Aragón
+    jurisdiccion: Aragón
+    ambito: Autonómico
+    tipo_disposicion: Orden
+    fecha_publicacion: '2022-06-17'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: educacion_infantil
+    tags:
+    - ordenación curricular
+    - currículo
+    - LOMLOE
+    - Educación Infantil
+    path: autonómica/aragón/03_ordenacion_curricular_y_ensenanzas/OECD853_2022_curriculo_evaluacion_educacion_infantil.md
+  norm-ast-d56-2022:
+    id: norm-ast-d56-2022
+    codigo_sintetizado: D56_2022
+    titulo: Decreto 56/2022, de 5 de agosto, por el que se regula la ordenación y
+      se establece el currículo de la Educación Infantil en el Principado de Asturias
+    jurisdiccion: Asturias
+    ambito: Autonómico
+    tipo_disposicion: Decreto
+    fecha_publicacion: '2022-08-23'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: educacion_infantil
+    tags:
+    - ordenación curricular
+    - currículo
+    - LOMLOE
+    - Educación Infantil
+    path: autonómica/asturias/03_ordenacion_curricular_y_ensenanzas/D56_2022_ordenacion_curriculo_educacion_infantil.md
+  norm-ast-d57-2022:
+    id: norm-ast-d57-2022
+    codigo_sintetizado: D57_2022
+    titulo: Decreto 57/2022, de 5 de agosto, por el que se regula la ordenación y
+      se establece el currículo de la Educación Primaria en el Principado de Asturias
+    jurisdiccion: Asturias
+    ambito: Autonómico
+    tipo_disposicion: Decreto
+    fecha_publicacion: '2022-08-23'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: educacion_primaria
+    tags:
+    - ordenación curricular
+    - currículo
+    - LOMLOE
+    - Educación Primaria
+    path: autonómica/asturias/03_ordenacion_curricular_y_ensenanzas/D57_2022_ordenacion_curriculo_educacion_primaria.md
+  norm-ast-d59-2022:
+    id: norm-ast-d59-2022
+    codigo_sintetizado: D59_2022
+    titulo: Decreto 59/2022, de 30 de agosto, por el que se regula la ordenación y
+      se establece el currículo de la Educación Secundaria Obligatoria en el Principado
+      de Asturias
+    jurisdiccion: Asturias
+    ambito: Autonómico
+    tipo_disposicion: Decreto
+    fecha_publicacion: '2022-09-01'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: eso
+    tags:
+    - ordenación curricular
+    - currículo
+    - LOMLOE
+    - Educación Secundaria Obligatoria
+    path: autonómica/asturias/03_ordenacion_curricular_y_ensenanzas/D59_2022_ordenacion_curriculo_educacion_secundaria_obligatoria.md
+  norm-ast-d60-2022:
+    id: norm-ast-d60-2022
+    codigo_sintetizado: D60_2022
+    titulo: Decreto 60/2022, de 30 de agosto, por el que se regula la ordenación y
+      se establece el currículo de Bachillerato en el Principado de Asturias
+    jurisdiccion: Asturias
+    ambito: Autonómico
+    tipo_disposicion: Decreto
+    fecha_publicacion: '2022-09-01'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: bachillerato
+    tags:
+    - ordenación curricular
+    - currículo
+    - LOMLOE
+    - Bachillerato
+    path: autonómica/asturias/03_ordenacion_curricular_y_ensenanzas/D60_2022_ordenacion_curriculo_bachillerato.md
   norm-can-d-123-2023:
     id: norm-can-d-123-2023
     codigo_sintetizado: D123/2023 Estructura Organica del Gobierno de Canarias
@@ -8173,6 +8331,570 @@ normas:
     - encuadramiento-profesional
     - categorias-laborales
     path: autonómica/canarias/09_personal_laboral_y_no_docente/R30_1_2007_relativa_registro_deposito_publicacion_acuerdo_comision.md
+  norm-ctb-d66-2022:
+    id: norm-ctb-d66-2022
+    codigo_sintetizado: D66_2022
+    titulo: Decreto 66/2022, de 7 de julio, por el que se establece el currículo de
+      la Educación Infantil y de la Educación Primaria en la Comunidad Autónoma de
+      Cantabria
+    jurisdiccion: Cantabria
+    ambito: Autonómico
+    tipo_disposicion: Decreto
+    fecha_publicacion: '2022-07-11'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: educacion_infantil_primaria
+    tags:
+    - ordenación curricular
+    - currículo
+    - LOMLOE
+    - Educación Infantil y Primaria
+    path: autonómica/cantabria/03_ordenacion_curricular_y_ensenanzas/D66_2022_curriculo_educacion_infantil_primaria.md
+  norm-ctb-d73-2022:
+    id: norm-ctb-d73-2022
+    codigo_sintetizado: D73_2022
+    titulo: Decreto 73/2022, de 27 de julio, por el que se establece el currículo
+      de la Educación Secundaria Obligatoria y del Bachillerato en la Comunidad Autónoma
+      de Cantabria
+    jurisdiccion: Cantabria
+    ambito: Autonómico
+    tipo_disposicion: Decreto
+    fecha_publicacion: '2022-07-28'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: eso_bachillerato
+    tags:
+    - ordenación curricular
+    - currículo
+    - LOMLOE
+    - Educación Secundaria Obligatoria y Bachillerato
+    path: autonómica/cantabria/03_ordenacion_curricular_y_ensenanzas/D73_2022_curriculo_educacion_secundaria_obligatoria_bachillerato.md
+  norm-clm-d80-2022:
+    id: norm-clm-d80-2022
+    codigo_sintetizado: D80_2022
+    titulo: Decreto 80/2022, de 12 de julio, por el que se establece la ordenación
+      y el currículo de Educación Infantil en la comunidad autónoma de Castilla-La
+      Mancha
+    jurisdiccion: Castilla-La Mancha
+    ambito: Autonómico
+    tipo_disposicion: Decreto
+    fecha_publicacion: '2022-07-15'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: educacion_infantil
+    tags:
+    - ordenación curricular
+    - currículo
+    - LOMLOE
+    - Educación Infantil
+    path: autonómica/castilla_la_mancha/03_ordenacion_curricular_y_ensenanzas/D80_2022_ordenacion_curriculo_educacion_infantil.md
+  norm-clm-d81-2022:
+    id: norm-clm-d81-2022
+    codigo_sintetizado: D81_2022
+    titulo: Decreto 81/2022, de 12 de julio, por el que se establece la ordenación
+      y el currículo de Educación Primaria en la comunidad autónoma de Castilla-La
+      Mancha
+    jurisdiccion: Castilla-La Mancha
+    ambito: Autonómico
+    tipo_disposicion: Decreto
+    fecha_publicacion: '2022-07-15'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: educacion_primaria
+    tags:
+    - ordenación curricular
+    - currículo
+    - LOMLOE
+    - Educación Primaria
+    path: autonómica/castilla_la_mancha/03_ordenacion_curricular_y_ensenanzas/D81_2022_ordenacion_curriculo_educacion_primaria.md
+  norm-clm-d82-2022:
+    id: norm-clm-d82-2022
+    codigo_sintetizado: D82_2022
+    titulo: Decreto 82/2022, de 12 de julio, por el que se establece la ordenación
+      y el currículo de Educación Secundaria Obligatoria en la comunidad autónoma
+      de Castilla-La Mancha
+    jurisdiccion: Castilla-La Mancha
+    ambito: Autonómico
+    tipo_disposicion: Decreto
+    fecha_publicacion: '2022-07-15'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: eso
+    tags:
+    - ordenación curricular
+    - currículo
+    - LOMLOE
+    - Educación Secundaria Obligatoria
+    path: autonómica/castilla_la_mancha/03_ordenacion_curricular_y_ensenanzas/D82_2022_ordenacion_curriculo_educacion_secundaria_obligatoria.md
+  norm-clm-d83-2022:
+    id: norm-clm-d83-2022
+    codigo_sintetizado: D83_2022
+    titulo: Decreto 83/2022, de 12 de julio, por el que se establece la ordenación
+      y el currículo de Bachillerato en la comunidad autónoma de Castilla-La Mancha
+    jurisdiccion: Castilla-La Mancha
+    ambito: Autonómico
+    tipo_disposicion: Decreto
+    fecha_publicacion: '2022-07-15'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: bachillerato
+    tags:
+    - ordenación curricular
+    - currículo
+    - LOMLOE
+    - Bachillerato
+    path: autonómica/castilla_la_mancha/03_ordenacion_curricular_y_ensenanzas/D83_2022_ordenacion_curriculo_bachillerato.md
+  norm-cyl-d37-2022:
+    id: norm-cyl-d37-2022
+    codigo_sintetizado: D37_2022
+    titulo: Decreto 37/2022, de 29 de septiembre, por el que se establece la ordenación
+      y el currículo de la educación infantil en la Comunidad de Castilla y León
+    jurisdiccion: Castilla y León
+    ambito: Autonómico
+    tipo_disposicion: Decreto
+    fecha_publicacion: '2022-09-30'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: educacion_infantil
+    tags:
+    - ordenación curricular
+    - currículo
+    - LOMLOE
+    - Educación Infantil
+    path: autonómica/castilla_y_leon/03_ordenacion_curricular_y_ensenanzas/D37_2022_ordenacion_curriculo_educacion_infantil.md
+  norm-cyl-d38-2022:
+    id: norm-cyl-d38-2022
+    codigo_sintetizado: D38_2022
+    titulo: Decreto 38/2022, de 29 de septiembre, por el que se establece la ordenación
+      y el currículo de la educación primaria en la Comunidad de Castilla y León
+    jurisdiccion: Castilla y León
+    ambito: Autonómico
+    tipo_disposicion: Decreto
+    fecha_publicacion: '2022-09-30'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: educacion_primaria
+    tags:
+    - ordenación curricular
+    - currículo
+    - LOMLOE
+    - Educación Primaria
+    path: autonómica/castilla_y_leon/03_ordenacion_curricular_y_ensenanzas/D38_2022_ordenacion_curriculo_educacion_primaria.md
+  norm-cyl-d39-2022:
+    id: norm-cyl-d39-2022
+    codigo_sintetizado: D39_2022
+    titulo: Decreto 39/2022, de 29 de septiembre, por el que se establece la ordenación
+      y el currículo de la educación secundaria obligatoria en la Comunidad de Castilla
+      y León
+    jurisdiccion: Castilla y León
+    ambito: Autonómico
+    tipo_disposicion: Decreto
+    fecha_publicacion: '2022-09-30'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: eso
+    tags:
+    - ordenación curricular
+    - currículo
+    - LOMLOE
+    - Educación Secundaria Obligatoria
+    path: autonómica/castilla_y_leon/03_ordenacion_curricular_y_ensenanzas/D39_2022_ordenacion_curriculo_educacion_secundaria_obligatoria.md
+  norm-cyl-d40-2022:
+    id: norm-cyl-d40-2022
+    codigo_sintetizado: D40_2022
+    titulo: Decreto 40/2022, de 29 de septiembre, por el que se establece la ordenación
+      y el currículo del bachillerato en la Comunidad de Castilla y León
+    jurisdiccion: Castilla y León
+    ambito: Autonómico
+    tipo_disposicion: Decreto
+    fecha_publicacion: '2022-09-30'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: bachillerato
+    tags:
+    - ordenación curricular
+    - currículo
+    - LOMLOE
+    - Bachillerato
+    path: autonómica/castilla_y_leon/03_ordenacion_curricular_y_ensenanzas/D40_2022_ordenacion_curriculo_bachillerato.md
+  norm-cat-d171-2022:
+    id: norm-cat-d171-2022
+    codigo_sintetizado: D171_2022
+    titulo: Decreto 171/2022, de 20 de septiembre, de ordenación de las enseñanzas
+      de bachillerato
+    jurisdiccion: Cataluña
+    ambito: Autonómico
+    tipo_disposicion: Decreto
+    fecha_publicacion: '2022-09-22'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: bachillerato
+    tags:
+    - ordenación curricular
+    - currículo
+    - LOMLOE
+    - Bachillerato
+    path: autonómica/cataluna/03_ordenacion_curricular_y_ensenanzas/D171_2022_ordenacion_ensenanzas_bachillerato.md
+  norm-cat-d175-2022:
+    id: norm-cat-d175-2022
+    codigo_sintetizado: D175_2022
+    titulo: Decreto 175/2022, de 27 de septiembre, de ordenación de las enseñanzas
+      de la educación básica
+    jurisdiccion: Cataluña
+    ambito: Autonómico
+    tipo_disposicion: Decreto
+    fecha_publicacion: '2022-09-29'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: educacion_basica_primaria_eso
+    tags:
+    - ordenación curricular
+    - currículo
+    - LOMLOE
+    - Educación Primaria y ESO
+    path: autonómica/cataluna/03_ordenacion_curricular_y_ensenanzas/D175_2022_ordenacion_ensenanzas_educacion_basica.md
+  norm-cat-d21-2023:
+    id: norm-cat-d21-2023
+    codigo_sintetizado: D21_2023
+    titulo: Decreto 21/2023, de 7 de febrero, de ordenación de las enseñanzas de la
+      educación infantil
+    jurisdiccion: Cataluña
+    ambito: Autonómico
+    tipo_disposicion: Decreto
+    fecha_publicacion: '2023-02-09'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: educacion_infantil
+    tags:
+    - ordenación curricular
+    - currículo
+    - LOMLOE
+    - Educación Infantil
+    path: autonómica/cataluna/03_ordenacion_curricular_y_ensenanzas/D21_2023_ordenacion_ensenanzas_educacion_infantil.md
+  norm-ext-d107-2022:
+    id: norm-ext-d107-2022
+    codigo_sintetizado: D107_2022
+    titulo: Decreto 107/2022, de 28 de julio, por el que se establecen la ordenación
+      y el currículo de la Educación Primaria para la Comunidad Autónoma de Extremadura
+    jurisdiccion: Extremadura
+    ambito: Autonómico
+    tipo_disposicion: Decreto
+    fecha_publicacion: '2022-08-02'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: educacion_primaria
+    tags:
+    - ordenación curricular
+    - currículo
+    - LOMLOE
+    - Educación Primaria
+    path: autonómica/extremadura/03_ordenacion_curricular_y_ensenanzas/D107_2022_ordenacion_curriculo_educacion_primaria.md
+  norm-ext-d109-2022:
+    id: norm-ext-d109-2022
+    codigo_sintetizado: D109_2022
+    titulo: Decreto 109/2022, de 22 de agosto, por el que se establecen la ordenación
+      y el currículo del Bachillerato para la Comunidad Autónoma de Extremadura
+    jurisdiccion: Extremadura
+    ambito: Autonómico
+    tipo_disposicion: Decreto
+    fecha_publicacion: '2022-08-25'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: bachillerato
+    tags:
+    - ordenación curricular
+    - currículo
+    - LOMLOE
+    - Bachillerato
+    path: autonómica/extremadura/03_ordenacion_curricular_y_ensenanzas/D109_2022_ordenacion_curriculo_bachillerato.md
+  norm-ext-d110-2022:
+    id: norm-ext-d110-2022
+    codigo_sintetizado: D110_2022
+    titulo: Decreto 110/2022, de 22 de agosto, por el que se establecen la ordenación
+      y el currículo de la Educación Secundaria Obligatoria para la Comunidad Autónoma
+      de Extremadura
+    jurisdiccion: Extremadura
+    ambito: Autonómico
+    tipo_disposicion: Decreto
+    fecha_publicacion: '2022-08-25'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: eso
+    tags:
+    - ordenación curricular
+    - currículo
+    - LOMLOE
+    - Educación Secundaria Obligatoria
+    path: autonómica/extremadura/03_ordenacion_curricular_y_ensenanzas/D110_2022_ordenacion_curriculo_educacion_secundaria_obligatoria.md
+  norm-ext-d98-2022:
+    id: norm-ext-d98-2022
+    codigo_sintetizado: D98_2022
+    titulo: Decreto 98/2022, de 20 de julio, por el que se establecen la ordenación
+      y el currículo de la Educación Infantil para la Comunidad Autónoma de Extremadura
+    jurisdiccion: Extremadura
+    ambito: Autonómico
+    tipo_disposicion: Decreto
+    fecha_publicacion: '2022-07-25'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: educacion_infantil
+    tags:
+    - ordenación curricular
+    - currículo
+    - LOMLOE
+    - Educación Infantil
+    path: autonómica/extremadura/03_ordenacion_curricular_y_ensenanzas/D98_2022_ordenacion_curriculo_educacion_infantil.md
+  norm-gal-d150-2022:
+    id: norm-gal-d150-2022
+    codigo_sintetizado: D150_2022
+    titulo: Decreto 150/2022, de 8 de septiembre, por el que se establece la ordenación
+      y el currículo de la educación infantil en la Comunidad Autónoma de Galicia
+    jurisdiccion: Galicia
+    ambito: Autonómico
+    tipo_disposicion: Decreto
+    fecha_publicacion: '2022-09-20'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: educacion_infantil
+    tags:
+    - ordenación curricular
+    - currículo
+    - LOMLOE
+    - Educación Infantil
+    path: autonómica/galicia/03_ordenacion_curricular_y_ensenanzas/D150_2022_ordenacion_curriculo_educacion_infantil.md
+  norm-gal-d155-2022:
+    id: norm-gal-d155-2022
+    codigo_sintetizado: D155_2022
+    titulo: Decreto 155/2022, de 15 de septiembre, por el que se establecen la ordenación
+      y el currículo de la educación primaria en la Comunidad Autónoma de Galicia
+    jurisdiccion: Galicia
+    ambito: Autonómico
+    tipo_disposicion: Decreto
+    fecha_publicacion: '2022-09-26'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: educacion_primaria
+    tags:
+    - ordenación curricular
+    - currículo
+    - LOMLOE
+    - Educación Primaria
+    path: autonómica/galicia/03_ordenacion_curricular_y_ensenanzas/D155_2022_ordenacion_curriculo_educacion_primaria.md
+  norm-gal-d156-2022:
+    id: norm-gal-d156-2022
+    codigo_sintetizado: D156_2022
+    titulo: Decreto 156/2022, de 15 de septiembre, por el que se establecen la ordenación
+      y el currículo de la educación secundaria obligatoria en la Comunidad Autónoma
+      de Galicia
+    jurisdiccion: Galicia
+    ambito: Autonómico
+    tipo_disposicion: Decreto
+    fecha_publicacion: '2022-09-26'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: eso
+    tags:
+    - ordenación curricular
+    - currículo
+    - LOMLOE
+    - Educación Secundaria Obligatoria
+    path: autonómica/galicia/03_ordenacion_curricular_y_ensenanzas/D156_2022_ordenacion_curriculo_educacion_secundaria_obligatoria.md
+  norm-gal-d157-2022:
+    id: norm-gal-d157-2022
+    codigo_sintetizado: D157_2022
+    titulo: Decreto 157/2022, de 15 de septiembre, por el que se establecen la ordenación
+      y el currículo del bachillerato en la Comunidad Autónoma de Galicia
+    jurisdiccion: Galicia
+    ambito: Autonómico
+    tipo_disposicion: Decreto
+    fecha_publicacion: '2022-09-26'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: bachillerato
+    tags:
+    - ordenación curricular
+    - currículo
+    - LOMLOE
+    - Bachillerato
+    path: autonómica/galicia/03_ordenacion_curricular_y_ensenanzas/D157_2022_ordenacion_curriculo_bachillerato.md
+  norm-bal-d30-2022:
+    id: norm-bal-d30-2022
+    codigo_sintetizado: D30_2022
+    titulo: Decreto 30/2022, de 1 de agosto, por el cual se establece el currículo
+      y la evaluación de la educación infantil en las Illes Balears
+    jurisdiccion: Baleares
+    ambito: Autonómico
+    tipo_disposicion: Decreto
+    fecha_publicacion: '2022-08-04'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: educacion_infantil
+    tags:
+    - ordenación curricular
+    - currículo
+    - LOMLOE
+    - Educación Infantil
+    path: autonómica/islas_baleares/03_ordenacion_curricular_y_ensenanzas/D30_2022_curriculo_evaluacion_educacion_infantil.md
+  norm-bal-d31-2022:
+    id: norm-bal-d31-2022
+    codigo_sintetizado: D31_2022
+    titulo: Decreto 31/2022, de 1 de agosto, por el que se establece el currículo
+      de la Educación Primaria en las Illes Balears
+    jurisdiccion: Baleares
+    ambito: Autonómico
+    tipo_disposicion: Decreto
+    fecha_publicacion: '2022-08-04'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: educacion_primaria
+    tags:
+    - ordenación curricular
+    - currículo
+    - LOMLOE
+    - Educación Primaria
+    path: autonómica/islas_baleares/03_ordenacion_curricular_y_ensenanzas/D31_2022_curriculo_educacion_primaria.md
+  norm-bal-d32-2022:
+    id: norm-bal-d32-2022
+    codigo_sintetizado: D32_2022
+    titulo: Decreto 32/2022, de 1 de agosto, por el que se establece el currículo
+      de la educación secundaria obligatoria en las Illes Balears
+    jurisdiccion: Baleares
+    ambito: Autonómico
+    tipo_disposicion: Decreto
+    fecha_publicacion: '2022-08-04'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: eso
+    tags:
+    - ordenación curricular
+    - currículo
+    - LOMLOE
+    - Educación Secundaria Obligatoria
+    path: autonómica/islas_baleares/03_ordenacion_curricular_y_ensenanzas/D32_2022_curriculo_educacion_secundaria_obligatoria.md
+  norm-bal-d33-2022:
+    id: norm-bal-d33-2022
+    codigo_sintetizado: D33_2022
+    titulo: Decreto 33/2022, de 1 de agosto, por el que se establece el currículo
+      del bachillerato en las Illes Balears
+    jurisdiccion: Baleares
+    ambito: Autonómico
+    tipo_disposicion: Decreto
+    fecha_publicacion: '2022-08-04'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: bachillerato
+    tags:
+    - ordenación curricular
+    - currículo
+    - LOMLOE
+    - Bachillerato
+    path: autonómica/islas_baleares/03_ordenacion_curricular_y_ensenanzas/D33_2022_curriculo_bachillerato.md
+  norm-rio-d36-2022:
+    id: norm-rio-d36-2022
+    codigo_sintetizado: D36_2022
+    titulo: Decreto 36/2022, de 29 de junio, por el que se establece el currículo
+      de Educación Infantil y se regulan determinados aspectos sobre su organización
+      y evaluación en la Comunidad Autónoma de La Rioja
+    jurisdiccion: La Rioja
+    ambito: Autonómico
+    tipo_disposicion: Decreto
+    fecha_publicacion: '2022-07-01'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: educacion_infantil
+    tags:
+    - ordenación curricular
+    - currículo
+    - LOMLOE
+    - Educación Infantil
+    path: autonómica/la_rioja/03_ordenacion_curricular_y_ensenanzas/D36_2022_curriculo_organizacion_evaluacion_educacion_infantil.md
+  norm-rio-d41-2022:
+    id: norm-rio-d41-2022
+    codigo_sintetizado: D41_2022
+    titulo: Decreto 41/2022, de 13 de julio, por el que se establece el currículo
+      de la Educación Primaria y se regulan determinados aspectos sobre su organización,
+      evaluación y promoción en la Comunidad Autónoma de La Rioja
+    jurisdiccion: La Rioja
+    ambito: Autonómico
+    tipo_disposicion: Decreto
+    fecha_publicacion: '2022-07-15'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: educacion_primaria
+    tags:
+    - ordenación curricular
+    - currículo
+    - LOMLOE
+    - Educación Primaria
+    path: autonómica/la_rioja/03_ordenacion_curricular_y_ensenanzas/D41_2022_curriculo_organizacion_evaluacion_educacion_primaria.md
+  norm-rio-d42-2022:
+    id: norm-rio-d42-2022
+    codigo_sintetizado: D42_2022
+    titulo: Decreto 42/2022, de 13 de julio, por el que se establece el currículo
+      de la Educación Secundaria Obligatoria y se regulan determinados aspectos sobre
+      su organización, evaluación, promoción y titulación en la Comunidad Autónoma
+      de La Rioja
+    jurisdiccion: La Rioja
+    ambito: Autonómico
+    tipo_disposicion: Decreto
+    fecha_publicacion: '2022-07-15'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: eso
+    tags:
+    - ordenación curricular
+    - currículo
+    - LOMLOE
+    - Educación Secundaria Obligatoria
+    path: autonómica/la_rioja/03_ordenacion_curricular_y_ensenanzas/D42_2022_curriculo_organizacion_evaluacion_educacion_secundaria_obligatoria.md
+  norm-rio-d43-2022:
+    id: norm-rio-d43-2022
+    codigo_sintetizado: D43_2022
+    titulo: Decreto 43/2022, de 21 de julio, por el que se establece el currículo
+      de Bachillerato y se regulan determinados aspectos sobre su organización, evaluación,
+      promoción y titulación en la Comunidad Autónoma de La Rioja
+    jurisdiccion: La Rioja
+    ambito: Autonómico
+    tipo_disposicion: Decreto
+    fecha_publicacion: '2022-07-22'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: bachillerato
+    tags:
+    - ordenación curricular
+    - currículo
+    - LOMLOE
+    - Bachillerato
+    path: autonómica/la_rioja/03_ordenacion_curricular_y_ensenanzas/D43_2022_curriculo_organizacion_evaluacion_bachillerato.md
   norm-mad-d248-2023:
     id: norm-mad-d248-2023
     codigo_sintetizado: D248_2023 Estructura Organica Consejeria Educacion Ciencia
@@ -11166,6 +11888,295 @@ normas:
     - universidades
     - comunidad_de_madrid
     path: autonómica/madrid/09_personal_laboral_y_no_docente/D43_2022_precios_publicos_estudios_universitarios_madrid.md
+  norm-mur-d196-2022:
+    id: norm-mur-d196-2022
+    codigo_sintetizado: D196/2022
+    titulo: Decreto n.º 196/2022, de 3 de noviembre, por el que se establece el currículo
+      de la etapa de Educación Infantil en la Comunidad Autónoma de la Región de Murcia
+    jurisdiccion: Región de Murcia
+    ambito: Autonómico
+    tipo_disposicion: Decreto
+    fecha_publicacion: '2022-11-04'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: curriculo_infantil
+    tags:
+    - ordenación curricular
+    - currículo
+    - LOMLOE
+    - Educación Infantil
+    path: autonómica/murcia/03_ordenacion_curricular_y_ensenanzas/D196_2022_curriculo_etapa_educacion_infantil.md
+  norm-mur-d209-2022:
+    id: norm-mur-d209-2022
+    codigo_sintetizado: D209/2022
+    titulo: Decreto n.º 209/2022, de 17 de noviembre, por el que se establece la ordenación
+      y el currículo de la Educación Primaria en la Comunidad Autónoma de la Región
+      de Murcia
+    jurisdiccion: Región de Murcia
+    ambito: Autonómico
+    tipo_disposicion: Decreto
+    fecha_publicacion: '2022-11-19'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: curriculo_primaria
+    tags:
+    - ordenación curricular
+    - currículo
+    - LOMLOE
+    - Educación Primaria
+    path: autonómica/murcia/03_ordenacion_curricular_y_ensenanzas/D209_2022_ordenacion_curriculo_educacion_primaria.md
+  norm-mur-d235-2022:
+    id: norm-mur-d235-2022
+    codigo_sintetizado: D235/2022
+    titulo: Decreto n.º 235/2022, de 7 de diciembre, por el que se establece la ordenación
+      y el currículo de la Educación Secundaria Obligatoria en la Comunidad Autónoma
+      de la Región de Murcia
+    jurisdiccion: Región de Murcia
+    ambito: Autonómico
+    tipo_disposicion: Decreto
+    fecha_publicacion: '2022-12-10'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: curriculo_secundaria
+    tags:
+    - ordenación curricular
+    - currículo
+    - LOMLOE
+    - Educación Secundaria Obligatoria
+    path: autonómica/murcia/03_ordenacion_curricular_y_ensenanzas/D235_2022_ordenacion_curriculo_educacion_secundaria_obligatoria.md
+  norm-mur-d251-2022:
+    id: norm-mur-d251-2022
+    codigo_sintetizado: D251/2022
+    titulo: Decreto n.º 251/2022, de 22 de diciembre, por el que se establece la ordenación
+      y el currículo del Bachillerato en la Comunidad Autónoma de la Región de Murcia
+    jurisdiccion: Región de Murcia
+    ambito: Autonómico
+    tipo_disposicion: Decreto
+    fecha_publicacion: '2022-12-24'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: curriculo_bachillerato
+    tags:
+    - ordenación curricular
+    - currículo
+    - LOMLOE
+    - Bachillerato
+    path: autonómica/murcia/03_ordenacion_curricular_y_ensenanzas/D251_2022_ordenacion_curriculo_bachillerato.md
+  norm-nav-df61-2022:
+    id: norm-nav-df61-2022
+    codigo_sintetizado: DF61/2022
+    titulo: Decreto Foral 61/2022, de 1 de junio, por el que se establece el currículo
+      de las enseñanzas de la etapa de Educación Infantil en la Comunidad Foral de
+      Navarra
+    jurisdiccion: Comunidad Foral de Navarra
+    ambito: Autonómico
+    tipo_disposicion: Decreto Foral
+    fecha_publicacion: '2022-06-07'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: curriculo_infantil
+    tags:
+    - ordenación curricular
+    - currículo
+    - LOMLOE
+    - Educación Infantil
+    path: autonómica/navarra/03_ordenacion_curricular_y_ensenanzas/DF61_2022_curriculo_ensenanzas_educacion_infantil.md
+  norm-nav-df67-2022:
+    id: norm-nav-df67-2022
+    codigo_sintetizado: DF67/2022
+    titulo: Decreto Foral 67/2022, de 22 de junio, por el que se establece el currículo
+      de las enseñanzas de la etapa de Educación Primaria en la Comunidad Foral de
+      Navarra
+    jurisdiccion: Comunidad Foral de Navarra
+    ambito: Autonómico
+    tipo_disposicion: Decreto Foral
+    fecha_publicacion: '2022-06-29'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: curriculo_primaria
+    tags:
+    - ordenación curricular
+    - currículo
+    - LOMLOE
+    - Educación Primaria
+    path: autonómica/navarra/03_ordenacion_curricular_y_ensenanzas/DF67_2022_curriculo_ensenanzas_educacion_primaria.md
+  norm-nav-df71-2022:
+    id: norm-nav-df71-2022
+    codigo_sintetizado: DF71/2022
+    titulo: Decreto Foral 71/2022, de 29 de junio, por el que se establece el currículo
+      de las enseñanzas de la etapa de Educación Secundaria Obligatoria en la Comunidad
+      Foral de Navarra
+    jurisdiccion: Comunidad Foral de Navarra
+    ambito: Autonómico
+    tipo_disposicion: Decreto Foral
+    fecha_publicacion: '2022-07-06'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: curriculo_secundaria
+    tags:
+    - ordenación curricular
+    - currículo
+    - LOMLOE
+    - Educación Secundaria Obligatoria
+    path: autonómica/navarra/03_ordenacion_curricular_y_ensenanzas/DF71_2022_curriculo_ensenanzas_educacion_secundaria_obligatoria.md
+  norm-nav-df72-2022:
+    id: norm-nav-df72-2022
+    codigo_sintetizado: DF72/2022
+    titulo: Decreto Foral 72/2022, de 29 de junio, por el que se establece el currículo
+      de las enseñanzas de la etapa de Bachillerato en la Comunidad Foral de Navarra
+    jurisdiccion: Comunidad Foral de Navarra
+    ambito: Autonómico
+    tipo_disposicion: Decreto Foral
+    fecha_publicacion: '2022-07-13'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: curriculo_bachillerato
+    tags:
+    - ordenación curricular
+    - currículo
+    - LOMLOE
+    - Bachillerato
+    path: autonómica/navarra/03_ordenacion_curricular_y_ensenanzas/DF72_2022_curriculo_ensenanzas_bachillerato.md
+  norm-pva-d75-2023:
+    id: norm-pva-d75-2023
+    codigo_sintetizado: D75/2023
+    titulo: Decreto 75/2023, de 30 de mayo, de establecimiento del currículo de Educación
+      Infantil
+    jurisdiccion: País Vasco
+    ambito: Autonómico
+    tipo_disposicion: Decreto
+    fecha_publicacion: '2023-06-09'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: curriculo_infantil
+    tags:
+    - ordenación curricular
+    - currículo
+    - LOMLOE
+    - Educación Infantil
+    path: autonómica/pais_vasco/03_ordenacion_curricular_y_ensenanzas/D75_2023_establecimiento_curriculo_educacion_infantil.md
+  norm-pva-d76-2023:
+    id: norm-pva-d76-2023
+    codigo_sintetizado: D76/2023
+    titulo: Decreto 76/2023, de 30 de mayo, de establecimiento del currículo de Bachillerato
+    jurisdiccion: País Vasco
+    ambito: Autonómico
+    tipo_disposicion: Decreto
+    fecha_publicacion: '2023-06-09'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: curriculo_bachillerato
+    tags:
+    - ordenación curricular
+    - currículo
+    - LOMLOE
+    - Bachillerato
+    path: autonómica/pais_vasco/03_ordenacion_curricular_y_ensenanzas/D76_2023_establecimiento_curriculo_bachillerato.md
+  norm-pva-d77-2023:
+    id: norm-pva-d77-2023
+    codigo_sintetizado: D77/2023
+    titulo: Decreto 77/2023, de 30 de mayo, de establecimiento del currículo de la
+      Educación Básica
+    jurisdiccion: País Vasco
+    ambito: Autonómico
+    tipo_disposicion: Decreto
+    fecha_publicacion: '2023-06-09'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: curriculo_basica
+    tags:
+    - ordenación curricular
+    - currículo
+    - LOMLOE
+    - Educación Básica
+    path: autonómica/pais_vasco/03_ordenacion_curricular_y_ensenanzas/D77_2023_establecimiento_curriculo_educacion_basica.md
+  norm-val-d100-2022:
+    id: norm-val-d100-2022
+    codigo_sintetizado: D100/2022
+    titulo: Decreto 100/2022, de 29 de julio, del Consell, por el cual se establece
+      la ordenación y el currículo de la Educación Infantil
+    jurisdiccion: Comunitat Valenciana
+    ambito: Autonómico
+    tipo_disposicion: Decreto
+    fecha_publicacion: '2022-08-04'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: curriculo_infantil
+    tags:
+    - ordenación curricular
+    - currículo
+    - LOMLOE
+    - Educación Infantil
+    path: autonómica/valenciana/03_ordenacion_curricular_y_ensenanzas/D100_2022_ordenacion_curriculo_educacion_infantil.md
+  norm-val-d106-2022:
+    id: norm-val-d106-2022
+    codigo_sintetizado: D106/2022
+    titulo: Decreto 106/2022, de 5 de agosto, del Consell, de ordenación y currículo
+      de la etapa de Educación Primaria
+    jurisdiccion: Comunitat Valenciana
+    ambito: Autonómico
+    tipo_disposicion: Decreto
+    fecha_publicacion: '2022-08-11'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: curriculo_primaria
+    tags:
+    - ordenación curricular
+    - currículo
+    - LOMLOE
+    - Educación Primaria
+    path: autonómica/valenciana/03_ordenacion_curricular_y_ensenanzas/D106_2022_ordenacion_curriculo_educacion_primaria.md
+  norm-val-d107-2022:
+    id: norm-val-d107-2022
+    codigo_sintetizado: D107/2022
+    titulo: Decreto 107/2022, de 5 de agosto, del Consell, por el que se establece
+      la ordenación y el currículo de la Educación Secundaria Obligatoria
+    jurisdiccion: Comunitat Valenciana
+    ambito: Autonómico
+    tipo_disposicion: Decreto
+    fecha_publicacion: '2022-08-11'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: curriculo_secundaria
+    tags:
+    - ordenación curricular
+    - currículo
+    - LOMLOE
+    - Educación Secundaria Obligatoria
+    path: autonómica/valenciana/03_ordenacion_curricular_y_ensenanzas/D107_2022_ordenacion_curriculo_educacion_secundaria_obligatoria.md
+  norm-val-d108-2022:
+    id: norm-val-d108-2022
+    codigo_sintetizado: D108/2022
+    titulo: Decreto 108/2022, de 5 de agosto, del Consell, por el que se establece
+      la ordenación y el currículo de Bachillerato
+    jurisdiccion: Comunitat Valenciana
+    ambito: Autonómico
+    tipo_disposicion: Decreto
+    fecha_publicacion: '2022-08-11'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: curriculo_bachillerato
+    tags:
+    - ordenación curricular
+    - currículo
+    - LOMLOE
+    - Bachillerato
+    path: autonómica/valenciana/03_ordenacion_curricular_y_ensenanzas/D108_2022_ordenacion_curriculo_bachillerato.md
   norm-es-ce-1978:
     id: norm-es-ce-1978
     codigo_sintetizado: CE_1978 Constitucion Espanola
@@ -20251,6 +21262,54 @@ relaciones_grafo:
 - origen: norm-and-r-cdd-2025-2026
   tipo: fundamentado_en
   destino: norm-es-lo-2-2006
+- origen: norm-ara-oecd1112-2022
+  tipo: desarrolla
+  destino: norm-es-lo2-2006
+  titulo_destino: Ley Orgánica 2/2006, de 3 de mayo, de Educación (LOE-LOMLOE)
+  descripcion: Desarrollo y concreción autonómica de las enseñanzas y currículos de
+    la etapa
+- origen: norm-ara-oecd1172-2022
+  tipo: desarrolla
+  destino: norm-es-lo2-2006
+  titulo_destino: Ley Orgánica 2/2006, de 3 de mayo, de Educación (LOE-LOMLOE)
+  descripcion: Desarrollo y concreción autonómica de las enseñanzas y currículos de
+    la etapa
+- origen: norm-ara-oecd1173-2022
+  tipo: desarrolla
+  destino: norm-es-lo2-2006
+  titulo_destino: Ley Orgánica 2/2006, de 3 de mayo, de Educación (LOE-LOMLOE)
+  descripcion: Desarrollo y concreción autonómica de las enseñanzas y currículos de
+    la etapa
+- origen: norm-ara-oecd853-2022
+  tipo: desarrolla
+  destino: norm-es-lo2-2006
+  titulo_destino: Ley Orgánica 2/2006, de 3 de mayo, de Educación (LOE-LOMLOE)
+  descripcion: Desarrollo y concreción autonómica de las enseñanzas y currículos de
+    la etapa
+- origen: norm-ast-d56-2022
+  tipo: desarrolla
+  destino: norm-es-lo2-2006
+  titulo_destino: Ley Orgánica 2/2006, de 3 de mayo, de Educación (LOE-LOMLOE)
+  descripcion: Desarrollo y concreción autonómica de las enseñanzas y currículos de
+    la etapa
+- origen: norm-ast-d57-2022
+  tipo: desarrolla
+  destino: norm-es-lo2-2006
+  titulo_destino: Ley Orgánica 2/2006, de 3 de mayo, de Educación (LOE-LOMLOE)
+  descripcion: Desarrollo y concreción autonómica de las enseñanzas y currículos de
+    la etapa
+- origen: norm-ast-d59-2022
+  tipo: desarrolla
+  destino: norm-es-lo2-2006
+  titulo_destino: Ley Orgánica 2/2006, de 3 de mayo, de Educación (LOE-LOMLOE)
+  descripcion: Desarrollo y concreción autonómica de las enseñanzas y currículos de
+    la etapa
+- origen: norm-ast-d60-2022
+  tipo: desarrolla
+  destino: norm-es-lo2-2006
+  titulo_destino: Ley Orgánica 2/2006, de 3 de mayo, de Educación (LOE-LOMLOE)
+  descripcion: Desarrollo y concreción autonómica de las enseñanzas y currículos de
+    la etapa
 - origen: norm-can-d-123-2023
   tipo: cita
   destino: norm-can-l-4-2023
@@ -43863,6 +44922,180 @@ relaciones_grafo:
 - origen: norm-can-res-2007-01-30
   tipo: fundamentado_en
   destino: norm-can-d-84-2024
+- origen: norm-ctb-d66-2022
+  tipo: desarrolla
+  destino: norm-es-lo2-2006
+  titulo_destino: Ley Orgánica 2/2006, de 3 de mayo, de Educación (LOE-LOMLOE)
+  descripcion: Desarrollo y concreción autonómica de las enseñanzas y currículos de
+    la etapa
+- origen: norm-ctb-d73-2022
+  tipo: desarrolla
+  destino: norm-es-lo2-2006
+  titulo_destino: Ley Orgánica 2/2006, de 3 de mayo, de Educación (LOE-LOMLOE)
+  descripcion: Desarrollo y concreción autonómica de las enseñanzas y currículos de
+    la etapa
+- origen: norm-clm-d80-2022
+  tipo: desarrolla
+  destino: norm-es-lo2-2006
+  titulo_destino: Ley Orgánica 2/2006, de 3 de mayo, de Educación (LOE-LOMLOE)
+  descripcion: Desarrollo y concreción autonómica de las enseñanzas y currículos de
+    la etapa
+- origen: norm-clm-d81-2022
+  tipo: desarrolla
+  destino: norm-es-lo2-2006
+  titulo_destino: Ley Orgánica 2/2006, de 3 de mayo, de Educación (LOE-LOMLOE)
+  descripcion: Desarrollo y concreción autonómica de las enseñanzas y currículos de
+    la etapa
+- origen: norm-clm-d82-2022
+  tipo: desarrolla
+  destino: norm-es-lo2-2006
+  titulo_destino: Ley Orgánica 2/2006, de 3 de mayo, de Educación (LOE-LOMLOE)
+  descripcion: Desarrollo y concreción autonómica de las enseñanzas y currículos de
+    la etapa
+- origen: norm-clm-d83-2022
+  tipo: desarrolla
+  destino: norm-es-lo2-2006
+  titulo_destino: Ley Orgánica 2/2006, de 3 de mayo, de Educación (LOE-LOMLOE)
+  descripcion: Desarrollo y concreción autonómica de las enseñanzas y currículos de
+    la etapa
+- origen: norm-cyl-d37-2022
+  tipo: desarrolla
+  destino: norm-es-lo2-2006
+  titulo_destino: Ley Orgánica 2/2006, de 3 de mayo, de Educación (LOE-LOMLOE)
+  descripcion: Desarrollo y concreción autonómica de las enseñanzas y currículos de
+    la etapa
+- origen: norm-cyl-d38-2022
+  tipo: desarrolla
+  destino: norm-es-lo2-2006
+  titulo_destino: Ley Orgánica 2/2006, de 3 de mayo, de Educación (LOE-LOMLOE)
+  descripcion: Desarrollo y concreción autonómica de las enseñanzas y currículos de
+    la etapa
+- origen: norm-cyl-d39-2022
+  tipo: desarrolla
+  destino: norm-es-lo2-2006
+  titulo_destino: Ley Orgánica 2/2006, de 3 de mayo, de Educación (LOE-LOMLOE)
+  descripcion: Desarrollo y concreción autonómica de las enseñanzas y currículos de
+    la etapa
+- origen: norm-cyl-d40-2022
+  tipo: desarrolla
+  destino: norm-es-lo2-2006
+  titulo_destino: Ley Orgánica 2/2006, de 3 de mayo, de Educación (LOE-LOMLOE)
+  descripcion: Desarrollo y concreción autonómica de las enseñanzas y currículos de
+    la etapa
+- origen: norm-cat-d171-2022
+  tipo: desarrolla
+  destino: norm-es-lo2-2006
+  titulo_destino: Ley Orgánica 2/2006, de 3 de mayo, de Educación (LOE-LOMLOE)
+  descripcion: Desarrollo y concreción autonómica de las enseñanzas y currículos de
+    la etapa
+- origen: norm-cat-d175-2022
+  tipo: desarrolla
+  destino: norm-es-lo2-2006
+  titulo_destino: Ley Orgánica 2/2006, de 3 de mayo, de Educación (LOE-LOMLOE)
+  descripcion: Desarrollo y concreción autonómica de las enseñanzas y currículos de
+    la etapa
+- origen: norm-cat-d21-2023
+  tipo: desarrolla
+  destino: norm-es-lo2-2006
+  titulo_destino: Ley Orgánica 2/2006, de 3 de mayo, de Educación (LOE-LOMLOE)
+  descripcion: Desarrollo y concreción autonómica de las enseñanzas y currículos de
+    la etapa
+- origen: norm-ext-d107-2022
+  tipo: desarrolla
+  destino: norm-es-lo2-2006
+  titulo_destino: Ley Orgánica 2/2006, de 3 de mayo, de Educación (LOE-LOMLOE)
+  descripcion: Desarrollo y concreción autonómica de las enseñanzas y currículos de
+    la etapa
+- origen: norm-ext-d109-2022
+  tipo: desarrolla
+  destino: norm-es-lo2-2006
+  titulo_destino: Ley Orgánica 2/2006, de 3 de mayo, de Educación (LOE-LOMLOE)
+  descripcion: Desarrollo y concreción autonómica de las enseñanzas y currículos de
+    la etapa
+- origen: norm-ext-d110-2022
+  tipo: desarrolla
+  destino: norm-es-lo2-2006
+  titulo_destino: Ley Orgánica 2/2006, de 3 de mayo, de Educación (LOE-LOMLOE)
+  descripcion: Desarrollo y concreción autonómica de las enseñanzas y currículos de
+    la etapa
+- origen: norm-ext-d98-2022
+  tipo: desarrolla
+  destino: norm-es-lo2-2006
+  titulo_destino: Ley Orgánica 2/2006, de 3 de mayo, de Educación (LOE-LOMLOE)
+  descripcion: Desarrollo y concreción autonómica de las enseñanzas y currículos de
+    la etapa
+- origen: norm-gal-d150-2022
+  tipo: desarrolla
+  destino: norm-es-lo2-2006
+  titulo_destino: Ley Orgánica 2/2006, de 3 de mayo, de Educación (LOE-LOMLOE)
+  descripcion: Desarrollo y concreción autonómica de las enseñanzas y currículos de
+    la etapa
+- origen: norm-gal-d155-2022
+  tipo: desarrolla
+  destino: norm-es-lo2-2006
+  titulo_destino: Ley Orgánica 2/2006, de 3 de mayo, de Educación (LOE-LOMLOE)
+  descripcion: Desarrollo y concreción autonómica de las enseñanzas y currículos de
+    la etapa
+- origen: norm-gal-d156-2022
+  tipo: desarrolla
+  destino: norm-es-lo2-2006
+  titulo_destino: Ley Orgánica 2/2006, de 3 de mayo, de Educación (LOE-LOMLOE)
+  descripcion: Desarrollo y concreción autonómica de las enseñanzas y currículos de
+    la etapa
+- origen: norm-gal-d157-2022
+  tipo: desarrolla
+  destino: norm-es-lo2-2006
+  titulo_destino: Ley Orgánica 2/2006, de 3 de mayo, de Educación (LOE-LOMLOE)
+  descripcion: Desarrollo y concreción autonómica de las enseñanzas y currículos de
+    la etapa
+- origen: norm-bal-d30-2022
+  tipo: desarrolla
+  destino: norm-es-lo2-2006
+  titulo_destino: Ley Orgánica 2/2006, de 3 de mayo, de Educación (LOE-LOMLOE)
+  descripcion: Desarrollo y concreción autonómica de las enseñanzas y currículos de
+    la etapa
+- origen: norm-bal-d31-2022
+  tipo: desarrolla
+  destino: norm-es-lo2-2006
+  titulo_destino: Ley Orgánica 2/2006, de 3 de mayo, de Educación (LOE-LOMLOE)
+  descripcion: Desarrollo y concreción autonómica de las enseñanzas y currículos de
+    la etapa
+- origen: norm-bal-d32-2022
+  tipo: desarrolla
+  destino: norm-es-lo2-2006
+  titulo_destino: Ley Orgánica 2/2006, de 3 de mayo, de Educación (LOE-LOMLOE)
+  descripcion: Desarrollo y concreción autonómica de las enseñanzas y currículos de
+    la etapa
+- origen: norm-bal-d33-2022
+  tipo: desarrolla
+  destino: norm-es-lo2-2006
+  titulo_destino: Ley Orgánica 2/2006, de 3 de mayo, de Educación (LOE-LOMLOE)
+  descripcion: Desarrollo y concreción autonómica de las enseñanzas y currículos de
+    la etapa
+- origen: norm-rio-d36-2022
+  tipo: desarrolla
+  destino: norm-es-lo2-2006
+  titulo_destino: Ley Orgánica 2/2006, de 3 de mayo, de Educación (LOE-LOMLOE)
+  descripcion: Desarrollo y concreción autonómica de las enseñanzas y currículos de
+    la etapa
+- origen: norm-rio-d41-2022
+  tipo: desarrolla
+  destino: norm-es-lo2-2006
+  titulo_destino: Ley Orgánica 2/2006, de 3 de mayo, de Educación (LOE-LOMLOE)
+  descripcion: Desarrollo y concreción autonómica de las enseñanzas y currículos de
+    la etapa
+- origen: norm-rio-d42-2022
+  tipo: desarrolla
+  destino: norm-es-lo2-2006
+  titulo_destino: Ley Orgánica 2/2006, de 3 de mayo, de Educación (LOE-LOMLOE)
+  descripcion: Desarrollo y concreción autonómica de las enseñanzas y currículos de
+    la etapa
+- origen: norm-rio-d43-2022
+  tipo: desarrolla
+  destino: norm-es-lo2-2006
+  titulo_destino: Ley Orgánica 2/2006, de 3 de mayo, de Educación (LOE-LOMLOE)
+  descripcion: Desarrollo y concreción autonómica de las enseñanzas y currículos de
+    la etapa
 - origen: norm-mad-d248-2023
   tipo: desarrolla
   destino: norm-es-l-39-2015
@@ -48527,6 +49760,96 @@ relaciones_grafo:
 - origen: norm-mad-d43-2022
   tipo: desarrolla
   destino: norm-es-rdl-5-2015
+- origen: norm-mur-d196-2022
+  tipo: desarrolla
+  destino: norm-es-lo2-2006
+  titulo_destino: Ley Orgánica 2/2006, de 3 de mayo, de Educación (LOE-LOMLOE)
+  descripcion: Desarrollo y concreción autonómica de las enseñanzas y currículos de
+    la etapa
+- origen: norm-mur-d209-2022
+  tipo: desarrolla
+  destino: norm-es-lo2-2006
+  titulo_destino: Ley Orgánica 2/2006, de 3 de mayo, de Educación (LOE-LOMLOE)
+  descripcion: Desarrollo y concreción autonómica de las enseñanzas y currículos de
+    la etapa
+- origen: norm-mur-d235-2022
+  tipo: desarrolla
+  destino: norm-es-lo2-2006
+  titulo_destino: Ley Orgánica 2/2006, de 3 de mayo, de Educación (LOE-LOMLOE)
+  descripcion: Desarrollo y concreción autonómica de las enseñanzas y currículos de
+    la etapa
+- origen: norm-mur-d251-2022
+  tipo: desarrolla
+  destino: norm-es-lo2-2006
+  titulo_destino: Ley Orgánica 2/2006, de 3 de mayo, de Educación (LOE-LOMLOE)
+  descripcion: Desarrollo y concreción autonómica de las enseñanzas y currículos de
+    la etapa
+- origen: norm-nav-df61-2022
+  tipo: desarrolla
+  destino: norm-es-lo2-2006
+  titulo_destino: Ley Orgánica 2/2006, de 3 de mayo, de Educación (LOE-LOMLOE)
+  descripcion: Desarrollo y concreción autonómica de las enseñanzas y currículos de
+    la etapa
+- origen: norm-nav-df67-2022
+  tipo: desarrolla
+  destino: norm-es-lo2-2006
+  titulo_destino: Ley Orgánica 2/2006, de 3 de mayo, de Educación (LOE-LOMLOE)
+  descripcion: Desarrollo y concreción autonómica de las enseñanzas y currículos de
+    la etapa
+- origen: norm-nav-df71-2022
+  tipo: desarrolla
+  destino: norm-es-lo2-2006
+  titulo_destino: Ley Orgánica 2/2006, de 3 de mayo, de Educación (LOE-LOMLOE)
+  descripcion: Desarrollo y concreción autonómica de las enseñanzas y currículos de
+    la etapa
+- origen: norm-nav-df72-2022
+  tipo: desarrolla
+  destino: norm-es-lo2-2006
+  titulo_destino: Ley Orgánica 2/2006, de 3 de mayo, de Educación (LOE-LOMLOE)
+  descripcion: Desarrollo y concreción autonómica de las enseñanzas y currículos de
+    la etapa
+- origen: norm-pva-d75-2023
+  tipo: desarrolla
+  destino: norm-es-lo2-2006
+  titulo_destino: Ley Orgánica 2/2006, de 3 de mayo, de Educación (LOE-LOMLOE)
+  descripcion: Desarrollo y concreción autonómica de las enseñanzas y currículos de
+    la etapa
+- origen: norm-pva-d76-2023
+  tipo: desarrolla
+  destino: norm-es-lo2-2006
+  titulo_destino: Ley Orgánica 2/2006, de 3 de mayo, de Educación (LOE-LOMLOE)
+  descripcion: Desarrollo y concreción autonómica de las enseñanzas y currículos de
+    la etapa
+- origen: norm-pva-d77-2023
+  tipo: desarrolla
+  destino: norm-es-lo2-2006
+  titulo_destino: Ley Orgánica 2/2006, de 3 de mayo, de Educación (LOE-LOMLOE)
+  descripcion: Desarrollo y concreción autonómica de las enseñanzas y currículos de
+    la etapa
+- origen: norm-val-d100-2022
+  tipo: desarrolla
+  destino: norm-es-lo2-2006
+  titulo_destino: Ley Orgánica 2/2006, de 3 de mayo, de Educación (LOE-LOMLOE)
+  descripcion: Desarrollo y concreción autonómica de las enseñanzas y currículos de
+    la etapa
+- origen: norm-val-d106-2022
+  tipo: desarrolla
+  destino: norm-es-lo2-2006
+  titulo_destino: Ley Orgánica 2/2006, de 3 de mayo, de Educación (LOE-LOMLOE)
+  descripcion: Desarrollo y concreción autonómica de las enseñanzas y currículos de
+    la etapa
+- origen: norm-val-d107-2022
+  tipo: desarrolla
+  destino: norm-es-lo2-2006
+  titulo_destino: Ley Orgánica 2/2006, de 3 de mayo, de Educación (LOE-LOMLOE)
+  descripcion: Desarrollo y concreción autonómica de las enseñanzas y currículos de
+    la etapa
+- origen: norm-val-d108-2022
+  tipo: desarrolla
+  destino: norm-es-lo2-2006
+  titulo_destino: Ley Orgánica 2/2006, de 3 de mayo, de Educación (LOE-LOMLOE)
+  descripcion: Desarrollo y concreción autonómica de las enseñanzas y currículos de
+    la etapa
 - origen: norm-es-ce-1978
   tipo: cita
   destino: norm-es-c-1978
