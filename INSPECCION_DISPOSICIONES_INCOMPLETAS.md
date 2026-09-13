@@ -1,8 +1,8 @@
 # 📋 Informe de Inspección e Índice de Disposiciones Incompletas
 
-**Fecha de Auditoría**: `2026-09-13 22:19:29`  
-**Total de Normas Auditadas**: `753`  
-**Normas Íntegras y Conformes**: `753`  
+**Fecha de Auditoría**: `2026-09-13 22:57:04`  
+**Total de Normas Auditadas**: `766`  
+**Normas Íntegras y Conformes**: `766`  
 **Normas Incompletas o Defectuosas**: `0`  
 
 ## 📊 Resumen por Comunidad Autónoma y Ámbito
@@ -14,18 +14,18 @@
 | **Andalucía** | 136 | 136 | 0 | **100.0%** |
 | **Estatal** | 146 | 146 | 0 | **100.0%** |
 | **Aragón** | 9 | 9 | 0 | **100.0%** |
-| **Asturias** | 8 | 8 | 0 | **100.0%** |
-| **Baleares** | 7 | 7 | 0 | **100.0%** |
+| **Asturias** | 9 | 9 | 0 | **100.0%** |
+| **Baleares** | 9 | 9 | 0 | **100.0%** |
 | **Cantabria** | 7 | 7 | 0 | **100.0%** |
 | **Castilla La Mancha** | 9 | 9 | 0 | **100.0%** |
 | **Castilla Y León** | 9 | 9 | 0 | **100.0%** |
-| **Cataluña** | 3 | 3 | 0 | **100.0%** |
+| **Cataluña** | 8 | 8 | 0 | **100.0%** |
 | **Extremadura** | 9 | 9 | 0 | **100.0%** |
 | **Galicia** | 9 | 9 | 0 | **100.0%** |
 | **La Rioja** | 9 | 9 | 0 | **100.0%** |
 | **Murcia** | 9 | 9 | 0 | **100.0%** |
 | **Navarra** | 9 | 9 | 0 | **100.0%** |
-| **País Vasco** | 3 | 3 | 0 | **100.0%** |
+| **País Vasco** | 8 | 8 | 0 | **100.0%** |
 | **Valencia** | 9 | 9 | 0 | **100.0%** |
 
 ---

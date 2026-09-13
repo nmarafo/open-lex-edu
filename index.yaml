@@ -1,5 +1,5 @@
 version: '1.0'
-total_normas: 753
+total_normas: 766
 normas:
   norm-and-d154-2022:
     id: norm-and-d154-2022
@@ -2878,6 +2878,25 @@ normas:
     - administración educativa
     - Asturias
     path: autonómica/asturias/01_marco_normativo_general_y_organico/D50_2025_estructura_organica_basica_consejeria_educacion.md
+  norm-ast-l9-1996:
+    id: norm-ast-l9-1996
+    codigo_sintetizado: L 9/1996
+    titulo: Ley 9/1996, de 27 de diciembre, reguladora del Consejo Escolar del Principado
+      de Asturias.
+    jurisdiccion: Asturias
+    ambito: Autonómico
+    tipo_disposicion: Ley
+    fecha_publicacion: '1997-01-08'
+    estado: Vigente
+    redaccion: consolidada
+    categoria_canonica: 02_gestion_y_administracion_centros
+    subcategoria: consejo_escolar
+    tags:
+    - consejo escolar
+    - participación educativa
+    - órganos colegiados
+    - asturias
+    path: autonómica/asturias/02_gestion_y_administracion_centros/L9_1996_consejo_escolar_principado_asturias.md
   norm-ast-d56-2022:
     id: norm-ast-d56-2022
     codigo_sintetizado: D56_2022
@@ -3014,6 +3033,25 @@ normas:
     - personal docente
     - Asturias
     path: autonómica/asturias/08_personal_docente/L3_2013_medidas_autoridad_profesorado.md
+  norm-bal-l1-2022:
+    id: norm-bal-l1-2022
+    codigo_sintetizado: L 1/2022
+    titulo: Ley 1/2022, de 8 de marzo, de educación de las Illes Balears.
+    jurisdiccion: Baleares
+    ambito: Autonómico
+    tipo_disposicion: Ley
+    fecha_publicacion: '2022-03-10'
+    estado: Vigente
+    redaccion: consolidada
+    categoria_canonica: 01_marco_normativo_general_y_organico
+    subcategoria: ley_educacion_autonomica
+    tags:
+    - educación
+    - ley marco
+    - illes balears
+    - sistema educativo balear
+    - leib
+    path: autonómica/baleares/01_marco_normativo_general_y_organico/L1_2022_educacion_illes_balears.md
   norm-bal-d4-2023:
     id: norm-bal-d4-2023
     codigo_sintetizado: D4/2023
@@ -3035,6 +3073,24 @@ normas:
     - gestión de centros
     - Baleares
     path: autonómica/baleares/02_gestion_y_administracion_centros/D4_2023_reglamento_organico_escuelas_infantiles_publicas_primer_ciclo.md
+  norm-bal-l9-1998:
+    id: norm-bal-l9-1998
+    codigo_sintetizado: L 9/1998
+    titulo: Ley 9/1998, de 14 de diciembre, de Consejos Escolares de las Illes Balears.
+    jurisdiccion: Baleares
+    ambito: Autonómico
+    tipo_disposicion: Ley
+    fecha_publicacion: '1998-12-22'
+    estado: Vigente
+    redaccion: consolidada
+    categoria_canonica: 02_gestion_y_administracion_centros
+    subcategoria: consejo_escolar
+    tags:
+    - consejo escolar
+    - participación educativa
+    - órganos colegiados
+    - illes balears
+    path: autonómica/baleares/02_gestion_y_administracion_centros/L9_1998_consejos_escolares_illes_balears.md
   norm-bal-d30-2022:
     id: norm-bal-d30-2022
     codigo_sintetizado: D30_2022
@@ -9130,6 +9186,64 @@ normas:
     - personal docente
     - castilla y leon
     path: autonómica/castilla_y_león/08_personal_docente/L3_2014_autoridad_profesorado.md
+  norm-cat-d59-2022:
+    id: norm-cat-d59-2022
+    codigo_sintetizado: D 59/2022
+    titulo: Decreto 59/2022, de 29 de marzo, de reestructuración del Departamento
+      de Educación.
+    jurisdiccion: Cataluña
+    ambito: Autonómico
+    tipo_disposicion: Decreto
+    fecha_publicacion: '2022-03-31'
+    estado: Vigente
+    redaccion: consolidada
+    categoria_canonica: 01_marco_normativo_general_y_organico
+    subcategoria: estructura_organica
+    tags:
+    - estructura orgánica
+    - departamento de educación
+    - cataluña
+    - administración educativa
+    path: autonómica/cataluña/01_marco_normativo_general_y_organico/D59_2022_reestructuracion_departamento_educacion.md
+  norm-cat-l12-2009:
+    id: norm-cat-l12-2009
+    codigo_sintetizado: L 12/2009
+    titulo: Ley 12/2009, de 10 de julio, de educación de Cataluña.
+    jurisdiccion: Cataluña
+    ambito: Autonómico
+    tipo_disposicion: Ley
+    fecha_publicacion: '2009-07-16'
+    estado: Vigente
+    redaccion: consolidada
+    categoria_canonica: 01_marco_normativo_general_y_organico
+    subcategoria: ley_educacion_autonomica
+    tags:
+    - educación
+    - ley marco
+    - cataluña
+    - sistema educativo
+    - organización escolar
+    - lec
+    path: autonómica/cataluña/01_marco_normativo_general_y_organico/L12_2009_educacion_cataluna.md
+  norm-cat-d102-2010:
+    id: norm-cat-d102-2010
+    codigo_sintetizado: D 102/2010
+    titulo: Decreto 102/2010, de 3 de agosto, de autonomía de los centros educativos.
+    jurisdiccion: Cataluña
+    ambito: Autonómico
+    tipo_disposicion: Decreto
+    fecha_publicacion: '2010-08-05'
+    estado: Vigente
+    redaccion: consolidada
+    categoria_canonica: 02_gestion_y_administracion_centros
+    subcategoria: autonomia_de_centros
+    tags:
+    - autonomía de centros
+    - proyecto educativo
+    - organización de centros
+    - cataluña
+    - dirección escolar
+    path: autonómica/cataluña/02_gestion_y_administracion_centros/D102_2010_autonomia_centros_educativos.md
   norm-cat-d171-2022:
     id: norm-cat-d171-2022
     codigo_sintetizado: D171_2022
@@ -9187,6 +9301,45 @@ normas:
     - LOMLOE
     - Educación Infantil
     path: autonómica/cataluña/03_ordenacion_curricular_y_ensenanzas/D21_2023_ordenacion_ensenanzas_educacion_infantil.md
+  norm-cat-d11-2021:
+    id: norm-cat-d11-2021
+    codigo_sintetizado: D 11/2021
+    titulo: Decreto 11/2021, de 16 de febrero, de la programación de la oferta educativa
+      y del procedimiento de admisión en los centros del Servicio de Educación de
+      Cataluña.
+    jurisdiccion: Cataluña
+    ambito: Autonómico
+    tipo_disposicion: Decreto
+    fecha_publicacion: '2021-02-18'
+    estado: Vigente
+    redaccion: consolidada
+    categoria_canonica: 05_alumnado_y_servicios_escolares
+    subcategoria: admision_alumnado
+    tags:
+    - admisión de alumnos
+    - escolarización
+    - oferta educativa
+    - servicio de educación de cataluña
+    path: autonómica/cataluña/05_alumnado_y_servicios_escolares/D11_2021_programacion_oferta_educativa_procedimiento_admision.md
+  norm-cat-d150-2017:
+    id: norm-cat-d150-2017
+    codigo_sintetizado: D 150/2017
+    titulo: Decreto 150/2017, de 17 de octubre, de la atención educativa al alumnado
+      en el marco de un sistema educativo inclusivo.
+    jurisdiccion: Cataluña
+    ambito: Autonómico
+    tipo_disposicion: Decreto
+    fecha_publicacion: '2017-10-19'
+    estado: Vigente
+    redaccion: consolidada
+    categoria_canonica: 06_atencion_diversidad_y_orientacion
+    subcategoria: educacion_inclusiva
+    tags:
+    - atención a la diversidad
+    - educación inclusiva
+    - alumnado con necesidades específicas
+    - orientación educativa
+    path: autonómica/cataluña/06_atencion_diversidad_y_orientacion/D150_2017_atencion_educativa_alumnado_sistema_inclusivo.md
   norm-ext-d-237-2023:
     id: norm-ext-d-237-2023
     codigo_sintetizado: D237_2023 Estructura Organica Consejeria Educacion
@@ -13070,6 +13223,62 @@ normas:
     - resolucion pacifica de conflictos
     - navarra
     path: autonómica/navarra/07_convivencia_bienestar_y_protocolos/DF47_2010_derechos_deberes_alumnado_convivencia_centros.md
+  norm-pva-d381-2024:
+    id: norm-pva-d381-2024
+    codigo_sintetizado: D 381/2024
+    titulo: Decreto 381/2024, de 19 de noviembre, por el que se establece la estructura
+      orgánica y funcional del Departamento de Educación.
+    jurisdiccion: País Vasco
+    ambito: Autonómico
+    tipo_disposicion: Decreto
+    fecha_publicacion: '2024-11-26'
+    estado: Vigente
+    redaccion: consolidada
+    categoria_canonica: 01_marco_normativo_general_y_organico
+    subcategoria: estructura_organica
+    tags:
+    - estructura orgánica
+    - departamento de educación
+    - país vasco
+    - administración educativa
+    path: autonómica/país_vasco/01_marco_normativo_general_y_organico/D381_2024_estructura_organica_funcional_departamento_educacion.md
+  norm-pva-l17-2023:
+    id: norm-pva-l17-2023
+    codigo_sintetizado: L 17/2023
+    titulo: Ley 17/2023, de 21 de diciembre, de Educación del País Vasco.
+    jurisdiccion: País Vasco
+    ambito: Autonómico
+    tipo_disposicion: Ley
+    fecha_publicacion: '2024-01-04'
+    estado: Vigente
+    redaccion: consolidada
+    categoria_canonica: 01_marco_normativo_general_y_organico
+    subcategoria: ley_educacion_autonomica
+    tags:
+    - educación
+    - ley marco
+    - país vasco
+    - sistema educativo vasco
+    - euskadi
+    path: autonómica/país_vasco/01_marco_normativo_general_y_organico/L17_2023_educacion_pais_vasco.md
+  norm-pva-l13-1988:
+    id: norm-pva-l13-1988
+    codigo_sintetizado: L 13/1988
+    titulo: Ley 13/1988, de 28 de octubre, de Consejos Escolares de Euskadi.
+    jurisdiccion: País Vasco
+    ambito: Autonómico
+    tipo_disposicion: Ley
+    fecha_publicacion: '1988-11-17'
+    estado: Vigente
+    redaccion: consolidada
+    categoria_canonica: 02_gestion_y_administracion_centros
+    subcategoria: consejo_escolar
+    tags:
+    - consejo escolar
+    - participación educativa
+    - órganos colegiados
+    - país vasco
+    path: autonómica/país_vasco/02_gestion_y_administracion_centros/L13_1988_consejos_escolares_euskadi.md
   norm-pva-d75-2023:
     id: norm-pva-d75-2023
     codigo_sintetizado: D75/2023
@@ -13126,6 +13335,46 @@ normas:
     - LOMLOE
     - Educación Básica
     path: autonómica/país_vasco/03_ordenacion_curricular_y_ensenanzas/D77_2023_establecimiento_curriculo_educacion_basica.md
+  norm-pva-d1-2018:
+    id: norm-pva-d1-2018
+    codigo_sintetizado: D 1/2018
+    titulo: Decreto 1/2018, de 9 de enero, sobre la admisión y escolarización del
+      alumnado en centros docentes públicos y concertados de la Comunidad Autónoma
+      del País Vasco.
+    jurisdiccion: País Vasco
+    ambito: Autonómico
+    tipo_disposicion: Decreto
+    fecha_publicacion: '2018-01-12'
+    estado: Vigente
+    redaccion: consolidada
+    categoria_canonica: 05_alumnado_y_servicios_escolares
+    subcategoria: admision_alumnado
+    tags:
+    - admisión de alumnos
+    - escolarización
+    - centros públicos y concertados
+    - país vasco
+    path: autonómica/país_vasco/05_alumnado_y_servicios_escolares/D1_2018_admision_escolarizacion_alumnado_centros_docentes.md
+  norm-pva-d201-2008:
+    id: norm-pva-d201-2008
+    codigo_sintetizado: D 201/2008
+    titulo: Decreto 201/2008, de 2 de diciembre, sobre derechos y deberes de los alumnos
+      y alumnas en los centros docentes no universitarios de la Comunidad Autónoma
+      del País Vasco.
+    jurisdiccion: País Vasco
+    ambito: Autonómico
+    tipo_disposicion: Decreto
+    fecha_publicacion: '2008-12-16'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 07_convivencia_bienestar_y_protocolos
+    subcategoria: convivencia_escolar
+    tags:
+    - derechos y deberes
+    - convivencia escolar
+    - disciplina escolar
+    - país vasco
+    path: autonómica/país_vasco/07_convivencia_bienestar_y_protocolos/D201_2008_derechos_deberes_alumnado_convivencia_centros.md
   norm-val-l-1-2024:
     id: norm-val-l-1-2024
     codigo_sintetizado: L1_2024 Libertad Educativa

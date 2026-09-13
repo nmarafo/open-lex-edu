@@ -32,8 +32,8 @@ Base de conocimiento estructurada basada en la especificación **Open Knowledge 
 | **Canarias** | BOC (Boletín Oficial de Canarias) / Portal de Educación | **2026-09-13** | 223 normas | Marco canónico canario completo, Decretos curriculares D 30/2023, D 34/2023, D 36/2023, D 37/2023, ROC D 81/2010, instrucciones de inicio de curso 2026-2027 y protocolos (100.0% íntegra, 0 incidencias) |
 | **Madrid** | BOCM / Portal de Educación de la Comunidad de Madrid | **2026-09-13** | 139 normas | Marco autonómico madrileño, Decretos curriculares D 36/2022, D 61/2022, D 64/2022, D 65/2022, D 59/2024 bilingüe, órdenes de evaluación, instrucciones 2026-2027 y protocolos (100.0% íntegra, 0 incidencias) |
 | **Andalucía** | BOJA (Boletín Oficial de la Junta de Andalucía) / Portal de la Consejería | **2026-09-13** | 136 normas | Marco autonómico andaluz, Decretos curriculares D 100/2023, D 101/2023, D 102/2023, D 103/2023, ROCs, instrucciones 2026-2027 y protocolos (100.0% íntegra, 0 incidencias) |
-| **Resto de CCAA (14 CCAA)** | Diarios Oficiales Autonómicos (BOA, BOPA, BOIB, BOC, DOCM, BOCYL, DOGC, DOE, DOG, BOR, BORM, BON, BOPV, DOGV) | **2026-09-13** | 109 normas | Decretos y Órdenes curriculares LOMLOE completos de todas las etapas para las 14 CCAA, junto con el Lote 1 (Aragón, Cantabria, Asturias, Baleares), Lote 2 (Castilla-La Mancha, Castilla y León, Extremadura, Galicia) y Lote 3 (Comunitat Valenciana, Región de Murcia, Comunidad Foral de Navarra, La Rioja) de Decretos y Leyes autonómicos sustantivos (100.0% íntegra, 0 incidencias) |
-| **TOTAL OPEN-LEX-EDU** | **Consolidación Diarios Oficiales del Estado y CCAA** | **2026-09-13** | **753 normas** | **Cobertura 100% íntegra nacional de enseñanzas mínimas, currículos autonómicos LOMLOE y decretos/leyes autonómicos sustantivos (Lotes 1, 2 y 3)** |
+| **Resto de CCAA (14 CCAA)** | Diarios Oficiales Autonómicos (BOA, BOPA, BOIB, BOC, DOCM, BOCYL, DOGC, DOE, DOG, BOR, BORM, BON, BOPV, DOGV) | **2026-09-13** | 122 normas | Decretos y Órdenes curriculares LOMLOE completos de todas las etapas para las 14 CCAA, junto con el Lote 1 (Aragón, Cantabria, Asturias, Baleares), Lote 2 (Castilla-La Mancha, Castilla y León, Extremadura, Galicia), Lote 3 (Comunitat Valenciana, Región de Murcia, Comunidad Foral de Navarra, La Rioja) y Lote 4 (Cataluña, País Vasco, Asturias y Baleares) de Decretos y Leyes autonómicos sustantivos (100.0% íntegra, 0 incidencias) |
+| **TOTAL OPEN-LEX-EDU** | **Consolidación Diarios Oficiales del Estado y CCAA** | **2026-09-13** | **766 normas** | **Cobertura 100% íntegra nacional de enseñanzas mínimas, currículos autonómicos LOMLOE y decretos/leyes autonómicos sustantivos (Lotes 1, 2, 3 y 4)** |
 
 ---
 
@@ -212,6 +212,31 @@ Incorporación y transcripción íntegra de la normativa educativa sustantiva y 
   * `07_convivencia_bienestar_y_protocolos`: [Decreto 4/2009](file:///c:/Users/norbe/Documents/Normativa Actualizada 2026/open-lex-edu/autonómica/la_rioja/07_convivencia_bienestar_y_protocolos/D4_2009_convivencia_escolar_derechos_deberes_comunidad_educativa.md) (Convivencia escolar y derechos y deberes de la comunidad educativa).
   * `08_personal_docente`: [Ley 2/2011](file:///c:/Users/norbe/Documents/Normativa Actualizada 2026/open-lex-edu/autonómica/la_rioja/08_personal_docente/L2_2011_autoridad_profesor_convivencia_centros_docentes.md) (Autoridad del profesor y convivencia en centros docentes).
 
+## 🏛️ Decretos y Leyes Autonómicos Educativos Sustantivos (Lote 4)
+
+Incorporación y transcripción íntegra de la normativa educativa sustantiva y reglamentos estructurales del cuarto bloque de Comunidades Autónomas, completando la cobertura nacional simétrica (17 Comunidades Autónomas con su bloque troncal de mínimo 5 leyes/decretos estructurales):
+
+* **Cataluña (DOGC / BOE)**:
+  * `01_marco_normativo_general_y_organico`: [Ley 12/2009](file:///c:/Users/norbe/Documents/Normativa Actualizada 2026/open-lex-edu/autonómica/cataluña/01_marco_normativo_general_y_organico/L12_2009_educacion_cataluna.md) (Ley de Educación de Cataluña - LEC).
+  * `01_marco_normativo_general_y_organico`: [Decreto 59/2022](file:///c:/Users/norbe/Documents/Normativa Actualizada 2026/open-lex-edu/autonómica/cataluña/01_marco_normativo_general_y_organico/D59_2022_reestructuracion_departamento_educacion.md) (Reestructuración del Departamento de Educación).
+  * `02_gestion_y_administracion_centros`: [Decreto 102/2010](file:///c:/Users/norbe/Documents/Normativa Actualizada 2026/open-lex-edu/autonómica/cataluña/02_gestion_y_administracion_centros/D102_2010_autonomia_centros_educativos.md) (Autonomía de los centros educativos).
+  * `05_alumnado_y_servicios_escolares`: [Decreto 11/2021](file:///c:/Users/norbe/Documents/Normativa Actualizada 2026/open-lex-edu/autonómica/cataluña/05_alumnado_y_servicios_escolares/D11_2021_programacion_oferta_educativa_procedimiento_admision.md) (Programación de la oferta educativa y del procedimiento de admisión).
+  * `06_atencion_diversidad_y_orientacion`: [Decreto 150/2017](file:///c:/Users/norbe/Documents/Normativa Actualizada 2026/open-lex-edu/autonómica/cataluña/06_atencion_diversidad_y_orientacion/D150_2017_atencion_educativa_alumnado_sistema_inclusivo.md) (Atención educativa al alumnado en el marco de un sistema inclusivo).
+
+* **País Vasco (BOPV / BOE)**:
+  * `01_marco_normativo_general_y_organico`: [Ley 17/2023](file:///c:/Users/norbe/Documents/Normativa Actualizada 2026/open-lex-edu/autonómica/país_vasco/01_marco_normativo_general_y_organico/L17_2023_educacion_pais_vasco.md) (Ley de Educación del País Vasco).
+  * `01_marco_normativo_general_y_organico`: [Decreto 381/2024](file:///c:/Users/norbe/Documents/Normativa Actualizada 2026/open-lex-edu/autonómica/país_vasco/01_marco_normativo_general_y_organico/D381_2024_estructura_organica_funcional_departamento_educacion.md) (Estructura orgánica y funcional del Departamento de Educación).
+  * `02_gestion_y_administracion_centros`: [Ley 13/1988](file:///c:/Users/norbe/Documents/Normativa Actualizada 2026/open-lex-edu/autonómica/país_vasco/02_gestion_y_administracion_centros/L13_1988_consejos_escolares_euskadi.md) (Consejos Escolares de Euskadi).
+  * `05_alumnado_y_servicios_escolares`: [Decreto 1/2018](file:///c:/Users/norbe/Documents/Normativa Actualizada 2026/open-lex-edu/autonómica/país_vasco/05_alumnado_y_servicios_escolares/D1_2018_admision_escolarizacion_alumnado_centros_docentes.md) (Admisión y escolarización del alumnado en centros docentes públicos y concertados).
+  * `07_convivencia_bienestar_y_protocolos`: [Decreto 201/2008](file:///c:/Users/norbe/Documents/Normativa Actualizada 2026/open-lex-edu/autonómica/país_vasco/07_convivencia_bienestar_y_protocolos/D201_2008_derechos_deberes_alumnado_convivencia_centros.md) (Derechos y deberes de los alumnos y alumnas y normas de convivencia en centros docentes no universitarios).
+
+* **Principado de Asturias (BOPA / BOE - Complemento Troncal)**:
+  * `02_gestion_y_administracion_centros`: [Ley 9/1996](file:///c:/Users/norbe/Documents/Normativa Actualizada 2026/open-lex-edu/autonómica/asturias/02_gestion_y_administracion_centros/L9_1996_consejo_escolar_principado_asturias.md) (Consejo Escolar del Principado de Asturias).
+
+* **Illes Balears (BOIB / BOE - Complemento Troncal)**:
+  * `01_marco_normativo_general_y_organico`: [Ley 1/2022](file:///c:/Users/norbe/Documents/Normativa Actualizada 2026/open-lex-edu/autonómica/baleares/01_marco_normativo_general_y_organico/L1_2022_educacion_illes_balears.md) (Ley de Educación de las Illes Balears - LEIB).
+  * `02_gestion_y_administracion_centros`: [Ley 9/1998](file:///c:/Users/norbe/Documents/Normativa Actualizada 2026/open-lex-edu/autonómica/baleares/02_gestion_y_administracion_centros/L9_1998_consejos_escolares_illes_balears.md) (Consejos Escolares de las Illes Balears).
+
 ---
 
 Cada archivo `.md` contiene un bloque de encabezado YAML estructurado:
@@ -328,6 +353,12 @@ Toda tu fundamentación debe anclarse en la taxonomía y metadatos de open-lex-e
 5. PREVALENCIA DE LAS INSTRUCCIONES Y CIRCULARES DE INICIO DE CURSO:
    - Para aspectos organizativos operativos (coordinador de bienestar LOPIVI, equipos de orientación, criterios de sustitución docente, calendarios y pruebas extraordinarias), recurre a las Resoluciones e Instrucciones de la Consejería del curso escolar en vigor.
 
+6. CONDICIONAMIENTO OBLIGATORIO DE RESPUESTAS AUTONÓMICAS Y VERIFICACIÓN PROCEDIMENTAL:
+   - Si el usuario especifica una Comunidad Autónoma (ej. Canarias, Madrid, Andalucía, etc.), queda TERMINANTEMENTE PROHIBIDO emitir una conclusión afirmativa o negativa en la «Sinopsis Ejecutiva» amparándose exclusivamente en principios o directrices estatales básicas generales.
+   - Es preceptivo contrastar el procedimiento administrativo, el calendario y los requisitos de expedición documental en las Instrucciones/Resoluciones de la Consejería o Departamento autonómico correspondiente.
+   - Si en el contexto disponible o corpus cargado no se dispone del texto articulado de la resolución autonómica de evaluación o gestión procedimental, el agente DEBE advertirlo expresamente en la Sinopsis («La doctrina estatal básica lo ampara de forma genérica, pero el procedimiento de expedición de [CC.AA.] supedita su entrega a [condición o momento temporal] según la normativa autonómica que debe verificarse en el diario oficial autonómico»).
+   - En Formación Profesional y Régimen Especial, discrimina siempre el régimen según el nivel de la oferta (Grado Básico vs. Grado Medio / Superior / Cursos de Especialización) y el plan de estudios (LO 3/2022 vs. LOE a extinguir).
+
 ---
 
 # PROTOCOLO DE RESPUESTA OBLIGATORIO
@@ -335,12 +366,12 @@ Toda tu fundamentación debe anclarse en la taxonomía y metadatos de open-lex-e
 Estructura cada dictamen o respuesta técnica según el siguiente esquema formal:
 
 ### 1. 📌 SINOPSIS EJECUTIVA
-- Conclusión jurídica o directiva directa en 2-3 líneas respondiendo a la pregunta sin rodeos.
+- Conclusión jurídica o directiva directa en 2-3 líneas respondiendo a la pregunta sin rodeos. En consultas autonómicas, la conclusión debe incorporar explícitamente los condicionantes temporales o procedimentales fijados por la normativa de la Comunidad Autónoma (evitando respuestas afirmativas genéricas basadas únicamente en normas estatales).
 
 ### 2. ⚖️ FUNDAMENTACIÓN JURÍDICA Y MARCO NORMATIVO APLICABLE
 - Marco Estatal Básico: Citas con rango normativo (CE, LOE-LOMLOE, Reales Decretos).
-- Marco Autonómico de Desarrollo: Normativa de la Comunidad Autónoma consultada (Decretos curriculares, ROC, Órdenes, Protocolos vigentes).
-- Instrucciones / Resoluciones Departamentales: Circulares del curso escolar actual aplicables.
+- Marco Autonómico de Desarrollo: Normativa de la Comunidad Autónoma consultada (Decretos curriculares, ROC, Órdenes, Protocolos vigentes). Obligatorio identificar la disposición autonómica específica si el ámbito de consulta no es exclusivamente estatal.
+- Instrucciones / Resoluciones Departamentales: Circulares del curso escolar actual aplicables y resoluciones de evaluación de la Dirección General competente.
 
 ### 3. 🔍 ANÁLISIS JURÍDICO-TÉCNICO Y ARTICULADO CLAVE
 - Desglose razonado con citas textuales o literales de los artículos determinantes.
