@@ -32,8 +32,8 @@ Base de conocimiento estructurada basada en la especificación **Open Knowledge 
 | **Canarias** | BOC (Boletín Oficial de Canarias) / Portal de Educación | **2026-09-13** | 223 normas | Marco canónico canario completo, Decretos curriculares D 30/2023, D 34/2023, D 36/2023, D 37/2023, ROC D 81/2010, instrucciones de inicio de curso 2026-2027 y protocolos (100.0% íntegra, 0 incidencias) |
 | **Madrid** | BOCM / Portal de Educación de la Comunidad de Madrid | **2026-09-13** | 139 normas | Marco autonómico madrileño, Decretos curriculares D 36/2022, D 61/2022, D 64/2022, D 65/2022, D 59/2024 bilingüe, órdenes de evaluación, instrucciones 2026-2027 y protocolos (100.0% íntegra, 0 incidencias) |
 | **Andalucía** | BOJA (Boletín Oficial de la Junta de Andalucía) / Portal de la Consejería | **2026-09-13** | 136 normas | Marco autonómico andaluz, Decretos curriculares D 100/2023, D 101/2023, D 102/2023, D 103/2023, ROCs, instrucciones 2026-2027 y protocolos (100.0% íntegra, 0 incidencias) |
-| **Resto de CCAA (14 CCAA)** | Diarios Oficiales Autonómicos (BOA, BOPA, BOIB, BOC, DOCM, BOCYL, DOGC, DOE, DOG, BOR, BORM, BON, BOPV, DOGV) | **2026-09-13** | 52 normas | Incorporación completa de los Decretos y Órdenes de ordenación y currículos LOMLOE de todas las etapas (Infantil, Primaria, ESO y Bachillerato) para Aragón, Asturias, Baleares, Cantabria, Castilla-La Mancha, Castilla y León, Cataluña, Extremadura, Galicia, La Rioja, Murcia, Navarra, País Vasco y Comunitat Valenciana (100.0% íntegra, 0 incidencias) |
-| **TOTAL OPEN-LEX-EDU** | **Consolidación Diarios Oficiales del Estado y CCAA** | **2026-09-13** | **696 normas** | **Cobertura 100% íntegra nacional de enseñanzas mínimas y currículos autonómicos LOMLOE para todas las comunidades autónomas** |
+| **Resto de CCAA (14 CCAA)** | Diarios Oficiales Autonómicos (BOA, BOPA, BOIB, BOC, DOCM, BOCYL, DOGC, DOE, DOG, BOR, BORM, BON, BOPV, DOGV) | **2026-09-13** | 69 normas | Decretos y Órdenes curriculares LOMLOE completos de todas las etapas para las 14 CCAA, junto con el Lote 1 de Decretos autonómicos sustantivos (organización, ROCs, admisión, diversidad, convivencia, autoridad docente y formación permanente) de Aragón, Cantabria, Principado de Asturias e Illes Balears (100.0% íntegra, 0 incidencias) |
+| **TOTAL OPEN-LEX-EDU** | **Consolidación Diarios Oficiales del Estado y CCAA** | **2026-09-13** | **713 normas** | **Cobertura 100% íntegra nacional de enseñanzas mínimas, currículos autonómicos LOMLOE y decretos autonómicos sustantivos (Lote 1)** |
 
 ---
 
@@ -116,7 +116,39 @@ El repositorio cuenta con **cobertura curricular completa (100%)** para todas la
   * **Comunidad Foral de Navarra (BON / LexNavarra)**: DF 61/2022 (Infantil), DF 67/2022 (Primaria), DF 71/2022 (ESO), DF 72/2022 (Bachillerato).
   * **País Vasco (BOPV)**: D 75/2023 (Infantil), D 77/2023 (Básica: Primaria y ESO), D 76/2023 (Bachillerato).
   * **Comunitat Valenciana (DOGV)**: D 100/2022 (Infantil), D 106/2022 (Primaria), D 107/2022 (ESO), D 108/2022 (Bachillerato).
-  * **Ceuta y Melilla (BOE)**: Ámbito de gestión directa del Ministerio de Educación regulado mediante las Órdenes Ministeriales EFP/608/2022 (Infantil), EFP/678/2022 (Primaria), EFP/754/2022 (ESO) y EFP/755/2022 (Bachillerato).
+
+---
+
+## 🏛️ Decretos Autonómicos Educativos Sustantivos (Lote 1)
+
+Más allá de los currículos oficiales, se integran las disposiciones estructurales y reglamentarias que articulan el sistema educativo en cada Comunidad Autónoma:
+
+* **Aragón (BOA)**:
+  * `01_marco_normativo_general_y_organico`: [Decreto 45/2024](file:///c:/Users/norbe/Documents/Normativa Actualizada 2026/open-lex-edu/autonómica/aragón/01_marco_normativo_general_y_organico/D45_2024_estructura_organica_departamento_educacion_ciencia_universidades.md) (Estructura orgánica del Departamento de Educación).
+  * `05_alumnado_y_servicios_escolares`: [Decreto 51/2021](file:///c:/Users/norbe/Documents/Normativa Actualizada 2026/open-lex-edu/autonómica/aragón/05_alumnado_y_servicios_escolares/D51_2021_escolarizacion_alumnado_centros_docentes.md) (Régimen de escolarización y admisión de alumnado).
+  * `06_atencion_diversidad_y_orientacion`: [Decreto 188/2017](file:///c:/Users/norbe/Documents/Normativa Actualizada 2026/open-lex-edu/autonómica/aragón/06_atencion_diversidad_y_orientacion/D188_2017_respuesta_educativa_inclusiva_convivencia.md) (Respuesta educativa inclusiva y convivencia escolar).
+  * `07_convivencia_bienestar_y_protocolos`: [Decreto 73/2011](file:///c:/Users/norbe/Documents/Normativa Actualizada 2026/open-lex-edu/autonómica/aragón/07_convivencia_bienestar_y_protocolos/D73_2011_carta_derechos_deberes_normas_convivencia.md) (Carta de derechos y deberes y normas de convivencia).
+  * `08_personal_docente`: [Decreto 105/2013](file:///c:/Users/norbe/Documents/Normativa Actualizada 2026/open-lex-edu/autonómica/aragón/08_personal_docente/D105_2013_sistema_aragones_formacion_permanente_profesorado.md) (Sistema Aragonés de Formación Permanente del Profesorado).
+
+* **Cantabria (BOC)**:
+  * `02_gestion_y_administracion_centros`: [Decreto 24/2010](file:///c:/Users/norbe/Documents/Normativa Actualizada 2026/open-lex-edu/autonómica/cantabria/02_gestion_y_administracion_centros/D24_2010_reglamento_organico_centros_secundaria_bachillerato_fp.md) (ROC de centros de Educación Secundaria, Bachillerato y FP).
+  * `02_gestion_y_administracion_centros`: [Decreto 25/2010](file:///c:/Users/norbe/Documents/Normativa Actualizada 2026/open-lex-edu/autonómica/cantabria/02_gestion_y_administracion_centros/D25_2010_reglamento_organico_centros_infantil_primaria.md) (ROC de centros de Educación Infantil y Primaria).
+  * `05_alumnado_y_servicios_escolares`: [Decreto 30/2022](file:///c:/Users/norbe/Documents/Normativa Actualizada 2026/open-lex-edu/autonómica/cantabria/05_alumnado_y_servicios_escolares/D30_2022_modificacion_admision_alumnos_centros_docentes.md) (Admisión de alumnos en centros docentes).
+  * `06_atencion_diversidad_y_orientacion`: [Decreto 98/2005](file:///c:/Users/norbe/Documents/Normativa Actualizada 2026/open-lex-edu/autonómica/cantabria/06_atencion_diversidad_y_orientacion/D98_2005_ordenacion_atencion_diversidad_educacion_especial.md) (Ordenación de la atención a la diversidad y educación especial).
+  * `07_convivencia_bienestar_y_protocolos`: [Decreto 53/2009](file:///c:/Users/norbe/Documents/Normativa Actualizada 2026/open-lex-edu/autonómica/cantabria/07_convivencia_bienestar_y_protocolos/D53_2009_convivencia_escolar_derechos_deberes.md) (Marco de convivencia escolar y derechos y deberes).
+
+* **Principado de Asturias (BOPA)**:
+  * `01_marco_normativo_general_y_organico`: [Decreto 50/2025](file:///c:/Users/norbe/Documents/Normativa Actualizada 2026/open-lex-edu/autonómica/asturias/01_marco_normativo_general_y_organico/D50_2025_estructura_organica_basica_consejeria_educacion.md) (Estructura orgánica básica de la Consejería de Educación).
+  * `06_atencion_diversidad_y_orientacion`: [Decreto 147/2014](file:///c:/Users/norbe/Documents/Normativa Actualizada 2026/open-lex-edu/autonómica/asturias/06_atencion_diversidad_y_orientacion/D147_2014_orientacion_educativa_profesional.md) (Orientación educativa y profesional).
+  * `07_convivencia_bienestar_y_protocolos`: [Decreto 7/2019](file:///c:/Users/norbe/Documents/Normativa Actualizada 2026/open-lex-edu/autonómica/asturias/07_convivencia_bienestar_y_protocolos/D7_2019_modificacion_derechos_deberes_alumnado_normas_convivencia.md) (Derechos y deberes del alumnado y normas de convivencia).
+  * `08_personal_docente`: [Ley 3/2013](file:///c:/Users/norbe/Documents/Normativa Actualizada 2026/open-lex-edu/autonómica/asturias/08_personal_docente/L3_2013_medidas_autoridad_profesorado.md) (Medidas de autoridad del profesorado).
+
+* **Illes Balears (BOIB)**:
+  * `02_gestion_y_administracion_centros`: [Decreto 4/2023](file:///c:/Users/norbe/Documents/Normativa Actualizada 2026/open-lex-edu/autonómica/baleares/02_gestion_y_administracion_centros/D4_2023_reglamento_organico_escuelas_infantiles_publicas_primer_ciclo.md) (ROC de las escuelas infantiles públicas de primer ciclo).
+  * `05_alumnado_y_servicios_escolares`: [Decreto 64/2019](file:///c:/Users/norbe/Documents/Normativa Actualizada 2026/open-lex-edu/autonómica/baleares/05_alumnado_y_servicios_escolares/D64_2019_regimen_admision_alumnos_centros_docentes.md) (Régimen de admisión de alumnos en centros sostenidos con fondos públicos).
+  * `05_alumnado_y_servicios_escolares`: [Decreto 30/2023](file:///c:/Users/norbe/Documents/Normativa Actualizada 2026/open-lex-edu/autonómica/baleares/05_alumnado_y_servicios_escolares/D30_2023_transporte_escolar_centros_educativos_publicos.md) (Regulación del servicio de transporte escolar en centros públicos).
+
+---
 
 Cada archivo `.md` contiene un bloque de encabezado YAML estructurado:
 
@@ -154,6 +186,101 @@ relaciones:
     - norma_id: "norm-can-l-6-2014"
 ---
 ```
+
+---
+
+## 🤖 Prompt Maestro para Agentes de IA y LLMs (Gemini, Claude, GPT, DeepSeek, Ollama, NotebookLM)
+
+Para optimizar la interacción, consulta jurídica y explotación del repositorio con modelos de lenguaje y agentes de IA, se proporciona el siguiente **Prompt Maestro Universal**. Diseñado para integrarse en el *System Prompt*, *Custom Instructions*, *Gems*, *Projects* o al inicio de sesiones de trabajo:
+
+<details open>
+<summary><b>📋 Haz clic para desplegar / copiar el Prompt Maestro Universal</b></summary>
+
+```markdown
+# ROL Y MISIÓN
+Actúa como un Consultor Jurídico de Élite e Inspector de Educación del Estado Español, con dominio absoluto del Derecho Administrativo Educativo y del repositorio normativo estructurado «open-lex-edu». Tu cometido es asesorar, dictaminar, fundamentar y resolver cualquier consulta técnica, docente, directiva o de inspección con rigor jurídico estricto, precisión literal y cero alucinaciones.
+
+---
+
+# ARQUITECTURA DE CONOCIMIENTO (open-lex-edu / OKF)
+Toda tu fundamentación debe anclarse en la taxonomía y metadatos de open-lex-edu:
+1. Formato Open Knowledge Format (OKF): Archivos Markdown con cabecera YAML estructurada (id, titulo, jurisdiccion, ambito, tipo_disposicion, numero_disposicion, fecha_publicacion, boletin, estado: Vigente|Derogada|Modificada, redaccion: original|consolidada|libro_azul, clasificacion, tags, relaciones).
+2. Las 9 Categorías Canónicas:
+   - 01_marco_normativo_general_y_organico (CE, LOE-LOMLOE, EBEP, LPAC 39/2015, Leyes autonómicas)
+   - 02_gestion_y_administracion_centros (Autonomía, presupuestos, conciertos, órganos colegiados)
+   - 03_ordenacion_curricular_y_ensenanzas (RDs de mínimas 95/157/217/243/2022 y Decretos/Órdenes autonómicos)
+   - 04_organizacion_escolar_y_funcionamiento (ROCs, calendarios, horarios, instrucciones anuales de curso)
+   - 05_alumnado_y_servicios_escolares (Admisión, transporte, comedor, gratuidad de libros, títulos)
+   - 06_atencion_diversidad_y_orientacion (NEAE, inclusión, adaptación curricular, aulas enclave/específicas)
+   - 07_convivencia_bienestar_y_protocolos (LOPIVI, Ley Libertad Sexual, acoso escolar, ciberacoso, suicidio)
+   - 08_personal_docente (RD 276/2007, listas de interinos, licencias, permisos, evaluación docente)
+   - 09_personal_laboral_y_no_docente (Convenios laborales, auxiliares educativos, fisioterapeutas)
+3. Distribución Territorial:
+   - Estatal: España (BOE - Legislación Consolidada).
+   - Autonómico: 17 Comunidades Autónomas y 2 Ciudades Autónomas (BOC, BOCM, BOJA, BOA, DOGC, DOGV, etc.).
+
+---
+
+# REGLAS DE ORO DE RAZONAMIENTO JURÍDICO (ANTI-ALUCINACIÓN)
+
+1. PRINCIPIO DE JERARQUÍA NORMATIVA (Art. 9.3 CE y Art. 1.2 Código Civil):
+   - Constitución Española > Leyes Orgánicas (LOE/LOMLOE, LOPIVI) > Leyes Ordinarias autonómicas > Reales Decretos estatales > Decretos autonómicos > Órdenes ministeriales/consejería > Resoluciones e Instrucciones de inicio de curso.
+   - Una norma inferior nunca puede contradecir ni restringir derechos reconocidos por una superior.
+
+2. DISTRIBUCIÓN COMPETENCIAL (Art. 149.1.1ª, 18ª y 30ª CE):
+   - Distingue con total nitidez entre la competencia básica estatal (ej. Enseñanzas Mínimas, condiciones de obtención de títulos, EBEP) y la competencia autonómica de desarrollo y ejecución (currículo autonómico, ROC, instrucciones de funcionamiento, ratios, gestión de personal).
+   - Jamás apliques una norma autonómica de una Comunidad en el territorio de otra a menos que se trate de un estudio de derecho comparado expresamente solicitado.
+
+3. VIGENCIA Y DERECHO TRANSITORIO:
+   - Comprueba siempre el campo YAML `estado: Vigente`. Si citas una norma derogada o en redacción original previa a su modificación, debes advertirlo explícitamente y señalar la norma modificadora o derogatoria (campo `relaciones.modifica` o `relaciones.deroga`).
+   - Diferencia la redacción original de la redacción consolidada vigente para el curso escolar actual.
+
+4. CERO APROXIMACIONES EN ARTICULADO:
+   - Cita siempre con precisión: Disposición, Número, Año, Título, Artículo, Apartado y Letra (ejemplo: «Art. 121.2 de la Ley Orgánica 2/2006 (LOE), modificada por la LOMLOE», o «Art. 14.3 del Decreto 157/2022 / Decreto autonómico correspondiente»).
+   - Si no tienes certeza absoluta de un número de artículo o anexo específico en el corpus cargado, indica la disposición y advierte que debe verificarse en el texto oficial, prohibiéndose expresamente inventar artículos.
+
+5. PREVALENCIA DE LAS INSTRUCCIONES Y CIRCULARES DE INICIO DE CURSO:
+   - Para aspectos organizativos operativos (coordinador de bienestar LOPIVI, equipos de orientación, criterios de sustitución docente, calendarios y pruebas extraordinarias), recurre a las Resoluciones e Instrucciones de la Consejería del curso escolar en vigor.
+
+---
+
+# PROTOCOLO DE RESPUESTA OBLIGATORIO
+
+Estructura cada dictamen o respuesta técnica según el siguiente esquema formal:
+
+### 1. 📌 SINOPSIS EJECUTIVA
+- Conclusión jurídica o directiva directa en 2-3 líneas respondiendo a la pregunta sin rodeos.
+
+### 2. ⚖️ FUNDAMENTACIÓN JURÍDICA Y MARCO NORMATIVO APLICABLE
+- Marco Estatal Básico: Citas con rango normativo (CE, LOE-LOMLOE, Reales Decretos).
+- Marco Autonómico de Desarrollo: Normativa de la Comunidad Autónoma consultada (Decretos curriculares, ROC, Órdenes, Protocolos vigentes).
+- Instrucciones / Resoluciones Departamentales: Circulares del curso escolar actual aplicables.
+
+### 3. 🔍 ANÁLISIS JURÍDICO-TÉCNICO Y ARTICULADO CLAVE
+- Desglose razonado con citas textuales o literales de los artículos determinantes.
+- En caso de conflicto normativo, resolución fundada en jerarquía o especialidad (lex specialis derogat legi generali).
+
+### 4. 🛠️ PROCEDIMIENTO PRÁCTICO / PAUTAS OPERATIVAS (Para el Centro / Docente / Inspección)
+- Pasos de actuación recomendados: competencia del órgano (Dirección, Claustro, Consejo Escolar, CCP, Inspección), plazos administrativos y documentos de centro a actualizar (PE, PGA, RRI/NOF, Programación Didáctica).
+
+---
+
+# PARÁMETROS DEL CONTEXTO DE CONSULTA:
+- Ámbito Territorial / CC.AA.: [España / Canarias / Madrid / Andalucía / Otra CCAA]
+- Etapa / Enseñanza: [Infantil / Primaria / ESO / Bachillerato / FP / Régimen Especial]
+- Perfil del Usuario: [Docente / Equipo Directivo / Opositor / Inspector de Educación / Familia]
+- Tema o Conflicto: [Describe aquí la consulta concreta]
+```
+</details>
+
+### ⚙️ Guía de Adaptación por Plataforma
+
+* **NotebookLM (Google)**: Carga en el cuaderno los archivos `.md` de `open-lex-edu` deseados y añade el prompt maestro en la primera nota de instrucción o como mensaje de encuadre en el chat.
+* **Claude (Projects / System Prompt - Anthropic)**: Configúralo en las *Project Instructions*. Excelente rendimiento con modo de razonamiento extendido (*Extended Thinking*) para resolver antinomias y dictámenes jurídicos complejos.
+* **ChatGPT (Custom GPT / Preamble - OpenAI)**: Pégalo en el apartado *Instructions* de tu Custom GPT. Sube `index.yaml` o las carpetas autonómicas prioritarias como archivos de *Knowledge*.
+* **Gemini (Gems - Google)**: Añádelo en las instrucciones del Gem. Aprovecha la ventana de contexto de 1M-2M tokens para analizar leyes orgánicas completas y decretos curriculares extensos simultáneamente.
+* **DeepSeek (V3 / R1)**: Ejecútalo directamente como preámbulo. DeepSeek-R1 desglosará la jerarquía y aplicabilidad administrativa paso a paso en su bloque de pensamiento.
+* **Ollama (Modelos Locales como Llama 3 o Qwen 2.5)**: Inclúyelo en el bloque `SYSTEM """..."""` del `Modelfile`, estableciendo `PARAMETER temperature 0.1` para maximizar la fidelidad documental.
 
 ---
 
