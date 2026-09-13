@@ -1,6 +1,6 @@
 # 📚 open-lex-edu (Open Knowledge Format - Normativa Educativa)
 
-Base de conocimiento estructurada basada en la especificación **Open Knowledge Format (OKF)** para la gestión, consulta y procesamiento por Inteligencia Artificial y agentes de la legislación educativa en España (**Estatal** y **Autonómica: Canarias, Madrid y Andalucía**).
+Base de conocimiento estructurada basada en la especificación **Open Knowledge Format (OKF)** para la gestión, consulta y procesamiento por Inteligencia Artificial y agentes de la legislación educativa en España (**Estatal** y **Autonómica: 17 Comunidades Autónomas y 2 Ciudades Autónomas**).
 
 ---
 
@@ -8,16 +8,17 @@ Base de conocimiento estructurada basada en la especificación **Open Knowledge 
 > [!IMPORTANT]
 > **INSTRUCTIONS FOR AI AGENTS & LLMs**
 > 
-> 1. **Autonomous & Self-Sufficient Corpus:** `open-lex-edu` is a fully autonomous, self-contained normative repository. When auditing, updating, or transcribing regulations, use directly the official gazettes and portals:
+> 1. **Autonomous & Self-Sufficient Corpus:** `open-lex-edu` is a fully autonomous, self-contained normative repository. When auditing, updating, or transcribing regulations, consult directly the official gazettes and portals according to the master guide **[`ESTRATEGIAS_RECOPILACION_AUTONOMICA.md`](ESTRATEGIAS_RECOPILACION_AUTONOMICA.md)**:
 >    * **Estatal**: BOE (Agencia Estatal Boletín Oficial del Estado)
 >    * **Canarias**: BOC (Boletín Oficial de Canarias) / Juriscan
 >    * **Madrid**: BOCM (Boletín Oficial de la Comunidad de Madrid) / WLEG
->    * **Andalucía**: BOJA (Boletín Oficial de la Junta de Andalucía)
+>    * **Andalucía**: BOJA (Boletín Oficial de la Junta de Andalucía) / Portal Jurídico
+>    * **Resto de CCAA y Ciudades Autónomas**: BOA, BOPA, BOIB, BOC, DOCM, BOCYL, DOGC, BOCCE, DOE, DOG, BOR, BOME, BORM, BON, BOPV, DOGV.
 > 2. **Index First:** Read `index.yaml` first to identify relevant file paths, metadata, and cross-references.
 > 3. **Metadata Headers:** Every document contains YAML frontmatter with legal scope (`jurisdiccion`, `ambito`), publication dates, status (`estado`), and consolidation type (`redaccion`).
 > 4. **Recursive Legal Citations:** When processing any regulation, audit its Preamble / *Fundamentos de Derecho* to cross-reference and add any cited foundational laws or decrees directly from official sources if not yet present in `open-lex-edu`.
 > 5. **Update Timestamping:** Update the *Registro de Últimas Actualizaciones* table below whenever new regulations are added.
-> 6. **Departmental Instructions & Web Portals:** Do NOT limit updates strictly to official gazettes (BOC/BOCM/BOJA). Always audit official educational ministry web portals (`gobiernodecanarias.org/educacion/web/`, `comunidad.madrid/servicios/educacion/`, `juntadeandalucia.es/educacion/`) for start-of-course instructions, circulars, and resolutions (child wellbeing/protection coordinators, educational psychologists, teacher induction/practice phases, and vocational training innovation networks).
+> 6. **Departmental Instructions & Web Portals:** Do NOT limit updates strictly to official gazettes. Always audit official educational ministry web portals (`gobiernodecanarias.org/educacion/web/`, `comunidad.madrid/servicios/educacion/`, `juntadeandalucia.es/educacion/`, `educa.aragon.es`, `educastur.es`, `weib.caib.es`, `educantabria.es`, `educa.jccm.es`, `educa.jcyl.es`, `educacio.gencat.cat`, `educarex.es`, `edu.xunta.gal`, `educarioja.org`, `educarm.es`, `educacion.navarra.es`, `euskadi.eus/educacion`, `ceice.gva.es`, etc.) for start-of-course instructions, circulars, and resolutions (child wellbeing/protection coordinators, educational psychologists, teacher induction/practice phases, and vocational training innovation networks).
 <!-- AI_AGENT_INSTRUCTIONS_END -->
 
 ---
