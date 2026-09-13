@@ -1,5 +1,5 @@
 version: '1.0'
-total_normas: 713
+total_normas: 733
 normas:
   norm-and-d154-2022:
     id: norm-and-d154-2022
@@ -8786,6 +8786,43 @@ normas:
     - comunidad educativa
     - Cantabria
     path: autonómica/cantabria/07_convivencia_bienestar_y_protocolos/D53_2009_convivencia_escolar_derechos_deberes.md
+  norm-clm-l-7-2010:
+    id: norm-clm-l-7-2010
+    codigo_sintetizado: L7_2010 Ley de Educacion de Castilla-La Mancha
+    titulo: Ley 7/2010, de 20 de julio, de Educación de Castilla-La Mancha.
+    jurisdiccion: Castilla-La Mancha
+    ambito: Autonómico
+    tipo_disposicion: Ley
+    fecha_publicacion: '2010-07-28'
+    estado: Vigente
+    redaccion: consolidada
+    categoria_canonica: 01_marco_normativo_general_y_organico
+    subcategoria: Marco normativo general
+    tags:
+    - ley de educacion
+    - sistema educativo
+    - marco general
+    - castilla-la mancha
+    path: autonómica/castilla_la_mancha/01_marco_normativo_general_y_organico/L7_2010_educacion_castilla_la_mancha.md
+  norm-clm-l-3-2007:
+    id: norm-clm-l-3-2007
+    codigo_sintetizado: L3_2007 Participacion Social en la Educacion
+    titulo: Ley 3/2007, de 8 de marzo, de Participación Social en la Educación en
+      la Comunidad Autónoma de Castilla-La Mancha.
+    jurisdiccion: Castilla-La Mancha
+    ambito: Autonómico
+    tipo_disposicion: Ley
+    fecha_publicacion: '2007-03-15'
+    estado: Vigente
+    redaccion: consolidada
+    categoria_canonica: 02_gestion_y_administracion_centros
+    subcategoria: Participación y órganos colegiados
+    tags:
+    - participacion social
+    - consejo escolar
+    - consejos escolares
+    - castilla-la mancha
+    path: autonómica/castilla_la_mancha/02_gestion_y_administracion_centros/L3_2007_participacion_social_educacion.md
   norm-clm-d80-2022:
     id: norm-clm-d80-2022
     codigo_sintetizado: D80_2022
@@ -8865,6 +8902,100 @@ normas:
     - LOMLOE
     - Bachillerato
     path: autonómica/castilla_la_mancha/03_ordenacion_curricular_y_ensenanzas/D83_2022_ordenacion_curriculo_bachillerato.md
+  norm-clm-d-85-2018:
+    id: norm-clm-d-85-2018
+    codigo_sintetizado: D85_2018 Inclusion Educativa
+    titulo: Decreto 85/2018, de 20 de noviembre, por el que se regula la inclusión
+      educativa del alumnado en la comunidad autónoma de Castilla-La Mancha.
+    jurisdiccion: Castilla-La Mancha
+    ambito: Autonómico
+    tipo_disposicion: Decreto
+    fecha_publicacion: '2018-11-23'
+    estado: Vigente
+    redaccion: consolidada
+    categoria_canonica: 06_atencion_diversidad_y_orientacion
+    subcategoria: Inclusión y necesidades educativas
+    tags:
+    - inclusion
+    - diversidad
+    - neae
+    - orientacion
+    - castilla-la mancha
+    path: autonómica/castilla_la_mancha/06_atencion_diversidad_y_orientacion/D85_2018_inclusion_educativa_alumnado.md
+  norm-clm-d-92-2022:
+    id: norm-clm-d-92-2022
+    codigo_sintetizado: D92_2022 Organizacion de la Orientacion
+    titulo: Decreto 92/2022, de 16 de agosto, por el que se regula la organización
+      de la orientación académica, educativa y profesional en la comunidad autónoma
+      de Castilla-La Mancha.
+    jurisdiccion: Castilla-La Mancha
+    ambito: Autonómico
+    tipo_disposicion: Decreto
+    fecha_publicacion: '2022-08-23'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 06_atencion_diversidad_y_orientacion
+    subcategoria: Orientación educativa
+    tags:
+    - orientacion
+    - orientacion profesional
+    - equipos de orientacion
+    - castilla-la mancha
+    path: autonómica/castilla_la_mancha/06_atencion_diversidad_y_orientacion/D92_2022_organizacion_orientacion_academica_educativa_profesional.md
+  norm-clm-l-3-2012:
+    id: norm-clm-l-3-2012
+    codigo_sintetizado: L3_2012 Autoridad del Profesorado
+    titulo: Ley 3/2012, de 10 de mayo, de autoridad del profesorado.
+    jurisdiccion: Castilla-La Mancha
+    ambito: Autonómico
+    tipo_disposicion: Ley
+    fecha_publicacion: '2012-05-22'
+    estado: Vigente
+    redaccion: consolidada
+    categoria_canonica: 08_personal_docente
+    subcategoria: Derechos y deberes del profesorado
+    tags:
+    - profesorado
+    - autoridad docente
+    - derechos y deberes
+    - castilla-la mancha
+    path: autonómica/castilla_la_mancha/08_personal_docente/L3_2012_autoridad_profesorado.md
+  norm-cyl-d-14-2022:
+    id: norm-cyl-d-14-2022
+    codigo_sintetizado: D14_2022 Estructura Organica Consejeria Educacion
+    titulo: Decreto 14/2022, de 5 de mayo, por el que se establece la estructura orgánica
+      de la Consejería de Educación.
+    jurisdiccion: Castilla y León
+    ambito: Autonómico
+    tipo_disposicion: Decreto
+    fecha_publicacion: '2022-05-06'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 01_marco_normativo_general_y_organico
+    subcategoria: Estructura orgánica departamental
+    tags:
+    - estructura organica
+    - consejeria de educacion
+    - organizacion
+    - castilla y leon
+    path: autonómica/castilla_y_león/01_marco_normativo_general_y_organico/D14_2022_estructura_organica_consejeria_educacion.md
+  norm-cyl-l-3-1999:
+    id: norm-cyl-l-3-1999
+    codigo_sintetizado: L3_1999 Consejo Escolar de Castilla y Leon
+    titulo: Ley 3/1999, de 17 de marzo, del Consejo Escolar de Castilla y León.
+    jurisdiccion: Castilla y León
+    ambito: Autonómico
+    tipo_disposicion: Ley
+    fecha_publicacion: '1999-03-24'
+    estado: Vigente
+    redaccion: consolidada
+    categoria_canonica: 02_gestion_y_administracion_centros
+    subcategoria: Participación y órganos colegiados
+    tags:
+    - consejo escolar
+    - participacion institucional
+    - castilla y leon
+    path: autonómica/castilla_y_león/02_gestion_y_administracion_centros/L3_1999_consejo_escolar_castilla_leon.md
   norm-cyl-d37-2022:
     id: norm-cyl-d37-2022
     codigo_sintetizado: D37_2022
@@ -8942,6 +9073,63 @@ normas:
     - LOMLOE
     - Bachillerato
     path: autonómica/castilla_y_león/03_ordenacion_curricular_y_ensenanzas/D40_2022_ordenacion_curriculo_bachillerato.md
+  norm-cyl-l-3-2002:
+    id: norm-cyl-l-3-2002
+    codigo_sintetizado: L3_2002 Educacion de Personas Adultas
+    titulo: Ley 3/2002, de 9 de abril, de Educación de Personas Adultas de Castilla
+      y León.
+    jurisdiccion: Castilla y León
+    ambito: Autonómico
+    tipo_disposicion: Ley
+    fecha_publicacion: '2002-04-16'
+    estado: Vigente
+    redaccion: consolidada
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Educación de Personas Adultas
+    tags:
+    - educacion personas adultas
+    - aprendizaje a lo largo de la vida
+    - castilla y leon
+    path: autonómica/castilla_y_león/03_ordenacion_curricular_y_ensenanzas/L3_2002_educacion_personas_adultas.md
+  norm-cyl-d-51-2007:
+    id: norm-cyl-d-51-2007
+    codigo_sintetizado: D51_2007 Derechos Deberes Convivencia Escolar
+    titulo: Decreto 51/2007, de 17 de mayo, por el que se regulan los derechos y deberes
+      de los alumnos y la participación y los compromisos de las familias en el proceso
+      educativo, y se establecen las normas de convivencia y disciplina en los Centros
+      Educativos de Castilla y León.
+    jurisdiccion: Castilla y León
+    ambito: Autonómico
+    tipo_disposicion: Decreto
+    fecha_publicacion: '2007-05-23'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 07_convivencia_bienestar_y_protocolos
+    subcategoria: Convivencia escolar
+    tags:
+    - convivencia
+    - derechos y deberes
+    - alumnado
+    - disciplina escolar
+    - castilla y leon
+    path: autonómica/castilla_y_león/07_convivencia_bienestar_y_protocolos/D51_2007_derechos_deberes_alumnos_normas_convivencia_disciplina.md
+  norm-cyl-l-3-2014:
+    id: norm-cyl-l-3-2014
+    codigo_sintetizado: L3_2014 Autoridad del Profesorado
+    titulo: Ley 3/2014, de 16 de abril, de autoridad del profesorado.
+    jurisdiccion: Castilla y León
+    ambito: Autonómico
+    tipo_disposicion: Ley
+    fecha_publicacion: '2014-04-29'
+    estado: Vigente
+    redaccion: consolidada
+    categoria_canonica: 08_personal_docente
+    subcategoria: Derechos y deberes del profesorado
+    tags:
+    - autoridad del profesorado
+    - personal docente
+    - castilla y leon
+    path: autonómica/castilla_y_león/08_personal_docente/L3_2014_autoridad_profesorado.md
   norm-cat-d171-2022:
     id: norm-cat-d171-2022
     codigo_sintetizado: D171_2022
@@ -8999,6 +9187,42 @@ normas:
     - LOMLOE
     - Educación Infantil
     path: autonómica/cataluña/03_ordenacion_curricular_y_ensenanzas/D21_2023_ordenacion_ensenanzas_educacion_infantil.md
+  norm-ext-d-237-2023:
+    id: norm-ext-d-237-2023
+    codigo_sintetizado: D237_2023 Estructura Organica Consejeria Educacion
+    titulo: Decreto 237/2023, de 12 de septiembre, por el que se establece la estructura
+      orgánica de la Consejería de Educación, Ciencia y Formación Profesional.
+    jurisdiccion: Extremadura
+    ambito: Autonómico
+    tipo_disposicion: Decreto
+    fecha_publicacion: '2023-09-16'
+    estado: Vigente
+    redaccion: pdf_oficial_doe
+    categoria_canonica: 01_marco_normativo_general_y_organico
+    subcategoria: Estructura orgánica departamental
+    tags:
+    - estructura organica
+    - consejeria de educacion
+    - extremadura
+    path: autonómica/extremadura/01_marco_normativo_general_y_organico/D237_2023_estructura_organica_consejeria_educacion_ciencia_fp.md
+  norm-ext-l-4-2011:
+    id: norm-ext-l-4-2011
+    codigo_sintetizado: L4_2011 Ley de Educacion de Extremadura
+    titulo: Ley 4/2011, de 7 de marzo, de educación de Extremadura.
+    jurisdiccion: Extremadura
+    ambito: Autonómico
+    tipo_disposicion: Ley
+    fecha_publicacion: '2011-03-09'
+    estado: Vigente
+    redaccion: consolidada
+    categoria_canonica: 01_marco_normativo_general_y_organico
+    subcategoria: Marco normativo general
+    tags:
+    - ley de educacion
+    - leex
+    - marco general
+    - extremadura
+    path: autonómica/extremadura/01_marco_normativo_general_y_organico/L4_2011_educacion_extremadura.md
   norm-ext-d107-2022:
     id: norm-ext-d107-2022
     codigo_sintetizado: D107_2022
@@ -9076,6 +9300,88 @@ normas:
     - LOMLOE
     - Educación Infantil
     path: autonómica/extremadura/03_ordenacion_curricular_y_ensenanzas/D98_2022_ordenacion_curriculo_educacion_infantil.md
+  norm-ext-d-128-2021:
+    id: norm-ext-d-128-2021
+    codigo_sintetizado: D128_2021 Admision del Alumnado
+    titulo: Decreto 128/2021, de 17 de noviembre, por el que se regula la admisión
+      del alumnado de Educación Infantil, Educación Primaria, Educación Secundaria
+      Obligatoria y Bachillerato en centros docentes sostenidos con fondos públicos
+      en la Comunidad Autónoma de Extremadura.
+    jurisdiccion: Extremadura
+    ambito: Autonómico
+    tipo_disposicion: Decreto
+    fecha_publicacion: '2021-11-18'
+    estado: Vigente
+    redaccion: pdf_oficial_doe
+    categoria_canonica: 05_alumnado_y_servicios_escolares
+    subcategoria: Admisión y escolarización
+    tags:
+    - admision
+    - escolarizacion
+    - centros sostenidos con fondos publicos
+    - extremadura
+    path: autonómica/extremadura/05_alumnado_y_servicios_escolares/D128_2021_admision_alumnado_centros_docentes_sostenidos_fondos_publicos.md
+  norm-ext-d-228-2014:
+    id: norm-ext-d-228-2014
+    codigo_sintetizado: D228_2014 Respuesta Educativa Diversidad
+    titulo: Decreto 228/2014, de 14 de octubre, por el que se regula la respuesta
+      educativa a la diversidad del alumnado en la Comunidad Autónoma de Extremadura.
+    jurisdiccion: Extremadura
+    ambito: Autonómico
+    tipo_disposicion: Decreto
+    fecha_publicacion: '2014-10-21'
+    estado: Vigente
+    redaccion: pdf_oficial_doe
+    categoria_canonica: 06_atencion_diversidad_y_orientacion
+    subcategoria: Atención a la diversidad
+    tags:
+    - diversidad
+    - neae
+    - inclusion
+    - orientacion
+    - extremadura
+    path: autonómica/extremadura/06_atencion_diversidad_y_orientacion/D228_2014_respuesta_educativa_diversidad_alumnado.md
+  norm-ext-d-50-2007:
+    id: norm-ext-d-50-2007
+    codigo_sintetizado: D50_2007 Derechos Deberes Convivencia Escolar
+    titulo: Decreto 50/2007, de 20 de marzo, por el que se establecen los derechos
+      y deberes del alumnado y normas de convivencia en los centros docentes sostenidos
+      con fondos públicos de la Comunidad Autónoma de Extremadura.
+    jurisdiccion: Extremadura
+    ambito: Autonómico
+    tipo_disposicion: Decreto
+    fecha_publicacion: '2007-03-27'
+    estado: Vigente
+    redaccion: pdf_oficial_doe
+    categoria_canonica: 07_convivencia_bienestar_y_protocolos
+    subcategoria: Convivencia escolar
+    tags:
+    - convivencia
+    - derechos y deberes
+    - alumnado
+    - disciplina
+    - extremadura
+    path: autonómica/extremadura/07_convivencia_bienestar_y_protocolos/D50_2007_derechos_deberes_alumnado_normas_convivencia.md
+  norm-gal-d-138-2024:
+    id: norm-gal-d-138-2024
+    codigo_sintetizado: D138_2024 Estrutura Organica Conselleria Educacion
+    titulo: Decreto 138/2024, de 20 de mayo, por el que se establece la estructura
+      orgánica de la Consellería de Educación, Ciencia, Universidades y Formación
+      Profesional.
+    jurisdiccion: Galicia
+    ambito: Autonómico
+    tipo_disposicion: Decreto
+    fecha_publicacion: '2024-05-27'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 01_marco_normativo_general_y_organico
+    subcategoria: Estructura orgánica departamental
+    tags:
+    - estructura organica
+    - conselleria de educacion
+    - organizacion
+    - galicia
+    path: autonómica/galicia/01_marco_normativo_general_y_organico/D138_2024_estrutura_organica_conselleria_educacion_ciencia_universidades_fp.md
   norm-gal-d150-2022:
     id: norm-gal-d150-2022
     codigo_sintetizado: D150_2022
@@ -9153,6 +9459,90 @@ normas:
     - LOMLOE
     - Bachillerato
     path: autonómica/galicia/03_ordenacion_curricular_y_ensenanzas/D157_2022_ordenacion_curriculo_bachillerato.md
+  norm-gal-d-13-2022:
+    id: norm-gal-d-13-2022
+    codigo_sintetizado: D13_2022 Admision de Alumnado
+    titulo: Decreto 13/2022, de 3 de febrero, por el que se regula la admisión de
+      alumnado en centros docentes sostenidos con fondos públicos que imparten enseñanzas
+      de segundo ciclo de educación infantil, de educación primaria, de educación
+      secundaria obligatoria y de bachillerato reguladas en la Ley orgánica 2/2006,
+      de 3 de mayo, de educación.
+    jurisdiccion: Galicia
+    ambito: Autonómico
+    tipo_disposicion: Decreto
+    fecha_publicacion: '2022-02-11'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 05_alumnado_y_servicios_escolares
+    subcategoria: Admisión y escolarización
+    tags:
+    - admision
+    - escolarizacion
+    - centros sostenidos con fondos publicos
+    - galicia
+    path: autonómica/galicia/05_alumnado_y_servicios_escolares/D13_2022_admision_alumnado_centros_docentes_sostenidos_fondos_publicos.md
+  norm-gal-d-229-2011:
+    id: norm-gal-d-229-2011
+    codigo_sintetizado: D229_2011 Atencion a la Diversidad
+    titulo: Decreto 229/2011, de 7 de diciembre, por el que se regula la atención
+      a la diversidad del alumnado de los centros docentes de la Comunidad Autónoma
+      de Galicia en los que se imparten las enseñanzas establecidas en la Ley orgánica
+      2/2006, de 3 de mayo, de educación.
+    jurisdiccion: Galicia
+    ambito: Autonómico
+    tipo_disposicion: Decreto
+    fecha_publicacion: '2011-12-21'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 06_atencion_diversidad_y_orientacion
+    subcategoria: Atención a la diversidad
+    tags:
+    - diversidad
+    - neae
+    - inclusion
+    - orientacion educativa
+    - galicia
+    path: autonómica/galicia/06_atencion_diversidad_y_orientacion/D229_2011_atencion_diversidad_alumnado_centros_docentes.md
+  norm-gal-d-8-2015:
+    id: norm-gal-d-8-2015
+    codigo_sintetizado: D8_2015 Convivencia Escolar
+    titulo: Decreto 8/2015, de 8 de enero, por el que se desarrolla la Ley 4/2011,
+      de 30 de junio, de convivencia y participación de la comunidad educativa en
+      materia de convivencia escolar.
+    jurisdiccion: Galicia
+    ambito: Autonómico
+    tipo_disposicion: Decreto
+    fecha_publicacion: '2015-01-27'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 07_convivencia_bienestar_y_protocolos
+    subcategoria: Convivencia escolar
+    tags:
+    - convivencia
+    - normas de convivencia
+    - participacion
+    - disciplina
+    - galicia
+    path: autonómica/galicia/07_convivencia_bienestar_y_protocolos/D8_2015_desarrollo_ley_convivencia_participacion_comunidad_educativa.md
+  norm-gal-l-4-2011:
+    id: norm-gal-l-4-2011
+    codigo_sintetizado: L4_2011 Convivencia y Participacion
+    titulo: Ley 4/2011, de 30 de junio, de convivencia y participación de la comunidad
+      educativa.
+    jurisdiccion: Galicia
+    ambito: Autonómico
+    tipo_disposicion: Ley
+    fecha_publicacion: '2011-07-15'
+    estado: Vigente
+    redaccion: consolidada
+    categoria_canonica: 07_convivencia_bienestar_y_protocolos
+    subcategoria: Marco legal de convivencia y participación
+    tags:
+    - convivencia
+    - participacion
+    - comunidad educativa
+    - galicia
+    path: autonómica/galicia/07_convivencia_bienestar_y_protocolos/L4_2011_convivencia_participacion_comunidad_educativa.md
   norm-rio-d36-2022:
     id: norm-rio-d36-2022
     codigo_sintetizado: D36_2022
@@ -45399,6 +45789,15 @@ relaciones_grafo:
   titulo_destino: Ley Orgánica 2/2006, de 3 de mayo, de Educación (LOE-LOMLOE)
   descripcion: Desarrollo y concreción autonómica de las enseñanzas y currículos de
     la etapa
+- origen: norm-clm-l-7-2010
+  tipo: desarrolla
+  destino: norm-es-lo-2-2006
+- origen: norm-clm-l-7-2010
+  tipo: fundamentado_en
+  destino: norm-es-constitucion-1978
+- origen: norm-clm-l-3-2007
+  tipo: desarrolla
+  destino: norm-es-lo-2-2006
 - origen: norm-clm-d80-2022
   tipo: desarrolla
   destino: norm-es-lo2-2006
@@ -45423,6 +45822,27 @@ relaciones_grafo:
   titulo_destino: Ley Orgánica 2/2006, de 3 de mayo, de Educación (LOE-LOMLOE)
   descripcion: Desarrollo y concreción autonómica de las enseñanzas y currículos de
     la etapa
+- origen: norm-clm-d-85-2018
+  tipo: desarrolla
+  destino: norm-es-lo-2-2006
+- origen: norm-clm-d-85-2018
+  tipo: fundamentado_en
+  destino: norm-clm-l-7-2010
+- origen: norm-clm-d-92-2022
+  tipo: desarrolla
+  destino: norm-clm-d-85-2018
+- origen: norm-clm-d-92-2022
+  tipo: fundamentado_en
+  destino: norm-clm-l-7-2010
+- origen: norm-clm-l-3-2012
+  tipo: fundamentado_en
+  destino: norm-clm-l-7-2010
+- origen: norm-cyl-d-14-2022
+  tipo: fundamentado_en
+  destino: norm-es-constitucion-1978
+- origen: norm-cyl-l-3-1999
+  tipo: fundamentado_en
+  destino: norm-es-constitucion-1978
 - origen: norm-cyl-d37-2022
   tipo: desarrolla
   destino: norm-es-lo2-2006
@@ -45447,6 +45867,15 @@ relaciones_grafo:
   titulo_destino: Ley Orgánica 2/2006, de 3 de mayo, de Educación (LOE-LOMLOE)
   descripcion: Desarrollo y concreción autonómica de las enseñanzas y currículos de
     la etapa
+- origen: norm-cyl-l-3-2002
+  tipo: fundamentado_en
+  destino: norm-es-constitucion-1978
+- origen: norm-cyl-d-51-2007
+  tipo: desarrolla
+  destino: norm-es-lo-2-2006
+- origen: norm-cyl-l-3-2014
+  tipo: desarrolla
+  destino: norm-es-lo-2-2006
 - origen: norm-cat-d171-2022
   tipo: desarrolla
   destino: norm-es-lo2-2006
@@ -45465,6 +45894,15 @@ relaciones_grafo:
   titulo_destino: Ley Orgánica 2/2006, de 3 de mayo, de Educación (LOE-LOMLOE)
   descripcion: Desarrollo y concreción autonómica de las enseñanzas y currículos de
     la etapa
+- origen: norm-ext-d-237-2023
+  tipo: fundamentado_en
+  destino: norm-ext-l-4-2011
+- origen: norm-ext-l-4-2011
+  tipo: desarrolla
+  destino: norm-es-lo-2-2006
+- origen: norm-ext-l-4-2011
+  tipo: fundamentado_en
+  destino: norm-es-constitucion-1978
 - origen: norm-ext-d107-2022
   tipo: desarrolla
   destino: norm-es-lo2-2006
@@ -45489,6 +45927,24 @@ relaciones_grafo:
   titulo_destino: Ley Orgánica 2/2006, de 3 de mayo, de Educación (LOE-LOMLOE)
   descripcion: Desarrollo y concreción autonómica de las enseñanzas y currículos de
     la etapa
+- origen: norm-ext-d-128-2021
+  tipo: desarrolla
+  destino: norm-es-lo-2-2006
+- origen: norm-ext-d-128-2021
+  tipo: fundamentado_en
+  destino: norm-ext-l-4-2011
+- origen: norm-ext-d-228-2014
+  tipo: desarrolla
+  destino: norm-es-lo-2-2006
+- origen: norm-ext-d-228-2014
+  tipo: fundamentado_en
+  destino: norm-ext-l-4-2011
+- origen: norm-ext-d-50-2007
+  tipo: desarrolla
+  destino: norm-es-lo-2-2006
+- origen: norm-gal-d-138-2024
+  tipo: fundamentado_en
+  destino: norm-es-constitucion-1978
 - origen: norm-gal-d150-2022
   tipo: desarrolla
   destino: norm-es-lo2-2006
@@ -45513,6 +45969,21 @@ relaciones_grafo:
   titulo_destino: Ley Orgánica 2/2006, de 3 de mayo, de Educación (LOE-LOMLOE)
   descripcion: Desarrollo y concreción autonómica de las enseñanzas y currículos de
     la etapa
+- origen: norm-gal-d-13-2022
+  tipo: desarrolla
+  destino: norm-es-lo-2-2006
+- origen: norm-gal-d-229-2011
+  tipo: desarrolla
+  destino: norm-es-lo-2-2006
+- origen: norm-gal-d-8-2015
+  tipo: desarrolla
+  destino: norm-gal-l-4-2011
+- origen: norm-gal-l-4-2011
+  tipo: desarrolla
+  destino: norm-es-lo-2-2006
+- origen: norm-gal-l-4-2011
+  tipo: fundamentado_en
+  destino: norm-es-constitucion-1978
 - origen: norm-rio-d36-2022
   tipo: desarrolla
   destino: norm-es-lo2-2006
