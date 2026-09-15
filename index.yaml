@@ -1,5 +1,5 @@
 version: '1.0'
-total_normas: 766
+total_normas: 784
 normas:
   norm-and-d154-2022:
     id: norm-and-d154-2022
@@ -2779,6 +2779,28 @@ normas:
     - LOMLOE
     - Educación Infantil
     path: autonómica/aragón/03_ordenacion_curricular_y_ensenanzas/OECD853_2022_curriculo_evaluacion_educacion_infantil.md
+  norm-ara-o-11-11-2014:
+    id: norm-ara-o-11-11-2014
+    codigo_sintetizado: Orden 11 de noviembre de 2014
+    titulo: Orden de 11 de noviembre de 2014, de la Consejera de Educación, Universidad,
+      Cultura y Deporte, por la que se regula la jornada escolar en los centros docentes
+      públicos que imparten segundo ciclo de Educación Infantil, Educación Primaria
+      y Educación Especial en la Comunidad Autónoma de Aragón
+    jurisdiccion: Aragón
+    ambito: Autonómico
+    tipo_disposicion: Orden
+    fecha_publicacion: '2014-11-24'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 04_organizacion_escolar_y_funcionamiento
+    subcategoria: jornada_escolar
+    tags:
+    - jornada-escolar
+    - jornada-continua
+    - horarios
+    - organizacion-escolar
+    - Aragon
+    path: autonómica/aragón/04_organizacion_escolar_y_funcionamiento/O11_11_2014_regulacion_jornada_escolar_centros_infantil_primaria.md
   norm-ara-d51-2021:
     id: norm-ara-d51-2021
     codigo_sintetizado: D51/2021
@@ -2799,6 +2821,27 @@ normas:
     - centros sostenidos con fondos públicos
     - Aragón
     path: autonómica/aragón/05_alumnado_y_servicios_escolares/D51_2021_escolarizacion_alumnado_centros_docentes.md
+  norm-ara-o-214-2022:
+    id: norm-ara-o-214-2022
+    codigo_sintetizado: Orden ECD/214/2022
+    titulo: Orden ECD/214/2022, de 2 de marzo, por la que se regula el procedimiento
+      de admisión y escolarización del alumnado en centros docentes sostenidos con
+      fondos públicos en la Comunidad Autónoma de Aragón
+    jurisdiccion: Aragón
+    ambito: Autonómico
+    tipo_disposicion: Orden
+    fecha_publicacion: '2022-03-08'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 05_alumnado_y_servicios_escolares
+    subcategoria: admision_alumnado
+    tags:
+    - admision
+    - escolarizacion
+    - matricula
+    - centros-publicos
+    - Aragon
+    path: autonómica/aragón/05_alumnado_y_servicios_escolares/OECD214_2022_procedimiento_admision_escolarizacion_alumnado.md
   norm-ara-d188-2017:
     id: norm-ara-d188-2017
     codigo_sintetizado: D188/2017
@@ -2819,6 +2862,27 @@ normas:
     - orientación
     - Aragón
     path: autonómica/aragón/06_atencion_diversidad_y_orientacion/D188_2017_respuesta_educativa_inclusiva_convivencia.md
+  norm-ara-o-1005-2018:
+    id: norm-ara-o-1005-2018
+    codigo_sintetizado: Orden ECD/1005/2018
+    titulo: Orden ECD/1005/2018, de 7 de junio, por la que se regulan las actuaciones
+      de intervención educativa inclusiva en los centros docentes públicos y privados
+      concertados de la Comunidad Autónoma de Aragón
+    jurisdiccion: Aragón
+    ambito: Autonómico
+    tipo_disposicion: Orden
+    fecha_publicacion: '2018-06-18'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 06_atencion_diversidad_y_orientacion
+    subcategoria: inclusion_educativa
+    tags:
+    - inclusion-educativa
+    - atencion-diversidad
+    - orientacion-educativa
+    - adaptaciones-curriculares
+    - Aragon
+    path: autonómica/aragón/06_atencion_diversidad_y_orientacion/OECD1005_2018_actuaciones_intervencion_educativa_inclusiva.md
   norm-ara-d73-2011:
     id: norm-ara-d73-2011
     codigo_sintetizado: D73/2011
@@ -2840,6 +2904,27 @@ normas:
     - comunidad educativa
     - Aragón
     path: autonómica/aragón/07_convivencia_bienestar_y_protocolos/D73_2011_carta_derechos_deberes_normas_convivencia.md
+  norm-ara-o-559-2020:
+    id: norm-ara-o-559-2020
+    codigo_sintetizado: Orden ECD/559/2020
+    titulo: Orden ECD/559/2020, de 23 de junio, por la que se establece el modelo
+      de carta de derechos y deberes y normas de convivencia en los centros docentes
+      sostenidos con fondos públicos de la Comunidad Autónoma de Aragón
+    jurisdiccion: Aragón
+    ambito: Autonómico
+    tipo_disposicion: Orden
+    fecha_publicacion: '2020-07-10'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 07_convivencia_bienestar_y_protocolos
+    subcategoria: convivencia_escolar
+    tags:
+    - convivencia
+    - derechos-deberes
+    - resolucion-conflictos
+    - mediacion-escolar
+    - Aragon
+    path: autonómica/aragón/07_convivencia_bienestar_y_protocolos/OECD559_2020_modelo_carta_derechos_deberes_normas_convivencia.md
   norm-ara-d105-2013:
     id: norm-ara-d105-2013
     codigo_sintetizado: D105/2013
@@ -2974,6 +3059,114 @@ normas:
     - LOMLOE
     - Bachillerato
     path: autonómica/asturias/03_ordenacion_curricular_y_ensenanzas/D60_2022_ordenacion_curriculo_bachillerato.md
+  norm-ast-o-12-7-2022:
+    id: norm-ast-o-12-7-2022
+    codigo_sintetizado: Resolucion BOPA 142/2022
+    titulo: Resolución de 12 de julio de 2022, de la Consejería de Educación, por
+      la que se regula la evaluación del aprendizaje del alumnado de la Educación
+      Primaria en el Principado de Asturias
+    jurisdiccion: Asturias
+    ambito: Autonómico
+    tipo_disposicion: Orden
+    fecha_publicacion: '2022-07-22'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: educacion_primaria
+    tags:
+    - evaluacion
+    - educacion-primaria
+    - promocion
+    - documentos-evaluacion
+    - Asturias
+    path: autonómica/asturias/03_ordenacion_curricular_y_ensenanzas/O12_7_2022_regulacion_evaluacion_aprendizaje_educacion_primaria.md
+  norm-ast-o-29-7-2022-bac:
+    id: norm-ast-o-29-7-2022-bac
+    codigo_sintetizado: Resolucion BOPA 153/2022
+    titulo: Resolución de 29 de julio de 2022, de la Consejería de Educación, por
+      la que se regula la evaluación del aprendizaje del alumnado del Bachillerato
+      en el Principado de Asturias
+    jurisdiccion: Asturias
+    ambito: Autonómico
+    tipo_disposicion: Orden
+    fecha_publicacion: '2022-08-08'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: bachillerato
+    tags:
+    - evaluacion
+    - bachillerato
+    - promocion
+    - titulacion
+    - Asturias
+    path: autonómica/asturias/03_ordenacion_curricular_y_ensenanzas/O29_7_2022_regulacion_evaluacion_aprendizaje_bachillerato.md
+  norm-ast-o-29-7-2022-eso:
+    id: norm-ast-o-29-7-2022-eso
+    codigo_sintetizado: Resolucion BOPA 152/2022
+    titulo: Resolución de 29 de julio de 2022, de la Consejería de Educación, por
+      la que se regula la evaluación del aprendizaje del alumnado de la Educación
+      Secundaria Obligatoria en el Principado de Asturias
+    jurisdiccion: Asturias
+    ambito: Autonómico
+    tipo_disposicion: Orden
+    fecha_publicacion: '2022-08-05'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: educacion_secundaria_obligatoria
+    tags:
+    - evaluacion
+    - eso
+    - promocion
+    - titulacion
+    - Asturias
+    path: autonómica/asturias/03_ordenacion_curricular_y_ensenanzas/O29_7_2022_regulacion_evaluacion_aprendizaje_secundaria_obligatoria.md
+  norm-ast-o-18-6-2009:
+    id: norm-ast-o-18-6-2009
+    codigo_sintetizado: Resolucion BOPA 146/2009
+    titulo: Resolución de 18 de junio de 2009, de la Consejería de Educación y Ciencia,
+      por la que se dictan instrucciones que regulan la organización y funcionamiento
+      de las escuelas infantiles, colegios de educación infantil y primaria y colegios
+      de educación especial del Principado de Asturias
+    jurisdiccion: Asturias
+    ambito: Autonómico
+    tipo_disposicion: Orden
+    fecha_publicacion: '2009-06-25'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 04_organizacion_escolar_y_funcionamiento
+    subcategoria: organizacion_centros
+    tags:
+    - organizacion-centros
+    - funcionamiento-centros
+    - horarios
+    - claustro
+    - equipo-directivo
+    - Asturias
+    path: autonómica/asturias/04_organizacion_escolar_y_funcionamiento/O18_6_2009_instrucciones_organizacion_funcionamiento_colegios_infantil_primaria.md
+  norm-ast-o-22-3-2021:
+    id: norm-ast-o-22-3-2021
+    codigo_sintetizado: Resolucion BOPA 59/2021
+    titulo: Resolución de 22 de marzo de 2021, de la Consejería de Educación, por
+      la que se aprueba el procedimiento de admisión del alumnado en centros docentes
+      no universitarios públicos y privados concertados del Principado de Asturias
+    jurisdiccion: Asturias
+    ambito: Autonómico
+    tipo_disposicion: Orden
+    fecha_publicacion: '2021-03-26'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 05_alumnado_y_servicios_escolares
+    subcategoria: admision_alumnado
+    tags:
+    - admision
+    - escolarizacion
+    - matriculacion
+    - baremo
+    - centros-concertados
+    - Asturias
+    path: autonómica/asturias/05_alumnado_y_servicios_escolares/O22_3_2021_procedimiento_admision_alumnado_centros_docentes.md
   norm-ast-d147-2014:
     id: norm-ast-d147-2014
     codigo_sintetizado: D147/2014
@@ -3167,6 +3360,68 @@ normas:
     - LOMLOE
     - Bachillerato
     path: autonómica/baleares/03_ordenacion_curricular_y_ensenanzas/D33_2022_curriculo_bachillerato.md
+  norm-bal-o-12-7-2022:
+    id: norm-bal-o-12-7-2022
+    codigo_sintetizado: Orden 12 de julio de 2022
+    titulo: Orden del Consejero de Educación y Formación Profesional de 12 de julio
+      de 2022 por la que se regula la evaluación en la Educación Primaria en las Illes
+      Balears
+    jurisdiccion: Baleares
+    ambito: Autonómico
+    tipo_disposicion: Orden
+    fecha_publicacion: '2022-07-16'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: educacion_primaria
+    tags:
+    - evaluacion
+    - educacion-primaria
+    - promocion
+    - documentos-evaluacion
+    - Baleares
+    path: autonómica/baleares/03_ordenacion_curricular_y_ensenanzas/O12_7_2022_regulacion_evaluacion_educacion_primaria.md
+  norm-bal-o-26-10-2022:
+    id: norm-bal-o-26-10-2022
+    codigo_sintetizado: Orden 26 de octubre de 2022
+    titulo: Orden del Consejero de Educación y Formación Profesional de 26 de octubre
+      de 2022 por la que se regula la evaluación en la Educación Secundaria Obligatoria
+      en las Illes Balears
+    jurisdiccion: Baleares
+    ambito: Autonómico
+    tipo_disposicion: Orden
+    fecha_publicacion: '2022-10-29'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: educacion_secundaria_obligatoria
+    tags:
+    - evaluacion
+    - eso
+    - promocion
+    - titulacion
+    - Baleares
+    path: autonómica/baleares/03_ordenacion_curricular_y_ensenanzas/O26_10_2022_regulacion_evaluacion_secundaria_obligatoria.md
+  norm-bal-o-27-10-2022:
+    id: norm-bal-o-27-10-2022
+    codigo_sintetizado: Orden 27 de octubre de 2022
+    titulo: Orden del Consejero de Educación y Formación Profesional de 27 de octubre
+      de 2022 por la que se regula la evaluación en el Bachillerato en las Illes Balears
+    jurisdiccion: Baleares
+    ambito: Autonómico
+    tipo_disposicion: Orden
+    fecha_publicacion: '2022-11-03'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: bachillerato
+    tags:
+    - evaluacion
+    - bachillerato
+    - promocion
+    - titulacion
+    - Baleares
+    path: autonómica/baleares/03_ordenacion_curricular_y_ensenanzas/O27_10_2022_regulacion_evaluacion_bachillerato.md
   norm-bal-d30-2023:
     id: norm-bal-d30-2023
     codigo_sintetizado: D30/2023
@@ -3206,6 +3461,49 @@ normas:
     - alumnado
     - Baleares
     path: autonómica/baleares/05_alumnado_y_servicios_escolares/D64_2019_regimen_admision_alumnos_centros_docentes.md
+  norm-bal-o-14-2-2023:
+    id: norm-bal-o-14-2-2023
+    codigo_sintetizado: Orden 14 de febrero de 2023
+    titulo: Orden del Consejero de Educación y Formación Profesional de 14 de febrero
+      de 2023 por la que se desarrolla el Decreto 64/2019, de 2 de agosto, por el
+      que se establece el régimen de admisión de alumnos en los centros sostenidos
+      con fondos públicos
+    jurisdiccion: Baleares
+    ambito: Autonómico
+    tipo_disposicion: Orden
+    fecha_publicacion: '2023-02-18'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 05_alumnado_y_servicios_escolares
+    subcategoria: admision_alumnado
+    tags:
+    - admision
+    - escolarizacion
+    - matricula
+    - centros-sostenidos-fondos-publicos
+    - Baleares
+    path: autonómica/baleares/05_alumnado_y_servicios_escolares/O14_2_2023_desarrollo_regimen_admision_alumnos_centros_sostenidos_fondos_publicos.md
+  norm-bal-o-22-5-2019:
+    id: norm-bal-o-22-5-2019
+    codigo_sintetizado: Orden 22 de mayo de 2019
+    titulo: Orden del Consejero de Educación y Universidad de 22 de mayo de 2019 por
+      la que se regulan las medidas de atención a la diversidad en los centros educativos
+      no universitarios de las Illes Balears
+    jurisdiccion: Baleares
+    ambito: Autonómico
+    tipo_disposicion: Orden
+    fecha_publicacion: '2019-05-28'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 06_atencion_diversidad_y_orientacion
+    subcategoria: atencion_diversidad
+    tags:
+    - atencion-diversidad
+    - inclusion
+    - neae
+    - adaptaciones-curriculares
+    - Baleares
+    path: autonómica/baleares/06_atencion_diversidad_y_orientacion/O22_5_2019_medidas_atencion_diversidad_centros_educativos.md
   norm-can-d-123-2023:
     id: norm-can-d-123-2023
     codigo_sintetizado: D123/2023 Estructura Organica del Gobierno de Canarias
@@ -8783,6 +9081,71 @@ normas:
     - LOMLOE
     - Educación Secundaria Obligatoria y Bachillerato
     path: autonómica/cantabria/03_ordenacion_curricular_y_ensenanzas/D73_2022_curriculo_educacion_secundaria_obligatoria_bachillerato.md
+  norm-ctb-o-60-2022:
+    id: norm-ctb-o-60-2022
+    codigo_sintetizado: Orden EDU/60/2022
+    titulo: Orden EDU/60/2022, de 15 de noviembre, que dictan instrucciones para la
+      implantación de la evaluación en la Educación Primaria en la Comunidad Autónoma
+      de Cantabria
+    jurisdiccion: Cantabria
+    ambito: Autonómico
+    tipo_disposicion: Orden
+    fecha_publicacion: '2022-11-25'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: educacion_primaria
+    tags:
+    - evaluacion
+    - educacion-primaria
+    - ordenacion-academica
+    - promocion
+    - Cantabria
+    path: autonómica/cantabria/03_ordenacion_curricular_y_ensenanzas/O60_2022_instrucciones_evaluacion_educacion_primaria.md
+  norm-ctb-o-65-2022:
+    id: norm-ctb-o-65-2022
+    codigo_sintetizado: Orden EDU/65/2022
+    titulo: Orden EDU/65/2022, de 20 de diciembre, que dictan instrucciones para la
+      implantación de la evaluación en Educación Secundaria Obligatoria y Bachillerato
+      en la Comunidad Autónoma de Cantabria
+    jurisdiccion: Cantabria
+    ambito: Autonómico
+    tipo_disposicion: Orden
+    fecha_publicacion: '2022-12-30'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: educacion_secundaria_obligatoria
+    tags:
+    - evaluacion
+    - eso
+    - bachillerato
+    - promocion
+    - titulacion
+    - Cantabria
+    path: autonómica/cantabria/03_ordenacion_curricular_y_ensenanzas/O65_2022_instrucciones_evaluacion_secundaria_obligatoria_bachillerato.md
+  norm-ctb-o-65-2014:
+    id: norm-ctb-o-65-2014
+    codigo_sintetizado: Orden ECD/65/2014
+    titulo: Orden ECD/65/2014, de 2 de junio, que establece las condiciones para la
+      implantación y desarrollo de la jornada continuada en los centros públicos que
+      imparten segundo ciclo de Educación Infantil y Educación Primaria de la Comunidad
+      Autónoma de Cantabria
+    jurisdiccion: Cantabria
+    ambito: Autonómico
+    tipo_disposicion: Orden
+    fecha_publicacion: '2014-06-11'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 04_organizacion_escolar_y_funcionamiento
+    subcategoria: jornada_escolar
+    tags:
+    - jornada-escolar
+    - jornada-continuada
+    - horarios
+    - organizacion-centros
+    - Cantabria
+    path: autonómica/cantabria/04_organizacion_escolar_y_funcionamiento/O65_2014_condiciones_implantacion_jornada_continuada_centros_infantil_primaria.md
   norm-ctb-d30-2022:
     id: norm-ctb-d30-2022
     codigo_sintetizado: D30/2022
@@ -8804,6 +9167,30 @@ normas:
     - alumnos
     - Cantabria
     path: autonómica/cantabria/05_alumnado_y_servicios_escolares/D30_2022_modificacion_admision_alumnos_centros_docentes.md
+  norm-ctb-o-5-2022:
+    id: norm-ctb-o-5-2022
+    codigo_sintetizado: Orden EDU/5/2022
+    titulo: Orden EDU/5/2022, de 22 de febrero, por la que se regula el procedimiento
+      de admisión del alumnado en centros docentes sostenidos con fondos públicos
+      para cursar enseñanzas de segundo ciclo de Educación Infantil, Educación Primaria,
+      Educación Secundaria Obligatoria y Bachillerato en la Comunidad Autónoma de
+      Cantabria
+    jurisdiccion: Cantabria
+    ambito: Autonómico
+    tipo_disposicion: Orden
+    fecha_publicacion: '2022-03-01'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 05_alumnado_y_servicios_escolares
+    subcategoria: admision_alumnado
+    tags:
+    - admision
+    - escolarizacion
+    - matricula
+    - centros-publicos
+    - conciertos-educativos
+    - Cantabria
+    path: autonómica/cantabria/05_alumnado_y_servicios_escolares/O5_2022_procedimiento_admision_alumnado_centros_docentes.md
   norm-ctb-d98-2005:
     id: norm-ctb-d98-2005
     codigo_sintetizado: D98/2005
@@ -22666,24 +23053,52 @@ relaciones_grafo:
   titulo_destino: Ley Orgánica 2/2006, de 3 de mayo, de Educación (LOE-LOMLOE)
   descripcion: Desarrollo y concreción autonómica de las enseñanzas y currículos de
     la etapa
+- origen: norm-ara-o-11-11-2014
+  tipo: desarrolla
+  destino: norm-ara-d45-2024
+  titulo_destino: Estructura y organización de centros del Departamento de Educación
+    de Aragón
+  descripcion: Regulación del régimen horario lectivo y jornada escolar
 - origen: norm-ara-d51-2021
   tipo: desarrolla
   destino: norm-es-lo2-2006
   titulo_destino: Ley Orgánica 2/2006, de 3 de mayo, de Educación (LOE-LOMLOE)
   descripcion: Desarrollo y concreción autonómica de las enseñanzas y currículos de
     la etapa
+- origen: norm-ara-o-214-2022
+  tipo: desarrolla
+  destino: norm-ara-d51-2021
+  titulo_destino: Decreto 51/2021, de 7 de abril, del Gobierno de Aragón, por el que
+    se regula la escolarización del alumnado en centros docentes sostenidos con fondos
+    públicos en las enseñanzas de segundo ciclo de Educación Infantil, Educación Primaria,
+    Educación Especial, Educación Secundaria Obligatoria y Bachillerato
+  descripcion: Concreción anual del baremo y tramitación electrónica de admisión
 - origen: norm-ara-d188-2017
   tipo: desarrolla
   destino: norm-es-lo2-2006
   titulo_destino: Ley Orgánica 2/2006, de 3 de mayo, de Educación (LOE-LOMLOE)
   descripcion: Desarrollo y concreción autonómica de las enseñanzas y currículos de
     la etapa
+- origen: norm-ara-o-1005-2018
+  tipo: desarrolla
+  destino: norm-ara-d188-2017
+  titulo_destino: Decreto 188/2017, de 28 de noviembre, del Gobierno de Aragón, por
+    el que se regula la respuesta educativa inclusiva y la convivencia en las comunidades
+    educativas de la Comunidad Autónoma de Aragón
+  descripcion: Concreción de las medidas generales y específicas de intervención inclusiva
 - origen: norm-ara-d73-2011
   tipo: desarrolla
   destino: norm-es-lo2-2006
   titulo_destino: Ley Orgánica 2/2006, de 3 de mayo, de Educación (LOE-LOMLOE)
   descripcion: Desarrollo y concreción autonómica de las enseñanzas y currículos de
     la etapa
+- origen: norm-ara-o-559-2020
+  tipo: desarrolla
+  destino: norm-ara-d73-2011
+  titulo_destino: Decreto 73/2011, de 22 de marzo, del Gobierno de Aragón, por el
+    que se aprueba la Carta de derechos y deberes de los miembros de la comunidad
+    educativa y las bases de las normas de convivencia en los centros docentes
+  descripcion: Concreción de los modelos documentales y protocolos de mediación escolar
 - origen: norm-ara-d105-2013
   tipo: desarrolla
   destino: norm-es-lo2-2006
@@ -22720,6 +23135,41 @@ relaciones_grafo:
   titulo_destino: Ley Orgánica 2/2006, de 3 de mayo, de Educación (LOE-LOMLOE)
   descripcion: Desarrollo y concreción autonómica de las enseñanzas y currículos de
     la etapa
+- origen: norm-ast-o-12-7-2022
+  tipo: desarrolla
+  destino: norm-ast-d57-2022
+  titulo_destino: Decreto 57/2022, de 5 de agosto, por el que se establece la ordenación
+    y el currículo de la Educación Primaria en el Principado de Asturias
+  descripcion: Concreción de los procesos evaluadores y los documentos oficiales de
+    la etapa
+- origen: norm-ast-o-29-7-2022-bac
+  tipo: desarrolla
+  destino: norm-ast-d60-2022
+  titulo_destino: Decreto 60/2022, de 30 de agosto, por el que se regula la ordenación
+    y se establece el currículo del Bachillerato en el Principado de Asturias
+  descripcion: Concreción de los procesos de evaluación diferenciada por materias
+    y titulación
+- origen: norm-ast-o-29-7-2022-eso
+  tipo: desarrolla
+  destino: norm-ast-d59-2022
+  titulo_destino: Decreto 59/2022, de 30 de agosto, por el que se regula la ordenación
+    y se establece el currículo de la Educación Secundaria Obligatoria en el Principado
+    de Asturias
+  descripcion: Concreción de los procedimientos evaluadores y requisitos de titulación
+    en ESO
+- origen: norm-ast-o-18-6-2009
+  tipo: desarrolla
+  destino: norm-ast-d50-2025
+  titulo_destino: Normativa orgánica y funcional de centros educativos del Principado
+    de Asturias
+  descripcion: Concreción de la organización y funcionamiento de los centros públicos
+    de educación básica
+- origen: norm-ast-o-22-3-2021
+  tipo: desarrolla
+  destino: norm-ast-d50-2025
+  titulo_destino: Decreto de estructura orgánica y competencias de escolarización
+    en el Principado de Asturias
+  descripcion: Aplicación de los criterios de baremación y garantía de plazas escolares
 - origen: norm-ast-d147-2014
   tipo: desarrolla
   destino: norm-es-lo2-2006
@@ -22768,6 +23218,25 @@ relaciones_grafo:
   titulo_destino: Ley Orgánica 2/2006, de 3 de mayo, de Educación (LOE-LOMLOE)
   descripcion: Desarrollo y concreción autonómica de las enseñanzas y currículos de
     la etapa
+- origen: norm-bal-o-12-7-2022
+  tipo: desarrolla
+  destino: norm-bal-d31-2022
+  titulo_destino: Decreto 31/2022, de 1 de agosto, por el que se establece la ordenación
+    y el currículo de la Educación Primaria en las Illes Balears
+  descripcion: Concreción de la evaluación competencial y de los documentos oficiales
+- origen: norm-bal-o-26-10-2022
+  tipo: desarrolla
+  destino: norm-bal-d32-2022
+  titulo_destino: Decreto 32/2022, de 1 de agosto, por el que se establece la ordenación
+    y el currículo de la Educación Secundaria Obligatoria en las Illes Balears
+  descripcion: Concreción de la evaluación integradora y titulación colegiada en ESO
+- origen: norm-bal-o-27-10-2022
+  tipo: desarrolla
+  destino: norm-bal-d33-2022
+  titulo_destino: Decreto 33/2022, de 1 de agosto, por el que se establece la ordenación
+    y el currículo del Bachillerato en las Illes Balears
+  descripcion: Concreción de los procesos evaluadores y condiciones de titulación
+    en Bachillerato
 - origen: norm-bal-d30-2023
   tipo: desarrolla
   destino: norm-es-lo2-2006
@@ -22780,6 +23249,19 @@ relaciones_grafo:
   titulo_destino: Ley Orgánica 2/2006, de 3 de mayo, de Educación (LOE-LOMLOE)
   descripcion: Desarrollo y concreción autonómica de las enseñanzas y currículos de
     la etapa
+- origen: norm-bal-o-14-2-2023
+  tipo: desarrolla
+  destino: norm-bal-d64-2019
+  titulo_destino: Decreto 64/2019, de 2 de agosto, por el que se establece el régimen
+    de admisión de alumnos en los centros docentes sostenidos total o parcialmente
+    con fondos públicos de la Comunidad Autónoma de las Illes Balears
+  descripcion: Concreción de baremo, tramitación telemática y comisiones de escolarización
+- origen: norm-bal-o-22-5-2019
+  tipo: desarrolla
+  destino: norm-bal-l1-2022
+  titulo_destino: Ley 1/2022, de 8 de marzo, de Educación de les Illes Balears
+  descripcion: Principios rectores de equidad e inclusión en el sistema educativo
+    balear
 - origen: norm-can-d-123-2023
   tipo: cita
   destino: norm-can-l-4-2023
@@ -46416,12 +46898,44 @@ relaciones_grafo:
   titulo_destino: Ley Orgánica 2/2006, de 3 de mayo, de Educación (LOE-LOMLOE)
   descripcion: Desarrollo y concreción autonómica de las enseñanzas y currículos de
     la etapa
+- origen: norm-ctb-o-60-2022
+  tipo: desarrolla
+  destino: norm-ctb-d66-2022
+  titulo_destino: Decreto 66/2022, de 7 de julio, por el que se establece el currículo
+    de la Educación Infantil y de la Educación Primaria en la Comunidad Autónoma de
+    Cantabria
+  descripcion: Concreción del marco de evaluación, promoción y documentos oficiales
+    de evaluación
+- origen: norm-ctb-o-65-2022
+  tipo: desarrolla
+  destino: norm-ctb-d73-2022
+  titulo_destino: Decreto 73/2022, de 22 de julio, por el que se establece el currículo
+    de la Educación Secundaria Obligatoria y del Bachillerato en la Comunidad Autónoma
+    de Cantabria
+  descripcion: Concreción de los procesos de evaluación, criterios de promoción y
+    titulación
+- origen: norm-ctb-o-65-2014
+  tipo: desarrolla
+  destino: norm-ctb-d25-2010
+  titulo_destino: Decreto 25/2010, de 31 de marzo, por el que se aprueba el Reglamento
+    Orgánico de los Centros de Educación Infantil y Primaria en la Comunidad Autónoma
+    de Cantabria
+  descripcion: Regulación del régimen de jornada lectiva y aprobación por la comunidad
+    escolar
 - origen: norm-ctb-d30-2022
   tipo: desarrolla
   destino: norm-es-lo2-2006
   titulo_destino: Ley Orgánica 2/2006, de 3 de mayo, de Educación (LOE-LOMLOE)
   descripcion: Desarrollo y concreción autonómica de las enseñanzas y currículos de
     la etapa
+- origen: norm-ctb-o-5-2022
+  tipo: desarrolla
+  destino: norm-ctb-d30-2022
+  titulo_destino: Decreto 30/2022, de 21 de abril, que modifica el Decreto 16/2009,
+    de 12 de marzo, por el que se regula el procedimiento para la admisión de alumnos
+    en los centros docentes sostenidos con fondos públicos en la Comunidad Autónoma
+    de Cantabria
+  descripcion: Desarrollo del procedimiento administrativo y baremo de admisión
 - origen: norm-ctb-d98-2005
   tipo: desarrolla
   destino: norm-es-lo2-2006
