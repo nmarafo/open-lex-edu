@@ -1,5 +1,5 @@
 version: '1.0'
-total_normas: 800
+total_normas: 816
 normas:
   norm-and-d154-2022:
     id: norm-and-d154-2022
@@ -10565,6 +10565,29 @@ normas:
     - LOMLOE
     - Bachillerato
     path: autonómica/la_rioja/03_ordenacion_curricular_y_ensenanzas/D43_2022_curriculo_organizacion_evaluacion_bachillerato.md
+  norm-rio-o-18-2-2011:
+    id: norm-rio-o-18-2-2011
+    codigo_sintetizado: O18_02_2011 Modificacion Jornada Escolar
+    titulo: Orden de 18 de febrero de 2011, de la Consejería de Educación, Cultura
+      y Deporte, por la que se regula el procedimiento para la modificación de la
+      jornada escolar en los centros docentes sostenidos con fondos públicos que imparten
+      segundo ciclo de educación infantil y educación primaria en la Comunidad Autónoma
+      de La Rioja.
+    jurisdiccion: La Rioja
+    ambito: Autonómico
+    tipo_disposicion: Orden
+    fecha_publicacion: '2011-02-25'
+    estado: Vigente
+    redaccion: pdf_oficial_bor
+    categoria_canonica: 04_organizacion_escolar_y_funcionamiento
+    subcategoria: Jornada y Horarios Escolares
+    tags:
+    - la rioja
+    - jornada escolar
+    - educacion infantil
+    - educacion primaria
+    - organizacion
+    path: autonómica/la_rioja/04_organizacion_escolar_y_funcionamiento/O18_2_2011_procedimiento_modificacion_jornada_escolar.md
   norm-rio-d-24-2021:
     id: norm-rio-d-24-2021
     codigo_sintetizado: D24_2021 Procedimiento Admision Alumnado Centros Docentes
@@ -10587,6 +10610,73 @@ normas:
     - criterios de baremacion
     - la rioja
     path: autonómica/la_rioja/05_alumnado_y_servicios_escolares/D24_2021_procedimiento_admision_alumnado_centros_docentes.md
+  norm-rio-o-edc-20-2021:
+    id: norm-rio-o-edc-20-2021
+    codigo_sintetizado: OEDC20_2021 Admision Alumnado
+    titulo: Orden EDC/20/2021, de 22 de abril, de la Consejería de Educación, Cultura,
+      Deporte y Juventud, por la que se regula el procedimiento de admisión del alumnado
+      en los centros docentes sostenidos con fondos públicos de la Comunidad Autónoma
+      de La Rioja.
+    jurisdiccion: La Rioja
+    ambito: Autonómico
+    tipo_disposicion: Orden
+    fecha_publicacion: '2021-04-23'
+    estado: Vigente
+    redaccion: pdf_oficial_bor
+    categoria_canonica: 05_alumnado_y_servicios_escolares
+    subcategoria: Admisión y Escolarización
+    tags:
+    - la rioja
+    - admision
+    - escolarizacion
+    - centros sostenidos con fondos publicos
+    - baremo
+    - lomloe
+    path: autonómica/la_rioja/05_alumnado_y_servicios_escolares/OEDC20_2021_regulacion_procedimiento_admision_alumnado_centros_docentes.md
+  norm-rio-o-ede-75-2025:
+    id: norm-rio-o-ede-75-2025
+    codigo_sintetizado: OEDE75_2025 Plan de Atencion a las Diferencias Individuales
+    titulo: Orden EDE/75/2025, de 27 de noviembre, de la Consejería de Educación y
+      Empleo, por la que se regula el Plan de Atención a las Diferencias Individuales
+      en los centros docentes sostenidos con fondos públicos de la Comunidad Autónoma
+      de La Rioja.
+    jurisdiccion: La Rioja
+    ambito: Autonómico
+    tipo_disposicion: Orden
+    fecha_publicacion: '2025-12-02'
+    estado: Vigente
+    redaccion: pdf_oficial_bor
+    categoria_canonica: 06_atencion_diversidad_y_orientacion
+    subcategoria: Inclusión y Diferencias Individuales
+    tags:
+    - la rioja
+    - atencion a las diferencias individuales
+    - inclusion
+    - neae
+    - padi
+    path: autonómica/la_rioja/06_atencion_diversidad_y_orientacion/OEDE75_2025_regulacion_plan_atencion_diferencias_individuales.md
+  norm-rio-o-edu-53-2018:
+    id: norm-rio-o-edu-53-2018
+    codigo_sintetizado: OEDU53_2018 Evaluacion Psicopedagogica
+    titulo: Orden EDU/53/2018, de 31 de julio, de la Consejería de Educación, Formación
+      y Empleo, por la que se regula la evaluación psicopedagógica en los centros
+      docentes sostenidos con fondos públicos de la Comunidad Autónoma de La Rioja.
+    jurisdiccion: La Rioja
+    ambito: Autonómico
+    tipo_disposicion: Orden
+    fecha_publicacion: '2018-08-08'
+    estado: Vigente
+    redaccion: pdf_oficial_bor
+    categoria_canonica: 06_atencion_diversidad_y_orientacion
+    subcategoria: Evaluación Psicopedagógica
+    tags:
+    - la rioja
+    - evaluacion psicopedagogica
+    - orientacion educativa
+    - informe psicopedagogico
+    - neae
+    - inclusion
+    path: autonómica/la_rioja/06_atencion_diversidad_y_orientacion/OEDU53_2018_regulacion_evaluacion_psicopedagogica_centros_docentes.md
   norm-rio-d-4-2009:
     id: norm-rio-d-4-2009
     codigo_sintetizado: D4_2009 Convivencia Escolar Derechos Deberes Comunidad Educativa
@@ -13716,6 +13806,70 @@ normas:
     - LOMLOE
     - Bachillerato
     path: autonómica/murcia/03_ordenacion_curricular_y_ensenanzas/D251_2022_ordenacion_curriculo_bachillerato.md
+  norm-mur-o-20-11-2014:
+    id: norm-mur-o-20-11-2014
+    codigo_sintetizado: O20_11_2014 Organizacion y Evaluacion Primaria
+    titulo: Orden de 20 de noviembre de 2014, de la Consejería de Educación, Cultura
+      y Universidades, por la que se regula la organización y la evaluación en la
+      Educación Primaria en la Comunidad Autónoma de la Región de Murcia.
+    jurisdiccion: Murcia
+    ambito: Autonómico
+    tipo_disposicion: Orden
+    fecha_publicacion: '2014-11-27'
+    estado: Vigente
+    redaccion: pdf_oficial_borm
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Educación Primaria
+    tags:
+    - murcia
+    - educacion primaria
+    - evaluacion
+    - organizacion
+    - promocion
+    path: autonómica/murcia/03_ordenacion_curricular_y_ensenanzas/O20_11_2014_organizacion_evaluacion_educacion_primaria.md
+  norm-mur-o-5-5-2016:
+    id: norm-mur-o-5-5-2016
+    codigo_sintetizado: O5_05_2016 Evaluacion ESO y Bachillerato
+    titulo: Orden de 5 de mayo de 2016, de la Consejería de Educación y Universidades,
+      por la que se regulan los procesos de evaluación en la Educación Secundaria
+      Obligatoria y en el Bachillerato en la Comunidad Autónoma de la Región de Murcia.
+    jurisdiccion: Murcia
+    ambito: Autonómico
+    tipo_disposicion: Orden
+    fecha_publicacion: '2016-05-10'
+    estado: Vigente
+    redaccion: pdf_oficial_borm
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Evaluación Secundaria y Bachillerato
+    tags:
+    - murcia
+    - eso
+    - bachillerato
+    - evaluacion
+    - promocion
+    - titulacion
+    path: autonómica/murcia/03_ordenacion_curricular_y_ensenanzas/O5_5_2016_regulacion_procesos_evaluacion_secundaria_bachillerato.md
+  norm-mur-o-15-2-2023:
+    id: norm-mur-o-15-2-2023
+    codigo_sintetizado: O15_02_2023 Calendario Horario y Jornada Escolar
+    titulo: Orden de 15 de febrero de 2023 de la Consejería de Educación, Formación
+      Profesional y Empleo, por la que se regula el calendario escolar, horario general
+      y jornada escolar en centros docentes no universitarios de la Región de Murcia.
+    jurisdiccion: Murcia
+    ambito: Autonómico
+    tipo_disposicion: Orden
+    fecha_publicacion: '2023-02-21'
+    estado: Vigente
+    redaccion: pdf_oficial_borm
+    categoria_canonica: 04_organizacion_escolar_y_funcionamiento
+    subcategoria: Calendario y Jornada Escolar
+    tags:
+    - murcia
+    - jornada escolar
+    - calendario escolar
+    - horario escolar
+    - organizacion
+    path: autonómica/murcia/04_organizacion_escolar_y_funcionamiento/O15_2_2023_regulacion_calendario_horario_jornada_escolar.md
   norm-mur-d-359-2009:
     id: norm-mur-d-359-2009
     codigo_sintetizado: D359_2009 Respuesta Educativa Diversidad Alumnado
@@ -13737,6 +13891,28 @@ normas:
     - adaptaciones curriculares
     - murcia
     path: autonómica/murcia/06_atencion_diversidad_y_orientacion/D359_2009_respuesta_educativa_diversidad_alumnado.md
+  norm-mur-o-4-6-2010:
+    id: norm-mur-o-4-6-2010
+    codigo_sintetizado: O4_06_2010 Plan de Atencion a la Diversidad PAD
+    titulo: Orden de 4 de junio de 2010, de la Consejería de Educación, Formación
+      y Empleo, por la que se regula el plan de atención a la diversidad de los centros
+      docentes de la Región de Murcia.
+    jurisdiccion: Murcia
+    ambito: Autonómico
+    tipo_disposicion: Orden
+    fecha_publicacion: '2010-06-17'
+    estado: Vigente
+    redaccion: pdf_oficial_borm
+    categoria_canonica: 06_atencion_diversidad_y_orientacion
+    subcategoria: Atención a la Diversidad
+    tags:
+    - murcia
+    - atencion a la diversidad
+    - pad
+    - neae
+    - inclusion
+    - orientacion educativa
+    path: autonómica/murcia/06_atencion_diversidad_y_orientacion/O4_6_2010_regulacion_plan_atencion_diversidad_centros_docentes.md
   norm-mur-d-16-2016:
     id: norm-mur-d-16-2016
     codigo_sintetizado: D16_2016 Normas Convivencia Centros Docentes
@@ -13931,6 +14107,72 @@ normas:
     - LOMLOE
     - Bachillerato
     path: autonómica/navarra/03_ordenacion_curricular_y_ensenanzas/DF72_2022_curriculo_ensenanzas_bachillerato.md
+  norm-nav-of-45-2023:
+    id: norm-nav-of-45-2023
+    codigo_sintetizado: OF45_2023 Evaluacion Bachillerato
+    titulo: Orden Foral 45/2023, de 10 de mayo, del Consejero de Educación, por la
+      que se regula la evaluación, promoción y titulación del alumnado que cursa las
+      enseñanzas de Bachillerato en la Comunidad Foral de Navarra.
+    jurisdiccion: Navarra
+    ambito: Autonómico
+    tipo_disposicion: Orden Foral
+    fecha_publicacion: '2023-06-02'
+    estado: Vigente
+    redaccion: pdf_oficial_bon
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Bachillerato
+    tags:
+    - navarra
+    - bachillerato
+    - evaluacion
+    - promocion
+    - titulacion
+    - lomloe
+    path: autonómica/navarra/03_ordenacion_curricular_y_ensenanzas/OF45_2023_regulacion_evaluacion_promocion_titulacion_bachillerato.md
+  norm-nav-of-52-2023:
+    id: norm-nav-of-52-2023
+    codigo_sintetizado: OF52_2023 Evaluacion Primaria
+    titulo: Orden Foral 52/2023, de 12 de junio, del Consejero de Educación, por la
+      que se regula la evaluación y promoción del alumnado que cursa las enseñanzas
+      de Educación Primaria en la Comunidad Foral de Navarra.
+    jurisdiccion: Navarra
+    ambito: Autonómico
+    tipo_disposicion: Orden Foral
+    fecha_publicacion: '2023-06-29'
+    estado: Vigente
+    redaccion: pdf_oficial_bon
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Educación Primaria
+    tags:
+    - navarra
+    - educacion primaria
+    - evaluacion
+    - promocion
+    - lomloe
+    path: autonómica/navarra/03_ordenacion_curricular_y_ensenanzas/OF52_2023_regulacion_evaluacion_promocion_educacion_primaria.md
+  norm-nav-of-53-2023:
+    id: norm-nav-of-53-2023
+    codigo_sintetizado: OF53_2023 Evaluacion ESO
+    titulo: Orden Foral 53/2023, de 12 de junio, del Consejero de Educación, por la
+      que se regula la evaluación, promoción y titulación del alumnado que cursa las
+      enseñanzas de Educación Secundaria Obligatoria en la Comunidad Foral de Navarra.
+    jurisdiccion: Navarra
+    ambito: Autonómico
+    tipo_disposicion: Orden Foral
+    fecha_publicacion: '2023-06-29'
+    estado: Vigente
+    redaccion: pdf_oficial_bon
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Educación Secundaria Obligatoria
+    tags:
+    - navarra
+    - educacion secundaria obligatoria
+    - eso
+    - evaluacion
+    - promocion
+    - titulacion
+    - lomloe
+    path: autonómica/navarra/03_ordenacion_curricular_y_ensenanzas/OF53_2023_regulacion_evaluacion_promocion_titulacion_secundaria_obligatoria.md
   norm-nav-df-33-2021:
     id: norm-nav-df-33-2021
     codigo_sintetizado: DF33_2021 Admision Alumnado Centros Docentes
@@ -13952,6 +14194,28 @@ normas:
     - centros concertados
     - navarra
     path: autonómica/navarra/05_alumnado_y_servicios_escolares/DF33_2021_admision_alumnado_centros_docentes.md
+  norm-nav-of-46-2021:
+    id: norm-nav-of-46-2021
+    codigo_sintetizado: OF46_2021 Admision Alumnado
+    titulo: Orden Foral 46/2021, de 4 de mayo, del Consejero de Educación, por la
+      que se desarrolla el proceso de admisión del alumnado en los centros docentes
+      públicos y privados concertados de la Comunidad Foral de Navarra.
+    jurisdiccion: Navarra
+    ambito: Autonómico
+    tipo_disposicion: Orden Foral
+    fecha_publicacion: '2021-05-12'
+    estado: Vigente
+    redaccion: pdf_oficial_bon
+    categoria_canonica: 05_alumnado_y_servicios_escolares
+    subcategoria: Admisión y Escolarización
+    tags:
+    - navarra
+    - admision
+    - escolarizacion
+    - centros publicos y concertados
+    - baremo
+    - lomloe
+    path: autonómica/navarra/05_alumnado_y_servicios_escolares/OF46_2021_desarrollo_proceso_admision_alumnado_centros_docentes.md
   norm-nav-df-47-2010:
     id: norm-nav-df-47-2010
     codigo_sintetizado: DF47_2010 Derechos Deberes Alumnado Convivencia Centros
@@ -14261,6 +14525,52 @@ normas:
     - LOMLOE
     - Bachillerato
     path: autonómica/valencia/03_ordenacion_curricular_y_ensenanzas/D108_2022_ordenacion_curriculo_bachillerato.md
+  norm-val-o-9-2022:
+    id: norm-val-o-9-2022
+    codigo_sintetizado: O9_2022 Modificacion Jornada Escolar
+    titulo: Orden 9/2022, de 25 de febrero, de la Conselleria de Educación, Cultura
+      y Deporte, por la que se regulan las condiciones y el procedimiento de solicitud
+      y de autorización de modificación de la jornada escolar en centros docentes
+      sostenidos con fondos públicos de segundo ciclo de Educación Infantil y de Educación
+      Primaria del sistema educativo valenciano.
+    jurisdiccion: Valencia
+    ambito: Autonómico
+    tipo_disposicion: Orden
+    fecha_publicacion: '2022-02-28'
+    estado: Vigente
+    redaccion: pdf_oficial_dogv
+    categoria_canonica: 04_organizacion_escolar_y_funcionamiento
+    subcategoria: Jornada y Horarios Escolares
+    tags:
+    - comunitat valenciana
+    - jornada escolar
+    - educacion infantil
+    - educacion primaria
+    - organizacion escolar
+    path: autonómica/valencia/04_organizacion_escolar_y_funcionamiento/O9_2022_regulacion_procedimiento_modificacion_jornada_escolar.md
+  norm-val-o-8-2024:
+    id: norm-val-o-8-2024
+    codigo_sintetizado: O8_2024 Admision Alumnado
+    titulo: Orden 8/2024, de 24 de abril, de la Conselleria de Educación, Universidades
+      y Empleo, por la que se regula el procedimiento de admisión a los centros docentes
+      sostenidos con fondos públicos que imparten enseñanzas de Educación Infantil,
+      Educación Primaria, Educación Secundaria Obligatoria y Bachillerato.
+    jurisdiccion: Valencia
+    ambito: Autonómico
+    tipo_disposicion: Orden
+    fecha_publicacion: '2024-04-25'
+    estado: Vigente
+    redaccion: pdf_oficial_dogv
+    categoria_canonica: 05_alumnado_y_servicios_escolares
+    subcategoria: Admisión y Escolarización
+    tags:
+    - comunitat valenciana
+    - admision
+    - escolarizacion
+    - centros sostenidos con fondos publicos
+    - baremo
+    - lomloe
+    path: autonómica/valencia/05_alumnado_y_servicios_escolares/O8_2024_regulacion_procedimiento_admision_alumnado_centros_docentes.md
   norm-val-d-104-2018:
     id: norm-val-d-104-2018
     codigo_sintetizado: D104_2018 Principios Equidad Inclusion Sistema Educativo
@@ -14300,6 +14610,52 @@ normas:
     - equipos de orientacion
     - valencia
     path: autonómica/valencia/06_atencion_diversidad_y_orientacion/D72_2021_organizacion_orientacion_educativa_profesional.md
+  norm-val-o-10-2023:
+    id: norm-val-o-10-2023
+    codigo_sintetizado: O10_2023 Orientacion Educativa Profesional
+    titulo: Orden 10/2023, de 22 de mayo, de la Conselleria de Educación, Cultura
+      y Deporte, por la que se regulan y concretan determinados aspectos de la organización
+      y el funcionamiento de la orientación educativa y profesional en el sistema
+      educativo valenciano.
+    jurisdiccion: Valencia
+    ambito: Autonómico
+    tipo_disposicion: Orden
+    fecha_publicacion: '2023-05-25'
+    estado: Vigente
+    redaccion: pdf_oficial_dogv
+    categoria_canonica: 06_atencion_diversidad_y_orientacion
+    subcategoria: Orientación Educativa y Profesional
+    tags:
+    - comunitat valenciana
+    - orientacion educativa
+    - orientacion profesional
+    - ueo
+    - unidades especializadas de orientacion
+    - inclusion
+    path: autonómica/valencia/06_atencion_diversidad_y_orientacion/O10_2023_organizacion_funcionamiento_orientacion_educativa_profesional.md
+  norm-val-o-20-2019:
+    id: norm-val-o-20-2019
+    codigo_sintetizado: O20_2019 Inclusion Educativa Alumnado
+    titulo: Orden 20/2019, de 30 de abril, de la Conselleria de Educación, Investigación,
+      Cultura y Deporte, por la cual se regula la organización de la respuesta educativa
+      para la inclusión del alumnado en los centros docentes sostenidos con fondos
+      públicos del sistema educativo valenciano.
+    jurisdiccion: Valencia
+    ambito: Autonómico
+    tipo_disposicion: Orden
+    fecha_publicacion: '2019-05-03'
+    estado: Vigente
+    redaccion: pdf_oficial_dogv
+    categoria_canonica: 06_atencion_diversidad_y_orientacion
+    subcategoria: Inclusión y Equidad Educativa
+    tags:
+    - comunitat valenciana
+    - inclusion educativa
+    - diversidad
+    - neae
+    - plan de actuacion personalizado
+    - evaluacion sociopsicopedagogica
+    path: autonómica/valencia/06_atencion_diversidad_y_orientacion/O20_2019_organizacion_respuesta_educativa_inclusion_alumnado.md
   norm-es-ce-1978:
     id: norm-es-ce-1978
     codigo_sintetizado: CE_1978 Constitucion Espanola
@@ -47634,12 +47990,27 @@ relaciones_grafo:
   titulo_destino: Ley Orgánica 2/2006, de 3 de mayo, de Educación (LOE-LOMLOE)
   descripcion: Desarrollo y concreción autonómica de las enseñanzas y currículos de
     la etapa
+- origen: norm-rio-o-18-2-2011
+  tipo: desarrolla
+  destino: norm-es-lo-2-2006
 - origen: norm-rio-d-24-2021
   tipo: desarrolla
   destino: norm-es-lo-2-2006
 - origen: norm-rio-d-24-2021
   tipo: fundamentado_en
   destino: norm-es-constitucion-1978
+- origen: norm-rio-o-edc-20-2021
+  tipo: desarrolla
+  destino: norm-rio-d-24-2021
+- origen: norm-rio-o-edc-20-2021
+  tipo: desarrolla
+  destino: norm-es-lo-2-2006
+- origen: norm-rio-o-ede-75-2025
+  tipo: desarrolla
+  destino: norm-es-lo-2-2006
+- origen: norm-rio-o-edu-53-2018
+  tipo: desarrolla
+  destino: norm-es-lo-2-2006
 - origen: norm-rio-d-4-2009
   tipo: desarrolla
   destino: norm-es-lo-2-2006
@@ -52346,6 +52717,18 @@ relaciones_grafo:
   titulo_destino: Ley Orgánica 2/2006, de 3 de mayo, de Educación (LOE-LOMLOE)
   descripcion: Desarrollo y concreción autonómica de las enseñanzas y currículos de
     la etapa
+- origen: norm-mur-o-20-11-2014
+  tipo: desarrolla
+  destino: norm-mur-d-209-2022
+- origen: norm-mur-o-5-5-2016
+  tipo: desarrolla
+  destino: norm-mur-d-235-2022
+- origen: norm-mur-o-5-5-2016
+  tipo: desarrolla
+  destino: norm-mur-d-251-2022
+- origen: norm-mur-o-15-2-2023
+  tipo: desarrolla
+  destino: norm-es-lo-2-2006
 - origen: norm-mur-d-359-2009
   tipo: desarrolla
   destino: norm-es-lo-2-2006
@@ -52403,12 +52786,33 @@ relaciones_grafo:
   titulo_destino: Ley Orgánica 2/2006, de 3 de mayo, de Educación (LOE-LOMLOE)
   descripcion: Desarrollo y concreción autonómica de las enseñanzas y currículos de
     la etapa
+- origen: norm-nav-of-45-2023
+  tipo: desarrolla
+  destino: norm-nav-df-72-2022
+- origen: norm-nav-of-45-2023
+  tipo: desarrolla
+  destino: norm-es-rd-243-2022
+- origen: norm-nav-of-52-2023
+  tipo: desarrolla
+  destino: norm-nav-df-67-2022
+- origen: norm-nav-of-52-2023
+  tipo: desarrolla
+  destino: norm-es-rd-157-2022
+- origen: norm-nav-of-53-2023
+  tipo: desarrolla
+  destino: norm-nav-df-71-2022
+- origen: norm-nav-of-53-2023
+  tipo: desarrolla
+  destino: norm-es-rd-217-2022
 - origen: norm-nav-df-33-2021
   tipo: desarrolla
   destino: norm-es-lo-2-2006
 - origen: norm-nav-df-33-2021
   tipo: fundamentado_en
   destino: norm-es-constitucion-1978
+- origen: norm-nav-of-46-2021
+  tipo: desarrolla
+  destino: norm-es-lo-2-2006
 - origen: norm-nav-df-47-2010
   tipo: desarrolla
   destino: norm-es-lo-2-2006
@@ -52472,6 +52876,9 @@ relaciones_grafo:
   titulo_destino: Ley Orgánica 2/2006, de 3 de mayo, de Educación (LOE-LOMLOE)
   descripcion: Desarrollo y concreción autonómica de las enseñanzas y currículos de
     la etapa
+- origen: norm-val-o-8-2024
+  tipo: desarrolla
+  destino: norm-es-lo-2-2006
 - origen: norm-val-d-104-2018
   tipo: desarrolla
   destino: norm-es-lo-2-2006

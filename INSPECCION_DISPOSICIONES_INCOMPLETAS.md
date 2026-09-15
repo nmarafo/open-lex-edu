@@ -1,8 +1,8 @@
 # 📋 Informe de Inspección e Índice de Disposiciones Incompletas
 
-**Fecha de Auditoría**: `2026-09-15 21:06:44`  
-**Total de Normas Auditadas**: `800`  
-**Normas Íntegras y Conformes**: `800`  
+**Fecha de Auditoría**: `2026-09-15 21:16:58`  
+**Total de Normas Auditadas**: `816`  
+**Normas Íntegras y Conformes**: `816`  
 **Normas Incompletas o Defectuosas**: `0`  
 
 ## 📊 Resumen por Comunidad Autónoma y Ámbito
@@ -22,11 +22,11 @@
 | **Cataluña** | 8 | 8 | 0 | **100.0%** |
 | **Extremadura** | 13 | 13 | 0 | **100.0%** |
 | **Galicia** | 13 | 13 | 0 | **100.0%** |
-| **La Rioja** | 9 | 9 | 0 | **100.0%** |
-| **Murcia** | 9 | 9 | 0 | **100.0%** |
-| **Navarra** | 9 | 9 | 0 | **100.0%** |
+| **La Rioja** | 13 | 13 | 0 | **100.0%** |
+| **Murcia** | 13 | 13 | 0 | **100.0%** |
+| **Navarra** | 13 | 13 | 0 | **100.0%** |
 | **País Vasco** | 8 | 8 | 0 | **100.0%** |
-| **Valencia** | 9 | 9 | 0 | **100.0%** |
+| **Valencia** | 13 | 13 | 0 | **100.0%** |
 
 ---
 
