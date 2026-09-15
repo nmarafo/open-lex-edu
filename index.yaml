@@ -1,5 +1,5 @@
 version: '1.0'
-total_normas: 816
+total_normas: 832
 normas:
   norm-and-d154-2022:
     id: norm-and-d154-2022
@@ -9124,6 +9124,50 @@ normas:
     - titulacion
     - Cantabria
     path: autonómica/cantabria/03_ordenacion_curricular_y_ensenanzas/O65_2022_instrucciones_evaluacion_secundaria_obligatoria_bachillerato.md
+  norm-ctb-o-68-2022:
+    id: norm-ctb-o-68-2022
+    codigo_sintetizado: O68_2022 Implantacion Evaluacion Bachillerato
+    titulo: Orden EDU/68/2022, de 23 de diciembre, por la que se dictan instrucciones
+      para la implantación y evaluación en Bachillerato en la Comunidad Autónoma de
+      Cantabria.
+    jurisdiccion: Cantabria
+    ambito: Autonómico
+    tipo_disposicion: Orden
+    fecha_publicacion: '2022-12-30'
+    estado: Vigente
+    redaccion: pdf_oficial_boc
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Bachillerato
+    tags:
+    - cantabria
+    - bachillerato
+    - implantacion
+    - evaluacion
+    - promocion
+    - titulacion
+    - lomloe
+    path: autonómica/cantabria/03_ordenacion_curricular_y_ensenanzas/O68_2022_instrucciones_implantacion_evaluacion_bachillerato.md
+  norm-ctb-o-19-2021:
+    id: norm-ctb-o-19-2021
+    codigo_sintetizado: O19_2021 Horarios Calendario Centros Publicos
+    titulo: Orden EDU/19/2021, de 21 de mayo, por la que se regulan los horarios,
+      calendario y aspectos organizativos generales de los centros públicos de la
+      Comunidad Autónoma de Cantabria.
+    jurisdiccion: Cantabria
+    ambito: Autonómico
+    tipo_disposicion: Orden
+    fecha_publicacion: '2021-06-02'
+    estado: Vigente
+    redaccion: pdf_oficial_boc
+    categoria_canonica: 04_organizacion_escolar_y_funcionamiento
+    subcategoria: Jornada y Horarios Escolares
+    tags:
+    - cantabria
+    - organizacion escolar
+    - horarios
+    - calendario escolar
+    - centros publicos
+    path: autonómica/cantabria/04_organizacion_escolar_y_funcionamiento/O19_2021_horarios_calendario_organizacion_centros_publicos.md
   norm-ctb-o-65-2014:
     id: norm-ctb-o-65-2014
     codigo_sintetizado: Orden ECD/65/2014
@@ -9210,6 +9254,29 @@ normas:
     - inclusión
     - Cantabria
     path: autonómica/cantabria/06_atencion_diversidad_y_orientacion/D98_2005_ordenacion_atencion_diversidad_educacion_especial.md
+  norm-ctb-o-21-2019:
+    id: norm-ctb-o-21-2019
+    codigo_sintetizado: O21_2019 Respuesta Educativa Diversidad Inclusion
+    titulo: Orden EDU/21/2019, de 15 de marzo, por la que se regula la organización
+      de la respuesta educativa a la diversidad del alumnado en los centros docentes
+      de la Comunidad Autónoma de Cantabria.
+    jurisdiccion: Cantabria
+    ambito: Autonómico
+    tipo_disposicion: Orden
+    fecha_publicacion: '2019-03-27'
+    estado: Vigente
+    redaccion: pdf_oficial_boc
+    categoria_canonica: 06_atencion_diversidad_y_orientacion
+    subcategoria: Atención a la Diversidad e Inclusión
+    tags:
+    - cantabria
+    - diversidad
+    - inclusion educativa
+    - neae
+    - nee
+    - adaptacion curricular
+    - orientacion
+    path: autonómica/cantabria/06_atencion_diversidad_y_orientacion/O21_2019_organizacion_respuesta_educativa_diversidad_inclusion.md
   norm-ctb-d53-2009:
     id: norm-ctb-d53-2009
     codigo_sintetizado: D53/2009
@@ -9229,6 +9296,28 @@ normas:
     - comunidad educativa
     - Cantabria
     path: autonómica/cantabria/07_convivencia_bienestar_y_protocolos/D53_2009_convivencia_escolar_derechos_deberes.md
+  norm-ctb-o-61-2022:
+    id: norm-ctb-o-61-2022
+    codigo_sintetizado: O61_2022 Convivencia Escolar Bienestar Infantil
+    titulo: Orden EDU/61/2022, de 23 de noviembre, por la que se regula el marco de
+      convivencia escolar y los protocolos de bienestar infantil en centros docentes
+      de la Comunidad Autónoma de Cantabria.
+    jurisdiccion: Cantabria
+    ambito: Autonómico
+    tipo_disposicion: Orden
+    fecha_publicacion: '2022-12-05'
+    estado: Vigente
+    redaccion: pdf_oficial_boc
+    categoria_canonica: 07_convivencia_bienestar_y_protocolos
+    subcategoria: Convivencia y Bienestar Escolar
+    tags:
+    - cantabria
+    - convivencia
+    - bienestar infantil
+    - lopivi
+    - protocolos acoso
+    - prevencion
+    path: autonómica/cantabria/07_convivencia_bienestar_y_protocolos/O61_2022_convivencia_escolar_protocolos_bienestar_infantil.md
   norm-clm-l-7-2010:
     id: norm-clm-l-7-2010
     codigo_sintetizado: L7_2010 Ley de Educacion de Castilla-La Mancha
@@ -9865,6 +9954,91 @@ normas:
     - LOMLOE
     - Educación Infantil
     path: autonómica/cataluña/03_ordenacion_curricular_y_ensenanzas/D21_2023_ordenacion_ensenanzas_educacion_infantil.md
+  norm-cat-o-108-2018:
+    id: norm-cat-o-108-2018
+    codigo_sintetizado: O108_2018 Avaluacio Secundaria Obligatoria
+    titulo: Ordre ENS/108/2018, de 4 de juliol, per la qual es determinen el procediment,
+      els documents i els requisits formals del procés d'avaluació a l'educació secundària
+      obligatòria.
+    jurisdiccion: Cataluña
+    ambito: Autonómico
+    tipo_disposicion: Orden
+    fecha_publicacion: '2018-07-11'
+    estado: Vigente
+    redaccion: pdf_oficial_dogc
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Educación Secundaria Obligatoria
+    tags:
+    - cataluña
+    - eso
+    - educacio secundaria obligatoria
+    - avaluacio
+    - titulacio
+    - lomloe
+    path: autonómica/cataluña/03_ordenacion_curricular_y_ensenanzas/O108_2018_procediment_documents_avaluacio_secundaria_obligatoria.md
+  norm-cat-o-164-2016:
+    id: norm-cat-o-164-2016
+    codigo_sintetizado: O164_2016 Avaluacio Educacio Primaria
+    titulo: Ordre ENS/164/2016, de 14 de juny, per la qual es determinen el procediment
+      i els documents i requisits formals del procés d'avaluació en l'educació primària.
+    jurisdiccion: Cataluña
+    ambito: Autonómico
+    tipo_disposicion: Orden
+    fecha_publicacion: '2016-06-22'
+    estado: Vigente
+    redaccion: pdf_oficial_dogc
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Educación Primaria
+    tags:
+    - cataluña
+    - educacio primaria
+    - avaluacio
+    - documents oficials
+    - qualificacions
+    - lomloe
+    path: autonómica/cataluña/03_ordenacion_curricular_y_ensenanzas/O164_2016_procediment_documents_avaluacio_educacio_primaria.md
+  norm-cat-o-217-2017:
+    id: norm-cat-o-217-2017
+    codigo_sintetizado: O217_2017 Avaluacio Batxillerat
+    titulo: Ordre ENS/217/2017, de 22 de setembre, per la qual es determinen el procediment,
+      els documents i els requisits formals del procés d'avaluació al batxillerat.
+    jurisdiccion: Cataluña
+    ambito: Autonómico
+    tipo_disposicion: Orden
+    fecha_publicacion: '2017-09-29'
+    estado: Vigente
+    redaccion: pdf_oficial_dogc
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Bachillerato
+    tags:
+    - cataluña
+    - batxillerat
+    - avaluacio
+    - qualificacions
+    - titulacio
+    - lomloe
+    path: autonómica/cataluña/03_ordenacion_curricular_y_ensenanzas/O217_2017_procediment_documents_avaluacio_batxillerat.md
+  norm-cat-o-113-2022:
+    id: norm-cat-o-113-2022
+    codigo_sintetizado: O113_2022 Calendari i Jornada Escolar
+    titulo: Ordre EDU/113/2022, de 3 de maig, per la qual s'estableix el calendari
+      escolar del curs per als centres educatius no universitaris de Catalunya i es
+      fixen les condicions de l'horari escolar i jornada continuada.
+    jurisdiccion: Cataluña
+    ambito: Autonómico
+    tipo_disposicion: Orden
+    fecha_publicacion: '2022-05-19'
+    estado: Vigente
+    redaccion: pdf_oficial_dogc
+    categoria_canonica: 04_organizacion_escolar_y_funcionamiento
+    subcategoria: Calendario y Horario Escolar
+    tags:
+    - cataluña
+    - calendari escolar
+    - jornada escolar
+    - horari lectiu
+    - centres no universitaris
+    path: autonómica/cataluña/04_organizacion_escolar_y_funcionamiento/O113_2022_calendari_escolar_horari_jornada_centres_educatius.md
   norm-cat-d11-2021:
     id: norm-cat-d11-2021
     codigo_sintetizado: D 11/2021
@@ -9904,6 +10078,48 @@ normas:
     - alumnado con necesidades específicas
     - orientación educativa
     path: autonómica/cataluña/06_atencion_diversidad_y_orientacion/D150_2017_atencion_educativa_alumnado_sistema_inclusivo.md
+  norm-cat-o-274-2012:
+    id: norm-cat-o-274-2012
+    codigo_sintetizado: O274_2012 Atencio Educativa Alumnat NESE
+    titulo: Ordre ENS/274/2012, de 31 d'agost, de modificació de l'Ordre ENS/154/2011,
+      sobre l'atenció educativa a l'alumnat amb necessitats específiques de suport
+      educatiu i organització dels serveis educatius de suport a la inclusió.
+    jurisdiccion: Cataluña
+    ambito: Autonómico
+    tipo_disposicion: Orden
+    fecha_publicacion: '2012-09-14'
+    estado: Vigente
+    redaccion: pdf_oficial_dogc
+    categoria_canonica: 06_atencion_diversidad_y_orientacion
+    subcategoria: Atención a la Diversidad e Inclusión
+    tags:
+    - cataluña
+    - nese
+    - necessitats especifiques
+    - inclusio
+    - escola inclusiva
+    - suports
+    path: autonómica/cataluña/06_atencion_diversidad_y_orientacion/O274_2012_atencio_educativa_alumnat_necessitats_especifiques_suport.md
+  norm-cat-o-8-2023:
+    id: norm-cat-o-8-2023
+    codigo_sintetizado: O8_2023 Carta Compromis Convivencia Escolar
+    titulo: Ordre EDU/8/2023, de 20 de gener, per la qual es regula la carta de compromís
+      educatiu i les directrius per a la convivència als centres educatius de Catalunya.
+    jurisdiccion: Cataluña
+    ambito: Autonómico
+    tipo_disposicion: Orden
+    fecha_publicacion: '2023-01-27'
+    estado: Vigente
+    redaccion: pdf_oficial_dogc
+    categoria_canonica: 07_convivencia_bienestar_y_protocolos
+    subcategoria: Convivencia Escolar
+    tags:
+    - cataluña
+    - convivencia
+    - carta compromis educatiu
+    - drets i deures
+    - resolucio de conflictes
+    path: autonómica/cataluña/07_convivencia_bienestar_y_protocolos/O8_2023_carta_compromis_educatiu_convivencia_escolar.md
   norm-ext-d-237-2023:
     id: norm-ext-d-237-2023
     codigo_sintetizado: D237_2023 Estructura Organica Consejeria Educacion
@@ -14348,6 +14564,75 @@ normas:
     - LOMLOE
     - Educación Básica
     path: autonómica/país_vasco/03_ordenacion_curricular_y_ensenanzas/D77_2023_establecimiento_curriculo_educacion_basica.md
+  norm-pva-o-22-1-2024:
+    id: norm-pva-o-22-1-2024
+    codigo_sintetizado: O22_01_2024 Evaluacion Infantil Basica Bachillerato
+    titulo: Orden de 22 de enero de 2024, del Consejero de Educación, por la que se
+      regula la evaluación en Educación Infantil y la evaluación, la promoción y la
+      titulación, en su caso, en Educación Básica y en Bachillerato.
+    jurisdiccion: País Vasco
+    ambito: Autonómico
+    tipo_disposicion: Orden
+    fecha_publicacion: '2024-01-31'
+    estado: Vigente
+    redaccion: pdf_oficial_bopv
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Evaluación del Aprendizaje
+    tags:
+    - pais vasco
+    - euskadi
+    - evaluacion
+    - infantil
+    - educacion basica
+    - bachillerato
+    - promocion
+    - titulacion
+    - lomloe
+    path: autonómica/país_vasco/03_ordenacion_curricular_y_ensenanzas/O22_1_2024_regulacion_evaluacion_infantil_basica_bachillerato.md
+  norm-pva-o-23-7-2008:
+    id: norm-pva-o-23-7-2008
+    codigo_sintetizado: O23_07_2008 Jornada y Horario Infantil y Primaria
+    titulo: Orden de 23 de julio de 2008, del Consejero de Educación, Universidades
+      e Investigación, por la que se regula la jornada y el horario escolar en los
+      centros docentes públicos de Educación Infantil y Primaria de la Comunidad Autónoma
+      del País Vasco.
+    jurisdiccion: País Vasco
+    ambito: Autonómico
+    tipo_disposicion: Orden
+    fecha_publicacion: '2008-08-12'
+    estado: Vigente
+    redaccion: pdf_oficial_bopv
+    categoria_canonica: 04_organizacion_escolar_y_funcionamiento
+    subcategoria: Jornada y Horarios Escolares
+    tags:
+    - pais vasco
+    - jornada escolar
+    - horario escolar
+    - centros publicos
+    - educacion infantil
+    - educacion primaria
+    path: autonómica/país_vasco/04_organizacion_escolar_y_funcionamiento/O23_7_2008_jornada_horario_escolar_centros_infantil_primaria.md
+  norm-pva-o-31-5-2024:
+    id: norm-pva-o-31-5-2024
+    codigo_sintetizado: O31_05_2024 Calendario Escolar Centros No Universitarios
+    titulo: Orden de 31 de mayo de 2024, de la Consejera de Educación, por la que
+      se aprueba el calendario escolar para los centros docentes no universitarios
+      de la Comunidad Autónoma del País Vasco.
+    jurisdiccion: País Vasco
+    ambito: Autonómico
+    tipo_disposicion: Orden
+    fecha_publicacion: '2024-06-11'
+    estado: Vigente
+    redaccion: pdf_oficial_bopv
+    categoria_canonica: 04_organizacion_escolar_y_funcionamiento
+    subcategoria: Calendario Escolar
+    tags:
+    - pais vasco
+    - euskadi
+    - calendario escolar
+    - dias lectivos
+    - centros no universitarios
+    path: autonómica/país_vasco/04_organizacion_escolar_y_funcionamiento/O31_5_2024_aprobacion_calendario_escolar_centros_no_universitarios.md
   norm-pva-d1-2018:
     id: norm-pva-d1-2018
     codigo_sintetizado: D 1/2018
@@ -14368,6 +14653,53 @@ normas:
     - centros públicos y concertados
     - país vasco
     path: autonómica/país_vasco/05_alumnado_y_servicios_escolares/D1_2018_admision_escolarizacion_alumnado_centros_docentes.md
+  norm-pva-o-17-1-2023:
+    id: norm-pva-o-17-1-2023
+    codigo_sintetizado: O17_01_2023 Admision Alumnado Centros Docentes
+    titulo: Orden de 17 de enero de 2023, del Consejero de Educación, por la que se
+      convoca el procedimiento de admisión y se determinan los criterios de baremación
+      y calendario de escolarización en centros públicos y concertados de la Comunidad
+      Autónoma del País Vasco.
+    jurisdiccion: País Vasco
+    ambito: Autonómico
+    tipo_disposicion: Orden
+    fecha_publicacion: '2023-01-20'
+    estado: Vigente
+    redaccion: pdf_oficial_bopv
+    categoria_canonica: 05_alumnado_y_servicios_escolares
+    subcategoria: Admisión y Escolarización
+    tags:
+    - pais vasco
+    - admision
+    - escolarizacion
+    - baremacion
+    - centros publicos
+    - centros concertados
+    - lomloe
+    path: autonómica/país_vasco/05_alumnado_y_servicios_escolares/O17_1_2023_procedimiento_admision_alumnado_centros_docentes.md
+  norm-pva-o-24-7-1998:
+    id: norm-pva-o-24-7-1998
+    codigo_sintetizado: O24_07_1998 Planes Atencion Diversidad
+    titulo: Orden de 24 de julio de 1998, del Consejero de Educación, Universidades
+      e Investigación, por la que se regulan los planes de atención a la diversidad
+      y la respuesta a las necesidades educativas especiales en centros docentes del
+      País Vasco.
+    jurisdiccion: País Vasco
+    ambito: Autonómico
+    tipo_disposicion: Orden
+    fecha_publicacion: '1998-09-01'
+    estado: Vigente
+    redaccion: pdf_oficial_bopv
+    categoria_canonica: 06_atencion_diversidad_y_orientacion
+    subcategoria: Atención a la Diversidad e Inclusión
+    tags:
+    - pais vasco
+    - euskadi
+    - diversidad
+    - necesidades educativas especiales
+    - nee
+    - inclusion
+    path: autonómica/país_vasco/06_atencion_diversidad_y_orientacion/O24_7_1998_planes_atencion_diversidad_necesidades_educativas_especiales.md
   norm-pva-d201-2008:
     id: norm-pva-d201-2008
     codigo_sintetizado: D 201/2008
@@ -14388,6 +14720,28 @@ normas:
     - disciplina escolar
     - país vasco
     path: autonómica/país_vasco/07_convivencia_bienestar_y_protocolos/D201_2008_derechos_deberes_alumnado_convivencia_centros.md
+  norm-pva-o-4-7-2018:
+    id: norm-pva-o-4-7-2018
+    codigo_sintetizado: O04_07_2018 Gestion Listas Sustituciones Docentes
+    titulo: Orden de 4 de julio de 2018, de la Consejera de Educación, por la que
+      se regula la gestión de las listas de candidatos y candidatas a la cobertura
+      de necesidades temporales de personal docente no universitario de la Comunidad
+      Autónoma del País Vasco.
+    jurisdiccion: País Vasco
+    ambito: Autonómico
+    tipo_disposicion: Orden
+    fecha_publicacion: '2018-07-20'
+    estado: Vigente
+    redaccion: pdf_oficial_bopv
+    categoria_canonica: 08_personal_docente
+    subcategoria: Selección y Provisión de Plazas
+    tags:
+    - pais vasco
+    - profesorado
+    - interinidades
+    - listas de sustitucion
+    - personal docente
+    path: autonómica/país_vasco/08_personal_docente/O4_7_2018_gestion_listas_candidatos_sustituciones_docentes.md
   norm-val-l-1-2024:
     id: norm-val-l-1-2024
     codigo_sintetizado: L1_2024 Libertad Educativa
@@ -47632,6 +47986,18 @@ relaciones_grafo:
     de Cantabria
   descripcion: Concreción de los procesos de evaluación, criterios de promoción y
     titulación
+- origen: norm-ctb-o-68-2022
+  tipo: desarrolla
+  destino: norm-ctb-d-73-2022
+- origen: norm-ctb-o-68-2022
+  tipo: desarrolla
+  destino: norm-es-rd-243-2022
+- origen: norm-ctb-o-19-2021
+  tipo: desarrolla
+  destino: norm-ctb-d-25-2010
+- origen: norm-ctb-o-19-2021
+  tipo: desarrolla
+  destino: norm-ctb-d-24-2010
 - origen: norm-ctb-o-65-2014
   tipo: desarrolla
   destino: norm-ctb-d25-2010
@@ -47660,12 +48026,21 @@ relaciones_grafo:
   titulo_destino: Ley Orgánica 2/2006, de 3 de mayo, de Educación (LOE-LOMLOE)
   descripcion: Desarrollo y concreción autonómica de las enseñanzas y currículos de
     la etapa
+- origen: norm-ctb-o-21-2019
+  tipo: desarrolla
+  destino: norm-ctb-d-98-2005
 - origen: norm-ctb-d53-2009
   tipo: desarrolla
   destino: norm-es-lo2-2006
   titulo_destino: Ley Orgánica 2/2006, de 3 de mayo, de Educación (LOE-LOMLOE)
   descripcion: Desarrollo y concreción autonómica de las enseñanzas y currículos de
     la etapa
+- origen: norm-ctb-o-61-2022
+  tipo: desarrolla
+  destino: norm-ctb-d-53-2009
+- origen: norm-ctb-o-61-2022
+  tipo: fundamentado_en
+  destino: norm-es-lo-8-2021
 - origen: norm-clm-l-7-2010
   tipo: desarrolla
   destino: norm-es-lo-2-2006
@@ -47816,6 +48191,36 @@ relaciones_grafo:
   titulo_destino: Ley Orgánica 2/2006, de 3 de mayo, de Educación (LOE-LOMLOE)
   descripcion: Desarrollo y concreción autonómica de las enseñanzas y currículos de
     la etapa
+- origen: norm-cat-o-108-2018
+  tipo: desarrolla
+  destino: norm-cat-d-175-2022
+- origen: norm-cat-o-108-2018
+  tipo: desarrolla
+  destino: norm-es-rd-217-2022
+- origen: norm-cat-o-164-2016
+  tipo: desarrolla
+  destino: norm-cat-d-175-2022
+- origen: norm-cat-o-164-2016
+  tipo: desarrolla
+  destino: norm-es-rd-157-2022
+- origen: norm-cat-o-217-2017
+  tipo: desarrolla
+  destino: norm-cat-d-171-2022
+- origen: norm-cat-o-217-2017
+  tipo: desarrolla
+  destino: norm-es-rd-243-2022
+- origen: norm-cat-o-113-2022
+  tipo: fundamentado_en
+  destino: norm-cat-l-12-2009
+- origen: norm-cat-o-113-2022
+  tipo: desarrolla
+  destino: norm-cat-d-102-2010
+- origen: norm-cat-o-274-2012
+  tipo: desarrolla
+  destino: norm-cat-d-150-2017
+- origen: norm-cat-o-8-2023
+  tipo: fundamentado_en
+  destino: norm-cat-l-12-2009
 - origen: norm-ext-d-237-2023
   tipo: fundamentado_en
   destino: norm-ext-l-4-2011
@@ -52837,6 +53242,33 @@ relaciones_grafo:
   titulo_destino: Ley Orgánica 2/2006, de 3 de mayo, de Educación (LOE-LOMLOE)
   descripcion: Desarrollo y concreción autonómica de las enseñanzas y currículos de
     la etapa
+- origen: norm-pva-o-22-1-2024
+  tipo: desarrolla
+  destino: norm-pva-d-75-2023
+- origen: norm-pva-o-22-1-2024
+  tipo: desarrolla
+  destino: norm-pva-d-77-2023
+- origen: norm-pva-o-22-1-2024
+  tipo: desarrolla
+  destino: norm-pva-d-76-2023
+- origen: norm-pva-o-23-7-2008
+  tipo: fundamentado_en
+  destino: norm-pva-l-17-2023
+- origen: norm-pva-o-31-5-2024
+  tipo: fundamentado_en
+  destino: norm-pva-l-17-2023
+- origen: norm-pva-o-17-1-2023
+  tipo: desarrolla
+  destino: norm-pva-d-1-2018
+- origen: norm-pva-o-24-7-1998
+  tipo: fundamentado_en
+  destino: norm-pva-l-17-2023
+- origen: norm-pva-o-4-7-2018
+  tipo: fundamentado_en
+  destino: norm-es-rd-276-2007
+- origen: norm-pva-o-4-7-2018
+  tipo: fundamentado_en
+  destino: norm-pva-l-17-2023
 - origen: norm-val-l-1-2024
   tipo: fundamentado_en
   destino: norm-es-constitucion-1978
