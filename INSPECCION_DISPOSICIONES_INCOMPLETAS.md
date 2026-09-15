@@ -1,8 +1,8 @@
 # 📋 Informe de Inspección e Índice de Disposiciones Incompletas
 
-**Fecha de Auditoría**: `2026-09-15 20:27:52`  
-**Total de Normas Auditadas**: `784`  
-**Normas Íntegras y Conformes**: `784`  
+**Fecha de Auditoría**: `2026-09-15 21:06:44`  
+**Total de Normas Auditadas**: `800`  
+**Normas Íntegras y Conformes**: `800`  
 **Normas Incompletas o Defectuosas**: `0`  
 
 ## 📊 Resumen por Comunidad Autónoma y Ámbito
@@ -17,11 +17,11 @@
 | **Asturias** | 14 | 14 | 0 | **100.0%** |
 | **Baleares** | 14 | 14 | 0 | **100.0%** |
 | **Cantabria** | 11 | 11 | 0 | **100.0%** |
-| **Castilla La Mancha** | 9 | 9 | 0 | **100.0%** |
-| **Castilla Y León** | 9 | 9 | 0 | **100.0%** |
+| **Castilla La Mancha** | 13 | 13 | 0 | **100.0%** |
+| **Castilla Y León** | 13 | 13 | 0 | **100.0%** |
 | **Cataluña** | 8 | 8 | 0 | **100.0%** |
-| **Extremadura** | 9 | 9 | 0 | **100.0%** |
-| **Galicia** | 9 | 9 | 0 | **100.0%** |
+| **Extremadura** | 13 | 13 | 0 | **100.0%** |
+| **Galicia** | 13 | 13 | 0 | **100.0%** |
 | **La Rioja** | 9 | 9 | 0 | **100.0%** |
 | **Murcia** | 9 | 9 | 0 | **100.0%** |
 | **Navarra** | 9 | 9 | 0 | **100.0%** |
